@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Walmart](http://www.walmart.com)** | **[Pharmacy Grad Intern (Hrly) $25,000 Sign On Bonus (2026 Grad Intern Sign On Bonus Program)](https://jobright.ai/jobs/info/699c51a9ce78e77b4fe10300?utm_campaign=1058&utm_source=git)** | Tehachapi, CA | On Site | Feb 23 |
+| **[Turlock Irrigation District](https://tid.com)** | **[2026 Student Intern - Information Technology Services](https://jobright.ai/jobs/info/699c4916e0bddb6acacb3f57?utm_campaign=1058&utm_source=git)** | Turlock, CA | On Site | Feb 23 |
 | **[Great Lakes Bay Health Centers](https://greatlakesbayhealthcenters.org)** | **[Optometry Intern](https://jobright.ai/jobs/info/69801531ce48107c05443869?utm_campaign=1058&utm_source=git)** | Saginaw, MI | On Site | Feb 23 |
 | **[Corewell Health](https://corewellhealth.org)** | **[Medication History Pharmacy Intern Class of 2028 Students](https://jobright.ai/jobs/info/697fde227f40342e15d89571?utm_campaign=1058&utm_source=git)** | Grand Rapids, MI | On Site | Feb 23 |
 | **[Virginia Housing](https://www.vhda.com/Pages/Home.aspx)** | **[Software Applications Support Intern](https://jobright.ai/jobs/info/697f71b87f40342e15d82551?utm_campaign=1058&utm_source=git)** | Richmond, VA | Hybrid | Feb 23 |
@@ -96,8 +98,8 @@ For a complete list, click the following sortable link below:
 | **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE - CRNA Internship](https://jobright.ai/jobs/info/699abc2ee0bddb6acac9da49?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Feb 22 |
 | **[Fred Meyer](https://www.fredmeyer.com/)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/699ab456ce78e77b4fdf7c72?utm_campaign=1058&utm_source=git)** | Happy Valley, OR | On Site | Feb 21 |
 | **[Smith's Food & Drug Centers](https://www.smithsfoodanddrug.com/)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/699aa14ee0bddb6acac9c683?utm_campaign=1058&utm_source=git)** | Albuquerque, NM | On Site | Feb 21 |
-| ↳ | **[Pharmacist Intern #347](https://jobright.ai/jobs/info/699ac769ce78e77b4fdf8f8e?utm_campaign=1058&utm_source=git)** | Henderson, NV | On Site | Feb 21 |
 | ↳ | **[Pharmacist Intern #385](https://jobright.ai/jobs/info/699ac7c1e0bddb6acac9e117?utm_campaign=1058&utm_source=git)** | Henderson, NV | On Site | Feb 21 |
+| ↳ | **[Pharmacist Intern #347](https://jobright.ai/jobs/info/699ac769ce78e77b4fdf8f8e?utm_campaign=1058&utm_source=git)** | Henderson, NV | On Site | Feb 21 |
 | **[Driscoll's](http://www.driscolls.com)** | **[Information Services - Service Management Intern](https://jobright.ai/jobs/info/699bd081ce78e77b4fe04d47?utm_campaign=1058&utm_source=git)** | Watsonville, CA | On Site | Feb 21 |
 | **[Capps Plumbing and Sewer, Inc.](https://www.cappsplumbing.com)** | **[GLO - Information Technology Summer Intern (Clerk II)](https://jobright.ai/jobs/info/699a5d0be0bddb6acac96341?utm_campaign=1058&utm_source=git)** | Austin GLO Main FL91700 N Congress Ave | On Site | Feb 21 |
 | ↳ | **[GLO - Information Technology Summer Intern (Clerk II)](https://jobright.ai/jobs/info/699a6a9d81476f6176b30285?utm_campaign=1058&utm_source=git)** | Texas-AustinWork Locations | On Site | Feb 21 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69994bbc81476f6176b1ea95?utm_campaign=1058&utm_source=git)** | Weslaco, TX | On Site | Feb 20 |
 | **[The Beck Group](http://www.beckgroup.com)** | **[IT Help Desk Intern](https://jobright.ai/jobs/info/699926a8ce78e77b4fddd682?utm_campaign=1058&utm_source=git)** | Dallas, TX | On Site | Feb 20 |
 | **[Levy Restaurants](http://www.levyrestaurants.com/)** | **[Venue Technology Intern / Chase Field](https://jobright.ai/jobs/info/6999239c81476f6176b1a5d9?utm_campaign=1058&utm_source=git)** | Phoenix, AZ | On Site | Feb 20 |
-| **[BMO U.S.](http://www.bmoharris.com/us)** | **[Junior Support Analyst, Summer 2026 (Internship) - 10 weeks](https://jobright.ai/jobs/info/699921a0e0bddb6acac82474?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Feb 20 |
-| **[Mouser Electronics](http://mouser.com)** | **[UAT Specialist Intern](https://jobright.ai/jobs/info/699a719be0bddb6acac98a79?utm_campaign=1058&utm_source=git)** | Mansfield, TX | On Site | Feb 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
