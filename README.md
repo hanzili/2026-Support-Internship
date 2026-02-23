@@ -57,10 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Great Lakes Bay Health Centers](https://greatlakesbayhealthcenters.org)** | **[Optometry Intern](https://jobright.ai/jobs/info/69801531ce48107c05443869?utm_campaign=1058&utm_source=git)** | Saginaw, MI | On Site | Feb 23 |
+| **[Corewell Health](https://corewellhealth.org)** | **[Medication History Pharmacy Intern Class of 2028 Students](https://jobright.ai/jobs/info/697fde227f40342e15d89571?utm_campaign=1058&utm_source=git)** | Grand Rapids, MI | On Site | Feb 23 |
+| **[Virginia Housing](https://www.vhda.com/Pages/Home.aspx)** | **[Software Applications Support Intern](https://jobright.ai/jobs/info/697f71b87f40342e15d82551?utm_campaign=1058&utm_source=git)** | Richmond, VA | Hybrid | Feb 23 |
+| **[The Reynolds and Reynolds Company](https://www.reyrey.com)** | **[Technical Writing Intern](https://jobright.ai/jobs/info/694568a863141d188454e5a7?utm_campaign=1058&utm_source=git)** | Greater Houston | On Site | Feb 23 |
+| **[Badger Meter](http://badgermeter.com)** | **[IT Service Desk Intern (2029 Graduates)](https://jobright.ai/jobs/info/690ead0444146d3b6ec56ad1?utm_campaign=1058&utm_source=git)** | Milwaukee, WI | On Site | Feb 23 |
 | **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE - CRNA Internship](https://jobright.ai/jobs/info/699c1c5ece78e77b4fe0aad6?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Feb 23 |
+| **[Sigma](http://sigmacomputing.com)** | **[Technical Writing Intern (Summer 2026)](https://jobright.ai/jobs/info/699c28ac81476f6176b49272?utm_campaign=1058&utm_source=git)** | San Francisco, CA | On Site | Feb 23 |
 | **[Xometry](https://www.xometry.com)** | **[IT Service Desk Intern](https://jobright.ai/jobs/info/6944725ddd382f5f566a98cc?utm_campaign=1058&utm_source=git)** | North Bethesda, MD | Hybrid | Feb 23 |
 | **[Six Flags](https://www.sixflags.com)** | **[Rentals Leadership Internship](https://jobright.ai/jobs/info/699c04fde0bddb6acacae29c?utm_campaign=1058&utm_source=git)** | Waukegan, IL | On Site | Feb 22 |
-| **[Sigma](http://sigmacomputing.com)** | **[Technical Writing Intern (Summer 2026)](https://jobright.ai/jobs/info/699c1cb0e0bddb6acacaf9fb?utm_campaign=1058&utm_source=git)** | San Francisco, CA | On Site | Feb 22 |
 | **[Groundswell](https://gswell.com)** | **[Front Desk Administrator Intern](https://jobright.ai/jobs/info/699c1dd5ce78e77b4fe0ad09?utm_campaign=1058&utm_source=git)** | McLean, VA | On Site | Feb 22 |
 | **[Cedars-Sinai](https://www.cedars-sinai.org)** | **[Registered Nurse - Emergency Department Internship - 12-Hour Nights](https://jobright.ai/jobs/info/699bce8381476f6176b420de?utm_campaign=1058&utm_source=git)** | Beverly Hills, CA | On Site | Feb 22 |
 | ↳ | **[Registered Nurse - Medical and Respiratory Intensive Care Unit Internship - 7SCCT - 12-Hour Nights](https://jobright.ai/jobs/info/699bcd01ce78e77b4fe04b32?utm_campaign=1058&utm_source=git)** | Beverly Hills, CA | On Site | Feb 22 |
@@ -86,6 +91,7 @@ For a complete list, click the following sortable link below:
 | **[Eaton](https://www.eaton.com/us/en-us/products/emobility/expertise.html)** | **[Intern, Field Service Representative (4 to 12-month) - Dartmouth, NS Canada / Moncton, NB](https://jobright.ai/jobs/info/697e235a7f40342e15d6faf2?utm_campaign=1058&utm_source=git)** | Dartmouth, Nova Scotia, Canada | On Site | Feb 22 |
 | **[Exiger](http://www.exiger.com)** | **[Application Support Intern (Summer 2026)](https://jobright.ai/jobs/info/6961b69ef3f4cd132506bcf5?utm_campaign=1058&utm_source=git)** | New York, NY | Hybrid | Feb 22 |
 | **[Ohio Department of Transportation](http://www.epa.state.oh.us)** | **[PAID College Internship- Information Technology, PN 20054023](https://jobright.ai/jobs/info/69914ac76ea51a7610f39e1c?utm_campaign=1058&utm_source=git)** | Akron, OH | On Site | Feb 22 |
+| **[Essentia Health](https://www.essentiahealth.org/)** | **[Intern- Pharmacist](https://jobright.ai/jobs/info/699c29f0e0bddb6acacb0fd1?utm_campaign=1058&utm_source=git)** | Brainerd, MN, US | On Site | Feb 22 |
 | **[AE2S (Advanced Engineering and Environmental Services, LLC)](http://ae2s.com)** | **[IT Intern](https://jobright.ai/jobs/info/699abcdece78e77b4fdf8480?utm_campaign=1058&utm_source=git)** | Grand Forks, ND | On Site | Feb 22 |
 | **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE - CRNA Internship](https://jobright.ai/jobs/info/699abc2ee0bddb6acac9da49?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Feb 22 |
 | **[Fred Meyer](https://www.fredmeyer.com/)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/699ab456ce78e77b4fdf7c72?utm_campaign=1058&utm_source=git)** | Happy Valley, OR | On Site | Feb 21 |
@@ -123,6 +129,7 @@ For a complete list, click the following sortable link below:
 | **[Stormont Vail Health](http://www.stormontvail.org)** | **[Pharmacy Student Intern 1 (P1 & P2)](https://jobright.ai/jobs/info/6948c2ca63141d188458605b?utm_campaign=1058&utm_source=git)** | Topeka, KS | On Site | Feb 21 |
 | **[CHRISTUS Health](http://www.christushealth.org)** | **[Nurse Extern I - Nursing Internship - PRN](https://jobright.ai/jobs/info/697d39c2727747250d580948?utm_campaign=1058&utm_source=git)** | Shreveport, LA | On Site | Feb 21 |
 | **[Clune Construction Company](http://www.clunegc.com)** | **[Service Desk Intern](https://jobright.ai/jobs/info/6927725df0beb0723262a563?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Feb 21 |
+| **[Microbiologics](http://www.microbiologics.com/)** | **[Customer Experience Intern](https://jobright.ai/jobs/info/699c3816ce78e77b4fe0d7a2?utm_campaign=1058&utm_source=git)** | St Cloud, MN | On Site | Feb 21 |
 | **[South Shore Health](https://www.southshorehealth.org/)** | **[PHARMACY TECHNICIAN INTERN](https://jobright.ai/jobs/info/697d2324727747250d57dbcd?utm_campaign=1058&utm_source=git)** | Weymouth, MA | On Site | Feb 21 |
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Access Your Future Service Intern](https://jobright.ai/jobs/info/67f01f3d19a1c5e776705edf?utm_campaign=1058&utm_source=git)** | Minot, ND | On Site | Feb 21 |
 | **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[Advanced Radiology Intern - Mercy Washington - PRN](https://jobright.ai/jobs/info/69996345ce78e77b4fde3ed9?utm_campaign=1058&utm_source=git)** | Washington, MO | On Site | Feb 20 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Beck Group](http://www.beckgroup.com)** | **[IT Help Desk Intern](https://jobright.ai/jobs/info/699926a8ce78e77b4fddd682?utm_campaign=1058&utm_source=git)** | Dallas, TX | On Site | Feb 20 |
 | **[Levy Restaurants](http://www.levyrestaurants.com/)** | **[Venue Technology Intern / Chase Field](https://jobright.ai/jobs/info/6999239c81476f6176b1a5d9?utm_campaign=1058&utm_source=git)** | Phoenix, AZ | On Site | Feb 20 |
 | **[BMO U.S.](http://www.bmoharris.com/us)** | **[Junior Support Analyst, Summer 2026 (Internship) - 10 weeks](https://jobright.ai/jobs/info/699921a0e0bddb6acac82474?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Feb 20 |
-| **[Mouser Electronics](http://mouser.com)** | **[UAT Specialist Intern](https://jobright.ai/jobs/info/699a719be0bddb6acac98a79?utm_campaign=1058&utm_source=git)** | Mansfield, TX | On Site | Feb 20 |
-| **[VGM Group, Inc.](https://www.vgm.com)** | **[IT Support Intern - Waterloo, Iowa](https://jobright.ai/jobs/info/69994d9bce78e77b4fde15c3?utm_campaign=1058&utm_source=git)** | Waterloo, IA | On Site | Feb 20 |
-| **[MaineHealth](https://mainehealth.org/)** | **[Intern - TeleHealth](https://jobright.ai/jobs/info/6999164681476f6176b18efe?utm_campaign=1058&utm_source=git)** | Portland, ME | On Site | Feb 20 |
-| **[New York City Ballet](http://nycballet.com)** | **[Special Events Intern](https://jobright.ai/jobs/info/699915dc81476f6176b18e2d?utm_campaign=1058&utm_source=git)** | New York, New York, United States | Hybrid | Feb 20 |
-| **[KENT WORLDWIDE](https://kentww.com)** | **[Sales Support Specialist Intern](https://jobright.ai/jobs/info/6999106581476f6176b1840f?utm_campaign=1058&utm_source=git)** | Phoenix, Arizona, United States | On Site | Feb 20 |
-| **[City of Seattle](http://www.seattle.gov/)** | **[Warehouse Support Intern](https://jobright.ai/jobs/info/69990f9981476f6176b183cd?utm_campaign=1058&utm_source=git)** | Washington, United States | Hybrid | Feb 20 |
-| **[Shoppers Drug Mart](http://www.shoppersdrugmart.ca)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69993853ce78e77b4fddf3ac?utm_campaign=1058&utm_source=git)** | Calgary, Alberta, Canada | On Site | Feb 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
