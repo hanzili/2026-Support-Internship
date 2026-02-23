@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Groundswell](https://gswell.com)** | **[Front Desk Administrator Intern](https://jobright.ai/jobs/info/699bf002e0bddb6acacada91?utm_campaign=1058&utm_source=git)** | McLean, VA | On Site | Feb 22 |
 | **[Cedars-Sinai](https://www.cedars-sinai.org)** | **[Registered Nurse - Emergency Department Internship - 12-Hour Nights](https://jobright.ai/jobs/info/699bce8381476f6176b420de?utm_campaign=1058&utm_source=git)** | Beverly Hills, CA | On Site | Feb 22 |
 | ↳ | **[Registered Nurse - Medical and Respiratory Intensive Care Unit Internship - 7SCCT - 12-Hour Nights](https://jobright.ai/jobs/info/699bcd01ce78e77b4fe04b32?utm_campaign=1058&utm_source=git)** | Beverly Hills, CA | On Site | Feb 22 |
 | **[Temple Health – Temple University Health System](https://www.templehealth.org/)** | **[PHARMACY INTERN (PT; 15hrs/wk) - Temple Health/Fox Chase Cancer Center](https://jobright.ai/jobs/info/699bc3a8ce78e77b4fe03f20?utm_campaign=1058&utm_source=git)** | Philadelphia, PA | On Site | Feb 22 |
@@ -86,8 +87,8 @@ For a complete list, click the following sortable link below:
 | **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE - CRNA Internship](https://jobright.ai/jobs/info/699abc2ee0bddb6acac9da49?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Feb 22 |
 | **[Fred Meyer](https://www.fredmeyer.com/)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/699ab456ce78e77b4fdf7c72?utm_campaign=1058&utm_source=git)** | Happy Valley, OR | On Site | Feb 21 |
 | **[Smith's Food & Drug Centers](https://www.smithsfoodanddrug.com/)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/699aa14ee0bddb6acac9c683?utm_campaign=1058&utm_source=git)** | Albuquerque, NM | On Site | Feb 21 |
-| ↳ | **[Pharmacist Intern #347](https://jobright.ai/jobs/info/699ac769ce78e77b4fdf8f8e?utm_campaign=1058&utm_source=git)** | Henderson, NV | On Site | Feb 21 |
 | ↳ | **[Pharmacist Intern #385](https://jobright.ai/jobs/info/699ac7c1e0bddb6acac9e117?utm_campaign=1058&utm_source=git)** | Henderson, NV | On Site | Feb 21 |
+| ↳ | **[Pharmacist Intern #347](https://jobright.ai/jobs/info/699ac769ce78e77b4fdf8f8e?utm_campaign=1058&utm_source=git)** | Henderson, NV | On Site | Feb 21 |
 | **[Driscoll's](http://www.driscolls.com)** | **[Information Services - Service Management Intern](https://jobright.ai/jobs/info/699bd081ce78e77b4fe04d47?utm_campaign=1058&utm_source=git)** | Watsonville, CA | On Site | Feb 21 |
 | **[Capps Plumbing and Sewer, Inc.](https://www.cappsplumbing.com)** | **[GLO - Information Technology Summer Intern (Clerk II)](https://jobright.ai/jobs/info/699a5d0be0bddb6acac96341?utm_campaign=1058&utm_source=git)** | Austin GLO Main FL91700 N Congress Ave | On Site | Feb 21 |
 | ↳ | **[GLO - Information Technology Summer Intern (Clerk II)](https://jobright.ai/jobs/info/699a6a9d81476f6176b30285?utm_campaign=1058&utm_source=git)** | Texas-AustinWork Locations | On Site | Feb 21 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Shoppers Drug Mart](http://www.shoppersdrugmart.ca)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69993853ce78e77b4fddf3ac?utm_campaign=1058&utm_source=git)** | Calgary, Alberta, Canada | On Site | Feb 20 |
 | **[CoorsTek, Inc.](https://www.coorstek.com)** | **[Records Management Clerk Intern](https://jobright.ai/jobs/info/6999363d81476f6176b1c2ab?utm_campaign=1058&utm_source=git)** | Golden, CO | On Site | Feb 20 |
 | **[BMO](http://www.bmo.com)** | **[Junior Desktop Support Intern, Summer 2026 (Co-op/Internship) - 4 months](https://jobright.ai/jobs/info/69992676ce78e77b4fddd62f?utm_campaign=1058&utm_source=git)** | Calgary, Alberta, Canada | On Site | Feb 20 |
-| **[Kenworth Truck Co.](http://www.kenworth.com/)** | **[Summer Intern- IT Technical Support Analyst](https://jobright.ai/jobs/info/69992755e0bddb6acac8302a?utm_campaign=1058&utm_source=git)** | Renton, WA | On Site | Feb 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
