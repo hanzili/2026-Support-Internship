@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fingerpaint Group](https://www.fingerpaint.com/)** | **[Information Technology Intern](https://jobright.ai/jobs/info/699ccfadce78e77b4fe18bb2?utm_campaign=1058&utm_source=git)** | Cedar Knolls, NJ | Hybrid | Feb 23 |
+| **[St. Elizabeth Healthcare](http://www.stelizabeth.com/)** | **[Intern Pharmacy Inpatient](https://jobright.ai/jobs/info/699ccee1ce78e77b4fe18b29?utm_campaign=1058&utm_source=git)** | Edgewood, KY | On Site | Feb 23 |
 | **[Cohen & Co](http://www.cohencpa.com)** | **[End User Technologies Intern, Summer 2026](https://jobright.ai/jobs/info/699cc8ce81476f6176b55a68?utm_campaign=1058&utm_source=git)** | Greater Cleveland | Hybrid | Feb 23 |
 | ↳ | **[End User Technologies Intern, Summer 2026](https://jobright.ai/jobs/info/699cc7dc81476f6176b559ab?utm_campaign=1058&utm_source=git)** | Akron, OH | Hybrid | Feb 23 |
 | **[IBM](http://www.ibm.com)** | **[Tech Support Co-Op Fall 2026](https://jobright.ai/jobs/info/699cc47181476f6176b5570c?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | Feb 23 |
@@ -78,10 +80,11 @@ For a complete list, click the following sortable link below:
 | **[Pacific Seafood](https://www.pacificseafood.com/)** | **[Logistics Support Intern](https://jobright.ai/jobs/info/699cbab4ce78e77b4fe17be1?utm_campaign=1058&utm_source=git)** | Snohomish County, WA | On Site | Feb 23 |
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Access Your Future Service Intern](https://jobright.ai/jobs/info/68ba32e76105227d1189b8f4?utm_campaign=1058&utm_source=git)** | Fort Worth, TX | On Site | Feb 23 |
 | **[LCMC Health](https://www.lcmchealth.org/)** | **[Pharmacist - Student Licensed Intern](https://jobright.ai/jobs/info/699cc432e0bddb6acacbd2fa?utm_campaign=1058&utm_source=git)** | East Jefferson General Hospital | On Site | Feb 23 |
-| **[Cohen & Co](http://www.cohencpa.com)** | **[End User Technologies Intern, Summer 2026](https://jobright.ai/jobs/info/699cbed881476f6176b552ec?utm_campaign=1058&utm_source=git)** | US-OH-Akron | Hybrid | Feb 23 |
+| **[Cohen & Co](http://www.cohencpa.com)** | **[End User Technologies Intern, Summer 2026](https://jobright.ai/jobs/info/699cc733ce78e77b4fe1854d?utm_campaign=1058&utm_source=git)** | Cleveland, OH, US | Hybrid | Feb 23 |
 | ↳ | **[End User Technologies Intern, Summer 2026](https://jobright.ai/jobs/info/699cc6f0e0bddb6acacbd4fd?utm_campaign=1058&utm_source=git)** | US-OH-Youngstown | Hybrid | Feb 23 |
-| ↳ | **[End User Technologies Intern, Summer 2026](https://jobright.ai/jobs/info/699cc733ce78e77b4fe1854d?utm_campaign=1058&utm_source=git)** | Cleveland, OH, US | Hybrid | Feb 23 |
-| **[Fulton Bank](https://www.fultonbank.com/)** | **[Military Internship - IT Support Center](https://jobright.ai/jobs/info/699cc50b81476f6176b5578e?utm_campaign=1058&utm_source=git)** | Lancaster, PA, US | Hybrid | Feb 23 |
+| ↳ | **[End User Technologies Intern, Summer 2026](https://jobright.ai/jobs/info/699cbed881476f6176b552ec?utm_campaign=1058&utm_source=git)** | US-OH-Akron | Hybrid | Feb 23 |
+| **[Fulton Bank](https://www.fultonbank.com/)** | **[Military Internship - IT Support Center](https://jobright.ai/jobs/info/699ccef0e0bddb6acacbdadc?utm_campaign=1058&utm_source=git)** | US-PA-Lancaster | Hybrid | Feb 23 |
+| ↳ | **[Military Internship - IT Support Center](https://jobright.ai/jobs/info/699cc50b81476f6176b5578e?utm_campaign=1058&utm_source=git)** | Lancaster, PA, US | Hybrid | Feb 23 |
 | **[Renaissance Shoals Resort & Spa](www.RenShoals.com)** | **[Intern/Extern](https://jobright.ai/jobs/info/699cbccd81476f6176b55139?utm_campaign=1058&utm_source=git)** | Point Clear, Alabama, United States | On Site | Feb 23 |
 | **[The Ohio State University Wexner Medical Center](http://wexnermedical.osu.edu/)** | **[Pharmacy Intern 1 - Investigational Drug Services](https://jobright.ai/jobs/info/699c96f681476f6176b53234?utm_campaign=1058&utm_source=git)** | Columbus, OH | On Site | Feb 23 |
 | **[Maverick](https://www.maverickbuilders.com)** | **[Client Services Coordinator Intern - Summer](https://jobright.ai/jobs/info/699c9574ce78e77b4fe15e24?utm_campaign=1058&utm_source=git)** | St. Petersburg, FL, US | Hybrid | Feb 23 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AE2S (Advanced Engineering and Environmental Services, LLC)](http://ae2s.com)** | **[IT Intern](https://jobright.ai/jobs/info/699abcdece78e77b4fdf8480?utm_campaign=1058&utm_source=git)** | Grand Forks, ND | On Site | Feb 22 |
 | **[Fred Meyer](https://www.fredmeyer.com/)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/699ab456ce78e77b4fdf7c72?utm_campaign=1058&utm_source=git)** | Happy Valley, OR | On Site | Feb 21 |
 | **[Smith's Food & Drug Centers](https://www.smithsfoodanddrug.com/)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/699aa14ee0bddb6acac9c683?utm_campaign=1058&utm_source=git)** | Albuquerque, NM | On Site | Feb 21 |
-| ↳ | **[Pharmacist Intern #347](https://jobright.ai/jobs/info/699ac769ce78e77b4fdf8f8e?utm_campaign=1058&utm_source=git)** | Henderson, NV | On Site | Feb 21 |
-| ↳ | **[Pharmacist Intern #385](https://jobright.ai/jobs/info/699ac7c1e0bddb6acac9e117?utm_campaign=1058&utm_source=git)** | Henderson, NV | On Site | Feb 21 |
-| **[Driscoll's](http://www.driscolls.com)** | **[Information Services - Service Management Intern](https://jobright.ai/jobs/info/699bd081ce78e77b4fe04d47?utm_campaign=1058&utm_source=git)** | Watsonville, CA | On Site | Feb 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
