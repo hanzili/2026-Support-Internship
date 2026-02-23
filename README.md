@@ -57,12 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE - CRNA Internship](https://jobright.ai/jobs/info/699c1c5ece78e77b4fe0aad6?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Feb 23 |
 | **[Xometry](https://www.xometry.com)** | **[IT Service Desk Intern](https://jobright.ai/jobs/info/6944725ddd382f5f566a98cc?utm_campaign=1058&utm_source=git)** | North Bethesda, MD | Hybrid | Feb 23 |
 | **[Six Flags](https://www.sixflags.com)** | **[Rentals Leadership Internship](https://jobright.ai/jobs/info/699c04fde0bddb6acacae29c?utm_campaign=1058&utm_source=git)** | Waukegan, IL | On Site | Feb 22 |
-| **[Groundswell](https://gswell.com)** | **[Front Desk Administrator Intern](https://jobright.ai/jobs/info/699bf002e0bddb6acacada91?utm_campaign=1058&utm_source=git)** | McLean, VA | On Site | Feb 22 |
+| **[Sigma](http://sigmacomputing.com)** | **[Technical Writing Intern (Summer 2026)](https://jobright.ai/jobs/info/699c1cb0e0bddb6acacaf9fb?utm_campaign=1058&utm_source=git)** | San Francisco, CA | On Site | Feb 22 |
+| **[Groundswell](https://gswell.com)** | **[Front Desk Administrator Intern](https://jobright.ai/jobs/info/699c1dd5ce78e77b4fe0ad09?utm_campaign=1058&utm_source=git)** | McLean, VA | On Site | Feb 22 |
 | **[Cedars-Sinai](https://www.cedars-sinai.org)** | **[Registered Nurse - Emergency Department Internship - 12-Hour Nights](https://jobright.ai/jobs/info/699bce8381476f6176b420de?utm_campaign=1058&utm_source=git)** | Beverly Hills, CA | On Site | Feb 22 |
 | ↳ | **[Registered Nurse - Medical and Respiratory Intensive Care Unit Internship - 7SCCT - 12-Hour Nights](https://jobright.ai/jobs/info/699bcd01ce78e77b4fe04b32?utm_campaign=1058&utm_source=git)** | Beverly Hills, CA | On Site | Feb 22 |
-| **[Temple Health – Temple University Health System](https://www.templehealth.org/)** | **[PHARMACY INTERN (PT; 15hrs/wk) - Temple Health/Fox Chase Cancer Center](https://jobright.ai/jobs/info/699bc3a8ce78e77b4fe03f20?utm_campaign=1058&utm_source=git)** | Philadelphia, PA | On Site | Feb 22 |
 | **[Perkins Eastman](http://www.perkinseastman.com)** | **[2026 Summer Internship - Information Technology - New York](https://jobright.ai/jobs/info/69752bf4206da320f49f3bbd?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Feb 22 |
 | **[General Dynamics](https://www.gd.com)** | **[Integrated Logistics Support Intern](https://jobright.ai/jobs/info/699bb33c81476f6176b40869?utm_campaign=1058&utm_source=git)** | US-AZ-Scottsdale | Hybrid | Feb 22 |
 | **[Volunteer Success](http://volunteersuccess.com)** | **[YRES Booth Assistant (International Day for the El...](https://jobright.ai/jobs/info/699bac6981476f6176b4056e?utm_campaign=1058&utm_source=git)** | Markham, Ontario, Canada | On Site | Feb 22 |
@@ -74,8 +75,7 @@ For a complete list, click the following sortable link below:
 | **[Texas Department of Transportation](https://www.txdot.gov)** | **[Intern Support Technician- San Antonio](https://jobright.ai/jobs/info/699b4ea681476f6176b3c3d2?utm_campaign=1058&utm_source=git)** | San Antonio, Texas Metropolitan Area | On Site | Feb 22 |
 | **[Yardi](https://www.yardi.com)** | **[Intern, Associate Technical Account Manager](https://jobright.ai/jobs/info/699b2b8ce0bddb6acaca27e6?utm_campaign=1058&utm_source=git)** | New York, NY | Hybrid | Feb 22 |
 | **[RÖDL USA](http://www.roedl.us)** | **[Praktikant (w/m/d)](https://jobright.ai/jobs/info/68cd9657b2a74e1837ed9323?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Feb 22 |
-| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE - CRNA Internship](https://jobright.ai/jobs/info/699b0cd0e0bddb6acaca2458?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Feb 22 |
-| ↳ | **[REGISTERED NURSE - Neonatal Nurse Practitioner Internship (Brandon NICU and Von Voigtlander Women's Hospital)](https://jobright.ai/jobs/info/699b0b5bce78e77b4fdfcfd8?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Feb 22 |
+| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE - Neonatal Nurse Practitioner Internship (Brandon NICU and Von Voigtlander Women's Hospital)](https://jobright.ai/jobs/info/699b0b5bce78e77b4fdfcfd8?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Feb 22 |
 | **[RÖDL USA](http://www.roedl.us)** | **[Praktikant (w/m/d)](https://jobright.ai/jobs/info/6875a21b5cebcd1dd51c233d?utm_campaign=1058&utm_source=git)** | Detroit, MI | On Site | Feb 22 |
 | **[Yardi](https://www.yardi.com)** | **[Intern, Associate Technical Account Manager](https://jobright.ai/jobs/info/699c0c86e0bddb6acacae810?utm_campaign=1058&utm_source=git)** | Irving, TX | Hybrid | Feb 22 |
 | **[Xometry](https://www.xometry.com)** | **[Manual Quoting Intern](https://jobright.ai/jobs/info/6945b303951654073537ce11?utm_campaign=1058&utm_source=git)** | Lexington, KY | Hybrid | Feb 22 |
@@ -97,7 +97,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[GLO - Information Technology Summer Intern (Clerk II)](https://jobright.ai/jobs/info/699a6a9d81476f6176b30285?utm_campaign=1058&utm_source=git)** | Texas-AustinWork Locations | On Site | Feb 21 |
 | **[Peace Wapiti Public School Division](https://www.pwpsd.ca/)** | **[IT Summer Student](https://jobright.ai/jobs/info/699a13f2ce78e77b4fdedb6e?utm_campaign=1058&utm_source=git)** | Medicine Hat, Alberta, Canada | On Site | Feb 21 |
 | **[CHI](https://www.catholichealthinitiatives.org/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/699a08cfce78e77b4fded5ad?utm_campaign=1058&utm_source=git)** | Chattanooga, TN | On Site | Feb 21 |
-| **[Charles River Laboratories](http://www.criver.com)** | **[2026 Summer Intern - Lab Support](https://jobright.ai/jobs/info/69971999e0bddb6acac5d295?utm_campaign=1058&utm_source=git)** | Shrewsbury, MA | On Site | Feb 21 |
 | **[Geisinger](https://www.geisinger.org)** | **[Pharmacy Technician Intern](https://jobright.ai/jobs/info/6999f324ce78e77b4fded172?utm_campaign=1058&utm_source=git)** | Lewistown, PA | On Site | Feb 21 |
 | **[Froedtert Health](http://www.froedtert.com)** | **[RESPIRATORY CARE INTERN II](https://jobright.ai/jobs/info/6999e7bfce78e77b4fdecf59?utm_campaign=1058&utm_source=git)** | Milwaukee, WI | On Site | Feb 21 |
 | **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[IT Plant Systems Intern](https://jobright.ai/jobs/info/6961893ef3f4cd13250697ca?utm_campaign=1058&utm_source=git)** | Shippensburg, PA | On Site | Feb 21 |
@@ -129,6 +128,7 @@ For a complete list, click the following sortable link below:
 | **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[Advanced Radiology Intern - Mercy Washington - PRN](https://jobright.ai/jobs/info/69996345ce78e77b4fde3ed9?utm_campaign=1058&utm_source=git)** | Washington, MO | On Site | Feb 20 |
 | **[JetZero](https://www.jetzero.aero)** | **[2026 IT Summer Internship](https://jobright.ai/jobs/info/69995933ce78e77b4fde27be?utm_campaign=1058&utm_source=git)** | Long Beach, CA | On Site | Feb 20 |
 | **[Jewel-Osco](http://www.jewelosco.com)** | **[Pharmacy Summer Intern - Jewel Osco](https://jobright.ai/jobs/info/699aac92ce78e77b4fdf7277?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Feb 20 |
+| **[Aegis Aerospace Inc.](https://aegisaero.com/)** | **[DoD SkillBridge Internship – Information Technology Help Desk with Security Clearance](https://jobright.ai/jobs/info/699c13e5e0bddb6acacaee66?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Feb 20 |
 | **[Sayari](https://sayari.com)** | **[IT Intern](https://jobright.ai/jobs/info/69994a1a81476f6176b1e662?utm_campaign=1058&utm_source=git)** | Washington, DC | On Site | Feb 20 |
 | **[Providence Health & Services](https://www.providence.org/)** | **[Clinical Student Intern – Surgery General](https://jobright.ai/jobs/info/699aa08881476f6176b34363?utm_campaign=1058&utm_source=git)** | Polson, MT | On Site | Feb 20 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/699941fee0bddb6acac85d21?utm_campaign=1058&utm_source=git)** | Scranton, PA | On Site | Feb 20 |
