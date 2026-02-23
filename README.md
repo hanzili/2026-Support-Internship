@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Temple Health – Temple University Health System](https://www.templehealth.org/)** | **[PHARMACY INTERN (PT; 15hrs/wk) - Temple Health/Fox Chase Cancer Center](https://jobright.ai/jobs/info/699bc3a8ce78e77b4fe03f20?utm_campaign=1058&utm_source=git)** | Philadelphia, PA | On Site | Feb 22 |
 | **[Perkins Eastman](http://www.perkinseastman.com)** | **[2026 Summer Internship - Information Technology - New York](https://jobright.ai/jobs/info/69752bf4206da320f49f3bbd?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Feb 22 |
 | **[General Dynamics](https://www.gd.com)** | **[Integrated Logistics Support Intern](https://jobright.ai/jobs/info/699bb33c81476f6176b40869?utm_campaign=1058&utm_source=git)** | US-AZ-Scottsdale | Hybrid | Feb 22 |
 | **[Volunteer Success](http://volunteersuccess.com)** | **[YRES Booth Assistant (International Day for the El...](https://jobright.ai/jobs/info/699bac6981476f6176b4056e?utm_campaign=1058&utm_source=git)** | Markham, Ontario, Canada | On Site | Feb 22 |
+| **[General Dynamics](https://www.gd.com)** | **[Integrated Logistics Support Intern](https://jobright.ai/jobs/info/699bbe00e0bddb6acaca8ebe?utm_campaign=1058&utm_source=git)** | Scottsdale, AZ, US | Hybrid | Feb 22 |
 | **[Xometry](https://www.xometry.com)** | **[Case Management Intern](https://jobright.ai/jobs/info/6943e68d94730b7398771073?utm_campaign=1058&utm_source=git)** | Lexington, KY | Hybrid | Feb 22 |
 | **[Cedars-Sinai](https://www.cedars-sinai.org)** | **[Registered Nurse - Emergency Department Internship - 12-Hour Days](https://jobright.ai/jobs/info/699b78ccce78e77b4fe01416?utm_campaign=1058&utm_source=git)** | Beverly Hills, CA | On Site | Feb 22 |
 | ↳ | **[Registered Nurse - Neuroscience Intensive Care Unit Internship - 8SCCT - 12-Hour Nights](https://jobright.ai/jobs/info/699b7534ce78e77b4fe013c9?utm_campaign=1058&utm_source=git)** | Beverly Hills, CA | On Site | Feb 22 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kenworth Truck Co.](http://www.kenworth.com/)** | **[Summer Intern- IT Technical Support Analyst](https://jobright.ai/jobs/info/69992755e0bddb6acac8302a?utm_campaign=1058&utm_source=git)** | Renton, WA | On Site | Feb 20 |
 | **[BMO U.S.](http://www.bmoharris.com/us)** | **[Junior Trade Floor Support Desktop Engineer, Summer 2026 (Internship) - 10 weeks](https://jobright.ai/jobs/info/699928e481476f6176b1b00f?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Feb 20 |
 | **[Brown University Health](https://www.brownhealth.org)** | **[Medical Assistant Intern](https://jobright.ai/jobs/info/699929dace78e77b4fdddd20?utm_campaign=1058&utm_source=git)** | North Dartmouth, MA | On Site | Feb 20 |
-| **[Two Rivers Marketing](http://tworiversmarketing.com)** | **[IT Support Intern - Waterloo, Iowa](https://jobright.ai/jobs/info/69991732e0bddb6acac81174?utm_campaign=1058&utm_source=git)** | Waterloo, IA, US | On Site | Feb 20 |
-| **[Rare](https://rare.org/#)** | **[Rare Technology, Help Desk Intern](https://jobright.ai/jobs/info/69992910e0bddb6acac83331?utm_campaign=1058&utm_source=git)** | Arlington, VA, US | Hybrid | Feb 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
