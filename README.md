@@ -66,6 +66,7 @@ For a complete list, click the following sortable link below:
 | **[Sigma](http://sigmacomputing.com)** | **[Technical Writing Intern (Summer 2026)](https://jobright.ai/jobs/info/699c28ac81476f6176b49272?utm_campaign=1058&utm_source=git)** | San Francisco, CA | On Site | Feb 23 |
 | **[Xometry](https://www.xometry.com)** | **[IT Service Desk Intern](https://jobright.ai/jobs/info/6944725ddd382f5f566a98cc?utm_campaign=1058&utm_source=git)** | North Bethesda, MD | Hybrid | Feb 23 |
 | **[Six Flags](https://www.sixflags.com)** | **[Rentals Leadership Internship](https://jobright.ai/jobs/info/699c04fde0bddb6acacae29c?utm_campaign=1058&utm_source=git)** | Waukegan, IL | On Site | Feb 22 |
+| **[Sigma](http://sigmacomputing.com)** | **[Technical Writing Intern (Summer 2026)](https://jobright.ai/jobs/info/699c1cb0e0bddb6acacaf9fb?utm_campaign=1058&utm_source=git)** | San Francisco, CA | On Site | Feb 22 |
 | **[Groundswell](https://gswell.com)** | **[Front Desk Administrator Intern](https://jobright.ai/jobs/info/699c1dd5ce78e77b4fe0ad09?utm_campaign=1058&utm_source=git)** | McLean, VA | On Site | Feb 22 |
 | **[Cedars-Sinai](https://www.cedars-sinai.org)** | **[Registered Nurse - Emergency Department Internship - 12-Hour Nights](https://jobright.ai/jobs/info/699bce8381476f6176b420de?utm_campaign=1058&utm_source=git)** | Beverly Hills, CA | On Site | Feb 22 |
 | ↳ | **[Registered Nurse - Medical and Respiratory Intensive Care Unit Internship - 7SCCT - 12-Hour Nights](https://jobright.ai/jobs/info/699bcd01ce78e77b4fe04b32?utm_campaign=1058&utm_source=git)** | Beverly Hills, CA | On Site | Feb 22 |
@@ -80,8 +81,7 @@ For a complete list, click the following sortable link below:
 | **[Texas Department of Transportation](https://www.txdot.gov)** | **[Intern Support Technician- San Antonio](https://jobright.ai/jobs/info/699b4ea681476f6176b3c3d2?utm_campaign=1058&utm_source=git)** | San Antonio, Texas Metropolitan Area | On Site | Feb 22 |
 | **[Yardi](https://www.yardi.com)** | **[Intern, Associate Technical Account Manager](https://jobright.ai/jobs/info/699b2b8ce0bddb6acaca27e6?utm_campaign=1058&utm_source=git)** | New York, NY | Hybrid | Feb 22 |
 | **[RÖDL USA](http://www.roedl.us)** | **[Praktikant (w/m/d)](https://jobright.ai/jobs/info/68cd9657b2a74e1837ed9323?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Feb 22 |
-| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE - Neonatal Nurse Practitioner Internship (Brandon NICU and Von Voigtlander Women's Hospital)](https://jobright.ai/jobs/info/699b0b5bce78e77b4fdfcfd8?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Feb 22 |
-| **[RÖDL USA](http://www.roedl.us)** | **[Praktikant (w/m/d)](https://jobright.ai/jobs/info/6875a21b5cebcd1dd51c233d?utm_campaign=1058&utm_source=git)** | Detroit, MI | On Site | Feb 22 |
+| ↳ | **[Praktikant (w/m/d)](https://jobright.ai/jobs/info/6875a21b5cebcd1dd51c233d?utm_campaign=1058&utm_source=git)** | Detroit, MI | On Site | Feb 22 |
 | **[Yardi](https://www.yardi.com)** | **[Intern, Associate Technical Account Manager](https://jobright.ai/jobs/info/699c0c86e0bddb6acacae810?utm_campaign=1058&utm_source=git)** | Irving, TX | Hybrid | Feb 22 |
 | **[Xometry](https://www.xometry.com)** | **[Manual Quoting Intern](https://jobright.ai/jobs/info/6945b303951654073537ce11?utm_campaign=1058&utm_source=git)** | Lexington, KY | Hybrid | Feb 22 |
 | ↳ | **[Manual Quoting Intern](https://jobright.ai/jobs/info/6945b2d763141d18845540c9?utm_campaign=1058&utm_source=git)** | North Bethesda, MD | Hybrid | Feb 22 |
@@ -129,7 +129,6 @@ For a complete list, click the following sortable link below:
 | **[Stormont Vail Health](http://www.stormontvail.org)** | **[Pharmacy Student Intern 1 (P1 & P2)](https://jobright.ai/jobs/info/6948c2ca63141d188458605b?utm_campaign=1058&utm_source=git)** | Topeka, KS | On Site | Feb 21 |
 | **[CHRISTUS Health](http://www.christushealth.org)** | **[Nurse Extern I - Nursing Internship - PRN](https://jobright.ai/jobs/info/697d39c2727747250d580948?utm_campaign=1058&utm_source=git)** | Shreveport, LA | On Site | Feb 21 |
 | **[Clune Construction Company](http://www.clunegc.com)** | **[Service Desk Intern](https://jobright.ai/jobs/info/6927725df0beb0723262a563?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Feb 21 |
-| **[Microbiologics](http://www.microbiologics.com/)** | **[Customer Experience Intern](https://jobright.ai/jobs/info/699c3816ce78e77b4fe0d7a2?utm_campaign=1058&utm_source=git)** | St Cloud, MN | On Site | Feb 21 |
 | **[South Shore Health](https://www.southshorehealth.org/)** | **[PHARMACY TECHNICIAN INTERN](https://jobright.ai/jobs/info/697d2324727747250d57dbcd?utm_campaign=1058&utm_source=git)** | Weymouth, MA | On Site | Feb 21 |
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Access Your Future Service Intern](https://jobright.ai/jobs/info/67f01f3d19a1c5e776705edf?utm_campaign=1058&utm_source=git)** | Minot, ND | On Site | Feb 21 |
 | **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[Advanced Radiology Intern - Mercy Washington - PRN](https://jobright.ai/jobs/info/69996345ce78e77b4fde3ed9?utm_campaign=1058&utm_source=git)** | Washington, MO | On Site | Feb 20 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[The Beck Group](http://www.beckgroup.com)** | **[IT Help Desk Intern](https://jobright.ai/jobs/info/699926a8ce78e77b4fddd682?utm_campaign=1058&utm_source=git)** | Dallas, TX | On Site | Feb 20 |
 | **[Levy Restaurants](http://www.levyrestaurants.com/)** | **[Venue Technology Intern / Chase Field](https://jobright.ai/jobs/info/6999239c81476f6176b1a5d9?utm_campaign=1058&utm_source=git)** | Phoenix, AZ | On Site | Feb 20 |
 | **[BMO U.S.](http://www.bmoharris.com/us)** | **[Junior Support Analyst, Summer 2026 (Internship) - 10 weeks](https://jobright.ai/jobs/info/699921a0e0bddb6acac82474?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Feb 20 |
+| **[Mouser Electronics](http://mouser.com)** | **[UAT Specialist Intern](https://jobright.ai/jobs/info/699a719be0bddb6acac98a79?utm_campaign=1058&utm_source=git)** | Mansfield, TX | On Site | Feb 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
