@@ -57,15 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Specialty1 Partners](https://specialty1partners.com)** | **[Clinical Intern](https://jobright.ai/jobs/info/699f7326ce78e77b4fe534df?utm_campaign=1058&utm_source=git)** | Cary, North Carolina, United States | On Site | Feb 25 |
 | **[Alarm Detection Systems](https://www.adsalarm.com)** | **[IT Intern](https://jobright.ai/jobs/info/699f581e94ef206f184e7f42?utm_campaign=1058&utm_source=git)** | Aurora, IL | On Site | Feb 25 |
 | **[Franklin Templeton](http://www.franklintempleton.com)** | **[Undergrad Intern – Client Representative: Global Shareholder Services](https://jobright.ai/jobs/info/699f581181476f6176b8f440?utm_campaign=1058&utm_source=git)** | Rancho Cordova, California, United States of America | Hybrid | Feb 25 |
 | **[RPM Living](https://www.rpmliving.com/)** | **[Intern, Corporate Managed Services & Implementation](https://jobright.ai/jobs/info/699f56eb81476f6176b8f379?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | Feb 25 |
 | **[Berkshire Hathaway GUARD Insurance Companies](https://www.guard.com)** | **[Agency Services Intern](https://jobright.ai/jobs/info/699f5253ce78e77b4fe51f25?utm_campaign=1058&utm_source=git)** | Wilkes Barre, PA, US | Hybrid | Feb 25 |
 | **[Paradies Lagardère](https://paradieslagardere.com/)** | **[IT Intern](https://jobright.ai/jobs/info/699f4b3a94ef206f184e75a8?utm_campaign=1058&utm_source=git)** | Atlanta, Georgia, United States | On Site | Feb 25 |
+| **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[Radiology Intern II - PRN](https://jobright.ai/jobs/info/699f71fa23374b3b6e6b4668?utm_campaign=1058&utm_source=git)** | Mercy Hospital NW Arkansas | On Site | Feb 25 |
 | **[The Christ Hospital Health Network](https://www.thechristhospital.com/)** | **[Clinical Intern](https://jobright.ai/jobs/info/699f41e894ef206f184e69e8?utm_campaign=1058&utm_source=git)** | 2139 AUBURN AVE, Cincinnati, OH, 45219, US | On Site | Feb 25 |
 | **[Tampa Electric](http://www.tampaelectric.com)** | **[Summer 2026 - IT Customer Experience - Student Internship](https://jobright.ai/jobs/info/698a23124db8972cecff6989?utm_campaign=1058&utm_source=git)** | Tampa, FL | On Site | Feb 25 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[LEXINGTON PHARMACY INTERN](https://jobright.ai/jobs/info/699f3fb0ce78e77b4fe5133d?utm_campaign=1058&utm_source=git)** | 4101 Tates Creek Centre Drive, Lexington, KY, 40517, US | On Site | Feb 25 |
 | **[(USTA) United States Tennis Association](http://www.usta.com)** | **[Undergraduate Intern Summer 2026 - Technology](https://jobright.ai/jobs/info/69669ecf7a34f53920551c52?utm_campaign=1058&utm_source=git)** | Queens, NY | Hybrid | Feb 25 |
+| **[Naples Comprehensive Health - NCH](http://www.nchmd.org/)** | **[Medical Group Research Intern FR](https://jobright.ai/jobs/info/69936bb7ce78e77b4fd7400d?utm_campaign=1058&utm_source=git)** | Naples, FL | On Site | Feb 25 |
 | **[Northwell Health](https://feinstein.northwell.edu/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/699f3da881476f6176b8e3e1?utm_campaign=1058&utm_source=git)** | 300 Community Drive, Manhasset, NY, 11030, US | On Site | Feb 25 |
 | **[Manulife](http://www.manulife.com/)** | **[Access Management Analyst (intern)](https://jobright.ai/jobs/info/699f6a2181476f6176b900db?utm_campaign=1058&utm_source=git)** | Oakville, Ontario | Hybrid | Feb 25 |
 | **[Berkshire Hathaway GUARD Insurance Companies](https://www.guard.com)** | **[Agency Services Intern](https://jobright.ai/jobs/info/699f5c5c94ef206f184e8290?utm_campaign=1058&utm_source=git)** | US-PA-Wilkes Barre | Hybrid | Feb 25 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Jacobs](http://www.jacobs.com)** | **[Equipment and Field Support Intern – British Columbia (Burnaby)](https://jobright.ai/jobs/info/699e448c81476f6176b72f3e?utm_campaign=1058&utm_source=git)** | Burnaby, British Columbia, Canada | Hybrid | Feb 24 |
 | **[Sprinklr](http://www.sprinklr.com)** | **[Professional Services Intern](https://jobright.ai/jobs/info/699e3ceae0bddb6acacd99b6?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | Feb 24 |
 | **[Red Hat](http://www.redhat.com)** | **[Technical Support Engineer Intern](https://jobright.ai/jobs/info/699e1982ce78e77b4fe33010?utm_campaign=1058&utm_source=git)** | Raleigh, NC | On Site | Feb 24 |
-| **[Sentara Health](http://www.sentara.com)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/699e6be3e0bddb6acacdf7bd?utm_campaign=1058&utm_source=git)** | Norfolk, VA | Hybrid | Feb 24 |
-| **[Cox Enterprises](http://coxenterprises.com)** | **[Vendor Management Intern - Charlotte, NC, Summer 2026](https://jobright.ai/jobs/info/699e737981476f6176b78c8a?utm_campaign=1058&utm_source=git)** | Cherryville NC | Hybrid | Feb 24 |
-| ↳ | **[Vendor Management Intern - Charlotte, NC, Summer 2026](https://jobright.ai/jobs/info/699e57bbe0bddb6acacdcfb0?utm_campaign=1058&utm_source=git)** | Atlanta GA | Hybrid | Feb 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
