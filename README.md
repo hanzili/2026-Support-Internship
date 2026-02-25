@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Berkshire Hathaway GUARD Insurance Companies](https://www.guard.com)** | **[Agency Services Intern](https://jobright.ai/jobs/info/699f5253ce78e77b4fe51f25?utm_campaign=1058&utm_source=git)** | Wilkes Barre, PA, US | Hybrid | Feb 25 |
+| **[Paradies Lagardère](https://paradieslagardere.com/)** | **[IT Intern](https://jobright.ai/jobs/info/699f4b3a94ef206f184e75a8?utm_campaign=1058&utm_source=git)** | Atlanta, Georgia, United States | On Site | Feb 25 |
 | **[The Christ Hospital Health Network](https://www.thechristhospital.com/)** | **[Clinical Intern](https://jobright.ai/jobs/info/699f41e894ef206f184e69e8?utm_campaign=1058&utm_source=git)** | 2139 AUBURN AVE, Cincinnati, OH, 45219, US | On Site | Feb 25 |
 | **[Tampa Electric](http://www.tampaelectric.com)** | **[Summer 2026 - IT Customer Experience - Student Internship](https://jobright.ai/jobs/info/698a23124db8972cecff6989?utm_campaign=1058&utm_source=git)** | Tampa, FL | On Site | Feb 25 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[LEXINGTON PHARMACY INTERN](https://jobright.ai/jobs/info/699f3fb0ce78e77b4fe5133d?utm_campaign=1058&utm_source=git)** | 4101 Tates Creek Centre Drive, Lexington, KY, 40517, US | On Site | Feb 25 |
@@ -101,7 +103,6 @@ For a complete list, click the following sortable link below:
 | **[LIVINGSTON COUNTY GOVERNMENT](https://www.livgov.com)** | **[Circuit Court Clerk Intern - Unpaid](https://jobright.ai/jobs/info/699efa0394ef206f184e0dd3?utm_campaign=1058&utm_source=git)** | Howell, MI | On Site | Feb 24 |
 | **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[Intern, Technical Support (Facilities)](https://jobright.ai/jobs/info/699e7cd981476f6176b7a346?utm_campaign=1058&utm_source=git)** | Marion, IL | On Site | Feb 24 |
 | **[Inotiv](https://www.inotiv.com/)** | **[Intern/Seasonal- Veterinary Care Technician](https://jobright.ai/jobs/info/699e750581476f6176b79000?utm_campaign=1058&utm_source=git)** | Evansville, IN | On Site | Feb 24 |
-| **[Centinela Hospital Medical Center](https://www.centinelamed.com)** | **[*Pharmacy Intern](https://jobright.ai/jobs/info/699e7488e0bddb6acace0d5d?utm_campaign=1058&utm_source=git)** | Inglewood, CA | On Site | Feb 24 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/699ef36981476f6176b87ae8?utm_campaign=1058&utm_source=git)** | Bakersfield, CA | On Site | Feb 24 |
 | **[General Dynamics Mission Systems](https://gdmissionsystems.com)** | **[Technical Writer Intern](https://jobright.ai/jobs/info/699e6ebde0bddb6acacdfc8a?utm_campaign=1058&utm_source=git)** | Manassas, VA | On Site | Feb 24 |
 | **[Gulf Coast Bank and Trust Company](https://gulfbank.com)** | **[Intern - Card Services](https://jobright.ai/jobs/info/699e9db8ce78e77b4fe417d3?utm_campaign=1058&utm_source=git)** | Metairie, LA | On Site | Feb 24 |
@@ -116,10 +117,9 @@ For a complete list, click the following sortable link below:
 | **[The Applied Research Laboratory at Penn State University](https://www.arl.psu.edu)** | **[IT Endpoint Intern](https://jobright.ai/jobs/info/699ef12394ef206f184e048e?utm_campaign=1058&utm_source=git)** | University Park, PA | On Site | Feb 24 |
 | **[RSI Community (the new name of Residential Services, Inc)](http://www.rsi-nc.org)** | **[Direct Support Summer Internship](https://jobright.ai/jobs/info/699e5d6081476f6176b75ec2?utm_campaign=1058&utm_source=git)** | Chapel Hill, NC | On Site | Feb 24 |
 | **[Rakuten Advertising](https://rakutenadvertising.com/)** | **[Intern - Client Services](https://jobright.ai/jobs/info/699ec86c81476f6176b83c39?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Feb 24 |
-| **[Mount Sinai Morningside](http://www.mountsinai.org/morningside)** | **[Per Diem Pharmacy Intern; Mount Sinai Hospital](https://jobright.ai/jobs/info/699e53a0e0bddb6acacdc71c?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Feb 24 |
 | **[AE2S (Advanced Engineering and Environmental Services, LLC)](http://ae2s.com)** | **[IT Intern](https://jobright.ai/jobs/info/699eb57ee0bddb6acacea868?utm_campaign=1058&utm_source=git)** | Grand Forks, ND | On Site | Feb 24 |
-| **[Rakuten](http://global.rakuten.com)** | **[Intern - Client Services](https://jobright.ai/jobs/info/699e87a5e0bddb6acace386e?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Feb 24 |
-| ↳ | **[Intern - Client Services](https://jobright.ai/jobs/info/699e9ce9ce78e77b4fe41605?utm_campaign=1058&utm_source=git)** | United States | Remote | Feb 24 |
+| **[Rakuten](http://global.rakuten.com)** | **[Intern - Client Services](https://jobright.ai/jobs/info/699e9ce9ce78e77b4fe41605?utm_campaign=1058&utm_source=git)** | United States | Remote | Feb 24 |
+| ↳ | **[Intern - Client Services](https://jobright.ai/jobs/info/699e87a5e0bddb6acace386e?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Feb 24 |
 | **[SeaWorld Parks & Entertainment](https://unitedparks.com/)** | **[Summer Internship - Guest Arrivals](https://jobright.ai/jobs/info/699e4b62ce78e77b4fe36d92?utm_campaign=1058&utm_source=git)** | Orlando, FL | On Site | Feb 24 |
 | **[Assured Information Security (AIS)](http://ainfosec.com)** | **[IT Intern](https://jobright.ai/jobs/info/699e8ff081476f6176b7c8ad?utm_campaign=1058&utm_source=git)** | Rome,NY,US | On Site | Feb 24 |
 | **[Centinela Hospital Medical Center](https://www.centinelamed.com)** | **[*Pharmacy Intern](https://jobright.ai/jobs/info/699e999781476f6176b7e1a5?utm_campaign=1058&utm_source=git)** | Inglewood, CA, US | On Site | Feb 24 |
