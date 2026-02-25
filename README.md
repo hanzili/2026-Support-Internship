@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[Intern, Technical Support (Facilities)](https://jobright.ai/jobs/info/699e7cd981476f6176b7a346?utm_campaign=1058&utm_source=git)** | Marion, IL | On Site | Feb 24 |
 | **[Inotiv](https://www.inotiv.com/)** | **[Intern/Seasonal- Veterinary Care Technician](https://jobright.ai/jobs/info/699e750581476f6176b79000?utm_campaign=1058&utm_source=git)** | Evansville, IN | On Site | Feb 24 |
 | **[Centinela Hospital Medical Center](https://www.centinelamed.com)** | **[*Pharmacy Intern](https://jobright.ai/jobs/info/699e7488e0bddb6acace0d5d?utm_campaign=1058&utm_source=git)** | Inglewood, CA | On Site | Feb 24 |
 | **[General Dynamics Mission Systems](https://gdmissionsystems.com)** | **[Technical Writer Intern](https://jobright.ai/jobs/info/699e6ebde0bddb6acacdfc8a?utm_campaign=1058&utm_source=git)** | Manassas, VA | On Site | Feb 24 |
@@ -66,6 +67,9 @@ For a complete list, click the following sortable link below:
 | **[RSI Community (the new name of Residential Services, Inc)](http://www.rsi-nc.org)** | **[Direct Support Summer Internship](https://jobright.ai/jobs/info/699e5d6081476f6176b75ec2?utm_campaign=1058&utm_source=git)** | Chapel Hill, NC | On Site | Feb 24 |
 | **[Mount Sinai Morningside](http://www.mountsinai.org/morningside)** | **[Per Diem Pharmacy Intern; Mount Sinai Hospital](https://jobright.ai/jobs/info/699e53a0e0bddb6acacdc71c?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Feb 24 |
 | **[SeaWorld Parks & Entertainment](https://unitedparks.com/)** | **[Summer Internship - Guest Arrivals](https://jobright.ai/jobs/info/699e4b62ce78e77b4fe36d92?utm_campaign=1058&utm_source=git)** | Orlando, FL | On Site | Feb 24 |
+| **[Sunsweet Growers Inc.](http://www.sunsweet.com/)** | **[IT Intern](https://jobright.ai/jobs/info/699e82e781476f6176b7b261?utm_campaign=1058&utm_source=git)** | Yuba City, California, United States | On Site | Feb 24 |
+| **[The Windsor Court](http://windsorcourthotel.com)** | **[Rooms Summer Internship](https://jobright.ai/jobs/info/699e8206e0bddb6acace28ee?utm_campaign=1058&utm_source=git)** | New Orleans, LA | On Site | Feb 24 |
+| ↳ | **[Food and Beverage Summer Internship](https://jobright.ai/jobs/info/699e822c81476f6176b7afb4?utm_campaign=1058&utm_source=git)** | New Orleans, LA | On Site | Feb 24 |
 | **[DigiCert](http://www.digicert.com/)** | **[Service Desk Intern](https://jobright.ai/jobs/info/699e384f81476f6176b71b4a?utm_campaign=1058&utm_source=git)** | Lehi, Utah | On Site | Feb 24 |
 | **[GradGuard - College Life Protected](https://gradguard.com)** | **[Membership Experience Intern](https://jobright.ai/jobs/info/699e3834ce78e77b4fe34c84?utm_campaign=1058&utm_source=git)** | Phoenix, AZ | On Site | Feb 24 |
 | **[DigiCert](http://www.digicert.com/)** | **[Service Desk Intern](https://jobright.ai/jobs/info/699e3764ce78e77b4fe34b4c?utm_campaign=1058&utm_source=git)** | Lehi, UT | On Site | Feb 24 |
@@ -78,8 +82,8 @@ For a complete list, click the following sortable link below:
 | **[Sprinklr](http://www.sprinklr.com)** | **[Professional Services Intern](https://jobright.ai/jobs/info/699e3ceae0bddb6acacd99b6?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | Feb 24 |
 | **[Red Hat](http://www.redhat.com)** | **[Technical Support Engineer Intern](https://jobright.ai/jobs/info/699e1982ce78e77b4fe33010?utm_campaign=1058&utm_source=git)** | Raleigh, NC | On Site | Feb 24 |
 | **[Sentara Health](http://www.sentara.com)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/699e6be3e0bddb6acacdf7bd?utm_campaign=1058&utm_source=git)** | Norfolk, VA | Hybrid | Feb 24 |
-| **[Cox Enterprises](http://coxenterprises.com)** | **[Vendor Management Intern - Charlotte, NC, Summer 2026](https://jobright.ai/jobs/info/699e57bbe0bddb6acacdcfb0?utm_campaign=1058&utm_source=git)** | Atlanta GA | Hybrid | Feb 24 |
-| ↳ | **[Vendor Management Intern - Charlotte, NC, Summer 2026](https://jobright.ai/jobs/info/699e737981476f6176b78c8a?utm_campaign=1058&utm_source=git)** | Cherryville NC | Hybrid | Feb 24 |
+| **[Cox Enterprises](http://coxenterprises.com)** | **[Vendor Management Intern - Charlotte, NC, Summer 2026](https://jobright.ai/jobs/info/699e737981476f6176b78c8a?utm_campaign=1058&utm_source=git)** | Cherryville NC | Hybrid | Feb 24 |
+| ↳ | **[Vendor Management Intern - Charlotte, NC, Summer 2026](https://jobright.ai/jobs/info/699e57bbe0bddb6acacdcfb0?utm_campaign=1058&utm_source=git)** | Atlanta GA | Hybrid | Feb 24 |
 | **[Inotiv](https://www.inotiv.com/)** | **[Intern/Seasonal- Veterinary Care Technician](https://jobright.ai/jobs/info/699e480ace78e77b4fe366cc?utm_campaign=1058&utm_source=git)** | Evansville IN | On Site | Feb 24 |
 | **[Pegasystems](http://www.pega.com)** | **[Technical Documentation Intern - Summer 2026](https://jobright.ai/jobs/info/699e694fce78e77b4fe3a4fe?utm_campaign=1058&utm_source=git)** | Waltham, MA | On Site | Feb 24 |
 | **[Mount Carmel Health System](https://www.mountcarmelhealth.com/)** | **[Pharmacy Intern I - Mount Carmel Grove City](https://jobright.ai/jobs/info/699e0ed181476f6176b6f8e1?utm_campaign=1058&utm_source=git)** | Grove City, OH | On Site | Feb 24 |
@@ -90,7 +94,8 @@ For a complete list, click the following sortable link below:
 | **[Kentucky Farm Bureau Insurance](http://kyfb.com)** | **[Regional Support Intern (Owensboro)](https://jobright.ai/jobs/info/69822ec7c3101f1400c3d613?utm_campaign=1058&utm_source=git)** | Owensboro, KY | On Site | Feb 24 |
 | **[Waters Corporation](http://www.waters.com)** | **[Intern, Field Service](https://jobright.ai/jobs/info/699e20d0ce78e77b4fe33584?utm_campaign=1058&utm_source=git)** | Milford, MA | On Site | Feb 24 |
 | **[Trinity Health](http://www.trinity-health.org)** | **[Pharmacy Intern I - Mount Carmel Grove City](https://jobright.ai/jobs/info/699e1b95ce78e77b4fe33183?utm_campaign=1058&utm_source=git)** | Grove City, OH | On Site | Feb 24 |
-| **[Schindler Elevator Corporation (U.S.)](http://www.schindler.com)** | **[Sales Support Intern](https://jobright.ai/jobs/info/699e7014ce78e77b4fe3b3c7?utm_campaign=1058&utm_source=git)** | Atlanta, GA | On Site | Feb 24 |
+| **[Schindler Elevator Corporation (U.S.)](http://www.schindler.com)** | **[Sales Support Intern](https://jobright.ai/jobs/info/699e7c2ce0bddb6acace2202?utm_campaign=1058&utm_source=git)** | Seattle, WA | On Site | Feb 24 |
+| ↳ | **[Sales Support Intern](https://jobright.ai/jobs/info/699e7014ce78e77b4fe3b3c7?utm_campaign=1058&utm_source=git)** | Atlanta, GA | On Site | Feb 24 |
 | ↳ | **[Sales Support Intern](https://jobright.ai/jobs/info/699e716881476f6176b7883f?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | Feb 24 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Student Nurse Intern](https://jobright.ai/jobs/info/699e1d8fe0bddb6acacd7bbe?utm_campaign=1058&utm_source=git)** | Middleburg, FL | On Site | Feb 24 |
 | **[South Central Connecticut Regional Water Authority](https://www.rwater.com/)** | **[Information Technology Intern](https://jobright.ai/jobs/info/699e7a04e0bddb6acace1c9c?utm_campaign=1058&utm_source=git)** | New Haven, CT, USA | On Site | Feb 24 |
@@ -109,8 +114,8 @@ For a complete list, click the following sortable link below:
 | **[FAIRWINDS Credit Union](https://www.fairwinds.org)** | **[Intern - IT, Desktop Technician](https://jobright.ai/jobs/info/699e0af2e0bddb6acacd6f57?utm_campaign=1058&utm_source=git)** | Orlando, Florida, United States | On Site | Feb 24 |
 | **[Texas Department of Transportation](https://www.txdot.gov)** | **[Intern Support Technician - Bryan District Admin](https://jobright.ai/jobs/info/699e1e99e0bddb6acacd7c8a?utm_campaign=1058&utm_source=git)** | Bryan, NC | On Site | Feb 24 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Nurse Intern Respiratory Stroke](https://jobright.ai/jobs/info/699e2fcc81476f6176b70f4c?utm_campaign=1058&utm_source=git)** | US-KS-Wichita | On Site | Feb 24 |
-| **[UW Credit Union](http://uwcu.org/)** | **[Middleton High School Teller Intern](https://jobright.ai/jobs/info/699e11d481476f6176b6fae7?utm_campaign=1058&utm_source=git)** | Middleton, WI, US | On Site | Feb 24 |
-| ↳ | **[Middleton High School Teller Intern](https://jobright.ai/jobs/info/699e1e8fce78e77b4fe333c8?utm_campaign=1058&utm_source=git)** | Middleton | On Site | Feb 24 |
+| **[UW Credit Union](http://uwcu.org/)** | **[Middleton High School Teller Intern](https://jobright.ai/jobs/info/699e1e8fce78e77b4fe333c8?utm_campaign=1058&utm_source=git)** | Middleton | On Site | Feb 24 |
+| ↳ | **[Middleton High School Teller Intern](https://jobright.ai/jobs/info/699e11d481476f6176b6fae7?utm_campaign=1058&utm_source=git)** | Middleton, WI, US | On Site | Feb 24 |
 | **[Network Distribution](https://us.networkdistribution.com/)** | **[Customer Service Intern](https://jobright.ai/jobs/info/699e2f2cce78e77b4fe33fcc?utm_campaign=1058&utm_source=git)** | Schaumburg, Illinois, United States | On Site | Feb 24 |
 | **[Campbell County Health](https://www.cchwyo.org/)** | **[RADIOLOGY INTERN](https://jobright.ai/jobs/info/699e0c68ce78e77b4fe32814?utm_campaign=1058&utm_source=git)** | Gillette, WY | On Site | Feb 24 |
 | **[Daiichi Sankyo US](https://daiichisankyo.us)** | **[Global Business Services Intern](https://jobright.ai/jobs/info/69655d782cbf4e44756ed2f9?utm_campaign=1058&utm_source=git)** | Basking Ridge, NJ | On Site | Feb 24 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[St. Thomas School](https://www.stthomasschool.org)** | **[IT Intern](https://jobright.ai/jobs/info/699d8acfe0bddb6acacce6d8?utm_campaign=1058&utm_source=git)** | St Thomas School - Medina, WA 98039 | On Site | Feb 24 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/699d8461ce78e77b4fe2936e?utm_campaign=1058&utm_source=git)** | Los Angeles, CA | On Site | Feb 24 |
 | **[Medpace](http://www.medpace.com)** | **[Trial Master File Intern](https://jobright.ai/jobs/info/6965d9792cbf4e44756f94c4?utm_campaign=1058&utm_source=git)** | Cincinnati, OH | On Site | Feb 24 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/699d806281476f6176b65b26?utm_campaign=1058&utm_source=git)** | Napa, CA | On Site | Feb 24 |
-| **[Red Hat](http://www.redhat.com)** | **[Technical Writing Intern](https://jobright.ai/jobs/info/696f0d679c3c52633455d46d?utm_campaign=1058&utm_source=git)** | Raleigh, NC | On Site | Feb 24 |
-| **[Telecare Corporation](http://www.telecarecorp.com)** | **[Internship Opportunities for All Telecare Locations! FY26](https://jobright.ai/jobs/info/6982a80d0f6f7e7a2cdbf996?utm_campaign=1058&utm_source=git)** | Alameda, CA | Hybrid | Feb 24 |
-| **[Bon Secours Mercy Health](https://bsmhealth.org/)** | **[Pharmacy Intern – St. Elizabeth Youngstown Hospital](https://jobright.ai/jobs/info/699d6dfee0bddb6acaccbdd3?utm_campaign=1058&utm_source=git)** | Youngstown, OH | On Site | Feb 24 |
-| **[ReliabilityFirst Corporation](https://rfirst.org)** | **[IT Specialist Intern](https://jobright.ai/jobs/info/699d908a81476f6176b66e78?utm_campaign=1058&utm_source=git)** | Cleveland - CLEVELAND, OH 44131 | Hybrid | Feb 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
