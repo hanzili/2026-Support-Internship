@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/699f0d11ce78e77b4fe4bfba?utm_campaign=1058&utm_source=git)** | Spencerport, NY | On Site | Feb 25 |
+| **[SRS Distribution Inc.](http://www.srsdistribution.com)** | **[Replenishment Buyer Intern](https://jobright.ai/jobs/info/699f1bfcce78e77b4fe4e5a4?utm_campaign=1058&utm_source=git)** | McKinney, TX | On Site | Feb 25 |
+| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/699f15df81476f6176b8af53?utm_campaign=1058&utm_source=git)** | Aventura, FL | On Site | Feb 25 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/699f0d11ce78e77b4fe4bfba?utm_campaign=1058&utm_source=git)** | Spencerport, NY | On Site | Feb 25 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/699f0bee81476f6176b89097?utm_campaign=1058&utm_source=git)** | Buffalo, NY | On Site | Feb 25 |
 | **[Thermo Systems](http://thermosystems.com)** | **[IT Intern/Co-Op](https://jobright.ai/jobs/info/69829f100a9e07331f8dcac1?utm_campaign=1058&utm_source=git)** | East Windsor, NJ | On Site | Feb 25 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Graduate Intern (Non-US Education)](https://jobright.ai/jobs/info/699f081d81476f6176b88d30?utm_campaign=1058&utm_source=git)** | Fruita, CO | On Site | Feb 25 |
@@ -109,8 +111,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Client Services](https://jobright.ai/jobs/info/699e87a5e0bddb6acace386e?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Feb 24 |
 | **[SeaWorld Parks & Entertainment](https://unitedparks.com/)** | **[Summer Internship - Guest Arrivals](https://jobright.ai/jobs/info/699e4b62ce78e77b4fe36d92?utm_campaign=1058&utm_source=git)** | Orlando, FL | On Site | Feb 24 |
 | **[Assured Information Security (AIS)](http://ainfosec.com)** | **[IT Intern](https://jobright.ai/jobs/info/699e8ff081476f6176b7c8ad?utm_campaign=1058&utm_source=git)** | Rome,NY,US | On Site | Feb 24 |
-| **[Centinela Hospital Medical Center](https://www.centinelamed.com)** | **[*Pharmacy Intern](https://jobright.ai/jobs/info/699e999781476f6176b7e1a5?utm_campaign=1058&utm_source=git)** | Inglewood, CA, US | On Site | Feb 24 |
-| ↳ | **[*Pharmacy Intern](https://jobright.ai/jobs/info/699e90d1e0bddb6acace49e3?utm_campaign=1058&utm_source=git)** | US-CA-Inglewood | On Site | Feb 24 |
+| **[Centinela Hospital Medical Center](https://www.centinelamed.com)** | **[*Pharmacy Intern](https://jobright.ai/jobs/info/699e90d1e0bddb6acace49e3?utm_campaign=1058&utm_source=git)** | US-CA-Inglewood | On Site | Feb 24 |
+| ↳ | **[*Pharmacy Intern](https://jobright.ai/jobs/info/699e999781476f6176b7e1a5?utm_campaign=1058&utm_source=git)** | Inglewood, CA, US | On Site | Feb 24 |
 | **[Marshfield Clinic Health System](https://www.marshfieldclinic.org)** | **[Student Nurse Internship - Summer 2026: Marshfield Acute Medical](https://jobright.ai/jobs/info/699e905081476f6176b7c910?utm_campaign=1058&utm_source=git)** | Marshfield, WI | On Site | Feb 24 |
 | **[Sunsweet Growers Inc.](http://www.sunsweet.com/)** | **[IT Intern](https://jobright.ai/jobs/info/699e82e781476f6176b7b261?utm_campaign=1058&utm_source=git)** | Yuba City, California, United States | On Site | Feb 24 |
 | **[Hyatt Place + Hyatt House Charleston Historic District](http://www.hyattplacehyatthousecharleston.com/)** | **[Rooms Summer Internship](https://jobright.ai/jobs/info/699ea01dce78e77b4fe41e35?utm_campaign=1058&utm_source=git)** | New Orleans,LA,US | On Site | Feb 24 |
@@ -133,8 +135,8 @@ For a complete list, click the following sortable link below:
 | **[Sprinklr](http://www.sprinklr.com)** | **[Professional Services Intern](https://jobright.ai/jobs/info/699e3ceae0bddb6acacd99b6?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | Feb 24 |
 | **[Red Hat](http://www.redhat.com)** | **[Technical Support Engineer Intern](https://jobright.ai/jobs/info/699e1982ce78e77b4fe33010?utm_campaign=1058&utm_source=git)** | Raleigh, NC | On Site | Feb 24 |
 | **[Sentara Health](http://www.sentara.com)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/699e6be3e0bddb6acacdf7bd?utm_campaign=1058&utm_source=git)** | Norfolk, VA | Hybrid | Feb 24 |
-| **[Cox Enterprises](http://coxenterprises.com)** | **[Vendor Management Intern - Charlotte, NC, Summer 2026](https://jobright.ai/jobs/info/699e737981476f6176b78c8a?utm_campaign=1058&utm_source=git)** | Cherryville NC | Hybrid | Feb 24 |
-| ↳ | **[Vendor Management Intern - Charlotte, NC, Summer 2026](https://jobright.ai/jobs/info/699e57bbe0bddb6acacdcfb0?utm_campaign=1058&utm_source=git)** | Atlanta GA | Hybrid | Feb 24 |
+| **[Cox Enterprises](http://coxenterprises.com)** | **[Vendor Management Intern - Charlotte, NC, Summer 2026](https://jobright.ai/jobs/info/699e57bbe0bddb6acacdcfb0?utm_campaign=1058&utm_source=git)** | Atlanta GA | Hybrid | Feb 24 |
+| ↳ | **[Vendor Management Intern - Charlotte, NC, Summer 2026](https://jobright.ai/jobs/info/699e737981476f6176b78c8a?utm_campaign=1058&utm_source=git)** | Cherryville NC | Hybrid | Feb 24 |
 | **[Inotiv](https://www.inotiv.com/)** | **[Intern/Seasonal- Veterinary Care Technician](https://jobright.ai/jobs/info/699e480ace78e77b4fe366cc?utm_campaign=1058&utm_source=git)** | Evansville IN | On Site | Feb 24 |
 | **[Pegasystems](http://www.pega.com)** | **[Technical Documentation Intern - Summer 2026](https://jobright.ai/jobs/info/699e694fce78e77b4fe3a4fe?utm_campaign=1058&utm_source=git)** | Waltham, MA | On Site | Feb 24 |
 | **[Mount Carmel Health System](https://www.mountcarmelhealth.com/)** | **[Pharmacy Intern I - Mount Carmel Grove City](https://jobright.ai/jobs/info/699e0ed181476f6176b6f8e1?utm_campaign=1058&utm_source=git)** | Grove City, OH | On Site | Feb 24 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Trinity Health](http://www.trinity-health.org)** | **[Pharmacy Intern I - Mount Carmel Grove City](https://jobright.ai/jobs/info/699e1b95ce78e77b4fe33183?utm_campaign=1058&utm_source=git)** | Grove City, OH | On Site | Feb 24 |
 | **[Schindler Elevator Corporation (U.S.)](http://www.schindler.com)** | **[Sales Support Intern](https://jobright.ai/jobs/info/699e7c2ce0bddb6acace2202?utm_campaign=1058&utm_source=git)** | Seattle, WA | On Site | Feb 24 |
 | ↳ | **[Sales Support Intern](https://jobright.ai/jobs/info/699e7014ce78e77b4fe3b3c7?utm_campaign=1058&utm_source=git)** | Atlanta, GA | On Site | Feb 24 |
-| ↳ | **[Sales Support Intern](https://jobright.ai/jobs/info/699e716881476f6176b7883f?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | Feb 24 |
-| **[Ascension](https://healthcare.ascension.org)** | **[Student Nurse Intern](https://jobright.ai/jobs/info/699e1d8fe0bddb6acacd7bbe?utm_campaign=1058&utm_source=git)** | Middleburg, FL | On Site | Feb 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
