@@ -129,6 +129,7 @@ For a complete list, click the following sortable link below:
 | **[County of Riverside](https://rivco.org)** | **[Helpdesk Call-Center & Logistics Process Systems - Professional Student Intern (Paid)](https://jobright.ai/jobs/info/699fa373d643757b0e451698?utm_campaign=1058&utm_source=git)** | Riverside County, CA | On Site | Feb 25 |
 | **[Syneos Health Commercial Solutions](https://commercialcareers.syneoshealth.com/)** | **[Intern - Medical Communications](https://jobright.ai/jobs/info/699fdb23ce78e77b4fe5c53f?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Feb 25 |
 | **[EY](http://www.ey.com)** | **[Independence Intern](https://jobright.ai/jobs/info/699ff6c9ce78e77b4fe602cf?utm_campaign=1058&utm_source=git)** | Portland, OR | Hybrid | Feb 25 |
+| ↳ | **[Independence Intern](https://jobright.ai/jobs/info/69a069cc5218a81676718893?utm_campaign=1058&utm_source=git)** | McLean, VA | Hybrid | Feb 25 |
 | **[PhotoFax, Inc.](https://photofax.com/)** | **[Investigations Support Intern (Office Based)](https://jobright.ai/jobs/info/699feadfce78e77b4fe5e290?utm_campaign=1058&utm_source=git)** | Hampshire, Illinois, United States | On Site | Feb 25 |
 | **[EY](http://www.ey.com)** | **[Independence Intern](https://jobright.ai/jobs/info/699fc88d81476f6176b9845d?utm_campaign=1058&utm_source=git)** | Tulsa, OK | Hybrid | Feb 25 |
 | ↳ | **[Independence Intern](https://jobright.ai/jobs/info/699fe2d8ce78e77b4fe5d0af?utm_campaign=1058&utm_source=git)** | Chicago, IL | Hybrid | Feb 25 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Independence Intern](https://jobright.ai/jobs/info/69a045e40836fe79d86124ff?utm_campaign=1058&utm_source=git)** | Hoboken, NJ | Hybrid | Feb 25 |
 | ↳ | **[Independence Intern](https://jobright.ai/jobs/info/69a043105218a81676714ffe?utm_campaign=1058&utm_source=git)** | Secaucus, NJ | Hybrid | Feb 25 |
 | ↳ | **[Independence Intern](https://jobright.ai/jobs/info/69a03f2381476f6176ba678f?utm_campaign=1058&utm_source=git)** | Jericho, NY | Hybrid | Feb 25 |
-| ↳ | **[Independence Intern](https://jobright.ai/jobs/info/69a0472e5218a81676715508?utm_campaign=1058&utm_source=git)** | New Brunswick, NJ | Hybrid | Feb 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
