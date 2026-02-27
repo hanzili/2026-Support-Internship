@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ascension](https://healthcare.ascension.org)** | **[Student Nurse Intern NICU](https://jobright.ai/jobs/info/69a20b100da45516f16b541d?utm_campaign=1058&utm_source=git)** | Wichita, KS | On Site | Feb 27 |
+| ↳ | **[Imaging Intern](https://jobright.ai/jobs/info/69a20ab7b600907a962857c7?utm_campaign=1058&utm_source=git)** | Indianapolis, IN | On Site | Feb 27 |
+| ↳ | **[Surgical Services Intern](https://jobright.ai/jobs/info/69a20150359fe034b1cd3ffa?utm_campaign=1058&utm_source=git)** | Carmel, IN | On Site | Feb 27 |
+| **[Atlas Technica](http://www.atlastechnica.com)** | **[Intern Trainee - LA](https://jobright.ai/jobs/info/69a200a50da45516f16b499f?utm_campaign=1058&utm_source=git)** | Los Angeles, CA | On Site | Feb 27 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Student Nurse Intern NICU](https://jobright.ai/jobs/info/69a1f7b4b600907a962845d4?utm_campaign=1058&utm_source=git)** | Wichita, KS, US | On Site | Feb 27 |
 | **[Wired Technology Partners](https://www.wiredtech.com)** | **[Technology Support Intern](https://jobright.ai/jobs/info/69a1f6f20da45516f16b4088?utm_campaign=1058&utm_source=git)** | Memphis, Tennessee, United States | On Site | Feb 27 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Surgical Services Intern](https://jobright.ai/jobs/info/69a1f639b600907a9628447c?utm_campaign=1058&utm_source=git)** | US-IN-Carmel | On Site | Feb 27 |
@@ -80,7 +84,12 @@ For a complete list, click the following sortable link below:
 | **[Geisinger](https://www.geisinger.org)** | **[Pharmacy Intern Technician - All Geisinger Pharmacy Locations](https://jobright.ai/jobs/info/69a1e21f0da45516f16b3357?utm_campaign=1058&utm_source=git)** | Danville, PA | On Site | Feb 27 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Customer Service Team (Summer 2026)](https://jobright.ai/jobs/info/6969ac031703f05405aba9aa?utm_campaign=1058&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Feb 27 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Echocardiography Clinical Intern](https://jobright.ai/jobs/info/69a1fcf00da45516f16b45dd?utm_campaign=1058&utm_source=git)** | US-TN-Murfreesboro | On Site | Feb 27 |
+| ↳ | **[Imaging Intern MRI](https://jobright.ai/jobs/info/69a1fd87359fe034b1cd3c84?utm_campaign=1058&utm_source=git)** | US-IN-Indianapolis | On Site | Feb 27 |
+| ↳ | **[Surgical Services Intern](https://jobright.ai/jobs/info/69a2074d359fe034b1cd462d?utm_campaign=1058&utm_source=git)** | Carmel, IN, US | On Site | Feb 27 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Service Desk Intern](https://jobright.ai/jobs/info/69a1de5f0da45516f16b30f9?utm_campaign=1058&utm_source=git)** | United States-Massachusetts-Chelsea-200 Arlington Street | Hybrid | Feb 27 |
+| **[PITT OHIO](http://www.pittohio.com)** | **[Help Desk Summer Internship](https://jobright.ai/jobs/info/69a20928359fe034b1cd4800?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA, US | On Site | Feb 27 |
+| **[tesa](http://www.tesa.com)** | **[IT Intern](https://jobright.ai/jobs/info/69a202d2359fe034b1cd4189?utm_campaign=1058&utm_source=git)** | Grand Rapids, MI | On Site | Feb 27 |
+| **[Repligen Corporation](http://www.repligen.com)** | **[IT Process Documentation Intern](https://jobright.ai/jobs/info/69a1fd1d0da45516f16b4602?utm_campaign=1058&utm_source=git)** | US-MA-Waltham | On Site | Feb 27 |
 | **[Schweitzer Engineering Laboratories (SEL)](http://www.selinc.com/)** | **[IT Analyst Intern](https://jobright.ai/jobs/info/69a1db56b600907a9628329b?utm_campaign=1058&utm_source=git)** | Washington - Pullman | On Site | Feb 27 |
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Access Your Future Service Intern](https://jobright.ai/jobs/info/68c0740f8e65e77df55c137f?utm_campaign=1058&utm_source=git)** | Cheyenne, WY | On Site | Feb 27 |
 | **[Community Health Systems](http://www.chs.net)** | **[Nurse Intern - Nights](https://jobright.ai/jobs/info/69a1d734b600907a96282ff2?utm_campaign=1058&utm_source=git)** | 6101 PINE RIDGE ROAD, NAPLES, FL, 34119, US | On Site | Feb 27 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Covenant Health](https://www.providence.org/locations/covenant-health/school-of-nursing)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/69a0fb6881476f6176bb5596?utm_campaign=1058&utm_source=git)** | Portland, OR, United States | On Site | Feb 26 |
 | **[UW Health SwedishAmerican](https://swedishamerican.org)** | **[Professional Student Radiologic Intern](https://jobright.ai/jobs/info/699cb64881476f6176b548bd?utm_campaign=1058&utm_source=git)** | Rockford, IL | On Site | Feb 26 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY/PHARMACIST-INTERN](https://jobright.ai/jobs/info/69a1267581476f6176bb7f60?utm_campaign=1058&utm_source=git)** | Colorado Springs, CO | On Site | Feb 26 |
-| **[Terrestrial Energy](http://terrestrialenergy.com)** | **[IT Engineering Intern](https://jobright.ai/jobs/info/69a160cbb600907a9627bcdf?utm_campaign=1058&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Feb 26 |
-| **[Waters Corporation](http://www.waters.com)** | **[Intern, Field Service](https://jobright.ai/jobs/info/699e20d0ce78e77b4fe33584?utm_campaign=1058&utm_source=git)** | Milford, MA | On Site | Feb 26 |
-| ↳ | **[Intern, Field Service](https://jobright.ai/jobs/info/699e063cce78e77b4fe32409?utm_campaign=1058&utm_source=git)** | North Carolina, United States | On Site | Feb 26 |
-| **[Ascension](https://healthcare.ascension.org)** | **[Nurse Intern Respiratory Stroke](https://jobright.ai/jobs/info/69a131aa6b458d060735edee?utm_campaign=1058&utm_source=git)** | Wichita, KS | On Site | Feb 26 |
-| **[Meijer](https://www.meijer.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69a0f36e81476f6176bb4f5c?utm_campaign=1058&utm_source=git)** | Louisville, KY | On Site | Feb 26 |
-| **[Huber Engineered Materials](http://www.hubermaterials.com)** | **[IT Infrastructure Ops Co-Op](https://jobright.ai/jobs/info/69a11a1081476f6176bb717a?utm_campaign=1058&utm_source=git)** | Atlanta, GA | Hybrid | Feb 26 |
-| **[Allegheny Health Network](https://www.ahn.org)** | **[Pharmacy Intern - Cardiovascular - Allegheny General Hospital](https://jobright.ai/jobs/info/69a11f3d81476f6176bb77b2?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | On Site | Feb 26 |
-| **[JAM Industries](https://jamindustries.com/)** | **[AMS - Customer Service Intern](https://jobright.ai/jobs/info/69a1305681476f6176bb8a5c?utm_campaign=1058&utm_source=git)** | Baie-d’Urfé, Quebec, Canada | On Site | Feb 26 |
-| **[F5](https://www.f5.com)** | **[Desktop Support Intern](https://jobright.ai/jobs/info/69a10feb5218a816767244b5?utm_campaign=1058&utm_source=git)** | San Jose, CA | Hybrid | Feb 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
