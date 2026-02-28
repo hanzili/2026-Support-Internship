@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NYU Langone Health](https://nyulangone.org/)** | **[Student Intern](https://jobright.ai/jobs/info/6986218e8da7a6120460cc54?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Feb 28 |
+| **[Brookfield Residential](https://www.brookfieldresidential.com/)** | **[Intern - Customer Care Analyst (Costa Mesa)](https://jobright.ai/jobs/info/696aa7f25fc8624185399fdc?utm_campaign=1058&utm_source=git)** | Costa Mesa, CA | On Site | Feb 28 |
+| **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Order & Sample Management](https://jobright.ai/jobs/info/696ab8ab5fc862418539c97c?utm_campaign=1058&utm_source=git)** | Fairfield, NJ | Hybrid | Feb 28 |
+| **[Mystic Lake Casino Hotel](https://mysticlake.com/)** | **[Loyalty Program Operations Intern](https://jobright.ai/jobs/info/69865c328ca8121a3a6895fd?utm_campaign=1058&utm_source=git)** | Prior Lake, MN | On Site | Feb 28 |
+| **[NetSuite](https://www.netsuite.com/portal/home.shtml)** | **[NetSuite Global Customer Operations Intern](https://jobright.ai/jobs/info/698676dc0f6f7e7a2ce17157?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | Feb 28 |
+| **[Wipfli](http://www.wipfli.com)** | **[Service Desk Internship- Summer 2026](https://jobright.ai/jobs/info/698d48d278b4502f12a3eb34?utm_campaign=1058&utm_source=git)** | Minneapolis, MN | Hybrid | Feb 28 |
+| **[RF-SMART](http://rfsmart.com/)** | **[IT Intern](https://jobright.ai/jobs/info/6986420e8da7a6120460f315?utm_campaign=1058&utm_source=git)** | Jacksonville, FL | On Site | Feb 28 |
 | **[ETS-Lindgren](http://www.ets-lindgren.com/)** | **[Business Admin Technical Writer Intern](https://jobright.ai/jobs/info/698660238ca8121a3a689cbb?utm_campaign=1058&utm_source=git)** | Wood Dale, IL | On Site | Feb 28 |
 | **[Canopy Children's Solutions](https://mycanopy.org/)** | **[Summer 2026 - Information Technology (IT) Internship - Jackson](https://jobright.ai/jobs/info/69a2b740359fe034b1ce135e?utm_campaign=1058&utm_source=git)** | Jackson, MS | On Site | Feb 28 |
 | **[Dometic](https://www.dometic.com)** | **[Customer Service & Call Center Analyst Intern](https://jobright.ai/jobs/info/69a2b436b600907a96291e5e?utm_campaign=1058&utm_source=git)** | Katy, TX | Hybrid | Feb 28 |
@@ -64,6 +71,7 @@ For a complete list, click the following sortable link below:
 | **[Physicians Regional Healthcare System](https://www.physiciansregional.com)** | **[Nurse Intern](https://jobright.ai/jobs/info/69a2afa00da45516f16c14b0?utm_campaign=1058&utm_source=git)** | Naples, FL | On Site | Feb 28 |
 | **[Boar's Head Resort](https://www.boarsheadresort.com)** | **[Food & Beverage Intern](https://jobright.ai/jobs/info/69a2aecf359fe034b1ce07ee?utm_campaign=1058&utm_source=git)** | Charlottesville, VA | On Site | Feb 28 |
 | **[Dignity Health](https://www.dignityhealth.org)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/69a2a830b600907a96290cda?utm_campaign=1058&utm_source=git)** | Los Angeles, CA | On Site | Feb 28 |
+| **[Children's National Hospital](https://www.childrensnational.org/)** | **[Pharmacy Intern (PRN / As Needed)](https://jobright.ai/jobs/info/69a2c55db600907a9629348f?utm_campaign=1058&utm_source=git)** | Washington, DC | On Site | Feb 28 |
 | **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE - CRNA Internship](https://jobright.ai/jobs/info/69a2a4e90da45516f16c057e?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Feb 28 |
 | **[Holiday Inn Club Vacations](http://jobs.holidayinnclub.com/)** | **[Resort Experience Associate Intern- Lee, MA](https://jobright.ai/jobs/info/69a2a468359fe034b1cdf81f?utm_campaign=1058&utm_source=git)** | South Lee, MA | On Site | Feb 28 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/69a2a2f90da45516f16c007a?utm_campaign=1058&utm_source=git)** | Carmel, IN | On Site | Feb 28 |
@@ -104,10 +112,10 @@ For a complete list, click the following sortable link below:
 | **[SPL](https://spllabs.com)** | **[Summer Intern – Field Services (2026)](https://jobright.ai/jobs/info/69a26aa3359fe034b1cdaaf5?utm_campaign=1058&utm_source=git)** | Reading,PA,US | On Site | Feb 27 |
 | **[Repligen Corporation](http://www.repligen.com)** | **[IT Process Documentation Intern - Summer Intern](https://jobright.ai/jobs/info/69a2646f359fe034b1cda192?utm_campaign=1058&utm_source=git)** | Waltham, MA, US | On Site | Feb 27 |
 | ↳ | **[IT Process Documentation Intern - Summer Intern](https://jobright.ai/jobs/info/69a2716ab600907a9628c2c5?utm_campaign=1058&utm_source=git)** | US-MA-Waltham | On Site | Feb 27 |
-| **['Alohilani Resort Waikiki Beach](http://www.pacificbeachhotel.com/)** | **[Operations Intern, Summer 2026](https://jobright.ai/jobs/info/69a2627ab600907a9628ad1e?utm_campaign=1058&utm_source=git)** | Boston, MA, US | On Site | Feb 27 |
-| ↳ | **[Operations Intern, Summer 2026](https://jobright.ai/jobs/info/69a265c10da45516f16babe4?utm_campaign=1058&utm_source=git)** | US-MA-Boston | On Site | Feb 27 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/69a25f59b600907a9628a816?utm_campaign=1058&utm_source=git)** | US-NY-New York | On Site | Feb 27 |
+| **['Alohilani Resort Waikiki Beach](http://www.pacificbeachhotel.com/)** | **[Operations Intern, Summer 2026](https://jobright.ai/jobs/info/69a265c10da45516f16babe4?utm_campaign=1058&utm_source=git)** | US-MA-Boston | On Site | Feb 27 |
+| ↳ | **[Operations Intern, Summer 2026](https://jobright.ai/jobs/info/69a2627ab600907a9628ad1e?utm_campaign=1058&utm_source=git)** | Boston, MA, US | On Site | Feb 27 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/69a25c0d359fe034b1cd955c?utm_campaign=1058&utm_source=git)** | New York, NY, US | On Site | Feb 27 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/69a25f59b600907a9628a816?utm_campaign=1058&utm_source=git)** | US-NY-New York | On Site | Feb 27 |
 | **[Open Dealer Exchange](https://opendealerexchange.com/)** | **[Desktop Support Technician Intern](https://jobright.ai/jobs/info/69a265a8b600907a9628b14d?utm_campaign=1058&utm_source=git)** | Southfield,MI,US | On Site | Feb 27 |
 | **[Team Georgia Careers](https://careers.georgia.gov/)** | **[Office of Information Technology Infrastructure – GST061-D-IT Intern](https://jobright.ai/jobs/info/69a26055359fe034b1cd9b6b?utm_campaign=1058&utm_source=git)** | Georgia - Fulton - Atlanta | On Site | Feb 27 |
 | **[Prisma Health](https://www.prismahealth.org)** | **[Pharmacy Intern: Admin, PRN](https://jobright.ai/jobs/info/69a24d22359fe034b1cd87e6?utm_campaign=1058&utm_source=git)** | Columbia, SC | On Site | Feb 27 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Fremont Bank](http://www.fremontbank.com)** | **[Intern - Service Desk](https://jobright.ai/jobs/info/69a21431b600907a962861f1?utm_campaign=1058&utm_source=git)** | Livermore, CA | On Site | Feb 27 |
 | **[Saint Luke's](https://www.saintlukeskc.org)** | **[Pharmacy Intern Year 2](https://jobright.ai/jobs/info/69a1f3f7359fe034b1cd338f?utm_campaign=1058&utm_source=git)** | Saint Luke's East Hospital   |   100 NE Saint Lukes Blvd   |   Lees Summit   |   MO | On Site | Feb 27 |
 | **[Zoot Enterprises](https://zootsolutions.com/)** | **[Front Desk Admin Intern](https://jobright.ai/jobs/info/69a2176d0da45516f16b608e?utm_campaign=1058&utm_source=git)** | Bozeman, MT | On Site | Feb 27 |
-| **[Physicians Regional Healthcare System](https://www.physiciansregional.com)** | **[Nurse Intern - Nights](https://jobright.ai/jobs/info/69a1f2e5359fe034b1cd3291?utm_campaign=1058&utm_source=git)** | Naples, FL | On Site | Feb 27 |
-| **[Riverview Health](https://www.riverview.org/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69a1f1eab600907a9628407b?utm_campaign=1058&utm_source=git)** | Noblesville, Indiana, United States | On Site | Feb 27 |
-| **[United States Holocaust Memorial Museum](http://www.ushmm.org/)** | **[Intern - Visitor Services (8 Opportunities Available) - Onsite](https://jobright.ai/jobs/info/69a1f1a7359fe034b1cd315b?utm_campaign=1058&utm_source=git)** | Washington, District of Columbia, United States | On Site | Feb 27 |
-| **[PITT OHIO](http://www.pittohio.com)** | **[Help Desk Summer Internship](https://jobright.ai/jobs/info/69a1f071b600907a96283f4d?utm_campaign=1058&utm_source=git)** | US-PA-Pittsburgh | On Site | Feb 27 |
-| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Intern Pharmacist PT24](https://jobright.ai/jobs/info/69a1f064b600907a96283f45?utm_campaign=1058&utm_source=git)** | Downey, CA | On Site | Feb 27 |
-| **[McKinstry](http://www.mckinstry.com)** | **[IT Intern](https://jobright.ai/jobs/info/6940a8bf50bbaf765052b118?utm_campaign=1058&utm_source=git)** | Seattle, WA | On Site | Feb 27 |
-| **[Naples Comprehensive Health - NCH](http://www.nchmd.org/)** | **[Infection Control Intern FR](https://jobright.ai/jobs/info/6995148d81476f6176acf337?utm_campaign=1058&utm_source=git)** | Naples, FL | On Site | Feb 27 |
-| **[Repligen Corporation](http://www.repligen.com)** | **[IT Process Documentation Intern](https://jobright.ai/jobs/info/69a1eec8b600907a96283da6?utm_campaign=1058&utm_source=git)** | Waltham, MA, US | On Site | Feb 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
