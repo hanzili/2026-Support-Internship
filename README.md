@@ -58,10 +58,17 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69a226d8359fe034b1cd6454?utm_campaign=1058&utm_source=git)** | St Louis, MO | On Site | Feb 27 |
+| **[Packaging Corporation of America](http://packagingcorp.com)** | **[IT Intern Summer-Fall 2026 Counce Mill](https://jobright.ai/jobs/info/69a243e00da45516f16b8b20?utm_campaign=1058&utm_source=git)** | Counce, TN | On Site | Feb 27 |
 | **[JAS Worldwide](http://www.jas.com)** | **[IT Intern](https://jobright.ai/jobs/info/69a224050da45516f16b6cc9?utm_campaign=1058&utm_source=git)** | United States of America, Illinois, Elk Grove Village | On Site | Feb 27 |
+| **[Bestpass by Fleetworthy](https://bestpass.com/)** | **[Client Services Intern](https://jobright.ai/jobs/info/69a242d50da45516f16b8a02?utm_campaign=1058&utm_source=git)** | Madison, WI | On Site | Feb 27 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69a21d4b359fe034b1cd5a93?utm_campaign=1058&utm_source=git)** | Memphis, TN | On Site | Feb 27 |
 | **[Germain Hôtels](https://www.germainhotels.com/)** | **[Intern, Server](https://jobright.ai/jobs/info/69a21d0a359fe034b1cd5a53?utm_campaign=1058&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 27 |
+| **[Acadia Pharmaceuticals Inc.](https://www.acadia-pharm.com/)** | **[Scientific Communications and Medical Information Intern](https://jobright.ai/jobs/info/69a23d9ab600907a962888ce?utm_campaign=1058&utm_source=git)** | San Diego, California, United States | Hybrid | Feb 27 |
+| **[Xometry](https://www.xometry.com)** | **[Case Management Intern](https://jobright.ai/jobs/info/6943e68d94730b7398771073?utm_campaign=1058&utm_source=git)** | Lexington, KY | Hybrid | Feb 27 |
+| **[Mesa Public Schools](http://www.mpsaz.org/careers)** | **[Summer Intern - Information Systems](https://jobright.ai/jobs/info/69a237b3359fe034b1cd7425?utm_campaign=1058&utm_source=git)** | Mesa, AZ | On Site | Feb 27 |
+| **[Boston Public Schools](https://madisonpark.bostonpublicschools.org/)** | **[Student Intern SY25-26](https://jobright.ai/jobs/info/69a23a600da45516f16b8236?utm_campaign=1058&utm_source=git)** | Boston, MA | On Site | Feb 27 |
 | **[Cleveland Clinic](http://my.clevelandclinic.org)** | **[Pharmacy Intern - Inpatient PRN](https://jobright.ai/jobs/info/69a2139c0da45516f16b5d36?utm_campaign=1058&utm_source=git)** | Cleveland, OH | On Site | Feb 27 |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69a22d96359fe034b1cd6b21?utm_campaign=1058&utm_source=git)** | Columbia, SC | On Site | Feb 27 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Student Nurse Intern NICU](https://jobright.ai/jobs/info/69a20b100da45516f16b541d?utm_campaign=1058&utm_source=git)** | Wichita, KS | On Site | Feb 27 |
 | ↳ | **[Imaging Intern](https://jobright.ai/jobs/info/69a20ab7b600907a962857c7?utm_campaign=1058&utm_source=git)** | Indianapolis, IN | On Site | Feb 27 |
 | **[Highgate](https://www.highgate.com)** | **[Intern](https://jobright.ai/jobs/info/69a2288c359fe034b1cd6608?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Feb 27 |
@@ -106,9 +113,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Technology Support Intern](https://jobright.ai/jobs/info/69a20ed7b600907a96285c55?utm_campaign=1058&utm_source=git)** | Indianapolis, Indiana, United States | On Site | Feb 27 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Echocardiography Clinical Intern](https://jobright.ai/jobs/info/69a1fcf00da45516f16b45dd?utm_campaign=1058&utm_source=git)** | US-TN-Murfreesboro | On Site | Feb 27 |
 | ↳ | **[Echocardiography Clinical Intern](https://jobright.ai/jobs/info/69a20e38b600907a96285ba1?utm_campaign=1058&utm_source=git)** | Murfreesboro, TN, US | On Site | Feb 27 |
-| ↳ | **[Imaging Intern MRI](https://jobright.ai/jobs/info/69a1fd87359fe034b1cd3c84?utm_campaign=1058&utm_source=git)** | US-IN-Indianapolis | On Site | Feb 27 |
 | ↳ | **[Surgical Services Intern](https://jobright.ai/jobs/info/69a2074d359fe034b1cd462d?utm_campaign=1058&utm_source=git)** | Carmel, IN, US | On Site | Feb 27 |
 | ↳ | **[Imaging Intern MRI](https://jobright.ai/jobs/info/69a20ba10da45516f16b54cd?utm_campaign=1058&utm_source=git)** | Indianapolis, IN, US | On Site | Feb 27 |
+| ↳ | **[Imaging Intern MRI](https://jobright.ai/jobs/info/69a1fd87359fe034b1cd3c84?utm_campaign=1058&utm_source=git)** | US-IN-Indianapolis | On Site | Feb 27 |
 | **[Norfolk & Dedham Insurance](http://www.NDGroup.com)** | **[Student Intern- Product Support (Harrisonburg)](https://jobright.ai/jobs/info/69a20b700da45516f16b549b?utm_campaign=1058&utm_source=git)** | Harrisonburg, Virginia, United States | On Site | Feb 27 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Service Desk Intern](https://jobright.ai/jobs/info/69a1de5f0da45516f16b30f9?utm_campaign=1058&utm_source=git)** | United States-Massachusetts-Chelsea-200 Arlington Street | Hybrid | Feb 27 |
 | **[PITT OHIO](http://www.pittohio.com)** | **[Help Desk Summer Internship](https://jobright.ai/jobs/info/69a20928359fe034b1cd4800?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA, US | On Site | Feb 27 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Trex Company](http://www.trex.com)** | **[2026 Summer Internship Program - Information Technology](https://jobright.ai/jobs/info/68ce23651ad6b16f028a227f?utm_campaign=1058&utm_source=git)** | Winchester, VA | On Site | Feb 27 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69a1a43d359fe034b1ccfcbc?utm_campaign=1058&utm_source=git)** | Hutchinson, MN | On Site | Feb 27 |
 | **[Joby Aviation](http://www.jobyaviation.com)** | **[Aftermarket Product Support Intern](https://jobright.ai/jobs/info/698538630f6f7e7a2cdfcf80?utm_campaign=1058&utm_source=git)** | Santa Cruz, CA | On Site | Feb 27 |
-| **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69a1a2b70da45516f16b05bf?utm_campaign=1058&utm_source=git)** | West Lafayette, IN | On Site | Feb 27 |
-| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69a1a165359fe034b1ccfa3f?utm_campaign=1058&utm_source=git)** | Fort Wayne, IN | On Site | Feb 27 |
-| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69a1a1290da45516f16b0400?utm_campaign=1058&utm_source=git)** | New Haven, IN | On Site | Feb 27 |
-| **[Baptist Health](http://careers.baptisthealth.net)** | **[Pharmacy Intern 2, Ambulatory Pharmacy Services, Per Diem, Varies](https://jobright.ai/jobs/info/68dd15bf44d32141e0bf3e3f?utm_campaign=1058&utm_source=git)** | Miami Lakes, FL | On Site | Feb 27 |
-| **[Aimbridge Hospitality](http://www.aimbridgehospitality.com/)** | **[Wyndham Grand Pittsburgh Downtown - Hospitality Management Intern](https://jobright.ai/jobs/info/699abc5e81476f6176b3583e?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | On Site | Feb 27 |
-| **[Pegasystems](http://www.pega.com)** | **[Technical Writer Intern - Summer 2026](https://jobright.ai/jobs/info/68f758215dc1be601280de66?utm_campaign=1058&utm_source=git)** | Waltham, MA | On Site | Feb 27 |
-| **[Kowalski's Markets](https://www.kowalskis.com)** | **[PT Summer IT Intern](https://jobright.ai/jobs/info/69a1b69e359fe034b1cd0c27?utm_campaign=1058&utm_source=git)** | Administration - Edina, MN 55435 | On Site | Feb 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
