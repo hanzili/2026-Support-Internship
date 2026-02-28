@@ -111,10 +111,10 @@ For a complete list, click the following sortable link below:
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Customer Service Team (Summer 2026)](https://jobright.ai/jobs/info/6969ac031703f05405aba9aa?utm_campaign=1058&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Feb 27 |
 | **[Wired Technology Partners](https://www.wiredtech.com)** | **[Technology Support Intern](https://jobright.ai/jobs/info/69a212940da45516f16b5c40?utm_campaign=1058&utm_source=git)** | Maumelle, Arkansas, United States | On Site | Feb 27 |
 | ↳ | **[Technology Support Intern](https://jobright.ai/jobs/info/69a20ed7b600907a96285c55?utm_campaign=1058&utm_source=git)** | Indianapolis, Indiana, United States | On Site | Feb 27 |
-| **[Ascension](https://healthcare.ascension.org)** | **[Echocardiography Clinical Intern](https://jobright.ai/jobs/info/69a1fcf00da45516f16b45dd?utm_campaign=1058&utm_source=git)** | US-TN-Murfreesboro | On Site | Feb 27 |
-| ↳ | **[Echocardiography Clinical Intern](https://jobright.ai/jobs/info/69a20e38b600907a96285ba1?utm_campaign=1058&utm_source=git)** | Murfreesboro, TN, US | On Site | Feb 27 |
-| ↳ | **[Surgical Services Intern](https://jobright.ai/jobs/info/69a2074d359fe034b1cd462d?utm_campaign=1058&utm_source=git)** | Carmel, IN, US | On Site | Feb 27 |
+| **[Ascension](https://healthcare.ascension.org)** | **[Echocardiography Clinical Intern](https://jobright.ai/jobs/info/69a20e38b600907a96285ba1?utm_campaign=1058&utm_source=git)** | Murfreesboro, TN, US | On Site | Feb 27 |
+| ↳ | **[Echocardiography Clinical Intern](https://jobright.ai/jobs/info/69a1fcf00da45516f16b45dd?utm_campaign=1058&utm_source=git)** | US-TN-Murfreesboro | On Site | Feb 27 |
 | ↳ | **[Imaging Intern MRI](https://jobright.ai/jobs/info/69a20ba10da45516f16b54cd?utm_campaign=1058&utm_source=git)** | Indianapolis, IN, US | On Site | Feb 27 |
+| ↳ | **[Surgical Services Intern](https://jobright.ai/jobs/info/69a2074d359fe034b1cd462d?utm_campaign=1058&utm_source=git)** | Carmel, IN, US | On Site | Feb 27 |
 | ↳ | **[Imaging Intern MRI](https://jobright.ai/jobs/info/69a1fd87359fe034b1cd3c84?utm_campaign=1058&utm_source=git)** | US-IN-Indianapolis | On Site | Feb 27 |
 | **[Norfolk & Dedham Insurance](http://www.NDGroup.com)** | **[Student Intern- Product Support (Harrisonburg)](https://jobright.ai/jobs/info/69a20b700da45516f16b549b?utm_campaign=1058&utm_source=git)** | Harrisonburg, Virginia, United States | On Site | Feb 27 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Service Desk Intern](https://jobright.ai/jobs/info/69a1de5f0da45516f16b30f9?utm_campaign=1058&utm_source=git)** | United States-Massachusetts-Chelsea-200 Arlington Street | Hybrid | Feb 27 |
