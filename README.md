@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Xometry](https://www.xometry.com)** | **[Customer Support Intern](https://jobright.ai/jobs/info/6952d982f1f8465b79ea22d4?utm_campaign=1058&utm_source=git)** | Waltham, MA | Hybrid | Feb 28 |
+| **[American Society of Clinical Oncology (ASCO)](http://asco.org)** | **[IT Infrastructure Intern](https://jobright.ai/jobs/info/69a2e8a7b600907a96294a99?utm_campaign=1058&utm_source=git)** | Alexandria, VA | On Site | Feb 28 |
+| **[Lasko Products](https://www.lasko.com/)** | **[IT Summer Internship](https://jobright.ai/jobs/info/698621218da7a6120460cb8c?utm_campaign=1058&utm_source=git)** | West Chester, PA | Hybrid | Feb 28 |
+| **[Rush University Medical Center](https://www.rush.edu/)** | **[Pharmacy Intern-24606](https://jobright.ai/jobs/info/6986f2258da7a61204620377?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Feb 28 |
+| **[The Cancer & Hematology Centers](https://www.chcwm.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69a2e2fcb600907a9629459a?utm_campaign=1058&utm_source=git)** | Grand Rapids, MI | On Site | Feb 28 |
+| **[Tyler Technologies](https://www.tylertech.com)** | **[Software Support Internship, Summer 2026](https://jobright.ai/jobs/info/697d3b64727747250d580b9a?utm_campaign=1058&utm_source=git)** | Yarmouth, ME | On Site | Feb 28 |
+| ↳ | **[Technical Services Internship, Summer 2026](https://jobright.ai/jobs/info/697d39f4727747250d580995?utm_campaign=1058&utm_source=git)** | Yarmouth, ME | On Site | Feb 28 |
+| **[Guidepoint](http://www.guidepoint.com)** | **[2024 Tech Intern Pool](https://jobright.ai/jobs/info/667713ec3ab189f6697e9413?utm_campaign=1058&utm_source=git)** | Atlanta, GA | On Site | Feb 28 |
 | **[NYU Langone Health](https://nyulangone.org/)** | **[Student Intern](https://jobright.ai/jobs/info/6986218e8da7a6120460cc54?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Feb 28 |
 | **[Brookfield Residential](https://www.brookfieldresidential.com/)** | **[Intern - Customer Care Analyst (Costa Mesa)](https://jobright.ai/jobs/info/696aa7f25fc8624185399fdc?utm_campaign=1058&utm_source=git)** | Costa Mesa, CA | On Site | Feb 28 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Order & Sample Management](https://jobright.ai/jobs/info/696ab8ab5fc862418539c97c?utm_campaign=1058&utm_source=git)** | Fairfield, NJ | Hybrid | Feb 28 |
@@ -110,10 +118,10 @@ For a complete list, click the following sortable link below:
 | **[Holiday Inn Club Vacations](http://jobs.holidayinnclub.com/)** | **[Resort Experience Associate Intern- Lee, MA](https://jobright.ai/jobs/info/69a26aa50da45516f16bb19d?utm_campaign=1058&utm_source=git)** | South Lee, Massachusetts, United States | On Site | Feb 27 |
 | **[Canopy Children's Solutions](https://mycanopy.org/)** | **[Summer 2026 - Information Technology (IT) Internship - Jackson](https://jobright.ai/jobs/info/69a2670bb600907a9628b3d2?utm_campaign=1058&utm_source=git)** | Jackson, Mississippi, United States | On Site | Feb 27 |
 | **[SPL](https://spllabs.com)** | **[Summer Intern – Field Services (2026)](https://jobright.ai/jobs/info/69a26aa3359fe034b1cdaaf5?utm_campaign=1058&utm_source=git)** | Reading,PA,US | On Site | Feb 27 |
-| **[Repligen Corporation](http://www.repligen.com)** | **[IT Process Documentation Intern - Summer Intern](https://jobright.ai/jobs/info/69a2646f359fe034b1cda192?utm_campaign=1058&utm_source=git)** | Waltham, MA, US | On Site | Feb 27 |
-| ↳ | **[IT Process Documentation Intern - Summer Intern](https://jobright.ai/jobs/info/69a2716ab600907a9628c2c5?utm_campaign=1058&utm_source=git)** | US-MA-Waltham | On Site | Feb 27 |
-| **['Alohilani Resort Waikiki Beach](http://www.pacificbeachhotel.com/)** | **[Operations Intern, Summer 2026](https://jobright.ai/jobs/info/69a265c10da45516f16babe4?utm_campaign=1058&utm_source=git)** | US-MA-Boston | On Site | Feb 27 |
-| ↳ | **[Operations Intern, Summer 2026](https://jobright.ai/jobs/info/69a2627ab600907a9628ad1e?utm_campaign=1058&utm_source=git)** | Boston, MA, US | On Site | Feb 27 |
+| **[Repligen Corporation](http://www.repligen.com)** | **[IT Process Documentation Intern - Summer Intern](https://jobright.ai/jobs/info/69a2716ab600907a9628c2c5?utm_campaign=1058&utm_source=git)** | US-MA-Waltham | On Site | Feb 27 |
+| ↳ | **[IT Process Documentation Intern - Summer Intern](https://jobright.ai/jobs/info/69a2646f359fe034b1cda192?utm_campaign=1058&utm_source=git)** | Waltham, MA, US | On Site | Feb 27 |
+| **['Alohilani Resort Waikiki Beach](http://www.pacificbeachhotel.com/)** | **[Operations Intern, Summer 2026](https://jobright.ai/jobs/info/69a2627ab600907a9628ad1e?utm_campaign=1058&utm_source=git)** | Boston, MA, US | On Site | Feb 27 |
+| ↳ | **[Operations Intern, Summer 2026](https://jobright.ai/jobs/info/69a265c10da45516f16babe4?utm_campaign=1058&utm_source=git)** | US-MA-Boston | On Site | Feb 27 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/69a25c0d359fe034b1cd955c?utm_campaign=1058&utm_source=git)** | New York, NY, US | On Site | Feb 27 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/69a25f59b600907a9628a816?utm_campaign=1058&utm_source=git)** | US-NY-New York | On Site | Feb 27 |
 | **[Open Dealer Exchange](https://opendealerexchange.com/)** | **[Desktop Support Technician Intern](https://jobright.ai/jobs/info/69a265a8b600907a9628b14d?utm_campaign=1058&utm_source=git)** | Southfield,MI,US | On Site | Feb 27 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[UNFI](http://unfi.com)** | **[IT Summer Intern](https://jobright.ai/jobs/info/69a226b70da45516f16b6f6d?utm_campaign=1058&utm_source=git)** | Providence, RI | Hybrid | Feb 27 |
 | **[Packaging Corporation of America](http://packagingcorp.com)** | **[IT Intern Summer-Fall 2026 Counce Mill](https://jobright.ai/jobs/info/69a21a05359fe034b1cd5787?utm_campaign=1058&utm_source=git)** | Counce, TN 38326, USA | On Site | Feb 27 |
 | **[Kering](https://www.kering-ventures.com)** | **[KERING Client Services Intern](https://jobright.ai/jobs/info/69a2186e359fe034b1cd564c?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Feb 27 |
-| **[Ascension](https://healthcare.ascension.org)** | **[Student Nurse Intern NICU](https://jobright.ai/jobs/info/69a1f7b4b600907a962845d4?utm_campaign=1058&utm_source=git)** | Wichita, KS, US | On Site | Feb 27 |
-| **[Wired Technology Partners](https://www.wiredtech.com)** | **[Technology Support Intern](https://jobright.ai/jobs/info/69a1f6f20da45516f16b4088?utm_campaign=1058&utm_source=git)** | Memphis, Tennessee, United States | On Site | Feb 27 |
-| **[Ascension](https://healthcare.ascension.org)** | **[Surgical Services Intern](https://jobright.ai/jobs/info/69a1f639b600907a9628447c?utm_campaign=1058&utm_source=git)** | US-IN-Carmel | On Site | Feb 27 |
-| **[TransMedics, Inc.](http://www.transmedics.com/wt/home/index)** | **[Documentation Control Intern](https://jobright.ai/jobs/info/69a1ddf9b600907a96283472?utm_campaign=1058&utm_source=git)** | Andover, MA | On Site | Feb 27 |
-| **[Ascension](https://healthcare.ascension.org)** | **[Student Nurse Intern NICU](https://jobright.ai/jobs/info/69a1f4a50da45516f16b3eaf?utm_campaign=1058&utm_source=git)** | US-KS-Wichita | On Site | Feb 27 |
-| **[Fremont Bank](http://www.fremontbank.com)** | **[Intern - Service Desk](https://jobright.ai/jobs/info/69a21431b600907a962861f1?utm_campaign=1058&utm_source=git)** | Livermore, CA | On Site | Feb 27 |
-| **[Saint Luke's](https://www.saintlukeskc.org)** | **[Pharmacy Intern Year 2](https://jobright.ai/jobs/info/69a1f3f7359fe034b1cd338f?utm_campaign=1058&utm_source=git)** | Saint Luke's East Hospital   |   100 NE Saint Lukes Blvd   |   Lees Summit   |   MO | On Site | Feb 27 |
-| **[Zoot Enterprises](https://zootsolutions.com/)** | **[Front Desk Admin Intern](https://jobright.ai/jobs/info/69a2176d0da45516f16b608e?utm_campaign=1058&utm_source=git)** | Bozeman, MT | On Site | Feb 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
