@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse II-CVSD](https://jobright.ai/jobs/info/69a27f9eb600907a9628d517?utm_campaign=1058&utm_source=git)** | Memphis, TN | On Site | Feb 27 |
+| **[MVP Health Care](https://www.mvphealthcare.com)** | **[Desktop Support Services Internship](https://jobright.ai/jobs/info/695c07a5aa05c26e7ab55abf?utm_campaign=1058&utm_source=git)** | Schenectady, NY | On Site | Feb 27 |
 | **[United States Holocaust Memorial Museum](http://www.ushmm.org/)** | **[Intern - Visitor Services (8 Opportunities Available) - Onsite](https://jobright.ai/jobs/info/69a271f5359fe034b1cdb54c?utm_campaign=1058&utm_source=git)** | Washington, DC | On Site | Feb 27 |
 | **[Children's National Hospital](https://www.childrensnational.org/)** | **[Pharmacy Intern (PRN / As Needed)](https://jobright.ai/jobs/info/69a270ab0da45516f16bbb26?utm_campaign=1058&utm_source=git)** | Washington, DC | On Site | Feb 27 |
 | **[Highgate](https://www.highgate.com)** | **[Operations Intern, Summer 2026](https://jobright.ai/jobs/info/69a26e9d0da45516f16bb6dc?utm_campaign=1058&utm_source=git)** | Boston, MA | On Site | Feb 27 |
@@ -75,8 +77,8 @@ For a complete list, click the following sortable link below:
 | **[Holiday Inn Club Vacations](http://jobs.holidayinnclub.com/)** | **[Resort Experience Associate Intern- Lee, MA](https://jobright.ai/jobs/info/69a26aa50da45516f16bb19d?utm_campaign=1058&utm_source=git)** | South Lee, Massachusetts, United States | On Site | Feb 27 |
 | **[Canopy Children's Solutions](https://mycanopy.org/)** | **[Summer 2026 - Information Technology (IT) Internship - Jackson](https://jobright.ai/jobs/info/69a2670bb600907a9628b3d2?utm_campaign=1058&utm_source=git)** | Jackson, Mississippi, United States | On Site | Feb 27 |
 | **[SPL](https://spllabs.com)** | **[Summer Intern – Field Services (2026)](https://jobright.ai/jobs/info/69a26aa3359fe034b1cdaaf5?utm_campaign=1058&utm_source=git)** | Reading,PA,US | On Site | Feb 27 |
-| **[Repligen Corporation](http://www.repligen.com)** | **[IT Process Documentation Intern - Summer Intern](https://jobright.ai/jobs/info/69a2646f359fe034b1cda192?utm_campaign=1058&utm_source=git)** | Waltham, MA, US | On Site | Feb 27 |
-| ↳ | **[IT Process Documentation Intern - Summer Intern](https://jobright.ai/jobs/info/69a2716ab600907a9628c2c5?utm_campaign=1058&utm_source=git)** | US-MA-Waltham | On Site | Feb 27 |
+| **[Repligen Corporation](http://www.repligen.com)** | **[IT Process Documentation Intern - Summer Intern](https://jobright.ai/jobs/info/69a2716ab600907a9628c2c5?utm_campaign=1058&utm_source=git)** | US-MA-Waltham | On Site | Feb 27 |
+| ↳ | **[IT Process Documentation Intern - Summer Intern](https://jobright.ai/jobs/info/69a2646f359fe034b1cda192?utm_campaign=1058&utm_source=git)** | Waltham, MA, US | On Site | Feb 27 |
 | **['Alohilani Resort Waikiki Beach](http://www.pacificbeachhotel.com/)** | **[Operations Intern, Summer 2026](https://jobright.ai/jobs/info/69a2627ab600907a9628ad1e?utm_campaign=1058&utm_source=git)** | Boston, MA, US | On Site | Feb 27 |
 | ↳ | **[Operations Intern, Summer 2026](https://jobright.ai/jobs/info/69a265c10da45516f16babe4?utm_campaign=1058&utm_source=git)** | US-MA-Boston | On Site | Feb 27 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/69a25c0d359fe034b1cd955c?utm_campaign=1058&utm_source=git)** | New York, NY, US | On Site | Feb 27 |
@@ -146,15 +148,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Technology Support Intern](https://jobright.ai/jobs/info/69a20ed7b600907a96285c55?utm_campaign=1058&utm_source=git)** | Indianapolis, Indiana, United States | On Site | Feb 27 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Echocardiography Clinical Intern](https://jobright.ai/jobs/info/69a1fcf00da45516f16b45dd?utm_campaign=1058&utm_source=git)** | US-TN-Murfreesboro | On Site | Feb 27 |
 | ↳ | **[Echocardiography Clinical Intern](https://jobright.ai/jobs/info/69a20e38b600907a96285ba1?utm_campaign=1058&utm_source=git)** | Murfreesboro, TN, US | On Site | Feb 27 |
-| ↳ | **[Imaging Intern MRI](https://jobright.ai/jobs/info/69a20ba10da45516f16b54cd?utm_campaign=1058&utm_source=git)** | Indianapolis, IN, US | On Site | Feb 27 |
-| ↳ | **[Surgical Services Intern](https://jobright.ai/jobs/info/69a2074d359fe034b1cd462d?utm_campaign=1058&utm_source=git)** | Carmel, IN, US | On Site | Feb 27 |
 | ↳ | **[Imaging Intern MRI](https://jobright.ai/jobs/info/69a1fd87359fe034b1cd3c84?utm_campaign=1058&utm_source=git)** | US-IN-Indianapolis | On Site | Feb 27 |
+| ↳ | **[Surgical Services Intern](https://jobright.ai/jobs/info/69a2074d359fe034b1cd462d?utm_campaign=1058&utm_source=git)** | Carmel, IN, US | On Site | Feb 27 |
+| ↳ | **[Imaging Intern MRI](https://jobright.ai/jobs/info/69a20ba10da45516f16b54cd?utm_campaign=1058&utm_source=git)** | Indianapolis, IN, US | On Site | Feb 27 |
 | **[Norfolk & Dedham Insurance](http://www.NDGroup.com)** | **[Student Intern- Product Support (Harrisonburg)](https://jobright.ai/jobs/info/69a20b700da45516f16b549b?utm_campaign=1058&utm_source=git)** | Harrisonburg, Virginia, United States | On Site | Feb 27 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Service Desk Intern](https://jobright.ai/jobs/info/69a1de5f0da45516f16b30f9?utm_campaign=1058&utm_source=git)** | United States-Massachusetts-Chelsea-200 Arlington Street | Hybrid | Feb 27 |
 | **[PITT OHIO](http://www.pittohio.com)** | **[Help Desk Summer Internship](https://jobright.ai/jobs/info/69a20928359fe034b1cd4800?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA, US | On Site | Feb 27 |
 | **[tesa](http://www.tesa.com)** | **[IT Intern](https://jobright.ai/jobs/info/69a202d2359fe034b1cd4189?utm_campaign=1058&utm_source=git)** | Grand Rapids, MI | On Site | Feb 27 |
 | **[Repligen Corporation](http://www.repligen.com)** | **[IT Process Documentation Intern](https://jobright.ai/jobs/info/69a1fd1d0da45516f16b4602?utm_campaign=1058&utm_source=git)** | US-MA-Waltham | On Site | Feb 27 |
 | **[Schweitzer Engineering Laboratories (SEL)](http://www.selinc.com/)** | **[IT Analyst Intern](https://jobright.ai/jobs/info/69a1db56b600907a9628329b?utm_campaign=1058&utm_source=git)** | Washington - Pullman | On Site | Feb 27 |
-| **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Access Your Future Service Intern](https://jobright.ai/jobs/info/68c0740f8e65e77df55c137f?utm_campaign=1058&utm_source=git)** | Cheyenne, WY | On Site | Feb 27 |
-| **[Community Health Systems](http://www.chs.net)** | **[Nurse Intern - Nights](https://jobright.ai/jobs/info/69a1d734b600907a96282ff2?utm_campaign=1058&utm_source=git)** | 6101 PINE RIDGE ROAD, NAPLES, FL, 34119, US | On Site | Feb 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
