@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Houston Eye Associates](http://houstoneye.com)** | **[Intern PT (JDG)](https://jobright.ai/jobs/info/69a356f7b600907a96299152?utm_campaign=1058&utm_source=git)** | Gramercy - HOUSTON, TX 77025 | On Site | Feb 28 |
 | **[Blach Construction Company](http://blach.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/698d2a36f64d441a164f1f45?utm_campaign=1058&utm_source=git)** | San Jose, CA | On Site | Feb 28 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE - Neonatal Nurse Practitioner Internship (Brandon NICU and Von Voigtlander Women's Hospital)](https://jobright.ai/jobs/info/69a3495cb600907a96298a18?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Feb 28 |
 | **[Coastal Maine Botanical Gardens](https://www.mainegardens.org)** | **[IT Help Desk Paid Intern](https://jobright.ai/jobs/info/69a3494f359fe034b1ce7c82?utm_campaign=1058&utm_source=git)** | Boothbay, ME | On Site | Feb 28 |
@@ -130,6 +131,7 @@ For a complete list, click the following sortable link below:
 | **[Fremont Bank](http://www.fremontbank.com)** | **[Intern - Card Services](https://jobright.ai/jobs/info/69a29dfeb600907a9628fb85?utm_campaign=1058&utm_source=git)** | Livermore, CA | On Site | Feb 27 |
 | **[CHI](https://www.catholichealthinitiatives.org/)** | **[Radiology Tech Intern](https://jobright.ai/jobs/info/69a29c050da45516f16bf421?utm_campaign=1058&utm_source=git)** | Bismarck, ND | On Site | Feb 27 |
 | ↳ | **[Surgical Tech Intern](https://jobright.ai/jobs/info/69a299f4b600907a9628f4cd?utm_campaign=1058&utm_source=git)** | Omaha, NE | On Site | Feb 27 |
+| **[Dignity Health](https://www.dignityhealth.org)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/69a299e5b600907a9628f4c0?utm_campaign=1058&utm_source=git)** | Los Angeles, CA | On Site | Feb 27 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/69a296deb600907a9628f061?utm_campaign=1058&utm_source=git)** | Beaumont, TX | On Site | Feb 27 |
 | **[RETTEW](http://rettew.com)** | **[IT Technician Internship](https://jobright.ai/jobs/info/69a29143b600907a9628ecb8?utm_campaign=1058&utm_source=git)** | Lancaster, PA | Hybrid | Feb 27 |
 | **[Dollar Bank](http://dollar.bank)** | **[Summer Teller Internship Central Region (Full Time)](https://jobright.ai/jobs/info/69a28fe5359fe034b1cddbbe?utm_campaign=1058&utm_source=git)** | Cleveland, OH | On Site | Feb 27 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Highridge Medical](https://www.highridgemedical.com)** | **[IT Support Intern](https://jobright.ai/jobs/info/69a2609f359fe034b1cd9bc3?utm_campaign=1058&utm_source=git)** | Westminster, CO, US | On Site | Feb 27 |
 | **[Repligen Corporation](http://www.repligen.com)** | **[IT Process Documentation Intern - Summer Intern](https://jobright.ai/jobs/info/69a255d5359fe034b1cd8f67?utm_campaign=1058&utm_source=git)** | Waltham, MA | On Site | Feb 27 |
 | **[Holiday Inn Club Vacations](http://jobs.holidayinnclub.com/)** | **[Resort Experience Associate Intern- Lee, MA](https://jobright.ai/jobs/info/69a26aa50da45516f16bb19d?utm_campaign=1058&utm_source=git)** | South Lee, Massachusetts, United States | On Site | Feb 27 |
-| **[Canopy Children's Solutions](https://mycanopy.org/)** | **[Summer 2026 - Information Technology (IT) Internship - Jackson](https://jobright.ai/jobs/info/69a2670bb600907a9628b3d2?utm_campaign=1058&utm_source=git)** | Jackson, Mississippi, United States | On Site | Feb 27 |
-| **[SPL](https://spllabs.com)** | **[Summer Intern – Field Services (2026)](https://jobright.ai/jobs/info/69a26aa3359fe034b1cdaaf5?utm_campaign=1058&utm_source=git)** | Reading,PA,US | On Site | Feb 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
