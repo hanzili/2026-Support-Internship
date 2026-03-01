@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GreenStone Farm Credit Services](http://greenstonefcs.com)** | **[Client Support Internship](https://jobright.ai/jobs/info/68f1250cef766b3f0fd0924f?utm_campaign=1058&utm_source=git)** | East Lansing, MI | On Site | Feb 28 |
 | **[Houston Eye Associates](http://houstoneye.com)** | **[Intern PT (JDG)](https://jobright.ai/jobs/info/69a356f7b600907a96299152?utm_campaign=1058&utm_source=git)** | Gramercy - HOUSTON, TX 77025 | On Site | Feb 28 |
 | **[Blach Construction Company](http://blach.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/698d2a36f64d441a164f1f45?utm_campaign=1058&utm_source=git)** | San Jose, CA | On Site | Feb 28 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE - Neonatal Nurse Practitioner Internship (Brandon NICU and Von Voigtlander Women's Hospital)](https://jobright.ai/jobs/info/69a3495cb600907a96298a18?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Feb 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Bayhealth](https://www.bayhealth.org/)** | **[Nursing Assistant Intern](https://jobright.ai/jobs/info/69a26459359fe034b1cda178?utm_campaign=1058&utm_source=git)** | Milford, DE | On Site | Feb 27 |
 | **[Highridge Medical](https://www.highridgemedical.com)** | **[IT Support Intern](https://jobright.ai/jobs/info/69a2609f359fe034b1cd9bc3?utm_campaign=1058&utm_source=git)** | Westminster, CO, US | On Site | Feb 27 |
 | **[Repligen Corporation](http://www.repligen.com)** | **[IT Process Documentation Intern - Summer Intern](https://jobright.ai/jobs/info/69a255d5359fe034b1cd8f67?utm_campaign=1058&utm_source=git)** | Waltham, MA | On Site | Feb 27 |
-| **[Holiday Inn Club Vacations](http://jobs.holidayinnclub.com/)** | **[Resort Experience Associate Intern- Lee, MA](https://jobright.ai/jobs/info/69a26aa50da45516f16bb19d?utm_campaign=1058&utm_source=git)** | South Lee, Massachusetts, United States | On Site | Feb 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
