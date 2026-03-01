@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Blue Cross & Blue Shield of Rhode Island](http://www.bcbsri.com)** | **[Provider Data Integrity Student Intern - Summer 2026](https://jobright.ai/jobs/info/69a3e326b600907a9629d737?utm_campaign=1058&utm_source=git)** | Providence County, RI | On Site | Feb 28 |
+| **[Smith's Food & Drug Centers](https://www.smithsfoodanddrug.com/)** | **[Pharmacist Intern #153](https://jobright.ai/jobs/info/69a3e321359fe034b1cec85f?utm_campaign=1058&utm_source=git)** | Midvale, UT | On Site | Feb 28 |
 | **[Fred Meyer](https://www.fredmeyer.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69a3d99a359fe034b1cec510?utm_campaign=1058&utm_source=git)** | Idaho Falls, ID | On Site | Feb 28 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69a3d641b600907a9629cda1?utm_campaign=1058&utm_source=git)** | Coeur d'Alene, ID | On Site | Feb 28 |
 | **[Carilion Clinic](https://www.carilionclinic.org)** | **[Summer Internship - Receptionist Clerk - 7S PCU](https://jobright.ai/jobs/info/69a3d2f0b600907a9629cd17?utm_campaign=1058&utm_source=git)** | Roanoke, Virginia | On Site | Feb 28 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Children's National Hospital](https://www.childrensnational.org/)** | **[Pharmacy Intern (PRN / As Needed)](https://jobright.ai/jobs/info/69a270ab0da45516f16bbb26?utm_campaign=1058&utm_source=git)** | Washington, DC | On Site | Feb 27 |
 | **[Highgate](https://www.highgate.com)** | **[Operations Intern, Summer 2026](https://jobright.ai/jobs/info/69a26e9d0da45516f16bb6dc?utm_campaign=1058&utm_source=git)** | Boston, MA | On Site | Feb 27 |
 | **[JAS Worldwide](http://www.jas.com)** | **[IT Intern](https://jobright.ai/jobs/info/69a26b620da45516f16bb2db?utm_campaign=1058&utm_source=git)** | Elk Grove Village, IL | On Site | Feb 27 |
-| **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY/PHARMACIST-INTERN](https://jobright.ai/jobs/info/69a26293b600907a9628ad35?utm_campaign=1058&utm_source=git)** | Greenwood Village, CO | On Site | Feb 27 |
-| **[TTX Company](http://www.ttx.com)** | **[Year-Round Digital Ops Support Intern](https://jobright.ai/jobs/info/697d136e3f57a3356966c897?utm_campaign=1058&utm_source=git)** | Charlotte, NC | On Site | Feb 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
