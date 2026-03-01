@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CHRISTUS Health](http://www.christushealth.org)** | **[Nurse Extern I - Nursing Internship - PRN](https://jobright.ai/jobs/info/69a3b246359fe034b1ceab43?utm_campaign=1058&utm_source=git)** | Shreveport, LA | On Site | Feb 28 |
+| **[Mitsubishi Chemical America](https://us.mitsubishi-chemical.com)** | **[Technical Writing Intern](https://jobright.ai/jobs/info/697aadd38dbbf73badc7eedc?utm_campaign=1058&utm_source=git)** | Glen Rock, PA | On Site | Feb 28 |
 | **[GreenStone Farm Credit Services](http://greenstonefcs.com)** | **[Client Support Internship](https://jobright.ai/jobs/info/68f1250cef766b3f0fd0924f?utm_campaign=1058&utm_source=git)** | East Lansing, MI | On Site | Feb 28 |
 | **[Houston Eye Associates](http://houstoneye.com)** | **[Intern PT (JDG)](https://jobright.ai/jobs/info/69a356f7b600907a96299152?utm_campaign=1058&utm_source=git)** | Gramercy - HOUSTON, TX 77025 | On Site | Feb 28 |
 | **[Blach Construction Company](http://blach.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/698d2a36f64d441a164f1f45?utm_campaign=1058&utm_source=git)** | San Jose, CA | On Site | Feb 28 |
@@ -133,14 +135,15 @@ For a complete list, click the following sortable link below:
 | **[CHI](https://www.catholichealthinitiatives.org/)** | **[Radiology Tech Intern](https://jobright.ai/jobs/info/69a29c050da45516f16bf421?utm_campaign=1058&utm_source=git)** | Bismarck, ND | On Site | Feb 27 |
 | ↳ | **[Surgical Tech Intern](https://jobright.ai/jobs/info/69a299f4b600907a9628f4cd?utm_campaign=1058&utm_source=git)** | Omaha, NE | On Site | Feb 27 |
 | **[Dignity Health](https://www.dignityhealth.org)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/69a299e5b600907a9628f4c0?utm_campaign=1058&utm_source=git)** | Los Angeles, CA | On Site | Feb 27 |
+| **[Providence Health & Services](https://www.providence.org/)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/69a3b0a3359fe034b1cea702?utm_campaign=1058&utm_source=git)** | Portland, OR | On Site | Feb 27 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/69a296deb600907a9628f061?utm_campaign=1058&utm_source=git)** | Beaumont, TX | On Site | Feb 27 |
 | **[RETTEW](http://rettew.com)** | **[IT Technician Internship](https://jobright.ai/jobs/info/69a29143b600907a9628ecb8?utm_campaign=1058&utm_source=git)** | Lancaster, PA | Hybrid | Feb 27 |
 | **[Dollar Bank](http://dollar.bank)** | **[Summer Teller Internship Central Region (Full Time)](https://jobright.ai/jobs/info/69a28fe5359fe034b1cddbbe?utm_campaign=1058&utm_source=git)** | Cleveland, OH | On Site | Feb 27 |
 | **[Shelter Insurance Companies](https://www.shelterinsurance.com/)** | **[Cultivate Intern - Auto Physical Damage Claims](https://jobright.ai/jobs/info/69a28f63359fe034b1cddadf?utm_campaign=1058&utm_source=git)** | Greater Columbia, Missouri Area | On Site | Feb 27 |
 | **[Norfolk & Dedham Insurance](http://www.NDGroup.com)** | **[Student Intern- Product Support (Harrisonburg)](https://jobright.ai/jobs/info/69a28b79359fe034b1cdd70a?utm_campaign=1058&utm_source=git)** | Harrisonburg, VA | On Site | Feb 27 |
 | **[American Bankruptcy Institute](https://abi.org/)** | **[Administrative & Membership Intern](https://jobright.ai/jobs/info/69a2ada40da45516f16c127c?utm_campaign=1058&utm_source=git)** | Alexandria, VA | On Site | Feb 27 |
-| **[Dollar Bank](http://dollar.bank)** | **[Summer Teller Internship West Region (Full Time)](https://jobright.ai/jobs/info/69a2ac32b600907a962911f5?utm_campaign=1058&utm_source=git)** | 950 Main Avenue | On Site | Feb 27 |
-| ↳ | **[Summer Teller Internship East Region (Full Time)](https://jobright.ai/jobs/info/69a2f973b600907a96295e26?utm_campaign=1058&utm_source=git)** | 950 Main Avenue | On Site | Feb 27 |
+| **[Dollar Bank](http://dollar.bank)** | **[Summer Teller Internship East Region (Full Time)](https://jobright.ai/jobs/info/69a2f973b600907a96295e26?utm_campaign=1058&utm_source=git)** | 950 Main Avenue | On Site | Feb 27 |
+| ↳ | **[Summer Teller Internship West Region (Full Time)](https://jobright.ai/jobs/info/69a2ac32b600907a962911f5?utm_campaign=1058&utm_source=git)** | 950 Main Avenue | On Site | Feb 27 |
 | **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse II-CVSD](https://jobright.ai/jobs/info/69a27f9eb600907a9628d517?utm_campaign=1058&utm_source=git)** | Memphis, TN | On Site | Feb 27 |
 | **[MVP Health Care](https://www.mvphealthcare.com)** | **[Desktop Support Services Internship](https://jobright.ai/jobs/info/695c07a5aa05c26e7ab55abf?utm_campaign=1058&utm_source=git)** | Schenectady, NY | On Site | Feb 27 |
 | **[United States Holocaust Memorial Museum](http://www.ushmm.org/)** | **[Intern - Visitor Services (8 Opportunities Available) - Onsite](https://jobright.ai/jobs/info/69a271f5359fe034b1cdb54c?utm_campaign=1058&utm_source=git)** | Washington, DC | On Site | Feb 27 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Aurora Health Care](http://aurorahealthcare.org)** | **[Pharmacy Intern - BayCare](https://jobright.ai/jobs/info/69a250c80da45516f16b9607?utm_campaign=1058&utm_source=git)** | Green Bay, WI | On Site | Feb 27 |
 | **[InterDigital, Inc.](https://www.interdigital.com)** | **[Intern, IS Systems / Salesforce](https://jobright.ai/jobs/info/69a264ba0da45516f16baaa5?utm_campaign=1058&utm_source=git)** | Greater Philadelphia | On Site | Feb 27 |
 | **[FusionTek](https://www.fusiontek.com)** | **[IT Support Internship](https://jobright.ai/jobs/info/69a27157359fe034b1cdb3c5?utm_campaign=1058&utm_source=git)** | Federal Way, Washington, United States | On Site | Feb 27 |
-| **[Bayhealth](https://www.bayhealth.org/)** | **[Nursing Assistant Intern](https://jobright.ai/jobs/info/69a26459359fe034b1cda178?utm_campaign=1058&utm_source=git)** | Milford, DE | On Site | Feb 27 |
-| **[Highridge Medical](https://www.highridgemedical.com)** | **[IT Support Intern](https://jobright.ai/jobs/info/69a2609f359fe034b1cd9bc3?utm_campaign=1058&utm_source=git)** | Westminster, CO, US | On Site | Feb 27 |
-| **[Repligen Corporation](http://www.repligen.com)** | **[IT Process Documentation Intern - Summer Intern](https://jobright.ai/jobs/info/69a255d5359fe034b1cd8f67?utm_campaign=1058&utm_source=git)** | Waltham, MA | On Site | Feb 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
