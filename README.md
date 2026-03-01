@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BSH Home Appliances Corporation - North America](https://www.bsh-group.com/us)** | **[Intern - Customer Service Warehouse](https://jobright.ai/jobs/info/69a1e2fd0da45516f16b33de?utm_campaign=1058&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Mar 01 |
+| **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Internship – Admissions Technology and Equipment (Fall 2026)](https://jobright.ai/jobs/info/69a4930c0da45516f16d562a?utm_campaign=1058&utm_source=git)** | Orlando, FL | On Site | Mar 01 |
 | **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[Ultrasound Intern, Part-Time / Win From Within Program - Imaging (Radiology)](https://jobright.ai/jobs/info/693473b2f131d96e4846abac?utm_campaign=1058&utm_source=git)** | St Louis, MO | On Site | Mar 01 |
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Access Your Future Service Intern](https://jobright.ai/jobs/info/68a6bace758f2e4ac3fe73ec?utm_campaign=1058&utm_source=git)** | Dayton, MN | On Site | Mar 01 |
 | **[Pure Fishing](https://www.purefishing.com)** | **[Consumer Service - Intern 1](https://jobright.ai/jobs/info/68f982db6de2db04dc3e9bad?utm_campaign=1058&utm_source=git)** | Columbia, SC | On Site | Mar 01 |
@@ -79,7 +81,6 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Housekeeping Support Summer Intern 2026 - Casual Temp., $22.50/Hour](https://jobright.ai/jobs/info/699eea8c81476f6176b8622b?utm_campaign=1058&utm_source=git)** | Kapolei, HI | On Site | Mar 01 |
 | **[Campbell County Health](https://www.cchwyo.org/)** | **[RADIOLOGY INTERN](https://jobright.ai/jobs/info/69a45ca4b600907a962a40a0?utm_campaign=1058&utm_source=git)** | Gillette, Wyoming | On Site | Mar 01 |
 | **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE - CRNA Internship](https://jobright.ai/jobs/info/69a3f570b600907a9629f546?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Mar 01 |
-| **[AE2S (Advanced Engineering and Environmental Services, LLC)](http://ae2s.com)** | **[IT Intern](https://jobright.ai/jobs/info/69a3f1350da45516f16ce932?utm_campaign=1058&utm_source=git)** | Grand Forks, ND | On Site | Feb 28 |
 | **[Fred Meyer](https://www.fredmeyer.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69a3f102b600907a9629ecba?utm_campaign=1058&utm_source=git)** | Coos Bay, OR | On Site | Feb 28 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69a3ed790da45516f16ce540?utm_campaign=1058&utm_source=git)** | Anchorage, AK | On Site | Feb 28 |
 | ↳ | **[Pharmacist Intern](https://jobright.ai/jobs/info/69a3eceb359fe034b1cedaea?utm_campaign=1058&utm_source=git)** | Oregon City, OR | On Site | Feb 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Technical Services Internship, Summer 2026](https://jobright.ai/jobs/info/697d39f4727747250d580995?utm_campaign=1058&utm_source=git)** | Yarmouth, ME | On Site | Feb 28 |
 | **[Guidepoint](http://www.guidepoint.com)** | **[2024 Tech Intern Pool](https://jobright.ai/jobs/info/667713ec3ab189f6697e9413?utm_campaign=1058&utm_source=git)** | Atlanta, GA | On Site | Feb 28 |
 | **[NYU Langone Health](https://nyulangone.org/)** | **[Student Intern](https://jobright.ai/jobs/info/6986218e8da7a6120460cc54?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Feb 28 |
-| **[Brookfield Residential](https://www.brookfieldresidential.com/)** | **[Intern - Customer Care Analyst (Costa Mesa)](https://jobright.ai/jobs/info/696aa7f25fc8624185399fdc?utm_campaign=1058&utm_source=git)** | Costa Mesa, CA | On Site | Feb 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
