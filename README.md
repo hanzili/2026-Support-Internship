@@ -136,6 +136,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Surgical Tech Intern](https://jobright.ai/jobs/info/69a299f4b600907a9628f4cd?utm_campaign=1058&utm_source=git)** | Omaha, NE | On Site | Feb 27 |
 | **[Dignity Health](https://www.dignityhealth.org)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/69a299e5b600907a9628f4c0?utm_campaign=1058&utm_source=git)** | Los Angeles, CA | On Site | Feb 27 |
 | **[Providence Health & Services](https://www.providence.org/)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/69a3b0a3359fe034b1cea702?utm_campaign=1058&utm_source=git)** | Portland, OR | On Site | Feb 27 |
+| **[Dollar Bank](http://dollar.bank)** | **[Summer Teller Internship East Region (Full Time)](https://jobright.ai/jobs/info/69a3b6bc0da45516f16cb701?utm_campaign=1058&utm_source=git)** | Cleveland, OH | On Site | Feb 27 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/69a296deb600907a9628f061?utm_campaign=1058&utm_source=git)** | Beaumont, TX | On Site | Feb 27 |
 | **[RETTEW](http://rettew.com)** | **[IT Technician Internship](https://jobright.ai/jobs/info/69a29143b600907a9628ecb8?utm_campaign=1058&utm_source=git)** | Lancaster, PA | Hybrid | Feb 27 |
 | **[Dollar Bank](http://dollar.bank)** | **[Summer Teller Internship Central Region (Full Time)](https://jobright.ai/jobs/info/69a28fe5359fe034b1cddbbe?utm_campaign=1058&utm_source=git)** | Cleveland, OH | On Site | Feb 27 |
@@ -155,6 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Acadia Pharmaceuticals Inc.](https://www.acadia-pharm.com/)** | **[Scientific Communications and Medical Information Intern](https://jobright.ai/jobs/info/69a2583db600907a9628a092?utm_campaign=1058&utm_source=git)** | San Diego, CA | Hybrid | Feb 27 |
 | **[Topcon Healthcare](https://topconhealthcare.com)** | **[Customer Experience & Technology Intern](https://jobright.ai/jobs/info/69a254efb600907a96289d53?utm_campaign=1058&utm_source=git)** | Oakland, NJ | On Site | Feb 27 |
 | **[Aurora Health Care](http://aurorahealthcare.org)** | **[Pharmacy Intern - BayCare](https://jobright.ai/jobs/info/69a250c80da45516f16b9607?utm_campaign=1058&utm_source=git)** | Green Bay, WI | On Site | Feb 27 |
-| **[InterDigital, Inc.](https://www.interdigital.com)** | **[Intern, IS Systems / Salesforce](https://jobright.ai/jobs/info/69a264ba0da45516f16baaa5?utm_campaign=1058&utm_source=git)** | Greater Philadelphia | On Site | Feb 27 |
-| **[FusionTek](https://www.fusiontek.com)** | **[IT Support Internship](https://jobright.ai/jobs/info/69a27157359fe034b1cdb3c5?utm_campaign=1058&utm_source=git)** | Federal Way, Washington, United States | On Site | Feb 27 |
+| **[Meritage Homes](https://www.meritagehomes.com)** | **[Customer Care Internship](https://jobright.ai/jobs/info/691464856f36db06ef0470df?utm_campaign=1058&utm_source=git)** | Alpharetta, GA | On Site | Feb 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
