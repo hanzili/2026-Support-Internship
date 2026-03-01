@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse II 3 South](https://jobright.ai/jobs/info/6931f7114c474121999f4eb2?utm_campaign=1058&utm_source=git)** | Memphis, TN | On Site | Mar 01 |
 | **[Foundations Behavioral Health](https://fbh.com)** | **[Clinical Services Intern](https://jobright.ai/jobs/info/69a416470da45516f16d1d44?utm_campaign=1058&utm_source=git)** | Doylestown, PA | On Site | Mar 01 |
 | **[Hilmar](https://www.hilmarcheese.com)** | **[Intern - IT](https://jobright.ai/jobs/info/69337b2da0dde7020e2ee6d5?utm_campaign=1058&utm_source=git)** | Hilmar, CA | On Site | Mar 01 |
 | **[Campbell County Health](https://www.cchwyo.org/)** | **[RADIOLOGY INTERN](https://jobright.ai/jobs/info/69a40a5cb600907a962a171f?utm_campaign=1058&utm_source=git)** | Gillette, WY | On Site | Mar 01 |
@@ -99,7 +100,6 @@ For a complete list, click the following sortable link below:
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69a30c7c359fe034b1ce5c1e?utm_campaign=1058&utm_source=git)** | Tucson, AZ | On Site | Feb 28 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69a3f1650da45516f16ce981?utm_campaign=1058&utm_source=git)** | New Haven, IN | On Site | Feb 28 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69a307cab600907a96296874?utm_campaign=1058&utm_source=git)** | Fort Wayne, IN | On Site | Feb 28 |
-| **[Open Dealer Exchange](https://opendealerexchange.com/)** | **[Desktop Support Technician Intern](https://jobright.ai/jobs/info/69a4022db600907a962a03cf?utm_campaign=1058&utm_source=git)** | Southfield, MI | On Site | Feb 28 |
 | **[apexanalytix](https://www.apexanalytix.com)** | **[Support/Implementation Specialist Intern (Summer 2026)](https://jobright.ai/jobs/info/68c027e1702aa35207aaaf88?utm_campaign=1058&utm_source=git)** | Greensboro, NC | On Site | Feb 28 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69a404710da45516f16d0307?utm_campaign=1058&utm_source=git)** | Staunton, VA | On Site | Feb 28 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69a2f3a70da45516f16c4ff4?utm_campaign=1058&utm_source=git)** | Glen Allen, VA | On Site | Feb 28 |
