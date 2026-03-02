@@ -100,6 +100,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69a3d641b600907a9629cda1?utm_campaign=1058&utm_source=git)** | Coeur d'Alene, ID | On Site | Feb 28 |
 | **[Carilion Clinic](https://www.carilionclinic.org)** | **[Summer Internship - Receptionist Clerk - 7S PCU](https://jobright.ai/jobs/info/69a3d2f0b600907a9629cd17?utm_campaign=1058&utm_source=git)** | Roanoke, Virginia | On Site | Feb 28 |
 | **[Blue Cross & Blue Shield of Rhode Island](http://www.bcbsri.com)** | **[Provider Data Integrity Student Intern - Summer 2026](https://jobright.ai/jobs/info/69a3d2bab600907a9629cd07?utm_campaign=1058&utm_source=git)** | US RI 500 Exchange | Hybrid | Feb 28 |
+| **[Open Dealer Exchange](https://opendealerexchange.com/)** | **[Desktop Support Technician Intern](https://jobright.ai/jobs/info/69a52610b600907a962ac40f?utm_campaign=1058&utm_source=git)** | Southfield, MI | On Site | Feb 28 |
 | **[CHRISTUS Health](http://www.christushealth.org)** | **[Nurse Extern I - Nursing Internship - PRN](https://jobright.ai/jobs/info/69a3b246359fe034b1ceab43?utm_campaign=1058&utm_source=git)** | Shreveport, LA | On Site | Feb 28 |
 | **[Mitsubishi Chemical America](https://us.mitsubishi-chemical.com)** | **[Technical Writing Intern](https://jobright.ai/jobs/info/697aadd38dbbf73badc7eedc?utm_campaign=1058&utm_source=git)** | Glen Rock, PA | On Site | Feb 28 |
 | **[Health Connect America](https://healthconnectamerica.com)** | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/69a4491b359fe034b1cf2d70?utm_campaign=1058&utm_source=git)** | Atlanta, GA | Hybrid | Feb 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[American Society of Clinical Oncology (ASCO)](http://asco.org)** | **[IT Infrastructure Intern](https://jobright.ai/jobs/info/69a2e8a7b600907a96294a99?utm_campaign=1058&utm_source=git)** | Alexandria, VA | On Site | Feb 28 |
 | **[Lasko Products](https://www.lasko.com/)** | **[IT Summer Internship](https://jobright.ai/jobs/info/698621218da7a6120460cb8c?utm_campaign=1058&utm_source=git)** | West Chester, PA | Hybrid | Feb 28 |
 | **[Rush University Medical Center](https://www.rush.edu/)** | **[Pharmacy Intern-24606](https://jobright.ai/jobs/info/6986f2258da7a61204620377?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Feb 28 |
-| **[The Cancer & Hematology Centers](https://www.chcwm.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69a2e2fcb600907a9629459a?utm_campaign=1058&utm_source=git)** | Grand Rapids, MI | On Site | Feb 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
