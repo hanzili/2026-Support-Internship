@@ -107,8 +107,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/69a448b10da45516f16d38af?utm_campaign=1058&utm_source=git)** | Dallas, GA | Hybrid | Feb 28 |
 | ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/69a45fdcb600907a962a4238?utm_campaign=1058&utm_source=git)** | Dalton, GA | Hybrid | Feb 28 |
 | ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/69a45fffb600907a962a424d?utm_campaign=1058&utm_source=git)** | Jesup, GA | Hybrid | Feb 28 |
-| ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/69a460590da45516f16d4069?utm_campaign=1058&utm_source=git)** | Gainesville, GA | Hybrid | Feb 28 |
 | ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/69a4601f359fe034b1cf353b?utm_campaign=1058&utm_source=git)** | Tyrone, GA | Hybrid | Feb 28 |
+| ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/69a460590da45516f16d4069?utm_campaign=1058&utm_source=git)** | Gainesville, GA | Hybrid | Feb 28 |
 | ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/69a460ce0da45516f16d40bd?utm_campaign=1058&utm_source=git)** | Statesboro, GA | Hybrid | Feb 28 |
 | ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/69a45fd6b600907a962a4232?utm_campaign=1058&utm_source=git)** | Snellville, GA | Hybrid | Feb 28 |
 | **[Aegis Aerospace Inc.](https://aegisaero.com/)** | **[DoD SkillBridge Internship – Information Technology Help Desk with Security Clearance](https://jobright.ai/jobs/info/69a43ccf359fe034b1cf2419?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Feb 28 |
