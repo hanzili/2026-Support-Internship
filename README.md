@@ -61,7 +61,6 @@ For a complete list, click the following sortable link below:
 | **[Xometry](https://www.xometry.com)** | **[IT Service Desk Intern](https://jobright.ai/jobs/info/6944700a94730b7398779ac1?utm_campaign=1058&utm_source=git)** | Lexington, KY | Hybrid | Mar 01 |
 | ↳ | **[Customer Support Intern](https://jobright.ai/jobs/info/695ab318aa05c26e7ab4364b?utm_campaign=1058&utm_source=git)** | North Bethesda, MD | Hybrid | Mar 01 |
 | **[S2 Capital](https://www.s2cp.com)** | **[IT Support Intern](https://jobright.ai/jobs/info/69a4cecbb600907a962a767a?utm_campaign=1058&utm_source=git)** | Dallas, TX | On Site | Mar 01 |
-| **[Targeted Victory](http://www.targetedvictory.com/)** | **[Summer Intern, Text Messaging](https://jobright.ai/jobs/info/69a4c717359fe034b1cf6799?utm_campaign=1058&utm_source=git)** | Arlington, VA | On Site | Mar 01 |
 | **[Lactalis Canada](https://lactalis.ca/)** | **[Production Assistant Intern](https://jobright.ai/jobs/info/69a4c45e0da45516f16d72b0?utm_campaign=1058&utm_source=git)** | Winchester, Ontario, Canada | On Site | Mar 01 |
 | **[BSH Home Appliances Corporation - North America](https://www.bsh-group.com/us)** | **[Intern - Customer Service Warehouse](https://jobright.ai/jobs/info/69a1e2fd0da45516f16b33de?utm_campaign=1058&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Mar 01 |
 | **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Internship – Admissions Technology and Equipment (Fall 2026)](https://jobright.ai/jobs/info/69a4930c0da45516f16d562a?utm_campaign=1058&utm_source=git)** | Orlando, FL | On Site | Mar 01 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[American Society of Clinical Oncology (ASCO)](http://asco.org)** | **[IT Infrastructure Intern](https://jobright.ai/jobs/info/69a2e8a7b600907a96294a99?utm_campaign=1058&utm_source=git)** | Alexandria, VA | On Site | Feb 28 |
 | **[Lasko Products](https://www.lasko.com/)** | **[IT Summer Internship](https://jobright.ai/jobs/info/698621218da7a6120460cb8c?utm_campaign=1058&utm_source=git)** | West Chester, PA | Hybrid | Feb 28 |
 | **[Rush University Medical Center](https://www.rush.edu/)** | **[Pharmacy Intern-24606](https://jobright.ai/jobs/info/6986f2258da7a61204620377?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Feb 28 |
+| **[The Cancer & Hematology Centers](https://www.chcwm.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69a2e2fcb600907a9629459a?utm_campaign=1058&utm_source=git)** | Grand Rapids, MI | On Site | Feb 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
