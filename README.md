@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Xometry](https://www.xometry.com)** | **[Customer Support Intern](https://jobright.ai/jobs/info/695ab318aa05c26e7ab4364b?utm_campaign=1058&utm_source=git)** | North Bethesda, MD | Hybrid | Mar 01 |
 | **[S2 Capital](https://www.s2cp.com)** | **[IT Support Intern](https://jobright.ai/jobs/info/69a4cecbb600907a962a767a?utm_campaign=1058&utm_source=git)** | Dallas, TX | On Site | Mar 01 |
 | **[Temple Health – Temple University Health System](https://www.templehealth.org/)** | **[PHARMACY INTERN (PT; 15hrs/wk) - Temple Health/Fox Chase Cancer Center](https://jobright.ai/jobs/info/69a4ccb1b600907a962a763c?utm_campaign=1058&utm_source=git)** | Philadelphia, PA | On Site | Mar 01 |
 | **[Targeted Victory](http://www.targetedvictory.com/)** | **[Summer Intern, Text Messaging](https://jobright.ai/jobs/info/69a4c717359fe034b1cf6799?utm_campaign=1058&utm_source=git)** | Arlington, VA | On Site | Mar 01 |
@@ -106,8 +107,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/69a45fdcb600907a962a4238?utm_campaign=1058&utm_source=git)** | Dalton, GA | Hybrid | Feb 28 |
 | ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/69a45fffb600907a962a424d?utm_campaign=1058&utm_source=git)** | Jesup, GA | Hybrid | Feb 28 |
 | ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/69a4605d359fe034b1cf3563?utm_campaign=1058&utm_source=git)** | Columbus, GA | Hybrid | Feb 28 |
-| ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/69a460590da45516f16d4069?utm_campaign=1058&utm_source=git)** | Gainesville, GA | Hybrid | Feb 28 |
 | ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/69a4601f359fe034b1cf353b?utm_campaign=1058&utm_source=git)** | Tyrone, GA | Hybrid | Feb 28 |
+| ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/69a460590da45516f16d4069?utm_campaign=1058&utm_source=git)** | Gainesville, GA | Hybrid | Feb 28 |
 | ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/69a460ce0da45516f16d40bd?utm_campaign=1058&utm_source=git)** | Statesboro, GA | Hybrid | Feb 28 |
 | ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/69a45fd6b600907a962a4232?utm_campaign=1058&utm_source=git)** | Snellville, GA | Hybrid | Feb 28 |
 | **[Aegis Aerospace Inc.](https://aegisaero.com/)** | **[DoD SkillBridge Internship – Information Technology Help Desk with Security Clearance](https://jobright.ai/jobs/info/69a43ccf359fe034b1cf2419?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Feb 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[American Society of Clinical Oncology (ASCO)](http://asco.org)** | **[IT Infrastructure Intern](https://jobright.ai/jobs/info/69a2e8a7b600907a96294a99?utm_campaign=1058&utm_source=git)** | Alexandria, VA | On Site | Feb 28 |
 | **[Lasko Products](https://www.lasko.com/)** | **[IT Summer Internship](https://jobright.ai/jobs/info/698621218da7a6120460cb8c?utm_campaign=1058&utm_source=git)** | West Chester, PA | Hybrid | Feb 28 |
 | **[Rush University Medical Center](https://www.rush.edu/)** | **[Pharmacy Intern-24606](https://jobright.ai/jobs/info/6986f2258da7a61204620377?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Feb 28 |
-| **[The Cancer & Hematology Centers](https://www.chcwm.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69a2e2fcb600907a9629459a?utm_campaign=1058&utm_source=git)** | Grand Rapids, MI | On Site | Feb 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
