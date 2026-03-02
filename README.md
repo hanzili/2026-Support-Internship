@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Concord](https://concord.com/)** | **[Client Services Intern](https://jobright.ai/jobs/info/69a57f940da45516f16e2cf6?utm_campaign=1058&utm_source=git)** | Nashville, TN | On Site | Mar 02 |
+| ↳ | **[IT (Info Technology) Intern](https://jobright.ai/jobs/info/69a57ec2b600907a962b2e72?utm_campaign=1058&utm_source=git)** | Nashville, TN | On Site | Mar 02 |
 | **[LEVITON MANUFACTURING](https://www.linkedin.com/company/9602682)** | **[Intern, IT Infrastructure](https://jobright.ai/jobs/info/69a56f9ab600907a962b24bd?utm_campaign=1058&utm_source=git)** | Melville, NY | On Site | Mar 02 |
 | **[Clyde Companies, Inc.](https://www.clydeinc.com/)** | **[IT Support and Operations Intern](https://jobright.ai/jobs/info/69a567cc0da45516f16e1cd5?utm_campaign=1058&utm_source=git)** | Orem, UT | On Site | Mar 02 |
 | **[U.S. Green Building Council](http://www.usgbc.org)** | **[Technical Customer Service Intern (Remote in U.S.)](https://jobright.ai/jobs/info/69a563f50da45516f16e177f?utm_campaign=1058&utm_source=git)** | Washington, DC | Remote | Mar 02 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69a2f233359fe034b1ce44b0?utm_campaign=1058&utm_source=git)** | Glen Allen, VA | On Site | Feb 28 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69a2f1c4b600907a96295234?utm_campaign=1058&utm_source=git)** | Arlington Heights, IL | On Site | Feb 28 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69a2f1bb0da45516f16c4d99?utm_campaign=1058&utm_source=git)** | Charleston, WV | On Site | Feb 28 |
-| **[Mount Sinai Health System](https://www.mountsinai.org)** | **[Student Nurse Intern (TEMP) - Mount Sinai Brooklyn - Full-time - Day](https://jobright.ai/jobs/info/69a2f083b600907a962950e9?utm_campaign=1058&utm_source=git)** | Brooklyn, NY | On Site | Feb 28 |
-| **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse I](https://jobright.ai/jobs/info/6986e78a8ca8121a3a696e87?utm_campaign=1058&utm_source=git)** | West Memphis, AR | On Site | Feb 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
