@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mercy Medical Center, Baltimore, MD](https://mdmercy.com)** | **[Intern](https://jobright.ai/jobs/info/69a69464708b430a607afa10?utm_campaign=1058&utm_source=git)** | Baltimore, MD | On Site | Mar 02 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Summer 2026 Preferred Communities (PC) Intern - UNPAID](https://jobright.ai/jobs/info/69a68c17f707784310afe14e?utm_campaign=1058&utm_source=git)** | Tallahassee, FL | Hybrid | Mar 02 |
 | **[JX Truck Center](https://jxe.com/)** | **[Intern - Service Dept](https://jobright.ai/jobs/info/69a67eb52c0d8b0f5cd09c83?utm_campaign=1058&utm_source=git)** | Wyoming, MI | On Site | Mar 02 |
 | **[Allegro Pediatrics](https://www.allegropediatrics.com/)** | **[Temporary Healthcare Intern - Summer](https://jobright.ai/jobs/info/69a67d27d706a731db386bb4?utm_campaign=1058&utm_source=git)** | Bellevue, WA | On Site | Mar 02 |
@@ -123,9 +124,9 @@ For a complete list, click the following sortable link below:
 | **[Akerman LLP](https://www.akerman.com/)** | **[Summer Intern](https://jobright.ai/jobs/info/69a5fb050da45516f16ecb97?utm_campaign=1058&utm_source=git)** | Jacksonville, FL | On Site | Mar 02 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Summer 2026 Preferred Communities (PC) Intern - UNPAID](https://jobright.ai/jobs/info/69a619d7b600907a962bfd23?utm_campaign=1058&utm_source=git)** | Tallahassee, FL USA | Hybrid | Mar 02 |
 | **[Trinity Health](http://www.trinity-health.org)** | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/69a5f85ab600907a962bca15?utm_campaign=1058&utm_source=git)** | Syracuse, NY | On Site | Mar 02 |
-| **[Air Academy Credit Union](https://www.aafcu.com/)** | **[High School Intern Line Service Rep (Teller)](https://jobright.ai/jobs/info/69a627d2359fe034b1d0f8c7?utm_campaign=1058&utm_source=git)** | Castle Rock, CO, US | On Site | Mar 02 |
+| **[Air Academy Credit Union](https://www.aafcu.com/)** | **[High School Intern Line Service Rep (Teller)](https://jobright.ai/jobs/info/69a61c36b600907a962bffb5?utm_campaign=1058&utm_source=git)** | Parker, CO, US | On Site | Mar 02 |
+| ↳ | **[High School Intern Line Service Rep (Teller)](https://jobright.ai/jobs/info/69a627d2359fe034b1d0f8c7?utm_campaign=1058&utm_source=git)** | Castle Rock, CO, US | On Site | Mar 02 |
 | ↳ | **[High School Intern Line Service Rep (Teller)](https://jobright.ai/jobs/info/69a61b7e359fe034b1d0ed4c?utm_campaign=1058&utm_source=git)** | Monument, CO, US | On Site | Mar 02 |
-| ↳ | **[High School Intern Line Service Rep (Teller)](https://jobright.ai/jobs/info/69a61c36b600907a962bffb5?utm_campaign=1058&utm_source=git)** | Parker, CO, US | On Site | Mar 02 |
 | ↳ | **[High School Intern Line Service Rep (Teller)](https://jobright.ai/jobs/info/69a62445359fe034b1d0f5a9?utm_campaign=1058&utm_source=git)** | COLORADO SPRINGS, CO, US | On Site | Mar 02 |
 | **[Bon Secours Mercy Health](https://bsmhealth.org/)** | **[Respiratory Intern - Southside Medical Center](https://jobright.ai/jobs/info/69a5f3f1359fe034b1d0b53c?utm_campaign=1058&utm_source=git)** | Petersburg, VA | On Site | Mar 02 |
 | **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Solution Center IT Help Desk](https://jobright.ai/jobs/info/69a61993359fe034b1d0eb83?utm_campaign=1058&utm_source=git)** | Tempe, AZ, US | Hybrid | Mar 02 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[KIPP NYC](http://www.kippnyc.org)** | **[IT Intern](https://jobright.ai/jobs/info/69a60b56b600907a962bebe8?utm_campaign=1058&utm_source=git)** | Houston, TX, USA | On Site | Mar 02 |
 | ↳ | **[IT Intern](https://jobright.ai/jobs/info/69a60d5f0da45516f16ee9a9?utm_campaign=1058&utm_source=git)** | San Antonio, TX, USA | On Site | Mar 02 |
 | ↳ | **[IT Intern](https://jobright.ai/jobs/info/69a60e3cb600907a962bef49?utm_campaign=1058&utm_source=git)** | Dallas, TX, USA | On Site | Mar 02 |
-| ↳ | **[IT Intern](https://jobright.ai/jobs/info/69a61904b600907a962bfc3d?utm_campaign=1058&utm_source=git)** | Austin, TX, USA | On Site | Mar 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
