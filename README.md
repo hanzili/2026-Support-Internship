@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Xometry](https://www.xometry.com)** | **[Case Management Intern](https://jobright.ai/jobs/info/6943a5e5dd382f5f5669c041?utm_campaign=1058&utm_source=git)** | North Bethesda, MD | Hybrid | Mar 07 |
+| **[Xometry](https://www.xometry.com)** | **[IT Service Desk Intern](https://jobright.ai/jobs/info/69acaada2747003c3d524801?utm_campaign=1058&utm_source=git)** | North Bethesda, MD | Hybrid | Mar 07 |
+| ↳ | **[Case Management Intern](https://jobright.ai/jobs/info/6943a5e5dd382f5f5669c041?utm_campaign=1058&utm_source=git)** | North Bethesda, MD | Hybrid | Mar 07 |
 | **[Greenville Water](https://www.greenvillewater.com/)** | **[IT Summer Intern / Part-time Temporary](https://jobright.ai/jobs/info/69ac87ed142d5b4265fdc99d?utm_campaign=1058&utm_source=git)** | Greenville, SC | On Site | Mar 07 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[PHARM INTERN TECH (TEMP)](https://jobright.ai/jobs/info/69ac84747e1fab39d3841726?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Mar 07 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[IT Bachelor's Intern](https://jobright.ai/jobs/info/69ac69fd2747003c3d521199?utm_campaign=1058&utm_source=git)** | Pasadena, CA | Hybrid | Mar 07 |
@@ -144,17 +145,16 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Customer Support and Business Intelligence](https://jobright.ai/jobs/info/69ab661c2747003c3d5104a3?utm_campaign=1058&utm_source=git)** | Virginia, United States | On Site | Mar 06 |
 | ↳ | **[Intern, Customer Support and Business Intelligence](https://jobright.ai/jobs/info/69ab661c2747003c3d51049d?utm_campaign=1058&utm_source=git)** | Minnesota, United States | On Site | Mar 06 |
 | ↳ | **[Intern, Customer Support and Business Intelligence](https://jobright.ai/jobs/info/69ab66147e1fab39d382ee9f?utm_campaign=1058&utm_source=git)** | New Jersey, United States | On Site | Mar 06 |
-| ↳ | **[Intern, Customer Support and Business Intelligence](https://jobright.ai/jobs/info/69ab66112747003c3d510465?utm_campaign=1058&utm_source=git)** | California, United States | On Site | Mar 06 |
 | ↳ | **[Intern, Customer Support and Business Intelligence](https://jobright.ai/jobs/info/69ab66112747003c3d510464?utm_campaign=1058&utm_source=git)** | Rhode Island, United States | On Site | Mar 06 |
+| ↳ | **[Intern, Customer Support and Business Intelligence](https://jobright.ai/jobs/info/69ab66112747003c3d510465?utm_campaign=1058&utm_source=git)** | California, United States | On Site | Mar 06 |
 | ↳ | **[Intern, Customer Support and Business Intelligence](https://jobright.ai/jobs/info/69ab660a7e1fab39d382ee5f?utm_campaign=1058&utm_source=git)** | Georgia, United States | On Site | Mar 06 |
-| ↳ | **[Intern, Customer Support and Business Intelligence](https://jobright.ai/jobs/info/69ab66092747003c3d510427?utm_campaign=1058&utm_source=git)** | Colorado, United States | On Site | Mar 06 |
 | ↳ | **[Intern, Customer Support and Business Intelligence](https://jobright.ai/jobs/info/69ab66097e1fab39d382ee58?utm_campaign=1058&utm_source=git)** | Kansas, United States | On Site | Mar 06 |
+| ↳ | **[Intern, Customer Support and Business Intelligence](https://jobright.ai/jobs/info/69ab66092747003c3d510427?utm_campaign=1058&utm_source=git)** | Colorado, United States | On Site | Mar 06 |
 | ↳ | **[Intern, Customer Support and Business Intelligence](https://jobright.ai/jobs/info/69ab66007e1fab39d382ee1c?utm_campaign=1058&utm_source=git)** | Ohio, United States | On Site | Mar 06 |
-| ↳ | **[Intern, Customer Support and Business Intelligence](https://jobright.ai/jobs/info/69ab65ff2747003c3d5103fd?utm_campaign=1058&utm_source=git)** | Massachusetts, United States | On Site | Mar 06 |
 | ↳ | **[Intern, Customer Support and Business Intelligence](https://jobright.ai/jobs/info/69ab65ff2747003c3d5103fb?utm_campaign=1058&utm_source=git)** | Washington, DC | On Site | Mar 06 |
+| ↳ | **[Intern, Customer Support and Business Intelligence](https://jobright.ai/jobs/info/69ab65ff2747003c3d5103fd?utm_campaign=1058&utm_source=git)** | Massachusetts, United States | On Site | Mar 06 |
 | ↳ | **[Intern, Customer Support and Business Intelligence](https://jobright.ai/jobs/info/69ab65fe2747003c3d5103f1?utm_campaign=1058&utm_source=git)** | New Mexico, United States | On Site | Mar 06 |
 | ↳ | **[Intern, Customer Support and Business Intelligence](https://jobright.ai/jobs/info/69ab65f67e1fab39d382edec?utm_campaign=1058&utm_source=git)** | Montana, United States | On Site | Mar 06 |
 | ↳ | **[Intern, Customer Support and Business Intelligence](https://jobright.ai/jobs/info/69ab65f67e1fab39d382ede3?utm_campaign=1058&utm_source=git)** | Arkansas, United States | On Site | Mar 06 |
 | ↳ | **[Intern, Customer Support and Business Intelligence](https://jobright.ai/jobs/info/69ab65ee7e1fab39d382edae?utm_campaign=1058&utm_source=git)** | Nebraska, United States | On Site | Mar 06 |
-| ↳ | **[Intern, Customer Support and Business Intelligence](https://jobright.ai/jobs/info/69ab65e12747003c3d510342?utm_campaign=1058&utm_source=git)** | Oklahoma, United States | On Site | Mar 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
