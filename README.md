@@ -57,14 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MyMichigan Health](https://www.mymichigan.org)** | **[Pharmacist Intern - Saginaw](https://jobright.ai/jobs/info/699e72b5e0bddb6acace0848?utm_campaign=1058&utm_source=git)** | Saginaw, MI | On Site | Mar 10 |
 | **[MANITOU Group](http://www.manitou-group.com)** | **[Technical Writing Intern](https://jobright.ai/jobs/info/69b03b070b2db6275c03c234?utm_campaign=1058&utm_source=git)** | West Bend, WI | On Site | Mar 10 |
 | ↳ | **[Technical Writer Intern](https://jobright.ai/jobs/info/69b03aee0b2db6275c03c1dc?utm_campaign=1058&utm_source=git)** | West Bend, WI | On Site | Mar 10 |
 | ↳ | **[It Technician Intern](https://jobright.ai/jobs/info/69b03a1f7495006450961147?utm_campaign=1058&utm_source=git)** | West Bend, WI | On Site | Mar 10 |
 | ↳ | **[Technical Writing Intern](https://jobright.ai/jobs/info/69b03a19dfaeda6ff599b544?utm_campaign=1058&utm_source=git)** | West Bend, WI | On Site | Mar 10 |
 | ↳ | **[Transporation and Logistic Intern](https://jobright.ai/jobs/info/69b03a0774950064509610fd?utm_campaign=1058&utm_source=git)** | West Bend, WI | On Site | Mar 10 |
 | **[St. Elizabeth Healthcare](http://www.stelizabeth.com/)** | **[Pharmacy Intern Inpatient](https://jobright.ai/jobs/info/69b0360c74950064509606a0?utm_campaign=1058&utm_source=git)** | Fort Thomas, KY | On Site | Mar 10 |
-| **[Eaton](https://www.eaton.com/us/en-us/products/emobility/expertise.html)** | **[Intern, Field Service Representative (4 months) Beamsville, ON](https://jobright.ai/jobs/info/69b03535dfaeda6ff599a82e?utm_campaign=1058&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Mar 10 |
-| ↳ | **[Intern, Field Service Representative (4 months) Beamsville, ON](https://jobright.ai/jobs/info/69b03535dfaeda6ff599a82f?utm_campaign=1058&utm_source=git)** | Beamsville, Ontario, Canada | On Site | Mar 10 |
+| **[Eaton](https://www.eaton.com/us/en-us/products/emobility/expertise.html)** | **[Intern, Field Service Representative (4 months) Beamsville, ON](https://jobright.ai/jobs/info/69b03535dfaeda6ff599a82f?utm_campaign=1058&utm_source=git)** | Beamsville, Ontario, Canada | On Site | Mar 10 |
+| ↳ | **[Intern, Field Service Representative (4 months) Beamsville, ON](https://jobright.ai/jobs/info/69b03535dfaeda6ff599a82e?utm_campaign=1058&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Mar 10 |
 | **[The Applied Research Laboratory at Penn State University](https://www.arl.psu.edu)** | **[IT Endpoint Intern](https://jobright.ai/jobs/info/699ef12394ef206f184e048e?utm_campaign=1058&utm_source=git)** | University Park, PA | On Site | Mar 10 |
 | **[Eaton](https://www.eaton.com/us/en-us/products/emobility/expertise.html)** | **[Intern, Field Service Representative (4 months) Beamsville, ON](https://jobright.ai/jobs/info/69b034d774950064509602e5?utm_campaign=1058&utm_source=git)** | Barrie, Ontario, Canada | On Site | Mar 10 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Surgical Tech Intern](https://jobright.ai/jobs/info/69b034897495006450960218?utm_campaign=1058&utm_source=git)** | Appleton, WI | On Site | Mar 10 |
@@ -118,8 +119,8 @@ For a complete list, click the following sortable link below:
 | **[Lynden](https://www.lynden.com)** | **[Technical Support Intern - Anchorage](https://jobright.ai/jobs/info/69afc29e749500645094dc8f?utm_campaign=1058&utm_source=git)** | Anchorage, AK | On Site | Mar 10 |
 | **[Lovelace Health System](http://lovelace.com/)** | **[Radiology Intern](https://jobright.ai/jobs/info/69afbd96749500645094cc6b?utm_campaign=1058&utm_source=git)** | Albuquerque, NM | On Site | Mar 09 |
 | **[Lynden](https://www.lynden.com)** | **[Technical Support Intern - SeaTac](https://jobright.ai/jobs/info/69afb97ddfaeda6ff5986732?utm_campaign=1058&utm_source=git)** | Seattle, WA | On Site | Mar 09 |
-| **[Walgreens](https://www.walgreens.com)** | **[Centralized Services Pharmacist Summer Internship (Onsite Call Center)](https://jobright.ai/jobs/info/69b02a83749500645095edaa?utm_campaign=1058&utm_source=git)** | 2225 S PRICE RD,CHANDLER,AZ 85286 | On Site | Mar 09 |
-| ↳ | **[Centralized Services Pharmacist Summer Internship (Onsite Call Center)](https://jobright.ai/jobs/info/69b02385dfaeda6ff5997eee?utm_campaign=1058&utm_source=git)** | 2225 S PRICE RD,CHANDLER,AZ,85286-07201-21147-S | On Site | Mar 09 |
+| **[Walgreens](https://www.walgreens.com)** | **[Centralized Services Pharmacist Summer Internship (Onsite Call Center)](https://jobright.ai/jobs/info/69b02385dfaeda6ff5997eee?utm_campaign=1058&utm_source=git)** | 2225 S PRICE RD,CHANDLER,AZ,85286-07201-21147-S | On Site | Mar 09 |
+| ↳ | **[Centralized Services Pharmacist Summer Internship (Onsite Call Center)](https://jobright.ai/jobs/info/69b02a83749500645095edaa?utm_campaign=1058&utm_source=git)** | 2225 S PRICE RD,CHANDLER,AZ 85286 | On Site | Mar 09 |
 | **[Harris Computer](http://www.harriscomputer.com)** | **[Intern, Customer Support and Business Intelligence](https://jobright.ai/jobs/info/69ab660a7e1fab39d382ee5f?utm_campaign=1058&utm_source=git)** | Georgia, United States | On Site | Mar 09 |
 | **[Odlum Brown Limited](https://www.odlumbrown.com)** | **[Client Services Co-op/Intern (5-Month Contract)](https://jobright.ai/jobs/info/69afaebef63f733065b3550d?utm_campaign=1058&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Mar 09 |
 | **[Gensler](http://www.gensler.com)** | **[Student Internship - IT - Summer 2026 - Morristown](https://jobright.ai/jobs/info/69b01549dfaeda6ff59960bf?utm_campaign=1058&utm_source=git)** | Morristown, NJ, US | On Site | Mar 09 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SpartanNash](https://www.spartannash.com/)** | **[Pharmacy Intern Part - Time](https://jobright.ai/jobs/info/69af7692749500645093f098?utm_campaign=1058&utm_source=git)** | Grand Rapids, MI | On Site | Mar 09 |
 | **[Suburban Hospital](http://www.suburbanhospital.org)** | **[Patient Care Tech Intern - PCT - Psych Safety Tech](https://jobright.ai/jobs/info/69af73a1749500645093e691?utm_campaign=1058&utm_source=git)** | DC-Baltimore Area | On Site | Mar 09 |
 | **[Jazwares, LLC](https://jazwares.com/)** | **[Intern - Tech Support Desk](https://jobright.ai/jobs/info/69af720e749500645093e2e0?utm_campaign=1058&utm_source=git)** | Los Angeles, California, United States | Hybrid | Mar 09 |
-| **[AmFirst](https://www.amfirst.org)** | **[Summer Internship 2026 - Information Technology](https://jobright.ai/jobs/info/69af71af6b21de023e609035?utm_campaign=1058&utm_source=git)** | Birmingham, Alabama, United States | On Site | Mar 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
