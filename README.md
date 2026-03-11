@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/69b0ea817495006450980d2f?utm_campaign=1058&utm_source=git)** | Brownwood, TX | On Site | Mar 10 |
-| ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/69b0ea817495006450980d33?utm_campaign=1058&utm_source=git)** | Harker Heights, TX | On Site | Mar 10 |
+| **[Harris Computer](http://www.harriscomputer.com)** | **[Intern](https://jobright.ai/jobs/info/69b0f4260b2db6275c05e670?utm_campaign=1058&utm_source=git)** | Saskatchewan, Canada | Remote | Mar 10 |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/69b0ea817495006450980d33?utm_campaign=1058&utm_source=git)** | Harker Heights, TX | On Site | Mar 10 |
+| ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/69b0ea817495006450980d2f?utm_campaign=1058&utm_source=git)** | Brownwood, TX | On Site | Mar 10 |
 | ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/69b0ea747495006450980cd1?utm_campaign=1058&utm_source=git)** | Edinburg, TX | On Site | Mar 10 |
 | **[State of Delaware](https://www.delawarestatejobs.com/)** | **[DTI-Service Support Specialist-Internship/Externship Term: Not to exceed 9 months](https://jobright.ai/jobs/info/69b0e830dfaeda6ff59bb684?utm_campaign=1058&utm_source=git)** | Delaware, United States | Hybrid | Mar 10 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/69b0e82cdfaeda6ff59bb679?utm_campaign=1058&utm_source=git)** | Taylor, TX | On Site | Mar 10 |
@@ -75,6 +76,7 @@ For a complete list, click the following sortable link below:
 | **[UPMC](https://www.upmc.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69b0cfe30b2db6275c0573ca?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | On Site | Mar 10 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/698feb796ea51a7610f24ee0?utm_campaign=1058&utm_source=git)** | Milwaukee, WI | On Site | Mar 10 |
 | **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Vet Tech Intern](https://jobright.ai/jobs/info/69b0cb67dfaeda6ff59b52fa?utm_campaign=1058&utm_source=git)** | Vallejo, CA | On Site | Mar 10 |
+| **[General Parts Group](http://generalparts.com)** | **[Apprentice Field Service Technician](https://jobright.ai/jobs/info/69b0f3f5749500645098228e?utm_campaign=1058&utm_source=git)** | Indianapolis, IN | On Site | Mar 10 |
 | **[Denver Health](http://www.denverhealth.org)** | **[Intern, Counseling Services](https://jobright.ai/jobs/info/69b0caf10b2db6275c056357?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | Mar 10 |
 | **[Intermountain Health](https://intermountainhealthcare.org)** | **[Intern - DTS](https://jobright.ai/jobs/info/69b0cabf749500645097bfd8?utm_campaign=1058&utm_source=git)** | Murray, UT | On Site | Mar 10 |
 | **[Dartmouth College](http://dartmouth.edu)** | **[Prouty Intern – Customer Service/Fundraising.](https://jobright.ai/jobs/info/69b0c7a2749500645097b600?utm_campaign=1058&utm_source=git)** | Parkway, CA | On Site | Mar 10 |
@@ -82,6 +84,7 @@ For a complete list, click the following sortable link below:
 | **[Educational Systems Federal Credit Union](https://www.esfcu.org)** | **[Information Technology Intern ( hybrid role based in Maryland)](https://jobright.ai/jobs/info/69b0e469749500645097fca8?utm_campaign=1058&utm_source=git)** | 7500 Greenway Center Drive, Greenbelt, MD, United States | Hybrid | Mar 10 |
 | **[Arkansas Children's](https://www.archildrens.org/locations/arkansas-childrens-nw)** | **[Audiology Intern (PRN status)](https://jobright.ai/jobs/info/69b0b4c8dfaeda6ff59b0d89?utm_campaign=1058&utm_source=git)** | Little Rock, AR | On Site | Mar 10 |
 | **[Altera Digital Health](http://www.alterahealth.com)** | **[Intern](https://jobright.ai/jobs/info/69b0e9310b2db6275c05d499?utm_campaign=1058&utm_source=git)** | Remote - Saskatchewan | Remote | Mar 10 |
+| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69b0f664dfaeda6ff59bd304?utm_campaign=1058&utm_source=git)** | California-Sacramento-S. Sacramento Hospital | On Site | Mar 10 |
 | **[Trinity Health](http://www.trinity-health.org)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69b0b23b74950064509776a2?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Mar 10 |
 | **[Vancity](http://www.vancity.com)** | **[Command Centre Intern (May Co-op or Internship Opportunity - 4 Months)](https://jobright.ai/jobs/info/69b0e6d2dfaeda6ff59bb180?utm_campaign=1058&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Mar 10 |
 | **[Harris Computer](http://www.harriscomputer.com)** | **[Intern, Customer Support and Business Intelligence](https://jobright.ai/jobs/info/69ab66d07e1fab39d382f031?utm_campaign=1058&utm_source=git)** | Michigan, United States | On Site | Mar 10 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Customer Support and Business Intelligence](https://jobright.ai/jobs/info/69ab661c2747003c3d5104a3?utm_campaign=1058&utm_source=git)** | Virginia, United States | On Site | Mar 10 |
 | **[SiteOne Landscape Supply](http://www.shemin.net)** | **[Paid Intern (Greer, SC)](https://jobright.ai/jobs/info/69b058390b2db6275c0413eb?utm_campaign=1058&utm_source=git)** | Greer, SC | On Site | Mar 10 |
 | **[Caesars Entertainment](https://www.caesars.com/paris-las-vegas)** | **[Beverage Administration Intern - Seasonal (Tropicana Atlantic City)](https://jobright.ai/jobs/info/69b05836dfaeda6ff59a0e19?utm_campaign=1058&utm_source=git)** | Atlantic City, NJ | On Site | Mar 10 |
-| **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[Ultrasound Intern, Mercy South](https://jobright.ai/jobs/info/695c671a5e4962051b5982e2?utm_campaign=1058&utm_source=git)** | St Louis, MO | On Site | Mar 10 |
-| **[Caesars Entertainment](https://www.caesars.com/paris-las-vegas)** | **[Hotel Operations Intern - Seasonal (Tropicana Atlantic City)](https://jobright.ai/jobs/info/69b0580edfaeda6ff59a0d47?utm_campaign=1058&utm_source=git)** | Atlantic City, NJ | On Site | Mar 10 |
-| **[Harris Computer](http://www.harriscomputer.com)** | **[Intern, Customer Support and Business Intelligence](https://jobright.ai/jobs/info/69ab66ab7e1fab39d382ef7d?utm_campaign=1058&utm_source=git)** | Connecticut, United States | On Site | Mar 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
