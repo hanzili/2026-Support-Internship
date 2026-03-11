@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/69b0ea817495006450980d2f?utm_campaign=1058&utm_source=git)** | Brownwood, TX | On Site | Mar 10 |
+| ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/69b0ea817495006450980d33?utm_campaign=1058&utm_source=git)** | Harker Heights, TX | On Site | Mar 10 |
+| ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/69b0ea747495006450980cd1?utm_campaign=1058&utm_source=git)** | Edinburg, TX | On Site | Mar 10 |
 | **[State of Delaware](https://www.delawarestatejobs.com/)** | **[DTI-Service Support Specialist-Internship/Externship Term: Not to exceed 9 months](https://jobright.ai/jobs/info/69b0e830dfaeda6ff59bb684?utm_campaign=1058&utm_source=git)** | Delaware, United States | Hybrid | Mar 10 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/69b0e82cdfaeda6ff59bb679?utm_campaign=1058&utm_source=git)** | Taylor, TX | On Site | Mar 10 |
 | ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/69b0e8250b2db6275c05d156?utm_campaign=1058&utm_source=git)** | Del Rio, TX | On Site | Mar 10 |
@@ -153,8 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Caesars Entertainment](https://www.caesars.com/paris-las-vegas)** | **[Beverage Administration Intern - Seasonal (Tropicana Atlantic City)](https://jobright.ai/jobs/info/69b05836dfaeda6ff59a0e19?utm_campaign=1058&utm_source=git)** | Atlantic City, NJ | On Site | Mar 10 |
 | **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[Ultrasound Intern, Mercy South](https://jobright.ai/jobs/info/695c671a5e4962051b5982e2?utm_campaign=1058&utm_source=git)** | St Louis, MO | On Site | Mar 10 |
 | **[Caesars Entertainment](https://www.caesars.com/paris-las-vegas)** | **[Hotel Operations Intern - Seasonal (Tropicana Atlantic City)](https://jobright.ai/jobs/info/69b0580edfaeda6ff59a0d47?utm_campaign=1058&utm_source=git)** | Atlantic City, NJ | On Site | Mar 10 |
-| **[Harris Computer](http://www.harriscomputer.com)** | **[Intern, Customer Support and Business Intelligence](https://jobright.ai/jobs/info/69ab66097e1fab39d382ee58?utm_campaign=1058&utm_source=git)** | Kansas, United States | On Site | Mar 10 |
-| ↳ | **[Intern, Customer Support and Business Intelligence](https://jobright.ai/jobs/info/69ab661c7e1fab39d382eed5?utm_campaign=1058&utm_source=git)** | New York, United States | On Site | Mar 10 |
-| ↳ | **[Intern, Customer Support and Business Intelligence](https://jobright.ai/jobs/info/69ab66ab7e1fab39d382ef7d?utm_campaign=1058&utm_source=git)** | Connecticut, United States | On Site | Mar 10 |
-| **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Access Your Future Service Intern](https://jobright.ai/jobs/info/695c65a3aa05c26e7ab5cef3?utm_campaign=1058&utm_source=git)** | Prescott, AZ | On Site | Mar 10 |
+| **[Harris Computer](http://www.harriscomputer.com)** | **[Intern, Customer Support and Business Intelligence](https://jobright.ai/jobs/info/69ab66ab7e1fab39d382ef7d?utm_campaign=1058&utm_source=git)** | Connecticut, United States | On Site | Mar 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
