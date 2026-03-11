@@ -119,8 +119,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/69b19876d04c69566c73e4d5?utm_campaign=1058&utm_source=git)** | San Antonio, TX | On Site | Mar 11 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69b19869d04c69566c73e4b5?utm_campaign=1058&utm_source=git)** | Buffalo, NY | On Site | Mar 11 |
 | **[Harris Computer](http://www.harriscomputer.com)** | **[Intern, Customer Support and Business Intelligence](https://jobright.ai/jobs/info/69ab650b142d5b4265fc9dd2?utm_campaign=1058&utm_source=git)** | Arizona, United States | On Site | Mar 11 |
-| ↳ | **[Intern, Customer Support and Business Intelligence](https://jobright.ai/jobs/info/69ab66112747003c3d510464?utm_campaign=1058&utm_source=git)** | Rhode Island, United States | On Site | Mar 11 |
 | ↳ | **[Intern, Customer Support and Business Intelligence](https://jobright.ai/jobs/info/69ab65fe2747003c3d5103f1?utm_campaign=1058&utm_source=git)** | New Mexico, United States | On Site | Mar 11 |
+| ↳ | **[Intern, Customer Support and Business Intelligence](https://jobright.ai/jobs/info/69ab66112747003c3d510464?utm_campaign=1058&utm_source=git)** | Rhode Island, United States | On Site | Mar 11 |
 | ↳ | **[Intern, Customer Support and Business Intelligence](https://jobright.ai/jobs/info/69ab6543142d5b4265fc9efc?utm_campaign=1058&utm_source=git)** | Wisconsin, United States | On Site | Mar 11 |
 | ↳ | **[Intern, Customer Support and Business Intelligence](https://jobright.ai/jobs/info/69ab65f67e1fab39d382edec?utm_campaign=1058&utm_source=git)** | Montana, United States | On Site | Mar 11 |
 | ↳ | **[Intern, Customer Support and Business Intelligence](https://jobright.ai/jobs/info/69ab66112747003c3d510465?utm_campaign=1058&utm_source=git)** | California, United States | On Site | Mar 11 |
@@ -138,8 +138,8 @@ For a complete list, click the following sortable link below:
 | **[American Society of Clinical Oncology (ASCO)](http://asco.org)** | **[IT Infrastructure Intern](https://jobright.ai/jobs/info/69b194b265de58104c709f84?utm_campaign=1058&utm_source=git)** | Alexandria, VA | On Site | Mar 11 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE - Neonatal Nurse Practitioner Internship (Brandon NICU and Von Voigtlander Women's Hospital)](https://jobright.ai/jobs/info/69b1949dd04c69566c73e107?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Mar 11 |
 | **[BioSpace](http://www.biospace.com/)** | **[Intern, Corporate IT Solutions Partner](https://jobright.ai/jobs/info/69b1949365de58104c709ee1?utm_campaign=1058&utm_source=git)** | San Rafael, CA | On Site | Mar 11 |
-| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE - CRNA Internship](https://jobright.ai/jobs/info/69b19492d04c69566c73e0ed?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Mar 11 |
-| ↳ | **[PHARM INTERN TECH (TEMP)](https://jobright.ai/jobs/info/69b19492d04c69566c73e0f2?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Mar 11 |
+| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[PHARM INTERN TECH (TEMP)](https://jobright.ai/jobs/info/69b19492d04c69566c73e0f2?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Mar 11 |
+| ↳ | **[REGISTERED NURSE - CRNA Internship](https://jobright.ai/jobs/info/69b19492d04c69566c73e0ed?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Mar 11 |
 | **[Amphenol Communications Solutions](http://www.mergeoptics.com)** | **[IT Intern - Summer 2026](https://jobright.ai/jobs/info/6994ee1181476f6176acc66b?utm_campaign=1058&utm_source=git)** | Hamden, CT | On Site | Mar 11 |
 | **[CenterPoint Energy](http://centerpointenergy.com)** | **[Summer IT Internship](https://jobright.ai/jobs/info/69b19354d04c69566c73df64?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Mar 11 |
 | **[Montage International](https://www.montageinternational.com)** | **[Food & Beverage Internship / Montage Palmetto Bluff](https://jobright.ai/jobs/info/699935b1e0bddb6acac845cd?utm_campaign=1058&utm_source=git)** | Bluffton, SC | On Site | Mar 11 |
