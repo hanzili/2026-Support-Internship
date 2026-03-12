@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Southern California](http://www.usc.edu)** | **[Student Records Specialist](https://jobright.ai/jobs/info/69b24308ad360c0340a6fee8?utm_campaign=1058&utm_source=git)** | Los Angeles, CA | On Site | Mar 11 |
+| **[Tyler Technologies](https://www.tylertech.com)** | **[Technical Services Intern, Summer 2026](https://jobright.ai/jobs/info/69a40cba0da45516f16d1651?utm_campaign=1058&utm_source=git)** | Lawrenceville, GA | On Site | Mar 11 |
 | **[Grifols](http://www.grifols.com)** | **[Intern- Record Management](https://jobright.ai/jobs/info/69b239b0a8ac8e70ff660f0c?utm_campaign=1058&utm_source=git)** | California, United States | On Site | Mar 11 |
 | **[Houston Astros](https://astros.mlb.com/)** | **[Ticket Operations Intern](https://jobright.ai/jobs/info/69b2308ed04c69566c74e43a?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Mar 11 |
 | **[The Wonderful Company](http://www.wonderful.com/)** | **[Wonderful College Scholar Summer Internship, IT](https://jobright.ai/jobs/info/69b2282465de58104c719e6e?utm_campaign=1058&utm_source=git)** | Delano, CA, USA | On Site | Mar 11 |
@@ -64,14 +66,13 @@ For a complete list, click the following sortable link below:
 | **[Amphenol Communications Solutions](http://www.mergeoptics.com)** | **[Junior IT Support Intern - S2026](https://jobright.ai/jobs/info/69b22630548f140066e8639c?utm_campaign=1058&utm_source=git)** | Yocumtown, PA | On Site | Mar 11 |
 | **[Albany International Corp.](http://www.albint.com/)** | **[IT Operations Intern](https://jobright.ai/jobs/info/69b221e8548f140066e85d65?utm_campaign=1058&utm_source=git)** | Kaukauna, WI | On Site | Mar 11 |
 | **[ImageTrend](http://www.imagetrend.com)** | **[Technical Writing Intern](https://jobright.ai/jobs/info/69b21e0e65de58104c7194a7?utm_campaign=1058&utm_source=git)** | Hybrid in Eagan, MN | Hybrid | Mar 11 |
-| **[AHMC HealthCare](http://AHMChealth.com)** | **[Pharmacist - Intern PD Variable](https://jobright.ai/jobs/info/69b21dbc65de58104c7192f2?utm_campaign=1058&utm_source=git)** | Monterey Park, CA, US | On Site | Mar 11 |
-| ↳ | **[Pharmacist - Intern PD Variable](https://jobright.ai/jobs/info/69b21dbc65de58104c7192ec?utm_campaign=1058&utm_source=git)** | Monterey Park, CA, US | On Site | Mar 11 |
+| **[AHMC HealthCare](http://AHMChealth.com)** | **[Pharmacist - Intern PD Variable](https://jobright.ai/jobs/info/69b21dbc65de58104c7192ec?utm_campaign=1058&utm_source=git)** | Monterey Park, CA, US | On Site | Mar 11 |
+| ↳ | **[Pharmacist - Intern PD Variable](https://jobright.ai/jobs/info/69b21dbc65de58104c7192f2?utm_campaign=1058&utm_source=git)** | Monterey Park, CA, US | On Site | Mar 11 |
 | ↳ | **[Pharmacist - Intern PD Variable](https://jobright.ai/jobs/info/69b21db0548f140066e85b2f?utm_campaign=1058&utm_source=git)** | US-CA-Monterey Park | On Site | Mar 11 |
 | ↳ | **[Pharmacist - Intern PD Variable](https://jobright.ai/jobs/info/69b21db0548f140066e85b2e?utm_campaign=1058&utm_source=git)** | US-CA-Monterey Park | On Site | Mar 11 |
 | **[AE2S (Advanced Engineering and Environmental Services, LLC)](http://ae2s.com)** | **[IT Intern](https://jobright.ai/jobs/info/69b21cd565de58104c7191bf?utm_campaign=1058&utm_source=git)** | Grand Forks, ND | On Site | Mar 11 |
 | **[Humane Colorado](http://www.ddfl.org)** | **[Veterinary Intern with Humane Colorado](https://jobright.ai/jobs/info/69b21c9fd04c69566c74d000?utm_campaign=1058&utm_source=git)** | Denver,CO,US | On Site | Mar 11 |
 | **[Election Systems & Software](http://www.essvote.com/)** | **[Summer 2026 Internship - IT Service Center Technician](https://jobright.ai/jobs/info/69b21c9cd04c69566c74cff6?utm_campaign=1058&utm_source=git)** | Omaha,NE,US | On Site | Mar 11 |
-| **[New Jersey Courts](https://www.njcourts.gov/)** | **[Paid Intern](https://jobright.ai/jobs/info/69b21addd04c69566c74c972?utm_campaign=1058&utm_source=git)** | Elizabeth, NJ | On Site | Mar 11 |
 | **[Hyatt Regency](http://www.regency.hyatt.com/)** | **[Summer Internship - Rooms](https://jobright.ai/jobs/info/69b21acf548f140066e8541a?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | Mar 11 |
 | **[Bayhealth](https://www.bayhealth.org/)** | **[Nursing Assistant Intern](https://jobright.ai/jobs/info/69b21a2b548f140066e852af?utm_campaign=1058&utm_source=git)** | Milford, DE | On Site | Mar 11 |
 | **[EvergreenHealth](https://www.evergreenhealth.com)** | **[Pharmacist-Intern](https://jobright.ai/jobs/info/69b216eb548f140066e84634?utm_campaign=1058&utm_source=git)** | Kirkland, WA | On Site | Mar 11 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Bloom Energy](http://www.bloomenergy.com)** | **[IT Helpdesk Intern](https://jobright.ai/jobs/info/6925322b27bf2f41a2c3d1ac?utm_campaign=1058&utm_source=git)** | San Jose, CA | On Site | Mar 11 |
 | **[Canadian Blood Services](https://www.blood.ca/)** | **[Customer Service Representative - Summer Student](https://jobright.ai/jobs/info/69b1e6d765de58104c712f1e?utm_campaign=1058&utm_source=git)** | Brampton, Ontario, Canada | Hybrid | Mar 11 |
 | ↳ | **[Customer Care Associate - Summer Student](https://jobright.ai/jobs/info/69b1e6e165de58104c712f57?utm_campaign=1058&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Mar 11 |
-| **[SI Group](https://www.siigroup.com)** | **[Information Technology Site Support Intern](https://jobright.ai/jobs/info/69b1fc72548f140066e82a1f?utm_campaign=1058&utm_source=git)** | 725 Cannon Bridge Road, Orangeburg, SC, 29115, US | On Site | Mar 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
