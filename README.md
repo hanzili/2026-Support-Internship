@@ -57,11 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Charles River Laboratories](http://www.criver.com)** | **[Summer 2026 Intern - Global Customer Care](https://jobright.ai/jobs/info/69b25d00ae2a534885e96366?utm_campaign=1058&utm_source=git)** | Charleston, SC | On Site | Mar 11 |
+| **[AHMC HealthCare](http://AHMChealth.com)** | **[Pharmacist - Intern PD Variable](https://jobright.ai/jobs/info/69b25aedad360c0340a72204?utm_campaign=1058&utm_source=git)** | Monterey Park, CA | On Site | Mar 11 |
+| **[Lenovo](https://www.lenovo.com/in/en/)** | **[IT Intern - Summer 2026](https://jobright.ai/jobs/info/69b25ab7ae2a534885e95a6d?utm_campaign=1058&utm_source=git)** | North Carolina, United States | On Site | Mar 11 |
 | **[University of Southern California](http://www.usc.edu)** | **[Student Records Specialist](https://jobright.ai/jobs/info/69b24308ad360c0340a6fee8?utm_campaign=1058&utm_source=git)** | Los Angeles, CA | On Site | Mar 11 |
 | **[Tyler Technologies](https://www.tylertech.com)** | **[Technical Services Intern, Summer 2026](https://jobright.ai/jobs/info/69a40cba0da45516f16d1651?utm_campaign=1058&utm_source=git)** | Lawrenceville, GA | On Site | Mar 11 |
 | **[Grifols](http://www.grifols.com)** | **[Intern- Record Management](https://jobright.ai/jobs/info/69b239b0a8ac8e70ff660f0c?utm_campaign=1058&utm_source=git)** | California, United States | On Site | Mar 11 |
 | **[Houston Astros](https://astros.mlb.com/)** | **[Ticket Operations Intern](https://jobright.ai/jobs/info/69b2308ed04c69566c74e43a?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Mar 11 |
 | **[The Wonderful Company](http://www.wonderful.com/)** | **[Wonderful College Scholar Summer Internship, IT](https://jobright.ai/jobs/info/69b2282465de58104c719e6e?utm_campaign=1058&utm_source=git)** | Delano, CA, USA | On Site | Mar 11 |
+| **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Paid Intern (1 Year) - Global Meetinghouse Support](https://jobright.ai/jobs/info/69b25849ae2a534885e95292?utm_campaign=1058&utm_source=git)** | Salt Lake City, UT | Hybrid | Mar 11 |
 | **[Xometry](https://www.xometry.com)** | **[IT Service Desk Intern](https://jobright.ai/jobs/info/69acaada2747003c3d524801?utm_campaign=1058&utm_source=git)** | North Bethesda, MD | Hybrid | Mar 11 |
 | **[Amphenol Communications Solutions](http://www.mergeoptics.com)** | **[Junior IT Support Intern - S2026](https://jobright.ai/jobs/info/69b22630548f140066e8639c?utm_campaign=1058&utm_source=git)** | Yocumtown, PA | On Site | Mar 11 |
 | **[Albany International Corp.](http://www.albint.com/)** | **[IT Operations Intern](https://jobright.ai/jobs/info/69b221e8548f140066e85d65?utm_campaign=1058&utm_source=git)** | Kaukauna, WI | On Site | Mar 11 |
@@ -79,7 +83,6 @@ For a complete list, click the following sortable link below:
 | **[Houston Astros](https://astros.mlb.com/)** | **[Ticket Operations Intern](https://jobright.ai/jobs/info/69b21554548f140066e8420b?utm_campaign=1058&utm_source=git)** | Houston, Texas, United States | On Site | Mar 11 |
 | **[MetroPlusHealth](https://www.metroplus.org/)** | **[Summer Intern - Pharmacy](https://jobright.ai/jobs/info/69b2146965de58104c71800f?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Mar 11 |
 | **[Flowers Hospital](https://www.flowershospital.com)** | **[ER Nurse Intern - AD](https://jobright.ai/jobs/info/69b212aed04c69566c74b6ee?utm_campaign=1058&utm_source=git)** | Dothan, AL | On Site | Mar 11 |
-| **[AHMC HealthCare](http://AHMChealth.com)** | **[Pharmacist - Intern PD Variable](https://jobright.ai/jobs/info/69b211e6548f140066e8403a?utm_campaign=1058&utm_source=git)** | Monterey Park, CA | On Site | Mar 11 |
 | **[RadNet](https://www.radnet.com)** | **[Intern (Patient Engagement)](https://jobright.ai/jobs/info/69b2100365de58104c717d2c?utm_campaign=1058&utm_source=git)** | Owings Mills, MD | On Site | Mar 11 |
 | **[AmeriLife](http://www.amerilife.com)** | **[Client Services intern](https://jobright.ai/jobs/info/69b2100165de58104c717d25?utm_campaign=1058&utm_source=git)** | Alpharetta, GA | On Site | Mar 11 |
 | **[RadNet](https://www.radnet.com)** | **[Intern (Patient Engagement)](https://jobright.ai/jobs/info/69b20ff065de58104c717ced?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Mar 11 |
@@ -111,6 +114,7 @@ For a complete list, click the following sortable link below:
 | **[Lower Columbia College](http://www.lowercolumbia.edu/)** | **[Student Help – Food Pantry Assistant (International Students Only)](https://jobright.ai/jobs/info/69b1d6cb548f140066e7c082?utm_campaign=1058&utm_source=git)** | Longview, WA | On Site | Mar 11 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Omni Care Intern / Food & Beverage](https://jobright.ai/jobs/info/69b1d585548f140066e7bd16?utm_campaign=1058&utm_source=git)** | OKC Metro Area | On Site | Mar 11 |
 | **[Amica Insurance](http://www.amica.com)** | **[Student Intern - Claims Department](https://jobright.ai/jobs/info/69a820882580d3183f00298b?utm_campaign=1058&utm_source=git)** | Rhode Island, United States | On Site | Mar 11 |
+| **[Modern Wealth Management](https://barberfinancialgroup.com/)** | **[Intern](https://jobright.ai/jobs/info/69b25792a8ac8e70ff662d71?utm_campaign=1058&utm_source=git)** | Lenexa, KS | On Site | Mar 11 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Paid Intern (1 Year) - Global Meetinghouse Support](https://jobright.ai/jobs/info/69b1d1a5548f140066e7b2bc?utm_campaign=1058&utm_source=git)** | Salt Lake City, UT | Hybrid | Mar 11 |
 | **[Casa de las Campanas](https://www.casadelascampanas.com)** | **[I.T. Intern](https://jobright.ai/jobs/info/69b1fc4965de58104c71691c?utm_campaign=1058&utm_source=git)** | Greenwood, IN, United States | On Site | Mar 11 |
 | **[South Port Square](https://southportseniorliving.com/)** | **[I.T. Intern](https://jobright.ai/jobs/info/69b1fc4965de58104c71691e?utm_campaign=1058&utm_source=git)** | Greenwood, IN, United States | On Site | Mar 11 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Koniag](https://www.koniag.com)** | **[Intern - Procurement Support](https://jobright.ai/jobs/info/69b1ff8b548f140066e8305d?utm_campaign=1058&utm_source=git)** | Chantilly, VA, USA | On Site | Mar 11 |
 | ↳ | **[Intern - IT Support/Service Desk](https://jobright.ai/jobs/info/69b1ff8c548f140066e83067?utm_campaign=1058&utm_source=git)** | Chantilly, VA, USA | On Site | Mar 11 |
 | **[Lovelace Health System](http://lovelace.com/)** | **[Radiology Intern](https://jobright.ai/jobs/info/69b1b9f4548f140066e780fa?utm_campaign=1058&utm_source=git)** | Albuquerque, NM | On Site | Mar 11 |
-| **[HiddenLayer](https://hiddenlayer.com)** | **[Technical Writer Intern for AI Security Products](https://jobright.ai/jobs/info/69b1b9e6d04c69566c73fa1b?utm_campaign=1058&utm_source=git)** | Remote- US | Remote | Mar 11 |
-| **[Canadian Blood Services](https://www.blood.ca/)** | **[Customer Service Representative - Summer Student](https://jobright.ai/jobs/info/69b1e6d765de58104c712f1e?utm_campaign=1058&utm_source=git)** | Brampton, Ontario, Canada | Hybrid | Mar 11 |
-| ↳ | **[Customer Care Associate - Summer Student](https://jobright.ai/jobs/info/69b1e6e165de58104c712f57?utm_campaign=1058&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Mar 11 |
-| **[SI Group](https://www.siigroup.com)** | **[Information Technology Site Support Intern](https://jobright.ai/jobs/info/69b1fc72548f140066e82a1f?utm_campaign=1058&utm_source=git)** | 725 Cannon Bridge Road, Orangeburg, SC, 29115, US | On Site | Mar 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
