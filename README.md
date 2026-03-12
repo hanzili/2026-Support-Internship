@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fred Meyer](https://www.fredmeyer.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69b2722eae2a534885e98f98?utm_campaign=1058&utm_source=git)** | Tualatin, OR | On Site | Mar 12 |
 | **[Charles River Laboratories](http://www.criver.com)** | **[Summer 2026 Intern - Global Customer Care](https://jobright.ai/jobs/info/69b25d00ae2a534885e96366?utm_campaign=1058&utm_source=git)** | Charleston, SC | On Site | Mar 11 |
 | **[AHMC HealthCare](http://AHMChealth.com)** | **[Pharmacist - Intern PD Variable](https://jobright.ai/jobs/info/69b25aedad360c0340a72204?utm_campaign=1058&utm_source=git)** | Monterey Park, CA | On Site | Mar 11 |
 | **[Lenovo](https://www.lenovo.com/in/en/)** | **[IT Intern - Summer 2026](https://jobright.ai/jobs/info/69b25ab7ae2a534885e95a6d?utm_campaign=1058&utm_source=git)** | North Carolina, United States | On Site | Mar 11 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Franciscan Health](https://www.franciscanhealth.org/)** | **[Ultrasound Intern (PRN Alternating - Lafayette)](https://jobright.ai/jobs/info/69b1fa2065de58104c7162b3?utm_campaign=1058&utm_source=git)** | IN - Lafayette | On Site | Mar 11 |
 | **[Koniag](https://www.koniag.com)** | **[Intern - Procurement Support](https://jobright.ai/jobs/info/69b1ff8b548f140066e8305d?utm_campaign=1058&utm_source=git)** | Chantilly, VA, USA | On Site | Mar 11 |
 | ↳ | **[Intern - IT Support/Service Desk](https://jobright.ai/jobs/info/69b1ff8c548f140066e83067?utm_campaign=1058&utm_source=git)** | Chantilly, VA, USA | On Site | Mar 11 |
-| **[Lovelace Health System](http://lovelace.com/)** | **[Radiology Intern](https://jobright.ai/jobs/info/69b1b9f4548f140066e780fa?utm_campaign=1058&utm_source=git)** | Albuquerque, NM | On Site | Mar 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
