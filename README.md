@@ -66,10 +66,10 @@ For a complete list, click the following sortable link below:
 | **[Amphenol Communications Solutions](http://www.mergeoptics.com)** | **[Junior IT Support Intern - S2026](https://jobright.ai/jobs/info/69b22630548f140066e8639c?utm_campaign=1058&utm_source=git)** | Yocumtown, PA | On Site | Mar 11 |
 | **[Albany International Corp.](http://www.albint.com/)** | **[IT Operations Intern](https://jobright.ai/jobs/info/69b221e8548f140066e85d65?utm_campaign=1058&utm_source=git)** | Kaukauna, WI | On Site | Mar 11 |
 | **[ImageTrend](http://www.imagetrend.com)** | **[Technical Writing Intern](https://jobright.ai/jobs/info/69b21e0e65de58104c7194a7?utm_campaign=1058&utm_source=git)** | Hybrid in Eagan, MN | Hybrid | Mar 11 |
-| **[AHMC HealthCare](http://AHMChealth.com)** | **[Pharmacist - Intern PD Variable](https://jobright.ai/jobs/info/69b21dbc65de58104c7192ec?utm_campaign=1058&utm_source=git)** | Monterey Park, CA, US | On Site | Mar 11 |
-| ↳ | **[Pharmacist - Intern PD Variable](https://jobright.ai/jobs/info/69b21dbc65de58104c7192f2?utm_campaign=1058&utm_source=git)** | Monterey Park, CA, US | On Site | Mar 11 |
-| ↳ | **[Pharmacist - Intern PD Variable](https://jobright.ai/jobs/info/69b21db0548f140066e85b2f?utm_campaign=1058&utm_source=git)** | US-CA-Monterey Park | On Site | Mar 11 |
+| **[AHMC HealthCare](http://AHMChealth.com)** | **[Pharmacist - Intern PD Variable](https://jobright.ai/jobs/info/69b21dbc65de58104c7192f2?utm_campaign=1058&utm_source=git)** | Monterey Park, CA, US | On Site | Mar 11 |
+| ↳ | **[Pharmacist - Intern PD Variable](https://jobright.ai/jobs/info/69b21dbc65de58104c7192ec?utm_campaign=1058&utm_source=git)** | Monterey Park, CA, US | On Site | Mar 11 |
 | ↳ | **[Pharmacist - Intern PD Variable](https://jobright.ai/jobs/info/69b21db0548f140066e85b2e?utm_campaign=1058&utm_source=git)** | US-CA-Monterey Park | On Site | Mar 11 |
+| ↳ | **[Pharmacist - Intern PD Variable](https://jobright.ai/jobs/info/69b21db0548f140066e85b2f?utm_campaign=1058&utm_source=git)** | US-CA-Monterey Park | On Site | Mar 11 |
 | **[AE2S (Advanced Engineering and Environmental Services, LLC)](http://ae2s.com)** | **[IT Intern](https://jobright.ai/jobs/info/69b21cd565de58104c7191bf?utm_campaign=1058&utm_source=git)** | Grand Forks, ND | On Site | Mar 11 |
 | **[Humane Colorado](http://www.ddfl.org)** | **[Veterinary Intern with Humane Colorado](https://jobright.ai/jobs/info/69b21c9fd04c69566c74d000?utm_campaign=1058&utm_source=git)** | Denver,CO,US | On Site | Mar 11 |
 | **[Election Systems & Software](http://www.essvote.com/)** | **[Summer 2026 Internship - IT Service Center Technician](https://jobright.ai/jobs/info/69b21c9cd04c69566c74cff6?utm_campaign=1058&utm_source=git)** | Omaha,NE,US | On Site | Mar 11 |
@@ -154,7 +154,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - IT Support/Service Desk](https://jobright.ai/jobs/info/69b1ff8c548f140066e83067?utm_campaign=1058&utm_source=git)** | Chantilly, VA, USA | On Site | Mar 11 |
 | **[Lovelace Health System](http://lovelace.com/)** | **[Radiology Intern](https://jobright.ai/jobs/info/69b1b9f4548f140066e780fa?utm_campaign=1058&utm_source=git)** | Albuquerque, NM | On Site | Mar 11 |
 | **[HiddenLayer](https://hiddenlayer.com)** | **[Technical Writer Intern for AI Security Products](https://jobright.ai/jobs/info/69b1b9e6d04c69566c73fa1b?utm_campaign=1058&utm_source=git)** | Remote- US | Remote | Mar 11 |
-| **[Bloom Energy](http://www.bloomenergy.com)** | **[IT Helpdesk Intern](https://jobright.ai/jobs/info/6925322b27bf2f41a2c3d1ac?utm_campaign=1058&utm_source=git)** | San Jose, CA | On Site | Mar 11 |
 | **[Canadian Blood Services](https://www.blood.ca/)** | **[Customer Service Representative - Summer Student](https://jobright.ai/jobs/info/69b1e6d765de58104c712f1e?utm_campaign=1058&utm_source=git)** | Brampton, Ontario, Canada | Hybrid | Mar 11 |
 | ↳ | **[Customer Care Associate - Summer Student](https://jobright.ai/jobs/info/69b1e6e165de58104c712f57?utm_campaign=1058&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Mar 11 |
+| **[SI Group](https://www.siigroup.com)** | **[Information Technology Site Support Intern](https://jobright.ai/jobs/info/69b1fc72548f140066e82a1f?utm_campaign=1058&utm_source=git)** | 725 Cannon Bridge Road, Orangeburg, SC, 29115, US | On Site | Mar 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
