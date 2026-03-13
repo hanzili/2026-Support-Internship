@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mission Bank](https://www.missionbank.com/)** | **[Teller Intern](https://jobright.ai/jobs/info/69b3b417ad360c0340a8ddbc?utm_campaign=1058&utm_source=git)** | Bakersfield, CA | On Site | Mar 12 |
+| **[Aurora Health Care](http://aurorahealthcare.org)** | **[Surgical Tech Intern](https://jobright.ai/jobs/info/69b3b415ae2a534885eb23bc?utm_campaign=1058&utm_source=git)** | Grafton, WI | On Site | Mar 12 |
+| **[Mission Bank](https://www.missionbank.com/)** | **[IT Service Technician Intern](https://jobright.ai/jobs/info/69b3b105ad360c0340a8dc7e?utm_campaign=1058&utm_source=git)** | Bakersfield, CA | On Site | Mar 12 |
 | **[Mednevo](https://mednevo.com)** | **[Medical Doctor Intern](https://jobright.ai/jobs/info/69b391b7ad360c0340a8b648?utm_campaign=1058&utm_source=git)** | Texas, United States | Remote | Mar 12 |
 | **[Wesley Healthcare](http://www.wesleymc.com)** | **[Pharmacist Intern PRN](https://jobright.ai/jobs/info/69b379c6a8ac8e70ff67bfbc?utm_campaign=1058&utm_source=git)** | Wichita, KS | On Site | Mar 12 |
 | **[Denver Health](http://www.denverhealth.org)** | **[Outpatient Pharmacy Intern lll (P3)](https://jobright.ai/jobs/info/69b379b2a8ac8e70ff67bf85?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | Mar 12 |
@@ -80,7 +83,6 @@ For a complete list, click the following sortable link below:
 | **[Lutheran Health Network](http://www.lutheranhealth.net)** | **[Student Intern Neuro Spine PRN](https://jobright.ai/jobs/info/69b3659bad360c0340a87e48?utm_campaign=1058&utm_source=git)** | Fort Wayne, IN | On Site | Mar 12 |
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Intern - Information Technology](https://jobright.ai/jobs/info/69b36591ad360c0340a87e08?utm_campaign=1058&utm_source=git)** | Collierville, TN | On Site | Mar 12 |
 | **[EisnerAmper](http://www.eisneramper.com)** | **[2026 Real Estate Services Group Summer Intern – IT](https://jobright.ai/jobs/info/69b3629ca8ac8e70ff6794dd?utm_campaign=1058&utm_source=git)** | New York, United States | On Site | Mar 12 |
-| **[BHI, CO](http://bhico.com)** | **[IT Intern](https://jobright.ai/jobs/info/69b381c3ad360c0340a8a8fd?utm_campaign=1058&utm_source=git)** | Salt Lake City, UT, USA | On Site | Mar 12 |
 | **[Land Rover Experience Eastnor](https://experience.landrover.co.uk/eastnor/overview)** | **[IT/Digital Intern](https://jobright.ai/jobs/info/69b3500cad360c0340a8707e?utm_campaign=1058&utm_source=git)** | Mahwah, NJ | Hybrid | Mar 12 |
 | **[Ametros](http://www.ametrosfinancial.com)** | **[Summer Intern - Insurance Claims](https://jobright.ai/jobs/info/69b34e39ae2a534885eab168?utm_campaign=1058&utm_source=git)** | MA Wilmington | Hybrid | Mar 12 |
 | **[Germain Hôtels](https://www.germainhotels.com/)** | **[Intern, Guest Service](https://jobright.ai/jobs/info/69b34066a8ac8e70ff6780cc?utm_campaign=1058&utm_source=git)** | Québec, Quebec, Canada | On Site | Mar 12 |
@@ -150,11 +152,9 @@ For a complete list, click the following sortable link below:
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE - CRNA Internship](https://jobright.ai/jobs/info/69b2e7a1a8ac8e70ff670c55?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Mar 12 |
 | ↳ | **[PHARM INTERN TECH (TEMP)](https://jobright.ai/jobs/info/69b2e78ea8ac8e70ff670c18?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Mar 12 |
 | ↳ | **[REGISTERED NURSE - CRNA Internship](https://jobright.ai/jobs/info/69b2e65dae2a534885ea3175?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Mar 12 |
-| ↳ | **[REGISTERED NURSE - Neonatal Nurse Practitioner Internship (Brandon NICU and Von Voigtlander Women's Hospital)](https://jobright.ai/jobs/info/69b2e651ae2a534885ea315c?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Mar 12 |
 | **[ISACA](http://www.isaca.org)** | **[Intern, IT Service Desk](https://jobright.ai/jobs/info/69a362300da45516f16c8f0c?utm_campaign=1058&utm_source=git)** | Schaumburg, IL | Hybrid | Mar 12 |
 | **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse II](https://jobright.ai/jobs/info/6827f40962df9ad68f698eee?utm_campaign=1058&utm_source=git)** | Meridian, MS | On Site | Mar 12 |
 | **[WakeMed](http://wakemed.org/)** | **[Ultrasound, Student Scholar](https://jobright.ai/jobs/info/69ab4039142d5b4265fc89a1?utm_campaign=1058&utm_source=git)** | Cary, NC | On Site | Mar 12 |
-| **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Research Analyst, Emerging Talent Internship (Summer)](https://jobright.ai/jobs/info/697aa7a68dbbf73badc7e5d1?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Mar 12 |
-| ↳ | **[IT Client Support, Tech & Engineering Fellow (Summer)](https://jobright.ai/jobs/info/6984bcb18da7a612045efd2b?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Mar 12 |
-| **[Waters Corporation](http://www.waters.com)** | **[Intern, Field Service](https://jobright.ai/jobs/info/69b2e016ad360c0340a7e34c?utm_campaign=1058&utm_source=git)** | Cincinnati, OH | On Site | Mar 12 |
+| **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[IT Client Support, Tech & Engineering Fellow (Summer)](https://jobright.ai/jobs/info/6984bcb18da7a612045efd2b?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Mar 12 |
+| ↳ | **[Research Analyst, Emerging Talent Internship (Summer)](https://jobright.ai/jobs/info/697aa7a68dbbf73badc7e5d1?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Mar 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
