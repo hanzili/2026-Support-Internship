@@ -57,6 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Arrowhead Pharmaceuticals](http://arrowheadpharma.com/)** | **[Summer Intern, Information Systems & Informatics](https://jobright.ai/jobs/info/696069c37ebc25398eb66347?utm_campaign=1058&utm_source=git)** | Madison, WI | On Site | Mar 13 |
+| **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[Intern, Technical Support - CI/ Operations Intern](https://jobright.ai/jobs/info/6997a30ae0bddb6acac65758?utm_campaign=1058&utm_source=git)** | Wilkes-Barre, PA | On Site | Mar 13 |
+| **[Mouser Electronics](http://mouser.com)** | **[UAT Specialist Intern](https://jobright.ai/jobs/info/699a719be0bddb6acac98a79?utm_campaign=1058&utm_source=git)** | Mansfield, TX | On Site | Mar 13 |
+| **[Jewel-Osco](http://www.jewelosco.com)** | **[Pharmacy Summer Intern - Jewel Osco](https://jobright.ai/jobs/info/69a9383a2615b60842abb099?utm_campaign=1058&utm_source=git)** | Naperville, IL | On Site | Mar 13 |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/69b3fdaf5697383741388d04?utm_campaign=1058&utm_source=git)** | Monroe, LA | On Site | Mar 13 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69b3fda35697383741388ce6?utm_campaign=1058&utm_source=git)** | Yonkers, NY | On Site | Mar 13 |
+| **[Saint Luke's](https://www.saintlukeskc.org)** | **[Nursing Intern - Orthopedics](https://jobright.ai/jobs/info/697c49c51423772304ecbe9d?utm_campaign=1058&utm_source=git)** | Kansas City, MO | On Site | Mar 13 |
+| **[Stormont Vail Health](http://www.stormontvail.org)** | **[Student Nurse Intern - Variable Shifts](https://jobright.ai/jobs/info/69490b347d506e3808f43d3c?utm_campaign=1058&utm_source=git)** | Topeka, KS | On Site | Mar 13 |
+| **[Jewel-Osco](http://www.jewelosco.com)** | **[Pharmacy Summer Intern - Jewel Osco](https://jobright.ai/jobs/info/69b106ad0b2db6275c060140?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Mar 13 |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69b3fbba3b74eb1e2c8109f8?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Mar 13 |
 | **[WebFX](https://www.webfx.com)** | **[IT Support Internship](https://jobright.ai/jobs/info/67eec162357dc4681d864247?utm_campaign=1058&utm_source=git)** | Harrisburg, PA | On Site | Mar 13 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69b3e5cf5697383741387d81?utm_campaign=1058&utm_source=git)** | Valley Cottage, NY | On Site | Mar 13 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69b3e5cc5697383741387d77?utm_campaign=1058&utm_source=git)** | Baltimore, MD | On Site | Mar 13 |
@@ -117,6 +127,7 @@ For a complete list, click the following sortable link below:
 | **[Lutheran Health Network](http://www.lutheranhealth.net)** | **[Student Intern Neuro Spine PRN](https://jobright.ai/jobs/info/69b3659bad360c0340a87e48?utm_campaign=1058&utm_source=git)** | Fort Wayne, IN | On Site | Mar 12 |
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Intern - Information Technology](https://jobright.ai/jobs/info/69b36591ad360c0340a87e08?utm_campaign=1058&utm_source=git)** | Collierville, TN | On Site | Mar 12 |
 | **[EisnerAmper](http://www.eisneramper.com)** | **[2026 Real Estate Services Group Summer Intern – IT](https://jobright.ai/jobs/info/69b3629ca8ac8e70ff6794dd?utm_campaign=1058&utm_source=git)** | New York, United States | On Site | Mar 12 |
+| **[Ventus ](https://www.ventusgns.com)** | **[Intern, Customer Operations (Hopkins, MN)](https://jobright.ai/jobs/info/69b3fd635697383741388ca8?utm_campaign=1058&utm_source=git)** | Hopkins, MN | Hybrid | Mar 12 |
 | **[Land Rover Experience Eastnor](https://experience.landrover.co.uk/eastnor/overview)** | **[IT/Digital Intern](https://jobright.ai/jobs/info/69b3500cad360c0340a8707e?utm_campaign=1058&utm_source=git)** | Mahwah, NJ | Hybrid | Mar 12 |
 | **[Ametros](http://www.ametrosfinancial.com)** | **[Summer Intern - Insurance Claims](https://jobright.ai/jobs/info/69b34e39ae2a534885eab168?utm_campaign=1058&utm_source=git)** | MA Wilmington | Hybrid | Mar 12 |
 | **[Germain Hôtels](https://www.germainhotels.com/)** | **[Intern, Guest Service](https://jobright.ai/jobs/info/69b34066a8ac8e70ff6780cc?utm_campaign=1058&utm_source=git)** | Québec, Quebec, Canada | On Site | Mar 12 |
@@ -146,15 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Ohio State University Wexner Medical Center](http://wexnermedical.osu.edu/)** | **[Student Intern - Medical Information Management](https://jobright.ai/jobs/info/69b31accae2a534885ea6935?utm_campaign=1058&utm_source=git)** | Columbus, OH | On Site | Mar 12 |
 | **[1-800-FLOWERS.COM, INC.](http://www.1800flowers.com)** | **[Intern, Customer Care](https://jobright.ai/jobs/info/69b31abeae2a534885ea6905?utm_campaign=1058&utm_source=git)** | Jericho, NY | On Site | Mar 12 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69b319bba8ac8e70ff673721?utm_campaign=1058&utm_source=git)** | Phoenix, AZ | On Site | Mar 12 |
-| **[BW Design Group](http://www.bwdesigngroup.com)** | **[IT Intern](https://jobright.ai/jobs/info/69b31991ad360c0340a828ac?utm_campaign=1058&utm_source=git)** | St Louis, MO | On Site | Mar 12 |
-| **[MetroPlusHealth](https://www.metroplus.org/)** | **[Summer Intern - Service Desk Technician](https://jobright.ai/jobs/info/69b338e3a8ac8e70ff677b83?utm_campaign=1058&utm_source=git)** | New York, NY | Hybrid | Mar 12 |
-| **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY/PHARMACIST-INTERN](https://jobright.ai/jobs/info/69a26293b600907a9628ad35?utm_campaign=1058&utm_source=git)** | Greenwood Village, CO | On Site | Mar 12 |
-| **[CIBC US](https://us.cibc.com/en/home.html)** | **[Client Service Summer Intern 2026 Boston, MA](https://jobright.ai/jobs/info/69b314d5ad360c0340a81dc4?utm_campaign=1058&utm_source=git)** | Boston, MA | Hybrid | Mar 12 |
-| **[Anovo](https://www.anovorx.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69af1462749500645093816b?utm_campaign=1058&utm_source=git)** | Memphis, TN | On Site | Mar 12 |
-| **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY/PHARMACIST-INTERN](https://jobright.ai/jobs/info/69a1267581476f6176bb7f60?utm_campaign=1058&utm_source=git)** | Colorado Springs, CO | On Site | Mar 12 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[IS Services & Support Intern (or Co-Op) - South Florida](https://jobright.ai/jobs/info/69b33588ad360c0340a85b78?utm_campaign=1058&utm_source=git)** | Hollywood, FL | On Site | Mar 12 |
-| **[Permian Resources](https://permianres.com)** | **[Summer 2026 IT Internship](https://jobright.ai/jobs/info/69b32d23ae2a534885ea913e?utm_campaign=1058&utm_source=git)** | Midland, Texas | On Site | Mar 12 |
-| **[Ametros](http://www.ametrosfinancial.com)** | **[Summer Intern - Customer Experience](https://jobright.ai/jobs/info/69b32b66ad360c0340a84d31?utm_campaign=1058&utm_source=git)** | MA Wilmington | Hybrid | Mar 12 |
-| **[Kinsley Steel, Inc.](https://kinsleysteel.com/)** | **[Information Technology Internship-Summer](https://jobright.ai/jobs/info/69b329e0a8ac8e70ff6766d3?utm_campaign=1058&utm_source=git)** | York,PA,US | On Site | Mar 12 |
-| **[Sabel Systems Technology Solutions, LLC](https://sabelsystems.com/)** | **[Operations IT Intern - Summer 2026](https://jobright.ai/jobs/info/69b306c1ae2a534885ea51a9?utm_campaign=1058&utm_source=git)** | Beavercreek Office - Beavercreek, OH 45431 | Hybrid | Mar 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
