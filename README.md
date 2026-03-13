@@ -154,7 +154,7 @@ For a complete list, click the following sortable link below:
 | **[ISACA](http://www.isaca.org)** | **[Intern, IT Service Desk](https://jobright.ai/jobs/info/69a362300da45516f16c8f0c?utm_campaign=1058&utm_source=git)** | Schaumburg, IL | Hybrid | Mar 12 |
 | **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse II](https://jobright.ai/jobs/info/6827f40962df9ad68f698eee?utm_campaign=1058&utm_source=git)** | Meridian, MS | On Site | Mar 12 |
 | **[WakeMed](http://wakemed.org/)** | **[Ultrasound, Student Scholar](https://jobright.ai/jobs/info/69ab4039142d5b4265fc89a1?utm_campaign=1058&utm_source=git)** | Cary, NC | On Site | Mar 12 |
-| **[IBM](http://www.ibm.com)** | **[Tech Support Intern 2026](https://jobright.ai/jobs/info/69b1120c0b2db6275c061b08?utm_campaign=1058&utm_source=git)** | Lowell, MA | Hybrid | Mar 12 |
-| **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[IT Client Support, Tech & Engineering Fellow (Summer)](https://jobright.ai/jobs/info/6984bcb18da7a612045efd2b?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Mar 12 |
-| ↳ | **[Research Analyst, Emerging Talent Internship (Summer)](https://jobright.ai/jobs/info/697aa7a68dbbf73badc7e5d1?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Mar 12 |
+| **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Research Analyst, Emerging Talent Internship (Summer)](https://jobright.ai/jobs/info/697aa7a68dbbf73badc7e5d1?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Mar 12 |
+| ↳ | **[IT Client Support, Tech & Engineering Fellow (Summer)](https://jobright.ai/jobs/info/6984bcb18da7a612045efd2b?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Mar 12 |
+| **[Waters Corporation](http://www.waters.com)** | **[Intern, Field Service](https://jobright.ai/jobs/info/69b2e016ad360c0340a7e34c?utm_campaign=1058&utm_source=git)** | Cincinnati, OH | On Site | Mar 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
