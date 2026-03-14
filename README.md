@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Leidos](https://www.leidos.com)** | **[IT Asset Management (ITAM) Intern](https://jobright.ai/jobs/info/69b5365d06c1ba00c546fb7d?utm_campaign=1058&utm_source=git)** | Fort Belvoir, VA | On Site | Mar 14 |
 | **[Atlantic Union Bank](https://atlanticunionbank.com)** | **[Corporate Intern (Customer Experience) Hybrid Schedule](https://jobright.ai/jobs/info/6998d75481476f6176b14039?utm_campaign=1058&utm_source=git)** | Glen Allen, VA | Hybrid | Mar 14 |
 | **[Xometry](https://www.xometry.com)** | **[Case Management Intern](https://jobright.ai/jobs/info/6948ed3863141d1884589708?utm_campaign=1058&utm_source=git)** | Gaithersburg, MD | Hybrid | Mar 14 |
 | **[PTR Premier Truck Rental](https://rentptr.com)** | **[Intern Fleet Service](https://jobright.ai/jobs/info/69b33b1fae2a534885eaa70f?utm_campaign=1058&utm_source=git)** | Fort Wayne, IN | On Site | Mar 14 |
@@ -71,8 +72,8 @@ For a complete list, click the following sortable link below:
 | **[ICD Portal](http://icdportal.com)** | **[Client Onboarding Specialist](https://jobright.ai/jobs/info/69b515aa3b74eb1e2c82ac1c?utm_campaign=1058&utm_source=git)** | Boston, MA | Hybrid | Mar 14 |
 | **[AE2S (Advanced Engineering and Environmental Services, LLC)](http://ae2s.com)** | **[IT Intern](https://jobright.ai/jobs/info/69b515503b74eb1e2c82abb2?utm_campaign=1058&utm_source=git)** | Grand Forks, ND | On Site | Mar 14 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Echocardiography Intern](https://jobright.ai/jobs/info/69b50dcd3b74eb1e2c829d7c?utm_campaign=1058&utm_source=git)** | US-TN-Murfreesboro | On Site | Mar 14 |
-| ↳ | **[Echocardiography Tech Intern](https://jobright.ai/jobs/info/69b50dcd3b74eb1e2c829d7b?utm_campaign=1058&utm_source=git)** | Murfreesboro, TN, US | On Site | Mar 14 |
 | ↳ | **[Radiology Tech Intern](https://jobright.ai/jobs/info/69b50dcd3b74eb1e2c829d7d?utm_campaign=1058&utm_source=git)** | US-TN-Murfreesboro | On Site | Mar 14 |
+| ↳ | **[Echocardiography Tech Intern](https://jobright.ai/jobs/info/69b50dcd3b74eb1e2c829d7b?utm_campaign=1058&utm_source=git)** | Murfreesboro, TN, US | On Site | Mar 14 |
 | ↳ | **[Echocardiography Tech Intern](https://jobright.ai/jobs/info/69b50c9656973837413a28bd?utm_campaign=1058&utm_source=git)** | US-TN-Murfreesboro | On Site | Mar 14 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Radiology Tech Intern](https://jobright.ai/jobs/info/69b5074b06c1ba00c546a29f?utm_campaign=1058&utm_source=git)** | Murfreesboro, TN, US | On Site | Mar 13 |
 | ↳ | **[Echocardiography Intern](https://jobright.ai/jobs/info/69b5074a06c1ba00c546a28d?utm_campaign=1058&utm_source=git)** | Murfreesboro, TN, US | On Site | Mar 13 |
@@ -95,8 +96,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[IT Operations & Systems Intern](https://jobright.ai/jobs/info/69b4baa406c1ba00c54629c1?utm_campaign=1058&utm_source=git)** | Park City, UT | Hybrid | Mar 13 |
 | **[Ideamine Technologies (Acquired by Netrix Global)](https://www.ideaminetech.com)** | **[Computer Support Intern](https://jobright.ai/jobs/info/69b4ba715697383741399090?utm_campaign=1058&utm_source=git)** | Rochester, NY | On Site | Mar 13 |
 | ↳ | **[Computer Support Intern](https://jobright.ai/jobs/info/69b4ba6f3b74eb1e2c820915?utm_campaign=1058&utm_source=git)** | Brooklyn, NY | On Site | Mar 13 |
-| ↳ | **[Computer Support Intern](https://jobright.ai/jobs/info/69b4ba6106c1ba00c5462967?utm_campaign=1058&utm_source=git)** | Boston, MA | On Site | Mar 13 |
 | ↳ | **[Computer Support Intern](https://jobright.ai/jobs/info/69b4ba6106c1ba00c5462968?utm_campaign=1058&utm_source=git)** | Newark, NJ | On Site | Mar 13 |
+| ↳ | **[Computer Support Intern](https://jobright.ai/jobs/info/69b4ba6106c1ba00c5462967?utm_campaign=1058&utm_source=git)** | Boston, MA | On Site | Mar 13 |
 | **[Cleveland Clinic](http://my.clevelandclinic.org)** | **[Pharmacy Intern - Inpatient, PRN](https://jobright.ai/jobs/info/69b4da153b74eb1e2c824175?utm_campaign=1058&utm_source=git)** | Canton, OH | On Site | Mar 13 |
 | **[RRD](http://www.rrd.com)** | **[Enterprise Technology Solutions Summer Intern](https://jobright.ai/jobs/info/69b4b6a85697383741398fbd?utm_campaign=1058&utm_source=git)** | Livonia, MI | Hybrid | Mar 13 |
 | **[CHRISTUS Health](http://www.christushealth.org)** | **[Pharmacist Intern - General Pharmacy - PRN](https://jobright.ai/jobs/info/69b4b6513b74eb1e2c820770?utm_campaign=1058&utm_source=git)** | Texarkana, TX | On Site | Mar 13 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Construction Resources](https://www.constructionresourcesusa.com)** | **[IT Support Intern](https://jobright.ai/jobs/info/69b45db93b74eb1e2c81980e?utm_campaign=1058&utm_source=git)** | 196 Rio Circle Decatur, GA 30030 | On Site | Mar 13 |
 | **[Lower Keys Medical Center](http://www.lkmc.com)** | **[RN Intern](https://jobright.ai/jobs/info/69b4809e3b74eb1e2c81dc20?utm_campaign=1058&utm_source=git)** | Key West, FL | On Site | Mar 13 |
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed3abe0db92422580bcbd?utm_campaign=1058&utm_source=git)** | Charlotte, NC | On Site | Mar 13 |
-| **[CareDx, Inc.](https://www.caredx.com/)** | **[IT Operations Support Summer Intern 2026](https://jobright.ai/jobs/info/69b47d8e06c1ba00c545f5ad?utm_campaign=1058&utm_source=git)** | Brisbane, CA | On Site | Mar 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
