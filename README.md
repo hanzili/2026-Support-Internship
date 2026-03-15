@@ -70,6 +70,7 @@ For a complete list, click the following sortable link below:
 | **[City of New York](http://www1.nyc.gov)** | **[IT Help Desk Intern](https://jobright.ai/jobs/info/69b5b3dd06c1ba00c547a5c0?utm_campaign=1058&utm_source=git)** | Manhattan, NY | On Site | Mar 14 |
 | **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[Advanced Radiology Intern - Mercy Washington - PRN](https://jobright.ai/jobs/info/69996345ce78e77b4fde3ed9?utm_campaign=1058&utm_source=git)** | Washington, MO | On Site | Mar 14 |
 | **[Girl Scouts Heart of New Jersey](https://www.gshnj.org)** | **[Member Support Intern](https://jobright.ai/jobs/info/69b5a4623b74eb1e2c8375d0?utm_campaign=1058&utm_source=git)** | Westfield, NJ | Hybrid | Mar 14 |
+| **[Roanoke Insurance Group Inc.](https://www.roanokegroup.com/)** | **[MRSGM NA Salvage & Recovery Intern](https://jobright.ai/jobs/info/699909c9e0bddb6acac80110?utm_campaign=1058&utm_source=git)** | Schaumburg, IL | Hybrid | Mar 14 |
 | **[NYC Administration for Children's Services](http://www.nyc.gov/acs)** | **[Digital Support Intern](https://jobright.ai/jobs/info/69b59a973b74eb1e2c836c38?utm_campaign=1058&utm_source=git)** | Manhattan, NY | On Site | Mar 14 |
 | **[KanEquip, Inc.](http://kanequip.com)** | **[Service Internship II](https://jobright.ai/jobs/info/69b5c3bb56973837413b2b6d?utm_campaign=1058&utm_source=git)** | Pratt, KS | On Site | Mar 14 |
 | ↳ | **[Service Internship II](https://jobright.ai/jobs/info/69b5b5aa3b74eb1e2c8385b9?utm_campaign=1058&utm_source=git)** | Marysville, KS | On Site | Mar 14 |
@@ -95,8 +96,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[REGISTERED NURSE (Mott Childrens Hospital-10W, Pediatric Cardio-Thoracic Unit GN Internship)](https://jobright.ai/jobs/info/69b56e5f3b74eb1e2c830ffe?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Mar 14 |
 | ↳ | **[PHARM INTERN TECH (TEMP)](https://jobright.ai/jobs/info/69b56e5456973837413a99ec?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Mar 14 |
 | **[Centric Brands](https://centricbrands.com)** | **[Centric Brands - Stage en TI Été 2026 - Summer IT Internship 2026 - Montreal, Canada](https://jobright.ai/jobs/info/6998ff35e0bddb6acac7f462?utm_campaign=1058&utm_source=git)** | Montreal, Quebec, Canada | On Site | Mar 14 |
-| **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/69b56b4e06c1ba00c5472b05?utm_campaign=1058&utm_source=git)** | Fontana, CA | On Site | Mar 14 |
-| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69b56b4e06c1ba00c5472b01?utm_campaign=1058&utm_source=git)** | Lutz, FL | On Site | Mar 14 |
+| **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/69b56b4e06c1ba00c5472b01?utm_campaign=1058&utm_source=git)** | Lutz, FL | On Site | Mar 14 |
+| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69b56b4e06c1ba00c5472b05?utm_campaign=1058&utm_source=git)** | Fontana, CA | On Site | Mar 14 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69b56b4706c1ba00c5472ad8?utm_campaign=1058&utm_source=git)** | Springfield, MO | On Site | Mar 14 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69b56b4406c1ba00c5472ac3?utm_campaign=1058&utm_source=git)** | Peachtree Corners, GA | On Site | Mar 14 |
 | ↳ | **[Pharmacy Graduate Intern (Non-US Education)](https://jobright.ai/jobs/info/69b56a1d56973837413a8ba3?utm_campaign=1058&utm_source=git)** | Wisconsin Dells, WI | On Site | Mar 14 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Nursing Intern](https://jobright.ai/jobs/info/69b4bd6f3b74eb1e2c821049?utm_campaign=1058&utm_source=git)** | Anderson, IN | On Site | Mar 13 |
 | **[U.S. Ski & Snowboard Team](https://www.usskiandsnowboard.org/)** | **[IT Operations & Systems Intern](https://jobright.ai/jobs/info/69b4bbe3569738374139929b?utm_campaign=1058&utm_source=git)** | Park City, UT, US | Hybrid | Mar 13 |
 | ↳ | **[IT Operations & Systems Intern](https://jobright.ai/jobs/info/69b4baa406c1ba00c54629c1?utm_campaign=1058&utm_source=git)** | Park City, UT | Hybrid | Mar 13 |
-| **[Ideamine Technologies (Acquired by Netrix Global)](https://www.ideaminetech.com)** | **[Computer Support Intern](https://jobright.ai/jobs/info/69b4ba715697383741399090?utm_campaign=1058&utm_source=git)** | Rochester, NY | On Site | Mar 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
