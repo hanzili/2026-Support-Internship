@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sanford Health](http://www.sanfordhealth.org)** | **[Pharmacy Intern  - Retail / Fargo - PRN](https://jobright.ai/jobs/info/69b6febe06c1ba00c548c2d8?utm_campaign=1058&utm_source=git)** | Fargo, ND | On Site | Mar 15 |
+| **[Optum](https://www.optum.com/)** | **[Pharmacist Graduate Intern,](https://jobright.ai/jobs/info/69b6fcaf56973837413c36f7?utm_campaign=1058&utm_source=git)** | Reading, PA | On Site | Mar 15 |
 | **[Virtua Health](https://www.virtua.org/)** | **[IT Intern](https://jobright.ai/jobs/info/69b6c5233b74eb1e2c847f09?utm_campaign=1058&utm_source=git)** | Marlton, NJ | On Site | Mar 15 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE (Mott Childrens Hospital- Graduate Nurse Internship- Brandon Newborn ICU)](https://jobright.ai/jobs/info/69b6bd873b74eb1e2c847c73?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Mar 15 |
 | ↳ | **[REGISTERED NURSE - CRNA Internship](https://jobright.ai/jobs/info/69b6bd7e3b74eb1e2c847c5e?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Mar 15 |
@@ -78,7 +80,6 @@ For a complete list, click the following sortable link below:
 | **[Eaton](https://www.eaton.com/us/en-us/products/emobility/expertise.html)** | **[Intern, Field Service Representative (4 to 12-month) - Dartmouth, NS Canada / Moncton, NB](https://jobright.ai/jobs/info/69b4d8b106c1ba00c5465b5b?utm_campaign=1058&utm_source=git)** | Moncton, New Brunswick, Canada | On Site | Mar 15 |
 | **[Baptist Health](http://careers.baptisthealth.net)** | **[Nurse Intern, Med Surge Respiratory, Per Diem, 7A-7:30P](https://jobright.ai/jobs/info/69b66c593b74eb1e2c844510?utm_campaign=1058&utm_source=git)** | South Miami, FL | On Site | Mar 15 |
 | **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE - CRNA Internship](https://jobright.ai/jobs/info/69b668fb3b74eb1e2c843fd3?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Mar 15 |
-| ↳ | **[PHARM INTERN TECH (TEMP)](https://jobright.ai/jobs/info/69b668c756973837413bc518?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Mar 15 |
 | ↳ | **[REGISTERED NURSE (Mott Childrens Hospital-10W, Pediatric Cardio-Thoracic Unit GN Internship)](https://jobright.ai/jobs/info/69b668ba06c1ba00c5486059?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Mar 15 |
 | **[Xometry](https://www.xometry.com)** | **[Customer Support Intern](https://jobright.ai/jobs/info/6952d982f1f8465b79ea22d4?utm_campaign=1058&utm_source=git)** | Waltham, MA | Hybrid | Mar 14 |
 | **[St. Mary's Medical Center - Huntington, WV](http://www.st-marys.org)** | **[Med Ex Student Intern](https://jobright.ai/jobs/info/69b6850d3b74eb1e2c844fbb?utm_campaign=1058&utm_source=git)** | Huntington, WV | On Site | Mar 14 |
@@ -99,9 +100,9 @@ For a complete list, click the following sortable link below:
 | **[KanEquip, Inc.](http://kanequip.com)** | **[Service Internship II](https://jobright.ai/jobs/info/69b5c3bb56973837413b2b6d?utm_campaign=1058&utm_source=git)** | Pratt, KS | On Site | Mar 14 |
 | ↳ | **[Service Internship II](https://jobright.ai/jobs/info/69b5b5aa3b74eb1e2c8385b9?utm_campaign=1058&utm_source=git)** | Marysville, KS | On Site | Mar 14 |
 | ↳ | **[Service Internship II](https://jobright.ai/jobs/info/69b5b5e806c1ba00c547ae29?utm_campaign=1058&utm_source=git)** | South Hutchinson, KS | On Site | Mar 14 |
-| ↳ | **[Service Internship II](https://jobright.ai/jobs/info/69b5b5fc56973837413b192a?utm_campaign=1058&utm_source=git)** | Herington, KS | On Site | Mar 14 |
-| ↳ | **[Service Internship II](https://jobright.ai/jobs/info/69b5b5db06c1ba00c547add6?utm_campaign=1058&utm_source=git)** | Dodge City, KS | On Site | Mar 14 |
 | ↳ | **[Service Internship II](https://jobright.ai/jobs/info/69b5b5a93b74eb1e2c838597?utm_campaign=1058&utm_source=git)** | Topeka, KS | On Site | Mar 14 |
+| ↳ | **[Service Internship II](https://jobright.ai/jobs/info/69b5b5db06c1ba00c547add6?utm_campaign=1058&utm_source=git)** | Dodge City, KS | On Site | Mar 14 |
+| ↳ | **[Service Internship II](https://jobright.ai/jobs/info/69b5b5fc56973837413b192a?utm_campaign=1058&utm_source=git)** | Herington, KS | On Site | Mar 14 |
 | ↳ | **[Service Internship II](https://jobright.ai/jobs/info/69b5b5df06c1ba00c547adf7?utm_campaign=1058&utm_source=git)** | Wichita, KS | On Site | Mar 14 |
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Access Your Future Service Intern](https://jobright.ai/jobs/info/67f01f3d19a1c5e776705edf?utm_campaign=1058&utm_source=git)** | Minot, ND | On Site | Mar 14 |
 | **[Metropolitan Transit Authority of Harris County](https://www.ridemetro.org/)** | **[College Intern - Information Technology](https://jobright.ai/jobs/info/69b5906906c1ba00c5477ccc?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Mar 14 |
@@ -116,8 +117,8 @@ For a complete list, click the following sortable link below:
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE - CRNA Internship](https://jobright.ai/jobs/info/69b594163b74eb1e2c8360f2?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Mar 14 |
 | ↳ | **[REGISTERED NURSE - Neonatal Nurse Practitioner Internship (Brandon NICU and Von Voigtlander Women's Hospital)](https://jobright.ai/jobs/info/69b56e8a06c1ba00c547324d?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Mar 14 |
 | **[Centric Brands](https://centricbrands.com)** | **[Centric Brands - Stage en TI Été 2026 - Summer IT Internship 2026 - Montreal, Canada](https://jobright.ai/jobs/info/6998ff35e0bddb6acac7f462?utm_campaign=1058&utm_source=git)** | Montreal, Quebec, Canada | On Site | Mar 14 |
-| **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/69b56b4e06c1ba00c5472b01?utm_campaign=1058&utm_source=git)** | Lutz, FL | On Site | Mar 14 |
-| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69b56b4e06c1ba00c5472b05?utm_campaign=1058&utm_source=git)** | Fontana, CA | On Site | Mar 14 |
+| **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/69b56b4e06c1ba00c5472b05?utm_campaign=1058&utm_source=git)** | Fontana, CA | On Site | Mar 14 |
+| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69b56b4e06c1ba00c5472b01?utm_campaign=1058&utm_source=git)** | Lutz, FL | On Site | Mar 14 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69b56b4706c1ba00c5472ad8?utm_campaign=1058&utm_source=git)** | Springfield, MO | On Site | Mar 14 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69b56b4406c1ba00c5472ac3?utm_campaign=1058&utm_source=git)** | Peachtree Corners, GA | On Site | Mar 14 |
 | ↳ | **[Pharmacy Graduate Intern (Non-US Education)](https://jobright.ai/jobs/info/69b56a1d56973837413a8ba3?utm_campaign=1058&utm_source=git)** | Wisconsin Dells, WI | On Site | Mar 14 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ICD Portal](http://icdportal.com)** | **[Client Onboarding Specialist](https://jobright.ai/jobs/info/69b515aa3b74eb1e2c82ac1c?utm_campaign=1058&utm_source=git)** | Boston, MA | Hybrid | Mar 14 |
 | **[AE2S (Advanced Engineering and Environmental Services, LLC)](http://ae2s.com)** | **[IT Intern](https://jobright.ai/jobs/info/69b515503b74eb1e2c82abb2?utm_campaign=1058&utm_source=git)** | Grand Forks, ND | On Site | Mar 14 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Echocardiography Tech Intern](https://jobright.ai/jobs/info/69b50dcd3b74eb1e2c829d7b?utm_campaign=1058&utm_source=git)** | Murfreesboro, TN, US | On Site | Mar 14 |
-| ↳ | **[Radiology Tech Intern](https://jobright.ai/jobs/info/69b50dcd3b74eb1e2c829d7d?utm_campaign=1058&utm_source=git)** | US-TN-Murfreesboro | On Site | Mar 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
