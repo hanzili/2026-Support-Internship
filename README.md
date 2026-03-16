@@ -61,6 +61,7 @@ For a complete list, click the following sortable link below:
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69b780f506c1ba00c5493779?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | Mar 15 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69b780f306c1ba00c5493777?utm_campaign=1058&utm_source=git)** | Chandler, AZ | On Site | Mar 15 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69b780ec06c1ba00c5493771?utm_campaign=1058&utm_source=git)** | Chandler, AZ | On Site | Mar 15 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69b780e73b74eb1e2c8518c7?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | Mar 15 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69b780e53b74eb1e2c8518bc?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | Mar 15 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69b780e506c1ba00c549376d?utm_campaign=1058&utm_source=git)** | Scottsdale, AZ | On Site | Mar 15 |
 | **[Xometry](https://www.xometry.com)** | **[Customer Support Intern](https://jobright.ai/jobs/info/695ab318aa05c26e7ab4364b?utm_campaign=1058&utm_source=git)** | North Bethesda, MD | Hybrid | Mar 15 |
@@ -106,7 +107,6 @@ For a complete list, click the following sortable link below:
 | **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69b5d6c506c1ba00c547c47e?utm_campaign=1058&utm_source=git)** | Albuquerque, NM | On Site | Mar 14 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69b5d6ba06c1ba00c547c446?utm_campaign=1058&utm_source=git)** | Homestead, FL | On Site | Mar 14 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY/PHARMACIST-INTERN](https://jobright.ai/jobs/info/69a1267581476f6176bb7f60?utm_campaign=1058&utm_source=git)** | Colorado Springs, CO | On Site | Mar 14 |
-| **[Gulf Coast Bank and Trust Company](https://gulfbank.com)** | **[Intern - Card Services](https://jobright.ai/jobs/info/69b5c1783b74eb1e2c8396eb?utm_campaign=1058&utm_source=git)** | Metairie, LA | On Site | Mar 14 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Student Intern Registered Nurse RN Float](https://jobright.ai/jobs/info/69b5bc273b74eb1e2c83940c?utm_campaign=1058&utm_source=git)** | Elk Grove Village, IL | On Site | Mar 14 |
 | ↳ | **[Student Intern Registered Nurse RN Float](https://jobright.ai/jobs/info/69b5b99156973837413b2746?utm_campaign=1058&utm_source=git)** | US-IL-Elk Grove Village | On Site | Mar 14 |
 | ↳ | **[Student Intern Registered Nurse RN Float](https://jobright.ai/jobs/info/69b5b98b3b74eb1e2c83935e?utm_campaign=1058&utm_source=git)** | Elk Grove Village, IL, US | On Site | Mar 14 |
