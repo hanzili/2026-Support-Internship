@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ponte Vedra Inn & Club](http://www.pontevedra.com)** | **[SURF CLUB - INTERN](https://jobright.ai/jobs/info/69b75f6c06c1ba00c5491e6c?utm_campaign=1058&utm_source=git)** | Ponte Vedra Beach, FL | On Site | Mar 15 |
+| **[Virtua Health](https://www.virtua.org/)** | **[IT Service Desk Intern](https://jobright.ai/jobs/info/69b75a323b74eb1e2c84e418?utm_campaign=1058&utm_source=git)** | Marlton, NJ | On Site | Mar 15 |
+| **[Meijer](https://www.meijer.com/)** | **[Pharmacy Intern Part Time](https://jobright.ai/jobs/info/69b7539b3b74eb1e2c84e30f?utm_campaign=1058&utm_source=git)** | Fort Wayne, IN | On Site | Mar 15 |
+| **[Optum](https://www.optum.com/)** | **[Pharmacist Graduate Intern,](https://jobright.ai/jobs/info/69b7513006c1ba00c5490171?utm_campaign=1058&utm_source=git)** | Reading, PA | On Site | Mar 15 |
 | **[RRD](http://www.rrd.com)** | **[Enterprise Technology Solutions Summer Intern](https://jobright.ai/jobs/info/69b71b3d3b74eb1e2c84c0f7?utm_campaign=1058&utm_source=git)** | Livonia, MI | Hybrid | Mar 15 |
 | **[Kalamazoo Growlers](http://northwoodsleague.com/kalamazoo-growlers/)** | **[Ticket Service & Activation Intern](https://jobright.ai/jobs/info/69b714b03b74eb1e2c84bfc8?utm_campaign=1058&utm_source=git)** | Kalamazoo, MI | On Site | Mar 15 |
 | **[Indianapolis Private Industry Council, Inc.](http://www.ipic.org)** | **[Information Technology Intern](https://jobright.ai/jobs/info/69b7125d06c1ba00c548de3b?utm_campaign=1058&utm_source=git)** | Indianapolis, IN | On Site | Mar 15 |
@@ -104,9 +108,9 @@ For a complete list, click the following sortable link below:
 | **[KanEquip, Inc.](http://kanequip.com)** | **[Service Internship II](https://jobright.ai/jobs/info/69b5c3bb56973837413b2b6d?utm_campaign=1058&utm_source=git)** | Pratt, KS | On Site | Mar 14 |
 | ↳ | **[Service Internship II](https://jobright.ai/jobs/info/69b5b5aa3b74eb1e2c8385b9?utm_campaign=1058&utm_source=git)** | Marysville, KS | On Site | Mar 14 |
 | ↳ | **[Service Internship II](https://jobright.ai/jobs/info/69b5b5e806c1ba00c547ae29?utm_campaign=1058&utm_source=git)** | South Hutchinson, KS | On Site | Mar 14 |
-| ↳ | **[Service Internship II](https://jobright.ai/jobs/info/69b5b5a93b74eb1e2c838597?utm_campaign=1058&utm_source=git)** | Topeka, KS | On Site | Mar 14 |
-| ↳ | **[Service Internship II](https://jobright.ai/jobs/info/69b5b5db06c1ba00c547add6?utm_campaign=1058&utm_source=git)** | Dodge City, KS | On Site | Mar 14 |
 | ↳ | **[Service Internship II](https://jobright.ai/jobs/info/69b5b5fc56973837413b192a?utm_campaign=1058&utm_source=git)** | Herington, KS | On Site | Mar 14 |
+| ↳ | **[Service Internship II](https://jobright.ai/jobs/info/69b5b5db06c1ba00c547add6?utm_campaign=1058&utm_source=git)** | Dodge City, KS | On Site | Mar 14 |
+| ↳ | **[Service Internship II](https://jobright.ai/jobs/info/69b5b5a93b74eb1e2c838597?utm_campaign=1058&utm_source=git)** | Topeka, KS | On Site | Mar 14 |
 | ↳ | **[Service Internship II](https://jobright.ai/jobs/info/69b5b5df06c1ba00c547adf7?utm_campaign=1058&utm_source=git)** | Wichita, KS | On Site | Mar 14 |
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Access Your Future Service Intern](https://jobright.ai/jobs/info/67f01f3d19a1c5e776705edf?utm_campaign=1058&utm_source=git)** | Minot, ND | On Site | Mar 14 |
 | **[Metropolitan Transit Authority of Harris County](https://www.ridemetro.org/)** | **[College Intern - Information Technology](https://jobright.ai/jobs/info/69b5906906c1ba00c5477ccc?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Mar 14 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ORION](https://www.oriongroupholdingsinc.com/)** | **[Intern, Information Technology](https://jobright.ai/jobs/info/69b53fbf3b74eb1e2c82db6a?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Mar 14 |
 | **[Leidos](https://www.leidos.com)** | **[IT Asset Management (ITAM) Intern](https://jobright.ai/jobs/info/69b5365d06c1ba00c546fb7d?utm_campaign=1058&utm_source=git)** | Fort Belvoir, VA | On Site | Mar 14 |
 | **[Atlantic Union Bank](https://atlanticunionbank.com)** | **[Corporate Intern (Customer Experience) Hybrid Schedule](https://jobright.ai/jobs/info/6998d75481476f6176b14039?utm_campaign=1058&utm_source=git)** | Glen Allen, VA | Hybrid | Mar 14 |
-| **[Xometry](https://www.xometry.com)** | **[Case Management Intern](https://jobright.ai/jobs/info/6948ed3863141d1884589708?utm_campaign=1058&utm_source=git)** | Gaithersburg, MD | Hybrid | Mar 14 |
-| **[PTR Premier Truck Rental](https://rentptr.com)** | **[Intern Fleet Service](https://jobright.ai/jobs/info/69b33b1fae2a534885eaa70f?utm_campaign=1058&utm_source=git)** | Fort Wayne, IN | On Site | Mar 14 |
-| **[Naples Comprehensive Health - NCH](http://www.nchmd.org/)** | **[Emergency Management Intern FR](https://jobright.ai/jobs/info/69b5180f3b74eb1e2c82b02b?utm_campaign=1058&utm_source=git)** | Naples, FL | On Site | Mar 14 |
-| ↳ | **[Medical Staff Intern FR](https://jobright.ai/jobs/info/69b518063b74eb1e2c82afe4?utm_campaign=1058&utm_source=git)** | Naples, FL | On Site | Mar 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
