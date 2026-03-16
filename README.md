@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[1-800-FLOWERS.COM, INC.](http://www.1800flowers.com)** | **[Intern, Customer Care](https://jobright.ai/jobs/info/69b565d13b74eb1e2c82f1a2?utm_campaign=1058&utm_source=git)** | Jericho, NY | On Site | Mar 16 |
+| ↳ | **[Intern, Desktop Support (IT)](https://jobright.ai/jobs/info/69b565da3b74eb1e2c82f1c4?utm_campaign=1058&utm_source=git)** | Burr Ridge, IL | On Site | Mar 16 |
+| **[TSMC](http://www.tsmc.com)** | **[Summer 2026 - Business Operations / Service Specialist Intern (7433)](https://jobright.ai/jobs/info/69b879c93b74eb1e2c864ef2?utm_campaign=1058&utm_source=git)** | San Jose, CA | On Site | Mar 16 |
+| **[Russell Co.](https://www.russellco.com/)** | **[Information Technology Intern](https://jobright.ai/jobs/info/69b8760406c1ba00c54a6aac?utm_campaign=1058&utm_source=git)** | St Louis, MO | On Site | Mar 16 |
 | **[Meridian Bioscience Inc.](http://meridianbioscience.com)** | **[IT Service Desk Intern (Summer)](https://jobright.ai/jobs/info/69b8715656973837413dc8e0?utm_campaign=1058&utm_source=git)** | Cincinnati, OH | On Site | Mar 16 |
 | ↳ | **[Technical Services Support Intern](https://jobright.ai/jobs/info/69b8714d56973837413dc8be?utm_campaign=1058&utm_source=git)** | Cincinnati, OH | On Site | Mar 16 |
 | **[Actus Nutrition](https://actus.com)** | **[IT Support Desk Intern](https://jobright.ai/jobs/info/69b8708b3b74eb1e2c863de3?utm_campaign=1058&utm_source=git)** | Eden Prairie, MN | On Site | Mar 16 |
@@ -85,13 +89,19 @@ For a complete list, click the following sortable link below:
 | **[Maximus](http://www.maximus.com/)** | **[Customer Service Representative II - Mexico, NY](https://jobright.ai/jobs/info/69b85b0e56973837413d9596?utm_campaign=1058&utm_source=git)** | Mexico, NY | On Site | Mar 16 |
 | **[Caesars Entertainment](https://www.caesars.com/paris-las-vegas)** | **[Customer Service Intern - Seasonal (Harrah's Atlantic City/CES)](https://jobright.ai/jobs/info/69b858db3b74eb1e2c860b19?utm_campaign=1058&utm_source=git)** | Atlantic City, NJ | On Site | Mar 16 |
 | **[The Ohio State University Wexner Medical Center](http://wexnermedical.osu.edu/)** | **[Pharmacy Intern - Inpatient](https://jobright.ai/jobs/info/69b858c83b74eb1e2c860ad9?utm_campaign=1058&utm_source=git)** | Columbus, OH | On Site | Mar 16 |
+| **[The Wonderful Company](http://www.wonderful.com/)** | **[Wonderful College Scholar Summer Internship, IT](https://jobright.ai/jobs/info/69b87a2256973837413dd9c9?utm_campaign=1058&utm_source=git)** | Delano, CA, USA | On Site | Mar 16 |
+| **[EverCommerce](https://www.evercommerce.com/)** | **[EverHealth - Customer Experience Internship (Remote, US)](https://jobright.ai/jobs/info/69b8744a3b74eb1e2c86436c?utm_campaign=1058&utm_source=git)** | Remote- US | Remote | Mar 16 |
+| **[Sanford Health](http://www.sanfordhealth.org)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69b8742556973837413dcc3e?utm_campaign=1058&utm_source=git)** | SD, Sioux Falls | On Site | Mar 16 |
 | **[Lake Charles Memorial Health System](http://www.lcmh.com)** | **[RN Student Intern](https://jobright.ai/jobs/info/69b8716d3b74eb1e2c863f15?utm_campaign=1058&utm_source=git)** | Lake Charles, LA | On Site | Mar 16 |
 | **[US Conec](http://www.usconec.com/)** | **[Intern - Customer Service- Summer 2026](https://jobright.ai/jobs/info/69b02ae0dfaeda6ff5998dac?utm_campaign=1058&utm_source=git)** | Hickory, North Carolina, United States | On Site | Mar 16 |
 | **[Southeastern Pennsylvania Transportation Authority (SEPTA)](http://www.septa.org)** | **[Customer Service Agent II (7300)](https://jobright.ai/jobs/info/69b07f33749500645096db33?utm_campaign=1058&utm_source=git)** | Philadelphia, PA | On Site | Mar 16 |
 | **[SSM Health](https://www.ssmhealth.com/)** | **[Nurse Intern 1](https://jobright.ai/jobs/info/69b84d593b74eb1e2c85eb83?utm_campaign=1058&utm_source=git)** | MO-SSM Health Mission Hill | On Site | Mar 16 |
+| **[HealthPartners](https://www.castalovespells.com/contact/)** | **[Med History Pharmacy Intern](https://jobright.ai/jobs/info/69b875ab3b74eb1e2c8645c6?utm_campaign=1058&utm_source=git)** | Saint Paul, MN, United States | On Site | Mar 16 |
+| **[Saia Inc.](https://saia.com)** | **[IT Intern](https://jobright.ai/jobs/info/69b8741006c1ba00c54a661e?utm_campaign=1058&utm_source=git)** | US - GA - Johns Creek | On Site | Mar 16 |
+| **[Amery Hospital & Clinic](https://www.amerymedicalcenter.org)** | **[Med History Pharmacy Intern](https://jobright.ai/jobs/info/69b8759556973837413dcf42?utm_campaign=1058&utm_source=git)** | Saint Paul, MN, United States | On Site | Mar 16 |
 | **[Sage Hospitality Group](https://www.sagehospitalitygroup.com/)** | **[Intern](https://jobright.ai/jobs/info/69b868b73b74eb1e2c8635a8?utm_campaign=1058&utm_source=git)** | Detroit, MI, US | On Site | Mar 16 |
-| **[Magnera Corporation](https://magnera.com/)** | **[IT On-Site Support Intern](https://jobright.ai/jobs/info/69b868b53b74eb1e2c8635a0?utm_campaign=1058&utm_source=git)** | US-IN-Evansville | On Site | Mar 16 |
-| ↳ | **[IT On-Site Support Intern](https://jobright.ai/jobs/info/69b8694d06c1ba00c54a5b00?utm_campaign=1058&utm_source=git)** | Evansville, IN, US | On Site | Mar 16 |
+| **[Magnera Corporation](https://magnera.com/)** | **[IT On-Site Support Intern](https://jobright.ai/jobs/info/69b8694d06c1ba00c54a5b00?utm_campaign=1058&utm_source=git)** | Evansville, IN, US | On Site | Mar 16 |
+| ↳ | **[IT On-Site Support Intern](https://jobright.ai/jobs/info/69b868b53b74eb1e2c8635a0?utm_campaign=1058&utm_source=git)** | US-IN-Evansville | On Site | Mar 16 |
 | **[Meridian Bioscience Inc.](http://meridianbioscience.com)** | **[IT Service Desk Intern (Summer)](https://jobright.ai/jobs/info/69b8694d06c1ba00c54a5b05?utm_campaign=1058&utm_source=git)** | US-OH-Cincinnati | On Site | Mar 16 |
 | ↳ | **[Technical Services Support Intern](https://jobright.ai/jobs/info/69b868a63b74eb1e2c863548?utm_campaign=1058&utm_source=git)** | Cincinnati, OH, US | On Site | Mar 16 |
 | **[Northern Virginia Transportation Commission](http://www.novatransit.org/)** | **[Information Resources Fellow](https://jobright.ai/jobs/info/69b847f206c1ba00c54a07ee?utm_campaign=1058&utm_source=git)** | Arlington, VA | Hybrid | Mar 16 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69b780f506c1ba00c5493779?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | Mar 15 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69b780ec06c1ba00c5493771?utm_campaign=1058&utm_source=git)** | Chandler, AZ | On Site | Mar 15 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69b780e506c1ba00c549376d?utm_campaign=1058&utm_source=git)** | Scottsdale, AZ | On Site | Mar 15 |
-| **[Xometry](https://www.xometry.com)** | **[Customer Support Intern](https://jobright.ai/jobs/info/695ab318aa05c26e7ab4364b?utm_campaign=1058&utm_source=git)** | North Bethesda, MD | Hybrid | Mar 15 |
-| **[Kroger](https://www.thekrogerco.com/)** | **[INDIANA PHARMACY INTERN](https://jobright.ai/jobs/info/69b766c606c1ba00c54921b3?utm_campaign=1058&utm_source=git)** | New Albany, IN | On Site | Mar 15 |
-| **[Ponte Vedra Inn & Club](http://www.pontevedra.com)** | **[SURF CLUB - INTERN](https://jobright.ai/jobs/info/69b75f6c06c1ba00c5491e6c?utm_campaign=1058&utm_source=git)** | Ponte Vedra Beach, FL | On Site | Mar 15 |
-| **[Virtua Health](https://www.virtua.org/)** | **[IT Service Desk Intern](https://jobright.ai/jobs/info/69b75a323b74eb1e2c84e418?utm_campaign=1058&utm_source=git)** | Marlton, NJ | On Site | Mar 15 |
-| **[State of Florida](http://www.myflorida.com)** | **[IT Help Desk Analyst - 31001807](https://jobright.ai/jobs/info/69b8710756973837413dc83c?utm_campaign=1058&utm_source=git)** | Tallahassee, FL | On Site | Mar 15 |
-| **[Meijer](https://www.meijer.com/)** | **[Pharmacy Intern Part Time](https://jobright.ai/jobs/info/69b7539b3b74eb1e2c84e30f?utm_campaign=1058&utm_source=git)** | Fort Wayne, IN | On Site | Mar 15 |
-| **[City of Green River](http://www.cityofgreenriver.org/)** | **[Emergency Communicator II (911 Dispatcher)](https://jobright.ai/jobs/info/69b85d453b74eb1e2c8612ff?utm_campaign=1058&utm_source=git)** | Lakeland, FL | On Site | Mar 15 |
-| **[RRD](http://www.rrd.com)** | **[Enterprise Technology Solutions Summer Intern](https://jobright.ai/jobs/info/69b71b3d3b74eb1e2c84c0f7?utm_campaign=1058&utm_source=git)** | Livonia, MI | Hybrid | Mar 15 |
-| **[Kalamazoo Growlers](http://northwoodsleague.com/kalamazoo-growlers/)** | **[Ticket Service & Activation Intern](https://jobright.ai/jobs/info/69b714b03b74eb1e2c84bfc8?utm_campaign=1058&utm_source=git)** | Kalamazoo, MI | On Site | Mar 15 |
-| **[Indianapolis Private Industry Council, Inc.](http://www.ipic.org)** | **[Information Technology Intern](https://jobright.ai/jobs/info/69b7125d06c1ba00c548de3b?utm_campaign=1058&utm_source=git)** | Indianapolis, IN | On Site | Mar 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
