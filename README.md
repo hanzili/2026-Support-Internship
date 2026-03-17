@@ -64,8 +64,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69b8f2523b74eb1e2c86e1d2?utm_campaign=1058&utm_source=git)** | MO-ST. LOUIS, 100 S 4TH ST | Hybrid | Mar 16 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69b8f2523b74eb1e2c86e1d3?utm_campaign=1058&utm_source=git)** | DE-WILMINGTON, 123 S JUSTISON ST, STE 200 | Hybrid | Mar 16 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69b8f25206c1ba00c54b045a?utm_campaign=1058&utm_source=git)** | VA-RICHMOND, 2025 STAPLES MILL RD | Hybrid | Mar 16 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69b8f2513b74eb1e2c86e1d1?utm_campaign=1058&utm_source=git)** | OH-MASON, 4361 IRWIN SIMPSON RD | Hybrid | Mar 16 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69b8f25106c1ba00c54b0454?utm_campaign=1058&utm_source=git)** | NC-DURHAM, 1960 IVY CREEK BLVD, | Hybrid | Mar 16 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69b8f2513b74eb1e2c86e1d1?utm_campaign=1058&utm_source=git)** | OH-MASON, 4361 IRWIN SIMPSON RD | Hybrid | Mar 16 |
 | **[Meijer](https://www.meijer.com/)** | **[Intern, Pharmacy Undergrad](https://jobright.ai/jobs/info/69b478af06c1ba00c545e9bd?utm_campaign=1058&utm_source=git)** | Midland, MI | On Site | Mar 16 |
 | **[Rapsodo](http://rapsodo.com/)** | **[IT Intern](https://jobright.ai/jobs/info/69b8f1d53b74eb1e2c86e1a0?utm_campaign=1058&utm_source=git)** | St Louis, MO | On Site | Mar 16 |
 | **[Safran](http://www.safran-group.com)** | **[Intern - IT (Help Desk)](https://jobright.ai/jobs/info/69b8f1d33b74eb1e2c86e19c?utm_campaign=1058&utm_source=git)** | Brea, CA | Hybrid | Mar 16 |
@@ -134,12 +134,12 @@ For a complete list, click the following sortable link below:
 | **[US Conec](http://www.usconec.com/)** | **[Intern - Customer Service- Summer 2026](https://jobright.ai/jobs/info/69b02ae0dfaeda6ff5998dac?utm_campaign=1058&utm_source=git)** | Hickory, North Carolina, United States | On Site | Mar 16 |
 | **[Southeastern Pennsylvania Transportation Authority (SEPTA)](http://www.septa.org)** | **[Customer Service Agent II (7300)](https://jobright.ai/jobs/info/69b07f33749500645096db33?utm_campaign=1058&utm_source=git)** | Philadelphia, PA | On Site | Mar 16 |
 | **[SSM Health](https://www.ssmhealth.com/)** | **[Nurse Intern 1](https://jobright.ai/jobs/info/69b84d593b74eb1e2c85eb83?utm_campaign=1058&utm_source=git)** | MO-SSM Health Mission Hill | On Site | Mar 16 |
-| **[HealthPartners](https://www.castalovespells.com/contact/)** | **[Med History Pharmacy Intern](https://jobright.ai/jobs/info/69b875ab3b74eb1e2c8645c6?utm_campaign=1058&utm_source=git)** | Saint Paul, MN, United States | On Site | Mar 16 |
+| **[HealthPartners](https://www.castalovespells.com/contact/)** | **[Med History Pharmacy Intern](https://jobright.ai/jobs/info/69b8759606c1ba00c54a699f?utm_campaign=1058&utm_source=git)** | Saint Paul, MN, United States | On Site | Mar 16 |
 | **[Saia Inc.](https://saia.com)** | **[IT Intern](https://jobright.ai/jobs/info/69b8741006c1ba00c54a661e?utm_campaign=1058&utm_source=git)** | US - GA - Johns Creek | On Site | Mar 16 |
 | **[Amery Hospital & Clinic](https://www.amerymedicalcenter.org)** | **[Med History Pharmacy Intern](https://jobright.ai/jobs/info/69b8759556973837413dcf42?utm_campaign=1058&utm_source=git)** | Saint Paul, MN, United States | On Site | Mar 16 |
 | **[Sage Hospitality Group](https://www.sagehospitalitygroup.com/)** | **[Intern](https://jobright.ai/jobs/info/69b868b73b74eb1e2c8635a8?utm_campaign=1058&utm_source=git)** | Detroit, MI, US | On Site | Mar 16 |
-| **[Magnera Corporation](https://magnera.com/)** | **[IT On-Site Support Intern](https://jobright.ai/jobs/info/69b8694d06c1ba00c54a5b00?utm_campaign=1058&utm_source=git)** | Evansville, IN, US | On Site | Mar 16 |
-| ↳ | **[IT On-Site Support Intern](https://jobright.ai/jobs/info/69b868b53b74eb1e2c8635a0?utm_campaign=1058&utm_source=git)** | US-IN-Evansville | On Site | Mar 16 |
+| **[Magnera Corporation](https://magnera.com/)** | **[IT On-Site Support Intern](https://jobright.ai/jobs/info/69b868b53b74eb1e2c8635a0?utm_campaign=1058&utm_source=git)** | US-IN-Evansville | On Site | Mar 16 |
+| ↳ | **[IT On-Site Support Intern](https://jobright.ai/jobs/info/69b8694d06c1ba00c54a5b00?utm_campaign=1058&utm_source=git)** | Evansville, IN, US | On Site | Mar 16 |
 | **[Meridian Bioscience Inc.](http://meridianbioscience.com)** | **[IT Service Desk Intern (Summer)](https://jobright.ai/jobs/info/69b8694d06c1ba00c54a5b05?utm_campaign=1058&utm_source=git)** | US-OH-Cincinnati | On Site | Mar 16 |
 | ↳ | **[Technical Services Support Intern](https://jobright.ai/jobs/info/69b868a63b74eb1e2c863548?utm_campaign=1058&utm_source=git)** | Cincinnati, OH, US | On Site | Mar 16 |
 | **[Northern Virginia Transportation Commission](http://www.novatransit.org/)** | **[Information Resources Fellow](https://jobright.ai/jobs/info/69b847f206c1ba00c54a07ee?utm_campaign=1058&utm_source=git)** | Arlington, VA | Hybrid | Mar 16 |
