@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CARFAX](https://www.carfax.com/)** | **[Operations Intern - CARFAX for Police](https://jobright.ai/jobs/info/69b9b1a856973837413f2c04?utm_campaign=1058&utm_source=git)** | Centreville, Virginia | Hybrid | Mar 17 |
+| **[Anderson Auto Group of Nebraska and Missouri](https://www.andersonautogroup.com/)** | **[Service Center Intern-Grand Island Public Schools CPI](https://jobright.ai/jobs/info/69b9b10306c1ba00c54bb70b?utm_campaign=1058&utm_source=git)** | Grand Island, NE, 68803, US | On Site | Mar 17 |
+| **[State of Ohio](https://development.ohio.gov/)** | **[College Intern - Information Technology - PN 20057078 - Garfield Hts., Cuyahoga County](https://jobright.ai/jobs/info/69b9b08d56973837413f2b2b?utm_campaign=1058&utm_source=git)** | United States of America-OHIO-Cuyahoga County | On Site | Mar 17 |
+| ↳ | **[College Intern - Information Technology - PN 20057078 - Garfield Hts., Cuyahoga County](https://jobright.ai/jobs/info/69b9b0463b74eb1e2c8794ca?utm_campaign=1058&utm_source=git)** | District 12 HQ5500 Transportation Boulevard | On Site | Mar 17 |
+| ↳ | **[College Intern - Information Technology - PN 20057078 - Garfield Hts., Cuyahoga County](https://jobright.ai/jobs/info/69b9b02806c1ba00c54bb67a?utm_campaign=1058&utm_source=git)** | United States of America-OHIO-Cuyahoga County-Garfield Heights | On Site | Mar 17 |
+| ↳ | **[College Intern - Information Technology - PN 20057078 - Garfield Hts., Cuyahoga County](https://jobright.ai/jobs/info/69b9b02806c1ba00c54bb67c?utm_campaign=1058&utm_source=git)** | District 12 HQ5500 Transportation Boulevard | On Site | Mar 17 |
 | **[Air Transport Services Group, Inc.](http://www.atsginc.com)** | **[ATSG - IT INTERN](https://jobright.ai/jobs/info/69b9ac383b74eb1e2c878b98?utm_campaign=1058&utm_source=git)** | Wilmington, Ohio, United States | On Site | Mar 17 |
 | **[Philips](https://www.usa.philips.com)** | **[Intern-Customer Service-Nashville, TN-Summer 2026](https://jobright.ai/jobs/info/69b9ab5406c1ba00c54babf3?utm_campaign=1058&utm_source=git)** | Nashville, Tennessee, United States | On Site | Mar 17 |
 | **[Citizens Electric Corporation](https://www.cecmo.com)** | **[Member Services Intern](https://jobright.ai/jobs/info/69b99d3506c1ba00c54ba60c?utm_campaign=1058&utm_source=git)** | Perryville, Missouri, United States | On Site | Mar 17 |
@@ -69,7 +75,6 @@ For a complete list, click the following sortable link below:
 | **[State Street](https://www.statestreet.com/)** | **[State Street - Client Service - Summer Internship 2026](https://jobright.ai/jobs/info/69b98d413b74eb1e2c8771cb?utm_campaign=1058&utm_source=git)** | Toronto, Ontario | On Site | Mar 17 |
 | **[Virgo Health](http://www.virgohealth.com/)** | **[Client Services Intern](https://jobright.ai/jobs/info/69b981f406c1ba00c54b8fa1?utm_campaign=1058&utm_source=git)** | New York, New York, United States | Hybrid | Mar 17 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Student Nurse Intern NICU](https://jobright.ai/jobs/info/69b9a79a06c1ba00c54ba9d4?utm_campaign=1058&utm_source=git)** | Wichita, KS, US | On Site | Mar 17 |
-| ↳ | **[Student Nurse Intern NICU](https://jobright.ai/jobs/info/69b99e3a3b74eb1e2c8784eb?utm_campaign=1058&utm_source=git)** | US-KS-Wichita | On Site | Mar 17 |
 | **[Surpass Behavioral Health](https://surpassbehavioralhealth.com)** | **[Desktop Operations, Intern](https://jobright.ai/jobs/info/69b97b463b74eb1e2c876a25?utm_campaign=1058&utm_source=git)** | Remote/Nationwide, USA | Remote | Mar 17 |
 | ↳ | **[Desktop Operations, Intern](https://jobright.ai/jobs/info/69b97b4056973837413efa3c?utm_campaign=1058&utm_source=git)** | Fort Lauderdale, FL, USA | On Site | Mar 17 |
 | **[Kentucky Farm Bureau Insurance](http://kyfb.com)** | **[Help Desk Intern](https://jobright.ai/jobs/info/69b977e856973837413ef883?utm_campaign=1058&utm_source=git)** | US-KY-Louisville | On Site | Mar 17 |
@@ -103,8 +108,8 @@ For a complete list, click the following sortable link below:
 | **[Marvin](http://www.marvin.com/)** | **[Customer Services Intern](https://jobright.ai/jobs/info/69b8bc443b74eb1e2c86c903?utm_campaign=1058&utm_source=git)** | US-MN-Warroad | On Site | Mar 16 |
 | ↳ | **[Customer Services Intern](https://jobright.ai/jobs/info/69b8bce956973837413e5b98?utm_campaign=1058&utm_source=git)** | Warroad, MN, US | On Site | Mar 16 |
 | **[Benchmark Hospitality at DU](http://www.benchmarkhoteldfw.com)** | **[Sales and Catering Intern](https://jobright.ai/jobs/info/69b89a6356973837413dfcad?utm_campaign=1058&utm_source=git)** | OKANA Resort & Indoor Waterpark | On Site | Mar 16 |
-| **[Baptist Health](https://www.baptisthealthal.com/)** | **[Radiology Tech Intern PRN Varies Shifts](https://jobright.ai/jobs/info/69b8bce556973837413e5b74?utm_campaign=1058&utm_source=git)** | Walker Medical Center | On Site | Mar 16 |
-| ↳ | **[Radiology Tech Intern PRN Varies Shifts](https://jobright.ai/jobs/info/69b8bc3b3b74eb1e2c86c8d3?utm_campaign=1058&utm_source=git)** | JASPER, AL, US | On Site | Mar 16 |
+| **[Baptist Health](https://www.baptisthealthal.com/)** | **[Radiology Tech Intern PRN Varies Shifts](https://jobright.ai/jobs/info/69b8bc3b3b74eb1e2c86c8d3?utm_campaign=1058&utm_source=git)** | JASPER, AL, US | On Site | Mar 16 |
+| ↳ | **[Radiology Tech Intern PRN Varies Shifts](https://jobright.ai/jobs/info/69b8bce556973837413e5b74?utm_campaign=1058&utm_source=git)** | Walker Medical Center | On Site | Mar 16 |
 | **[Urban Science](http://urbanscience.com/)** | **[IT Operations Intern, End User Computing- Long Beach, CA](https://jobright.ai/jobs/info/69b8926456973837413df1a8?utm_campaign=1058&utm_source=git)** | Long Beach, CA | Hybrid | Mar 16 |
 | **[CENIC](https://cenic.org/)** | **[CENIC Operations Intern](https://jobright.ai/jobs/info/69b88f943b74eb1e2c866414?utm_campaign=1058&utm_source=git)** | La Mirada, CA | Hybrid | Mar 16 |
 | **[Strattec Security Corporation](http://www.strattec.com/)** | **[IT Infrastructure Intern - Summer](https://jobright.ai/jobs/info/69b88c1d06c1ba00c54a85cb?utm_campaign=1058&utm_source=git)** | Milwaukee, WI | Hybrid | Mar 16 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[EverCommerce](https://www.evercommerce.com/)** | **[EverHealth - Customer Experience Internship (Remote, US)](https://jobright.ai/jobs/info/69b8744a3b74eb1e2c86436c?utm_campaign=1058&utm_source=git)** | Remote- US | Remote | Mar 16 |
 | **[Sanford Health](http://www.sanfordhealth.org)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69b8742556973837413dcc3e?utm_campaign=1058&utm_source=git)** | SD, Sioux Falls | On Site | Mar 16 |
 | **[Lake Charles Memorial Health System](http://www.lcmh.com)** | **[RN Student Intern](https://jobright.ai/jobs/info/69b8716d3b74eb1e2c863f15?utm_campaign=1058&utm_source=git)** | Lake Charles, LA | On Site | Mar 16 |
-| **[US Conec](http://www.usconec.com/)** | **[Intern - Customer Service- Summer 2026](https://jobright.ai/jobs/info/69b02ae0dfaeda6ff5998dac?utm_campaign=1058&utm_source=git)** | Hickory, North Carolina, United States | On Site | Mar 16 |
-| **[Southeastern Pennsylvania Transportation Authority (SEPTA)](http://www.septa.org)** | **[Customer Service Agent II (7300)](https://jobright.ai/jobs/info/69b07f33749500645096db33?utm_campaign=1058&utm_source=git)** | Philadelphia, PA | On Site | Mar 16 |
-| **[SSM Health](https://www.ssmhealth.com/)** | **[Nurse Intern 1](https://jobright.ai/jobs/info/69b84d593b74eb1e2c85eb83?utm_campaign=1058&utm_source=git)** | MO-SSM Health Mission Hill | On Site | Mar 16 |
-| **[HealthPartners](https://www.castalovespells.com/contact/)** | **[Med History Pharmacy Intern](https://jobright.ai/jobs/info/69b8759606c1ba00c54a699f?utm_campaign=1058&utm_source=git)** | Saint Paul, MN, United States | On Site | Mar 16 |
-| **[Amery Hospital & Clinic](https://www.amerymedicalcenter.org)** | **[Med History Pharmacy Intern](https://jobright.ai/jobs/info/69b8759556973837413dcf42?utm_campaign=1058&utm_source=git)** | Saint Paul, MN, United States | On Site | Mar 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
