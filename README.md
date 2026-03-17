@@ -63,8 +63,8 @@ For a complete list, click the following sortable link below:
 | **[Leslie's](https://lesliespool.com/)** | **[Intern - Retail Support](https://jobright.ai/jobs/info/69b8b4353b74eb1e2c86b271?utm_campaign=1058&utm_source=git)** | PHOENIX, Arizona, United States | On Site | Mar 16 |
 | **[HOLT Industrial Systems](https://holtindustrialsystems.com)** | **[Service Intern - High School](https://jobright.ai/jobs/info/69b8b3c056973837413e3bce?utm_campaign=1058&utm_source=git)** | Waco, Texas, United States | On Site | Mar 16 |
 | **[National Technologies (NTI), a Network Connex Company](https://www.ntitech.com)** | **[Intern - IT](https://jobright.ai/jobs/info/69b8c4533b74eb1e2c86ceb1?utm_campaign=1058&utm_source=git)** | NTI CONNECT LLC - DG - IL, Downers Grove, IL, US | On Site | Mar 16 |
-| **[Marvin](http://www.marvin.com/)** | **[Customer Services Intern](https://jobright.ai/jobs/info/69b8bc443b74eb1e2c86c903?utm_campaign=1058&utm_source=git)** | US-MN-Warroad | On Site | Mar 16 |
-| ↳ | **[Customer Services Intern](https://jobright.ai/jobs/info/69b8bce956973837413e5b98?utm_campaign=1058&utm_source=git)** | Warroad, MN, US | On Site | Mar 16 |
+| **[Marvin](http://www.marvin.com/)** | **[Customer Services Intern](https://jobright.ai/jobs/info/69b8bce956973837413e5b98?utm_campaign=1058&utm_source=git)** | Warroad, MN, US | On Site | Mar 16 |
+| ↳ | **[Customer Services Intern](https://jobright.ai/jobs/info/69b8bc443b74eb1e2c86c903?utm_campaign=1058&utm_source=git)** | US-MN-Warroad | On Site | Mar 16 |
 | **[Benchmark Hospitality at DU](http://www.benchmarkhoteldfw.com)** | **[Sales and Catering Intern](https://jobright.ai/jobs/info/69b89a6356973837413dfcad?utm_campaign=1058&utm_source=git)** | OKANA Resort & Indoor Waterpark | On Site | Mar 16 |
 | **[Baptist Health](https://www.baptisthealthal.com/)** | **[Radiology Tech Intern PRN Varies Shifts](https://jobright.ai/jobs/info/69b8bce556973837413e5b74?utm_campaign=1058&utm_source=git)** | Walker Medical Center | On Site | Mar 16 |
 | ↳ | **[Radiology Tech Intern PRN Varies Shifts](https://jobright.ai/jobs/info/69b8bc3b3b74eb1e2c86c8d3?utm_campaign=1058&utm_source=git)** | JASPER, AL, US | On Site | Mar 16 |
@@ -105,8 +105,8 @@ For a complete list, click the following sortable link below:
 | **[SWBC](https://www.swbc.com)** | **[IT Intern (Service Desk)](https://jobright.ai/jobs/info/69b8617e06c1ba00c54a4228?utm_campaign=1058&utm_source=git)** | San Antonio, TX | On Site | Mar 16 |
 | **[Action Behavior Centers - ABA Therapy for Autism](https://www.actionbehavior.com)** | **[Internal Only - Clinic Admissions Associate](https://jobright.ai/jobs/info/69b861513b74eb1e2c861d5f?utm_campaign=1058&utm_source=git)** | Goodyear, AZ | On Site | Mar 16 |
 | ↳ | **[Clinic Admissions Associate](https://jobright.ai/jobs/info/69b861013b74eb1e2c861ad1?utm_campaign=1058&utm_source=git)** | Litchfield, AZ | On Site | Mar 16 |
-| **[Meridian Bioscience Inc.](http://meridianbioscience.com)** | **[Technical Services Support Intern](https://jobright.ai/jobs/info/69b8604f56973837413da2dd?utm_campaign=1058&utm_source=git)** | US-OH-Cincinnati | On Site | Mar 16 |
-| ↳ | **[IT Service Desk Intern (Summer)](https://jobright.ai/jobs/info/69b8604f56973837413da2d6?utm_campaign=1058&utm_source=git)** | Cincinnati, OH, US | On Site | Mar 16 |
+| **[Meridian Bioscience Inc.](http://meridianbioscience.com)** | **[IT Service Desk Intern (Summer)](https://jobright.ai/jobs/info/69b8604f56973837413da2d6?utm_campaign=1058&utm_source=git)** | Cincinnati, OH, US | On Site | Mar 16 |
+| ↳ | **[Technical Services Support Intern](https://jobright.ai/jobs/info/69b8604f56973837413da2dd?utm_campaign=1058&utm_source=git)** | US-OH-Cincinnati | On Site | Mar 16 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Nurse Intern Senior Behavioral Health](https://jobright.ai/jobs/info/69b85fe356973837413da10f?utm_campaign=1058&utm_source=git)** | Wichita, KS, US | On Site | Mar 16 |
 | **[Parkview Health](http://www.parkview.com)** | **[IS Technology Summer Non-Clinical Intern](https://jobright.ai/jobs/info/69b85e1b06c1ba00c54a3897?utm_campaign=1058&utm_source=git)** | Greater Fort Wayne | On Site | Mar 16 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Nurse Intern Senior Behavioral Health](https://jobright.ai/jobs/info/69b85d5e06c1ba00c54a3790?utm_campaign=1058&utm_source=git)** | Wichita, KS | On Site | Mar 16 |
@@ -126,8 +126,8 @@ For a complete list, click the following sortable link below:
 | **[Saia Inc.](https://saia.com)** | **[IT Intern](https://jobright.ai/jobs/info/69b8741006c1ba00c54a661e?utm_campaign=1058&utm_source=git)** | US - GA - Johns Creek | On Site | Mar 16 |
 | **[Amery Hospital & Clinic](https://www.amerymedicalcenter.org)** | **[Med History Pharmacy Intern](https://jobright.ai/jobs/info/69b8759556973837413dcf42?utm_campaign=1058&utm_source=git)** | Saint Paul, MN, United States | On Site | Mar 16 |
 | **[Sage Hospitality Group](https://www.sagehospitalitygroup.com/)** | **[Intern](https://jobright.ai/jobs/info/69b868b73b74eb1e2c8635a8?utm_campaign=1058&utm_source=git)** | Detroit, MI, US | On Site | Mar 16 |
-| **[Magnera Corporation](https://magnera.com/)** | **[IT On-Site Support Intern](https://jobright.ai/jobs/info/69b8694d06c1ba00c54a5b00?utm_campaign=1058&utm_source=git)** | Evansville, IN, US | On Site | Mar 16 |
-| ↳ | **[IT On-Site Support Intern](https://jobright.ai/jobs/info/69b868b53b74eb1e2c8635a0?utm_campaign=1058&utm_source=git)** | US-IN-Evansville | On Site | Mar 16 |
+| **[Magnera Corporation](https://magnera.com/)** | **[IT On-Site Support Intern](https://jobright.ai/jobs/info/69b868b53b74eb1e2c8635a0?utm_campaign=1058&utm_source=git)** | US-IN-Evansville | On Site | Mar 16 |
+| ↳ | **[IT On-Site Support Intern](https://jobright.ai/jobs/info/69b8694d06c1ba00c54a5b00?utm_campaign=1058&utm_source=git)** | Evansville, IN, US | On Site | Mar 16 |
 | **[Meridian Bioscience Inc.](http://meridianbioscience.com)** | **[IT Service Desk Intern (Summer)](https://jobright.ai/jobs/info/69b8694d06c1ba00c54a5b05?utm_campaign=1058&utm_source=git)** | US-OH-Cincinnati | On Site | Mar 16 |
 | ↳ | **[Technical Services Support Intern](https://jobright.ai/jobs/info/69b868a63b74eb1e2c863548?utm_campaign=1058&utm_source=git)** | Cincinnati, OH, US | On Site | Mar 16 |
 | **[Northern Virginia Transportation Commission](http://www.novatransit.org/)** | **[Information Resources Fellow](https://jobright.ai/jobs/info/69b847f206c1ba00c54a07ee?utm_campaign=1058&utm_source=git)** | Arlington, VA | Hybrid | Mar 16 |
