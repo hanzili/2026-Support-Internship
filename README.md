@@ -58,8 +58,6 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[InterWorks](http://www.interworks.com)** | **[IT Intern](https://jobright.ai/jobs/info/68596a3df7e1d7c7ec214cfc?utm_campaign=1058&utm_source=git)** | Stillwater, Oklahoma, United States | On Site | Mar 17 |
-| **[Royal American Companies](http://www.royalamerican.com)** | **[RAMP INTERN - Locations Vary](https://jobright.ai/jobs/info/69ba236706c1ba00c54c41c6?utm_campaign=1058&utm_source=git)** | RAM Panama City Corporate Office - Panama City, FL 32405 | On Site | Mar 17 |
-| **[Royal American Management, Inc](http://royalamerican.com)** | **[RAMP INTERN - Locations Vary](https://jobright.ai/jobs/info/69ba22b756973837413faa66?utm_campaign=1058&utm_source=git)** | RAM Panama City Corporate Office - Panama City, FL 32405 | On Site | Mar 17 |
 | **[University of Washington](http://www.washington.edu)** | **[Outpatient Pharmacist Intern - Year One](https://jobright.ai/jobs/info/69ba121a06c1ba00c54c31be?utm_campaign=1058&utm_source=git)** | Seattle, WA | On Site | Mar 17 |
 | **[EdgeUno](https://edgeuno.com/)** | **[IT & Office Support Intern (Part-Time)](https://jobright.ai/jobs/info/69ba0c693b74eb1e2c880a2f?utm_campaign=1058&utm_source=git)** | Miami, Florida, United States | On Site | Mar 17 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[IS Services & Support Intern (Seattle)](https://jobright.ai/jobs/info/69b9f0a006c1ba00c54c0a25?utm_campaign=1058&utm_source=git)** | Seattle, WA, US | On Site | Mar 17 |
@@ -87,8 +85,8 @@ For a complete list, click the following sortable link below:
 | **[Anderson Auto Group of Nebraska and Missouri](https://www.andersonautogroup.com/)** | **[Service Center Intern-Grand Island Public Schools CPI](https://jobright.ai/jobs/info/69b9b10306c1ba00c54bb70b?utm_campaign=1058&utm_source=git)** | Grand Island, NE, 68803, US | On Site | Mar 17 |
 | **[State of Ohio](https://development.ohio.gov/)** | **[College Intern - Information Technology - PN 20057078 - Garfield Hts., Cuyahoga County](https://jobright.ai/jobs/info/69b9b08d56973837413f2b2b?utm_campaign=1058&utm_source=git)** | United States of America-OHIO-Cuyahoga County | On Site | Mar 17 |
 | ↳ | **[College Intern - Information Technology - PN 20057078 - Garfield Hts., Cuyahoga County](https://jobright.ai/jobs/info/69b9b0463b74eb1e2c8794ca?utm_campaign=1058&utm_source=git)** | District 12 HQ5500 Transportation Boulevard | On Site | Mar 17 |
-| ↳ | **[College Intern - Information Technology - PN 20057078 - Garfield Hts., Cuyahoga County](https://jobright.ai/jobs/info/69b9b02806c1ba00c54bb67a?utm_campaign=1058&utm_source=git)** | United States of America-OHIO-Cuyahoga County-Garfield Heights | On Site | Mar 17 |
 | ↳ | **[College Intern - Information Technology - PN 20057078 - Garfield Hts., Cuyahoga County](https://jobright.ai/jobs/info/69b9b02806c1ba00c54bb67c?utm_campaign=1058&utm_source=git)** | District 12 HQ5500 Transportation Boulevard | On Site | Mar 17 |
+| ↳ | **[College Intern - Information Technology - PN 20057078 - Garfield Hts., Cuyahoga County](https://jobright.ai/jobs/info/69b9b02806c1ba00c54bb67a?utm_campaign=1058&utm_source=git)** | United States of America-OHIO-Cuyahoga County-Garfield Heights | On Site | Mar 17 |
 | **[Air Transport Services Group, Inc.](http://www.atsginc.com)** | **[ATSG - IT INTERN](https://jobright.ai/jobs/info/69b9ac383b74eb1e2c878b98?utm_campaign=1058&utm_source=git)** | Wilmington, Ohio, United States | On Site | Mar 17 |
 | **[Philips](https://www.usa.philips.com)** | **[Intern-Customer Service-Nashville, TN-Summer 2026](https://jobright.ai/jobs/info/69b9ab5406c1ba00c54babf3?utm_campaign=1058&utm_source=git)** | Nashville, Tennessee, United States | On Site | Mar 17 |
 | **[Citizens Electric Corporation](https://www.cecmo.com)** | **[Member Services Intern](https://jobright.ai/jobs/info/69b99d3506c1ba00c54ba60c?utm_campaign=1058&utm_source=git)** | Perryville, Missouri, United States | On Site | Mar 17 |
@@ -128,8 +126,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69b8f2523b74eb1e2c86e1d3?utm_campaign=1058&utm_source=git)** | DE-WILMINGTON, 123 S JUSTISON ST, STE 200 | Hybrid | Mar 16 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69b8f25206c1ba00c54b045a?utm_campaign=1058&utm_source=git)** | VA-RICHMOND, 2025 STAPLES MILL RD | Hybrid | Mar 16 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69b8f2523b74eb1e2c86e1d2?utm_campaign=1058&utm_source=git)** | MO-ST. LOUIS, 100 S 4TH ST | Hybrid | Mar 16 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69b8f2513b74eb1e2c86e1d1?utm_campaign=1058&utm_source=git)** | OH-MASON, 4361 IRWIN SIMPSON RD | Hybrid | Mar 16 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69b8f25106c1ba00c54b0454?utm_campaign=1058&utm_source=git)** | NC-DURHAM, 1960 IVY CREEK BLVD, | Hybrid | Mar 16 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69b8f2513b74eb1e2c86e1d1?utm_campaign=1058&utm_source=git)** | OH-MASON, 4361 IRWIN SIMPSON RD | Hybrid | Mar 16 |
 | **[Meijer](https://www.meijer.com/)** | **[Intern, Pharmacy Undergrad](https://jobright.ai/jobs/info/69b478af06c1ba00c545e9bd?utm_campaign=1058&utm_source=git)** | Midland, MI | On Site | Mar 16 |
 | **[Rapsodo](http://rapsodo.com/)** | **[IT Intern](https://jobright.ai/jobs/info/69b8f1d53b74eb1e2c86e1a0?utm_campaign=1058&utm_source=git)** | St Louis, MO | On Site | Mar 16 |
 | **[Safran](http://www.safran-group.com)** | **[Intern - IT (Help Desk)](https://jobright.ai/jobs/info/69b8f1d33b74eb1e2c86e19c?utm_campaign=1058&utm_source=git)** | Brea, CA | Hybrid | Mar 16 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Siemens Healthineers](https://www.siemens-healthineers.com)** | **[Technical Writing Intern](https://jobright.ai/jobs/info/69a16b6d0da45516f16acffd?utm_campaign=1058&utm_source=git)** | Newark, DE | On Site | Mar 16 |
 | **[Integration Innovation, Inc.](https://i3-corps.com/)** | **[Service Desk Internship](https://jobright.ai/jobs/info/69b87b2706c1ba00c54a7540?utm_campaign=1058&utm_source=git)** | Huntsville, AL | On Site | Mar 16 |
 | **[1-800-FLOWERS.COM, INC.](http://www.1800flowers.com)** | **[Intern, Customer Care](https://jobright.ai/jobs/info/69b565d13b74eb1e2c82f1a2?utm_campaign=1058&utm_source=git)** | Jericho, NY | On Site | Mar 16 |
+| **[TSMC](http://www.tsmc.com)** | **[Summer 2026 - Business Operations / Service Specialist Intern (7433)](https://jobright.ai/jobs/info/69b879c93b74eb1e2c864ef2?utm_campaign=1058&utm_source=git)** | San Jose, CA | On Site | Mar 16 |
+| **[Meridian Bioscience Inc.](http://meridianbioscience.com)** | **[IT Service Desk Intern (Summer)](https://jobright.ai/jobs/info/69b8715656973837413dc8e0?utm_campaign=1058&utm_source=git)** | Cincinnati, OH | On Site | Mar 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
