@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HCTC](http://www.hctc.net)** | **[Customer Experience Intern](https://jobright.ai/jobs/info/69ba4fe006c1ba00c54c5bca?utm_campaign=1058&utm_source=git)** | Ingram, TX, USA | On Site | Mar 18 |
+| **[Xometry](https://www.xometry.com)** | **[IT Service Desk Intern](https://jobright.ai/jobs/info/69acaada2747003c3d524801?utm_campaign=1058&utm_source=git)** | North Bethesda, MD | Hybrid | Mar 17 |
 | **[InterWorks](http://www.interworks.com)** | **[IT Intern](https://jobright.ai/jobs/info/68596a3df7e1d7c7ec214cfc?utm_campaign=1058&utm_source=git)** | Stillwater, Oklahoma, United States | On Site | Mar 17 |
 | **[University of Washington](http://www.washington.edu)** | **[Outpatient Pharmacist Intern - Year One](https://jobright.ai/jobs/info/69ba121a06c1ba00c54c31be?utm_campaign=1058&utm_source=git)** | Seattle, WA | On Site | Mar 17 |
 | **[EdgeUno](https://edgeuno.com/)** | **[IT & Office Support Intern (Part-Time)](https://jobright.ai/jobs/info/69ba0c693b74eb1e2c880a2f?utm_campaign=1058&utm_source=git)** | Miami, Florida, United States | On Site | Mar 17 |
@@ -131,16 +133,17 @@ For a complete list, click the following sortable link below:
 | **[Meijer](https://www.meijer.com/)** | **[Intern, Pharmacy Undergrad](https://jobright.ai/jobs/info/69b478af06c1ba00c545e9bd?utm_campaign=1058&utm_source=git)** | Midland, MI | On Site | Mar 16 |
 | **[Rapsodo](http://rapsodo.com/)** | **[IT Intern](https://jobright.ai/jobs/info/69b8f1d53b74eb1e2c86e1a0?utm_campaign=1058&utm_source=git)** | St Louis, MO | On Site | Mar 16 |
 | **[Safran](http://www.safran-group.com)** | **[Intern - IT (Help Desk)](https://jobright.ai/jobs/info/69b8f1d33b74eb1e2c86e19c?utm_campaign=1058&utm_source=git)** | Brea, CA | Hybrid | Mar 16 |
+| **[Martin Equipment](https://www.martinequipment.com)** | **[Service Technician Intern](https://jobright.ai/jobs/info/69ba46c306c1ba00c54c588d?utm_campaign=1058&utm_source=git)** | Illinois, Missouri, or Iowa Branches - Goodfield, IL 61742 | On Site | Mar 16 |
 | **[Cain Watters & Associates](https://www.cainwatters.com/)** | **[IT Intern - Summer 2026](https://jobright.ai/jobs/info/69b8bceb06c1ba00c54aed57?utm_campaign=1058&utm_source=git)** | Frisco, 17 Cowboys Way Suite 300, US | On Site | Mar 16 |
 | **[Action Behavior Centers - ABA Therapy for Autism](https://www.actionbehavior.com)** | **[Clinic Admissions Associate](https://jobright.ai/jobs/info/69a64adbe567421f4257429d?utm_campaign=1058&utm_source=git)** | Grand Prairie, TX | On Site | Mar 16 |
 | **[Leslie's](https://lesliespool.com/)** | **[Intern - Retail Support](https://jobright.ai/jobs/info/69b8b4353b74eb1e2c86b271?utm_campaign=1058&utm_source=git)** | PHOENIX, Arizona, United States | On Site | Mar 16 |
 | **[HOLT Industrial Systems](https://holtindustrialsystems.com)** | **[Service Intern - High School](https://jobright.ai/jobs/info/69b8b3c056973837413e3bce?utm_campaign=1058&utm_source=git)** | Waco, Texas, United States | On Site | Mar 16 |
 | **[National Technologies (NTI), a Network Connex Company](https://www.ntitech.com)** | **[Intern - IT](https://jobright.ai/jobs/info/69b8c4533b74eb1e2c86ceb1?utm_campaign=1058&utm_source=git)** | NTI CONNECT LLC - DG - IL, Downers Grove, IL, US | On Site | Mar 16 |
-| **[Marvin](http://www.marvin.com/)** | **[Customer Services Intern](https://jobright.ai/jobs/info/69b8bc443b74eb1e2c86c903?utm_campaign=1058&utm_source=git)** | US-MN-Warroad | On Site | Mar 16 |
-| ↳ | **[Customer Services Intern](https://jobright.ai/jobs/info/69b8bce956973837413e5b98?utm_campaign=1058&utm_source=git)** | Warroad, MN, US | On Site | Mar 16 |
+| **[Marvin](http://www.marvin.com/)** | **[Customer Services Intern](https://jobright.ai/jobs/info/69b8bce956973837413e5b98?utm_campaign=1058&utm_source=git)** | Warroad, MN, US | On Site | Mar 16 |
+| ↳ | **[Customer Services Intern](https://jobright.ai/jobs/info/69b8bc443b74eb1e2c86c903?utm_campaign=1058&utm_source=git)** | US-MN-Warroad | On Site | Mar 16 |
 | **[Benchmark Hospitality at DU](http://www.benchmarkhoteldfw.com)** | **[Sales and Catering Intern](https://jobright.ai/jobs/info/69b89a6356973837413dfcad?utm_campaign=1058&utm_source=git)** | OKANA Resort & Indoor Waterpark | On Site | Mar 16 |
-| **[Baptist Health](https://www.baptisthealthal.com/)** | **[Radiology Tech Intern PRN Varies Shifts](https://jobright.ai/jobs/info/69b8bc3b3b74eb1e2c86c8d3?utm_campaign=1058&utm_source=git)** | JASPER, AL, US | On Site | Mar 16 |
-| ↳ | **[Radiology Tech Intern PRN Varies Shifts](https://jobright.ai/jobs/info/69b8bce556973837413e5b74?utm_campaign=1058&utm_source=git)** | Walker Medical Center | On Site | Mar 16 |
+| **[Baptist Health](https://www.baptisthealthal.com/)** | **[Radiology Tech Intern PRN Varies Shifts](https://jobright.ai/jobs/info/69b8bce556973837413e5b74?utm_campaign=1058&utm_source=git)** | Walker Medical Center | On Site | Mar 16 |
+| ↳ | **[Radiology Tech Intern PRN Varies Shifts](https://jobright.ai/jobs/info/69b8bc3b3b74eb1e2c86c8d3?utm_campaign=1058&utm_source=git)** | JASPER, AL, US | On Site | Mar 16 |
 | **[Urban Science](http://urbanscience.com/)** | **[IT Operations Intern, End User Computing- Long Beach, CA](https://jobright.ai/jobs/info/69b8926456973837413df1a8?utm_campaign=1058&utm_source=git)** | Long Beach, CA | Hybrid | Mar 16 |
 | **[Strattec Security Corporation](http://www.strattec.com/)** | **[IT Infrastructure Intern - Summer](https://jobright.ai/jobs/info/69b88c1d06c1ba00c54a85cb?utm_campaign=1058&utm_source=git)** | Milwaukee, WI | Hybrid | Mar 16 |
 | **[Eagle Ranch](https://www.eagleranch.org)** | **[IT Intern](https://jobright.ai/jobs/info/69b8878206c1ba00c54a8388?utm_campaign=1058&utm_source=git)** | Flowery Branch, GA | On Site | Mar 16 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[MedStar Health](http://www.medstarhealth.org)** | **[CNA Student Intern](https://jobright.ai/jobs/info/69b87e7156973837413ddf69?utm_campaign=1058&utm_source=git)** | Leonardtown, MD | On Site | Mar 16 |
 | **[Siemens Healthineers](https://www.siemens-healthineers.com)** | **[Technical Writing Intern](https://jobright.ai/jobs/info/69a16b6d0da45516f16acffd?utm_campaign=1058&utm_source=git)** | Newark, DE | On Site | Mar 16 |
 | **[Integration Innovation, Inc.](https://i3-corps.com/)** | **[Service Desk Internship](https://jobright.ai/jobs/info/69b87b2706c1ba00c54a7540?utm_campaign=1058&utm_source=git)** | Huntsville, AL | On Site | Mar 16 |
-| **[1-800-FLOWERS.COM, INC.](http://www.1800flowers.com)** | **[Intern, Customer Care](https://jobright.ai/jobs/info/69b565d13b74eb1e2c82f1a2?utm_campaign=1058&utm_source=git)** | Jericho, NY | On Site | Mar 16 |
-| **[TSMC](http://www.tsmc.com)** | **[Summer 2026 - Business Operations / Service Specialist Intern (7433)](https://jobright.ai/jobs/info/69b879c93b74eb1e2c864ef2?utm_campaign=1058&utm_source=git)** | San Jose, CA | On Site | Mar 16 |
-| **[Meridian Bioscience Inc.](http://meridianbioscience.com)** | **[IT Service Desk Intern (Summer)](https://jobright.ai/jobs/info/69b8715656973837413dc8e0?utm_campaign=1058&utm_source=git)** | Cincinnati, OH | On Site | Mar 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
