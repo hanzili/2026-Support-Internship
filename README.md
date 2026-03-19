@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hyatt](http://www.hyatt.com/)** | **[Summer 2026 - College Intern - Front Desk](https://jobright.ai/jobs/info/69679305f25a38006695e855?utm_campaign=1058&utm_source=git)** | San Antonio, TX | On Site | Mar 19 |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[IS Services & Support Intern (or Co-Op)](https://jobright.ai/jobs/info/69a66c4b2c0d8b0f5cd08b40?utm_campaign=1058&utm_source=git)** | Charlotte, NC | On Site | Mar 19 |
+| **[Mercy Health](http://www.mercy.com/)** | **[Student Nurse Intern](https://jobright.ai/jobs/info/69bbe4fa4828227293fce035?utm_campaign=1058&utm_source=git)** | Mercyhealth Hospital and Trauma Center - Janesville, WI | On Site | Mar 19 |
+| ↳ | **[Student Nurse Intern, JBH Nursing Services](https://jobright.ai/jobs/info/69bbe4d545e08b3dc1f7a27e?utm_campaign=1058&utm_source=git)** | Javon Bea Hospital - Rockford, IL | On Site | Mar 19 |
+| **[Option Care Health](https://optioncarehealth.com)** | **[Intern, Pharmacy - Per Diem](https://jobright.ai/jobs/info/6977e8e788e2b47213bbe7ed?utm_campaign=1058&utm_source=git)** | Charlotte, NC | On Site | Mar 19 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[IT Intern Summer 2026](https://jobright.ai/jobs/info/694a408831c12007d3b902d9?utm_campaign=1058&utm_source=git)** | Ogden, UT | On Site | Mar 19 |
 | **[Golden 1 Credit Union](https://www.golden1.com/)** | **[Checking Operations Representative](https://jobright.ai/jobs/info/69bbcf9978a5df4797fd70c6?utm_campaign=1058&utm_source=git)** | Sacramento, CA | On Site | Mar 19 |
 | **[Sinclair Inc.](http://sbgi.net/)** | **[Enterprise IT Intern](https://jobright.ai/jobs/info/69a00a07ce78e77b4fe62f8f?utm_campaign=1058&utm_source=git)** | Hunt Valley, MD | On Site | Mar 19 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Information Technology](https://jobright.ai/jobs/info/69bb0407569738374140db39?utm_campaign=1058&utm_source=git)** | Collierville, TN | On Site | Mar 18 |
 | **[Atlantic Coca-Cola Bottling Company](https://www.atlanticbottling.com)** | **[Information Technology (IT) Intern](https://jobright.ai/jobs/info/69bb03cb3b74eb1e2c89504d?utm_campaign=1058&utm_source=git)** | Des Moines, IA | On Site | Mar 18 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Student Nurse Intern](https://jobright.ai/jobs/info/69bb032406c1ba00c54d58b5?utm_campaign=1058&utm_source=git)** | Panama City, FL | On Site | Mar 18 |
-| **[Energy Northwest](https://www.energy-northwest.com)** | **[Operations Support Summer Intern](https://jobright.ai/jobs/info/69bb232a06c1ba00c54d9991?utm_campaign=1058&utm_source=git)** | Richland, WA | On Site | Mar 18 |
-| **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Rehab Co-op/Intern](https://jobright.ai/jobs/info/69baffd1569738374140d234?utm_campaign=1058&utm_source=git)** | Boston-MA | On Site | Mar 18 |
-| **[UofL Health](https://uoflhealth.org)** | **[Respiratory Therapy Intern, Jewish Hospital, PRN](https://jobright.ai/jobs/info/69baffc9569738374140d1ff?utm_campaign=1058&utm_source=git)** | Louisville, Kentucky | On Site | Mar 18 |
-| **[The Ohio State University Wexner Medical Center](http://wexnermedical.osu.edu/)** | **[Student Intern - Medical Information Management](https://jobright.ai/jobs/info/69bafc95569738374140d0b6?utm_campaign=1058&utm_source=git)** | Columbus, OH | On Site | Mar 18 |
-| **[Calix](http://www.calix.com)** | **[Customer Experience Operations and Analytics Intern](https://jobright.ai/jobs/info/69bafbb8569738374140cf2d?utm_campaign=1058&utm_source=git)** | United States | Remote | Mar 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
