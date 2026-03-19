@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Smith's Food & Drug Centers](https://www.smithsfoodanddrug.com/)** | **[PHARMACY/376 PHARMACIST INTERN](https://jobright.ai/jobs/info/69bb97c73b74eb1e2c8a1b8b?utm_campaign=1058&utm_source=git)** | Henderson, NV | On Site | Mar 18 |
 | **[Hussmann](http://www.hussmann.com)** | **[Service Technician Internship](https://jobright.ai/jobs/info/69bb71783b74eb1e2c89dce5?utm_campaign=1058&utm_source=git)** | Bangor, ME | On Site | Mar 18 |
 | **[GreenState Credit Union](https://www.uiccu.org)** | **[Information Technology Intern](https://jobright.ai/jobs/info/69bb6e705697383741416d40?utm_campaign=1058&utm_source=git)** | North Liberty, IA | On Site | Mar 18 |
 | **[Norton Rose Fulbright](http://www.nortonrosefulbright.com/in)** | **[Intern, Information Technology](https://jobright.ai/jobs/info/69bb6de306c1ba00c54de09c?utm_campaign=1058&utm_source=git)** | Greater Houston | On Site | Mar 18 |
@@ -133,7 +134,6 @@ For a complete list, click the following sortable link below:
 | **[Energy Northwest](https://www.energy-northwest.com)** | **[Operations Support Summer Intern](https://jobright.ai/jobs/info/69bb232a06c1ba00c54d9991?utm_campaign=1058&utm_source=git)** | Richland, WA | On Site | Mar 18 |
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Rehab Co-op/Intern](https://jobright.ai/jobs/info/69baffd1569738374140d234?utm_campaign=1058&utm_source=git)** | Boston-MA | On Site | Mar 18 |
 | **[UofL Health](https://uoflhealth.org)** | **[Respiratory Therapy Intern, Jewish Hospital, PRN](https://jobright.ai/jobs/info/69baffc9569738374140d1ff?utm_campaign=1058&utm_source=git)** | Louisville, Kentucky | On Site | Mar 18 |
-| **[Mount Sinai Health System](https://www.mountsinai.org)** | **[Student Nurse Intern-Peds Ambulatory- MSH Ambulatory](https://jobright.ai/jobs/info/69bafcf506c1ba00c54d4cda?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Mar 18 |
 | **[The Ohio State University Wexner Medical Center](http://wexnermedical.osu.edu/)** | **[Student Intern - Medical Information Management](https://jobright.ai/jobs/info/69bafc95569738374140d0b6?utm_campaign=1058&utm_source=git)** | Columbus, OH | On Site | Mar 18 |
 | **[Calix](http://www.calix.com)** | **[Customer Experience Operations and Analytics Intern](https://jobright.ai/jobs/info/69bafbb8569738374140cf2d?utm_campaign=1058&utm_source=git)** | United States | Remote | Mar 18 |
 | **[State of South Dakota](https://doh.sd.gov/)** | **[Intern - Developmental Disabilities Admin Support (Summer)](https://jobright.ai/jobs/info/69bafb803b74eb1e2c89364b?utm_campaign=1058&utm_source=git)** | Pierre, SD | On Site | Mar 18 |
@@ -141,9 +141,9 @@ For a complete list, click the following sortable link below:
 | **[Teamworks](http://www.teamworks.com)** | **[Customer Support Intern](https://jobright.ai/jobs/info/69baf419569738374140cb2f?utm_campaign=1058&utm_source=git)** | United States | Remote | Mar 18 |
 | **[CarolinaEast Health System](https://www.carolinaeasthealth.com/)** | **[Cath Lab/EP Technology Intern - Paramedic](https://jobright.ai/jobs/info/6975b675206da320f49fbffc?utm_campaign=1058&utm_source=git)** | New Bern-MC Area | On Site | Mar 18 |
 | **[Saint Luke's](https://www.saintlukeskc.org)** | **[Nursing Intern- Float](https://jobright.ai/jobs/info/69baef59569738374140c400?utm_campaign=1058&utm_source=git)** | Saint Luke's East Hospital   |   100 NE Saint Lukes Blvd   |   Lees Summit   |   MO | On Site | Mar 18 |
-| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Client Operations Internship](https://jobright.ai/jobs/info/69baef3d569738374140c33b?utm_campaign=1058&utm_source=git)** | Toronto, ON, CA | On Site | Mar 18 |
-| ↳ | **[Client Operations Internship](https://jobright.ai/jobs/info/69baef3906c1ba00c54d4160?utm_campaign=1058&utm_source=git)** | Beverly Hills, CA, USA | On Site | Mar 18 |
+| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Client Operations Internship](https://jobright.ai/jobs/info/69baef3d569738374140c33c?utm_campaign=1058&utm_source=git)** | Toronto, ON, CA | On Site | Mar 18 |
 | ↳ | **[Client Operations Internship](https://jobright.ai/jobs/info/69baef3906c1ba00c54d415f?utm_campaign=1058&utm_source=git)** | Nashville, TN, USA | On Site | Mar 18 |
+| ↳ | **[Client Operations Internship](https://jobright.ai/jobs/info/69baef3906c1ba00c54d4160?utm_campaign=1058&utm_source=git)** | Beverly Hills, CA, USA | On Site | Mar 18 |
 | ↳ | **[Client Operations Internship](https://jobright.ai/jobs/info/69baef373b74eb1e2c892bbf?utm_campaign=1058&utm_source=git)** | New York, NY, USA | On Site | Mar 18 |
 | ↳ | **[Client Operations Internship](https://jobright.ai/jobs/info/69baef363b74eb1e2c892bbb?utm_campaign=1058&utm_source=git)** | New York, NY, USA | On Site | Mar 18 |
 | **[ABC Fitness](http://www.abcfinancial.com)** | **[IT Desktop Support Intern](https://jobright.ai/jobs/info/699ef7bf81476f6176b87e28?utm_campaign=1058&utm_source=git)** | Sherwood, AR | On Site | Mar 18 |
