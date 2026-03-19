@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hussmann](http://www.hussmann.com)** | **[Service Technician Internship](https://jobright.ai/jobs/info/69bb71783b74eb1e2c89dce5?utm_campaign=1058&utm_source=git)** | Bangor, ME | On Site | Mar 18 |
 | **[GreenState Credit Union](https://www.uiccu.org)** | **[Information Technology Intern](https://jobright.ai/jobs/info/69bb6e705697383741416d40?utm_campaign=1058&utm_source=git)** | North Liberty, IA | On Site | Mar 18 |
 | **[Norton Rose Fulbright](http://www.nortonrosefulbright.com/in)** | **[Intern, Information Technology](https://jobright.ai/jobs/info/69bb6de306c1ba00c54de09c?utm_campaign=1058&utm_source=git)** | Greater Houston | On Site | Mar 18 |
 | **[Mediacom Communications](http://mediacomcable.com)** | **[Internet Technical Support Representative I](https://jobright.ai/jobs/info/69bb6be606c1ba00c54ddd0c?utm_campaign=1058&utm_source=git)** | Apache Junction, AZ | Hybrid | Mar 18 |
@@ -139,7 +140,7 @@ For a complete list, click the following sortable link below:
 | **[Teamworks](http://www.teamworks.com)** | **[Customer Support Intern](https://jobright.ai/jobs/info/69baf419569738374140cb2f?utm_campaign=1058&utm_source=git)** | United States | Remote | Mar 18 |
 | **[CarolinaEast Health System](https://www.carolinaeasthealth.com/)** | **[Cath Lab/EP Technology Intern - Paramedic](https://jobright.ai/jobs/info/6975b675206da320f49fbffc?utm_campaign=1058&utm_source=git)** | New Bern-MC Area | On Site | Mar 18 |
 | **[Saint Luke's](https://www.saintlukeskc.org)** | **[Nursing Intern- Float](https://jobright.ai/jobs/info/69baef59569738374140c400?utm_campaign=1058&utm_source=git)** | Saint Luke's East Hospital   |   100 NE Saint Lukes Blvd   |   Lees Summit   |   MO | On Site | Mar 18 |
-| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Client Operations Internship](https://jobright.ai/jobs/info/69baef3d569738374140c33c?utm_campaign=1058&utm_source=git)** | Toronto, ON, CA | On Site | Mar 18 |
+| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Client Operations Internship](https://jobright.ai/jobs/info/69baef3d569738374140c33b?utm_campaign=1058&utm_source=git)** | Toronto, ON, CA | On Site | Mar 18 |
 | ↳ | **[Client Operations Internship](https://jobright.ai/jobs/info/69baef3906c1ba00c54d4160?utm_campaign=1058&utm_source=git)** | Beverly Hills, CA, USA | On Site | Mar 18 |
 | ↳ | **[Client Operations Internship](https://jobright.ai/jobs/info/69baef3906c1ba00c54d415f?utm_campaign=1058&utm_source=git)** | Nashville, TN, USA | On Site | Mar 18 |
 | ↳ | **[Client Operations Internship](https://jobright.ai/jobs/info/69baef373b74eb1e2c892bbf?utm_campaign=1058&utm_source=git)** | New York, NY, USA | On Site | Mar 18 |
@@ -153,7 +154,6 @@ For a complete list, click the following sortable link below:
 | **[Mead & Hunt](https://meadhunt.com/)** | **[Information Technology Intern](https://jobright.ai/jobs/info/69bae4c33b74eb1e2c891c24?utm_campaign=1058&utm_source=git)** | Greater Madison Area | On Site | Mar 18 |
 | **[BJ's Wholesale Club](http://www.bjs.com/)** | **[Digital Ops Intern](https://jobright.ai/jobs/info/6982834b0f6f7e7a2cdbc3ee?utm_campaign=1058&utm_source=git)** | Marlborough, MA | Hybrid | Mar 18 |
 | **[UNIVERSAL INSURANCE MANAGERS, INC](https://www.linkedin.com/company/55241372)** | **[INTERN - CUSTOMER SERVICE](https://jobright.ai/jobs/info/69bae368569738374140b3fb?utm_campaign=1058&utm_source=git)** | Sarasota, FL, US | On Site | Mar 18 |
-| **[The Mount Sinai Hospital](http://www.mountsinai.org)** | **[Student Nurse Intern-Peds Ambulatory- MSH Ambulatory](https://jobright.ai/jobs/info/69bae338569738374140b3db?utm_campaign=1058&utm_source=git)** | 1468 Madison Ave, New York, NY, 10029, US | On Site | Mar 18 |
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Radiologic Technologist Intern](https://jobright.ai/jobs/info/69bae1cd3b74eb1e2c8916be?utm_campaign=1058&utm_source=git)** | Northampton-MA | On Site | Mar 18 |
 | **[UFP Site Built](https://www.ufpsitebuilt.com)** | **[IT Intern](https://jobright.ai/jobs/info/69bae1b7569738374140b251?utm_campaign=1058&utm_source=git)** | Grand Rapids, MI (IT Building) | On Site | Mar 18 |
 | **[EdgeUno](https://edgeuno.com/)** | **[IT & Office Support Intern](https://jobright.ai/jobs/info/69bae10206c1ba00c54d2a0e?utm_campaign=1058&utm_source=git)** | Miami, FL | On Site | Mar 18 |
