@@ -79,8 +79,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[REGISTERED NURSE - CRNA Internship](https://jobright.ai/jobs/info/69bebf9bb106024562842f1a?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Mar 21 |
 | ↳ | **[PHARM INTERN TECH (TEMP)](https://jobright.ai/jobs/info/69bebf2f4828227293017969?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Mar 21 |
 | ↳ | **[REGISTERED NURSE (Mott Childrens Hospital-10W, Pediatric Cardio-Thoracic Unit GN Internship)](https://jobright.ai/jobs/info/69bebf2a4828227293017953?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Mar 21 |
-| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69bebac848282272930178cf?utm_campaign=1058&utm_source=git)** | Bakersfield, CA | On Site | Mar 21 |
-| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69bebac848282272930178d4?utm_campaign=1058&utm_source=git)** | Valdosta, GA | On Site | Mar 21 |
+| **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/69bebac848282272930178d4?utm_campaign=1058&utm_source=git)** | Valdosta, GA | On Site | Mar 21 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69bebac848282272930178cf?utm_campaign=1058&utm_source=git)** | Bakersfield, CA | On Site | Mar 21 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69bebabd48282272930178aa?utm_campaign=1058&utm_source=git)** | Lawrence, MA | On Site | Mar 21 |
 | **[Magna International](http://www.magna.com/)** | **[IT Intern - Summer 2026](https://jobright.ai/jobs/info/696ab548350cf4380311bba2?utm_campaign=1058&utm_source=git)** | Troy, MI | On Site | Mar 21 |
 | **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69beba4cb106024562842db7?utm_campaign=1058&utm_source=git)** | Greensboro, NC | On Site | Mar 21 |
@@ -94,14 +94,14 @@ For a complete list, click the following sortable link below:
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Access Your Future Service Intern](https://jobright.ai/jobs/info/68c0740f8e65e77df55c137f?utm_campaign=1058&utm_source=git)** | Cheyenne, WY | On Site | Mar 21 |
 | **[Dometic](https://www.dometic.com)** | **[Customer Support and Operations Intern](https://jobright.ai/jobs/info/69a29e59359fe034b1cded14?utm_campaign=1058&utm_source=git)** | Katy, TX | Hybrid | Mar 21 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69bed429393a1008f744ab7c?utm_campaign=1058&utm_source=git)** | Palmdale, CA | On Site | Mar 21 |
-| ↳ | **[Duane Reade Pharmacy Intern](https://jobright.ai/jobs/info/69bea51948282272930163e1?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Mar 21 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69bea51948282272930163d7?utm_campaign=1058&utm_source=git)** | Santa Clarita, CA | On Site | Mar 21 |
+| ↳ | **[Duane Reade Pharmacy Intern](https://jobright.ai/jobs/info/69bea51948282272930163e1?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Mar 21 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69bea51248282272930163b0?utm_campaign=1058&utm_source=git)** | Palmdale, CA | On Site | Mar 21 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69bea51148282272930163a7?utm_campaign=1058&utm_source=git)** | Walkertown, NC | On Site | Mar 21 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69bea502b106024562841a10?utm_campaign=1058&utm_source=git)** | Rock Hill, SC | On Site | Mar 21 |
 | **[InterDigital, Inc.](https://www.interdigital.com)** | **[Intern, IS Systems / Salesforce](https://jobright.ai/jobs/info/69be9e1b393a1008f7448280?utm_campaign=1058&utm_source=git)** | Greater Philadelphia | On Site | Mar 21 |
-| **[Safeway](http://www.safeway.com)** | **[2026 Pharmacy Graduate Intern](https://jobright.ai/jobs/info/69be9b3bb1060245628413f7?utm_campaign=1058&utm_source=git)** | Elizabeth, CO | On Site | Mar 21 |
-| ↳ | **[2026 Pharmacy Graduate Intern](https://jobright.ai/jobs/info/69be9b3bb1060245628413f8?utm_campaign=1058&utm_source=git)** | Cortez, CO | On Site | Mar 21 |
+| **[Safeway](http://www.safeway.com)** | **[2026 Pharmacy Graduate Intern](https://jobright.ai/jobs/info/69be9b3bb1060245628413f8?utm_campaign=1058&utm_source=git)** | Cortez, CO | On Site | Mar 21 |
+| ↳ | **[2026 Pharmacy Graduate Intern](https://jobright.ai/jobs/info/69be9b3bb1060245628413f7?utm_campaign=1058&utm_source=git)** | Elizabeth, CO | On Site | Mar 21 |
 | ↳ | **[2026 Pharmacy Graduate Intern](https://jobright.ai/jobs/info/69be961f393a1008f74478e2?utm_campaign=1058&utm_source=git)** | Canon City, CO | On Site | Mar 21 |
 | **[Dometic](https://www.dometic.com)** | **[Customer Service & Call Center Analyst Intern](https://jobright.ai/jobs/info/69b8146b06c1ba00c549dd29?utm_campaign=1058&utm_source=git)** | Katy, TX | Hybrid | Mar 21 |
 | **[Baptist Health](http://careers.baptisthealth.net)** | **[Pharmacy Intern 2, Ambulatory Pharmacy Services, Per Diem, Varies](https://jobright.ai/jobs/info/68dd15bf44d32141e0bf3e3f?utm_campaign=1058&utm_source=git)** | Miami Lakes, FL | On Site | Mar 21 |
@@ -117,8 +117,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69be70554828227293014764?utm_campaign=1058&utm_source=git)** | Jasper, IN | On Site | Mar 21 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69be70554828227293014763?utm_campaign=1058&utm_source=git)** | Monticello, IN | On Site | Mar 21 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69be704f4828227293014759?utm_campaign=1058&utm_source=git)** | Washington, IN | On Site | Mar 21 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69be704e4828227293014758?utm_campaign=1058&utm_source=git)** | Columbus, IN | On Site | Mar 21 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69be704e4828227293014757?utm_campaign=1058&utm_source=git)** | Fort Wayne, IN | On Site | Mar 21 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69be704e4828227293014758?utm_campaign=1058&utm_source=git)** | Columbus, IN | On Site | Mar 21 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69be7043b10602456283fb38?utm_campaign=1058&utm_source=git)** | Richmond, IN | On Site | Mar 21 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/69be7040b10602456283fb33?utm_campaign=1058&utm_source=git)** | El Centro, CA | On Site | Mar 21 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69be703cb10602456283fb2c?utm_campaign=1058&utm_source=git)** | Frankfort, IN | On Site | Mar 21 |
