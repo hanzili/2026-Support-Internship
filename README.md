@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Medical City Healthcare](https://medicalcityhealthcare.com/)** | **[Pharmacist Intern PRN](https://jobright.ai/jobs/info/69c3922c7a7a0045db89606c?utm_campaign=1058&utm_source=git)** | Arlington, TX | On Site | Mar 25 |
+| **[HCA HealthONE](http://www.healthonecares.com/)** | **[Ultrasound Student Intern PRN](https://jobright.ai/jobs/info/69c391de753c101b215766d6?utm_campaign=1058&utm_source=git)** | Lone Tree, CO | On Site | Mar 25 |
 | **[York County, South Carolina](https://www.yorkcountygov.com)** | **[IT Helpdesk Internship](https://jobright.ai/jobs/info/69c386be753c101b21575fb3?utm_campaign=1058&utm_source=git)** | York, SC | On Site | Mar 24 |
 | **[Jet Support Services, Inc. (JSSI)](https://jetsupport.com/)** | **[IT Intern](https://jobright.ai/jobs/info/69c36b807a7a0045db8929a9?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Mar 24 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Student Intern Registered Nurse RN Medical Surgical](https://jobright.ai/jobs/info/69c36a87753c101b215730ee?utm_campaign=1058&utm_source=git)** | Elk Grove Village, IL | On Site | Mar 24 |
@@ -88,7 +90,7 @@ For a complete list, click the following sortable link below:
 | **[AdvanSix](https://www.advansix.com/)** | **[Desktop Support Intern](https://jobright.ai/jobs/info/69c33efe753c101b2156e7a7?utm_campaign=1058&utm_source=git)** | Philadelphia, Pennsylvania, United States | On Site | Mar 24 |
 | **[Guardian Dentistry Partners](https://guardiandentistry.com/)** | **[IT 2026 Internship](https://jobright.ai/jobs/info/69c33ef0753c101b2156e78f?utm_campaign=1058&utm_source=git)** | Miami, FL | On Site | Mar 24 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Nurse Intern Med Surg](https://jobright.ai/jobs/info/69c33d8a753c101b2156e69a?utm_campaign=1058&utm_source=git)** | US-MD-Baltimore | On Site | Mar 24 |
-| ↳ | **[Nurse Intern Med Surg](https://jobright.ai/jobs/info/69c33d8a753c101b2156e6a0?utm_campaign=1058&utm_source=git)** | Baltimore, MD, US | On Site | Mar 24 |
+| ↳ | **[Nurse Intern Med Surg](https://jobright.ai/jobs/info/69c33d8a753c101b2156e69f?utm_campaign=1058&utm_source=git)** | Baltimore, MD, US | On Site | Mar 24 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69c33d0394007a2195df92cc?utm_campaign=1058&utm_source=git)** | Kennett Square, PA | On Site | Mar 24 |
 | **[Verus Specialty Insurance (a Berkley Company)](https://www.verusins.com)** | **[Claims Intern](https://jobright.ai/jobs/info/69c33ce5753c101b2156e5d8?utm_campaign=1058&utm_source=git)** | Glen Allen, VA | On Site | Mar 24 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Rooms Omni Cares Internship](https://jobright.ai/jobs/info/69c33cdf753c101b2156e5c9?utm_campaign=1058&utm_source=git)** | Omni Las Colinas Hotel, 221 East Las Colinas Blvd, Irving, Texas, United States of America | On Site | Mar 24 |
@@ -151,10 +153,8 @@ For a complete list, click the following sortable link below:
 | **[Ascension](https://healthcare.ascension.org)** | **[Nurse Intern Cardiac ICU](https://jobright.ai/jobs/info/69c3148794007a2195df423d?utm_campaign=1058&utm_source=git)** | US-KS-Wichita | On Site | Mar 24 |
 | ↳ | **[Nurse Intern Cardiac ICU](https://jobright.ai/jobs/info/69c314e3ec22f8310ab12c63?utm_campaign=1058&utm_source=git)** | Wichita, KS, US | On Site | Mar 24 |
 | **[City of Fishers](https://www.fishers.in.us/)** | **[Intern - Data and Records Support for Summer 2026](https://jobright.ai/jobs/info/69c3150c753c101b215697e0?utm_campaign=1058&utm_source=git)** | Fishers, IN | On Site | Mar 24 |
-| **[General Dynamics](https://www.gd.com)** | **[Business Support Intern](https://jobright.ai/jobs/info/69c314e2ec22f8310ab12c5c?utm_campaign=1058&utm_source=git)** | Dedham, MA, US | On Site | Mar 24 |
-| ↳ | **[Business Support Intern](https://jobright.ai/jobs/info/69c3148694007a2195df4236?utm_campaign=1058&utm_source=git)** | US-MA-Dedham | On Site | Mar 24 |
+| **[General Dynamics](https://www.gd.com)** | **[Business Support Intern](https://jobright.ai/jobs/info/69c3148694007a2195df4236?utm_campaign=1058&utm_source=git)** | US-MA-Dedham | On Site | Mar 24 |
+| ↳ | **[Business Support Intern](https://jobright.ai/jobs/info/69c314e2ec22f8310ab12c5c?utm_campaign=1058&utm_source=git)** | Dedham, MA, US | On Site | Mar 24 |
 | **[AdvanSix](https://www.advansix.com/)** | **[Desktop Support Intern](https://jobright.ai/jobs/info/69c30ea3ec22f8310ab1210b?utm_campaign=1058&utm_source=git)** | Frankford, Philadelphia, PA, USA | On Site | Mar 24 |
 | **[Deaconess Health System](http://www.deaconess.com)** | **[Respiratory Intern](https://jobright.ai/jobs/info/69c2edce753c101b21565c68?utm_campaign=1058&utm_source=git)** | Evansville, IN 47710, USA | Hybrid | Mar 24 |
-| **[CET Academic Programs](http://cetacademicprograms.com)** | **[Intern, Student Services](https://jobright.ai/jobs/info/69c2e8ffec22f8310ab0e243?utm_campaign=1058&utm_source=git)** | Washington, DC | Hybrid | Mar 24 |
-| **[ServiceSource](https://www.servicesource.org)** | **[Information Technology Intern](https://jobright.ai/jobs/info/69bc2b9c45e08b3dc1f86d9f?utm_campaign=1058&utm_source=git)** | Oakton, VA | On Site | Mar 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
