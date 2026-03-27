@@ -79,8 +79,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69c615dbaa3c2c1995e086ee?utm_campaign=1058&utm_source=git)** | Youngsville, LA | On Site | Mar 26 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69c6158b83ea553769fd3a5d?utm_campaign=1058&utm_source=git)** | Natchez, MS | On Site | Mar 26 |
 | **[SouthState Bank](https://southstatebank.com)** | **[Correspondent International Services Intern](https://jobright.ai/jobs/info/69c5de3eaa9a29199e80b59e?utm_campaign=1058&utm_source=git)** | Atlanta, GA | On Site | Mar 26 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69c5de2a1b5ad0288737a6c8?utm_campaign=1058&utm_source=git)** | The Colony, TX | On Site | Mar 26 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69c5de2a1b5ad0288737a6c9?utm_campaign=1058&utm_source=git)** | Kaplan, LA | On Site | Mar 26 |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69c5de2a1b5ad0288737a6c9?utm_campaign=1058&utm_source=git)** | Kaplan, LA | On Site | Mar 26 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69c5de2a1b5ad0288737a6c8?utm_campaign=1058&utm_source=git)** | The Colony, TX | On Site | Mar 26 |
 | **[Elemental LED Inc.](http://www.elementalled.com)** | **[IT Intern](https://jobright.ai/jobs/info/69c5fb891818a24cd84bd046?utm_campaign=1058&utm_source=git)** | Reno, NV | On Site | Mar 26 |
 | **[Mount Sinai Morningside](http://www.mountsinai.org/morningside)** | **[Student Nurse Intern (TEMP)-Emergency Room - Mount Sinai Hospital - Part-Time Days](https://jobright.ai/jobs/info/69c5dcecaa3c2c1995e05713?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Mar 26 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69c5fa4be565c26a700172d1?utm_campaign=1058&utm_source=git)** | Fort Wayne, IN | On Site | Mar 26 |
@@ -122,8 +122,8 @@ For a complete list, click the following sortable link below:
 | **[J-U-B ENGINEERS, Inc.](http://jub.com)** | **[IT Helpdesk Technician Intern](https://jobright.ai/jobs/info/69c5a347e565c26a70013220?utm_campaign=1058&utm_source=git)** | Salt Lake City, UT | On Site | Mar 26 |
 | **[Leidos](https://www.leidos.com)** | **[IT Support Technician Level 1 Depot - Intern](https://jobright.ai/jobs/info/69be07bdb106024562836b48?utm_campaign=1058&utm_source=git)** | Elkridge, MD | On Site | Mar 26 |
 | ↳ | **[IT Support Technician Intern](https://jobright.ai/jobs/info/69be1c8f482822729300d552?utm_campaign=1058&utm_source=git)** | Gaithersburg, MD | On Site | Mar 26 |
-| ↳ | **[Software Asset Administrator Intern](https://jobright.ai/jobs/info/69b378faad360c0340a89f27?utm_campaign=1058&utm_source=git)** | United States | Remote | Mar 26 |
 | ↳ | **[Collaboration Services Intern](https://jobright.ai/jobs/info/69c2d04194007a2195decbc8?utm_campaign=1058&utm_source=git)** | United States | Remote | Mar 26 |
+| ↳ | **[Software Asset Administrator Intern](https://jobright.ai/jobs/info/69b378faad360c0340a89f27?utm_campaign=1058&utm_source=git)** | United States | Remote | Mar 26 |
 | **[Brigham and Women's Hospital](http://www.brighamandwomens.org/)** | **[Rehab Co-op/Intern](https://jobright.ai/jobs/info/69c59e151b5ad02887376cd6?utm_campaign=1058&utm_source=git)** | Boston, MA | On Site | Mar 26 |
 | **[Keck Medicine of USC](https://www.keckmedicine.org)** | **[Pharmacist Intern - Pharmacy - Per Diem 8 Hour Days (Non-Union)](https://jobright.ai/jobs/info/69c28d5eec22f8310ab06adb?utm_campaign=1058&utm_source=git)** | Glendale, CA | On Site | Mar 26 |
 | **[Leidos](https://www.leidos.com)** | **[Email Operations Intern](https://jobright.ai/jobs/info/69c59dbaaa3c2c1995e020de?utm_campaign=1058&utm_source=git)** | 6314 Remote/Teleworker US | Remote | Mar 26 |
