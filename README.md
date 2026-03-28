@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[Intern, Business Support (Contracts)](https://jobright.ai/jobs/info/69ab95e82747003c3d511cd1?utm_campaign=1058&utm_source=git)** | Niceville, FL | On Site | Mar 28 |
+| **[Imply](https://imply.io)** | **[Technical Writer Intern (Remote)](https://jobright.ai/jobs/info/698e702d78b4502f12a53eb1?utm_campaign=1058&utm_source=git)** | Burlingame, CA | Remote | Mar 28 |
+| **[Vertiv](https://www.Vertiv.com)** | **[Services Internship, Competitive Analysis & Benchmarking (Summer 2026)](https://jobright.ai/jobs/info/6922b08ec0cefa13343d8d79?utm_campaign=1058&utm_source=git)** | Westerville, OH | On Site | Mar 28 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[Branch Product Support Representative-Boots to Banking](https://jobright.ai/jobs/info/69c7b25283ea553769fe5b5e?utm_campaign=1058&utm_source=git)** | Phoenix, AZ | On Site | Mar 28 |
 | **[St. Elizabeth Healthcare](http://www.stelizabeth.com/)** | **[Intern Pharmacy Inpatient](https://jobright.ai/jobs/info/69c7af3ae565c26a7002ad2a?utm_campaign=1058&utm_source=git)** | Florence, KY | On Site | Mar 28 |
 | **[Wave Life Sciences](http://wavelifesciences.com)** | **[IT Lab Systems Support Intern (Summer 2026)](https://jobright.ai/jobs/info/69726163584a1c1ef6fd6547?utm_campaign=1058&utm_source=git)** | Greater Boston | On Site | Mar 28 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kravet](http://www.kravet.com)** | **[Showroom Internship, Atlanta](https://jobright.ai/jobs/info/69c6d7e91b5ad028873879b4?utm_campaign=1058&utm_source=git)** | Atlanta, 351 Peachtree Hills, US | On Site | Mar 27 |
 | **[Rivers Casino Philadelphia](http://www.riverscasino.com/philadelphia)** | **[Intern Hotel](https://jobright.ai/jobs/info/69c6d7cc1818a24cd84c91d6?utm_campaign=1058&utm_source=git)** | Schenectady, NY 12305, USA | On Site | Mar 27 |
 | **[University of Pikeville](http://www.upike.edu/)** | **[WS - Summer INTERNSHIP - Pike County Schools Technology Maintenance Technician](https://jobright.ai/jobs/info/69c6d7c91b5ad0288738796b?utm_campaign=1058&utm_source=git)** | Pikeville, Kentucky, United States | On Site | Mar 27 |
-| **[Central Texas Electric Cooperative, Inc.](https://www.ctec.coop)** | **[Information Technology Intern](https://jobright.ai/jobs/info/69c6d7c81b5ad0288738795d?utm_campaign=1058&utm_source=git)** | Fredericksburg, Texas, United States | On Site | Mar 27 |
-| **[Lincoln Investment](http://www.lincolninvestment.com/)** | **[IT & Technology Summer Intern](https://jobright.ai/jobs/info/69c6d7a51818a24cd84c9165?utm_campaign=1058&utm_source=git)** | Lincoln Investment, 601 Office Center Drive, Fort Washington, Pennsylvania, United States of America | On Site | Mar 27 |
-| **[Amica Insurance](http://www.amica.com)** | **[Summer Student Customer Care Representative](https://jobright.ai/jobs/info/69c7117faa3c2c1995e14f97?utm_campaign=1058&utm_source=git)** | Colorado, United States | On Site | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
