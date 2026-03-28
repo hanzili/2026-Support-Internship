@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University Medical Center of Southern Nevada (UMC)](https://www.umcsn.com/)** | **[Per Diem Pharmacy Intern](https://jobright.ai/jobs/info/69c730041818a24cd84cc6f5?utm_campaign=1058&utm_source=git)** | Las Vegas, NV | On Site | Mar 27 |
 | **[Southside Bank](http://southside.com)** | **[Teller I Intern (College)](https://jobright.ai/jobs/info/69c72b6be565c26a70026b3c?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | Mar 27 |
 | ↳ | **[Teller I Intern (College)](https://jobright.ai/jobs/info/69c72ad2b773006330b76a92?utm_campaign=1058&utm_source=git)** | Tyler, TX | On Site | Mar 27 |
 | ↳ | **[Teller I Intern (College)](https://jobright.ai/jobs/info/69c72aad1b5ad0288738ace3?utm_campaign=1058&utm_source=git)** | Lufkin, TX | On Site | Mar 27 |
@@ -76,12 +77,14 @@ For a complete list, click the following sortable link below:
 | **[American Society of Clinical Oncology (ASCO)](http://asco.org)** | **[IT Infrastructure Intern](https://jobright.ai/jobs/info/69b194b265de58104c709f84?utm_campaign=1058&utm_source=git)** | Alexandria, VA | On Site | Mar 27 |
 | **[OhioHealth](https://www.ohiohealth.com/)** | **[Pharmacy Intern - Mansfield](https://jobright.ai/jobs/info/69bcaf0b45e08b3dc1f971ef?utm_campaign=1058&utm_source=git)** | Mansfield, OH | On Site | Mar 27 |
 | **[Wintrust Financial Corporation](http://www.wintrust.com/)** | **[Wintrust 2026 Summer Internship - Customer Contact Center](https://jobright.ai/jobs/info/69c711dd1818a24cd84cb4ca?utm_campaign=1058&utm_source=git)** | Rosemont, IL | On Site | Mar 27 |
+| **[Hy-Vee, Inc.](https://www.hy-vee.com)** | **[Retail Pharmacy Intern](https://jobright.ai/jobs/info/69c7302383ea553769fe172b?utm_campaign=1058&utm_source=git)** | Sioux Falls, SD | On Site | Mar 27 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Information Technology Intern](https://jobright.ai/jobs/info/69c71194aa3c2c1995e14fa8?utm_campaign=1058&utm_source=git)** | Warrenville, IL | On Site | Mar 27 |
 | **[Aurora Health Care](http://aurorahealthcare.org)** | **[Summer Rehab Intern](https://jobright.ai/jobs/info/69c7103383ea553769fe04c8?utm_campaign=1058&utm_source=git)** | Manitowoc, WI | On Site | Mar 27 |
 | **[Crisis Center of Tampa Bay](https://www.crisiscenter.co)** | **[Intern, Sexual Assault Services](https://jobright.ai/jobs/info/69c70f661b5ad02887389c5b?utm_campaign=1058&utm_source=git)** | Crisis Center of Tampa Bay - Tampa, FL 33613 | On Site | Mar 27 |
 | **[Brunswick Corporation](http://www.brunswick.com)** | **[Lowrance Technical Support Intern](https://jobright.ai/jobs/info/69c70eaeaa3c2c1995e14b3f?utm_campaign=1058&utm_source=git)** | Tulsa, OK | Hybrid | Mar 27 |
 | **[Element Electronics](https://elementelectronics.com/)** | **[Information Technology (IT) Intern](https://jobright.ai/jobs/info/69c70e5e83ea553769fe0125?utm_campaign=1058&utm_source=git)** | Edina, MN | On Site | Mar 27 |
 | **[Primerica](https://www.primerica.com)** | **[PC Services Intern](https://jobright.ai/jobs/info/69c70e3f1818a24cd84cb023?utm_campaign=1058&utm_source=git)** | Duluth, GA | On Site | Mar 27 |
+| **[World Insurance Associates LLC](https://www.worldinsurance.com)** | **[Risk Management Client Service Intern, Commercial Lines - Winter Park, FL](https://jobright.ai/jobs/info/69c72c2eb773006330b76ade?utm_campaign=1058&utm_source=git)** | Winter Park, FL | On Site | Mar 27 |
 | **[Hy-Vee, Inc.](https://www.hy-vee.com)** | **[Retail Pharmacy Intern](https://jobright.ai/jobs/info/69c707c9aa3c2c1995e14863?utm_campaign=1058&utm_source=git)** | Des Moines, IA | On Site | Mar 27 |
 | **[Specialty1 Partners](https://specialty1partners.com)** | **[Clinical Office Intern](https://jobright.ai/jobs/info/69c706951818a24cd84cad78?utm_campaign=1058&utm_source=git)** | Mebane, North Carolina, United States | On Site | Mar 27 |
 | **[Primerica](https://www.primerica.com)** | **[PC Services Intern](https://jobright.ai/jobs/info/69c70656b773006330b752fd?utm_campaign=1058&utm_source=git)** | Duluth, GA | On Site | Mar 27 |
@@ -121,6 +124,7 @@ For a complete list, click the following sortable link below:
 | **[Hendrick Motorsports](http://www.hendrickmotorsports.com)** | **[Service Intern](https://jobright.ai/jobs/info/69c6e4ab1818a24cd84c9603?utm_campaign=1058&utm_source=git)** | Honda of Concord | On Site | Mar 27 |
 | **[Elemental LED Inc.](http://www.elementalled.com)** | **[IT Intern](https://jobright.ai/jobs/info/69c702bfb773006330b751c5?utm_campaign=1058&utm_source=git)** | Reno, NV | On Site | Mar 27 |
 | **[Prosperity Life](https://prosperitylife.com)** | **[Enterprise Applications Intern](https://jobright.ai/jobs/info/69c6de211b5ad02887387abb?utm_campaign=1058&utm_source=git)** | Austin, TX | Hybrid | Mar 27 |
+| **[Saint Luke's](https://www.saintlukeskc.org)** | **[Nursing Intern](https://jobright.ai/jobs/info/69c732dd1818a24cd84cc8b2?utm_campaign=1058&utm_source=git)** | Kansas City, MO | On Site | Mar 27 |
 | **[UPMC](https://www.upmc.com/)** | **[Pharmacy Intern, Chartwell](https://jobright.ai/jobs/info/693a905c383bf9631983aaa4?utm_campaign=1058&utm_source=git)** | Oakdale, PA | On Site | Mar 27 |
 | **[KerberRose](http://kerberrose.com)** | **[IT Intern – In-Person/Hybrid](https://jobright.ai/jobs/info/69c6d8d483ea553769fde1fb?utm_campaign=1058&utm_source=git)** | Appleton-Oshkosh Area | Hybrid | Mar 27 |
 | **[Kravet](http://www.kravet.com)** | **[Showroom Internship, Atlanta](https://jobright.ai/jobs/info/69c6d7e91b5ad028873879b4?utm_campaign=1058&utm_source=git)** | Atlanta, 351 Peachtree Hills, US | On Site | Mar 27 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Community Memorial Healthcare](https://www.mycmh.org)** | **[Intern Pharmacist](https://jobright.ai/jobs/info/69c6b8dbaa3c2c1995e11682?utm_campaign=1058&utm_source=git)** | Ventura, CA | On Site | Mar 27 |
 | **[IOM - UN Migration](http://www.iom.int)** | **[ICT Internship (extended)](https://jobright.ai/jobs/info/69c6b86483ea553769fdcc19?utm_campaign=1058&utm_source=git)** | Security, CO | On Site | Mar 27 |
 | **[City of New York](http://www1.nyc.gov)** | **[Desktop Support Intern](https://jobright.ai/jobs/info/69c6b55d1818a24cd84c7c3a?utm_campaign=1058&utm_source=git)** | Queens, NY | On Site | Mar 27 |
-| **[Giesecke+Devrient](https://www.gi-de.com/en/)** | **[IT Support Intern](https://jobright.ai/jobs/info/69c6b51d1b5ad028873862dd?utm_campaign=1058&utm_source=git)** | Dulles, VA | On Site | Mar 27 |
-| **[RÖDL USA](http://www.roedl.us)** | **[Praktikant (w/m/d)](https://jobright.ai/jobs/info/67a4c8c710485bdc6e5a0841?utm_campaign=1058&utm_source=git)** | Atlanta, GA | On Site | Mar 27 |
-| **[Zuora](https://www.zuora.com)** | **[Intern, Customer](https://jobright.ai/jobs/info/69c6b1f5aa3c2c1995e1152b?utm_campaign=1058&utm_source=git)** | Foster City, California, United States | Remote | Mar 27 |
-| **[Auctane](https://auctane.com/)** | **[Salesforce Administrator Intern](https://jobright.ai/jobs/info/69c6b1d2aa3c2c1995e114f8?utm_campaign=1058&utm_source=git)** | Austin, TX | Hybrid | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
