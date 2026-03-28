@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wells Fargo](http://www.wellsfargo.com)** | **[Branch Product Support Representative-Boots to Banking](https://jobright.ai/jobs/info/69c7b25283ea553769fe5b5e?utm_campaign=1058&utm_source=git)** | Phoenix, AZ | On Site | Mar 28 |
+| **[St. Elizabeth Healthcare](http://www.stelizabeth.com/)** | **[Intern Pharmacy Inpatient](https://jobright.ai/jobs/info/69c7af3ae565c26a7002ad2a?utm_campaign=1058&utm_source=git)** | Florence, KY | On Site | Mar 28 |
+| **[Wave Life Sciences](http://wavelifesciences.com)** | **[IT Lab Systems Support Intern (Summer 2026)](https://jobright.ai/jobs/info/69726163584a1c1ef6fd6547?utm_campaign=1058&utm_source=git)** | Greater Boston | On Site | Mar 28 |
+| **[Arvum Senior Living](https://www.arvumseniorliving.com/)** | **[PT Medication Technician (6-2)](https://jobright.ai/jobs/info/69c7adcc1818a24cd84d083b?utm_campaign=1058&utm_source=git)** | Carroll, IA | On Site | Mar 28 |
+| ↳ | **[PRN Care Manager / Med Tech (6a-2p)](https://jobright.ai/jobs/info/69c7ada683ea553769fe593a?utm_campaign=1058&utm_source=git)** | Carroll, IA | On Site | Mar 28 |
+| **[e3 Diagnostics](https://www.e3diagnostics.com)** | **[Distribution Center Associate](https://jobright.ai/jobs/info/69c7ad971818a24cd84d081c?utm_campaign=1058&utm_source=git)** | Arlington Heights, IL | On Site | Mar 28 |
+| **[Precisely](https://www.precisely.com)** | **[Sales Execution Support Intern](https://jobright.ai/jobs/info/69ab6b942747003c3d51098c?utm_campaign=1058&utm_source=git)** | United States | Remote | Mar 28 |
 | **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE - CRNA Internship](https://jobright.ai/jobs/info/69c798461818a24cd84cfba0?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Mar 28 |
 | ↳ | **[REGISTERED NURSE - CRNA Internship](https://jobright.ai/jobs/info/69c797f6aa3c2c1995e19758?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Mar 28 |
 | **[Authentic Brands Group](https://authentic.com)** | **[IT Support Summer Intern](https://jobright.ai/jobs/info/69bd79174828227293ffb219?utm_campaign=1058&utm_source=git)** | New York, New York | On Site | Mar 28 |
@@ -102,7 +109,6 @@ For a complete list, click the following sortable link below:
 | **[Brunswick Corporation](http://www.brunswick.com)** | **[Lowrance Technical Support Intern](https://jobright.ai/jobs/info/69c70eaeaa3c2c1995e14b3f?utm_campaign=1058&utm_source=git)** | Tulsa, OK | Hybrid | Mar 27 |
 | **[Element Electronics](https://elementelectronics.com/)** | **[Information Technology (IT) Intern](https://jobright.ai/jobs/info/69c70e5e83ea553769fe0125?utm_campaign=1058&utm_source=git)** | Edina, MN | On Site | Mar 27 |
 | **[Primerica](https://www.primerica.com)** | **[PC Services Intern](https://jobright.ai/jobs/info/69c70e3f1818a24cd84cb023?utm_campaign=1058&utm_source=git)** | Duluth, GA | On Site | Mar 27 |
-| **[World Insurance Associates LLC](https://www.worldinsurance.com)** | **[Risk Management Client Service Intern, Commercial Lines - Winter Park, FL](https://jobright.ai/jobs/info/69c72c2eb773006330b76ade?utm_campaign=1058&utm_source=git)** | Winter Park, FL | On Site | Mar 27 |
 | **[Hy-Vee, Inc.](https://www.hy-vee.com)** | **[Retail Pharmacy Intern](https://jobright.ai/jobs/info/69c707c9aa3c2c1995e14863?utm_campaign=1058&utm_source=git)** | Des Moines, IA | On Site | Mar 27 |
 | **[Specialty1 Partners](https://specialty1partners.com)** | **[Clinical Office Intern](https://jobright.ai/jobs/info/69c706951818a24cd84cad78?utm_campaign=1058&utm_source=git)** | Mebane, North Carolina, United States | On Site | Mar 27 |
 | **[Primerica](https://www.primerica.com)** | **[PC Services Intern](https://jobright.ai/jobs/info/69c70656b773006330b752fd?utm_campaign=1058&utm_source=git)** | Duluth, GA | On Site | Mar 27 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Central Texas Electric Cooperative, Inc.](https://www.ctec.coop)** | **[Information Technology Intern](https://jobright.ai/jobs/info/69c6d7c81b5ad0288738795d?utm_campaign=1058&utm_source=git)** | Fredericksburg, Texas, United States | On Site | Mar 27 |
 | **[Lincoln Investment](http://www.lincolninvestment.com/)** | **[IT & Technology Summer Intern](https://jobright.ai/jobs/info/69c6d7a51818a24cd84c9165?utm_campaign=1058&utm_source=git)** | Lincoln Investment, 601 Office Center Drive, Fort Washington, Pennsylvania, United States of America | On Site | Mar 27 |
 | **[Amica Insurance](http://www.amica.com)** | **[Summer Student Customer Care Representative](https://jobright.ai/jobs/info/69c7117faa3c2c1995e14f97?utm_campaign=1058&utm_source=git)** | Colorado, United States | On Site | Mar 27 |
-| **[The Applied Research Laboratory at Penn State University](https://www.arl.psu.edu)** | **[IT Endpoint Intern](https://jobright.ai/jobs/info/699ef12394ef206f184e048e?utm_campaign=1058&utm_source=git)** | University Park, PA | On Site | Mar 27 |
-| **[Allen Lund Company](http://www.allenlund.com/)** | **[Intern](https://jobright.ai/jobs/info/69c7061caa3c2c1995e14780?utm_campaign=1058&utm_source=git)** | Charlotte, NC | On Site | Mar 27 |
-| **[Xometry](https://www.xometry.com)** | **[Case Management Intern](https://jobright.ai/jobs/info/6948ed3863141d1884589708?utm_campaign=1058&utm_source=git)** | Gaithersburg, MD | Hybrid | Mar 27 |
-| **[HCA Healthcare Trident Hospital](http://tridenthealthsystem.com)** | **[Pharmacist Intern PRN](https://jobright.ai/jobs/info/69aa0ef92ebd316bece1cb14?utm_campaign=1058&utm_source=git)** | Summerville, SC | On Site | Mar 27 |
-| **[SpyCloud](https://spycloud.com)** | **[IT Support Internship/Co-Op (Summer/Fall 2026)](https://jobright.ai/jobs/info/69c6d046aa3c2c1995e124c0?utm_campaign=1058&utm_source=git)** | Austin, Texas | Hybrid | Mar 27 |
-| **[Lima One Capital](https://www.limaone.com/)** | **[IT Operations Intern](https://jobright.ai/jobs/info/69c6cf5383ea553769fddaac?utm_campaign=1058&utm_source=git)** | Greenville, SC | On Site | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
