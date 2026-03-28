@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69c7f33583ea553769fe7bc9?utm_campaign=1058&utm_source=git)** | El Paso, TX | On Site | Mar 28 |
+| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69c7f33583ea553769fe7bd0?utm_campaign=1058&utm_source=git)** | Kissimmee, FL | On Site | Mar 28 |
+| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69c7f3191b5ad028873913e0?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Mar 28 |
+| **[University Health KC](https://www.universityhealthkc.org)** | **[Radiology Technologist Intern - Imaging - UH Truman Medical Center (varied shifts per week)](https://jobright.ai/jobs/info/69c7f305aa3c2c1995e1c5dc?utm_campaign=1058&utm_source=git)** | Kansas City, MO | On Site | Mar 28 |
+| **[Ascension](https://healthcare.ascension.org)** | **[Echocardiography Tech Intern](https://jobright.ai/jobs/info/698e4fba78b4502f12a516b5?utm_campaign=1058&utm_source=git)** | Murfreesboro, TN | On Site | Mar 28 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[Branch Product Support Representative](https://jobright.ai/jobs/info/69c7f018e565c26a7002cbfd?utm_campaign=1058&utm_source=git)** | San Antonio, TX | On Site | Mar 28 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE (Mott Childrens Hospital-10W, Pediatric Cardio-Thoracic Unit GN Internship)](https://jobright.ai/jobs/info/69c7e4c2b773006330b7cc2b?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Mar 28 |
 | ↳ | **[REGISTERED NURSE - CRNA Internship](https://jobright.ai/jobs/info/69c7e4b41818a24cd84d23c1?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Mar 28 |
@@ -133,6 +138,7 @@ For a complete list, click the following sortable link below:
 | **[Arvum Senior Living](https://www.arvumseniorliving.com/)** | **[Lead Med Tech/Caregiver](https://jobright.ai/jobs/info/69c6f8671b5ad02887388d6a?utm_campaign=1058&utm_source=git)** | Mount Pleasant, IA | On Site | Mar 27 |
 | **[Wounded Warrior Project](https://www.woundedwarriorproject.org)** | **[Intern - IT Service Desk](https://jobright.ai/jobs/info/69c6f6b91818a24cd84ca45d?utm_campaign=1058&utm_source=git)** | Jacksonville, FL | Hybrid | Mar 27 |
 | **[Harder Mechanical Contractors, Inc.](http://harder.com)** | **[Computer Science Intern-Summer 2026](https://jobright.ai/jobs/info/69c6f6b1e565c26a70024886?utm_campaign=1058&utm_source=git)** | Portland, OR | On Site | Mar 27 |
+| ↳ | **[Computer Science Intern-Summer 2026](https://jobright.ai/jobs/info/69c7f7c583ea553769fe7db1?utm_campaign=1058&utm_source=git)** | Portland, OR, US | On Site | Mar 27 |
 | **[DEX Imaging](https://www.deximaging.com)** | **[Customer Operations Intern](https://jobright.ai/jobs/info/69c6f3c81818a24cd84ca35e?utm_campaign=1058&utm_source=git)** | Tampa, Florida | On Site | Mar 27 |
 | ↳ | **[Customer Operations Intern](https://jobright.ai/jobs/info/69c6f3c0aa3c2c1995e13d3e?utm_campaign=1058&utm_source=git)** | St. Petersburg, Florida | On Site | Mar 27 |
 | **[Bank Iowa](http://bankiowa.bank)** | **[IT Internship - Summer 2026](https://jobright.ai/jobs/info/69c6f3861b5ad02887388b7c?utm_campaign=1058&utm_source=git)** | West Des Moines,IA,US | On Site | Mar 27 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Concept Plus, LLC](http://www.conceptplus.com)** | **[Summer IT Intern](https://jobright.ai/jobs/info/69c6e90b1b5ad02887388310?utm_campaign=1058&utm_source=git)** | Fairfax, VA | On Site | Mar 27 |
 | **[Lincoln Investment](http://www.lincolninvestment.com/)** | **[IT & Technology Summer Intern](https://jobright.ai/jobs/info/69c6e68283ea553769fde9b9?utm_campaign=1058&utm_source=git)** | Fort Washington, PA | Hybrid | Mar 27 |
 | **[KerberRose](http://kerberrose.com)** | **[IT Intern – In-Person/Hybrid](https://jobright.ai/jobs/info/69c6e55f1b5ad0288738811e?utm_campaign=1058&utm_source=git)** | Appleton, WI or Oshkosh,WI,US | Hybrid | Mar 27 |
-| **[Abbott Construction](https://www.abbottconstruction.com/)** | **[IT Internship](https://jobright.ai/jobs/info/69c6e4e983ea553769fde66e?utm_campaign=1058&utm_source=git)** | Tallahassee, FL, United States | On Site | Mar 27 |
-| **[Structure Tone](http://structuretone.com/)** | **[IT Internship](https://jobright.ai/jobs/info/69c6e4df1818a24cd84c96ee?utm_campaign=1058&utm_source=git)** | 1080 Commerce Boulevard, Midway, FL, 32343, US | On Site | Mar 27 |
-| **[BCCI Construction](http://www.bcciconst.com)** | **[IT Internship](https://jobright.ai/jobs/info/69c6e4d1aa3c2c1995e13025?utm_campaign=1058&utm_source=git)** | Tallahassee, FL, United States | On Site | Mar 27 |
-| **[Hendrick Motorsports](http://www.hendrickmotorsports.com)** | **[Service Intern](https://jobright.ai/jobs/info/69c6e4ab1818a24cd84c9603?utm_campaign=1058&utm_source=git)** | Honda of Concord | On Site | Mar 27 |
-| **[Elemental LED Inc.](http://www.elementalled.com)** | **[IT Intern](https://jobright.ai/jobs/info/69c702bfb773006330b751c5?utm_campaign=1058&utm_source=git)** | Reno, NV | On Site | Mar 27 |
-| **[Prosperity Life](https://prosperitylife.com)** | **[Enterprise Applications Intern](https://jobright.ai/jobs/info/69c6de211b5ad02887387abb?utm_campaign=1058&utm_source=git)** | Austin, TX | Hybrid | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
