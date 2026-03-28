@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Canon Financial Services, Inc.](https://www.cfs.canon.com)** | **[2026 Canon Insights Summer Internship - Customer Service Support Intern](https://jobright.ai/jobs/info/69ab404a142d5b4265fc89d5?utm_campaign=1058&utm_source=git)** | Mount Laurel, NJ | Hybrid | Mar 28 |
+| **[Utah Valley University](http://www.uvu.edu/)** | **[Student Proctor and Testing Admin](https://jobright.ai/jobs/info/69c8121a1818a24cd84d3375?utm_campaign=1058&utm_source=git)** | Orem, UT | On Site | Mar 28 |
+| **[The Chefs'​ Warehouse](https://www.chefswarehouse.com)** | **[Warehouse Intern](https://jobright.ai/jobs/info/698e6b2b78b4502f12a53562?utm_campaign=1058&utm_source=git)** | Hanover, MD | Hybrid | Mar 28 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Echocardiography Intern](https://jobright.ai/jobs/info/697d61a03f57a335696743ae?utm_campaign=1058&utm_source=git)** | Murfreesboro, TN | On Site | Mar 28 |
 | ↳ | **[Clinical Intern Surgical Technologist](https://jobright.ai/jobs/info/698e9c2a0f6f7e7a2ceaba09?utm_campaign=1058&utm_source=git)** | Oshkosh, WI | On Site | Mar 28 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE - CRNA Internship](https://jobright.ai/jobs/info/69c7fb25b773006330b7d4ab?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Mar 28 |
@@ -147,7 +150,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Customer Operations Intern](https://jobright.ai/jobs/info/69c6f3c0aa3c2c1995e13d3e?utm_campaign=1058&utm_source=git)** | St. Petersburg, Florida | On Site | Mar 27 |
 | **[Bank Iowa](http://bankiowa.bank)** | **[IT Internship - Summer 2026](https://jobright.ai/jobs/info/69c6f3861b5ad02887388b7c?utm_campaign=1058&utm_source=git)** | West Des Moines,IA,US | On Site | Mar 27 |
 | **[Cleveland Clinic](http://my.clevelandclinic.org)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69c6f2bbe565c26a7002421d?utm_campaign=1058&utm_source=git)** | Marymount Hospital | On Site | Mar 27 |
-| **[Unissant](http://unissant.com)** | **[IT Support Intern](https://jobright.ai/jobs/info/69c6f2851b5ad02887388612?utm_campaign=1058&utm_source=git)** | Herndon,VA,US | On Site | Mar 27 |
 | **[Wintrust Financial Corporation](http://www.wintrust.com/)** | **[Wintrust 2026 Summer Internship - Customer Contact Center](https://jobright.ai/jobs/info/69c70e41e565c26a70025562?utm_campaign=1058&utm_source=git)** | Rosemont, IL | On Site | Mar 27 |
 | **[Hootsuite](https://hootsuite.com/)** | **[Co-op/Intern, IT Operations - Summer 2026](https://jobright.ai/jobs/info/69c6f025aa3c2c1995e136f5?utm_campaign=1058&utm_source=git)** | Vancouver, BC | On Site | Mar 27 |
 | **[City of Greater Sudbury](https://www.greatersudbury.ca/)** | **[Citizen Service Representative (Including Library Services) - Bilingual - English/French](https://jobright.ai/jobs/info/69c6efcf1818a24cd84c9d61?utm_campaign=1058&utm_source=git)** | Greater Sudbury, ON | On Site | Mar 27 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Smith+Nephew](http://www.smith-nephew.com)** | **[Intern Product Support (Austin,TX)](https://jobright.ai/jobs/info/69c6ee2283ea553769fdec42?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | Mar 27 |
 | **[Leidos](https://www.leidos.com)** | **[IT Asset Management (ITAM) Intern](https://jobright.ai/jobs/info/69b5365d06c1ba00c546fb7d?utm_campaign=1058&utm_source=git)** | Fort Belvoir, VA | On Site | Mar 27 |
 | **[Specialty1 Partners](https://specialty1partners.com)** | **[Clinical Office Intern](https://jobright.ai/jobs/info/69c6eccf1b5ad028873884b9?utm_campaign=1058&utm_source=git)** | Mebane, NC | On Site | Mar 27 |
-| **[BayCare Health System](https://baycare.org/bmg)** | **[CT Technologist Intern](https://jobright.ai/jobs/info/69c70afbb773006330b75520?utm_campaign=1058&utm_source=git)** | Plant City, FL | On Site | Mar 27 |
-| **[STO Building Group](https://stobuildinggroup.com)** | **[IT Internship](https://jobright.ai/jobs/info/69c6ec8183ea553769fdebdb?utm_campaign=1058&utm_source=git)** | Tallahassee, FL | On Site | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
