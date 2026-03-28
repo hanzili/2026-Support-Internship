@@ -57,11 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mercury Insurance](http://www.mercuryinsurance.com)** | **[Technical Support Technician III](https://jobright.ai/jobs/info/69c759ebaa3c2c1995e175a1?utm_campaign=1058&utm_source=git)** | United States | Remote | Mar 27 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/69c74c56aa3c2c1995e16f27?utm_campaign=1058&utm_source=git)** | Spokane, WA | On Site | Mar 27 |
 | **[Central Texas Electric Cooperative, Inc.](https://www.ctec.coop)** | **[Information Technology Intern](https://jobright.ai/jobs/info/69c74a1683ea553769fe227a?utm_campaign=1058&utm_source=git)** | Fredericksburg, TX | On Site | Mar 27 |
 | ↳ | **[Member Services/Communications Intern](https://jobright.ai/jobs/info/69c749b4b773006330b777ad?utm_campaign=1058&utm_source=git)** | Fredericksburg, TX | On Site | Mar 27 |
 | **[Xometry](https://www.xometry.com)** | **[Case Management Intern](https://jobright.ai/jobs/info/6943e68d94730b7398771073?utm_campaign=1058&utm_source=git)** | Lexington, KY | Hybrid | Mar 27 |
 | **[Ken Garff Automotive Group](https://www.kengarff.com/)** | **[Internal Claims Administrator Intern](https://jobright.ai/jobs/info/69c7414faa3c2c1995e16a1b?utm_campaign=1058&utm_source=git)** | SLC Metro Area | On Site | Mar 27 |
+| **[AdventHealth](https://www.adventhealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69c75b621b5ad0288738c12b?utm_campaign=1058&utm_source=git)** | Tampa, FL | On Site | Mar 27 |
 | **[Southside Bank](http://southside.com)** | **[Teller I Intern (College)](https://jobright.ai/jobs/info/69c72b6be565c26a70026b3c?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | Mar 27 |
 | ↳ | **[Teller I Intern (College)](https://jobright.ai/jobs/info/69c72ad2b773006330b76a92?utm_campaign=1058&utm_source=git)** | Tyler, TX | On Site | Mar 27 |
 | ↳ | **[Teller I Intern (College)](https://jobright.ai/jobs/info/69c72aad1b5ad0288738ace3?utm_campaign=1058&utm_source=git)** | Lufkin, TX | On Site | Mar 27 |
@@ -144,7 +146,6 @@ For a complete list, click the following sortable link below:
 | **[HCA Healthcare Trident Hospital](http://tridenthealthsystem.com)** | **[Pharmacist Intern PRN](https://jobright.ai/jobs/info/69aa0ef92ebd316bece1cb14?utm_campaign=1058&utm_source=git)** | Summerville, SC | On Site | Mar 27 |
 | **[SpyCloud](https://spycloud.com)** | **[IT Support Internship/Co-Op (Summer/Fall 2026)](https://jobright.ai/jobs/info/69c6d046aa3c2c1995e124c0?utm_campaign=1058&utm_source=git)** | Austin, Texas | Hybrid | Mar 27 |
 | **[Lima One Capital](https://www.limaone.com/)** | **[IT Operations Intern](https://jobright.ai/jobs/info/69c6cf5383ea553769fddaac?utm_campaign=1058&utm_source=git)** | Greenville, SC | On Site | Mar 27 |
-| **[The Mount Sinai Hospital](http://www.mountsinai.org)** | **[Summer Student Nurse Intern - 3R Psychiatry - MSBHC](https://jobright.ai/jobs/info/69c6c9821818a24cd84c8708?utm_campaign=1058&utm_source=git)** | 45 Rivington Street, New York, NY, 10002, US | On Site | Mar 27 |
 | **[UPMC](https://www.upmc.com/)** | **[Audiologist Intern-Hanover](https://jobright.ai/jobs/info/69aa07c39ca4e908ec6555c7?utm_campaign=1058&utm_source=git)** | Hanover, PA | On Site | Mar 27 |
 | **[Govan Brown & Associates](http://www.govanbrown.com)** | **[IT Internship](https://jobright.ai/jobs/info/69c6e4dcb773006330b73ca2?utm_campaign=1058&utm_source=git)** | Tallahassee, FL, United States | On Site | Mar 27 |
 | **[Reliance Matrix](https://reliancematrix.com)** | **[Client Service Trainee Program](https://jobright.ai/jobs/info/69aa15f49ca4e908ec6561b8?utm_campaign=1058&utm_source=git)** | Schaumburg, IL | On Site | Mar 27 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Mount Carmel Health System](https://www.mountcarmelhealth.com/)** | **[Pharmacy Intern I - Mount Carmel East](https://jobright.ai/jobs/info/695582da9f1b381eb26eccec?utm_campaign=1058&utm_source=git)** | Columbus, OH | On Site | Mar 27 |
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Undergrounding Program Customer Experience and Engagement Intern](https://jobright.ai/jobs/info/69c6dbfdb773006330b738ae?utm_campaign=1058&utm_source=git)** | Oakland, CA | Hybrid | Mar 27 |
 | **[Brentwood Water & Wastewater](http://www.brentwoodindustries.com)** | **[IT Internship](https://jobright.ai/jobs/info/69c6ba7a1b5ad02887386473?utm_campaign=1058&utm_source=git)** | Reading, PA, US | On Site | Mar 27 |
-| **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Access Your Future Service Intern](https://jobright.ai/jobs/info/66c51ecb8dcc81aef5709142?utm_campaign=1058&utm_source=git)** | Williston, ND | On Site | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
