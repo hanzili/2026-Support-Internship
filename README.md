@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ascension](https://healthcare.ascension.org)** | **[Student Nurse Intern](https://jobright.ai/jobs/info/694605a1d1953b5d11bf2267?utm_campaign=1058&utm_source=git)** | Evansville, IN | On Site | Mar 28 |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[On-Site Information Systems Intern - Summer 2026-Rayville, LA](https://jobright.ai/jobs/info/69bd04d345e08b3dc1fa0f0d?utm_campaign=1058&utm_source=git)** | Rayville, LA | On Site | Mar 28 |
+| **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Intern I &amp;#8211; High School](https://jobright.ai/jobs/info/69c7d7371818a24cd84d1fd6?utm_campaign=1058&utm_source=git)** | Santa Rosa, CA | On Site | Mar 28 |
 | **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[Intern, Business Support (Contracts)](https://jobright.ai/jobs/info/69ab95e82747003c3d511cd1?utm_campaign=1058&utm_source=git)** | Niceville, FL | On Site | Mar 28 |
 | **[Imply](https://imply.io)** | **[Technical Writer Intern (Remote)](https://jobright.ai/jobs/info/698e702d78b4502f12a53eb1?utm_campaign=1058&utm_source=git)** | Burlingame, CA | Remote | Mar 28 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Services Internship, Competitive Analysis & Benchmarking (Summer 2026)](https://jobright.ai/jobs/info/6922b08ec0cefa13343d8d79?utm_campaign=1058&utm_source=git)** | Westerville, OH | On Site | Mar 28 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Saint Luke's](https://www.saintlukeskc.org)** | **[Nursing Intern](https://jobright.ai/jobs/info/69c732dd1818a24cd84cc8b2?utm_campaign=1058&utm_source=git)** | Kansas City, MO | On Site | Mar 27 |
 | **[UPMC](https://www.upmc.com/)** | **[Pharmacy Intern, Chartwell](https://jobright.ai/jobs/info/693a905c383bf9631983aaa4?utm_campaign=1058&utm_source=git)** | Oakdale, PA | On Site | Mar 27 |
 | **[KerberRose](http://kerberrose.com)** | **[IT Intern – In-Person/Hybrid](https://jobright.ai/jobs/info/69c6d8d483ea553769fde1fb?utm_campaign=1058&utm_source=git)** | Appleton-Oshkosh Area | Hybrid | Mar 27 |
-| **[Kravet](http://www.kravet.com)** | **[Showroom Internship, Atlanta](https://jobright.ai/jobs/info/69c6d7e91b5ad028873879b4?utm_campaign=1058&utm_source=git)** | Atlanta, 351 Peachtree Hills, US | On Site | Mar 27 |
-| **[Rivers Casino Philadelphia](http://www.riverscasino.com/philadelphia)** | **[Intern Hotel](https://jobright.ai/jobs/info/69c6d7cc1818a24cd84c91d6?utm_campaign=1058&utm_source=git)** | Schenectady, NY 12305, USA | On Site | Mar 27 |
-| **[University of Pikeville](http://www.upike.edu/)** | **[WS - Summer INTERNSHIP - Pike County Schools Technology Maintenance Technician](https://jobright.ai/jobs/info/69c6d7c91b5ad0288738796b?utm_campaign=1058&utm_source=git)** | Pikeville, Kentucky, United States | On Site | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
