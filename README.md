@@ -57,6 +57,22 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Southside Bank](http://southside.com)** | **[Teller I Intern (College)](https://jobright.ai/jobs/info/69c72b6be565c26a70026b3c?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | Mar 27 |
+| ↳ | **[Teller I Intern (College)](https://jobright.ai/jobs/info/69c72ad2b773006330b76a92?utm_campaign=1058&utm_source=git)** | Tyler, TX | On Site | Mar 27 |
+| ↳ | **[Teller I Intern (College)](https://jobright.ai/jobs/info/69c72aad1b5ad0288738ace3?utm_campaign=1058&utm_source=git)** | Lufkin, TX | On Site | Mar 27 |
+| **[Layup Parts](www.layupparts.com)** | **[Help Desk / IT Support Intern (Part-Time)](https://jobright.ai/jobs/info/69c728a0e565c26a70026ab1?utm_campaign=1058&utm_source=git)** | Huntington Beach | On Site | Mar 27 |
+| **[BillionToOne](https://www.billiontoone.com)** | **[Accessioner (Summer Intern)](https://jobright.ai/jobs/info/69b9dabe06c1ba00c54bf9e6?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | Mar 27 |
+| **[Ken Garff Automotive Group](https://www.kengarff.com/)** | **[Internal Claims Administrator Intern](https://jobright.ai/jobs/info/69c727181b5ad0288738a7dd?utm_campaign=1058&utm_source=git)** | Garff Enterprises Corporate Office - Salt Lake City, UT | On Site | Mar 27 |
+| **[Southside Bank](http://southside.com)** | **[Teller I Intern (College)](https://jobright.ai/jobs/info/69c7242eaa3c2c1995e15aec?utm_campaign=1058&utm_source=git)** | Nacogdoches, TX | On Site | Mar 27 |
+| ↳ | **[TELLER I INTERN - College](https://jobright.ai/jobs/info/69c723da1818a24cd84cbf22?utm_campaign=1058&utm_source=git)** | Euless, TX | On Site | Mar 27 |
+| **[Amica Insurance](http://www.amica.com)** | **[Summer Student Customer Care Representative](https://jobright.ai/jobs/info/69c720fe1818a24cd84cbdb9?utm_campaign=1058&utm_source=git)** | North Carolina, United States | On Site | Mar 27 |
+| **[Ascension](https://healthcare.ascension.org)** | **[Imaging Intern](https://jobright.ai/jobs/info/69c71de8b773006330b7632d?utm_campaign=1058&utm_source=git)** | Tulsa, OK | On Site | Mar 27 |
+| **[Brunswick Corporation](http://www.brunswick.com)** | **[Lowrance Technical Support Intern](https://jobright.ai/jobs/info/69c71c9e1b5ad0288738a502?utm_campaign=1058&utm_source=git)** | Tulsa, OK | Hybrid | Mar 27 |
+| **[Southside Bank](http://southside.com)** | **[Teller I Intern (College)](https://jobright.ai/jobs/info/69c71b1ee565c26a70025e43?utm_campaign=1058&utm_source=git)** | Lufkin, TX, US | On Site | Mar 27 |
+| ↳ | **[Teller I Intern (College)](https://jobright.ai/jobs/info/69c71a6083ea553769fe097e?utm_campaign=1058&utm_source=git)** | Nacogdoches, TX, US | On Site | Mar 27 |
+| ↳ | **[Teller I Intern (College)](https://jobright.ai/jobs/info/69c71a5faa3c2c1995e15469?utm_campaign=1058&utm_source=git)** | Austin, TX, US | On Site | Mar 27 |
+| ↳ | **[TELLER I INTERN - College](https://jobright.ai/jobs/info/69c71a5eb773006330b75f1d?utm_campaign=1058&utm_source=git)** | Euless, TX, US | On Site | Mar 27 |
+| ↳ | **[Teller I Intern (College)](https://jobright.ai/jobs/info/69c71a5c1818a24cd84cb8e6?utm_campaign=1058&utm_source=git)** | Tyler, TX, US | On Site | Mar 27 |
 | **[American Society of Clinical Oncology (ASCO)](http://asco.org)** | **[IT Infrastructure Intern](https://jobright.ai/jobs/info/69b194b265de58104c709f84?utm_campaign=1058&utm_source=git)** | Alexandria, VA | On Site | Mar 27 |
 | **[OhioHealth](https://www.ohiohealth.com/)** | **[Pharmacy Intern - Mansfield](https://jobright.ai/jobs/info/69bcaf0b45e08b3dc1f971ef?utm_campaign=1058&utm_source=git)** | Mansfield, OH | On Site | Mar 27 |
 | **[Wintrust Financial Corporation](http://www.wintrust.com/)** | **[Wintrust 2026 Summer Internship - Customer Contact Center](https://jobright.ai/jobs/info/69c711dd1818a24cd84cb4ca?utm_campaign=1058&utm_source=git)** | Rosemont, IL | On Site | Mar 27 |
@@ -120,6 +136,7 @@ For a complete list, click the following sortable link below:
 | **[SpyCloud](https://spycloud.com)** | **[IT Support Internship/Co-Op (Summer/Fall 2026)](https://jobright.ai/jobs/info/69c6d046aa3c2c1995e124c0?utm_campaign=1058&utm_source=git)** | Austin, Texas | Hybrid | Mar 27 |
 | **[Lima One Capital](https://www.limaone.com/)** | **[IT Operations Intern](https://jobright.ai/jobs/info/69c6cf5383ea553769fddaac?utm_campaign=1058&utm_source=git)** | Greenville, SC | On Site | Mar 27 |
 | **[The Mount Sinai Hospital](http://www.mountsinai.org)** | **[Summer Student Nurse Intern - 3R Psychiatry - MSBHC](https://jobright.ai/jobs/info/69c6c9821818a24cd84c8708?utm_campaign=1058&utm_source=git)** | 45 Rivington Street, New York, NY, 10002, US | On Site | Mar 27 |
+| **[UPMC](https://www.upmc.com/)** | **[Audiologist Intern-Hanover](https://jobright.ai/jobs/info/69aa07c39ca4e908ec6555c7?utm_campaign=1058&utm_source=git)** | Hanover, PA | On Site | Mar 27 |
 | **[Govan Brown & Associates](http://www.govanbrown.com)** | **[IT Internship](https://jobright.ai/jobs/info/69c6e4dcb773006330b73ca2?utm_campaign=1058&utm_source=git)** | Tallahassee, FL, United States | On Site | Mar 27 |
 | **[Reliance Matrix](https://reliancematrix.com)** | **[Client Service Trainee Program](https://jobright.ai/jobs/info/69aa15f49ca4e908ec6561b8?utm_campaign=1058&utm_source=git)** | Schaumburg, IL | On Site | Mar 27 |
 | **[Trinity Health](http://www.trinity-health.org)** | **[Pharmacy Intern I - Mount Carmel East](https://jobright.ai/jobs/info/695b4233aa05c26e7ab49a37?utm_campaign=1058&utm_source=git)** | Columbus, OH | On Site | Mar 27 |
@@ -140,21 +157,4 @@ For a complete list, click the following sortable link below:
 | **[RÖDL USA](http://www.roedl.us)** | **[Praktikant (w/m/d)](https://jobright.ai/jobs/info/67a4c8c710485bdc6e5a0841?utm_campaign=1058&utm_source=git)** | Atlanta, GA | On Site | Mar 27 |
 | **[Zuora](https://www.zuora.com)** | **[Intern, Customer](https://jobright.ai/jobs/info/69c6b1f5aa3c2c1995e1152b?utm_campaign=1058&utm_source=git)** | Foster City, California, United States | Remote | Mar 27 |
 | **[Auctane](https://auctane.com/)** | **[Salesforce Administrator Intern](https://jobright.ai/jobs/info/69c6b1d2aa3c2c1995e114f8?utm_campaign=1058&utm_source=git)** | Austin, TX | Hybrid | Mar 27 |
-| **[Hootsuite](https://hootsuite.com/)** | **[Co-op/Intern, IT Operations - Summer 2026](https://jobright.ai/jobs/info/69c6b1beb773006330b72082?utm_campaign=1058&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Mar 27 |
-| **[Aqua Star](https://www.aquastar.com/)** | **[Sales Support Intern - Summer 2026](https://jobright.ai/jobs/info/69c6b1361818a24cd84c7abf?utm_campaign=1058&utm_source=git)** | Seattle, WA | On Site | Mar 27 |
-| **[St. Jude Children's Research Hospital - ALSAC](https://www.stjude.org)** | **[Intern- LeMoyne-Owen College Call Center (Spring/Summer 2026)](https://jobright.ai/jobs/info/69aa31342ebd316bece1f289?utm_campaign=1058&utm_source=git)** | Memphis, TN | On Site | Mar 27 |
-| **[RÖDL USA](http://www.roedl.us)** | **[Praktikant (w/m/d)](https://jobright.ai/jobs/info/682977756dd7e5f8b5d79e42?utm_campaign=1058&utm_source=git)** | Greenville, SC | On Site | Mar 27 |
-| **[Ponte Vedra Inn & Club](http://www.pontevedra.com)** | **[SURF CLUB - INTERN](https://jobright.ai/jobs/info/69c6ade2b773006330b71f37?utm_campaign=1058&utm_source=git)** | Ponte Vedra Beach, FL | On Site | Mar 27 |
-| **[Pyxis Partners](https://www.pyxispartners.co/)** | **[Intern, Communications and Project Support](https://jobright.ai/jobs/info/69c6de4e1b5ad02887387afb?utm_campaign=1058&utm_source=git)** | DC-Baltimore Area | Hybrid | Mar 27 |
-| **[Photronics](http://www.photronics.com)** | **[Desktop Support Intern](https://jobright.ai/jobs/info/69c6ac001818a24cd84c790e?utm_campaign=1058&utm_source=git)** | Brookfield, CT, US | On Site | Mar 27 |
-| **[PNC](http://www.pnc.com)** | **[Loan Support Analyst](https://jobright.ai/jobs/info/69c6ab0f83ea553769fdc7ec?utm_campaign=1058&utm_source=git)** | Colorado, United States | Hybrid | Mar 27 |
-| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Intern I - High School](https://jobright.ai/jobs/info/69c6a944aa3c2c1995e111ef?utm_campaign=1058&utm_source=git)** | Santa Rosa, CA | On Site | Mar 27 |
-| **[Giesecke+Devrient](https://www.gi-de.com/en/)** | **[IT Support Intern](https://jobright.ai/jobs/info/69c6a92fb773006330b71d85?utm_campaign=1058&utm_source=git)** | Bolingbrook, IL | On Site | Mar 27 |
-| **[St. Jude Children's Research Hospital - ALSAC](https://www.stjude.org)** | **[Intern-University of Memphis Call Center (Spring/Summer 2026)](https://jobright.ai/jobs/info/69aa312b2ebd316bece1f279?utm_campaign=1058&utm_source=git)** | Memphis, TN | On Site | Mar 27 |
-| **[Wells Fargo](http://www.wellsfargo.com)** | **[Branch Product Support Representative](https://jobright.ai/jobs/info/69c6a74b1b5ad02887385e85?utm_campaign=1058&utm_source=git)** | Phoenix, AZ | On Site | Mar 27 |
-| **[Wounded Warrior Project](https://www.woundedwarriorproject.org)** | **[Intern - IT Service Desk](https://jobright.ai/jobs/info/69c6a5f2aa3c2c1995e10fdd?utm_campaign=1058&utm_source=git)** | Jacksonville, FL | Hybrid | Mar 27 |
-| **[Advocate Aurora Health](https://www.advocateaurorahealth.org/)** | **[Summer Rehab Intern](https://jobright.ai/jobs/info/69c6a5d6b773006330b71afa?utm_campaign=1058&utm_source=git)** | Manitowoc, WI - 1111 Bayshore Dr | On Site | Mar 27 |
-| **[Photronics](http://www.photronics.com)** | **[Desktop Support Intern](https://jobright.ai/jobs/info/69c6a5ce1818a24cd84c7616?utm_campaign=1058&utm_source=git)** | Brookfield, CT | On Site | Mar 27 |
-| **[Advocate Aurora Health](https://www.advocateaurorahealth.org/)** | **[Summer Rehab Intern](https://jobright.ai/jobs/info/69c6a54a1b5ad02887385c4a?utm_campaign=1058&utm_source=git)** | Manitowoc, WI - 3821 Dewey St | On Site | Mar 27 |
-| **[Ascension](https://healthcare.ascension.org)** | **[Nursing Intern](https://jobright.ai/jobs/info/696e0b84350cf4380314d6ee?utm_campaign=1058&utm_source=git)** | Mequon, WI | On Site | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
