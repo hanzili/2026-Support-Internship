@@ -69,6 +69,7 @@ For a complete list, click the following sortable link below:
 | **[University Health KC](https://www.universityhealthkc.org)** | **[Radiology Technologist Intern - Imaging - UH Truman Medical Center (varied shifts per week)](https://jobright.ai/jobs/info/69c7f305aa3c2c1995e1c5dc?utm_campaign=1058&utm_source=git)** | Kansas City, MO | On Site | Mar 28 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Echocardiography Tech Intern](https://jobright.ai/jobs/info/698e4fba78b4502f12a516b5?utm_campaign=1058&utm_source=git)** | Murfreesboro, TN | On Site | Mar 28 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[Branch Product Support Representative](https://jobright.ai/jobs/info/69c7f018e565c26a7002cbfd?utm_campaign=1058&utm_source=git)** | San Antonio, TX | On Site | Mar 28 |
+| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69c823de1818a24cd84d36f9?utm_campaign=1058&utm_source=git)** | Pearland, TX | On Site | Mar 28 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE (Mott Childrens Hospital-10W, Pediatric Cardio-Thoracic Unit GN Internship)](https://jobright.ai/jobs/info/69c7e4c2b773006330b7cc2b?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Mar 28 |
 | ↳ | **[REGISTERED NURSE - CRNA Internship](https://jobright.ai/jobs/info/69c7e4b41818a24cd84d23c1?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Mar 28 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Student Nurse Intern](https://jobright.ai/jobs/info/694605a1d1953b5d11bf2267?utm_campaign=1058&utm_source=git)** | Evansville, IN | On Site | Mar 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Granite Telecommunications](http://www.granitenet.com/)** | **[Help Desk Intern](https://jobright.ai/jobs/info/69c6ee37aa3c2c1995e135fa?utm_campaign=1058&utm_source=git)** | Quincy, MA | On Site | Mar 27 |
 | **[Smith+Nephew](http://www.smith-nephew.com)** | **[Intern Product Support (Austin,TX)](https://jobright.ai/jobs/info/69c6ee2283ea553769fdec42?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | Mar 27 |
 | **[Leidos](https://www.leidos.com)** | **[IT Asset Management (ITAM) Intern](https://jobright.ai/jobs/info/69b5365d06c1ba00c546fb7d?utm_campaign=1058&utm_source=git)** | Fort Belvoir, VA | On Site | Mar 27 |
-| **[Specialty1 Partners](https://specialty1partners.com)** | **[Clinical Office Intern](https://jobright.ai/jobs/info/69c6eccf1b5ad028873884b9?utm_campaign=1058&utm_source=git)** | Mebane, NC | On Site | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
