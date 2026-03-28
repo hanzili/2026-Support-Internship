@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nuvance Health](https://www.nuvancehealth.org)** | **[Intern Pharmacist](https://jobright.ai/jobs/info/69c782fe83ea553769fe4568?utm_campaign=1058&utm_source=git)** | Rhinebeck, NY | On Site | Mar 28 |
 | **[HCA Healthcare](https://hcahealthcare.com/)** | **[Chaplain Intern PRN](https://jobright.ai/jobs/info/69c76e4d1b5ad0288738ccd2?utm_campaign=1058&utm_source=git)** | San Antonio, TX | On Site | Mar 27 |
 | **[University Health KC](https://www.universityhealthkc.org)** | **[Radiology Technologist Intern - Imaging - UH Truman Medical Center (varied shifts per week)](https://jobright.ai/jobs/info/69c76a7f83ea553769fe309e?utm_campaign=1058&utm_source=git)** | University Health Truman Medical Center | On Site | Mar 27 |
 | **[County of Marin](http://www.marincounty.org)** | **[Student Intern - Undergraduate (Sheriff's Cadet)](https://jobright.ai/jobs/info/69c76828aa3c2c1995e17d2a?utm_campaign=1058&utm_source=git)** | San Rafael, CA | On Site | Mar 27 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Reliance Matrix](https://reliancematrix.com)** | **[Client Service Trainee Program](https://jobright.ai/jobs/info/69aa15f49ca4e908ec6561b8?utm_campaign=1058&utm_source=git)** | Schaumburg, IL | On Site | Mar 27 |
 | **[Trinity Health](http://www.trinity-health.org)** | **[Pharmacy Intern I - Mount Carmel East](https://jobright.ai/jobs/info/695b4233aa05c26e7ab49a37?utm_campaign=1058&utm_source=git)** | Columbus, OH | On Site | Mar 27 |
 | **[Bennett Thrasher](http://www.btcpa.net/)** | **[IT Intern - Help Desk](https://jobright.ai/jobs/info/69c6c3bfaa3c2c1995e11e30?utm_campaign=1058&utm_source=git)** | Atlanta, GA | On Site | Mar 27 |
-| **[MemorialCare](https://www.memorialcare.org)** | **[Pharmacy Intern Per Diem](https://jobright.ai/jobs/info/69c6c08fb773006330b7291d?utm_campaign=1058&utm_source=git)** | Laguna Hills, CA | On Site | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
