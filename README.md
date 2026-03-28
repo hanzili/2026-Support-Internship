@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ken Garff Automotive Group](https://www.kengarff.com/)** | **[Internal Claims Administrator Intern](https://jobright.ai/jobs/info/69c7414faa3c2c1995e16a1b?utm_campaign=1058&utm_source=git)** | SLC Metro Area | On Site | Mar 27 |
 | **[University Medical Center of Southern Nevada (UMC)](https://www.umcsn.com/)** | **[Per Diem Pharmacy Intern](https://jobright.ai/jobs/info/69c730041818a24cd84cc6f5?utm_campaign=1058&utm_source=git)** | Las Vegas, NV | On Site | Mar 27 |
 | **[Southside Bank](http://southside.com)** | **[Teller I Intern (College)](https://jobright.ai/jobs/info/69c72b6be565c26a70026b3c?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | Mar 27 |
 | ↳ | **[Teller I Intern (College)](https://jobright.ai/jobs/info/69c72ad2b773006330b76a92?utm_campaign=1058&utm_source=git)** | Tyler, TX | On Site | Mar 27 |
@@ -66,6 +67,7 @@ For a complete list, click the following sortable link below:
 | **[Ken Garff Automotive Group](https://www.kengarff.com/)** | **[Internal Claims Administrator Intern](https://jobright.ai/jobs/info/69c727181b5ad0288738a7dd?utm_campaign=1058&utm_source=git)** | Garff Enterprises Corporate Office - Salt Lake City, UT | On Site | Mar 27 |
 | **[Southside Bank](http://southside.com)** | **[Teller I Intern (College)](https://jobright.ai/jobs/info/69c7242eaa3c2c1995e15aec?utm_campaign=1058&utm_source=git)** | Nacogdoches, TX | On Site | Mar 27 |
 | ↳ | **[TELLER I INTERN - College](https://jobright.ai/jobs/info/69c723da1818a24cd84cbf22?utm_campaign=1058&utm_source=git)** | Euless, TX | On Site | Mar 27 |
+| **[City of Pasco](http://www.pasco-wa.gov)** | **[Department Assistant Intern - Municipal Court](https://jobright.ai/jobs/info/69c740ec1b5ad0288738b5c2?utm_campaign=1058&utm_source=git)** | Pasco, WA | On Site | Mar 27 |
 | **[Amica Insurance](http://www.amica.com)** | **[Summer Student Customer Care Representative](https://jobright.ai/jobs/info/69c720fe1818a24cd84cbdb9?utm_campaign=1058&utm_source=git)** | North Carolina, United States | On Site | Mar 27 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Imaging Intern](https://jobright.ai/jobs/info/69c71de8b773006330b7632d?utm_campaign=1058&utm_source=git)** | Tulsa, OK | On Site | Mar 27 |
 | **[Brunswick Corporation](http://www.brunswick.com)** | **[Lowrance Technical Support Intern](https://jobright.ai/jobs/info/69c71c9e1b5ad0288738a502?utm_campaign=1058&utm_source=git)** | Tulsa, OK | Hybrid | Mar 27 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Access Your Future Service Intern](https://jobright.ai/jobs/info/66c51ecb8dcc81aef5709142?utm_campaign=1058&utm_source=git)** | Williston, ND | On Site | Mar 27 |
 | **[Uline](http://www.uline.com)** | **[Customer Service Internship - Year-Round](https://jobright.ai/jobs/info/69711e2651f726477183562b?utm_campaign=1058&utm_source=git)** | St Paul, MN | On Site | Mar 27 |
 | **[Community Memorial Healthcare](https://www.mycmh.org)** | **[Intern Pharmacist](https://jobright.ai/jobs/info/69c6b8dbaa3c2c1995e11682?utm_campaign=1058&utm_source=git)** | Ventura, CA | On Site | Mar 27 |
-| **[IOM - UN Migration](http://www.iom.int)** | **[ICT Internship (extended)](https://jobright.ai/jobs/info/69c6b86483ea553769fdcc19?utm_campaign=1058&utm_source=git)** | Security, CO | On Site | Mar 27 |
-| **[City of New York](http://www1.nyc.gov)** | **[Desktop Support Intern](https://jobright.ai/jobs/info/69c6b55d1818a24cd84c7c3a?utm_campaign=1058&utm_source=git)** | Queens, NY | On Site | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
