@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[American Society of Clinical Oncology (ASCO)](http://asco.org)** | **[IT Infrastructure Intern](https://jobright.ai/jobs/info/69b194b265de58104c709f84?utm_campaign=1058&utm_source=git)** | Alexandria, VA | On Site | Mar 27 |
+| **[OhioHealth](https://www.ohiohealth.com/)** | **[Pharmacy Intern - Mansfield](https://jobright.ai/jobs/info/69bcaf0b45e08b3dc1f971ef?utm_campaign=1058&utm_source=git)** | Mansfield, OH | On Site | Mar 27 |
+| **[Wintrust Financial Corporation](http://www.wintrust.com/)** | **[Wintrust 2026 Summer Internship - Customer Contact Center](https://jobright.ai/jobs/info/69c711dd1818a24cd84cb4ca?utm_campaign=1058&utm_source=git)** | Rosemont, IL | On Site | Mar 27 |
+| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Information Technology Intern](https://jobright.ai/jobs/info/69c71194aa3c2c1995e14fa8?utm_campaign=1058&utm_source=git)** | Warrenville, IL | On Site | Mar 27 |
+| **[Aurora Health Care](http://aurorahealthcare.org)** | **[Summer Rehab Intern](https://jobright.ai/jobs/info/69c7103383ea553769fe04c8?utm_campaign=1058&utm_source=git)** | Manitowoc, WI | On Site | Mar 27 |
+| **[Crisis Center of Tampa Bay](https://www.crisiscenter.co)** | **[Intern, Sexual Assault Services](https://jobright.ai/jobs/info/69c70f661b5ad02887389c5b?utm_campaign=1058&utm_source=git)** | Crisis Center of Tampa Bay - Tampa, FL 33613 | On Site | Mar 27 |
 | **[Brunswick Corporation](http://www.brunswick.com)** | **[Lowrance Technical Support Intern](https://jobright.ai/jobs/info/69c70eaeaa3c2c1995e14b3f?utm_campaign=1058&utm_source=git)** | Tulsa, OK | Hybrid | Mar 27 |
 | **[Element Electronics](https://elementelectronics.com/)** | **[Information Technology (IT) Intern](https://jobright.ai/jobs/info/69c70e5e83ea553769fe0125?utm_campaign=1058&utm_source=git)** | Edina, MN | On Site | Mar 27 |
 | **[Primerica](https://www.primerica.com)** | **[PC Services Intern](https://jobright.ai/jobs/info/69c70e3f1818a24cd84cb023?utm_campaign=1058&utm_source=git)** | Duluth, GA | On Site | Mar 27 |
@@ -106,6 +112,7 @@ For a complete list, click the following sortable link below:
 | **[University of Pikeville](http://www.upike.edu/)** | **[WS - Summer INTERNSHIP - Pike County Schools Technology Maintenance Technician](https://jobright.ai/jobs/info/69c6d7c91b5ad0288738796b?utm_campaign=1058&utm_source=git)** | Pikeville, Kentucky, United States | On Site | Mar 27 |
 | **[Central Texas Electric Cooperative, Inc.](https://www.ctec.coop)** | **[Information Technology Intern](https://jobright.ai/jobs/info/69c6d7c81b5ad0288738795d?utm_campaign=1058&utm_source=git)** | Fredericksburg, Texas, United States | On Site | Mar 27 |
 | **[Lincoln Investment](http://www.lincolninvestment.com/)** | **[IT & Technology Summer Intern](https://jobright.ai/jobs/info/69c6d7a51818a24cd84c9165?utm_campaign=1058&utm_source=git)** | Lincoln Investment, 601 Office Center Drive, Fort Washington, Pennsylvania, United States of America | On Site | Mar 27 |
+| **[Amica Insurance](http://www.amica.com)** | **[Summer Student Customer Care Representative](https://jobright.ai/jobs/info/69c7117faa3c2c1995e14f97?utm_campaign=1058&utm_source=git)** | Colorado, United States | On Site | Mar 27 |
 | **[The Applied Research Laboratory at Penn State University](https://www.arl.psu.edu)** | **[IT Endpoint Intern](https://jobright.ai/jobs/info/699ef12394ef206f184e048e?utm_campaign=1058&utm_source=git)** | University Park, PA | On Site | Mar 27 |
 | **[Allen Lund Company](http://www.allenlund.com/)** | **[Intern](https://jobright.ai/jobs/info/69c7061caa3c2c1995e14780?utm_campaign=1058&utm_source=git)** | Charlotte, NC | On Site | Mar 27 |
 | **[Xometry](https://www.xometry.com)** | **[Case Management Intern](https://jobright.ai/jobs/info/6948ed3863141d1884589708?utm_campaign=1058&utm_source=git)** | Gaithersburg, MD | Hybrid | Mar 27 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Photronics](http://www.photronics.com)** | **[Desktop Support Intern](https://jobright.ai/jobs/info/69c6a5ce1818a24cd84c7616?utm_campaign=1058&utm_source=git)** | Brookfield, CT | On Site | Mar 27 |
 | **[Advocate Aurora Health](https://www.advocateaurorahealth.org/)** | **[Summer Rehab Intern](https://jobright.ai/jobs/info/69c6a54a1b5ad02887385c4a?utm_campaign=1058&utm_source=git)** | Manitowoc, WI - 3821 Dewey St | On Site | Mar 27 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Nursing Intern](https://jobright.ai/jobs/info/696e0b84350cf4380314d6ee?utm_campaign=1058&utm_source=git)** | Mequon, WI | On Site | Mar 27 |
-| ↳ | **[Nurse Intern Oncology](https://jobright.ai/jobs/info/69672f53f25a380066959020?utm_campaign=1058&utm_source=git)** | Wichita, KS | On Site | Mar 27 |
-| ↳ | **[Cath Lab Tech Intern](https://jobright.ai/jobs/info/698e63220f6f7e7a2cea6a86?utm_campaign=1058&utm_source=git)** | Racine, WI | On Site | Mar 27 |
-| **[Curtiss-Wright Corporation](https://curtisswright.com/home/default.aspx)** | **[Co-op Intern](https://jobright.ai/jobs/info/698e9cb6f64d441a1650e5d5?utm_campaign=1058&utm_source=git)** | East Farmingdale, NY | On Site | Mar 27 |
-| **[Ascension](https://healthcare.ascension.org)** | **[Imaging Student Intern](https://jobright.ai/jobs/info/6992902381476f6176aa0816?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | Mar 27 |
-| **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Technologist Surgical](https://jobright.ai/jobs/info/687626ea5cebcd1dd51c6e79?utm_campaign=1058&utm_source=git)** | Oxford, MS | On Site | Mar 27 |
-| **[Trinity Health](http://www.trinity-health.org)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/6971e27547b64f4e963e152b?utm_campaign=1058&utm_source=git)** | Des Moines, IA | On Site | Mar 27 |
-| **[Ascension](https://healthcare.ascension.org)** | **[Respiratory Therapy Intern](https://jobright.ai/jobs/info/690992784a1b456627b01d83?utm_campaign=1058&utm_source=git)** | Tulsa, OK | On Site | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
