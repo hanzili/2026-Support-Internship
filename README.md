@@ -57,14 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE - CRNA Internship](https://jobright.ai/jobs/info/69c798461818a24cd84cfba0?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Mar 28 |
+| ↳ | **[REGISTERED NURSE - CRNA Internship](https://jobright.ai/jobs/info/69c797f6aa3c2c1995e19758?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Mar 28 |
+| **[Authentic Brands Group](https://authentic.com)** | **[IT Support Summer Intern](https://jobright.ai/jobs/info/69bd79174828227293ffb219?utm_campaign=1058&utm_source=git)** | New York, New York | On Site | Mar 28 |
 | **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[Radiology Student Intern](https://jobright.ai/jobs/info/69c786f783ea553769fe46cc?utm_campaign=1058&utm_source=git)** | Fort Smith, AR | On Site | Mar 28 |
 | **[Nuvance Health](https://www.nuvancehealth.org)** | **[Intern Pharmacist](https://jobright.ai/jobs/info/69c782fe83ea553769fe4568?utm_campaign=1058&utm_source=git)** | Rhinebeck, NY | On Site | Mar 28 |
 | **[HCA Healthcare](https://hcahealthcare.com/)** | **[Chaplain Intern PRN](https://jobright.ai/jobs/info/69c76e4d1b5ad0288738ccd2?utm_campaign=1058&utm_source=git)** | San Antonio, TX | On Site | Mar 27 |
 | **[University Health KC](https://www.universityhealthkc.org)** | **[Radiology Technologist Intern - Imaging - UH Truman Medical Center (varied shifts per week)](https://jobright.ai/jobs/info/69c76a7f83ea553769fe309e?utm_campaign=1058&utm_source=git)** | University Health Truman Medical Center | On Site | Mar 27 |
 | **[County of Marin](http://www.marincounty.org)** | **[Student Intern - Undergraduate (Sheriff's Cadet)](https://jobright.ai/jobs/info/69c76828aa3c2c1995e17d2a?utm_campaign=1058&utm_source=git)** | San Rafael, CA | On Site | Mar 27 |
+| **[Cleveland Clinic](http://my.clevelandclinic.org)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69c78dfc1818a24cd84cf9b3?utm_campaign=1058&utm_source=git)** | Cleveland, OH | On Site | Mar 27 |
 | **[InterWorks](http://www.interworks.com)** | **[IT Intern](https://jobright.ai/jobs/info/68596a3df7e1d7c7ec214cfc?utm_campaign=1058&utm_source=git)** | Stillwater, Oklahoma, United States | On Site | Mar 27 |
 | **[UNM Hospital](https://www.unmhjobs.com)** | **[SONOGRAPHER INTERN](https://jobright.ai/jobs/info/69c7892c1818a24cd84cf6ea?utm_campaign=1058&utm_source=git)** | Albuquerque, NM | On Site | Mar 27 |
-| **[Mercury Insurance](http://www.mercuryinsurance.com)** | **[Technical Support Technician III](https://jobright.ai/jobs/info/69c759ebaa3c2c1995e175a1?utm_campaign=1058&utm_source=git)** | United States | Remote | Mar 27 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/69c74c56aa3c2c1995e16f27?utm_campaign=1058&utm_source=git)** | Spokane, WA | On Site | Mar 27 |
 | **[Central Texas Electric Cooperative, Inc.](https://www.ctec.coop)** | **[Information Technology Intern](https://jobright.ai/jobs/info/69c74a1683ea553769fe227a?utm_campaign=1058&utm_source=git)** | Fredericksburg, TX | On Site | Mar 27 |
 | ↳ | **[Member Services/Communications Intern](https://jobright.ai/jobs/info/69c749b4b773006330b777ad?utm_campaign=1058&utm_source=git)** | Fredericksburg, TX | On Site | Mar 27 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[HCA Healthcare Trident Hospital](http://tridenthealthsystem.com)** | **[Pharmacist Intern PRN](https://jobright.ai/jobs/info/69aa0ef92ebd316bece1cb14?utm_campaign=1058&utm_source=git)** | Summerville, SC | On Site | Mar 27 |
 | **[SpyCloud](https://spycloud.com)** | **[IT Support Internship/Co-Op (Summer/Fall 2026)](https://jobright.ai/jobs/info/69c6d046aa3c2c1995e124c0?utm_campaign=1058&utm_source=git)** | Austin, Texas | Hybrid | Mar 27 |
 | **[Lima One Capital](https://www.limaone.com/)** | **[IT Operations Intern](https://jobright.ai/jobs/info/69c6cf5383ea553769fddaac?utm_campaign=1058&utm_source=git)** | Greenville, SC | On Site | Mar 27 |
-| **[UPMC](https://www.upmc.com/)** | **[Audiologist Intern-Hanover](https://jobright.ai/jobs/info/69aa07c39ca4e908ec6555c7?utm_campaign=1058&utm_source=git)** | Hanover, PA | On Site | Mar 27 |
-| **[Govan Brown & Associates](http://www.govanbrown.com)** | **[IT Internship](https://jobright.ai/jobs/info/69c6e4dcb773006330b73ca2?utm_campaign=1058&utm_source=git)** | Tallahassee, FL, United States | On Site | Mar 27 |
-| **[Reliance Matrix](https://reliancematrix.com)** | **[Client Service Trainee Program](https://jobright.ai/jobs/info/69aa15f49ca4e908ec6561b8?utm_campaign=1058&utm_source=git)** | Schaumburg, IL | On Site | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
