@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/69c74c56aa3c2c1995e16f27?utm_campaign=1058&utm_source=git)** | Spokane, WA | On Site | Mar 27 |
+| **[Central Texas Electric Cooperative, Inc.](https://www.ctec.coop)** | **[Information Technology Intern](https://jobright.ai/jobs/info/69c74a1683ea553769fe227a?utm_campaign=1058&utm_source=git)** | Fredericksburg, TX | On Site | Mar 27 |
+| ↳ | **[Member Services/Communications Intern](https://jobright.ai/jobs/info/69c749b4b773006330b777ad?utm_campaign=1058&utm_source=git)** | Fredericksburg, TX | On Site | Mar 27 |
+| **[Xometry](https://www.xometry.com)** | **[Case Management Intern](https://jobright.ai/jobs/info/6943e68d94730b7398771073?utm_campaign=1058&utm_source=git)** | Lexington, KY | Hybrid | Mar 27 |
 | **[Ken Garff Automotive Group](https://www.kengarff.com/)** | **[Internal Claims Administrator Intern](https://jobright.ai/jobs/info/69c7414faa3c2c1995e16a1b?utm_campaign=1058&utm_source=git)** | SLC Metro Area | On Site | Mar 27 |
-| **[University Medical Center of Southern Nevada (UMC)](https://www.umcsn.com/)** | **[Per Diem Pharmacy Intern](https://jobright.ai/jobs/info/69c730041818a24cd84cc6f5?utm_campaign=1058&utm_source=git)** | Las Vegas, NV | On Site | Mar 27 |
 | **[Southside Bank](http://southside.com)** | **[Teller I Intern (College)](https://jobright.ai/jobs/info/69c72b6be565c26a70026b3c?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | Mar 27 |
 | ↳ | **[Teller I Intern (College)](https://jobright.ai/jobs/info/69c72ad2b773006330b76a92?utm_campaign=1058&utm_source=git)** | Tyler, TX | On Site | Mar 27 |
 | ↳ | **[Teller I Intern (College)](https://jobright.ai/jobs/info/69c72aad1b5ad0288738ace3?utm_campaign=1058&utm_source=git)** | Lufkin, TX | On Site | Mar 27 |
@@ -148,13 +151,10 @@ For a complete list, click the following sortable link below:
 | **[Trinity Health](http://www.trinity-health.org)** | **[Pharmacy Intern I - Mount Carmel East](https://jobright.ai/jobs/info/695b4233aa05c26e7ab49a37?utm_campaign=1058&utm_source=git)** | Columbus, OH | On Site | Mar 27 |
 | **[Bennett Thrasher](http://www.btcpa.net/)** | **[IT Intern - Help Desk](https://jobright.ai/jobs/info/69c6c3bfaa3c2c1995e11e30?utm_campaign=1058&utm_source=git)** | Atlanta, GA | On Site | Mar 27 |
 | **[MemorialCare](https://www.memorialcare.org)** | **[Pharmacy Intern Per Diem](https://jobright.ai/jobs/info/69c6c08fb773006330b7291d?utm_campaign=1058&utm_source=git)** | Laguna Hills, CA | On Site | Mar 27 |
-| **[UNM Hospital](https://www.unmhjobs.com)** | **[SONOGRAPHER INTERN](https://jobright.ai/jobs/info/69c6df65aa3c2c1995e12db8?utm_campaign=1058&utm_source=git)** | Albuquerque, NM | On Site | Mar 27 |
 | **[Zuora](https://www.zuora.com)** | **[Intern, Customer](https://jobright.ai/jobs/info/69c6bf501b5ad02887386a5d?utm_campaign=1058&utm_source=git)** | Foster City, CA | Remote | Mar 27 |
 | **[Hendrickson](http://www.hendrickson-intl.com/Home.aspx)** | **[IT Applications Intern (Summer 2026)](https://jobright.ai/jobs/info/698d081ef64d441a164ee4aa?utm_campaign=1058&utm_source=git)** | Canton, OH | On Site | Mar 27 |
 | **[Mount Carmel Health System](https://www.mountcarmelhealth.com/)** | **[Pharmacy Intern I - Mount Carmel East](https://jobright.ai/jobs/info/695582da9f1b381eb26eccec?utm_campaign=1058&utm_source=git)** | Columbus, OH | On Site | Mar 27 |
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Undergrounding Program Customer Experience and Engagement Intern](https://jobright.ai/jobs/info/69c6dbfdb773006330b738ae?utm_campaign=1058&utm_source=git)** | Oakland, CA | Hybrid | Mar 27 |
 | **[Brentwood Water & Wastewater](http://www.brentwoodindustries.com)** | **[IT Internship](https://jobright.ai/jobs/info/69c6ba7a1b5ad02887386473?utm_campaign=1058&utm_source=git)** | Reading, PA, US | On Site | Mar 27 |
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Access Your Future Service Intern](https://jobright.ai/jobs/info/66c51ecb8dcc81aef5709142?utm_campaign=1058&utm_source=git)** | Williston, ND | On Site | Mar 27 |
-| **[Uline](http://www.uline.com)** | **[Customer Service Internship - Year-Round](https://jobright.ai/jobs/info/69711e2651f726477183562b?utm_campaign=1058&utm_source=git)** | St Paul, MN | On Site | Mar 27 |
-| **[Community Memorial Healthcare](https://www.mycmh.org)** | **[Intern Pharmacist](https://jobright.ai/jobs/info/69c6b8dbaa3c2c1995e11682?utm_campaign=1058&utm_source=git)** | Ventura, CA | On Site | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
