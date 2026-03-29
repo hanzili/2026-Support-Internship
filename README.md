@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[FCX Performance](http://fcxperformance.com)** | **[Intern](https://jobright.ai/jobs/info/69c97e661818a24cd84db3e6?utm_campaign=1058&utm_source=git)** | Fort Worth, TX | On Site | Mar 29 |
+| **[RRD](http://www.rrd.com)** | **[Enterprise Technology Solutions Summer Intern](https://jobright.ai/jobs/info/69c97d9c1b5ad0288739997b?utm_campaign=1058&utm_source=git)** | Livonia, MI | Hybrid | Mar 29 |
 | **[Xometry](https://www.xometry.com)** | **[Customer Support Intern](https://jobright.ai/jobs/info/695ab318aa05c26e7ab4364b?utm_campaign=1058&utm_source=git)** | North Bethesda, MD | Hybrid | Mar 29 |
-| **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Access Your Future Service Intern](https://jobright.ai/jobs/info/69c9720b1818a24cd84daf60?utm_campaign=1058&utm_source=git)** | Irving, TX | On Site | Mar 29 |
 | **[Packaging Corporation of America](http://packagingcorp.com)** | **[2026 Fall Information Systems Intern/Co-Op](https://jobright.ai/jobs/info/698fe0406ea51a7610f245a0?utm_campaign=1058&utm_source=git)** | De Ridder, LA | On Site | Mar 29 |
 | **[Honeywell](http://www.honeywell.com)** | **[Intern Field Service Technician](https://jobright.ai/jobs/info/69b6672a06c1ba00c548552b?utm_campaign=1058&utm_source=git)** | Markham, ON | On Site | Mar 29 |
 | **[FortisBC](https://www.fortisbc.com)** | **[Customer Service Representative](https://jobright.ai/jobs/info/693b93bcd4054a2bc02576f8?utm_campaign=1058&utm_source=git)** | Prince George, BC | On Site | Mar 29 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Southside Bank](http://southside.com)** | **[Teller I Intern (College)](https://jobright.ai/jobs/info/69c71b1ee565c26a70025e43?utm_campaign=1058&utm_source=git)** | Lufkin, TX, US | On Site | Mar 27 |
 | ↳ | **[Teller I Intern (College)](https://jobright.ai/jobs/info/69c71a6083ea553769fe097e?utm_campaign=1058&utm_source=git)** | Nacogdoches, TX, US | On Site | Mar 27 |
 | ↳ | **[Teller I Intern (College)](https://jobright.ai/jobs/info/69c71a5faa3c2c1995e15469?utm_campaign=1058&utm_source=git)** | Austin, TX, US | On Site | Mar 27 |
-| ↳ | **[TELLER I INTERN - College](https://jobright.ai/jobs/info/69c71a5eb773006330b75f1d?utm_campaign=1058&utm_source=git)** | Euless, TX, US | On Site | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
