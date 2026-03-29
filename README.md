@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Rogers Electric](https://www.rogerselectric.com)** | **[IT Intern](https://jobright.ai/jobs/info/68cba2669e3a822f5d249752?utm_campaign=1058&utm_source=git)** | Alpharetta, GA | On Site | Mar 29 |
 | **[KLA](https://www.kla.com)** | **[Service Support Intern](https://jobright.ai/jobs/info/69340b5af131d96e484691ea?utm_campaign=1058&utm_source=git)** | Phoenix, AZ | On Site | Mar 29 |
 | **[Saint Francis Healthcare Memphis-Bartlett](https://www.saintfrancishosp.com)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/6973ef05bc8e722e7b18d4ba?utm_campaign=1058&utm_source=git)** | Bartlett, TN | On Site | Mar 29 |
 | **[St. Elizabeth Healthcare](http://www.stelizabeth.com/)** | **[Intern Pharmacy Inpatient](https://jobright.ai/jobs/info/69c8facbb773006330b8331f?utm_campaign=1058&utm_source=git)** | Edgewood, KY | On Site | Mar 29 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Primerica](https://www.primerica.com)** | **[PC Services Intern](https://jobright.ai/jobs/info/69c70656b773006330b752fd?utm_campaign=1058&utm_source=git)** | Duluth, GA | On Site | Mar 27 |
 | **[SpyCloud](https://spycloud.com)** | **[IT Support Internship/Co-Op (Summer/Fall 2026)](https://jobright.ai/jobs/info/69c7063ae565c26a70025206?utm_campaign=1058&utm_source=git)** | Austin, TX | Hybrid | Mar 27 |
 | **[McLaren Health Care](http://www.mclaren.org)** | **[Respiratory Intern](https://jobright.ai/jobs/info/69c7048c1b5ad0288738953d?utm_campaign=1058&utm_source=git)** | Port Huron, MI | On Site | Mar 27 |
-| **[Element Electronics](https://elementelectronics.com/)** | **[Information Technology (IT) Intern](https://jobright.ai/jobs/info/69c70129b773006330b750a3?utm_campaign=1058&utm_source=git)** | Edina,MN,US | On Site | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
