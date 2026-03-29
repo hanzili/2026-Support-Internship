@@ -70,13 +70,13 @@ For a complete list, click the following sortable link below:
 | **[Canon Financial Services, Inc.](https://www.cfs.canon.com)** | **[2026 Canon Insights Summer Internship - Customer Service Support Intern](https://jobright.ai/jobs/info/69ab404a142d5b4265fc89d5?utm_campaign=1058&utm_source=git)** | Mount Laurel, NJ | Hybrid | Mar 28 |
 | **[Trinity Health](http://www.trinity-health.org)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/6971ddecb707bf728a4b66e9?utm_campaign=1058&utm_source=git)** | Des Moines, IA | On Site | Mar 28 |
 | **[Utah Valley University](http://www.uvu.edu/)** | **[Student Proctor and Testing Admin](https://jobright.ai/jobs/info/69c8121a1818a24cd84d3375?utm_campaign=1058&utm_source=git)** | Orem, UT | On Site | Mar 28 |
-| **[NYC Administration for Children's Services](http://www.nyc.gov/acs)** | **[Tech Support Intern](https://jobright.ai/jobs/info/69c82ee7e565c26a7002e23d?utm_campaign=1058&utm_source=git)** | Manhattan, NY | On Site | Mar 28 |
+| **[NYC Administration for Children's Services](http://www.nyc.gov/acs)** | **[Tech Support Intern](https://jobright.ai/jobs/info/69c82eb483ea553769fe8cc6?utm_campaign=1058&utm_source=git)** | Manhattan, NY | On Site | Mar 28 |
 | **[The Chefs'​ Warehouse](https://www.chefswarehouse.com)** | **[Warehouse Intern](https://jobright.ai/jobs/info/698e6b2b78b4502f12a53562?utm_campaign=1058&utm_source=git)** | Hanover, MD | Hybrid | Mar 28 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Echocardiography Intern](https://jobright.ai/jobs/info/697d61a03f57a335696743ae?utm_campaign=1058&utm_source=git)** | Murfreesboro, TN | On Site | Mar 28 |
 | ↳ | **[Clinical Intern Surgical Technologist](https://jobright.ai/jobs/info/698e9c2a0f6f7e7a2ceaba09?utm_campaign=1058&utm_source=git)** | Oshkosh, WI | On Site | Mar 28 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE - CRNA Internship](https://jobright.ai/jobs/info/69c7fb25b773006330b7d4ab?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Mar 28 |
-| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69c7f33583ea553769fe7bc9?utm_campaign=1058&utm_source=git)** | El Paso, TX | On Site | Mar 28 |
-| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69c7f33583ea553769fe7bd0?utm_campaign=1058&utm_source=git)** | Kissimmee, FL | On Site | Mar 28 |
+| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69c7f33583ea553769fe7bd0?utm_campaign=1058&utm_source=git)** | Kissimmee, FL | On Site | Mar 28 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69c7f33583ea553769fe7bc9?utm_campaign=1058&utm_source=git)** | El Paso, TX | On Site | Mar 28 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69c7f3191b5ad028873913e0?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Mar 28 |
 | **[University Health KC](https://www.universityhealthkc.org)** | **[Radiology Technologist Intern - Imaging - UH Truman Medical Center (varied shifts per week)](https://jobright.ai/jobs/info/69c7f305aa3c2c1995e1c5dc?utm_campaign=1058&utm_source=git)** | Kansas City, MO | On Site | Mar 28 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Echocardiography Tech Intern](https://jobright.ai/jobs/info/698e4fba78b4502f12a516b5?utm_campaign=1058&utm_source=git)** | Murfreesboro, TN | On Site | Mar 28 |
@@ -143,6 +143,7 @@ For a complete list, click the following sortable link below:
 | **[Brunswick Corporation](http://www.brunswick.com)** | **[Lowrance Technical Support Intern](https://jobright.ai/jobs/info/69c70eaeaa3c2c1995e14b3f?utm_campaign=1058&utm_source=git)** | Tulsa, OK | Hybrid | Mar 27 |
 | **[Element Electronics](https://elementelectronics.com/)** | **[Information Technology (IT) Intern](https://jobright.ai/jobs/info/69c70e5e83ea553769fe0125?utm_campaign=1058&utm_source=git)** | Edina, MN | On Site | Mar 27 |
 | **[Primerica](https://www.primerica.com)** | **[PC Services Intern](https://jobright.ai/jobs/info/69c70e3f1818a24cd84cb023?utm_campaign=1058&utm_source=git)** | Duluth, GA | On Site | Mar 27 |
+| **[KPH HEALTHCARE SERVICES, INC](https://www.kphhealthcareservices.com/en/)** | **[Pharmacy Intern P1](https://jobright.ai/jobs/info/698eb41878b4502f12a59374?utm_campaign=1058&utm_source=git)** | Auburn, NY | On Site | Mar 27 |
 | **[Hy-Vee, Inc.](https://www.hy-vee.com)** | **[Retail Pharmacy Intern](https://jobright.ai/jobs/info/69c707c9aa3c2c1995e14863?utm_campaign=1058&utm_source=git)** | Des Moines, IA | On Site | Mar 27 |
 | **[Specialty1 Partners](https://specialty1partners.com)** | **[Clinical Office Intern](https://jobright.ai/jobs/info/69c706951818a24cd84cad78?utm_campaign=1058&utm_source=git)** | Mebane, North Carolina, United States | On Site | Mar 27 |
 | **[Primerica](https://www.primerica.com)** | **[PC Services Intern](https://jobright.ai/jobs/info/69c70656b773006330b752fd?utm_campaign=1058&utm_source=git)** | Duluth, GA | On Site | Mar 27 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[Radiology Student Intern](https://jobright.ai/jobs/info/69c6f9cbaa3c2c1995e13fb5?utm_campaign=1058&utm_source=git)** | Fort Smith, AR | On Site | Mar 27 |
 | **[Arvum Senior Living](https://www.arvumseniorliving.com/)** | **[Lead Med Tech/Caregiver](https://jobright.ai/jobs/info/69c6f8671b5ad02887388d6a?utm_campaign=1058&utm_source=git)** | Mount Pleasant, IA | On Site | Mar 27 |
 | **[Wounded Warrior Project](https://www.woundedwarriorproject.org)** | **[Intern - IT Service Desk](https://jobright.ai/jobs/info/69c6f6b91818a24cd84ca45d?utm_campaign=1058&utm_source=git)** | Jacksonville, FL | Hybrid | Mar 27 |
-| **[Harder Mechanical Contractors, Inc.](http://harder.com)** | **[Computer Science Intern-Summer 2026](https://jobright.ai/jobs/info/69c6f6b1e565c26a70024886?utm_campaign=1058&utm_source=git)** | Portland, OR | On Site | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
