@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[KLA](https://www.kla.com)** | **[Service Support Intern](https://jobright.ai/jobs/info/69340b5af131d96e484691ea?utm_campaign=1058&utm_source=git)** | Phoenix, AZ | On Site | Mar 29 |
+| **[Saint Francis Healthcare Memphis-Bartlett](https://www.saintfrancishosp.com)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/6973ef05bc8e722e7b18d4ba?utm_campaign=1058&utm_source=git)** | Bartlett, TN | On Site | Mar 29 |
 | **[St. Elizabeth Healthcare](http://www.stelizabeth.com/)** | **[Intern Pharmacy Inpatient](https://jobright.ai/jobs/info/69c8facbb773006330b8331f?utm_campaign=1058&utm_source=git)** | Edgewood, KY | On Site | Mar 29 |
 | **[Vacancies at IOM Indonesia](https://indonesia.iom.int)** | **[ICT Internship (extended)](https://jobright.ai/jobs/info/69c8f0da83ea553769feda51?utm_campaign=1058&utm_source=git)** | Security, CO | On Site | Mar 29 |
 | **[Xometry](https://www.xometry.com)** | **[Customer Support Intern](https://jobright.ai/jobs/info/6952d982f1f8465b79ea22d4?utm_campaign=1058&utm_source=git)** | Waltham, MA | Hybrid | Mar 29 |
@@ -106,7 +108,6 @@ For a complete list, click the following sortable link below:
 | **[Precisely](https://www.precisely.com)** | **[Sales Execution Support Intern](https://jobright.ai/jobs/info/69ab6b942747003c3d51098c?utm_campaign=1058&utm_source=git)** | United States | Remote | Mar 28 |
 | **[Auburn University](https://www.auburn.edu/)** | **[IT Service Desk Student Assistant](https://jobright.ai/jobs/info/69c4ecc433eecf3107956b9e?utm_campaign=1058&utm_source=git)** | Auburn, AL | On Site | Mar 28 |
 | **[Authentic Brands Group](https://authentic.com)** | **[IT Support Summer Intern](https://jobright.ai/jobs/info/69bd79174828227293ffb219?utm_campaign=1058&utm_source=git)** | New York, New York | On Site | Mar 28 |
-| **[Providence Health & Services](https://www.providence.org/)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/69c7f04583ea553769fe7821?utm_campaign=1058&utm_source=git)** | Olympia, WA | On Site | Mar 28 |
 | **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[Radiology Student Intern](https://jobright.ai/jobs/info/69c786f783ea553769fe46cc?utm_campaign=1058&utm_source=git)** | Fort Smith, AR | On Site | Mar 28 |
 | **[Nuvance Health](https://www.nuvancehealth.org)** | **[Intern Pharmacist](https://jobright.ai/jobs/info/69c782fe83ea553769fe4568?utm_campaign=1058&utm_source=git)** | Rhinebeck, NY | On Site | Mar 28 |
 | **[University Health KC](https://www.universityhealthkc.org)** | **[Radiology Technologist Intern - Imaging - UH Truman Medical Center (varied shifts per week)](https://jobright.ai/jobs/info/69c76a7f83ea553769fe309e?utm_campaign=1058&utm_source=git)** | University Health Truman Medical Center | On Site | Mar 27 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SpyCloud](https://spycloud.com)** | **[IT Support Internship/Co-Op (Summer/Fall 2026)](https://jobright.ai/jobs/info/69c7063ae565c26a70025206?utm_campaign=1058&utm_source=git)** | Austin, TX | Hybrid | Mar 27 |
 | **[McLaren Health Care](http://www.mclaren.org)** | **[Respiratory Intern](https://jobright.ai/jobs/info/69c7048c1b5ad0288738953d?utm_campaign=1058&utm_source=git)** | Port Huron, MI | On Site | Mar 27 |
 | **[Element Electronics](https://elementelectronics.com/)** | **[Information Technology (IT) Intern](https://jobright.ai/jobs/info/69c70129b773006330b750a3?utm_campaign=1058&utm_source=git)** | Edina,MN,US | On Site | Mar 27 |
-| **[Sanford Health](http://www.sanfordhealth.org)** | **[Radiology Intern](https://jobright.ai/jobs/info/69c700f01b5ad028873890c7?utm_campaign=1058&utm_source=git)** | Sioux Falls, SD | On Site | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
