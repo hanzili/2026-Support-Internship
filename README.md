@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Legends Global](http://legends.net)** | **[Intern, Hospitality/Operations](https://jobright.ai/jobs/info/69c85c8f1b5ad02887392fee?utm_campaign=1058&utm_source=git)** | Oceanport, NJ | On Site | Mar 28 |
+| **[Layup Parts](www.layupparts.com)** | **[Help Desk / IT Support Intern (Part-Time)](https://jobright.ai/jobs/info/69c8553c1818a24cd84d454a?utm_campaign=1058&utm_source=git)** | Huntington Beach, CA | On Site | Mar 28 |
+| **[Allegion](https://www.allegion.com)** | **[Summer Student Intern](https://jobright.ai/jobs/info/69c8551de565c26a7002ec90?utm_campaign=1058&utm_source=git)** | Mississauga, ON | On Site | Mar 28 |
 | **[HBK Capital Management](https://www.hbk.com/users/sign_in)** | **[Part Time End User Support Intern](https://jobright.ai/jobs/info/69c846f783ea553769fe9460?utm_campaign=1058&utm_source=git)** | Dallas, TX | On Site | Mar 28 |
 | **[Group One Trading](http://group1.com)** | **[Desktop Engineer Intern](https://jobright.ai/jobs/info/69c8405ae565c26a7002e4eb?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Mar 28 |
 | **[ASM Global](http://www.asmglobal.com)** | **[Intern, Hospitality/Operations](https://jobright.ai/jobs/info/69c8376d83ea553769fe8eae?utm_campaign=1058&utm_source=git)** | Oceanport, NJ | On Site | Mar 28 |
@@ -67,13 +70,13 @@ For a complete list, click the following sortable link below:
 | **[Canon Financial Services, Inc.](https://www.cfs.canon.com)** | **[2026 Canon Insights Summer Internship - Customer Service Support Intern](https://jobright.ai/jobs/info/69ab404a142d5b4265fc89d5?utm_campaign=1058&utm_source=git)** | Mount Laurel, NJ | Hybrid | Mar 28 |
 | **[Trinity Health](http://www.trinity-health.org)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/6971ddecb707bf728a4b66e9?utm_campaign=1058&utm_source=git)** | Des Moines, IA | On Site | Mar 28 |
 | **[Utah Valley University](http://www.uvu.edu/)** | **[Student Proctor and Testing Admin](https://jobright.ai/jobs/info/69c8121a1818a24cd84d3375?utm_campaign=1058&utm_source=git)** | Orem, UT | On Site | Mar 28 |
-| **[NYC Administration for Children's Services](http://www.nyc.gov/acs)** | **[Tech Support Intern](https://jobright.ai/jobs/info/69c82ee7e565c26a7002e23d?utm_campaign=1058&utm_source=git)** | Manhattan, NY | On Site | Mar 28 |
+| **[NYC Administration for Children's Services](http://www.nyc.gov/acs)** | **[Tech Support Intern](https://jobright.ai/jobs/info/69c82eb483ea553769fe8cc6?utm_campaign=1058&utm_source=git)** | Manhattan, NY | On Site | Mar 28 |
 | **[The Chefs'​ Warehouse](https://www.chefswarehouse.com)** | **[Warehouse Intern](https://jobright.ai/jobs/info/698e6b2b78b4502f12a53562?utm_campaign=1058&utm_source=git)** | Hanover, MD | Hybrid | Mar 28 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Echocardiography Intern](https://jobright.ai/jobs/info/697d61a03f57a335696743ae?utm_campaign=1058&utm_source=git)** | Murfreesboro, TN | On Site | Mar 28 |
 | ↳ | **[Clinical Intern Surgical Technologist](https://jobright.ai/jobs/info/698e9c2a0f6f7e7a2ceaba09?utm_campaign=1058&utm_source=git)** | Oshkosh, WI | On Site | Mar 28 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE - CRNA Internship](https://jobright.ai/jobs/info/69c7fb25b773006330b7d4ab?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Mar 28 |
-| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69c7f33583ea553769fe7bc9?utm_campaign=1058&utm_source=git)** | El Paso, TX | On Site | Mar 28 |
-| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69c7f33583ea553769fe7bd0?utm_campaign=1058&utm_source=git)** | Kissimmee, FL | On Site | Mar 28 |
+| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69c7f33583ea553769fe7bd0?utm_campaign=1058&utm_source=git)** | Kissimmee, FL | On Site | Mar 28 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69c7f33583ea553769fe7bc9?utm_campaign=1058&utm_source=git)** | El Paso, TX | On Site | Mar 28 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69c7f3191b5ad028873913e0?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Mar 28 |
 | **[University Health KC](https://www.universityhealthkc.org)** | **[Radiology Technologist Intern - Imaging - UH Truman Medical Center (varied shifts per week)](https://jobright.ai/jobs/info/69c7f305aa3c2c1995e1c5dc?utm_campaign=1058&utm_source=git)** | Kansas City, MO | On Site | Mar 28 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Echocardiography Tech Intern](https://jobright.ai/jobs/info/698e4fba78b4502f12a516b5?utm_campaign=1058&utm_source=git)** | Murfreesboro, TN | On Site | Mar 28 |
@@ -102,7 +105,6 @@ For a complete list, click the following sortable link below:
 | **[Nuvance Health](https://www.nuvancehealth.org)** | **[Intern Pharmacist](https://jobright.ai/jobs/info/69c782fe83ea553769fe4568?utm_campaign=1058&utm_source=git)** | Rhinebeck, NY | On Site | Mar 28 |
 | **[HCA Healthcare](https://hcahealthcare.com/)** | **[Chaplain Intern PRN](https://jobright.ai/jobs/info/69c76e4d1b5ad0288738ccd2?utm_campaign=1058&utm_source=git)** | San Antonio, TX | On Site | Mar 27 |
 | **[University Health KC](https://www.universityhealthkc.org)** | **[Radiology Technologist Intern - Imaging - UH Truman Medical Center (varied shifts per week)](https://jobright.ai/jobs/info/69c76a7f83ea553769fe309e?utm_campaign=1058&utm_source=git)** | University Health Truman Medical Center | On Site | Mar 27 |
-| **[County of Marin](http://www.marincounty.org)** | **[Student Intern - Undergraduate (Sheriff's Cadet)](https://jobright.ai/jobs/info/69c76828aa3c2c1995e17d2a?utm_campaign=1058&utm_source=git)** | San Rafael, CA | On Site | Mar 27 |
 | **[Mercury Insurance](http://www.mercuryinsurance.com)** | **[Technical Support Technician III](https://jobright.ai/jobs/info/69c7deedaa3c2c1995e1bd7f?utm_campaign=1058&utm_source=git)** | United States | Remote | Mar 27 |
 | **[Cleveland Clinic](http://my.clevelandclinic.org)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69c78dfc1818a24cd84cf9b3?utm_campaign=1058&utm_source=git)** | Cleveland, OH | On Site | Mar 27 |
 | **[InterWorks](http://www.interworks.com)** | **[IT Intern](https://jobright.ai/jobs/info/68596a3df7e1d7c7ec214cfc?utm_campaign=1058&utm_source=git)** | Stillwater, Oklahoma, United States | On Site | Mar 27 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Arvum Senior Living](https://www.arvumseniorliving.com/)** | **[Lead Med Tech/Caregiver](https://jobright.ai/jobs/info/69c6f8671b5ad02887388d6a?utm_campaign=1058&utm_source=git)** | Mount Pleasant, IA | On Site | Mar 27 |
 | **[Wounded Warrior Project](https://www.woundedwarriorproject.org)** | **[Intern - IT Service Desk](https://jobright.ai/jobs/info/69c6f6b91818a24cd84ca45d?utm_campaign=1058&utm_source=git)** | Jacksonville, FL | Hybrid | Mar 27 |
 | **[Harder Mechanical Contractors, Inc.](http://harder.com)** | **[Computer Science Intern-Summer 2026](https://jobright.ai/jobs/info/69c6f6b1e565c26a70024886?utm_campaign=1058&utm_source=git)** | Portland, OR | On Site | Mar 27 |
-| ↳ | **[Computer Science Intern-Summer 2026](https://jobright.ai/jobs/info/69c7f7c583ea553769fe7db1?utm_campaign=1058&utm_source=git)** | Portland, OR, US | On Site | Mar 27 |
-| **[DEX Imaging](https://www.deximaging.com)** | **[Customer Operations Intern](https://jobright.ai/jobs/info/69c6f3c81818a24cd84ca35e?utm_campaign=1058&utm_source=git)** | Tampa, Florida | On Site | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
