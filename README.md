@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Leviton](https://www.leviton.com)** | **[Intern, IT Infrastructure](https://jobright.ai/jobs/info/698fe5af6ea51a7610f24a5b?utm_campaign=1058&utm_source=git)** | Melville, NY | On Site | Mar 29 |
+| **[RÖDL USA](http://www.roedl.us)** | **[Praktikant (w/m/d)](https://jobright.ai/jobs/info/68c7b5f15c25e576f7b29d6d?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Mar 29 |
 | **[Charles Schwab](https://www.schwab.com/)** | **[Client Services Part-Time Internship](https://jobright.ai/jobs/info/69c948afb773006330b84e09?utm_campaign=1058&utm_source=git)** | Orlando, FL | On Site | Mar 29 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE - CRNA Internship](https://jobright.ai/jobs/info/69c94315e565c26a70034c83?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Mar 29 |
 | **[City of Pasco](http://www.pasco-wa.gov)** | **[Department Assistant Intern - Municipal Court](https://jobright.ai/jobs/info/69c94311b773006330b84d2c?utm_campaign=1058&utm_source=git)** | Pasco, WA | On Site | Mar 29 |
@@ -64,7 +66,6 @@ For a complete list, click the following sortable link below:
 | **[Atlantic Cape Community College](http://www.atlantic.edu/)** | **[(PT) IT Support Internship](https://jobright.ai/jobs/info/69c942f41b5ad02887398d0a?utm_campaign=1058&utm_source=git)** | Mays Landing, NJ | On Site | Mar 29 |
 | **[York County, South Carolina](https://www.yorkcountygov.com)** | **[IT Helpdesk Internship](https://jobright.ai/jobs/info/69c942ea1818a24cd84da6c4?utm_campaign=1058&utm_source=git)** | York, SC | On Site | Mar 29 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE - CRNA Internship](https://jobright.ai/jobs/info/69c942ea1818a24cd84da6d5?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Mar 29 |
-| **[Leviton](https://www.leviton.com)** | **[Intern, IT Infrastructure](https://jobright.ai/jobs/info/698fe5af6ea51a7610f24a5b?utm_campaign=1058&utm_source=git)** | Melville, NY | On Site | Mar 29 |
 | **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Intern I &amp;#8211; High School](https://jobright.ai/jobs/info/69c93b12aa3c2c1995e23b70?utm_campaign=1058&utm_source=git)** | Roseville, CA | On Site | Mar 29 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69c9368a1b5ad0288739886a?utm_campaign=1058&utm_source=git)** | Englewood, OH | On Site | Mar 29 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69c936761818a24cd84da1ce?utm_campaign=1058&utm_source=git)** | Kettering, OH | On Site | Mar 29 |
@@ -75,7 +76,6 @@ For a complete list, click the following sortable link below:
 | **[St. Elizabeth Healthcare](http://www.stelizabeth.com/)** | **[Intern Pharmacy Inpatient](https://jobright.ai/jobs/info/69c8facbb773006330b8331f?utm_campaign=1058&utm_source=git)** | Edgewood, KY | On Site | Mar 29 |
 | **[Vacancies at IOM Indonesia](https://indonesia.iom.int)** | **[ICT Internship (extended)](https://jobright.ai/jobs/info/69c8f0da83ea553769feda51?utm_campaign=1058&utm_source=git)** | Security, CO | On Site | Mar 29 |
 | **[Xometry](https://www.xometry.com)** | **[Customer Support Intern](https://jobright.ai/jobs/info/6952d982f1f8465b79ea22d4?utm_campaign=1058&utm_source=git)** | Waltham, MA | Hybrid | Mar 29 |
-| **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE - CRNA Internship](https://jobright.ai/jobs/info/69c8e2a3aa3c2c1995e2187d?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Mar 29 |
 | **[FirstOntario Credit Union](https://www.firstontario.com)** | **[Member Service Representative (Summer Student)](https://jobright.ai/jobs/info/69c8c360e565c26a70030f2c?utm_campaign=1058&utm_source=git)** | Hamilton, ON | On Site | Mar 28 |
 | **[Hy-Vee, Inc.](https://www.hy-vee.com)** | **[Retail Pharmacy Intern](https://jobright.ai/jobs/info/69c881b61b5ad02887393bdb?utm_campaign=1058&utm_source=git)** | Altoona, IA | On Site | Mar 28 |
 | **[Legends Global](http://legends.net)** | **[Intern, Hospitality/Operations](https://jobright.ai/jobs/info/69c85c8f1b5ad02887392fee?utm_campaign=1058&utm_source=git)** | Oceanport, NJ | On Site | Mar 28 |
@@ -91,7 +91,7 @@ For a complete list, click the following sortable link below:
 | **[Canon Financial Services, Inc.](https://www.cfs.canon.com)** | **[2026 Canon Insights Summer Internship - Customer Service Support Intern](https://jobright.ai/jobs/info/69ab404a142d5b4265fc89d5?utm_campaign=1058&utm_source=git)** | Mount Laurel, NJ | Hybrid | Mar 28 |
 | **[Trinity Health](http://www.trinity-health.org)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/6971ddecb707bf728a4b66e9?utm_campaign=1058&utm_source=git)** | Des Moines, IA | On Site | Mar 28 |
 | **[Utah Valley University](http://www.uvu.edu/)** | **[Student Proctor and Testing Admin](https://jobright.ai/jobs/info/69c8121a1818a24cd84d3375?utm_campaign=1058&utm_source=git)** | Orem, UT | On Site | Mar 28 |
-| **[NYC Administration for Children's Services](http://www.nyc.gov/acs)** | **[Tech Support Intern](https://jobright.ai/jobs/info/69c82ee7e565c26a7002e23d?utm_campaign=1058&utm_source=git)** | Manhattan, NY | On Site | Mar 28 |
+| **[NYC Administration for Children's Services](http://www.nyc.gov/acs)** | **[Tech Support Intern](https://jobright.ai/jobs/info/69c82eb483ea553769fe8cc6?utm_campaign=1058&utm_source=git)** | Manhattan, NY | On Site | Mar 28 |
 | **[The Chefs'​ Warehouse](https://www.chefswarehouse.com)** | **[Warehouse Intern](https://jobright.ai/jobs/info/698e6b2b78b4502f12a53562?utm_campaign=1058&utm_source=git)** | Hanover, MD | Hybrid | Mar 28 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Echocardiography Intern](https://jobright.ai/jobs/info/697d61a03f57a335696743ae?utm_campaign=1058&utm_source=git)** | Murfreesboro, TN | On Site | Mar 28 |
 | ↳ | **[Clinical Intern Surgical Technologist](https://jobright.ai/jobs/info/698e9c2a0f6f7e7a2ceaba09?utm_campaign=1058&utm_source=git)** | Oshkosh, WI | On Site | Mar 28 |
