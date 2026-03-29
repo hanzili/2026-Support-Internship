@@ -106,8 +106,8 @@ For a complete list, click the following sortable link below:
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69c949f91818a24cd84da80f?utm_campaign=1058&utm_source=git)** | Shrewsbury, MA | On Site | Mar 28 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69c949c383ea553769fef75b?utm_campaign=1058&utm_source=git)** | Sugar Hill, GA | On Site | Mar 28 |
 | **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse II  Med Surg Collierville](https://jobright.ai/jobs/info/697237b24ccbf64f8df225f9?utm_campaign=1058&utm_source=git)** | Collierville, TN | On Site | Mar 28 |
-| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69c7f33583ea553769fe7bd0?utm_campaign=1058&utm_source=git)** | Kissimmee, FL | On Site | Mar 28 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69c7f33583ea553769fe7bc9?utm_campaign=1058&utm_source=git)** | El Paso, TX | On Site | Mar 28 |
+| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69c7f33583ea553769fe7bc9?utm_campaign=1058&utm_source=git)** | El Paso, TX | On Site | Mar 28 |
+| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69c7f33583ea553769fe7bd0?utm_campaign=1058&utm_source=git)** | Kissimmee, FL | On Site | Mar 28 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69c7f3191b5ad028873913e0?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Mar 28 |
 | **[University Health KC](https://www.universityhealthkc.org)** | **[Radiology Technologist Intern - Imaging - UH Truman Medical Center (varied shifts per week)](https://jobright.ai/jobs/info/69c7f305aa3c2c1995e1c5dc?utm_campaign=1058&utm_source=git)** | Kansas City, MO | On Site | Mar 28 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Echocardiography Tech Intern](https://jobright.ai/jobs/info/698e4fba78b4502f12a516b5?utm_campaign=1058&utm_source=git)** | Murfreesboro, TN | On Site | Mar 28 |
