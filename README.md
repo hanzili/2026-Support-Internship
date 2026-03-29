@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hy-Vee, Inc.](https://www.hy-vee.com)** | **[Retail Pharmacy Intern](https://jobright.ai/jobs/info/69c881b61b5ad02887393bdb?utm_campaign=1058&utm_source=git)** | Altoona, IA | On Site | Mar 28 |
 | **[Legends Global](http://legends.net)** | **[Intern, Hospitality/Operations](https://jobright.ai/jobs/info/69c85c8f1b5ad02887392fee?utm_campaign=1058&utm_source=git)** | Oceanport, NJ | On Site | Mar 28 |
 | **[Layup Parts](www.layupparts.com)** | **[Help Desk / IT Support Intern (Part-Time)](https://jobright.ai/jobs/info/69c8553c1818a24cd84d454a?utm_campaign=1058&utm_source=git)** | Huntington Beach, CA | On Site | Mar 28 |
 | **[Allegion](https://www.allegion.com)** | **[Summer Student Intern](https://jobright.ai/jobs/info/69c8551de565c26a7002ec90?utm_campaign=1058&utm_source=git)** | Mississauga, ON | On Site | Mar 28 |
@@ -75,8 +76,8 @@ For a complete list, click the following sortable link below:
 | **[Ascension](https://healthcare.ascension.org)** | **[Echocardiography Intern](https://jobright.ai/jobs/info/697d61a03f57a335696743ae?utm_campaign=1058&utm_source=git)** | Murfreesboro, TN | On Site | Mar 28 |
 | ↳ | **[Clinical Intern Surgical Technologist](https://jobright.ai/jobs/info/698e9c2a0f6f7e7a2ceaba09?utm_campaign=1058&utm_source=git)** | Oshkosh, WI | On Site | Mar 28 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE - CRNA Internship](https://jobright.ai/jobs/info/69c7fb25b773006330b7d4ab?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Mar 28 |
-| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69c7f33583ea553769fe7bd0?utm_campaign=1058&utm_source=git)** | Kissimmee, FL | On Site | Mar 28 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69c7f33583ea553769fe7bc9?utm_campaign=1058&utm_source=git)** | El Paso, TX | On Site | Mar 28 |
+| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69c7f33583ea553769fe7bc9?utm_campaign=1058&utm_source=git)** | El Paso, TX | On Site | Mar 28 |
+| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69c7f33583ea553769fe7bd0?utm_campaign=1058&utm_source=git)** | Kissimmee, FL | On Site | Mar 28 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69c7f3191b5ad028873913e0?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Mar 28 |
 | **[University Health KC](https://www.universityhealthkc.org)** | **[Radiology Technologist Intern - Imaging - UH Truman Medical Center (varied shifts per week)](https://jobright.ai/jobs/info/69c7f305aa3c2c1995e1c5dc?utm_campaign=1058&utm_source=git)** | Kansas City, MO | On Site | Mar 28 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Echocardiography Tech Intern](https://jobright.ai/jobs/info/698e4fba78b4502f12a516b5?utm_campaign=1058&utm_source=git)** | Murfreesboro, TN | On Site | Mar 28 |
@@ -103,7 +104,6 @@ For a complete list, click the following sortable link below:
 | **[Providence Health & Services](https://www.providence.org/)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/69c7f04583ea553769fe7821?utm_campaign=1058&utm_source=git)** | Olympia, WA | On Site | Mar 28 |
 | **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[Radiology Student Intern](https://jobright.ai/jobs/info/69c786f783ea553769fe46cc?utm_campaign=1058&utm_source=git)** | Fort Smith, AR | On Site | Mar 28 |
 | **[Nuvance Health](https://www.nuvancehealth.org)** | **[Intern Pharmacist](https://jobright.ai/jobs/info/69c782fe83ea553769fe4568?utm_campaign=1058&utm_source=git)** | Rhinebeck, NY | On Site | Mar 28 |
-| **[HCA Healthcare](https://hcahealthcare.com/)** | **[Chaplain Intern PRN](https://jobright.ai/jobs/info/69c76e4d1b5ad0288738ccd2?utm_campaign=1058&utm_source=git)** | San Antonio, TX | On Site | Mar 27 |
 | **[University Health KC](https://www.universityhealthkc.org)** | **[Radiology Technologist Intern - Imaging - UH Truman Medical Center (varied shifts per week)](https://jobright.ai/jobs/info/69c76a7f83ea553769fe309e?utm_campaign=1058&utm_source=git)** | University Health Truman Medical Center | On Site | Mar 27 |
 | **[Mercury Insurance](http://www.mercuryinsurance.com)** | **[Technical Support Technician III](https://jobright.ai/jobs/info/69c7deedaa3c2c1995e1bd7f?utm_campaign=1058&utm_source=git)** | United States | Remote | Mar 27 |
 | **[Cleveland Clinic](http://my.clevelandclinic.org)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69c78dfc1818a24cd84cf9b3?utm_campaign=1058&utm_source=git)** | Cleveland, OH | On Site | Mar 27 |
