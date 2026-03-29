@@ -78,8 +78,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Clinical Intern Surgical Technologist](https://jobright.ai/jobs/info/698e9c2a0f6f7e7a2ceaba09?utm_campaign=1058&utm_source=git)** | Oshkosh, WI | On Site | Mar 28 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE - CRNA Internship](https://jobright.ai/jobs/info/69c7fb25b773006330b7d4ab?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Mar 28 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Radiology Student Intern](https://jobright.ai/jobs/info/69742b34bc8e722e7b192118?utm_campaign=1058&utm_source=git)** | Brookfield, WI | On Site | Mar 28 |
-| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69c7f33583ea553769fe7bc9?utm_campaign=1058&utm_source=git)** | El Paso, TX | On Site | Mar 28 |
-| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69c7f33583ea553769fe7bd0?utm_campaign=1058&utm_source=git)** | Kissimmee, FL | On Site | Mar 28 |
+| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69c7f33583ea553769fe7bd0?utm_campaign=1058&utm_source=git)** | Kissimmee, FL | On Site | Mar 28 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69c7f33583ea553769fe7bc9?utm_campaign=1058&utm_source=git)** | El Paso, TX | On Site | Mar 28 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69c7f3191b5ad028873913e0?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Mar 28 |
 | **[University Health KC](https://www.universityhealthkc.org)** | **[Radiology Technologist Intern - Imaging - UH Truman Medical Center (varied shifts per week)](https://jobright.ai/jobs/info/69c7f305aa3c2c1995e1c5dc?utm_campaign=1058&utm_source=git)** | Kansas City, MO | On Site | Mar 28 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Echocardiography Tech Intern](https://jobright.ai/jobs/info/698e4fba78b4502f12a516b5?utm_campaign=1058&utm_source=git)** | Murfreesboro, TN | On Site | Mar 28 |
