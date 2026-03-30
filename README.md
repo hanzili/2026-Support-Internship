@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Intern I &amp;#8211; High School](https://jobright.ai/jobs/info/69c9e64cb773006330b89194?utm_campaign=1058&utm_source=git)** | Modesto, CA | On Site | Mar 29 |
-| ↳ | **[Intern I &amp;#8211; High School](https://jobright.ai/jobs/info/69c9e64cb773006330b89193?utm_campaign=1058&utm_source=git)** | San Leandro, CA | On Site | Mar 29 |
+| **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Intern I &amp;#8211; High School](https://jobright.ai/jobs/info/69c9e64cb773006330b89193?utm_campaign=1058&utm_source=git)** | San Leandro, CA | On Site | Mar 29 |
+| ↳ | **[Intern I &amp;#8211; High School](https://jobright.ai/jobs/info/69c9e64cb773006330b89194?utm_campaign=1058&utm_source=git)** | Modesto, CA | On Site | Mar 29 |
 | ↳ | **[Intern I &amp;#8211; High School](https://jobright.ai/jobs/info/69c9e63f1b5ad0288739d0ed?utm_campaign=1058&utm_source=git)** | Sacramento, CA | On Site | Mar 29 |
 | ↳ | **[Intern I &amp;#8211; High School](https://jobright.ai/jobs/info/69c9e63a1b5ad0288739d0e8?utm_campaign=1058&utm_source=git)** | South San Francisco, CA | On Site | Mar 29 |
 | ↳ | **[Intern I &amp;#8211; High School](https://jobright.ai/jobs/info/69c9e62aaa3c2c1995e28301?utm_campaign=1058&utm_source=git)** | Pleasanton, CA | On Site | Mar 29 |
@@ -70,12 +70,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern I &amp;#8211; High School](https://jobright.ai/jobs/info/69c9d6211818a24cd84de817?utm_campaign=1058&utm_source=git)** | San Jose, CA | On Site | Mar 29 |
 | ↳ | **[Intern I &amp;#8211; High School](https://jobright.ai/jobs/info/69c9d6211818a24cd84de815?utm_campaign=1058&utm_source=git)** | Fresno, CA | On Site | Mar 29 |
 | ↳ | **[Intern I &amp;#8211; High School](https://jobright.ai/jobs/info/69c9d6201818a24cd84de813?utm_campaign=1058&utm_source=git)** | Fremont, CA | On Site | Mar 29 |
-| ↳ | **[Intern I &amp;#8211; High School](https://jobright.ai/jobs/info/69c9d6201818a24cd84de807?utm_campaign=1058&utm_source=git)** | Tracy, CA | On Site | Mar 29 |
 | ↳ | **[Intern I &amp;#8211; High School](https://jobright.ai/jobs/info/69c9d6201818a24cd84de809?utm_campaign=1058&utm_source=git)** | Walnut Creek, CA | On Site | Mar 29 |
+| ↳ | **[Intern I &amp;#8211; High School](https://jobright.ai/jobs/info/69c9d6201818a24cd84de807?utm_campaign=1058&utm_source=git)** | Tracy, CA | On Site | Mar 29 |
+| ↳ | **[Intern I &amp;#8211; High School](https://jobright.ai/jobs/info/69c9d467aa3c2c1995e27f8f?utm_campaign=1058&utm_source=git)** | Stockton, CA | On Site | Mar 29 |
 | ↳ | **[Intern I &amp;#8211; High School](https://jobright.ai/jobs/info/69c9d467aa3c2c1995e27f91?utm_campaign=1058&utm_source=git)** | Vacaville, CA | On Site | Mar 29 |
-| ↳ | **[Intern I &amp;#8211; High School](https://jobright.ai/jobs/info/69c9d467aa3c2c1995e27f90?utm_campaign=1058&utm_source=git)** | Stockton, CA | On Site | Mar 29 |
 | ↳ | **[Intern I &amp;#8211; High School](https://jobright.ai/jobs/info/69c9d45cb773006330b88f5a?utm_campaign=1058&utm_source=git)** | Redwood City, CA | On Site | Mar 29 |
-| ↳ | **[Intern I &amp;#8211; High School](https://jobright.ai/jobs/info/69c9d45cb773006330b88f56?utm_campaign=1058&utm_source=git)** | Santa Clara, CA | On Site | Mar 29 |
+| ↳ | **[Intern I &amp;#8211; High School](https://jobright.ai/jobs/info/69c9d45cb773006330b88f58?utm_campaign=1058&utm_source=git)** | Santa Clara, CA | On Site | Mar 29 |
 | ↳ | **[Intern I &amp;#8211; High School](https://jobright.ai/jobs/info/69c9d40c1b5ad0288739cdae?utm_campaign=1058&utm_source=git)** | San Francisco, CA | On Site | Mar 29 |
 | ↳ | **[Intern I &amp;#8211; High School](https://jobright.ai/jobs/info/69c9d40b1b5ad0288739cdad?utm_campaign=1058&utm_source=git)** | Manteca, CA | On Site | Mar 29 |
 | ↳ | **[Intern I &amp;#8211; High School](https://jobright.ai/jobs/info/69c9d18383ea553769ff372d?utm_campaign=1058&utm_source=git)** | San Rafael, CA | On Site | Mar 29 |
@@ -107,6 +107,7 @@ For a complete list, click the following sortable link below:
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69c9368a1b5ad0288739886a?utm_campaign=1058&utm_source=git)** | Englewood, OH | On Site | Mar 29 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69c936761818a24cd84da1ce?utm_campaign=1058&utm_source=git)** | Kettering, OH | On Site | Mar 29 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69c935a3aa3c2c1995e23b20?utm_campaign=1058&utm_source=git)** | Dayton, OH | On Site | Mar 29 |
+| **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse II- Med/Surg 9T](https://jobright.ai/jobs/info/6990286a0f6f7e7a2cec925d?utm_campaign=1058&utm_source=git)** | Southaven, MS | On Site | Mar 29 |
 | **[Rogers Electric](https://www.rogerselectric.com)** | **[IT Intern](https://jobright.ai/jobs/info/68cba2669e3a822f5d249752?utm_campaign=1058&utm_source=git)** | Alpharetta, GA | On Site | Mar 29 |
 | **[KLA](https://www.kla.com)** | **[Service Support Intern](https://jobright.ai/jobs/info/69340b5af131d96e484691ea?utm_campaign=1058&utm_source=git)** | Phoenix, AZ | On Site | Mar 29 |
 | **[Saint Francis Healthcare Memphis-Bartlett](https://www.saintfrancishosp.com)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/6973ef05bc8e722e7b18d4ba?utm_campaign=1058&utm_source=git)** | Bartlett, TN | On Site | Mar 29 |
@@ -128,7 +129,7 @@ For a complete list, click the following sortable link below:
 | **[Canon Financial Services, Inc.](https://www.cfs.canon.com)** | **[2026 Canon Insights Summer Internship - Customer Service Support Intern](https://jobright.ai/jobs/info/69ab404a142d5b4265fc89d5?utm_campaign=1058&utm_source=git)** | Mount Laurel, NJ | Hybrid | Mar 28 |
 | **[Trinity Health](http://www.trinity-health.org)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/6971ddecb707bf728a4b66e9?utm_campaign=1058&utm_source=git)** | Des Moines, IA | On Site | Mar 28 |
 | **[Utah Valley University](http://www.uvu.edu/)** | **[Student Proctor and Testing Admin](https://jobright.ai/jobs/info/69c8121a1818a24cd84d3375?utm_campaign=1058&utm_source=git)** | Orem, UT | On Site | Mar 28 |
-| **[NYC Administration for Children's Services](http://www.nyc.gov/acs)** | **[Tech Support Intern](https://jobright.ai/jobs/info/69c82eb483ea553769fe8cc6?utm_campaign=1058&utm_source=git)** | Manhattan, NY | On Site | Mar 28 |
+| **[NYC Administration for Children's Services](http://www.nyc.gov/acs)** | **[Tech Support Intern](https://jobright.ai/jobs/info/69c82ee7e565c26a7002e23d?utm_campaign=1058&utm_source=git)** | Manhattan, NY | On Site | Mar 28 |
 | **[The Chefs'​ Warehouse](https://www.chefswarehouse.com)** | **[Warehouse Intern](https://jobright.ai/jobs/info/698e6b2b78b4502f12a53562?utm_campaign=1058&utm_source=git)** | Hanover, MD | Hybrid | Mar 28 |
 | **[City of Toronto](http://www.toronto.ca)** | **[APPLICATION & TECHNICAL SUPPORT SPECIALIST 2](https://jobright.ai/jobs/info/69c4f3aed5a1016e98dc6213?utm_campaign=1058&utm_source=git)** | Toronto, ON | On Site | Mar 28 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Echocardiography Intern](https://jobright.ai/jobs/info/697d61a03f57a335696743ae?utm_campaign=1058&utm_source=git)** | Murfreesboro, TN | On Site | Mar 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Arvum Senior Living](https://www.arvumseniorliving.com/)** | **[PT Medication Technician (6-2)](https://jobright.ai/jobs/info/69c7adcc1818a24cd84d083b?utm_campaign=1058&utm_source=git)** | Carroll, IA | On Site | Mar 28 |
 | ↳ | **[PRN Care Manager / Med Tech (6a-2p)](https://jobright.ai/jobs/info/69c7ada683ea553769fe593a?utm_campaign=1058&utm_source=git)** | Carroll, IA | On Site | Mar 28 |
 | **[e3 Diagnostics](https://www.e3diagnostics.com)** | **[Distribution Center Associate](https://jobright.ai/jobs/info/69c7ad971818a24cd84d081c?utm_campaign=1058&utm_source=git)** | Arlington Heights, IL | On Site | Mar 28 |
-| **[Precisely](https://www.precisely.com)** | **[Sales Execution Support Intern](https://jobright.ai/jobs/info/69ab6b942747003c3d51098c?utm_campaign=1058&utm_source=git)** | United States | Remote | Mar 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
