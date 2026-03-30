@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[United States Senate Sergeant at Arms](https://www.senate.gov/about/officers-staff/sergeant-at-arms.htm)** | **[IT Procurement and Contracting Specialist #747](https://jobright.ai/jobs/info/69cad515a8c1822476e20964?utm_campaign=1058&utm_source=git)** | Washington, DC | Remote | Mar 30 |
+| **[Texas Department of Transportation](https://www.txdot.gov)** | **[Intern Support Technician - Occupational Safety Division - Austin, TX](https://jobright.ai/jobs/info/69cad3b0e565c26a700412fc?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | Mar 30 |
+| **[La Jolla LASIK Institute](http://lajollalasik.com)** | **[Medical Office Full Time Paid Intern / Medical Scribe Intern to hire](https://jobright.ai/jobs/info/69cad24b466f1e133aac776c?utm_campaign=1058&utm_source=git)** | La Jolla, California, United States | On Site | Mar 30 |
+| **[Shelter Insurance Companies](https://www.shelterinsurance.com/)** | **[Cultivate Intern - Information Services (Platform Team)](https://jobright.ai/jobs/info/69cad0aba8c1822476e207de?utm_campaign=1058&utm_source=git)** | Greater Columbia, Missouri Area | On Site | Mar 30 |
+| **[AllianceHealth Durant • Madill](https://www.alliancehealthdurant.com/)** | **[Nurse Intern](https://jobright.ai/jobs/info/69cacef5aa3c2c1995e30687?utm_campaign=1058&utm_source=git)** | Durant, OK | On Site | Mar 30 |
 | **[Henry Ford Health](http://www.henryford.com/)** | **[Pharmacy Intern - Contingent - Henry Ford Hospital Inpatient Pharmacy](https://jobright.ai/jobs/info/69cacb93a8c1822476e205ea?utm_campaign=1058&utm_source=git)** | Detroit, Michigan | On Site | Mar 30 |
 | **[Progress Rail, A Caterpillar Company](http://www.progressrail.com/)** | **[Salesforce Intern](https://jobright.ai/jobs/info/69cacb83a8c1822476e20584?utm_campaign=1058&utm_source=git)** | Leased Office - Southlake, TX - 477 | On Site | Mar 30 |
 | ↳ | **[Salesforce Intern](https://jobright.ai/jobs/info/69cacb031b5ad028873a5196?utm_campaign=1058&utm_source=git)** | Southlake | On Site | Mar 30 |
@@ -137,15 +142,14 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern I &amp;#8211; High School](https://jobright.ai/jobs/info/69c9d6ffb773006330b88ff6?utm_campaign=1058&utm_source=git)** | Antioch, CA | On Site | Mar 29 |
 | ↳ | **[Intern I &amp;#8211; High School](https://jobright.ai/jobs/info/69c9d6b783ea553769ff3912?utm_campaign=1058&utm_source=git)** | Roseville, CA | On Site | Mar 29 |
 | ↳ | **[Intern I &amp;#8211; High School](https://jobright.ai/jobs/info/69c9d6211818a24cd84de814?utm_campaign=1058&utm_source=git)** | Oakland, CA | On Site | Mar 29 |
-| ↳ | **[Intern I &amp;#8211; High School](https://jobright.ai/jobs/info/69c9d6211818a24cd84de815?utm_campaign=1058&utm_source=git)** | Fresno, CA | On Site | Mar 29 |
 | ↳ | **[Intern I &amp;#8211; High School](https://jobright.ai/jobs/info/69c9d6211818a24cd84de817?utm_campaign=1058&utm_source=git)** | San Jose, CA | On Site | Mar 29 |
-| ↳ | **[Intern I &amp;#8211; High School](https://jobright.ai/jobs/info/69c9d6201818a24cd84de807?utm_campaign=1058&utm_source=git)** | Tracy, CA | On Site | Mar 29 |
+| ↳ | **[Intern I &amp;#8211; High School](https://jobright.ai/jobs/info/69c9d6211818a24cd84de815?utm_campaign=1058&utm_source=git)** | Fresno, CA | On Site | Mar 29 |
 | ↳ | **[Intern I &amp;#8211; High School](https://jobright.ai/jobs/info/69c9d6201818a24cd84de809?utm_campaign=1058&utm_source=git)** | Walnut Creek, CA | On Site | Mar 29 |
-| ↳ | **[Intern I &amp;#8211; High School](https://jobright.ai/jobs/info/69c9d467aa3c2c1995e27f90?utm_campaign=1058&utm_source=git)** | Stockton, CA | On Site | Mar 29 |
-| ↳ | **[Intern I &amp;#8211; High School](https://jobright.ai/jobs/info/69c9d45cb773006330b88f5a?utm_campaign=1058&utm_source=git)** | Redwood City, CA | On Site | Mar 29 |
-| ↳ | **[Intern I &amp;#8211; High School](https://jobright.ai/jobs/info/69c9d45cb773006330b88f5b?utm_campaign=1058&utm_source=git)** | Fremont, CA | On Site | Mar 29 |
-| ↳ | **[Intern I &amp;#8211; High School](https://jobright.ai/jobs/info/69c9d45cb773006330b88f55?utm_campaign=1058&utm_source=git)** | Vacaville, CA | On Site | Mar 29 |
+| ↳ | **[Intern I &amp;#8211; High School](https://jobright.ai/jobs/info/69c9d467aa3c2c1995e27f8f?utm_campaign=1058&utm_source=git)** | Stockton, CA | On Site | Mar 29 |
 | ↳ | **[Intern I &amp;#8211; High School](https://jobright.ai/jobs/info/69c9d45cb773006330b88f58?utm_campaign=1058&utm_source=git)** | Santa Clara, CA | On Site | Mar 29 |
+| ↳ | **[Intern I &amp;#8211; High School](https://jobright.ai/jobs/info/69c9d45cb773006330b88f59?utm_campaign=1058&utm_source=git)** | Redwood City, CA | On Site | Mar 29 |
+| ↳ | **[Intern I &amp;#8211; High School](https://jobright.ai/jobs/info/69c9d45cb773006330b88f55?utm_campaign=1058&utm_source=git)** | Vacaville, CA | On Site | Mar 29 |
+| ↳ | **[Intern I &amp;#8211; High School](https://jobright.ai/jobs/info/69c9d45cb773006330b88f5b?utm_campaign=1058&utm_source=git)** | Fremont, CA | On Site | Mar 29 |
 | ↳ | **[Intern I &amp;#8211; High School](https://jobright.ai/jobs/info/69c9d40b1b5ad0288739cda9?utm_campaign=1058&utm_source=git)** | San Francisco, CA | On Site | Mar 29 |
 | ↳ | **[Intern I &amp;#8211; High School](https://jobright.ai/jobs/info/69c9d19caa3c2c1995e27f71?utm_campaign=1058&utm_source=git)** | San Leandro, CA | On Site | Mar 29 |
 | ↳ | **[Intern I &amp;#8211; High School](https://jobright.ai/jobs/info/69c9d18383ea553769ff372d?utm_campaign=1058&utm_source=git)** | San Rafael, CA | On Site | Mar 29 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern I &amp;#8211; High School](https://jobright.ai/jobs/info/69ca6e70466f1e133aac3a47?utm_campaign=1058&utm_source=git)** | Santa Rosa, CA | On Site | Mar 29 |
 | ↳ | **[Intern I &amp;#8211; High School](https://jobright.ai/jobs/info/69ca6e5ba8c1822476e1cb10?utm_campaign=1058&utm_source=git)** | Martinez, CA | On Site | Mar 29 |
 | ↳ | **[Intern I &amp;#8211; High School](https://jobright.ai/jobs/info/69ca6e82466f1e133aac3a56?utm_campaign=1058&utm_source=git)** | Dublin, CA | On Site | Mar 29 |
-| **[KIPP New Jersey](http://www.kippnj.org)** | **[Technology Intern (Temporary, Full-Time)](https://jobright.ai/jobs/info/69b04177dfaeda6ff599cd06?utm_campaign=1058&utm_source=git)** | Newark, NJ | On Site | Mar 29 |
-| **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Clinical Pharmacy Intern, Rising P2, Atlanta](https://jobright.ai/jobs/info/69c9ccd51b5ad0288739ca5a?utm_campaign=1058&utm_source=git)** | Atlanta, GA | On Site | Mar 29 |
-| **[Meijer](https://www.meijer.com/)** | **[Pharmacy Intern Part Time](https://jobright.ai/jobs/info/69c9cb12b773006330b88905?utm_campaign=1058&utm_source=git)** | Fort Wayne, IN | On Site | Mar 29 |
-| **[Keck Medicine of USC](https://www.keckmedicine.org)** | **[Pharmacist Intern - Pharmacy - Per Diem 8 Hour Rotating Day Shift (Non-Exempt) (Non-Union)](https://jobright.ai/jobs/info/69c5e445aa9a29199e80b7a3?utm_campaign=1058&utm_source=git)** | Los Angeles, CA | On Site | Mar 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
