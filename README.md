@@ -71,13 +71,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern I &amp;#8211; High School](https://jobright.ai/jobs/info/69c9d6221818a24cd84de819?utm_campaign=1058&utm_source=git)** | Oakland, CA | On Site | Mar 29 |
 | ↳ | **[Intern I &amp;#8211; High School](https://jobright.ai/jobs/info/69c9d6211818a24cd84de815?utm_campaign=1058&utm_source=git)** | Fresno, CA | On Site | Mar 29 |
 | ↳ | **[Intern I &amp;#8211; High School](https://jobright.ai/jobs/info/69c9d6211818a24cd84de817?utm_campaign=1058&utm_source=git)** | San Jose, CA | On Site | Mar 29 |
-| ↳ | **[Intern I &amp;#8211; High School](https://jobright.ai/jobs/info/69c9d6201818a24cd84de813?utm_campaign=1058&utm_source=git)** | Fremont, CA | On Site | Mar 29 |
-| ↳ | **[Intern I &amp;#8211; High School](https://jobright.ai/jobs/info/69c9d6201818a24cd84de807?utm_campaign=1058&utm_source=git)** | Tracy, CA | On Site | Mar 29 |
 | ↳ | **[Intern I &amp;#8211; High School](https://jobright.ai/jobs/info/69c9d6201818a24cd84de809?utm_campaign=1058&utm_source=git)** | Walnut Creek, CA | On Site | Mar 29 |
+| ↳ | **[Intern I &amp;#8211; High School](https://jobright.ai/jobs/info/69c9d6201818a24cd84de807?utm_campaign=1058&utm_source=git)** | Tracy, CA | On Site | Mar 29 |
+| ↳ | **[Intern I &amp;#8211; High School](https://jobright.ai/jobs/info/69c9d6201818a24cd84de813?utm_campaign=1058&utm_source=git)** | Fremont, CA | On Site | Mar 29 |
 | ↳ | **[Intern I &amp;#8211; High School](https://jobright.ai/jobs/info/69c9d467aa3c2c1995e27f90?utm_campaign=1058&utm_source=git)** | Stockton, CA | On Site | Mar 29 |
 | ↳ | **[Intern I &amp;#8211; High School](https://jobright.ai/jobs/info/69c9d467aa3c2c1995e27f91?utm_campaign=1058&utm_source=git)** | Vacaville, CA | On Site | Mar 29 |
-| ↳ | **[Intern I &amp;#8211; High School](https://jobright.ai/jobs/info/69c9d45cb773006330b88f59?utm_campaign=1058&utm_source=git)** | Redwood City, CA | On Site | Mar 29 |
-| ↳ | **[Intern I &amp;#8211; High School](https://jobright.ai/jobs/info/69c9d45cb773006330b88f58?utm_campaign=1058&utm_source=git)** | Santa Clara, CA | On Site | Mar 29 |
+| ↳ | **[Intern I &amp;#8211; High School](https://jobright.ai/jobs/info/69c9d45cb773006330b88f5a?utm_campaign=1058&utm_source=git)** | Redwood City, CA | On Site | Mar 29 |
+| ↳ | **[Intern I &amp;#8211; High School](https://jobright.ai/jobs/info/69c9d45cb773006330b88f56?utm_campaign=1058&utm_source=git)** | Santa Clara, CA | On Site | Mar 29 |
 | ↳ | **[Intern I &amp;#8211; High School](https://jobright.ai/jobs/info/69c9d40c1b5ad0288739cdae?utm_campaign=1058&utm_source=git)** | San Francisco, CA | On Site | Mar 29 |
 | ↳ | **[Intern I &amp;#8211; High School](https://jobright.ai/jobs/info/69c9d40b1b5ad0288739cdad?utm_campaign=1058&utm_source=git)** | Manteca, CA | On Site | Mar 29 |
 | ↳ | **[Intern I &amp;#8211; High School](https://jobright.ai/jobs/info/69c9d18383ea553769ff372d?utm_campaign=1058&utm_source=git)** | San Rafael, CA | On Site | Mar 29 |
