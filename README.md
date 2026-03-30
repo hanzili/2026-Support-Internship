@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Keck Medicine of USC](https://www.keckmedicine.org)** | **[Pharmacist Intern - Pharmacy - Per Diem 8 Hour Rotating Day Shift (Non-Exempt) (Non-Union)](https://jobright.ai/jobs/info/69c5e445aa9a29199e80b7a3?utm_campaign=1058&utm_source=git)** | Los Angeles, CA | On Site | Mar 29 |
+| **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[Advanced Radiology Intern - PRN](https://jobright.ai/jobs/info/69c9b885e565c26a700383e8?utm_campaign=1058&utm_source=git)** | Mercy Hospital Springfield | On Site | Mar 29 |
 | **[FCX Performance](http://fcxperformance.com)** | **[Intern](https://jobright.ai/jobs/info/69c97e661818a24cd84db3e6?utm_campaign=1058&utm_source=git)** | Fort Worth, TX | On Site | Mar 29 |
 | **[RRD](http://www.rrd.com)** | **[Enterprise Technology Solutions Summer Intern](https://jobright.ai/jobs/info/69c97d9c1b5ad0288739997b?utm_campaign=1058&utm_source=git)** | Livonia, MI | Hybrid | Mar 29 |
 | **[Xometry](https://www.xometry.com)** | **[Customer Support Intern](https://jobright.ai/jobs/info/695ab318aa05c26e7ab4364b?utm_campaign=1058&utm_source=git)** | North Bethesda, MD | Hybrid | Mar 29 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ascension](https://healthcare.ascension.org)** | **[Imaging Intern](https://jobright.ai/jobs/info/69c71de8b773006330b7632d?utm_campaign=1058&utm_source=git)** | Tulsa, OK | On Site | Mar 27 |
 | **[Brunswick Corporation](http://www.brunswick.com)** | **[Lowrance Technical Support Intern](https://jobright.ai/jobs/info/69c71c9e1b5ad0288738a502?utm_campaign=1058&utm_source=git)** | Tulsa, OK | Hybrid | Mar 27 |
 | **[Southside Bank](http://southside.com)** | **[Teller I Intern (College)](https://jobright.ai/jobs/info/69c71b1ee565c26a70025e43?utm_campaign=1058&utm_source=git)** | Lufkin, TX, US | On Site | Mar 27 |
-| ↳ | **[Teller I Intern (College)](https://jobright.ai/jobs/info/69c71a6083ea553769fe097e?utm_campaign=1058&utm_source=git)** | Nacogdoches, TX, US | On Site | Mar 27 |
-| ↳ | **[Teller I Intern (College)](https://jobright.ai/jobs/info/69c71a5faa3c2c1995e15469?utm_campaign=1058&utm_source=git)** | Austin, TX, US | On Site | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
