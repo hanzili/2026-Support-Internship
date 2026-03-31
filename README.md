@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[SAIC](http://www.saic.com)** | **[IT Intern](https://jobright.ai/jobs/info/69cb62c0aa3c2c1995e36899?utm_campaign=1058&utm_source=git)** | Huntsville, AL | On Site | Mar 30 |
+| **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE - CRNA Internship](https://jobright.ai/jobs/info/69cb8c17a8c1822476e2831d?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Mar 31 |
+| ↳ | **[REGISTERED NURSE - CRNA Internship](https://jobright.ai/jobs/info/69cb8b79aa3c2c1995e38418?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Mar 31 |
+| **[Tandem Diabetes Care](http://www.tandemdiabetes.com)** | **[IT Technician Intern](https://jobright.ai/jobs/info/69cb7cf6e565c26a7004893b?utm_campaign=1058&utm_source=git)** | Redding-Red Bluff Area | On Site | Mar 31 |
+| ↳ | **[IT Technician Intern](https://jobright.ai/jobs/info/69cb7c10466f1e133aacec82?utm_campaign=1058&utm_source=git)** | California - High Bluff | On Site | Mar 31 |
+| **[Stanford Health Care Tri-Valley](https://valleycare.com)** | **[Chaplain Intern](https://jobright.ai/jobs/info/69cb7b88e565c26a7004864b?utm_campaign=1058&utm_source=git)** | 300P Hospital - G/H Patient East Pavilion - PALO ALTO | On Site | Mar 31 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69cb5aaae565c26a70046fb0?utm_campaign=1058&utm_source=git)** | Laredo, TX | On Site | Mar 30 |
 | **[BillionToOne](https://www.billiontoone.com)** | **[Client Services Intern (Prenatal)](https://jobright.ai/jobs/info/69cb5a5daa3c2c1995e364c9?utm_campaign=1058&utm_source=git)** | Union City, CA | On Site | Mar 30 |
 | **[IQVIA](https://www.iqvia.com)** | **[Pharmacy Graduate Intern](https://jobright.ai/jobs/info/69cb59ac1b5ad028873aaed5?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Mar 30 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[IT Intern, Connecticut](https://jobright.ai/jobs/info/69cac461aa3c2c1995e2fe38?utm_campaign=1058&utm_source=git)** | Connecticut | On Site | Mar 30 |
 | **[Annex Wealth Management](https://annexwealth.com/)** | **[IT Internship - Summer 2026](https://jobright.ai/jobs/info/69cac31de565c26a700407ed?utm_campaign=1058&utm_source=git)** | Brookfield, WI | On Site | Mar 30 |
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Summer Surgical Tech Intern - ST](https://jobright.ai/jobs/info/69cac293a8c1822476e1fe6b?utm_campaign=1058&utm_source=git)** | Mankato, MN | On Site | Mar 30 |
-| **[Price Industries](https://www.priceindustries.com)** | **[IT Client Experience Coordinator Summer Student](https://jobright.ai/jobs/info/69cac270a8c1822476e1fe49?utm_campaign=1058&utm_source=git)** | Winnipeg, MB | On Site | Mar 30 |
-| **[Bon Secours](https://www.bonsecours.com/)** | **[Pharmacy Intern PRN – St. Mary's Hospital](https://jobright.ai/jobs/info/69cabe6ee565c26a700406d7?utm_campaign=1058&utm_source=git)** | Richmond, VA | On Site | Mar 30 |
-| **[Black & McDonald Limited](http://www.blackandmcdonald.com)** | **[Intern - ServiceDesk](https://jobright.ai/jobs/info/69cabe2d1b5ad028873a495c?utm_campaign=1058&utm_source=git)** | Markham, ON | On Site | Mar 30 |
-| **[Vanderbilt University Medical Center](https://www.vumc.org/main/home)** | **[Pharmacy Intern - Transplant Pharmacy](https://jobright.ai/jobs/info/69cabd798fc6090c5d450b6c?utm_campaign=1058&utm_source=git)** | Nashville, TN | Hybrid | Mar 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
