@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CHRISTUS Health](http://www.christushealth.org)** | **[Nurse Extern I-Nursing Internship-PRN](https://jobright.ai/jobs/info/69cb4c25aa3c2c1995e35c61?utm_campaign=1058&utm_source=git)** | Shreveport, LA | On Site | Mar 30 |
+| ↳ | **[Nurse Extern I - Nursing Internship - PRN](https://jobright.ai/jobs/info/69cb4c148fc6090c5d456904?utm_campaign=1058&utm_source=git)** | Shreveport, LA | On Site | Mar 30 |
 | **[UPMC](https://www.upmc.com/)** | **[Audiologist Intern-Hanover](https://jobright.ai/jobs/info/69cb33a0e565c26a7004594c?utm_campaign=1058&utm_source=git)** | Hanover, PA | On Site | Mar 30 |
 | **[Pursuit Aerospace](https://pursuitaero.com)** | **[Intern - Information Technology](https://jobright.ai/jobs/info/69cb30208fc6090c5d455934?utm_campaign=1058&utm_source=git)** | Thomasville, GA | On Site | Mar 30 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Nurse Intern Respiratory Stroke](https://jobright.ai/jobs/info/69cb2e6da8c1822476e24a86?utm_campaign=1058&utm_source=git)** | Wichita, KS | On Site | Mar 30 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Consumer Technology Association](http://www.CTA.tech)** | **[IT Help Desk Intern](https://jobright.ai/jobs/info/69cab7f48fc6090c5d450558?utm_campaign=1058&utm_source=git)** | Virginia, Arlington, VA, US | Hybrid | Mar 30 |
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Pharmacy Intern - Medication History - Limited Tenure, Supplemental](https://jobright.ai/jobs/info/69cab7e7aa3c2c1995e2f5eb?utm_campaign=1058&utm_source=git)** | Rochester, MN, United States | Hybrid | Mar 30 |
 | **[Consumer Technology Association](http://www.CTA.tech)** | **[CES Operations and Customer Support Intern](https://jobright.ai/jobs/info/69cab7e6aa3c2c1995e2f5e4?utm_campaign=1058&utm_source=git)** | Virginia, Arlington, VA, US | Hybrid | Mar 30 |
-| **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Summer 2026 - College Intern - Galloway, NJ (Safety & Security)](https://jobright.ai/jobs/info/69cab7c48fc6090c5d45047a?utm_campaign=1058&utm_source=git)** | Marriott's Fairway Villas | On Site | Mar 30 |
-| **[Ascension](https://healthcare.ascension.org)** | **[Student Intern Registered Nurse RN Critical Care](https://jobright.ai/jobs/info/69cab77f466f1e133aac6413?utm_campaign=1058&utm_source=git)** | US-IL-Elk Grove Village | On Site | Mar 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
