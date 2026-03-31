@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Aflac](http://www.aflac.com)** | **[Operations Support Coordinator (PLADS)](https://jobright.ai/jobs/info/69cb2948a8c1822476e2493a?utm_campaign=1058&utm_source=git)** | Columbus, GA | Remote | Mar 30 |
 | **[Providence Health & Services](https://www.providence.org/)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/69cab4b38fc6090c5d45033c?utm_campaign=1058&utm_source=git)** | Olympia, WA | On Site | Mar 30 |
 | **[Prisma Health](https://www.prismahealth.org)** | **[Pharmacy Intern, Medication Reconciliation, PRN, Variable](https://jobright.ai/jobs/info/69cb19f8466f1e133aacad03?utm_campaign=1058&utm_source=git)** | Columbia, SC | On Site | Mar 30 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69cb1967a8c1822476e23e15?utm_campaign=1058&utm_source=git)** | St Louis, MO | On Site | Mar 30 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Black Diamond Equipment Rental, LLC](https://www.bd-er.com/)** | **[Intern](https://jobright.ai/jobs/info/69caabd9e565c26a7003f5fc?utm_campaign=1058&utm_source=git)** | Uniontown, PA, US | On Site | Mar 30 |
 | **[Mayo Clinic Healthcare London](https://mayoclinichealthcare.co.uk)** | **[Pharmacy Intern - Medication History - Limited Tenure, Supplemental](https://jobright.ai/jobs/info/69caabcb8fc6090c5d44fb8e?utm_campaign=1058&utm_source=git)** | Rochester, MN, United States | Hybrid | Mar 30 |
 | **[Black Diamond Equipment Rental, LLC](https://www.bd-er.com/)** | **[Intern](https://jobright.ai/jobs/info/69caabba1b5ad028873a389e?utm_campaign=1058&utm_source=git)** | Manassas, VA, US | On Site | Mar 30 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/69caabada8c1822476e1ec4f?utm_campaign=1058&utm_source=git)** | Bridgeport, WV, US | On Site | Mar 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
