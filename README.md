@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Wellstar Health System](https://www.wellstar.org)** | **[Respiratory Care Intern - Cobb Hospital](https://jobright.ai/jobs/info/69ccabddcfdc6132f9411fdb?utm_campaign=1058&utm_source=git)** | Cobb Hospital | On Site | Mar 31 |
+| **[Wellstar Health System](https://www.wellstar.org)** | **[Respiratory Care Intern - Cobb Hospital](https://jobright.ai/jobs/info/69ccb71ee1921223acc7c033?utm_campaign=1058&utm_source=git)** | Austell, GA | On Site | Mar 31 |
+| ↳ | **[Respiratory Care Intern - Cobb Hospital](https://jobright.ai/jobs/info/69ccabddcfdc6132f9411fdb?utm_campaign=1058&utm_source=git)** | Cobb Hospital | On Site | Mar 31 |
 | **[PNC](http://www.pnc.com)** | **[System Reliability Center Operations Support Manager](https://jobright.ai/jobs/info/69cca5d9891d7b11cfcb1a77?utm_campaign=1058&utm_source=git)** | Dallas, TX | On Site | Mar 31 |
 | ↳ | **[System Reliability Center Operations Support Manager](https://jobright.ai/jobs/info/69cca35d8130af1ac833d860?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | On Site | Mar 31 |
 | ↳ | **[Customer Service Representative Specialty Sr](https://jobright.ai/jobs/info/69cca33ce1921223acc7afb6?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | Hybrid | Mar 31 |
@@ -100,8 +101,8 @@ For a complete list, click the following sortable link below:
 | **[North Carolina State University](http://www.ncsu.edu/)** | **[IT Support Analyst](https://jobright.ai/jobs/info/69cc53f98130af1ac8337e2a?utm_campaign=1058&utm_source=git)** | Triangle Area | On Site | Mar 31 |
 | **[CoxHealth](https://www.coxhealth.com/)** | **[Pharmacy Technician Intern I](https://jobright.ai/jobs/info/69cc515a891d7b11cfcabc1a?utm_campaign=1058&utm_source=git)** | Springfield, MO | On Site | Mar 31 |
 | **[West Basin Municipal Water District](https://www.westbasin.org)** | **[Information Technology Intern](https://jobright.ai/jobs/info/69cc510acfdc6132f940ba13?utm_campaign=1058&utm_source=git)** | Carson, CA | On Site | Mar 31 |
-| **[Willkie Farr & Gallagher LLP](http://www.willkie.com)** | **[Practice Support Intern - Los Angeles](https://jobright.ai/jobs/info/69cc4ff9891d7b11cfcabb59?utm_campaign=1058&utm_source=git)** | Los Angeles, CA, US | On Site | Mar 31 |
-| ↳ | **[Practice Support Intern - Los Angeles](https://jobright.ai/jobs/info/69cc4ff9cfdc6132f940b95d?utm_campaign=1058&utm_source=git)** | US-CA-Los Angeles | On Site | Mar 31 |
+| **[Willkie Farr & Gallagher LLP](http://www.willkie.com)** | **[Practice Support Intern - Los Angeles](https://jobright.ai/jobs/info/69cc4ff9cfdc6132f940b95d?utm_campaign=1058&utm_source=git)** | US-CA-Los Angeles | On Site | Mar 31 |
+| ↳ | **[Practice Support Intern - Los Angeles](https://jobright.ai/jobs/info/69cc4ff9891d7b11cfcabb59?utm_campaign=1058&utm_source=git)** | Los Angeles, CA, US | On Site | Mar 31 |
 | **[Creighton Farms](https://creightonfarms.com/)** | **[Food & Beverage Intern](https://jobright.ai/jobs/info/69cc4ff8cfdc6132f940b95c?utm_campaign=1058&utm_source=git)** | ALDIE, VA 20105 | On Site | Mar 31 |
 | **[Palo Alto Networks](http://www.paloaltonetworks.com)** | **[Intern - Technical Writing Specialist](https://jobright.ai/jobs/info/69cc4f6de1921223acc75259?utm_campaign=1058&utm_source=git)** | Office - USA - CA - Headquarters | On Site | Mar 31 |
 | **[Mercy Health](http://www.mercy.com/)** | **[Pharmacy Intern – West Hospital](https://jobright.ai/jobs/info/69cca6ffcfdc6132f9411e54?utm_campaign=1058&utm_source=git)** | Cincinnati, OH | On Site | Mar 31 |
@@ -138,8 +139,8 @@ For a complete list, click the following sortable link below:
 | **[Kirby](http://www.kirbycorp.com/)** | **[IT Service Desk Intern](https://jobright.ai/jobs/info/69cc6e47cfdc6132f940c3b6?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Mar 31 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Radiology Technologist Clinical Intern](https://jobright.ai/jobs/info/69cc7ec8e1921223acc766f9?utm_campaign=1058&utm_source=git)** | Nashville, TN | On Site | Mar 31 |
 | **[Aligned Data Centers](http://www.alignedenergy.com/)** | **[Summer Internship / IT Help Desk](https://jobright.ai/jobs/info/69cc2e89891d7b11cfcaad63?utm_campaign=1058&utm_source=git)** | Plano, TX | On Site | Mar 31 |
-| **[Children's Mercy](https://www.childrensmercy.org)** | **[Clinical Pharmacy Intern](https://jobright.ai/jobs/info/69cca5eae1921223acc7b445?utm_campaign=1058&utm_source=git)** | Kansas City, MO, US | Hybrid | Mar 31 |
-| ↳ | **[Clinical Pharmacy Intern](https://jobright.ai/jobs/info/69cca608366bb95ba54f4c57?utm_campaign=1058&utm_source=git)** | Adele Hall | Hybrid | Mar 31 |
+| **[Children's Mercy](https://www.childrensmercy.org)** | **[Clinical Pharmacy Intern](https://jobright.ai/jobs/info/69cca608366bb95ba54f4c57?utm_campaign=1058&utm_source=git)** | Adele Hall | Hybrid | Mar 31 |
+| ↳ | **[Clinical Pharmacy Intern](https://jobright.ai/jobs/info/69cca5eae1921223acc7b445?utm_campaign=1058&utm_source=git)** | Kansas City, MO, US | Hybrid | Mar 31 |
 | **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[Customer Experience Internship, Summer 2026](https://jobright.ai/jobs/info/69cc55fb366bb95ba54eefa0?utm_campaign=1058&utm_source=git)** | Lowell, AR | On Site | Mar 31 |
 | **[St. Luke's University Health Network](http://www.slhn.org/)** | **[Information Technology Intern](https://jobright.ai/jobs/info/69cc2848cdb525785fb79d20?utm_campaign=1058&utm_source=git)** | Allentown, PA - 1110 American Parkway | On Site | Mar 31 |
 | **[Barber-Nichols](https://www.barber-nichols.com/)** | **[Summer IT Intern](https://jobright.ai/jobs/info/69cc25e8cdb525785fb79c15?utm_campaign=1058&utm_source=git)** | Colorado | On Site | Mar 31 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Clinical Support Intern](https://jobright.ai/jobs/info/69cc0d0ecdb525785fb79407?utm_campaign=1058&utm_source=git)** | Beverly Hills, MI, US | On Site | Mar 31 |
 | ↳ | **[Clinical Support Intern](https://jobright.ai/jobs/info/69cc557f891d7b11cfcabcf6?utm_campaign=1058&utm_source=git)** | Troy, MI | On Site | Mar 31 |
 | **[Cotiviti](http://www.cotiviti.com)** | **[Summer Intern - Clinical Delivery SharePoint Organization](https://jobright.ai/jobs/info/69cc0937366bb95ba54ed419?utm_campaign=1058&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Mar 31 |
-| **[Ascension](https://healthcare.ascension.org)** | **[Radiology Technologist Clinical Intern](https://jobright.ai/jobs/info/69cc0917891d7b11cfcaa219?utm_campaign=1058&utm_source=git)** | US-TN-Nashville | On Site | Mar 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
