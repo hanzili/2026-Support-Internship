@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69cd2900891d7b11cfcb64be?utm_campaign=1058&utm_source=git)** | Chatham, IL | On Site | Apr 01 |
 | **[Xometry](https://www.xometry.com)** | **[Case Management Intern](https://jobright.ai/jobs/info/6940755649a7695fbd05f55c?utm_campaign=1058&utm_source=git)** | Lexington, KY | On Site | Apr 01 |
 | **[American Society of Clinical Oncology (ASCO)](http://asco.org)** | **[IT Infrastructure Intern](https://jobright.ai/jobs/info/69b194b265de58104c709f84?utm_campaign=1058&utm_source=git)** | Alexandria, VA | On Site | Apr 01 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69cd1dc0cdb525785fb85293?utm_campaign=1058&utm_source=git)** | Marrero, LA | On Site | Apr 01 |
@@ -65,14 +66,14 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69ccfb9fcfdc6132f9415533?utm_campaign=1058&utm_source=git)** | Thibodaux, LA | On Site | Apr 01 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69ccfb9fcfdc6132f9415534?utm_campaign=1058&utm_source=git)** | Destrehan, LA | On Site | Apr 01 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69ccfb96cdb525785fb84a62?utm_campaign=1058&utm_source=git)** | Ballston Spa, NY | On Site | Apr 01 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69ccfb96cdb525785fb84a64?utm_campaign=1058&utm_source=git)** | Birmingham, AL | On Site | Apr 01 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69ccfb96398fb071abf71cd9?utm_campaign=1058&utm_source=git)** | Pelham, AL | On Site | Apr 01 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69ccfb96cdb525785fb84a64?utm_campaign=1058&utm_source=git)** | Birmingham, AL | On Site | Apr 01 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/69ccfac254f00230c6cebdae?utm_campaign=1058&utm_source=git)** | Jacksonville, FL | On Site | Apr 01 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/69ccfac254f00230c6cebdad?utm_campaign=1058&utm_source=git)** | Big Bear Lake, CA | On Site | Apr 01 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69ccfac154f00230c6cebdab?utm_campaign=1058&utm_source=git)** | Moody, AL | On Site | Apr 01 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69ccfab8891d7b11cfcb5401?utm_campaign=1058&utm_source=git)** | Pike Road, AL | On Site | Apr 01 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69ccfab8891d7b11cfcb5400?utm_campaign=1058&utm_source=git)** | Montgomery, AL | On Site | Apr 01 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69ccfab8891d7b11cfcb53ff?utm_campaign=1058&utm_source=git)** | Hartselle, AL | On Site | Apr 01 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69ccfab8891d7b11cfcb5400?utm_campaign=1058&utm_source=git)** | Montgomery, AL | On Site | Apr 01 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69ccfab8891d7b11cfcb5401?utm_campaign=1058&utm_source=git)** | Pike Road, AL | On Site | Apr 01 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69cd1609366bb95ba54f9001?utm_campaign=1058&utm_source=git)** | Dothan, AL | On Site | Apr 01 |
 | **[Essentia Health](https://www.essentiahealth.org/)** | **[Intern - Pharmacy](https://jobright.ai/jobs/info/69b13cb0548f140066e6dde8?utm_campaign=1058&utm_source=git)** | Fargo, ND | On Site | Apr 01 |
 | **[Discovery Senior Living](http://discoveryseniorliving.com)** | **[Caregiver/Med Tech](https://jobright.ai/jobs/info/69ccf28854f00230c6cebc84?utm_campaign=1058&utm_source=git)** | Burlington, IA | On Site | Apr 01 |
@@ -96,7 +97,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[System Reliability Center Operations Support Manager](https://jobright.ai/jobs/info/69cca2ff366bb95ba54f46db?utm_campaign=1058&utm_source=git)** | Strongsville, OH | On Site | Mar 31 |
 | ↳ | **[System Reliability Center Operations Support Manager](https://jobright.ai/jobs/info/69cc9f24cdb525785fb80757?utm_campaign=1058&utm_source=git)** | Birmingham, AL | On Site | Mar 31 |
 | ↳ | **[System Reliability Center Operations Support Manager](https://jobright.ai/jobs/info/69cc9f17cdb525785fb80732?utm_campaign=1058&utm_source=git)** | Phoenix, AZ | On Site | Mar 31 |
-| ↳ | **[Customer Service Representative Specialty - Business Banking](https://jobright.ai/jobs/info/69cc9134cfdc6132f940ff18?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | Hybrid | Mar 31 |
 | **[Cleveland Clinic](http://my.clevelandclinic.org)** | **[Pharmacy Intern - Inpatient](https://jobright.ai/jobs/info/69cc8cc3e1921223acc794d1?utm_campaign=1058&utm_source=git)** | Cleveland, OH | On Site | Mar 31 |
 | **[UNLV Department of Accounting](https://www.unlv.edu/accounting)** | **[Public Service Intern 1, Information Technology [R0151101]](https://jobright.ai/jobs/info/69cc8c2fcdb525785fb7ed79?utm_campaign=1058&utm_source=git)** | LV Metro Area | On Site | Mar 31 |
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Prior Authorization Pharmacist - Texas Medicaid (Remote)](https://jobright.ai/jobs/info/69cc8c148130af1ac833bc94?utm_campaign=1058&utm_source=git)** | Texas, United States | Remote | Mar 31 |
