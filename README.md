@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nelson Tree Service, LLC](http://www.nelsontree.com)** | **[Intern - Service](https://jobright.ai/jobs/info/69ccdf16366bb95ba54f7d4e?utm_campaign=1058&utm_source=git)** | La Vista, NE | On Site | Apr 01 |
 | **[Snowflake](https://www.snowflake.com)** | **[ACCOUNT ENGINEER INTERN — SUMMER 2026](https://jobright.ai/jobs/info/69ccdaa354f00230c6ceb328?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | Apr 01 |
-| **[Sales Optimizer, LLC](http://salesoptimizer.com)** | **[Summer IT Intern](https://jobright.ai/jobs/info/69ccd7c3891d7b11cfcb426f?utm_campaign=1058&utm_source=git)** | Arvada, CO | On Site | Apr 01 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Intern, Operations Customer Center (OCC) CORE Technology (Summer 2026)](https://jobright.ai/jobs/info/69c8f09c83ea553769fed8c3?utm_campaign=1058&utm_source=git)** | Atlanta, GA | On Site | Apr 01 |
 | **[Portneuf Medical Center](http://www.portneuf.org)** | **[Respiratory Therapist Intern](https://jobright.ai/jobs/info/69ccd57e398fb071abf70694?utm_campaign=1058&utm_source=git)** | Pocatello, ID | On Site | Apr 01 |
 | **[Foundation Health Partners](https://www.foundationhealth.org/)** | **[Intern Pharmacist](https://jobright.ai/jobs/info/69ccd479891d7b11cfcb4061?utm_campaign=1058&utm_source=git)** | Fairbanks, AK | On Site | Apr 01 |
@@ -144,8 +144,8 @@ For a complete list, click the following sortable link below:
 | **[Kirby](http://www.kirbycorp.com/)** | **[IT Service Desk Intern](https://jobright.ai/jobs/info/69cc6e47cfdc6132f940c3b6?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Mar 31 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Radiology Technologist Clinical Intern](https://jobright.ai/jobs/info/69cc7ec8e1921223acc766f9?utm_campaign=1058&utm_source=git)** | Nashville, TN | On Site | Mar 31 |
 | **[Aligned Data Centers](http://www.alignedenergy.com/)** | **[Summer Internship / IT Help Desk](https://jobright.ai/jobs/info/69cc2e89891d7b11cfcaad63?utm_campaign=1058&utm_source=git)** | Plano, TX | On Site | Mar 31 |
-| **[Children's Mercy](https://www.childrensmercy.org)** | **[Clinical Pharmacy Intern](https://jobright.ai/jobs/info/69cca608366bb95ba54f4c57?utm_campaign=1058&utm_source=git)** | Adele Hall | Hybrid | Mar 31 |
-| ↳ | **[Clinical Pharmacy Intern](https://jobright.ai/jobs/info/69cca5eae1921223acc7b445?utm_campaign=1058&utm_source=git)** | Kansas City, MO, US | Hybrid | Mar 31 |
+| **[Children's Mercy](https://www.childrensmercy.org)** | **[Clinical Pharmacy Intern](https://jobright.ai/jobs/info/69cca5eae1921223acc7b445?utm_campaign=1058&utm_source=git)** | Kansas City, MO, US | Hybrid | Mar 31 |
+| ↳ | **[Clinical Pharmacy Intern](https://jobright.ai/jobs/info/69cca608366bb95ba54f4c57?utm_campaign=1058&utm_source=git)** | Adele Hall | Hybrid | Mar 31 |
 | **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[Customer Experience Internship, Summer 2026](https://jobright.ai/jobs/info/69cc55fb366bb95ba54eefa0?utm_campaign=1058&utm_source=git)** | Lowell, AR | On Site | Mar 31 |
 | **[St. Luke's University Health Network](http://www.slhn.org/)** | **[Information Technology Intern](https://jobright.ai/jobs/info/69cc2848cdb525785fb79d20?utm_campaign=1058&utm_source=git)** | Allentown, PA - 1110 American Parkway | On Site | Mar 31 |
 | **[Barber-Nichols](https://www.barber-nichols.com/)** | **[Summer IT Intern](https://jobright.ai/jobs/info/69cc25e8cdb525785fb79c15?utm_campaign=1058&utm_source=git)** | Colorado | On Site | Mar 31 |
