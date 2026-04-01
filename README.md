@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Snowflake](https://www.snowflake.com)** | **[ACCOUNT ENGINEER INTERN — SUMMER 2026](https://jobright.ai/jobs/info/69ccdaa354f00230c6ceb328?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | Apr 01 |
+| **[Sales Optimizer, LLC](http://salesoptimizer.com)** | **[Summer IT Intern](https://jobright.ai/jobs/info/69ccd7c3891d7b11cfcb426f?utm_campaign=1058&utm_source=git)** | Arvada, CO | On Site | Apr 01 |
+| **[Delta Air Lines](https://www.delta.com/)** | **[Intern, Operations Customer Center (OCC) CORE Technology (Summer 2026)](https://jobright.ai/jobs/info/69c8f09c83ea553769fed8c3?utm_campaign=1058&utm_source=git)** | Atlanta, GA | On Site | Apr 01 |
+| **[Portneuf Medical Center](http://www.portneuf.org)** | **[Respiratory Therapist Intern](https://jobright.ai/jobs/info/69ccd57e398fb071abf70694?utm_campaign=1058&utm_source=git)** | Pocatello, ID | On Site | Apr 01 |
+| **[Foundation Health Partners](https://www.foundationhealth.org/)** | **[Intern Pharmacist](https://jobright.ai/jobs/info/69ccd479891d7b11cfcb4061?utm_campaign=1058&utm_source=git)** | Fairbanks, AK | On Site | Apr 01 |
 | **[Wellstar Health System](https://www.wellstar.org)** | **[Respiratory Care Intern - Cobb Hospital](https://jobright.ai/jobs/info/69ccb71ee1921223acc7c033?utm_campaign=1058&utm_source=git)** | Austell, GA | On Site | Mar 31 |
 | ↳ | **[Respiratory Care Intern - Cobb Hospital](https://jobright.ai/jobs/info/69ccabddcfdc6132f9411fdb?utm_campaign=1058&utm_source=git)** | Cobb Hospital | On Site | Mar 31 |
 | **[PNC](http://www.pnc.com)** | **[System Reliability Center Operations Support Manager](https://jobright.ai/jobs/info/69cca5d9891d7b11cfcb1a77?utm_campaign=1058&utm_source=git)** | Dallas, TX | On Site | Mar 31 |
@@ -97,11 +102,12 @@ For a complete list, click the following sortable link below:
 | **[Arctic Compressor LLC](https://arcticcompressor.com)** | **[IT & Operations Support Summer Intern](https://jobright.ai/jobs/info/69cc5669cdb525785fb7b00a?utm_campaign=1058&utm_source=git)** | Superior, Wisconsin, United States | On Site | Mar 31 |
 | **[COPT Defense Properties](http://www.copt.com)** | **[Intern - IT](https://jobright.ai/jobs/info/69cc5650366bb95ba54eefdb?utm_campaign=1058&utm_source=git)** | Columbia, Maryland, United States | On Site | Mar 31 |
 | **[Creighton Farms](https://creightonfarms.com/)** | **[Food & Beverage Intern](https://jobright.ai/jobs/info/69cc912f8130af1ac833c10b?utm_campaign=1058&utm_source=git)** | Aldie, VA | On Site | Mar 31 |
+| **[Mercy Home Health](https://www.mercy.com/health-care-services/home-health-care-services)** | **[Pharmacy Intern – West Hospital](https://jobright.ai/jobs/info/69ccd54fcfdc6132f9413f58?utm_campaign=1058&utm_source=git)** | Cincinnati, OH | On Site | Mar 31 |
 | **[North Carolina State University](http://www.ncsu.edu/)** | **[IT Support Analyst](https://jobright.ai/jobs/info/69cc53f98130af1ac8337e2a?utm_campaign=1058&utm_source=git)** | Triangle Area | On Site | Mar 31 |
 | **[CoxHealth](https://www.coxhealth.com/)** | **[Pharmacy Technician Intern I](https://jobright.ai/jobs/info/69cc515a891d7b11cfcabc1a?utm_campaign=1058&utm_source=git)** | Springfield, MO | On Site | Mar 31 |
 | **[West Basin Municipal Water District](https://www.westbasin.org)** | **[Information Technology Intern](https://jobright.ai/jobs/info/69cc510acfdc6132f940ba13?utm_campaign=1058&utm_source=git)** | Carson, CA | On Site | Mar 31 |
-| **[Willkie Farr & Gallagher LLP](http://www.willkie.com)** | **[Practice Support Intern - Los Angeles](https://jobright.ai/jobs/info/69cc4ff9891d7b11cfcabb59?utm_campaign=1058&utm_source=git)** | Los Angeles, CA, US | On Site | Mar 31 |
-| ↳ | **[Practice Support Intern - Los Angeles](https://jobright.ai/jobs/info/69cc4ff9cfdc6132f940b95d?utm_campaign=1058&utm_source=git)** | US-CA-Los Angeles | On Site | Mar 31 |
+| **[Willkie Farr & Gallagher LLP](http://www.willkie.com)** | **[Practice Support Intern - Los Angeles](https://jobright.ai/jobs/info/69cc4ff9cfdc6132f940b95d?utm_campaign=1058&utm_source=git)** | US-CA-Los Angeles | On Site | Mar 31 |
+| ↳ | **[Practice Support Intern - Los Angeles](https://jobright.ai/jobs/info/69cc4ff9891d7b11cfcabb59?utm_campaign=1058&utm_source=git)** | Los Angeles, CA, US | On Site | Mar 31 |
 | **[Creighton Farms](https://creightonfarms.com/)** | **[Food & Beverage Intern](https://jobright.ai/jobs/info/69cc4ff8cfdc6132f940b95c?utm_campaign=1058&utm_source=git)** | ALDIE, VA 20105 | On Site | Mar 31 |
 | **[Palo Alto Networks](http://www.paloaltonetworks.com)** | **[Intern - Technical Writing Specialist](https://jobright.ai/jobs/info/69cc4f6de1921223acc75259?utm_campaign=1058&utm_source=git)** | Office - USA - CA - Headquarters | On Site | Mar 31 |
 | **[Mercy Health](http://www.mercy.com/)** | **[Pharmacy Intern – West Hospital](https://jobright.ai/jobs/info/69cca6ffcfdc6132f9411e54?utm_campaign=1058&utm_source=git)** | Cincinnati, OH | On Site | Mar 31 |
@@ -115,9 +121,9 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[IT Intern](https://jobright.ai/jobs/info/69cc42c3366bb95ba54ee7cc?utm_campaign=1058&utm_source=git)** | NY, New York | On Site | Mar 31 |
 | **[GEHA Health](https://geha.com/)** | **[Intern – Salesforce / Digital Workplace / M365](https://jobright.ai/jobs/info/69cc42bb366bb95ba54ee7ba?utm_campaign=1058&utm_source=git)** | United States | Remote | Mar 31 |
 | **[DXC Technology](https://www.dxc.com)** | **[Non-technical Intern](https://jobright.ai/jobs/info/69cc6472891d7b11cfcac1da?utm_campaign=1058&utm_source=git)** | Norris City, IL | On Site | Mar 31 |
-| **[Main Line Health](https://www.mainlinehealth.org/locations/bryn-mawr-hospital)** | **[Intern - IT Application Training](https://jobright.ai/jobs/info/69cc6310e1921223acc75a3c?utm_campaign=1058&utm_source=git)** | Radnor, PA | On Site | Mar 31 |
 | **[Belton Regional Medical Center](https://hcamidwest.com/locations/belton-regional-medical-center )** | **[Pharmacist Intern](https://jobright.ai/jobs/info/69cca7e98130af1ac833e0df?utm_campaign=1058&utm_source=git)** | Belton, MO | On Site | Mar 31 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Omni Care Internship / Summer 2026 / Food & Beverage](https://jobright.ai/jobs/info/69cc3e928130af1ac833766e?utm_campaign=1058&utm_source=git)** | Louisville, KY | On Site | Mar 31 |
+| **[Saint Luke's](https://www.saintlukeskc.org)** | **[Nursing Intern - Intermediate PCU](https://jobright.ai/jobs/info/69ccd541398fb071abf70669?utm_campaign=1058&utm_source=git)** | Kansas City, MO | On Site | Mar 31 |
 | **[Stormont Vail Health](http://www.stormontvail.org)** | **[Medical Imaging Intern/Associate - Radiology CT Scan - PRN](https://jobright.ai/jobs/info/69cc3df9e1921223acc74d87?utm_campaign=1058&utm_source=git)** | Topeka, KS | On Site | Mar 31 |
 | **[Gemini Legal](https://gemini.legal/)** | **[IT Intern- Sac State Career Fair Applicants Only](https://jobright.ai/jobs/info/69cc3c7acdb525785fb7a5be?utm_campaign=1058&utm_source=git)** | Rocklin,CA,US | On Site | Mar 31 |
 | **[Universal Scientific Industrial Co., Ltd.](https://www.usiglobal.com)** | **[IT Intern](https://jobright.ai/jobs/info/69cc3ba58130af1ac833750a?utm_campaign=1058&utm_source=git)** | Milpitas, California | On Site | Mar 31 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Aquarion Water Company](http://www.aquarionwater.com)** | **[Intern, IT](https://jobright.ai/jobs/info/69cc18e8e1921223acc73f23?utm_campaign=1058&utm_source=git)** | Monroe, CT, US, 06468 | On Site | Mar 31 |
 | **[Prisma Health](https://www.prismahealth.org)** | **[Pharmacy Intern (Retail), PRN-Tuomey](https://jobright.ai/jobs/info/69cc18a6cfdc6132f940a3ce?utm_campaign=1058&utm_source=git)** | Sumter, SC | On Site | Mar 31 |
 | **[Cotiviti](http://www.cotiviti.com)** | **[Summer Intern - Clinical Delivery SharePoint Organization](https://jobright.ai/jobs/info/69cc43a7e1921223acc74f03?utm_campaign=1058&utm_source=git)** | United States | Remote | Mar 31 |
-| **[Michigan Orthopaedic Surgeons](https://miorthosurgeons.com/)** | **[Clinical Support Intern](https://jobright.ai/jobs/info/69cc0dda366bb95ba54ed543?utm_campaign=1058&utm_source=git)** | Troy, MI, US | On Site | Mar 31 |
-| ↳ | **[Clinical Support Intern](https://jobright.ai/jobs/info/69cc0daf891d7b11cfcaa2e1?utm_campaign=1058&utm_source=git)** | Southfield, MI, US | On Site | Mar 31 |
-| ↳ | **[Clinical Support Intern](https://jobright.ai/jobs/info/69cc0d0ecdb525785fb79407?utm_campaign=1058&utm_source=git)** | Beverly Hills, MI, US | On Site | Mar 31 |
-| ↳ | **[Clinical Support Intern](https://jobright.ai/jobs/info/69cc557f891d7b11cfcabcf6?utm_campaign=1058&utm_source=git)** | Troy, MI | On Site | Mar 31 |
-| **[Cotiviti](http://www.cotiviti.com)** | **[Summer Intern - Clinical Delivery SharePoint Organization](https://jobright.ai/jobs/info/69cc0937366bb95ba54ed419?utm_campaign=1058&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Mar 31 |
-| **[Ascension](https://healthcare.ascension.org)** | **[Radiology Technologist Clinical Intern](https://jobright.ai/jobs/info/69cc0917891d7b11cfcaa219?utm_campaign=1058&utm_source=git)** | US-TN-Nashville | On Site | Mar 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
