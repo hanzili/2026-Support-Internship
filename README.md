@@ -131,7 +131,8 @@ For a complete list, click the following sortable link below:
 | **[Town of Oakville](https://www.oakville.ca/)** | **[Customer Service Technician](https://jobright.ai/jobs/info/69cd754ecdb525785fb88281?utm_campaign=1058&utm_source=git)** | Oakville, ON | On Site | Apr 01 |
 | **[Kalahari Resorts & Conventions](http://www.kalahariresorts.com)** | **[Advanced Hospitality Internship](https://jobright.ai/jobs/info/68e6b69fe8daec61499add66?utm_campaign=1058&utm_source=git)** | Pocono, PA | On Site | Apr 01 |
 | ↳ | **[Advanced Hospitality Internship](https://jobright.ai/jobs/info/68e6a815ae2b894b1d71c4f3?utm_campaign=1058&utm_source=git)** | Wisconsin Dells, WI | On Site | Apr 01 |
-| ↳ | **[Intro to Hospitality Internship](https://jobright.ai/jobs/info/68e6af5dae2b894b1d71c800?utm_campaign=1058&utm_source=git)** | Wisconsin Dells, WI | On Site | Apr 01 |
+| **[The Waldinger Corporation](http://waldinger.com)** | **[Intern - Service](https://jobright.ai/jobs/info/69cb4227aa3c2c1995e3583f?utm_campaign=1058&utm_source=git)** | La Vista, NE | On Site | Apr 01 |
+| **[Kalahari Resorts & Conventions](http://www.kalahariresorts.com)** | **[Intro to Hospitality Internship](https://jobright.ai/jobs/info/68e6af5dae2b894b1d71c800?utm_campaign=1058&utm_source=git)** | Wisconsin Dells, WI | On Site | Apr 01 |
 | **[Ascentist Healthcare](https://www.ascentist.com)** | **[IT Support Internship](https://jobright.ai/jobs/info/69cd406a54f00230c6ced7ee?utm_campaign=1058&utm_source=git)** | Leawood, KS 66211, USA | On Site | Apr 01 |
 | **[Great River Health](https://www.greatrivermedical.org)** | **[Summer Nurse Intern / 24 hours per week / WB, FM, HCHC](https://jobright.ai/jobs/info/69cd404d54f00230c6ced774?utm_campaign=1058&utm_source=git)** | Mt. Pleasant, Iowa | On Site | Apr 01 |
 | ↳ | **[Summer Nurse Intern / 24 hours per week / WB, FM, HCHC](https://jobright.ai/jobs/info/69cd4048398fb071abf733a8?utm_campaign=1058&utm_source=git)** | Fort Madison, Iowa | On Site | Apr 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69cd4f8bcdb525785fb86c08?utm_campaign=1058&utm_source=git)** | Taylorville, IL | On Site | Apr 01 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE - CRNA Internship](https://jobright.ai/jobs/info/69cd4f86398fb071abf73fa6?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Apr 01 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69cd4f88398fb071abf73fb8?utm_campaign=1058&utm_source=git)** | Las Vegas, NV | On Site | Apr 01 |
-| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69cd5028366bb95ba54faace?utm_campaign=1058&utm_source=git)** | Johnston, RI | On Site | Apr 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
