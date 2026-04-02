@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Goodwin Chevrolet Mazda - Brunswick](http://goodwinchevyme.com)** | **[Part-Time IT Intern](https://jobright.ai/jobs/info/69ce2a4f891d7b11cfcc5b32?utm_campaign=1058&utm_source=git)** | Brunswick, ME | On Site | Apr 02 |
+| **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE - CRNA Internship](https://jobright.ai/jobs/info/69ce2a4b891d7b11cfcc5b25?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Apr 02 |
+| ↳ | **[REGISTERED NURSE - CRNA Internship](https://jobright.ai/jobs/info/69ce2729cdb525785fb946e0?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Apr 02 |
+| **[Intermountain Health](https://intermountainhealthcare.org)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69ce2451891d7b11cfcc5810?utm_campaign=1058&utm_source=git)** | Provo, UT | On Site | Apr 02 |
 | **[The Global Leadership Network](https://www.globalleadership.org)** | **[GUEST SERVICES REPRESENTATIVE - SUMMER INTERNSHIP](https://jobright.ai/jobs/info/69ce1396cfdc6132f9424600?utm_campaign=1058&utm_source=git)** | Global Leadership Network - South Barrington, IL 60010 | Hybrid | Apr 01 |
 | **[CareDx, Inc.](https://www.caredx.com/)** | **[IT Operations Support Summer Intern 2026](https://jobright.ai/jobs/info/69b453b45697383741390a8d?utm_campaign=1058&utm_source=git)** | Brisbane, CA | On Site | Apr 01 |
 | **[GreenState Credit Union](https://www.uiccu.org)** | **[Information Technology Intern](https://jobright.ai/jobs/info/69ce0a29891d7b11cfcc4527?utm_campaign=1058&utm_source=git)** | North Liberty, IA | On Site | Apr 01 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[UPMC](https://www.upmc.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69b0cfe30b2db6275c0573ca?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | On Site | Apr 01 |
 | **[Spurs Sports & Entertainment](https://www.nba.com/spurs/careers)** | **[Technology Intern](https://jobright.ai/jobs/info/69cd57fc366bb95ba54faf86?utm_campaign=1058&utm_source=git)** | San Antonio, TX | On Site | Apr 01 |
 | **[Aquarion Water Company](http://www.aquarionwater.com)** | **[Intern, Customer Service](https://jobright.ai/jobs/info/69cd5515cfdc6132f9417c15?utm_campaign=1058&utm_source=git)** | Monroe, CT, US, 06468 | On Site | Apr 01 |
-| ↳ | **[Intern, Cross Connections](https://jobright.ai/jobs/info/69cd550c366bb95ba54fae6d?utm_campaign=1058&utm_source=git)** | Bridgeport, CT, US, 06606 | On Site | Apr 01 |
-| **[Ascension](https://healthcare.ascension.org)** | **[Nurse Intern Trauma Surgical ICU](https://jobright.ai/jobs/info/69cd54ff891d7b11cfcb7ed7?utm_campaign=1058&utm_source=git)** | US-KS-Wichita | On Site | Apr 01 |
-| ↳ | **[Nurse Intern Trauma Surgical ICU](https://jobright.ai/jobs/info/69cd54facdb525785fb86fd7?utm_campaign=1058&utm_source=git)** | Wichita, KS, US | On Site | Apr 01 |
-| **[Community Health Systems](http://www.chs.net)** | **[Nursing Student Intern MSIC](https://jobright.ai/jobs/info/69cd54b6cdb525785fb86e89?utm_campaign=1058&utm_source=git)** | 7950 WEST JEFFERSON BOULEVARD, FORT WAYNE, IN, 46804, US | On Site | Apr 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
