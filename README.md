@@ -57,11 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Xometry](https://www.xometry.com)** | **[IT Service Desk Intern](https://jobright.ai/jobs/info/69acaada2747003c3d524801?utm_campaign=1058&utm_source=git)** | North Bethesda, MD | Hybrid | Apr 01 |
 | **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[Radiology Intern](https://jobright.ai/jobs/info/69cde609cfdc6132f9420ef2?utm_campaign=1058&utm_source=git)** | Joplin, MO | On Site | Apr 01 |
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Surgical Technician Intern - ST](https://jobright.ai/jobs/info/69cde5c554f00230c6cf7ebf?utm_campaign=1058&utm_source=git)** | Eau Claire, WI | On Site | Apr 01 |
 | **[Mercury Insurance](http://www.mercuryinsurance.com)** | **[Technical Support Technician III](https://jobright.ai/jobs/info/69cde252366bb95ba55040e8?utm_campaign=1058&utm_source=git)** | United States | Remote | Apr 01 |
 | **[G&J Pepsi-Cola Bottlers, Inc.](https://www.gjpepsi.com)** | **[Intern - Information Technology](https://jobright.ai/jobs/info/69cdd81c366bb95ba55038c4?utm_campaign=1058&utm_source=git)** | Lexington, 559 South Forbes Road, Lexington, Kentucky, United States of America | On Site | Apr 01 |
 | **[ClassDojo](https://www.classdojo.com)** | **[Customer Support Agent (Contractor)](https://jobright.ai/jobs/info/69cdd031398fb071abf7c931?utm_campaign=1058&utm_source=git)** | San Francisco, CA | Remote | Apr 01 |
+| **[Canadian Mothercraft Society](https://mothercraft.ca)** | **[Receptionist/Administrative Assistant](https://jobright.ai/jobs/info/69cde84e891d7b11cfcc16c5?utm_campaign=1058&utm_source=git)** | Toronto, ON | On Site | Apr 01 |
+| **[Prisma Health](https://www.prismahealth.org)** | **[Pharmacy Intern, PRN](https://jobright.ai/jobs/info/69cdeeb1cfdc6132f9422750?utm_campaign=1058&utm_source=git)** | Columbia, SC | On Site | Apr 01 |
+| **[Trulieve](https://www.trulieve.com)** | **[Information Technology Summer Intern](https://jobright.ai/jobs/info/69cdf19654f00230c6cf9623?utm_campaign=1058&utm_source=git)** | Tallahassee, FL | Hybrid | Apr 01 |
+| **[Navitus Health Solutions](https://www.navitus.com/)** | **[Clinical Pharmacy Intern IPP](https://jobright.ai/jobs/info/69cde82acdb525785fb9042f?utm_campaign=1058&utm_source=git)** | United States | Remote | Apr 01 |
 | **[Boston Red Sox](http://www.redsox.com)** | **[Client Services Associate, Communications](https://jobright.ai/jobs/info/69cdb5ae398fb071abf7b87a?utm_campaign=1058&utm_source=git)** | Boston, MA | On Site | Apr 01 |
 | **[Lakeland Regional Health-Florida](http://mylrh.org/)** | **[Nurse Intern II (PRN) - Women's PACU](https://jobright.ai/jobs/info/69cdb564891d7b11cfcbf068?utm_campaign=1058&utm_source=git)** | Lakeland, FL | On Site | Apr 01 |
 | **[Merrill Gardens](http://merrillgardens.com/)** | **[IT Intern](https://jobright.ai/jobs/info/69cdd447891d7b11cfcc036a?utm_campaign=1058&utm_source=git)** | Seattle, WA | On Site | Apr 01 |
@@ -69,8 +74,10 @@ For a complete list, click the following sortable link below:
 | **[Intermountain Health](https://intermountainhealthcare.org)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69cdac4fcfdc6132f941e452?utm_campaign=1058&utm_source=git)** | Intermountain Health Utah Valley Hospital | On Site | Apr 01 |
 | **[CCC Intelligent Solutions](http://www.cccis.com)** | **[Salesforce Support and Analytics Intern](https://jobright.ai/jobs/info/69cda8ae891d7b11cfcbe849?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Apr 01 |
 | **[Farm Credit Financial Partners, Inc.](https://www.financialpartners.com)** | **[Desktop Technician Intern](https://jobright.ai/jobs/info/69cda869366bb95ba55015ea?utm_campaign=1058&utm_source=git)** | Springfield, MA | Hybrid | Apr 01 |
+| **[Vanderbilt University Medical Center](https://www.vumc.org/main/home)** | **[Pharmacy Intern - Transplant Pharmacy](https://jobright.ai/jobs/info/69cafa96e565c26a70043482?utm_campaign=1058&utm_source=git)** | Nashville Metro | On Site | Apr 01 |
 | **[Trulieve](https://www.trulieve.com)** | **[IT Intern](https://jobright.ai/jobs/info/69cda7e4cdb525785fb8d686?utm_campaign=1058&utm_source=git)** | Tallahassee, FL | Hybrid | Apr 01 |
 | **[Volvo Construction Equipment](http://www.volvoce.com)** | **[Intern: Reverse Logistics Solutions Support (Summer 2026)](https://jobright.ai/jobs/info/69cda5e6398fb071abf7ae7e?utm_campaign=1058&utm_source=git)** | Shippensburg, PA | On Site | Apr 01 |
+| **[Farm Credit Financial Partners, Inc.](https://www.financialpartners.com)** | **[ServiceNow Administrator Intern](https://jobright.ai/jobs/info/69cdecd6cfdc6132f9421569?utm_campaign=1058&utm_source=git)** | Springfield, MA | Hybrid | Apr 01 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Nurse Intern Cardiovascular](https://jobright.ai/jobs/info/69cda30a54f00230c6cf4fdb?utm_campaign=1058&utm_source=git)** | Wichita, KS, US | On Site | Apr 01 |
 | ↳ | **[Nurse Intern Cardiovascular](https://jobright.ai/jobs/info/69cda2f6366bb95ba550140a?utm_campaign=1058&utm_source=git)** | US-KS-Wichita | On Site | Apr 01 |
 | **[SpecterOps](http://www.specterops.io)** | **[IT Operations Intern](https://jobright.ai/jobs/info/69cda243cdb525785fb8cfe1?utm_campaign=1058&utm_source=git)** | United States | Remote | Apr 01 |
@@ -83,6 +90,7 @@ For a complete list, click the following sortable link below:
 | **[Ntiva, Inc.](http://www.ntiva.com)** | **[Service Desk Intern](https://jobright.ai/jobs/info/69cdb54b366bb95ba5501de1?utm_campaign=1058&utm_source=git)** | Huntington, WV | On Site | Apr 01 |
 | **[The Medical Affairs Company (TMAC)](http://www.themedicalaffairscompany.com)** | **[Medical Information Contact Center Internship](https://jobright.ai/jobs/info/69cdb0e3398fb071abf7b560?utm_campaign=1058&utm_source=git)** | Kennesaw, GA | On Site | Apr 01 |
 | **[UF Lastinger Center for Learning](lastinger.center.ufl.edu)** | **[Financial Services Student Assistant](https://jobright.ai/jobs/info/69cddb2054f00230c6cf782d?utm_campaign=1058&utm_source=git)** | Gainesville, FL | On Site | Apr 01 |
+| **[State Street](https://www.statestreet.com/)** | **[State Street - Client Service Summer Internship 2026](https://jobright.ai/jobs/info/69c21164c9ad035e829abc2e?utm_campaign=1058&utm_source=git)** | Toronto, ON | On Site | Apr 01 |
 | **[Rightworks](https://www.rightworks.com/)** | **[IT Services Intern](https://jobright.ai/jobs/info/69cd8e1b54f00230c6cf3ab5?utm_campaign=1058&utm_source=git)** | Nashua, NH | On Site | Apr 01 |
 | **[Navitus Health Solutions](https://www.navitus.com/)** | **[Clinical Pharmacy Intern IPP](https://jobright.ai/jobs/info/69cd8df254f00230c6cf3a58?utm_campaign=1058&utm_source=git)** | US- | Remote | Apr 01 |
 | **[Reingold, Inc.](http://reingold.com)** | **[IT Intern](https://jobright.ai/jobs/info/69cd8d7fcfdc6132f941d184?utm_campaign=1058&utm_source=git)** | Alexandria, VA | On Site | Apr 01 |
@@ -93,7 +101,6 @@ For a complete list, click the following sortable link below:
 | **[Detroit Manufacturing Systems (DMS)](https://www.dmsna.com)** | **[IT Support Intern - Summer 2026](https://jobright.ai/jobs/info/69cd85ef54f00230c6cf2c90?utm_campaign=1058&utm_source=git)** | Detroit, 12701  Southfield Road, Detroit, Michigan, United States of America | On Site | Apr 01 |
 | **[Goodwin Chevrolet Mazda - Brunswick](http://goodwinchevyme.com)** | **[Part-Time IT Intern](https://jobright.ai/jobs/info/69cd85d3398fb071abf7895c?utm_campaign=1058&utm_source=git)** | Brunswick,ME,US | On Site | Apr 01 |
 | **[Homecare Homebase](http://www.hchb.com)** | **[IT Helpdesk Co-Op/Intern](https://jobright.ai/jobs/info/69cdb3f2891d7b11cfcbeec2?utm_campaign=1058&utm_source=git)** | Dallas, TX | On Site | Apr 01 |
-| **[New Jersey Courts](https://www.njcourts.gov/)** | **[Paid Summer Student Intern (Multiple Divisions)](https://jobright.ai/jobs/info/69c918ea83ea553769feeb4d?utm_campaign=1058&utm_source=git)** | Freehold, NJ | On Site | Apr 01 |
 | **[Mount Sinai Health System](https://www.mountsinai.org)** | **[Student Nurse Intern (TEMP)-Emergency Room - Mount Sinai Hospital - Part-Time Days](https://jobright.ai/jobs/info/69c5b1c7aa9a29199e808dbe?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Apr 01 |
 | **[New Jersey Courts](https://www.njcourts.gov/)** | **[Unpaid Intern](https://jobright.ai/jobs/info/69cd7ccacfdc6132f94191fb?utm_campaign=1058&utm_source=git)** | Warren, NJ | On Site | Apr 01 |
 | ↳ | **[Unpaid Interns Summer 2026](https://jobright.ai/jobs/info/69cd7cbc54f00230c6cefc9e?utm_campaign=1058&utm_source=git)** | Gloucester, NJ | On Site | Apr 01 |
@@ -147,14 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Kalahari Resorts & Conventions](http://www.kalahariresorts.com)** | **[Advanced Hospitality Internship](https://jobright.ai/jobs/info/68e6b69fe8daec61499add66?utm_campaign=1058&utm_source=git)** | Pocono, PA | On Site | Apr 01 |
 | ↳ | **[Advanced Hospitality Internship](https://jobright.ai/jobs/info/68e6a815ae2b894b1d71c4f3?utm_campaign=1058&utm_source=git)** | Wisconsin Dells, WI | On Site | Apr 01 |
 | **[The Waldinger Corporation](http://waldinger.com)** | **[Intern - Service](https://jobright.ai/jobs/info/69cb4227aa3c2c1995e3583f?utm_campaign=1058&utm_source=git)** | La Vista, NE | On Site | Apr 01 |
-| **[Balt](http://www.balt.fr/)** | **[Customer Service Representative - International](https://jobright.ai/jobs/info/69cde32e891d7b11cfcc1358?utm_campaign=1058&utm_source=git)** | Irvine, CA | On Site | Apr 01 |
 | **[Kalahari Resorts & Conventions](http://www.kalahariresorts.com)** | **[Intro to Hospitality Internship](https://jobright.ai/jobs/info/68e6af5dae2b894b1d71c800?utm_campaign=1058&utm_source=git)** | Wisconsin Dells, WI | On Site | Apr 01 |
 | ↳ | **[Advanced Hospitality Internship](https://jobright.ai/jobs/info/68e6a792e8daec61499ad2e8?utm_campaign=1058&utm_source=git)** | Sandusky, OH | On Site | Apr 01 |
 | **[Ascentist Healthcare](https://www.ascentist.com)** | **[IT Support Internship](https://jobright.ai/jobs/info/69cd406a54f00230c6ced7ee?utm_campaign=1058&utm_source=git)** | Leawood, KS 66211, USA | On Site | Apr 01 |
-| **[Great River Health](https://www.greatrivermedical.org)** | **[Summer Nurse Intern / 24 hours per week / WB, FM, HCHC](https://jobright.ai/jobs/info/69cd404d54f00230c6ced774?utm_campaign=1058&utm_source=git)** | Mt. Pleasant, Iowa | On Site | Apr 01 |
-| ↳ | **[Summer Nurse Intern / 24 hours per week / WB, FM, HCHC](https://jobright.ai/jobs/info/69cd4048366bb95ba54f9dec?utm_campaign=1058&utm_source=git)** | West Burlington, Iowa | On Site | Apr 01 |
-| ↳ | **[Summer Nurse Intern / 24 hours per week / WB, FM, HCHC](https://jobright.ai/jobs/info/69cd4048398fb071abf733a8?utm_campaign=1058&utm_source=git)** | Fort Madison, Iowa | On Site | Apr 01 |
-| **[RWJBarnabas Health](https://www.rwjbarnabashealthcareers.org/)** | **[Paramedic Intern](https://jobright.ai/jobs/info/69b4f3c356973837413a0329?utm_campaign=1058&utm_source=git)** | Somerset, NJ | On Site | Apr 01 |
-| **[Nebraska Medicine](https://www.nebraskamed.com)** | **[Inpatient Pharmacy Intern](https://jobright.ai/jobs/info/69cd5cf2cdb525785fb8733f?utm_campaign=1058&utm_source=git)** | Omaha Metropolitan Area | On Site | Apr 01 |
-| **[Kalahari Resorts & Conventions](http://www.kalahariresorts.com)** | **[Intro to Hospitality Internship](https://jobright.ai/jobs/info/68e6b0a3e8daec61499ad737?utm_campaign=1058&utm_source=git)** | Sandusky, OH | On Site | Apr 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
