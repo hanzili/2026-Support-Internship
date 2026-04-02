@@ -57,13 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Goodwin Chevrolet Mazda - Brunswick](http://goodwinchevyme.com)** | **[Part-Time IT Intern](https://jobright.ai/jobs/info/69ce2a4f891d7b11cfcc5b32?utm_campaign=1058&utm_source=git)** | Brunswick, ME | On Site | Apr 02 |
+| **[Koniag Government Services](https://www.koniag-gs.com/)** | **[Intern - Procurement Support](https://jobright.ai/jobs/info/69b1c0c1548f140066e7846c?utm_campaign=1058&utm_source=git)** | Chantilly, VA | On Site | Apr 02 |
+| **[Universal Music Group](https://www.universalmusic.com)** | **[Universal Music Group 2026 Summer Internship Program: Tech Support (Onsite: CA & NY)](https://jobright.ai/jobs/info/69b1b5afd04c69566c73f837?utm_campaign=1058&utm_source=git)** | Santa Monica, CA | On Site | Apr 02 |
+| **[Koniag Government Services](https://www.koniag-gs.com/)** | **[Intern - IT Support/Service Desk](https://jobright.ai/jobs/info/69b1c018d04c69566c73fdac?utm_campaign=1058&utm_source=git)** | Chantilly, VA | On Site | Apr 02 |
+| **[El Paso Water](https://www.epwater.org/)** | **[Library Customer Service Specialist](https://jobright.ai/jobs/info/69ce37d5cdb525785fb95257?utm_campaign=1058&utm_source=git)** | El Paso, TX | On Site | Apr 02 |
+| **[City of Pasco](http://www.pasco-wa.gov)** | **[Department Assistant Intern - Municipal Court](https://jobright.ai/jobs/info/69ce325ccdb525785fb94f86?utm_campaign=1058&utm_source=git)** | Pasco, WA | On Site | Apr 02 |
 | **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE - CRNA Internship](https://jobright.ai/jobs/info/69ce2a4b891d7b11cfcc5b25?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Apr 02 |
 | ↳ | **[REGISTERED NURSE - CRNA Internship](https://jobright.ai/jobs/info/69ce2729cdb525785fb946e0?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Apr 02 |
 | **[Intermountain Health](https://intermountainhealthcare.org)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69ce2451891d7b11cfcc5810?utm_campaign=1058&utm_source=git)** | Provo, UT | On Site | Apr 02 |
 | **[The Global Leadership Network](https://www.globalleadership.org)** | **[GUEST SERVICES REPRESENTATIVE - SUMMER INTERNSHIP](https://jobright.ai/jobs/info/69ce1396cfdc6132f9424600?utm_campaign=1058&utm_source=git)** | Global Leadership Network - South Barrington, IL 60010 | Hybrid | Apr 01 |
 | **[CareDx, Inc.](https://www.caredx.com/)** | **[IT Operations Support Summer Intern 2026](https://jobright.ai/jobs/info/69b453b45697383741390a8d?utm_campaign=1058&utm_source=git)** | Brisbane, CA | On Site | Apr 01 |
 | **[GreenState Credit Union](https://www.uiccu.org)** | **[Information Technology Intern](https://jobright.ai/jobs/info/69ce0a29891d7b11cfcc4527?utm_campaign=1058&utm_source=git)** | North Liberty, IA | On Site | Apr 01 |
+| ↳ | **[Information Technology Intern](https://jobright.ai/jobs/info/69ce35f5366bb95ba5508f2f?utm_campaign=1058&utm_source=git)** | North Liberty, Iowa | On Site | Apr 01 |
 | **[Detroit Manufacturing Systems (DMS)](https://www.dmsna.com)** | **[IT Support Intern - Summer 2026](https://jobright.ai/jobs/info/69cdf5e2cfdc6132f9422efe?utm_campaign=1058&utm_source=git)** | Detroit, MI | On Site | Apr 01 |
 | **[Xometry](https://www.xometry.com)** | **[IT Service Desk Intern](https://jobright.ai/jobs/info/69acaada2747003c3d524801?utm_campaign=1058&utm_source=git)** | North Bethesda, MD | Hybrid | Apr 01 |
 | **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[Radiology Intern](https://jobright.ai/jobs/info/69cde609cfdc6132f9420ef2?utm_campaign=1058&utm_source=git)** | Joplin, MO | On Site | Apr 01 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Intermountain Health](https://intermountainhealthcare.org)** | **[JBPF_13852 - Intern - DTS](https://jobright.ai/jobs/info/69cd6998cfdc6132f9418432?utm_campaign=1058&utm_source=git)** | Intermountain Health Lutheran Hospital | On Site | Apr 01 |
 | **[Colliers](http://www.colliers.com)** | **[Summer Intern](https://jobright.ai/jobs/info/69cd6948cfdc6132f9418419?utm_campaign=1058&utm_source=git)** | Sacramento, CA | On Site | Apr 01 |
 | **[Boston Red Sox](http://www.redsox.com)** | **[Client Services Associate, Communications](https://jobright.ai/jobs/info/69cd66dccdb525785fb877cf?utm_campaign=1058&utm_source=git)** | Boston, MA, United States | On Site | Apr 01 |
-| **[Provincial Senior Living](https://provincialseniorliving.com/)** | **[concierge](https://jobright.ai/jobs/info/69cdb384398fb071abf7b5ba?utm_campaign=1058&utm_source=git)** | Sun City West, AZ | On Site | Apr 01 |
-| **[Colliers](http://www.colliers.com)** | **[Summer Intern](https://jobright.ai/jobs/info/69cd5a6a398fb071abf745cd?utm_campaign=1058&utm_source=git)** | Sacramento, California, United States of America | On Site | Apr 01 |
-| **[UPMC](https://www.upmc.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69b0cfe30b2db6275c0573ca?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | On Site | Apr 01 |
-| **[Spurs Sports & Entertainment](https://www.nba.com/spurs/careers)** | **[Technology Intern](https://jobright.ai/jobs/info/69cd57fc366bb95ba54faf86?utm_campaign=1058&utm_source=git)** | San Antonio, TX | On Site | Apr 01 |
-| **[Aquarion Water Company](http://www.aquarionwater.com)** | **[Intern, Customer Service](https://jobright.ai/jobs/info/69cd5515cfdc6132f9417c15?utm_campaign=1058&utm_source=git)** | Monroe, CT, US, 06468 | On Site | Apr 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
