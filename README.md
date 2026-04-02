@@ -57,12 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Baptist Health Boca Raton Regional Hospital](https://www.brrh.com/)** | **[Nurse Intern, Medical Telemetry, Per Diem, 6:30P-7:00A](https://jobright.ai/jobs/info/69b279dfad360c0340a756f2?utm_campaign=1058&utm_source=git)** | Boca Raton, FL | On Site | Apr 02 |
+| **[Unity Health](https://www.unity-health.org)** | **[Nurse Intern L, Days, PRN 4 South](https://jobright.ai/jobs/info/69ce7296cdb525785fb977e2?utm_campaign=1058&utm_source=git)** | Searcy, AR, US | On Site | Apr 02 |
+| **[MetroPlusHealth](https://www.metroplus.org/)** | **[Summer Intern - Pharmacy](https://jobright.ai/jobs/info/69b2146965de58104c71800f?utm_campaign=1058&utm_source=git)** | New York, NY | Hybrid | Apr 02 |
+| **[SitusAMC](https://www.situsamc.com)** | **[Intern, Document Review](https://jobright.ai/jobs/info/69cdc57b398fb071abf7c16a?utm_campaign=1058&utm_source=git)** | St. Petersburg, FL | On Site | Apr 02 |
+| **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Information Technology (SIR), Emerging Talent Intern (Summer)](https://jobright.ai/jobs/info/697997950791bc1d72304de3?utm_campaign=1058&utm_source=git)** | Staten Island, NY | On Site | Apr 02 |
+| **[GEA Group](http://www.gea.com/)** | **[Customer Service Intern](https://jobright.ai/jobs/info/69ce6bdbcfdc6132f94283ce?utm_campaign=1058&utm_source=git)** | Frisco | On Site | Apr 02 |
+| **[SoLa Impact](https://www.solaimpact.com)** | **[Information Technology Intern - IT/AI](https://jobright.ai/jobs/info/69ce6b51366bb95ba550b5ea?utm_campaign=1058&utm_source=git)** | Los Angeles, CA | On Site | Apr 02 |
 | **[Guthrie](http://www.guthrie.org)** | **[Pharmacy Intern - Pharmacy - Per Diem](https://jobright.ai/jobs/info/683e1a591ef6a607193d3ec8?utm_campaign=1058&utm_source=git)** | Binghamton, NY | On Site | Apr 02 |
 | **[Hyatt Regency](http://www.regency.hyatt.com/)** | **[Summer Internship - Food & Beverage](https://jobright.ai/jobs/info/69ce6153cdb525785fb96ebc?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | Apr 02 |
 | ↳ | **[Summer Internship - Rooms](https://jobright.ai/jobs/info/69b21acf548f140066e8541a?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | Apr 02 |
 | **[UICGS / Bowhead Family of Companies](http://www.bowhead.com)** | **[General Clerk III](https://jobright.ai/jobs/info/69ce5508cfdc6132f94277d5?utm_campaign=1058&utm_source=git)** | San Antonio, TX | On Site | Apr 02 |
 | **[RadNet](https://www.radnet.com)** | **[Intern (Patient Engagement)](https://jobright.ai/jobs/info/69b2100365de58104c717d2c?utm_campaign=1058&utm_source=git)** | Owings Mills, MD | On Site | Apr 02 |
 | ↳ | **[Intern (Patient Engagement)](https://jobright.ai/jobs/info/69bc5ce85b89c002acf1f25d?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Apr 02 |
+| **[University of Vermont](http://www.uvm.edu/medicine)** | **[Technical Support Specialist](https://jobright.ai/jobs/info/699628fcce78e77b4fda1efd?utm_campaign=1058&utm_source=git)** | Burlington, VT | Hybrid | Apr 02 |
 | **[Albany International Corp.](http://www.albint.com/)** | **[IT Operations Intern](https://jobright.ai/jobs/info/69b6603606c1ba00c5483b4e?utm_campaign=1058&utm_source=git)** | Kaukauna, WI | On Site | Apr 02 |
 | **[Starz](http://www.starz.com/)** | **[STARZ Intern, IT Support](https://jobright.ai/jobs/info/69964250ce78e77b4fda3c0b?utm_campaign=1058&utm_source=git)** | Greenwood Village, CO | On Site | Apr 02 |
 | **[BCFS Health & Human Services](https://bcfshhs.org)** | **[Intern - Hotline Response and Service Coordinator](https://jobright.ai/jobs/info/6979367639f7f96cc6d19f94?utm_campaign=1058&utm_source=git)** | San Antonio, Texas Metropolitan Area | On Site | Apr 02 |
@@ -113,8 +121,8 @@ For a complete list, click the following sortable link below:
 | **[Farm Credit Financial Partners, Inc.](https://www.financialpartners.com)** | **[Desktop Technician Intern](https://jobright.ai/jobs/info/69cda869366bb95ba55015ea?utm_campaign=1058&utm_source=git)** | Springfield, MA | Hybrid | Apr 01 |
 | **[Vanderbilt University Medical Center](https://www.vumc.org/main/home)** | **[Pharmacy Intern - Transplant Pharmacy](https://jobright.ai/jobs/info/69cafa96e565c26a70043482?utm_campaign=1058&utm_source=git)** | Nashville Metro | On Site | Apr 01 |
 | **[Trulieve](https://www.trulieve.com)** | **[IT Intern](https://jobright.ai/jobs/info/69cda7e4cdb525785fb8d686?utm_campaign=1058&utm_source=git)** | Tallahassee, FL | Hybrid | Apr 01 |
-| **[Aquarion Water Company](http://www.aquarionwater.com)** | **[Intern, Cross Connections](https://jobright.ai/jobs/info/69ce1b5bcdb525785fb941c8?utm_campaign=1058&utm_source=git)** | Bridgeport, CT | On Site | Apr 01 |
-| ↳ | **[Intern, Customer Service](https://jobright.ai/jobs/info/69ce1b6d366bb95ba5508068?utm_campaign=1058&utm_source=git)** | Monroe, CT | On Site | Apr 01 |
+| **[Aquarion Water Company](http://www.aquarionwater.com)** | **[Intern, Customer Service](https://jobright.ai/jobs/info/69ce1b6d366bb95ba5508068?utm_campaign=1058&utm_source=git)** | Monroe, CT | On Site | Apr 01 |
+| ↳ | **[Intern, Cross Connections](https://jobright.ai/jobs/info/69ce1b5bcdb525785fb941c8?utm_campaign=1058&utm_source=git)** | Bridgeport, CT | On Site | Apr 01 |
 | **[Volvo Construction Equipment](http://www.volvoce.com)** | **[Intern: Reverse Logistics Solutions Support (Summer 2026)](https://jobright.ai/jobs/info/69cda5e6398fb071abf7ae7e?utm_campaign=1058&utm_source=git)** | Shippensburg, PA | On Site | Apr 01 |
 | **[Farm Credit Financial Partners, Inc.](https://www.financialpartners.com)** | **[ServiceNow Administrator Intern](https://jobright.ai/jobs/info/69cdecd6cfdc6132f9421569?utm_campaign=1058&utm_source=git)** | Springfield, MA | Hybrid | Apr 01 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Nurse Intern Cardiovascular](https://jobright.ai/jobs/info/69cda30a54f00230c6cf4fdb?utm_campaign=1058&utm_source=git)** | Wichita, KS, US | On Site | Apr 01 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[New Jersey Courts](https://www.njcourts.gov/)** | **[Unpaid Intern](https://jobright.ai/jobs/info/69cd7ccacfdc6132f94191fb?utm_campaign=1058&utm_source=git)** | Warren, NJ | On Site | Apr 01 |
 | ↳ | **[Unpaid Interns Summer 2026](https://jobright.ai/jobs/info/69cd7cbc54f00230c6cefc9e?utm_campaign=1058&utm_source=git)** | Gloucester, NJ | On Site | Apr 01 |
 | **[Hearst Health](http://www.hearsthealth.com)** | **[IT Helpdesk Co-Op/Intern](https://jobright.ai/jobs/info/69cd7c9d366bb95ba54fc433?utm_campaign=1058&utm_source=git)** | Dallas, TX | On Site | Apr 01 |
-| **[Ascension](https://healthcare.ascension.org)** | **[Imaging Radiology Intern](https://jobright.ai/jobs/info/69cddaf254f00230c6cf774c?utm_campaign=1058&utm_source=git)** | Evansville, IN | On Site | Apr 01 |
-| **[Lutheran Health Network](http://www.lutheranhealth.net)** | **[Nursing Student Intern MSIC](https://jobright.ai/jobs/info/69cd9a15398fb071abf7a608?utm_campaign=1058&utm_source=git)** | Fort Wayne, IN | On Site | Apr 01 |
-| **[Energetiq Technology](http://www.energetiq.com)** | **[Service & Repair Operations Intern](https://jobright.ai/jobs/info/69cd7a3a54f00230c6cefbd2?utm_campaign=1058&utm_source=git)** | Massachusetts , Wilmington, MA, US | On Site | Apr 01 |
-| **[G&J Pepsi-Cola Bottlers, Inc.](https://www.gjpepsi.com)** | **[Intern - Information Technology](https://jobright.ai/jobs/info/69cd799954f00230c6cefb62?utm_campaign=1058&utm_source=git)** | Lexington, KY | On Site | Apr 01 |
-| **[Harmony United Psychiatric Care](https://hupcfl.com)** | **[Psychiatric Office Assistant Internship/Outpatient Clinic (Certification Program)/Tampa](https://jobright.ai/jobs/info/69cde39e54f00230c6cf7e3f?utm_campaign=1058&utm_source=git)** | Tampa, FL | On Site | Apr 01 |
-| **[Ascension](https://healthcare.ascension.org)** | **[Nurse Intern Trauma Surgical ICU](https://jobright.ai/jobs/info/69cdb56754f00230c6cf58e4?utm_campaign=1058&utm_source=git)** | Wichita, KS | On Site | Apr 01 |
-| ↳ | **[Student Nurse Intern Float](https://jobright.ai/jobs/info/69cdb540366bb95ba5501db8?utm_campaign=1058&utm_source=git)** | Baltimore, MD | On Site | Apr 01 |
-| ↳ | **[Student Nurse Intern](https://jobright.ai/jobs/info/69cdb54ccdb525785fb8deab?utm_campaign=1058&utm_source=git)** | Manhattan, KS | On Site | Apr 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
