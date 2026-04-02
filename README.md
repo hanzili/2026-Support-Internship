@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Global Leadership Network](https://www.globalleadership.org)** | **[GUEST SERVICES REPRESENTATIVE - SUMMER INTERNSHIP](https://jobright.ai/jobs/info/69ce1396cfdc6132f9424600?utm_campaign=1058&utm_source=git)** | Global Leadership Network - South Barrington, IL 60010 | Hybrid | Apr 01 |
 | **[CareDx, Inc.](https://www.caredx.com/)** | **[IT Operations Support Summer Intern 2026](https://jobright.ai/jobs/info/69b453b45697383741390a8d?utm_campaign=1058&utm_source=git)** | Brisbane, CA | On Site | Apr 01 |
 | **[GreenState Credit Union](https://www.uiccu.org)** | **[Information Technology Intern](https://jobright.ai/jobs/info/69ce0a29891d7b11cfcc4527?utm_campaign=1058&utm_source=git)** | North Liberty, IA | On Site | Apr 01 |
 | **[Detroit Manufacturing Systems (DMS)](https://www.dmsna.com)** | **[IT Support Intern - Summer 2026](https://jobright.ai/jobs/info/69cdf5e2cfdc6132f9422efe?utm_campaign=1058&utm_source=git)** | Detroit, MI | On Site | Apr 01 |
@@ -84,6 +85,8 @@ For a complete list, click the following sortable link below:
 | **[Farm Credit Financial Partners, Inc.](https://www.financialpartners.com)** | **[Desktop Technician Intern](https://jobright.ai/jobs/info/69cda869366bb95ba55015ea?utm_campaign=1058&utm_source=git)** | Springfield, MA | Hybrid | Apr 01 |
 | **[Vanderbilt University Medical Center](https://www.vumc.org/main/home)** | **[Pharmacy Intern - Transplant Pharmacy](https://jobright.ai/jobs/info/69cafa96e565c26a70043482?utm_campaign=1058&utm_source=git)** | Nashville Metro | On Site | Apr 01 |
 | **[Trulieve](https://www.trulieve.com)** | **[IT Intern](https://jobright.ai/jobs/info/69cda7e4cdb525785fb8d686?utm_campaign=1058&utm_source=git)** | Tallahassee, FL | Hybrid | Apr 01 |
+| **[Aquarion Water Company](http://www.aquarionwater.com)** | **[Intern, Cross Connections](https://jobright.ai/jobs/info/69ce1b5bcdb525785fb941c8?utm_campaign=1058&utm_source=git)** | Bridgeport, CT | On Site | Apr 01 |
+| ↳ | **[Intern, Customer Service](https://jobright.ai/jobs/info/69ce1b6d366bb95ba5508068?utm_campaign=1058&utm_source=git)** | Monroe, CT | On Site | Apr 01 |
 | **[Volvo Construction Equipment](http://www.volvoce.com)** | **[Intern: Reverse Logistics Solutions Support (Summer 2026)](https://jobright.ai/jobs/info/69cda5e6398fb071abf7ae7e?utm_campaign=1058&utm_source=git)** | Shippensburg, PA | On Site | Apr 01 |
 | **[Farm Credit Financial Partners, Inc.](https://www.financialpartners.com)** | **[ServiceNow Administrator Intern](https://jobright.ai/jobs/info/69cdecd6cfdc6132f9421569?utm_campaign=1058&utm_source=git)** | Springfield, MA | Hybrid | Apr 01 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Nurse Intern Cardiovascular](https://jobright.ai/jobs/info/69cda30a54f00230c6cf4fdb?utm_campaign=1058&utm_source=git)** | Wichita, KS, US | On Site | Apr 01 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ascension](https://healthcare.ascension.org)** | **[Nurse Intern Trauma Surgical ICU](https://jobright.ai/jobs/info/69cd54ff891d7b11cfcb7ed7?utm_campaign=1058&utm_source=git)** | US-KS-Wichita | On Site | Apr 01 |
 | ↳ | **[Nurse Intern Trauma Surgical ICU](https://jobright.ai/jobs/info/69cd54facdb525785fb86fd7?utm_campaign=1058&utm_source=git)** | Wichita, KS, US | On Site | Apr 01 |
 | **[Community Health Systems](http://www.chs.net)** | **[Nursing Student Intern MSIC](https://jobright.ai/jobs/info/69cd54b6cdb525785fb86e89?utm_campaign=1058&utm_source=git)** | 7950 WEST JEFFERSON BOULEVARD, FORT WAYNE, IN, 46804, US | On Site | Apr 01 |
-| **[Mount Carmel Health System](https://www.mountcarmelhealth.com/)** | **[Pharmacy Intern Mount Carmel Dublin](https://jobright.ai/jobs/info/6994dca781476f6176acb0af?utm_campaign=1058&utm_source=git)** | Dublin, OH | On Site | Apr 01 |
-| **[Kalahari Resorts & Conventions](http://www.kalahariresorts.com)** | **[Intro to Hospitality Internship](https://jobright.ai/jobs/info/68e6af4bae2b894b1d71c7f6?utm_campaign=1058&utm_source=git)** | Round Rock, TX | On Site | Apr 01 |
-| **[All Roads](https://allroadscompany.com)** | **[Service Writer - 2nd Shift](https://jobright.ai/jobs/info/69cdd62354f00230c6cf6f26?utm_campaign=1058&utm_source=git)** | Rosedale, MD | On Site | Apr 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
