@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Guthrie](http://www.guthrie.org)** | **[Pharmacy Intern - Pharmacy - Per Diem](https://jobright.ai/jobs/info/683e1a591ef6a607193d3ec8?utm_campaign=1058&utm_source=git)** | Binghamton, NY | On Site | Apr 02 |
+| **[Hyatt Regency](http://www.regency.hyatt.com/)** | **[Summer Internship - Food & Beverage](https://jobright.ai/jobs/info/69ce6153cdb525785fb96ebc?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | Apr 02 |
+| ↳ | **[Summer Internship - Rooms](https://jobright.ai/jobs/info/69b21acf548f140066e8541a?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | Apr 02 |
 | **[UICGS / Bowhead Family of Companies](http://www.bowhead.com)** | **[General Clerk III](https://jobright.ai/jobs/info/69ce5508cfdc6132f94277d5?utm_campaign=1058&utm_source=git)** | San Antonio, TX | On Site | Apr 02 |
 | **[RadNet](https://www.radnet.com)** | **[Intern (Patient Engagement)](https://jobright.ai/jobs/info/69b2100365de58104c717d2c?utm_campaign=1058&utm_source=git)** | Owings Mills, MD | On Site | Apr 02 |
 | ↳ | **[Intern (Patient Engagement)](https://jobright.ai/jobs/info/69bc5ce85b89c002acf1f25d?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Apr 02 |
@@ -79,7 +82,6 @@ For a complete list, click the following sortable link below:
 | **[Intermountain Health](https://intermountainhealthcare.org)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69ce2451891d7b11cfcc5810?utm_campaign=1058&utm_source=git)** | Provo, UT | On Site | Apr 02 |
 | **[Waco Tribune-Herald](http://wacotrib.com)** | **[Customer Service Lead](https://jobright.ai/jobs/info/69ce404ecdb525785fb9588f?utm_campaign=1058&utm_source=git)** | Fresno, CA | On Site | Apr 02 |
 | **[The Global Leadership Network](https://www.globalleadership.org)** | **[GUEST SERVICES REPRESENTATIVE - SUMMER INTERNSHIP](https://jobright.ai/jobs/info/69ce1396cfdc6132f9424600?utm_campaign=1058&utm_source=git)** | Global Leadership Network - South Barrington, IL 60010 | Hybrid | Apr 01 |
-| **[Fred Meyer](https://www.fredmeyer.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69ce47d5cdb525785fb96309?utm_campaign=1058&utm_source=git)** | Coos Bay, OR | On Site | Apr 01 |
 | **[Rentokil Réunion - Les experts de la lutte contre les nuisibles partout  à la Réunion](https://www.rentokil.re)** | **[Planning Specialist, Customer Service](https://jobright.ai/jobs/info/69ce4057cdb525785fb95906?utm_campaign=1058&utm_source=git)** | Atlanta, GA | On Site | Apr 01 |
 | **[CareDx, Inc.](https://www.caredx.com/)** | **[IT Operations Support Summer Intern 2026](https://jobright.ai/jobs/info/69b453b45697383741390a8d?utm_campaign=1058&utm_source=git)** | Brisbane, CA | On Site | Apr 01 |
 | **[GreenState Credit Union](https://www.uiccu.org)** | **[Information Technology Intern](https://jobright.ai/jobs/info/69ce0a29891d7b11cfcc4527?utm_campaign=1058&utm_source=git)** | North Liberty, IA | On Site | Apr 01 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ascension](https://healthcare.ascension.org)** | **[Nurse Intern Trauma Surgical ICU](https://jobright.ai/jobs/info/69cdb56754f00230c6cf58e4?utm_campaign=1058&utm_source=git)** | Wichita, KS | On Site | Apr 01 |
 | ↳ | **[Student Nurse Intern Float](https://jobright.ai/jobs/info/69cdb540366bb95ba5501db8?utm_campaign=1058&utm_source=git)** | Baltimore, MD | On Site | Apr 01 |
 | ↳ | **[Student Nurse Intern](https://jobright.ai/jobs/info/69cdb54ccdb525785fb8deab?utm_campaign=1058&utm_source=git)** | Manhattan, KS | On Site | Apr 01 |
-| **[McKee Foods Corporation](http://www.mckeefoods.com/)** | **[IT Asset Intern – Summer 2026](https://jobright.ai/jobs/info/69c30b9a753c101b21568550?utm_campaign=1058&utm_source=git)** | Collegedale, TN | On Site | Apr 01 |
-| **[Topcon Healthcare](https://topconhealthcare.com)** | **[IT Intern](https://jobright.ai/jobs/info/69c5b3751818a24cd84b9932?utm_campaign=1058&utm_source=git)** | La Jolla, California, United States | On Site | Apr 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
