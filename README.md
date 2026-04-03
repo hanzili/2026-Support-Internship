@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kaweah Health](https://www.kaweahhealth.org)** | **[Student Nurse Intern](https://jobright.ai/jobs/info/69cf7070366bb95ba55169c7?utm_campaign=1058&utm_source=git)** | Visalia, California | On Site | Apr 03 |
 | **[Johns Hopkins Hospital](https://www.hopkinsmedicine.org/the-johns-hopkins-hospital)** | **[Patient Care Tech Intern - CNA - Comprehensive Transplant Unit](https://jobright.ai/jobs/info/69cf5dc6891d7b11cfcd2c23?utm_campaign=1058&utm_source=git)** | DC-Baltimore Area | On Site | Apr 02 |
 | **[AYR Wellness Inc.](https://www.ayrwellness.com/)** | **[Pharmacist Intern (Part-time)](https://jobright.ai/jobs/info/69cf5d32cdb525785fba18de?utm_campaign=1058&utm_source=git)** | Richmond, VA | On Site | Apr 02 |
 | **[BioSpace](http://www.biospace.com/)** | **[Patients Supply Operations, Technical Development Intern](https://jobright.ai/jobs/info/69cf4573cdb525785fba0bf1?utm_campaign=1058&utm_source=git)** | Somerset, NJ | On Site | Apr 02 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[MUSC Children's Health](https://musckids.org)** | **[Pharmacy Student Intern - Outpatient Pharmacy](https://jobright.ai/jobs/info/69ced904891d7b11cfccd694?utm_campaign=1058&utm_source=git)** | Charleston, SC | On Site | Apr 02 |
 | **[UDT](http://www.udtonline.com)** | **[MSP Support Intern](https://jobright.ai/jobs/info/69ceaa07cdb525785fb99e3e?utm_campaign=1058&utm_source=git)** | Miramar, FL | On Site | Apr 02 |
 | **[Withum](http://www.withum.com)** | **[IT Internship Summer 2026](https://jobright.ai/jobs/info/69a7c3a0637232443f651fe0?utm_campaign=1058&utm_source=git)** | Greater Orlando | Hybrid | Apr 02 |
-| **[Ascension](https://healthcare.ascension.org)** | **[Student Nurse Intern Cardiac Tele](https://jobright.ai/jobs/info/69cea707891d7b11cfccafb5?utm_campaign=1058&utm_source=git)** | Baltimore, MD, US | On Site | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
