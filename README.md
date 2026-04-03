@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Allegacy Federal Credit Union](https://www.allegacy.org)** | **[Student Assistant Intern – Service & Support (Deposit Operations & Card Services)](https://jobright.ai/jobs/info/69cf2804398fb071abf8ca94?utm_campaign=1058&utm_source=git)** | Winston-Salem, NC | On Site | Apr 02 |
+| **[University of Cincinnati](http://researchcompliance.uc.edu/UCTCA.aspx)** | **[IT Student Associate - 1819 Innovation Hub](https://jobright.ai/jobs/info/69cf27d5398fb071abf8ca79?utm_campaign=1058&utm_source=git)** | Cincinnati, OH | On Site | Apr 02 |
+| **[Ascension](https://healthcare.ascension.org)** | **[Nurse Intern Observation Telemetry](https://jobright.ai/jobs/info/69cf22ad366bb95ba5512dd2?utm_campaign=1058&utm_source=git)** | Wichita, KS | On Site | Apr 02 |
+| **[Memorial Hermann Health System](https://www.memorialhermann.org/foundation)** | **[Supplemental Specialty Pharmacy Intern](https://jobright.ai/jobs/info/69cf227dcdb525785fb9edd7?utm_campaign=1058&utm_source=git)** | Katy, TX | On Site | Apr 02 |
+| **[Denver Health](http://www.denverhealth.org)** | **[Dental Assistant Intern](https://jobright.ai/jobs/info/69cf20dc366bb95ba5512d01?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | Apr 02 |
 | **[UTHealth Houston](https://www.uth.edu/stroke-institute/)** | **[Epic Intern in Revenue Cycle - Seasonal Hire](https://jobright.ai/jobs/info/69cf182c398fb071abf8c439?utm_campaign=1058&utm_source=git)** | Houston, TX | Hybrid | Apr 02 |
 | **[Tandem Diabetes Care](http://www.tandemdiabetes.com)** | **[IT Technician Intern](https://jobright.ai/jobs/info/69cf1804891d7b11cfccff14?utm_campaign=1058&utm_source=git)** | Barnes, CA | On Site | Apr 02 |
 | **[NXP Semiconductors](https://www.nxp.com)** | **[Americas Customer Application Support Internship - Summer 2026](https://jobright.ai/jobs/info/69cf156bcdb525785fb9ea0c?utm_campaign=1058&utm_source=git)** | Novi, MI | On Site | Apr 02 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Veolia](http://www.veolia.com/en/)** | **[Customer Service Intern](https://jobright.ai/jobs/info/69cf04d9891d7b11cfccf4d1?utm_campaign=1058&utm_source=git)** | West Nyack, NY | On Site | Apr 02 |
 | **[Emprise Bank](https://www.emprisebank.com)** | **[Customer Experience Intern - Wichita, KS](https://jobright.ai/jobs/info/69ce9e0c891d7b11cfcca4e6?utm_campaign=1058&utm_source=git)** | Wichita, Kansas, United States | On Site | Apr 02 |
 | **[Nemours Children's Health](http://www.nemours.org)** | **[Pharmacy Student Intern (Casual/PRN)](https://jobright.ai/jobs/info/69ce9d6dcfdc6132f942a01c?utm_campaign=1058&utm_source=git)** | 1600 Rockland Road, Wilmington, DE, 19803, US | On Site | Apr 02 |
-| **[Podium](https://www.podium.com)** | **[Technical Support Specialist - AI (Intern)](https://jobright.ai/jobs/info/69ce99fe366bb95ba550d19b?utm_campaign=1058&utm_source=git)** | Lehi, Utah | On Site | Apr 02 |
-| **[Lumicera Health Services](https://www.lumicera.com/)** | **[Summer Intern- IT Support](https://jobright.ai/jobs/info/69ce9825cfdc6132f9429acb?utm_campaign=1058&utm_source=git)** | Appleton, WI | On Site | Apr 02 |
-| **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[IT Intern Summer 2026 - Irving, TX](https://jobright.ai/jobs/info/69c90a4bb773006330b83a64?utm_campaign=1058&utm_source=git)** | Irving, TX | On Site | Apr 02 |
-| **[Veolia | North America](http://growingblue.com/)** | **[Customer Service Intern](https://jobright.ai/jobs/info/69ce981054f00230c6d00835?utm_campaign=1058&utm_source=git)** | West Nyack, NY | On Site | Apr 02 |
-| **[Winnipeg Regional Health Authority (WRHA)](https://www.wrha.mb.ca)** | **[Indigenous Interpreter/ Resource Worker Intern - Repost](https://jobright.ai/jobs/info/69bee003393a1008f744b9cb?utm_campaign=1058&utm_source=git)** | Winnipeg, MB | On Site | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
