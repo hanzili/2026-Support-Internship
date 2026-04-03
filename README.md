@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[UTHealth Houston](https://www.uth.edu/stroke-institute/)** | **[Epic Intern in Revenue Cycle - Seasonal Hire](https://jobright.ai/jobs/info/69cf182c398fb071abf8c439?utm_campaign=1058&utm_source=git)** | Houston, TX | Hybrid | Apr 02 |
+| **[Tandem Diabetes Care](http://www.tandemdiabetes.com)** | **[IT Technician Intern](https://jobright.ai/jobs/info/69cf1804891d7b11cfccff14?utm_campaign=1058&utm_source=git)** | Barnes, CA | On Site | Apr 02 |
+| **[NXP Semiconductors](https://www.nxp.com)** | **[Americas Customer Application Support Internship - Summer 2026](https://jobright.ai/jobs/info/69cf156bcdb525785fb9ea0c?utm_campaign=1058&utm_source=git)** | Novi, MI | On Site | Apr 02 |
+| **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Customer Experience Analyst Intern (Year Round)](https://jobright.ai/jobs/info/69cf1405cdb525785fb9e98f?utm_campaign=1058&utm_source=git)** | Tucson, AZ | On Site | Apr 02 |
 | **[Children's Rescue Fund](https://childrensrescuefund.org)** | **[IT Help Desk Support Intern](https://jobright.ai/jobs/info/69cf0b53cdb525785fb9e29c?utm_campaign=1058&utm_source=git)** | Bronx, NY | On Site | Apr 02 |
 | **[Herc Rentals](http://www.HercRentals.com)** | **[ProSales Intern - (Gaithersburg, MD)](https://jobright.ai/jobs/info/69c54d7c1818a24cd84b3b5d?utm_campaign=1058&utm_source=git)** | Gaithersburg, MD | On Site | Apr 02 |
 | **[C2Q Health Solutions](https://www.c2qhealthsolutions.com)** | **[SUMMER INTERN - MEDICAL PRACTICE](https://jobright.ai/jobs/info/69cf06b8891d7b11cfccf5cf?utm_campaign=1058&utm_source=git)** | Bronx, NY | On Site | Apr 02 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[IT Intern Summer 2026 - Irving, TX](https://jobright.ai/jobs/info/69c90a4bb773006330b83a64?utm_campaign=1058&utm_source=git)** | Irving, TX | On Site | Apr 02 |
 | **[Veolia | North America](http://growingblue.com/)** | **[Customer Service Intern](https://jobright.ai/jobs/info/69ce981054f00230c6d00835?utm_campaign=1058&utm_source=git)** | West Nyack, NY | On Site | Apr 02 |
 | **[Winnipeg Regional Health Authority (WRHA)](https://www.wrha.mb.ca)** | **[Indigenous Interpreter/ Resource Worker Intern - Repost](https://jobright.ai/jobs/info/69bee003393a1008f744b9cb?utm_campaign=1058&utm_source=git)** | Winnipeg, MB | On Site | Apr 02 |
-| **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse II Med/Surg](https://jobright.ai/jobs/info/69ceb4bfcfdc6132f942afef?utm_campaign=1058&utm_source=git)** | Memphis, TN | On Site | Apr 02 |
-| **[IBM](http://www.ibm.com)** | **[Tech Support Intern 2026](https://jobright.ai/jobs/info/69b3d5a7ae2a534885eb4db4?utm_campaign=1058&utm_source=git)** | Lowell, MA | Hybrid | Apr 02 |
-| ↳ | **[Tech Support Intern 2026](https://jobright.ai/jobs/info/69b3d596a8ac8e70ff681f47?utm_campaign=1058&utm_source=git)** | San Jose, CA | Hybrid | Apr 02 |
-| **[Veolia | North America](http://growingblue.com/)** | **[Customer Service Intern](https://jobright.ai/jobs/info/69ceba1954f00230c6d0241a?utm_campaign=1058&utm_source=git)** | West Nyack, NY | On Site | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
