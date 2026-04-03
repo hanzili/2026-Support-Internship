@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Children's Rescue Fund](https://childrensrescuefund.org)** | **[IT Help Desk Support Intern](https://jobright.ai/jobs/info/69cf0b53cdb525785fb9e29c?utm_campaign=1058&utm_source=git)** | Bronx, NY | On Site | Apr 02 |
+| **[Herc Rentals](http://www.HercRentals.com)** | **[ProSales Intern - (Gaithersburg, MD)](https://jobright.ai/jobs/info/69c54d7c1818a24cd84b3b5d?utm_campaign=1058&utm_source=git)** | Gaithersburg, MD | On Site | Apr 02 |
+| **[C2Q Health Solutions](https://www.c2qhealthsolutions.com)** | **[SUMMER INTERN - MEDICAL PRACTICE](https://jobright.ai/jobs/info/69cf06b8891d7b11cfccf5cf?utm_campaign=1058&utm_source=git)** | Bronx, NY | On Site | Apr 02 |
+| **[Cleveland-Cliffs](http://www.clevelandcliffs.com)** | **[IT Intern](https://jobright.ai/jobs/info/69cf06b054f00230c6d05db9?utm_campaign=1058&utm_source=git)** | Detroit, MI | On Site | Apr 02 |
+| **[Vivie](https://vivie.org/)** | **[IT Support Intern](https://jobright.ai/jobs/info/69cf068fcfdc6132f942eedf?utm_campaign=1058&utm_source=git)** | Minnetonka, MN | On Site | Apr 02 |
 | **[Children's Minnesota](https://www.childrensmn.org/)** | **[Respiratory Care Intern](https://jobright.ai/jobs/info/69ceffa754f00230c6d05b57?utm_campaign=1058&utm_source=git)** | St Paul, MN | On Site | Apr 02 |
 | **[Andis Company](https://andis.com)** | **[IT Intern - Fall 2026](https://jobright.ai/jobs/info/69ceff58891d7b11cfccf339?utm_campaign=1058&utm_source=git)** | Racine County, WI | On Site | Apr 02 |
 | **[Children's Rescue Fund](https://childrensrescuefund.org)** | **[IT Help Desk Support Intern](https://jobright.ai/jobs/info/69cefaff366bb95ba5511bff?utm_campaign=1058&utm_source=git)** | Head Office, Bronx, NY, US | On Site | Apr 02 |
@@ -140,8 +145,8 @@ For a complete list, click the following sortable link below:
 | **[Houston Methodist](http://www.houstonmethodist.org/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69ceeea4366bb95ba5511213?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Apr 02 |
 | **[Allegion](https://www.allegion.com)** | **[Summer Student Intern](https://jobright.ai/jobs/info/69c8551de565c26a7002ec90?utm_campaign=1058&utm_source=git)** | Mississauga, ON | On Site | Apr 02 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69ce9ffc891d7b11cfccac1d?utm_campaign=1058&utm_source=git)** | Wayne, MI | On Site | Apr 02 |
+| **[Veolia](http://www.veolia.com/en/)** | **[Customer Service Intern](https://jobright.ai/jobs/info/69cf04d9891d7b11cfccf4d1?utm_campaign=1058&utm_source=git)** | West Nyack, NY | On Site | Apr 02 |
 | **[Emprise Bank](https://www.emprisebank.com)** | **[Customer Experience Intern - Wichita, KS](https://jobright.ai/jobs/info/69ce9e0c891d7b11cfcca4e6?utm_campaign=1058&utm_source=git)** | Wichita, Kansas, United States | On Site | Apr 02 |
-| **[Veolia](http://www.veolia.com/en/)** | **[Customer Service Intern](https://jobright.ai/jobs/info/69ceea8ecfdc6132f942de58?utm_campaign=1058&utm_source=git)** | West Nyack, NY | On Site | Apr 02 |
 | **[Nemours Children's Health](http://www.nemours.org)** | **[Pharmacy Student Intern (Casual/PRN)](https://jobright.ai/jobs/info/69ce9d6dcfdc6132f942a01c?utm_campaign=1058&utm_source=git)** | 1600 Rockland Road, Wilmington, DE, 19803, US | On Site | Apr 02 |
 | **[Podium](https://www.podium.com)** | **[Technical Support Specialist - AI (Intern)](https://jobright.ai/jobs/info/69ce99fe366bb95ba550d19b?utm_campaign=1058&utm_source=git)** | Lehi, Utah | On Site | Apr 02 |
 | **[Lumicera Health Services](https://www.lumicera.com/)** | **[Summer Intern- IT Support](https://jobright.ai/jobs/info/69ce9825cfdc6132f9429acb?utm_campaign=1058&utm_source=git)** | Appleton, WI | On Site | Apr 02 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[Tech Support Intern 2026](https://jobright.ai/jobs/info/69b3d5a7ae2a534885eb4db4?utm_campaign=1058&utm_source=git)** | Lowell, MA | Hybrid | Apr 02 |
 | ↳ | **[Tech Support Intern 2026](https://jobright.ai/jobs/info/69b3d596a8ac8e70ff681f47?utm_campaign=1058&utm_source=git)** | San Jose, CA | Hybrid | Apr 02 |
 | **[Veolia | North America](http://growingblue.com/)** | **[Customer Service Intern](https://jobright.ai/jobs/info/69ceba1954f00230c6d0241a?utm_campaign=1058&utm_source=git)** | West Nyack, NY | On Site | Apr 02 |
-| **[Amphenol Communications Solutions](http://www.mergeoptics.com)** | **[IT Intern - Summer 2026](https://jobright.ai/jobs/info/69ce899d891d7b11cfcc9a5a?utm_campaign=1058&utm_source=git)** | Hamden, CT | On Site | Apr 02 |
-| **[Trinity Health](http://www.trinity-health.org)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69b1af36548f140066e778da?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Apr 02 |
-| **[Portacool, LLC](https://www.portacool.com/en/us/home)** | **[Portacool Customer Care Internship](https://jobright.ai/jobs/info/69ce8835398fb071abf86206?utm_campaign=1058&utm_source=git)** | Center,TX,US | On Site | Apr 02 |
-| **[Sewickley Academy](https://www.sewickley.org)** | **[Computer Technology Support Intern](https://jobright.ai/jobs/info/69ce8834398fb071abf861f3?utm_campaign=1058&utm_source=git)** | Sewickley,PA,US | On Site | Apr 02 |
-| **[Ascension](https://healthcare.ascension.org)** | **[Licensed Practical Nurse Intern Cardiovascular](https://jobright.ai/jobs/info/69b1c6a765de58104c70cffc?utm_campaign=1058&utm_source=git)** | Wichita, KS | On Site | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
