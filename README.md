@@ -60,8 +60,8 @@ For a complete list, click the following sortable link below:
 | **[BioSpace](http://www.biospace.com/)** | **[Patients Supply Operations, Technical Development Intern](https://jobright.ai/jobs/info/69cf4573cdb525785fba0bf1?utm_campaign=1058&utm_source=git)** | Somerset, NJ | On Site | Apr 02 |
 | **[Houston Methodist](http://www.houstonmethodist.org/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69cf444a398fb071abf8e544?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Apr 02 |
 | **[Golden 1 Credit Union](https://www.golden1.com/)** | **[Member Care Collections and Loss Mitigation - Member Care Rep II](https://jobright.ai/jobs/info/69cf409f891d7b11cfcd1ef0?utm_campaign=1058&utm_source=git)** | Sacramento, CA | On Site | Apr 02 |
-| **[Ascension](https://healthcare.ascension.org)** | **[Nursing Intern](https://jobright.ai/jobs/info/69cf34ed54f00230c6d07b89?utm_campaign=1058&utm_source=git)** | Franklin, WI | On Site | Apr 02 |
-| ↳ | **[Student Nurse Intern](https://jobright.ai/jobs/info/69cf34ed54f00230c6d07b8d?utm_campaign=1058&utm_source=git)** | Middleburg, FL | On Site | Apr 02 |
+| **[Ascension](https://healthcare.ascension.org)** | **[Student Nurse Intern](https://jobright.ai/jobs/info/69cf34ed54f00230c6d07b8d?utm_campaign=1058&utm_source=git)** | Middleburg, FL | On Site | Apr 02 |
+| ↳ | **[Nursing Intern](https://jobright.ai/jobs/info/69cf34ed54f00230c6d07b89?utm_campaign=1058&utm_source=git)** | Franklin, WI | On Site | Apr 02 |
 | **[Wealth Enhancement](http://wealthenhancement.com/)** | **[Intern](https://jobright.ai/jobs/info/69cf30d7cfdc6132f94307a6?utm_campaign=1058&utm_source=git)** | Itasca, IL | On Site | Apr 02 |
 | **[Lower Columbia College](http://www.lowercolumbia.edu/)** | **[Student Help – Food Pantry Assistant (International Students Only)](https://jobright.ai/jobs/info/69cf2be8891d7b11cfcd0b10?utm_campaign=1058&utm_source=git)** | Longview, WA | On Site | Apr 02 |
 | **[Allegacy Federal Credit Union](https://www.allegacy.org)** | **[Student Assistant Intern – Service & Support (Deposit Operations & Card Services)](https://jobright.ai/jobs/info/69cf2804398fb071abf8ca94?utm_campaign=1058&utm_source=git)** | Winston-Salem, NC | On Site | Apr 02 |
@@ -78,7 +78,7 @@ For a complete list, click the following sortable link below:
 | **[C2Q Health Solutions](https://www.c2qhealthsolutions.com)** | **[SUMMER INTERN - MEDICAL PRACTICE](https://jobright.ai/jobs/info/69cf06b8891d7b11cfccf5cf?utm_campaign=1058&utm_source=git)** | Bronx, NY | On Site | Apr 02 |
 | **[Cleveland-Cliffs](http://www.clevelandcliffs.com)** | **[IT Intern](https://jobright.ai/jobs/info/69cf06b054f00230c6d05db9?utm_campaign=1058&utm_source=git)** | Detroit, MI | On Site | Apr 02 |
 | **[Vivie](https://vivie.org/)** | **[IT Support Intern](https://jobright.ai/jobs/info/69cf068fcfdc6132f942eedf?utm_campaign=1058&utm_source=git)** | Minnetonka, MN | On Site | Apr 02 |
-| **[Children's Minnesota](https://www.childrensmn.org/)** | **[Respiratory Care Intern](https://jobright.ai/jobs/info/69cf32ee398fb071abf8d5f0?utm_campaign=1058&utm_source=git)** | Minneapolis, MN | On Site | Apr 02 |
+| **[Children's Minnesota](https://www.childrensmn.org/)** | **[Respiratory Care Intern](https://jobright.ai/jobs/info/69cf32e9398fb071abf8d5e7?utm_campaign=1058&utm_source=git)** | Minneapolis, MN | On Site | Apr 02 |
 | ↳ | **[Respiratory Care Intern](https://jobright.ai/jobs/info/69ceffa754f00230c6d05b57?utm_campaign=1058&utm_source=git)** | St Paul, MN | On Site | Apr 02 |
 | **[Andis Company](https://andis.com)** | **[IT Intern - Fall 2026](https://jobright.ai/jobs/info/69ceff58891d7b11cfccf339?utm_campaign=1058&utm_source=git)** | Racine County, WI | On Site | Apr 02 |
 | **[Children's Rescue Fund](https://childrensrescuefund.org)** | **[IT Help Desk Support Intern](https://jobright.ai/jobs/info/69cefaff366bb95ba5511bff?utm_campaign=1058&utm_source=git)** | Head Office, Bronx, NY, US | On Site | Apr 02 |
