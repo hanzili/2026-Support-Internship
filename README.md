@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Therma-Tru Doors](http://www.thermatru.com/)** | **[IT Infrastructure Intern](https://jobright.ai/jobs/info/69b37358a8ac8e70ff67b9ab?utm_campaign=1058&utm_source=git)** | Butler, IN | On Site | Apr 03 |
+| **[Baptist Health Boca Raton Regional Hospital](https://www.brrh.com/)** | **[Nurse Intern, Medical Telemetry, Per Diem, 6:30A-7:00P](https://jobright.ai/jobs/info/69cf862fcdb525785fba35c5?utm_campaign=1058&utm_source=git)** | Boca Raton, FL | On Site | Apr 03 |
+| ↳ | **[Nurse Intern, Medical Telemetry, Per Diem, 6:30P-7:00A](https://jobright.ai/jobs/info/69cf8614398fb071abf90f4b?utm_campaign=1058&utm_source=git)** | Boca Raton, FL | On Site | Apr 03 |
 | **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE - CRNA Internship](https://jobright.ai/jobs/info/69cf7950891d7b11cfcd3ed4?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Apr 03 |
 | ↳ | **[REGISTERED NURSE - CRNA Internship](https://jobright.ai/jobs/info/69cf77e2366bb95ba5516d27?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Apr 03 |
-| **[Sewickley Academy](https://www.sewickley.org)** | **[Computer Technology Support Intern](https://jobright.ai/jobs/info/69cf77bf891d7b11cfcd3ea8?utm_campaign=1058&utm_source=git)** | Sewickley, PA | On Site | Apr 03 |
 | **[Crouse Health](http://www.crouse.org/nursing)** | **[Surgical Technologist Internship](https://jobright.ai/jobs/info/69cf7600398fb071abf905f0?utm_campaign=1058&utm_source=git)** | Syracuse, NY | On Site | Apr 03 |
 | **[Riverside Health](http://www.riversideonline.com)** | **[Summer Intern](https://jobright.ai/jobs/info/69cf75ce891d7b11cfcd3e25?utm_campaign=1058&utm_source=git)** | Smithfield, VA | On Site | Apr 03 |
 | **[Kaweah Health](https://www.kaweahhealth.org)** | **[Student Nurse Intern](https://jobright.ai/jobs/info/69cf7070366bb95ba55169c7?utm_campaign=1058&utm_source=git)** | Visalia, California | On Site | Apr 03 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[RBC Bearings](http://www.rbcbearings.com/)** | **[IT Support & Applications Intern (ITSUP006129)](https://jobright.ai/jobs/info/69ceb1b354f00230c6d01ca1?utm_campaign=1058&utm_source=git)** | Tucson, AZ | On Site | Apr 02 |
 | **[Uline](http://www.uline.com)** | **[Customer Service Internship - Year-Round](https://jobright.ai/jobs/info/697a5a26a5b9804527e02a9b?utm_campaign=1058&utm_source=git)** | Kenosha, WI | On Site | Apr 02 |
 | **[Northside Hospital](http://www.northside.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69cf387a398fb071abf8d95f?utm_campaign=1058&utm_source=git)** | Cumming, GA, US | On Site | Apr 02 |
-| **[NYC Department of Housing Preservation & Development](https://www.nyc.gov/site/hpd/)** | **[Undergraduate Summer Intern, Clerical Worker](https://jobright.ai/jobs/info/69cedca6398fb071abf89e5f?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Apr 02 |
-| **[Ascension](https://healthcare.ascension.org)** | **[Nurse Intern Trauma Surgical ICU](https://jobright.ai/jobs/info/69ceadc0891d7b11cfccb2c0?utm_campaign=1058&utm_source=git)** | US-KS-Wichita | On Site | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
