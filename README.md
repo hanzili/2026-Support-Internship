@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MetroPlusHealth](https://www.metroplus.org/)** | **[Summer Intern - ServiceNow](https://jobright.ai/jobs/info/69b31c79a8ac8e70ff6740a0?utm_campaign=1058&utm_source=git)** | New York, NY | Hybrid | Apr 03 |
+| **[West Basin Municipal Water District](https://www.westbasin.org)** | **[Information Technology Intern](https://jobright.ai/jobs/info/69cf9f7b366bb95ba5517a70?utm_campaign=1058&utm_source=git)** | Carson, CA | On Site | Apr 03 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[Associate Customer Service Representative Spanish Bilingual Everyday Banking](https://jobright.ai/jobs/info/69cf9921cdb525785fba38b5?utm_campaign=1058&utm_source=git)** | Phoenix, AZ | On Site | Apr 03 |
 | ↳ | **[Associate Customer Service Representative Spanish Bilingual Everyday Banking](https://jobright.ai/jobs/info/69cf9917cfdc6132f9434754?utm_campaign=1058&utm_source=git)** | San Antonio, TX | On Site | Apr 03 |
 | **[Tenet Healthcare](http://tenethealth.com)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/6922ebeec0cefa13343d9df2?utm_campaign=1058&utm_source=git)** | Memphis, TN | On Site | Apr 03 |
@@ -94,7 +96,7 @@ For a complete list, click the following sortable link below:
 | **[C2Q Health Solutions](https://www.c2qhealthsolutions.com)** | **[SUMMER INTERN - MEDICAL PRACTICE](https://jobright.ai/jobs/info/69cf06b8891d7b11cfccf5cf?utm_campaign=1058&utm_source=git)** | Bronx, NY | On Site | Apr 02 |
 | **[Cleveland-Cliffs](http://www.clevelandcliffs.com)** | **[IT Intern](https://jobright.ai/jobs/info/69cf06b054f00230c6d05db9?utm_campaign=1058&utm_source=git)** | Detroit, MI | On Site | Apr 02 |
 | **[Vivie](https://vivie.org/)** | **[IT Support Intern](https://jobright.ai/jobs/info/69cf068fcfdc6132f942eedf?utm_campaign=1058&utm_source=git)** | Minnetonka, MN | On Site | Apr 02 |
-| **[Children's Minnesota](https://www.childrensmn.org/)** | **[Respiratory Care Intern](https://jobright.ai/jobs/info/69cf32e9398fb071abf8d5e7?utm_campaign=1058&utm_source=git)** | Minneapolis, MN | On Site | Apr 02 |
+| **[Children's Minnesota](https://www.childrensmn.org/)** | **[Respiratory Care Intern](https://jobright.ai/jobs/info/69cf32ee398fb071abf8d5f0?utm_campaign=1058&utm_source=git)** | Minneapolis, MN | On Site | Apr 02 |
 | ↳ | **[Respiratory Care Intern](https://jobright.ai/jobs/info/69ceffa754f00230c6d05b57?utm_campaign=1058&utm_source=git)** | St Paul, MN | On Site | Apr 02 |
 | **[Andis Company](https://andis.com)** | **[IT Intern - Fall 2026](https://jobright.ai/jobs/info/69ceff58891d7b11cfccf339?utm_campaign=1058&utm_source=git)** | Racine County, WI | On Site | Apr 02 |
 | **[Children's Rescue Fund](https://childrensrescuefund.org)** | **[IT Help Desk Support Intern](https://jobright.ai/jobs/info/69cefaff366bb95ba5511bff?utm_campaign=1058&utm_source=git)** | Head Office, Bronx, NY, US | On Site | Apr 02 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Xometry](https://www.xometry.com)** | **[Case Management Intern](https://jobright.ai/jobs/info/6943e68d94730b7398771073?utm_campaign=1058&utm_source=git)** | Lexington, KY | Hybrid | Apr 02 |
 | **[Lenovo](https://www.lenovo.com/in/en/)** | **[IT Intern - Summer 2026](https://jobright.ai/jobs/info/69b25ab7ae2a534885e95a6d?utm_campaign=1058&utm_source=git)** | North Carolina, United States | On Site | Apr 02 |
 | **[Wonderful Orchards](http://wonderfulorchards.com)** | **[HRIS Intern](https://jobright.ai/jobs/info/699522d3ce78e77b4fd93a8e?utm_campaign=1058&utm_source=git)** | Shafter, CA | On Site | Apr 02 |
-| **[HCA Healthcare](https://hcahealthcare.com/)** | **[MHS Intern to RN Resident Application](https://jobright.ai/jobs/info/699547c5ce78e77b4fd9653c?utm_campaign=1058&utm_source=git)** | San Antonio, TX | On Site | Apr 02 |
-| **[Ravago Manufacturing Americas](https://rma.ravagomanufacturing.com)** | **[Intern - Operational Support](https://jobright.ai/jobs/info/69ceb4b8398fb071abf87bec?utm_campaign=1058&utm_source=git)** | Manchester, TN | On Site | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
