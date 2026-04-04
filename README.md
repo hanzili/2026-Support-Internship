@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[City of Mount Vernon](https://cmvny.com/)** | **[Library Intern - Teen](https://jobright.ai/jobs/info/69d08350366bb95ba551f1e9?utm_campaign=1058&utm_source=git)** | Mount Vernon, WA | On Site | Apr 03 |
+| **[Golden 1 Credit Union](https://www.golden1.com/)** | **[Card Investigations - Card Investigations Representative](https://jobright.ai/jobs/info/69d0909dcdb525785fbab900?utm_campaign=1058&utm_source=git)** | Sacramento, CA | On Site | Apr 03 |
 | **[Securitas Security Services USA, Inc.](https://www.securitasinc.com/)** | **[Intern, Service Desk/EUS](https://jobright.ai/jobs/info/69d07fb6cdb525785fbab00d?utm_campaign=1058&utm_source=git)** | Parsippany, NJ, United States | Hybrid | Apr 03 |
 | ↳ | **[Intern, Digitization](https://jobright.ai/jobs/info/69d07f8e0b098b7a6707a0a8?utm_campaign=1058&utm_source=git)** | United States | Remote | Apr 03 |
 | **[GreenState Credit Union](https://www.uiccu.org)** | **[Information Technology Intern](https://jobright.ai/jobs/info/69d07e32cdb525785fbaaf7e?utm_campaign=1058&utm_source=git)** | North Liberty, IA | On Site | Apr 03 |
@@ -79,7 +79,6 @@ For a complete list, click the following sortable link below:
 | **[City of Nampa Human Resources](https://www.cityofnampa.us/208/Human-Resources)** | **[CUSTOMER SERVICE REPRESENTATIVE I - FRONT DESK](https://jobright.ai/jobs/info/69d0588dcfdc6132f943a868?utm_campaign=1058&utm_source=git)** | Nampa, ID | On Site | Apr 03 |
 | **[Hunterdon Health](https://www.hunterdonhealth.org/)** | **[Nursing Intern](https://jobright.ai/jobs/info/69d05853891d7b11cfcdaacf?utm_campaign=1058&utm_source=git)** | Flemington, NJ | On Site | Apr 03 |
 | **[First State Bank of St. Charles](http://fsbfinancial.com)** | **[Part-time Receptionist (Summer Intern)](https://jobright.ai/jobs/info/69d050df0b098b7a670787fe?utm_campaign=1058&utm_source=git)** | Overland Park, KS, US | On Site | Apr 03 |
-| **[UF Health Central Florida](https://www.centralfloridahealth.org)** | **[Radiology Technologist Intern / Diagnostic Imaging / PRN Variable](https://jobright.ai/jobs/info/69d04d7acfdc6132f943a678?utm_campaign=1058&utm_source=git)** | The Villages, FL | On Site | Apr 03 |
 | **[Utah Valley University](http://www.uvu.edu/)** | **[Assistant Director - Financial Aid Customer Experience](https://jobright.ai/jobs/info/69d04d53cdb525785fba96fb?utm_campaign=1058&utm_source=git)** | Orem, UT | On Site | Apr 03 |
 | **[Access Services](https://www.accessservices.org)** | **[Peer Support/Teen Talk Line Internship: Summer/Fall 2026/Spring 2027](https://jobright.ai/jobs/info/69d04d52cfdc6132f943a647?utm_campaign=1058&utm_source=git)** | Plymouth Meeting, PA | On Site | Apr 03 |
 | **[The Land Trust for Santa Barbara County](https://www.sblandtrust.org/)** | **[Development & Communications Intern](https://jobright.ai/jobs/info/69d046eecfdc6132f943a3ad?utm_campaign=1058&utm_source=git)** | Santa Barbara,CA,US | On Site | Apr 03 |
@@ -124,10 +123,11 @@ For a complete list, click the following sortable link below:
 | **[Hamilton Storage](https://www.hamiltoncompany.com/automated-sample-storage)** | **[IT Support Specialist - Co-op](https://jobright.ai/jobs/info/69d020960b098b7a67076917?utm_campaign=1058&utm_source=git)** | Franklin, MA | On Site | Apr 03 |
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Access Your Future Service Intern](https://jobright.ai/jobs/info/694319d194730b7398761bc0?utm_campaign=1058&utm_source=git)** | Redfield, SD | On Site | Apr 03 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/69d032b8891d7b11cfcd9ba3?utm_campaign=1058&utm_source=git)** | Florence, SC | On Site | Apr 03 |
+| **[U.S. Bank](http://www.usbank.com)** | **[Contact Center Customer Experience Specialist - PrePaid (Spanish Preferred)](https://jobright.ai/jobs/info/69cd37b154f00230c6ced5cc?utm_campaign=1058&utm_source=git)** | Georgia, United States | Remote | Apr 03 |
 | **[Merchants Insurance Group](http://www.merchantsgroup.com)** | **[Information Technology Internship](https://jobright.ai/jobs/info/69cff8040b098b7a67075434?utm_campaign=1058&utm_source=git)** | Buffalo, New York, United States | Hybrid | Apr 03 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/69d0144acdb525785fba7429?utm_campaign=1058&utm_source=git)** | New Bern, NC | On Site | Apr 03 |
-| ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/69d01451cdb525785fba7438?utm_campaign=1058&utm_source=git)** | Matthews, NC | On Site | Apr 03 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/69d01451cdb525785fba7439?utm_campaign=1058&utm_source=git)** | Charlotte, NC | On Site | Apr 03 |
+| ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/69d01451cdb525785fba7438?utm_campaign=1058&utm_source=git)** | Matthews, NC | On Site | Apr 03 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/69d0142c366bb95ba551b3e3?utm_campaign=1058&utm_source=git)** | Plano, TX | On Site | Apr 03 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/69d011c254f00230c6d0ee8b?utm_campaign=1058&utm_source=git)** | Mooresville, NC | On Site | Apr 03 |
 | **[Radian Generation](https://www.radiangen.com/)** | **[MSS - Intern](https://jobright.ai/jobs/info/69cff1ad891d7b11cfcd6ff2?utm_campaign=1058&utm_source=git)** | Charlotte, NC | On Site | Apr 03 |
