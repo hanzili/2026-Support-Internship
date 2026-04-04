@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[The Land Trust for Santa Barbara County](https://www.sblandtrust.org/)** | **[Development & Communications Intern](https://jobright.ai/jobs/info/69d0cfa154f00230c6d16707?utm_campaign=1058&utm_source=git)** | Santa Barbara, CA | On Site | Apr 04 |
+| **[Four Seasons Hotels and Resorts](http://www.fourseasons.com)** | **[Four Seasons Minneapolis Internship (Food & Beverage, Summer 2026)](https://jobright.ai/jobs/info/69d0dcdd366bb95ba55231bb?utm_campaign=1058&utm_source=git)** | Minneapolis, MN | On Site | Apr 04 |
 | **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE - CRNA Internship](https://jobright.ai/jobs/info/69d0cb01366bb95ba5522a6e?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Apr 04 |
 | ↳ | **[REGISTERED NURSE - CRNA Internship](https://jobright.ai/jobs/info/69d0cae5cfdc6132f943fb93?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Apr 04 |
 | **[U.S. Bank](http://www.usbank.com)** | **[Contact Center Customer Experience Specialist - 24hr](https://jobright.ai/jobs/info/69d0c8500b098b7a6707dabd?utm_campaign=1058&utm_source=git)** | United States | Remote | Apr 04 |
@@ -72,8 +72,8 @@ For a complete list, click the following sortable link below:
 | **[Baylor College of Medicine](http://www.bcm.edu/)** | **[Intern/Aide](https://jobright.ai/jobs/info/69d075b354f00230c6d122b9?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Apr 03 |
 | **[Piedmont](http://www.piedmont.org)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69d062adcfdc6132f943b01a?utm_campaign=1058&utm_source=git)** | Atlanta, GA, US | On Site | Apr 03 |
 | **[Conrad Orlando](https://www.hilton.com/en/hotels/orlcici-conrad-orlando/)** | **[F&B Intern - Conrad Orlando](https://jobright.ai/jobs/info/69d05fb5cfdc6132f943aa53?utm_campaign=1058&utm_source=git)** | Greater Orlando | On Site | Apr 03 |
-| **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69d0aa8c0b098b7a6707bc54?utm_campaign=1058&utm_source=git)** | Beaverton, OR | On Site | Apr 03 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69d0aa8d0b098b7a6707bc55?utm_campaign=1058&utm_source=git)** | Hillsboro, OR | On Site | Apr 03 |
+| **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69d0aa8d0b098b7a6707bc55?utm_campaign=1058&utm_source=git)** | Hillsboro, OR | On Site | Apr 03 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69d0aa8c0b098b7a6707bc54?utm_campaign=1058&utm_source=git)** | Beaverton, OR | On Site | Apr 03 |
 | **[New York State Technology Enterprise Corporation (NYSTEC)](https://www.nystec.com)** | **[IT Service Desk Intern](https://jobright.ai/jobs/info/69d05b9d54f00230c6d1156e?utm_campaign=1058&utm_source=git)** | Albany, NY | On Site | Apr 03 |
 | **[IXL Learning](https://www.ixl.com/)** | **[Associate Customer Support Analyst, New Grad](https://jobright.ai/jobs/info/69d05b6c891d7b11cfcdabff?utm_campaign=1058&utm_source=git)** | Raleigh, NC | On Site | Apr 03 |
 | **[Xometry](https://www.xometry.com)** | **[Customer Support Intern](https://jobright.ai/jobs/info/695ab318aa05c26e7ab4364b?utm_campaign=1058&utm_source=git)** | North Bethesda, MD | Hybrid | Apr 03 |
@@ -126,13 +126,12 @@ For a complete list, click the following sortable link below:
 | **[Merchants Insurance Group](http://www.merchantsgroup.com)** | **[Information Technology Internship](https://jobright.ai/jobs/info/69d00c76366bb95ba551ac6f?utm_campaign=1058&utm_source=git)** | Buffalo, NY | Hybrid | Apr 03 |
 | **[Nestlé](https://www.nestle.com)** | **[Bilingual Customer Service Summer Student](https://jobright.ai/jobs/info/69cc8bc6891d7b11cfcafbd4?utm_campaign=1058&utm_source=git)** | Brampton, ON | Hybrid | Apr 03 |
 | **[UnityPoint Health](http://www.unitypoint.org/)** | **[RN Acute-Critical Care Internal Resource Team](https://jobright.ai/jobs/info/69d0020754f00230c6d0e4c4?utm_campaign=1058&utm_source=git)** | Des Moines, IA | On Site | Apr 03 |
-| **[Hamilton Storage](https://www.hamiltoncompany.com/automated-sample-storage)** | **[IT Support Specialist - Co-op](https://jobright.ai/jobs/info/69d020960b098b7a67076917?utm_campaign=1058&utm_source=git)** | Franklin, MA | On Site | Apr 03 |
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Access Your Future Service Intern](https://jobright.ai/jobs/info/694319d194730b7398761bc0?utm_campaign=1058&utm_source=git)** | Redfield, SD | On Site | Apr 03 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/69d032b8891d7b11cfcd9ba3?utm_campaign=1058&utm_source=git)** | Florence, SC | On Site | Apr 03 |
 | **[U.S. Bank](http://www.usbank.com)** | **[Contact Center Customer Experience Specialist - PrePaid (Spanish Preferred)](https://jobright.ai/jobs/info/69cd37b154f00230c6ced5cc?utm_campaign=1058&utm_source=git)** | Georgia, United States | Remote | Apr 03 |
 | **[Merchants Insurance Group](http://www.merchantsgroup.com)** | **[Information Technology Internship](https://jobright.ai/jobs/info/69cff8040b098b7a67075434?utm_campaign=1058&utm_source=git)** | Buffalo, New York, United States | Hybrid | Apr 03 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/69d0144acdb525785fba7429?utm_campaign=1058&utm_source=git)** | New Bern, NC | On Site | Apr 03 |
-| ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/69d0144f891d7b11cfcd875d?utm_campaign=1058&utm_source=git)** | Charlotte, NC | On Site | Apr 03 |
+| ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/69d01451cdb525785fba7439?utm_campaign=1058&utm_source=git)** | Charlotte, NC | On Site | Apr 03 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/69d01451cdb525785fba7438?utm_campaign=1058&utm_source=git)** | Matthews, NC | On Site | Apr 03 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/69d0142c366bb95ba551b3e3?utm_campaign=1058&utm_source=git)** | Plano, TX | On Site | Apr 03 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/69d011c254f00230c6d0ee8b?utm_campaign=1058&utm_source=git)** | Mooresville, NC | On Site | Apr 03 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Gulf Winds Credit Union](https://www.gogulfwinds.com/)** | **[Technical Support- Intern](https://jobright.ai/jobs/info/69cfdca6cdb525785fba5504?utm_campaign=1058&utm_source=git)** | Pensacola, FL, US | On Site | Apr 03 |
 | **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse II 3 South](https://jobright.ai/jobs/info/6997f9b3ce78e77b4fdc98b5?utm_campaign=1058&utm_source=git)** | Memphis, TN | On Site | Apr 03 |
 | **[Yardi](https://www.yardi.com)** | **[Intern, Associate Technical Account Manager](https://jobright.ai/jobs/info/69ab93d1142d5b4265fcaef5?utm_campaign=1058&utm_source=git)** | Santa Ana, CA | Hybrid | Apr 03 |
+| ↳ | **[Intern, Associate Technical Account Manager](https://jobright.ai/jobs/info/695f0609a1bbea1d9a79d11e?utm_campaign=1058&utm_source=git)** | Santa Barbara, CA | Hybrid | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
