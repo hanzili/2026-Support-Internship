@@ -57,11 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Centric Brands](https://centricbrands.com)** | **[Centric Brands - Stage en TI Été 2026 - Summer IT Internship 2026 - Montreal, Canada](https://jobright.ai/jobs/info/6998ff35e0bddb6acac7f462?utm_campaign=1058&utm_source=git)** | Montreal, QC | On Site | Apr 04 |
+| **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69d10eaecfdc6132f94417bb?utm_campaign=1058&utm_source=git)** | Aurora, CO | On Site | Apr 04 |
+| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Intern I - High School](https://jobright.ai/jobs/info/69d10e83cdb525785fbb0676?utm_campaign=1058&utm_source=git)** | Martinez, CA | On Site | Apr 04 |
+| ↳ | **[Intern I - High School](https://jobright.ai/jobs/info/69d10e83cdb525785fbb0675?utm_campaign=1058&utm_source=git)** | San Rafael, CA | On Site | Apr 04 |
+| **[Stormont Vail Health](http://www.stormontvail.org)** | **[Pharmacy Student Intern 1 (P1 & P2)](https://jobright.ai/jobs/info/6948c2ca63141d188458605b?utm_campaign=1058&utm_source=git)** | Topeka, KS | On Site | Apr 04 |
+| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Intern I - High School](https://jobright.ai/jobs/info/69d10de9366bb95ba5524685?utm_campaign=1058&utm_source=git)** | Santa Clara, CA | On Site | Apr 04 |
+| **[CareDx, Inc.](https://www.caredx.com/)** | **[IT Operations Support Summer Intern 2026](https://jobright.ai/jobs/info/69b47d8e06c1ba00c545f5ad?utm_campaign=1058&utm_source=git)** | Brisbane, CA | On Site | Apr 04 |
+| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Clinical Pharmacy Intern, Rising P2, Atlanta](https://jobright.ai/jobs/info/69d109e654f00230c6d182e8?utm_campaign=1058&utm_source=git)** | Georgia-Atlanta-Regional Office - 10 Piedmont | On Site | Apr 04 |
 | **[Kaiser Permanente Northwest](http://www.kp.org)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69d107e3891d7b11cfce13b7?utm_campaign=1058&utm_source=git)** | Clackamas, OR | On Site | Apr 04 |
 | **[GreenState Credit Union](https://www.uiccu.org)** | **[Information Technology Intern](https://jobright.ai/jobs/info/69d101820b098b7a6707f215?utm_campaign=1058&utm_source=git)** | North Liberty, IA | On Site | Apr 04 |
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Service Desk Analyst (Pipeline)](https://jobright.ai/jobs/info/6998e205e0bddb6acac7cc6a?utm_campaign=1058&utm_source=git)** | District of Columbia, United States | Remote | Apr 04 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/69d0f35e54f00230c6d179a2?utm_campaign=1058&utm_source=git)** | Roseville, CA | On Site | Apr 04 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/69d0f343891d7b11cfce0e3b?utm_campaign=1058&utm_source=git)** | Ambler, PA | On Site | Apr 04 |
+| **[ORION](https://www.oriongroupholdingsinc.com/)** | **[Intern, Information Technology](https://jobright.ai/jobs/info/69d110a7366bb95ba5524740?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Apr 04 |
 | **[WebFX](https://www.webfx.com)** | **[IT Support Internship](https://jobright.ai/jobs/info/67eec162357dc4681d864247?utm_campaign=1058&utm_source=git)** | Harrisburg, PA | On Site | Apr 04 |
 | **[CHRISTUS Health](http://www.christushealth.org)** | **[Pharmacist Intern - General Pharmacy - PRN](https://jobright.ai/jobs/info/69b486ce06c1ba00c5460592?utm_campaign=1058&utm_source=git)** | Shreveport, LA | On Site | Apr 04 |
 | **[KOSTAL Group](http://www.kostal.com)** | **[IT Intern](https://jobright.ai/jobs/info/69b4261006c1ba00c5455d9a?utm_campaign=1058&utm_source=git)** | Troy, OH | On Site | Apr 04 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/69d0fd74891d7b11cfce1019?utm_campaign=1058&utm_source=git)** | Salisbury, NC | On Site | Apr 03 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/69d0fd7acfdc6132f9440f49?utm_campaign=1058&utm_source=git)** | Huntersville, NC | On Site | Apr 03 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/69d0fd79cfdc6132f9440f46?utm_campaign=1058&utm_source=git)** | Concord, NC | On Site | Apr 03 |
-| ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/69d0144acdb525785fba7429?utm_campaign=1058&utm_source=git)** | New Bern, NC | On Site | Apr 03 |
-| ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/69d01451cdb525785fba7439?utm_campaign=1058&utm_source=git)** | Charlotte, NC | On Site | Apr 03 |
-| ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/69d01451cdb525785fba7438?utm_campaign=1058&utm_source=git)** | Matthews, NC | On Site | Apr 03 |
-| ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/69d0142c366bb95ba551b3e3?utm_campaign=1058&utm_source=git)** | Plano, TX | On Site | Apr 03 |
-| ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/69d011c254f00230c6d0ee8b?utm_campaign=1058&utm_source=git)** | Mooresville, NC | On Site | Apr 03 |
-| **[Radian Generation](https://www.radiangen.com/)** | **[MSS - Intern](https://jobright.ai/jobs/info/69cff1ad891d7b11cfcd6ff2?utm_campaign=1058&utm_source=git)** | Charlotte, NC | On Site | Apr 03 |
-| **[Wiz](https://www.wiz.io)** | **[Technical Account Manager (Central)](https://jobright.ai/jobs/info/697c13820b88cc7d642303a5?utm_campaign=1058&utm_source=git)** | United States | Remote | Apr 03 |
-| **[Rehrig Pacific Company](http://www.rehrigpacific.com)** | **[Technical Support Intern](https://jobright.ai/jobs/info/69d020ce0b098b7a67076953?utm_campaign=1058&utm_source=git)** | Pleasant Prairie, WI | Hybrid | Apr 03 |
-| **[Rescue Cooling Rentals](https://rescuecooling.com)** | **[Summer Operations Intern](https://jobright.ai/jobs/info/69cfeccb54f00230c6d0d6d4?utm_campaign=1058&utm_source=git)** | Grapevine, TX | On Site | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
