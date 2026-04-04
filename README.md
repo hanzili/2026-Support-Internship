@@ -60,8 +60,7 @@ For a complete list, click the following sortable link below:
 | **[Fayetteville Public Works Commission](https://www.faypwc.com/)** | **[IT Financial Applications Intern](https://jobright.ai/jobs/info/69d1767d366bb95ba5526890?utm_campaign=1058&utm_source=git)** | Fayetteville, NC | On Site | Apr 04 |
 | **[MemorialCare](https://www.memorialcare.org)** | **[Pharmacy Intern Per Diem](https://jobright.ai/jobs/info/69c6c08fb773006330b7291d?utm_campaign=1058&utm_source=git)** | Laguna Hills, CA | On Site | Apr 04 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Intern I - High School](https://jobright.ai/jobs/info/69d16c04cdb525785fbb2753?utm_campaign=1058&utm_source=git)** | San Jose, CA | On Site | Apr 04 |
-| **[Goodwill Southwest Florida](https://www.goodwillswfl.org)** | **[Information Technology Intern - Tice](https://jobright.ai/jobs/info/69d16bef54f00230c6d1a2ab?utm_campaign=1058&utm_source=git)** | Fort Myers, FL | On Site | Apr 04 |
-| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Intern I - High School](https://jobright.ai/jobs/info/69d16bc30b098b7a6708186d?utm_campaign=1058&utm_source=git)** | Modesto, CA | On Site | Apr 04 |
+| ↳ | **[Intern I - High School](https://jobright.ai/jobs/info/69d16bc30b098b7a6708186d?utm_campaign=1058&utm_source=git)** | Modesto, CA | On Site | Apr 04 |
 | **[U.S. Renal Care](https://www.usrenalcare.com)** | **[Intern - Admissions](https://jobright.ai/jobs/info/69d1697954f00230c6d1a240?utm_campaign=1058&utm_source=git)** | Plano, TX | On Site | Apr 04 |
 | **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[Advanced Radiology Intern (Non-Exempt)](https://jobright.ai/jobs/info/69d1697654f00230c6d1a22d?utm_campaign=1058&utm_source=git)** | Springfield, MO | On Site | Apr 04 |
 | ↳ | **[Radiology Intern II PRN](https://jobright.ai/jobs/info/69d1697654f00230c6d1a230?utm_campaign=1058&utm_source=git)** | Springfield, MO | On Site | Apr 04 |
@@ -95,8 +94,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69d11e940b098b7a6707fa3e?utm_campaign=1058&utm_source=git)** | San Francisco, CA | On Site | Apr 04 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69d11e8fcfdc6132f9441a28?utm_campaign=1058&utm_source=git)** | Cadillac, MI | On Site | Apr 04 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69d11e8d0b098b7a6707fa24?utm_campaign=1058&utm_source=git)** | South Burlington, VT | On Site | Apr 04 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69d11e8c0b098b7a6707fa16?utm_campaign=1058&utm_source=git)** | Houghton, MI | On Site | Apr 04 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69d11e8c0b098b7a6707fa15?utm_campaign=1058&utm_source=git)** | Benbrook, TX | On Site | Apr 04 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69d11e8c0b098b7a6707fa16?utm_campaign=1058&utm_source=git)** | Houghton, MI | On Site | Apr 04 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69d11e79cdb525785fbb0914?utm_campaign=1058&utm_source=git)** | Gaylord, MI | On Site | Apr 04 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69d11e7754f00230c6d1861d?utm_campaign=1058&utm_source=git)** | Carlstadt, NJ | On Site | Apr 04 |
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Client Services, Analyst](https://jobright.ai/jobs/info/69b41e5a569738374138b3c8?utm_campaign=1058&utm_source=git)** | Texas, United States | Remote | Apr 04 |
@@ -137,8 +136,8 @@ For a complete list, click the following sortable link below:
 | **[Baylor College of Medicine](http://www.bcm.edu/)** | **[Intern/Aide](https://jobright.ai/jobs/info/69d075b354f00230c6d122b9?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Apr 03 |
 | **[Piedmont](http://www.piedmont.org)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69d062adcfdc6132f943b01a?utm_campaign=1058&utm_source=git)** | Atlanta, GA, US | On Site | Apr 03 |
 | **[Conrad Orlando](https://www.hilton.com/en/hotels/orlcici-conrad-orlando/)** | **[F&B Intern - Conrad Orlando](https://jobright.ai/jobs/info/69d05fb5cfdc6132f943aa53?utm_campaign=1058&utm_source=git)** | Greater Orlando | On Site | Apr 03 |
-| **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69d0aa8c0b098b7a6707bc54?utm_campaign=1058&utm_source=git)** | Beaverton, OR | On Site | Apr 03 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69d0aa8d0b098b7a6707bc55?utm_campaign=1058&utm_source=git)** | Hillsboro, OR | On Site | Apr 03 |
+| **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69d0aa8d0b098b7a6707bc55?utm_campaign=1058&utm_source=git)** | Hillsboro, OR | On Site | Apr 03 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69d0aa8c0b098b7a6707bc54?utm_campaign=1058&utm_source=git)** | Beaverton, OR | On Site | Apr 03 |
 | **[New York State Technology Enterprise Corporation (NYSTEC)](https://www.nystec.com)** | **[IT Service Desk Intern](https://jobright.ai/jobs/info/69d05b9d54f00230c6d1156e?utm_campaign=1058&utm_source=git)** | Albany, NY | On Site | Apr 03 |
 | **[IXL Learning](https://www.ixl.com/)** | **[Associate Customer Support Analyst, New Grad](https://jobright.ai/jobs/info/69d05b6c891d7b11cfcdabff?utm_campaign=1058&utm_source=git)** | Raleigh, NC | On Site | Apr 03 |
 | **[Xometry](https://www.xometry.com)** | **[Customer Support Intern](https://jobright.ai/jobs/info/695ab318aa05c26e7ab4364b?utm_campaign=1058&utm_source=git)** | North Bethesda, MD | Hybrid | Apr 03 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[CVS Health](https://www.cvshealth.com/)** | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/69d0466a891d7b11cfcda449?utm_campaign=1058&utm_source=git)** | Heath, OH | On Site | Apr 03 |
 | **[Milliman](http://www.milliman.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/69d04669cfdc6132f943a0a7?utm_campaign=1058&utm_source=git)** | Chicago, IL | Hybrid | Apr 03 |
 | **[Okta](http://www.okta.com)** | **[IT Support Intern (Summer 2026)](https://jobright.ai/jobs/info/69d03db1891d7b11cfcd9f90?utm_campaign=1058&utm_source=git)** | San Francisco, California | On Site | Apr 03 |
+| **[Monster Energy](http://www.monsterenergy.com/)** | **[Internship - Customer Operations Representative](https://jobright.ai/jobs/info/69d03d1ccfdc6132f9439b78?utm_campaign=1058&utm_source=git)** | Corona, CA | On Site | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
