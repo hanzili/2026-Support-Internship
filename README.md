@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[ISD Global Support Intern Summer 2026](https://jobright.ai/jobs/info/69b47d6d5697383741395b94?utm_campaign=1058&utm_source=git)** | Hopkins, SC | On Site | Apr 04 |
+| **[CHRISTUS Health](http://www.christushealth.org)** | **[Pharmacist Intern - General Pharmacy - PRN](https://jobright.ai/jobs/info/69b4b6513b74eb1e2c820770?utm_campaign=1058&utm_source=git)** | Texarkana, TX | On Site | Apr 04 |
+| **[Xometry](https://www.xometry.com)** | **[Customer Support Intern](https://jobright.ai/jobs/info/695dc344efe5dd5cbd3d9d49?utm_campaign=1058&utm_source=git)** | Lexington, KY | Hybrid | Apr 04 |
+| **[Medpace](http://www.medpace.com)** | **[Patient Concierge Intern - Summer 2026](https://jobright.ai/jobs/info/69b490f25697383741397748?utm_campaign=1058&utm_source=git)** | Cincinnati, OH | On Site | Apr 04 |
+| **[Wells Fargo](http://www.wellsfargo.com)** | **[Business Relationship Support Associate - GPL Dedicated CSO 3](https://jobright.ai/jobs/info/69d0e5fc54f00230c6d172b1?utm_campaign=1058&utm_source=git)** | Des Moines, IA | Hybrid | Apr 04 |
 | **[Four Seasons Hotels and Resorts](http://www.fourseasons.com)** | **[Four Seasons Minneapolis Internship (Food & Beverage, Summer 2026)](https://jobright.ai/jobs/info/69d0dcdd366bb95ba55231bb?utm_campaign=1058&utm_source=git)** | Minneapolis, MN | On Site | Apr 04 |
 | **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE - CRNA Internship](https://jobright.ai/jobs/info/69d0cb01366bb95ba5522a6e?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Apr 04 |
 | ↳ | **[REGISTERED NURSE - CRNA Internship](https://jobright.ai/jobs/info/69d0cae5cfdc6132f943fb93?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Apr 04 |
@@ -140,7 +145,6 @@ For a complete list, click the following sortable link below:
 | **[Rehrig Pacific Company](http://www.rehrigpacific.com)** | **[Technical Support Intern](https://jobright.ai/jobs/info/69d020ce0b098b7a67076953?utm_campaign=1058&utm_source=git)** | Pleasant Prairie, WI | Hybrid | Apr 03 |
 | **[Rescue Cooling Rentals](https://rescuecooling.com)** | **[Summer Operations Intern](https://jobright.ai/jobs/info/69cfeccb54f00230c6d0d6d4?utm_campaign=1058&utm_source=git)** | Grapevine, TX | On Site | Apr 03 |
 | **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse I](https://jobright.ai/jobs/info/69cfecb1366bb95ba5519b08?utm_campaign=1058&utm_source=git)** | Memphis, TN | On Site | Apr 03 |
-| **[New York State Insurance Fund (NYSIF)](https://ww3.nysif.com/)** | **[Intern  Information Technology Services Department](https://jobright.ai/jobs/info/69cfeafacdb525785fba5932?utm_campaign=1058&utm_source=git)** | Melville, NY | On Site | Apr 03 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69cfe889891d7b11cfcd6afa?utm_campaign=1058&utm_source=git)** | San Diego, CA | On Site | Apr 03 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69cfe87b54f00230c6d0d361?utm_campaign=1058&utm_source=git)** | Durham, NC | On Site | Apr 03 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69cfe87b54f00230c6d0d365?utm_campaign=1058&utm_source=git)** | Fontana, CA | On Site | Apr 03 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Ohio State University](http://www.osu.edu/)** | **[Intern - Feline Clinical Trials](https://jobright.ai/jobs/info/69cfe5dd0b098b7a67074710?utm_campaign=1058&utm_source=git)** | Columbus Campus | On Site | Apr 03 |
 | **[Sanford Health](http://www.sanfordhealth.org)** | **[Intern, Clinical Nursing - Acute Medical](https://jobright.ai/jobs/info/69cfe5c60b098b7a670746a1?utm_campaign=1058&utm_source=git)** | WI, Marshfield | On Site | Apr 03 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Respiratory Therapy Intern](https://jobright.ai/jobs/info/69b3503aad360c0340a870bb?utm_campaign=1058&utm_source=git)** | Wichita, KS | On Site | Apr 03 |
-| **[Gulf Winds Credit Union](https://www.gogulfwinds.com/)** | **[Technical Support- Intern](https://jobright.ai/jobs/info/69cfdca6cdb525785fba5504?utm_campaign=1058&utm_source=git)** | Pensacola, FL, US | On Site | Apr 03 |
-| **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse II 3 South](https://jobright.ai/jobs/info/6997f9b3ce78e77b4fdc98b5?utm_campaign=1058&utm_source=git)** | Memphis, TN | On Site | Apr 03 |
-| **[Yardi](https://www.yardi.com)** | **[Intern, Associate Technical Account Manager](https://jobright.ai/jobs/info/69ab93d1142d5b4265fcaef5?utm_campaign=1058&utm_source=git)** | Santa Ana, CA | Hybrid | Apr 03 |
-| ↳ | **[Intern, Associate Technical Account Manager](https://jobright.ai/jobs/info/695f0609a1bbea1d9a79d11e?utm_campaign=1058&utm_source=git)** | Santa Barbara, CA | Hybrid | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
