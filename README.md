@@ -94,8 +94,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69d11e940b098b7a6707fa3e?utm_campaign=1058&utm_source=git)** | San Francisco, CA | On Site | Apr 04 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69d11e8fcfdc6132f9441a28?utm_campaign=1058&utm_source=git)** | Cadillac, MI | On Site | Apr 04 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69d11e8d0b098b7a6707fa24?utm_campaign=1058&utm_source=git)** | South Burlington, VT | On Site | Apr 04 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69d11e8c0b098b7a6707fa16?utm_campaign=1058&utm_source=git)** | Houghton, MI | On Site | Apr 04 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69d11e8c0b098b7a6707fa15?utm_campaign=1058&utm_source=git)** | Benbrook, TX | On Site | Apr 04 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69d11e8c0b098b7a6707fa16?utm_campaign=1058&utm_source=git)** | Houghton, MI | On Site | Apr 04 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69d11e79cdb525785fbb0914?utm_campaign=1058&utm_source=git)** | Gaylord, MI | On Site | Apr 04 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69d11e7754f00230c6d1861d?utm_campaign=1058&utm_source=git)** | Carlstadt, NJ | On Site | Apr 04 |
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Client Services, Analyst](https://jobright.ai/jobs/info/69b41e5a569738374138b3c8?utm_campaign=1058&utm_source=git)** | Texas, United States | Remote | Apr 04 |
