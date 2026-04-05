@@ -83,8 +83,8 @@ For a complete list, click the following sortable link below:
 | **[Walter P Moore](http://www.walterpmoore.com)** | **[Website Maintenance Intern](https://jobright.ai/jobs/info/69b39b85ae2a534885eb0162?utm_campaign=1058&utm_source=git)** | Tippecanoe County, IN | On Site | Apr 04 |
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Access Your Future Service Intern](https://jobright.ai/jobs/info/67f01f3d19a1c5e776705edf?utm_campaign=1058&utm_source=git)** | Minot, ND | On Site | Apr 04 |
 | ↳ | **[Access Your Future Service Intern](https://jobright.ai/jobs/info/69d1f2a554f00230c6d1e5d6?utm_campaign=1058&utm_source=git)** | Webster, SD | On Site | Apr 04 |
-| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69d13135366bb95ba55251e7?utm_campaign=1058&utm_source=git)** | Nashville, TN | On Site | Apr 04 |
-| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69d13135cfdc6132f94422d6?utm_campaign=1058&utm_source=git)** | Pasadena, CA | On Site | Apr 04 |
+| **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69d13135cfdc6132f94422d6?utm_campaign=1058&utm_source=git)** | Pasadena, CA | On Site | Apr 04 |
+| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69d13135366bb95ba55251e7?utm_campaign=1058&utm_source=git)** | Nashville, TN | On Site | Apr 04 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69d13134366bb95ba55251dd?utm_campaign=1058&utm_source=git)** | Abilene, TX | On Site | Apr 04 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69d1312d366bb95ba55251c0?utm_campaign=1058&utm_source=git)** | Fort Worth, TX | On Site | Apr 04 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69d13124891d7b11cfce2345?utm_campaign=1058&utm_source=git)** | Fort Worth, TX | On Site | Apr 04 |
@@ -118,7 +118,6 @@ For a complete list, click the following sortable link below:
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Intern I - High School](https://jobright.ai/jobs/info/69d10de9366bb95ba5524685?utm_campaign=1058&utm_source=git)** | Santa Clara, CA | On Site | Apr 04 |
 | **[CareDx, Inc.](https://www.caredx.com/)** | **[IT Operations Support Summer Intern 2026](https://jobright.ai/jobs/info/69b47d8e06c1ba00c545f5ad?utm_campaign=1058&utm_source=git)** | Brisbane, CA | On Site | Apr 04 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Clinical Pharmacy Intern, Rising P2, Atlanta](https://jobright.ai/jobs/info/69d109e654f00230c6d182e8?utm_campaign=1058&utm_source=git)** | Georgia-Atlanta-Regional Office - 10 Piedmont | On Site | Apr 04 |
-| **[Kaiser Permanente Northwest](http://www.kp.org)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69d107e3891d7b11cfce13b7?utm_campaign=1058&utm_source=git)** | Clackamas, OR | On Site | Apr 04 |
 | **[GreenState Credit Union](https://www.uiccu.org)** | **[Information Technology Intern](https://jobright.ai/jobs/info/69d101820b098b7a6707f215?utm_campaign=1058&utm_source=git)** | North Liberty, IA | On Site | Apr 04 |
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Service Desk Analyst (Pipeline)](https://jobright.ai/jobs/info/6998e205e0bddb6acac7cc6a?utm_campaign=1058&utm_source=git)** | District of Columbia, United States | Remote | Apr 04 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/69d0f35e54f00230c6d179a2?utm_campaign=1058&utm_source=git)** | Roseville, CA | On Site | Apr 04 |
@@ -137,7 +136,6 @@ For a complete list, click the following sortable link below:
 | **[U.S. Bank](http://www.usbank.com)** | **[Contact Center Customer Experience Specialist - 24hr](https://jobright.ai/jobs/info/69d0c8500b098b7a6707dabd?utm_campaign=1058&utm_source=git)** | United States | Remote | Apr 04 |
 | **[North Mississippi Health Services](http://www.nmhs.net/careers)** | **[Nurse Intern, Med/Surg](https://jobright.ai/jobs/info/69d1b203891d7b11cfce4f2b?utm_campaign=1058&utm_source=git)** | Tupelo, MS | On Site | Apr 04 |
 | **[UK HealthCare](https://ukhealthcare.uky.edu/)** | **[Patient Financial Services Rep/UKHC](https://jobright.ai/jobs/info/69d1a9d2366bb95ba5527952?utm_campaign=1058&utm_source=git)** | Lexington, KY | Remote | Apr 04 |
-| **[Soqquadro Italiano](http://www.soqquadroitaliano.it)** | **[Student Assistant Intern – Service & Support (Deposit Operations & Card Services)](https://jobright.ai/jobs/info/69d1f29b366bb95ba552a9b8?utm_campaign=1058&utm_source=git)** | Winston-Salem, NC | On Site | Apr 03 |
 | **[Hamilton Storage](https://www.hamiltoncompany.com/automated-sample-storage)** | **[IT Support Specialist - Co-op](https://jobright.ai/jobs/info/69d1e9f40b098b7a6708578a?utm_campaign=1058&utm_source=git)** | Franklin, MA | On Site | Apr 03 |
 | **[Golden 1 Credit Union](https://www.golden1.com/)** | **[Card Investigations - Card Investigations Representative](https://jobright.ai/jobs/info/69d0909dcdb525785fbab900?utm_campaign=1058&utm_source=git)** | Sacramento, CA | On Site | Apr 03 |
 | **[Security Service Federal Credit Union](https://www.ssfcu.org)** | **[Service Desk Intern](https://jobright.ai/jobs/info/69d1e54bcfdc6132f94471df?utm_campaign=1058&utm_source=git)** | San Antonio, TX | On Site | Apr 03 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[IXL Learning](https://www.ixl.com/)** | **[Associate Customer Support Analyst, New Grad](https://jobright.ai/jobs/info/69d05b6c891d7b11cfcdabff?utm_campaign=1058&utm_source=git)** | Raleigh, NC | On Site | Apr 03 |
 | **[Xometry](https://www.xometry.com)** | **[Customer Support Intern](https://jobright.ai/jobs/info/695ab318aa05c26e7ab4364b?utm_campaign=1058&utm_source=git)** | North Bethesda, MD | Hybrid | Apr 03 |
 | **[Veolia | North America](http://www.veolianorthamerica.com/)** | **[Customer Service Intern](https://jobright.ai/jobs/info/69d05a1a891d7b11cfcdabba?utm_campaign=1058&utm_source=git)** | West Nyack, NY | On Site | Apr 03 |
+| **[Kaplan](http://www.kaplan.com)** | **[Desktop Operations, Intern](https://jobright.ai/jobs/info/69bb8a1d56973837414193be?utm_campaign=1058&utm_source=git)** | Fort Lauderdale, FL | On Site | Apr 03 |
+| **[The Ohio State University Wexner Medical Center](http://wexnermedical.osu.edu/)** | **[Pharmacy Intern - Inpatient](https://jobright.ai/jobs/info/69d0589b366bb95ba551d974?utm_campaign=1058&utm_source=git)** | Columbus, OH | On Site | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
