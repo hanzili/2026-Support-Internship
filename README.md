@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RONA](http://www.rona.ca/en)** | **[order attendant (evening) student](https://jobright.ai/jobs/info/69d25970366bb95ba552d5d6?utm_campaign=1058&utm_source=git)** | Boucherville, QC | On Site | Apr 05 |
+| **[Verkada](https://www.verkada.com)** | **[Technical Support Engineering Intern - Fall 2026](https://jobright.ai/jobs/info/69618b4ba112b4026610251d?utm_campaign=1058&utm_source=git)** | San Mateo, CA | On Site | Apr 05 |
+| **[Xometry](https://www.xometry.com)** | **[IT Service Desk Intern](https://jobright.ai/jobs/info/69aa56469ca4e908ec65acbf?utm_campaign=1058&utm_source=git)** | North Bethesda, MD | On Site | Apr 05 |
+| ↳ | **[Case Management Intern](https://jobright.ai/jobs/info/6945afbd951654073537ca12?utm_campaign=1058&utm_source=git)** | Waltham, MA | Hybrid | Apr 05 |
 | **[The Reynolds and Reynolds Company](https://www.reyrey.com)** | **[Technical Support Intern](https://jobright.ai/jobs/info/6999bb5981476f6176b281aa?utm_campaign=1058&utm_source=git)** | CS-Bryan Area | On Site | Apr 05 |
 | **[Eaton](https://www.eaton.com/us/en-us/products/emobility/expertise.html)** | **[Intern, Field Service Representative (4 to 12-month) - Dartmouth, NS Canada / Moncton, NB](https://jobright.ai/jobs/info/69b4d8b106c1ba00c5465b5b?utm_campaign=1058&utm_source=git)** | Moncton, NB | On Site | Apr 05 |
 | **[York County, South Carolina](https://www.yorkcountygov.com)** | **[IT Helpdesk Internship](https://jobright.ai/jobs/info/69d225cf0b098b7a67087741?utm_campaign=1058&utm_source=git)** | York, SC | On Site | Apr 05 |
@@ -145,7 +149,7 @@ For a complete list, click the following sortable link below:
 | **[Four Seasons Hotels and Resorts](http://www.fourseasons.com)** | **[Four Seasons Minneapolis Internship (Food & Beverage, Summer 2026)](https://jobright.ai/jobs/info/69d0dcdd366bb95ba55231bb?utm_campaign=1058&utm_source=git)** | Minneapolis, MN | On Site | Apr 04 |
 | **[Jefferson Health](http://JeffersonHealth.org)** | **[Pharmacy Intern - Per Diem - Center City](https://jobright.ai/jobs/info/69792e1039f7f96cc6d190ec?utm_campaign=1058&utm_source=git)** | Philadelphia, PA | On Site | Apr 04 |
 | **[U.S. Bank](http://www.usbank.com)** | **[Contact Center Customer Experience Specialist - 24hr](https://jobright.ai/jobs/info/69d0c8500b098b7a6707dabd?utm_campaign=1058&utm_source=git)** | United States | Remote | Apr 04 |
-| **[North Mississippi Health Services](http://www.nmhs.net/careers)** | **[Nurse Intern, Med/Surg](https://jobright.ai/jobs/info/69d1b203891d7b11cfce4f2b?utm_campaign=1058&utm_source=git)** | Tupelo, MS | On Site | Apr 04 |
+| **[North Mississippi Health Services](http://www.nmhs.net/careers)** | **[Nurse Intern, Med/Surg](https://jobright.ai/jobs/info/69d1b1f60b098b7a67083047?utm_campaign=1058&utm_source=git)** | Tupelo, MS | On Site | Apr 04 |
 | **[UK HealthCare](https://ukhealthcare.uky.edu/)** | **[Patient Financial Services Rep/UKHC](https://jobright.ai/jobs/info/69d1a9d2366bb95ba5527952?utm_campaign=1058&utm_source=git)** | Lexington, KY | Remote | Apr 04 |
 | **[Hamilton Storage](https://www.hamiltoncompany.com/automated-sample-storage)** | **[IT Support Specialist - Co-op](https://jobright.ai/jobs/info/69d1e9f40b098b7a6708578a?utm_campaign=1058&utm_source=git)** | Franklin, MA | On Site | Apr 03 |
 | **[Golden 1 Credit Union](https://www.golden1.com/)** | **[Card Investigations - Card Investigations Representative](https://jobright.ai/jobs/info/69d0909dcdb525785fbab900?utm_campaign=1058&utm_source=git)** | Sacramento, CA | On Site | Apr 03 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Securitas Security Services USA, Inc.](https://www.securitasinc.com/)** | **[Intern, Service Desk/EUS](https://jobright.ai/jobs/info/69d07fb6cdb525785fbab00d?utm_campaign=1058&utm_source=git)** | Parsippany, NJ, United States | Hybrid | Apr 03 |
 | ↳ | **[Intern, Digitization](https://jobright.ai/jobs/info/69d07f8e0b098b7a6707a0a8?utm_campaign=1058&utm_source=git)** | United States | Remote | Apr 03 |
 | **[U.S. Renal Care](https://www.usrenalcare.com)** | **[Intern - Support Analyst](https://jobright.ai/jobs/info/69d1d121cdb525785fbb58a8?utm_campaign=1058&utm_source=git)** | United States | Remote | Apr 03 |
-| **[InterWorks](http://www.interworks.com)** | **[IT Intern](https://jobright.ai/jobs/info/68596a3df7e1d7c7ec214cfc?utm_campaign=1058&utm_source=git)** | Stillwater, Oklahoma, United States | On Site | Apr 03 |
-| **[Inspire](https://inspirebrands.com)** | **[ITSM Intern - Summer 2026](https://jobright.ai/jobs/info/69d0775a0b098b7a67079a16?utm_campaign=1058&utm_source=git)** | Atlanta, GA | On Site | Apr 03 |
-| **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Intern Pharmacist OP PT12 (P)](https://jobright.ai/jobs/info/69d075e654f00230c6d122c9?utm_campaign=1058&utm_source=git)** | San Diego, CA | On Site | Apr 03 |
-| **[Baylor College of Medicine](http://www.bcm.edu/)** | **[Intern/Aide](https://jobright.ai/jobs/info/69d075b354f00230c6d122b9?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
