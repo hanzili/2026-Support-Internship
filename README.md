@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of West Fargo](http://www.westfargond.gov)** | **[Summer Library Intern](https://jobright.ai/jobs/info/69d37d490b098b7a6708f8aa?utm_campaign=1058&utm_source=git)** | West Fargo, ND | On Site | Apr 06 |
+| **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - TechStop](https://jobright.ai/jobs/info/69d3789a891d7b11cfcf1312?utm_campaign=1058&utm_source=git)** | Tempe, AZ, US | On Site | Apr 06 |
 | **[Overlake Medical Center & Clinics](https://www.overlakehospital.org/)** | **[Pharmacy Intern (per diem)](https://jobright.ai/jobs/info/69d367e8891d7b11cfcf0d71?utm_campaign=1058&utm_source=git)** | Bellevue, WA | On Site | Apr 06 |
 | **[The Little Clinic](https://www.thelittleclinic.com/)** | **[Pharmacy/Pharmacist Graduate Intern](https://jobright.ai/jobs/info/69d35ce6366bb95ba5533b17?utm_campaign=1058&utm_source=git)** | Peoria, IL | On Site | Apr 06 |
 | **[Fred Meyer](https://www.fredmeyer.com/)** | **[Pharmacist Grad Intern](https://jobright.ai/jobs/info/69d35cb354f00230c6d2737a?utm_campaign=1058&utm_source=git)** | Roseburg, OR | On Site | Apr 06 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69d11e7754f00230c6d1861d?utm_campaign=1058&utm_source=git)** | Carlstadt, NJ | On Site | Apr 04 |
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Client Services, Analyst](https://jobright.ai/jobs/info/69b41e5a569738374138b3c8?utm_campaign=1058&utm_source=git)** | Texas, United States | Remote | Apr 04 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69d139b4cfdc6132f94423b8?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Apr 04 |
-| **[Shelter Insurance Companies](https://www.shelterinsurance.com/)** | **[Cultivate Intern - Information Services (Platform Team)](https://jobright.ai/jobs/info/69cad0aba8c1822476e207de?utm_campaign=1058&utm_source=git)** | Greater Columbia, Missouri Area | On Site | Apr 04 |
-| **[A Hiring Company](https://www.linkedin.com/company/101478385)** | **[Computer Technology Support Intern](https://jobright.ai/jobs/info/69d148e50b098b7a67080c4d?utm_campaign=1058&utm_source=git)** | Sewickley, PA | On Site | Apr 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
