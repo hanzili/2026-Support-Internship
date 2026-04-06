@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[York County, South Carolina](https://www.yorkcountygov.com)** | **[IT Helpdesk Internship](https://jobright.ai/jobs/info/69d327accfdc6132f944e592?utm_campaign=1058&utm_source=git)** | York, SC | On Site | Apr 05 |
 | **[Capps Plumbing and Sewer, Inc.](https://www.cappsplumbing.com)** | **[TTSTC- IT Support Intern - Systems Analyst ( Temporary Position)](https://jobright.ai/jobs/info/69d304c7366bb95ba5530b11?utm_campaign=1058&utm_source=git)** | Texas-AustinWork Locations | On Site | Apr 05 |
 | ↳ | **[TTSTC- IT Support Intern - Systems Analyst ( Temporary Position)](https://jobright.ai/jobs/info/69d3040b54f00230c6d24622?utm_campaign=1058&utm_source=git)** | Thomas J Rusk Building208 East 10th Street | On Site | Apr 05 |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP - User Assistance Technical Writer](https://jobright.ai/jobs/info/69d2f23a54f00230c6d24164?utm_campaign=1058&utm_source=git)** | Waltham, MA | Hybrid | Apr 05 |
@@ -104,8 +105,8 @@ For a complete list, click the following sortable link below:
 | **[MemorialCare](https://www.memorialcare.org)** | **[Pharmacy Intern Per Diem](https://jobright.ai/jobs/info/69c6c08fb773006330b7291d?utm_campaign=1058&utm_source=git)** | Laguna Hills, CA | On Site | Apr 04 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Intern I - High School](https://jobright.ai/jobs/info/69d16c04cdb525785fbb2753?utm_campaign=1058&utm_source=git)** | San Jose, CA | On Site | Apr 04 |
 | **[U.S. Renal Care](https://www.usrenalcare.com)** | **[Intern - Admissions](https://jobright.ai/jobs/info/69d1697954f00230c6d1a240?utm_campaign=1058&utm_source=git)** | Plano, TX | On Site | Apr 04 |
-| **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[Advanced Radiology Intern (Non-Exempt)](https://jobright.ai/jobs/info/69d1697654f00230c6d1a22d?utm_campaign=1058&utm_source=git)** | Springfield, MO | On Site | Apr 04 |
-| ↳ | **[Radiology Intern II PRN](https://jobright.ai/jobs/info/69d1697654f00230c6d1a230?utm_campaign=1058&utm_source=git)** | Springfield, MO | On Site | Apr 04 |
+| **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[Radiology Intern II PRN](https://jobright.ai/jobs/info/69d1697654f00230c6d1a230?utm_campaign=1058&utm_source=git)** | Springfield, MO | On Site | Apr 04 |
+| ↳ | **[Advanced Radiology Intern (Non-Exempt)](https://jobright.ai/jobs/info/69d1697654f00230c6d1a22d?utm_campaign=1058&utm_source=git)** | Springfield, MO | On Site | Apr 04 |
 | ↳ | **[Respiratory Intern (Non-Exempt) (22072N)](https://jobright.ai/jobs/info/69d1694c366bb95ba55266ce?utm_campaign=1058&utm_source=git)** | Springfield, MO | On Site | Apr 04 |
 | ↳ | **[Advanced Radiology Intern PRN](https://jobright.ai/jobs/info/69d16929cdb525785fbb265c?utm_campaign=1058&utm_source=git)** | Rogers, AR | On Site | Apr 04 |
 | ↳ | **[Radiology Student Intern](https://jobright.ai/jobs/info/69d16924cdb525785fbb2650?utm_campaign=1058&utm_source=git)** | Fort Smith, AR | On Site | Apr 04 |
@@ -152,9 +153,8 @@ For a complete list, click the following sortable link below:
 | **[Shelter Insurance Companies](https://www.shelterinsurance.com/)** | **[Cultivate Intern - Information Services (Platform Team)](https://jobright.ai/jobs/info/69cad0aba8c1822476e207de?utm_campaign=1058&utm_source=git)** | Greater Columbia, Missouri Area | On Site | Apr 04 |
 | **[A Hiring Company](https://www.linkedin.com/company/101478385)** | **[Computer Technology Support Intern](https://jobright.ai/jobs/info/69d148e50b098b7a67080c4d?utm_campaign=1058&utm_source=git)** | Sewickley, PA | On Site | Apr 04 |
 | **[Centric Brands](https://centricbrands.com)** | **[Centric Brands - Stage en TI Été 2026 - Summer IT Internship 2026 - Montreal, Canada](https://jobright.ai/jobs/info/6998ff35e0bddb6acac7f462?utm_campaign=1058&utm_source=git)** | Montreal, QC | On Site | Apr 04 |
-| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Intern I - High School](https://jobright.ai/jobs/info/69d10e83cdb525785fbb0676?utm_campaign=1058&utm_source=git)** | Martinez, CA | On Site | Apr 04 |
-| ↳ | **[Intern I - High School](https://jobright.ai/jobs/info/69d10e83cdb525785fbb0675?utm_campaign=1058&utm_source=git)** | San Rafael, CA | On Site | Apr 04 |
+| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Intern I - High School](https://jobright.ai/jobs/info/69d10e83cdb525785fbb0675?utm_campaign=1058&utm_source=git)** | San Rafael, CA | On Site | Apr 04 |
+| ↳ | **[Intern I - High School](https://jobright.ai/jobs/info/69d10e83cdb525785fbb0676?utm_campaign=1058&utm_source=git)** | Martinez, CA | On Site | Apr 04 |
 | **[Stormont Vail Health](http://www.stormontvail.org)** | **[Pharmacy Student Intern 1 (P1 & P2)](https://jobright.ai/jobs/info/6948c2ca63141d188458605b?utm_campaign=1058&utm_source=git)** | Topeka, KS | On Site | Apr 04 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Intern I - High School](https://jobright.ai/jobs/info/69d10de9366bb95ba5524685?utm_campaign=1058&utm_source=git)** | Santa Clara, CA | On Site | Apr 04 |
-| **[CareDx, Inc.](https://www.caredx.com/)** | **[IT Operations Support Summer Intern 2026](https://jobright.ai/jobs/info/69b47d8e06c1ba00c545f5ad?utm_campaign=1058&utm_source=git)** | Brisbane, CA | On Site | Apr 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
