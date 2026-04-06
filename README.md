@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP - User Assistance Technical Writer](https://jobright.ai/jobs/info/69d2f23a54f00230c6d24164?utm_campaign=1058&utm_source=git)** | Waltham, MA | Hybrid | Apr 05 |
 | **[Moda Health](https://www.modahealth.com/index.shtml)** | **[Medicaid Customer Service Representative](https://jobright.ai/jobs/info/69d2ca70891d7b11cfceb8f0?utm_campaign=1058&utm_source=git)** | Portland, OR | Remote | Apr 05 |
 | **[Balt Brasil](https://www.baltgroup.com/)** | **[Customer Service Representative - International](https://jobright.ai/jobs/info/69d2ca7054f00230c6d224ed?utm_campaign=1058&utm_source=git)** | Irvine, CA | On Site | Apr 05 |
 | **[Texas Treasury Safekeeping Trust Company](https://www.ttstc.org/)** | **[TTSTC- IT Support Intern - Systems Analyst ( Temporary Position)](https://jobright.ai/jobs/info/69d2983dcdb525785fbba5bf?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | Apr 05 |
@@ -78,8 +79,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69d26cc10b098b7a67088bbb?utm_campaign=1058&utm_source=git)** | Albertville, AL | On Site | Apr 05 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69d26cc10b098b7a67088bba?utm_campaign=1058&utm_source=git)** | Fayetteville, TN | On Site | Apr 05 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69d26cbe891d7b11cfceaa40?utm_campaign=1058&utm_source=git)** | Valparaiso, IN | On Site | Apr 05 |
-| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69d26cbdcdb525785fbb99bb?utm_campaign=1058&utm_source=git)** | Decatur, AL | On Site | Apr 05 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69d26cbdcdb525785fbb99ba?utm_campaign=1058&utm_source=git)** | Albertville, AL | On Site | Apr 05 |
+| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69d26cbdcdb525785fbb99bb?utm_campaign=1058&utm_source=git)** | Decatur, AL | On Site | Apr 05 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69d26cba0b098b7a67088ba4?utm_campaign=1058&utm_source=git)** | Wallingford, CT | On Site | Apr 05 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69d26cb4891d7b11cfceaa15?utm_campaign=1058&utm_source=git)** | Huntsville, AL | On Site | Apr 05 |
 | **[Cedar Point Amusement Park](https://www.cedarpoint.com/)** | **[Hospitality & Guest Service Internships](https://jobright.ai/jobs/info/69b694aa06c1ba00c5487907?utm_campaign=1058&utm_source=git)** | Sandusky, OH | On Site | Apr 05 |
@@ -140,8 +141,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69d11e940b098b7a6707fa3e?utm_campaign=1058&utm_source=git)** | San Francisco, CA | On Site | Apr 04 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69d11e8fcfdc6132f9441a28?utm_campaign=1058&utm_source=git)** | Cadillac, MI | On Site | Apr 04 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69d11e8d0b098b7a6707fa24?utm_campaign=1058&utm_source=git)** | South Burlington, VT | On Site | Apr 04 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69d11e8c0b098b7a6707fa15?utm_campaign=1058&utm_source=git)** | Benbrook, TX | On Site | Apr 04 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69d11e8c0b098b7a6707fa16?utm_campaign=1058&utm_source=git)** | Houghton, MI | On Site | Apr 04 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69d11e8c0b098b7a6707fa15?utm_campaign=1058&utm_source=git)** | Benbrook, TX | On Site | Apr 04 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69d11e79cdb525785fbb0914?utm_campaign=1058&utm_source=git)** | Gaylord, MI | On Site | Apr 04 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69d11e7754f00230c6d1861d?utm_campaign=1058&utm_source=git)** | Carlstadt, NJ | On Site | Apr 04 |
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Client Services, Analyst](https://jobright.ai/jobs/info/69b41e5a569738374138b3c8?utm_campaign=1058&utm_source=git)** | Texas, United States | Remote | Apr 04 |
@@ -149,12 +150,11 @@ For a complete list, click the following sortable link below:
 | **[Shelter Insurance Companies](https://www.shelterinsurance.com/)** | **[Cultivate Intern - Information Services (Platform Team)](https://jobright.ai/jobs/info/69cad0aba8c1822476e207de?utm_campaign=1058&utm_source=git)** | Greater Columbia, Missouri Area | On Site | Apr 04 |
 | **[A Hiring Company](https://www.linkedin.com/company/101478385)** | **[Computer Technology Support Intern](https://jobright.ai/jobs/info/69d148e50b098b7a67080c4d?utm_campaign=1058&utm_source=git)** | Sewickley, PA | On Site | Apr 04 |
 | **[Centric Brands](https://centricbrands.com)** | **[Centric Brands - Stage en TI Été 2026 - Summer IT Internship 2026 - Montreal, Canada](https://jobright.ai/jobs/info/6998ff35e0bddb6acac7f462?utm_campaign=1058&utm_source=git)** | Montreal, QC | On Site | Apr 04 |
-| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Intern I - High School](https://jobright.ai/jobs/info/69d10e83cdb525785fbb0676?utm_campaign=1058&utm_source=git)** | Martinez, CA | On Site | Apr 04 |
-| ↳ | **[Intern I - High School](https://jobright.ai/jobs/info/69d10e83cdb525785fbb0675?utm_campaign=1058&utm_source=git)** | San Rafael, CA | On Site | Apr 04 |
+| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Intern I - High School](https://jobright.ai/jobs/info/69d10e83cdb525785fbb0675?utm_campaign=1058&utm_source=git)** | San Rafael, CA | On Site | Apr 04 |
+| ↳ | **[Intern I - High School](https://jobright.ai/jobs/info/69d10e83cdb525785fbb0676?utm_campaign=1058&utm_source=git)** | Martinez, CA | On Site | Apr 04 |
 | **[Stormont Vail Health](http://www.stormontvail.org)** | **[Pharmacy Student Intern 1 (P1 & P2)](https://jobright.ai/jobs/info/6948c2ca63141d188458605b?utm_campaign=1058&utm_source=git)** | Topeka, KS | On Site | Apr 04 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Intern I - High School](https://jobright.ai/jobs/info/69d10de9366bb95ba5524685?utm_campaign=1058&utm_source=git)** | Santa Clara, CA | On Site | Apr 04 |
 | **[CareDx, Inc.](https://www.caredx.com/)** | **[IT Operations Support Summer Intern 2026](https://jobright.ai/jobs/info/69b47d8e06c1ba00c545f5ad?utm_campaign=1058&utm_source=git)** | Brisbane, CA | On Site | Apr 04 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Clinical Pharmacy Intern, Rising P2, Atlanta](https://jobright.ai/jobs/info/69d109e654f00230c6d182e8?utm_campaign=1058&utm_source=git)** | Georgia-Atlanta-Regional Office - 10 Piedmont | On Site | Apr 04 |
 | **[Uline](http://www.uline.com)** | **[Customer Service Internship - Year-Round](https://jobright.ai/jobs/info/697a64728dbbf73badc78717?utm_campaign=1058&utm_source=git)** | Racine, WI | On Site | Apr 04 |
-| **[GreenState Credit Union](https://www.uiccu.org)** | **[Information Technology Intern](https://jobright.ai/jobs/info/69d101820b098b7a6707f215?utm_campaign=1058&utm_source=git)** | North Liberty, IA | On Site | Apr 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
