@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[EisnerAmper](http://www.eisneramper.com)** | **[2026 Service Desk Analyst Summer Intern](https://jobright.ai/jobs/info/69d3d5e3cfdc6132f9454ce1?utm_campaign=1058&utm_source=git)** | Minneapolis | On Site | Apr 06 |
+| ↳ | **[2026 Service Desk Analyst Summer Intern](https://jobright.ai/jobs/info/69d3d5e2cdb525785fbc3815?utm_campaign=1058&utm_source=git)** | West Palm Beach | On Site | Apr 06 |
+| **[Prisma Health](https://www.prismahealth.org)** | **[Pharmacy Intern, Sterile Compounding, PRN, Split](https://jobright.ai/jobs/info/69d3d5c7cfdc6132f9454c56?utm_campaign=1058&utm_source=git)** | Columbia, SC | On Site | Apr 06 |
+| **[Clark National Accounts](https://www.clarknationalaccounts.com/)** | **[Customer Support Internship - Summer 2026](https://jobright.ai/jobs/info/69d3d33754f00230c6d2b4f2?utm_campaign=1058&utm_source=git)** | Lititz, PA | On Site | Apr 06 |
+| **[Amphenol Communications Solutions](http://www.mergeoptics.com)** | **[Junior IT Support Intern - S2026](https://jobright.ai/jobs/info/69d3d1eb366bb95ba55378f6?utm_campaign=1058&utm_source=git)** | Yocumtown, PA | On Site | Apr 06 |
+| **[Acuity Insurance](http://www.acuity.com)** | **[Technical Support Analyst Intern](https://jobright.ai/jobs/info/69d3cf3e891d7b11cfcf453f?utm_campaign=1058&utm_source=git)** | Sheboygan, WI | On Site | Apr 06 |
+| **[Kroger](https://www.thekrogerco.com/)** | **[Pharmacy/Pharmacist Graduate Intern](https://jobright.ai/jobs/info/69d3c834891d7b11cfcf37fd?utm_campaign=1058&utm_source=git)** | Fort Wayne, IN | On Site | Apr 06 |
+| **[Cantex](https://www.cantexcc.com)** | **[IT intern (22081)](https://jobright.ai/jobs/info/69d3c7ebcdb525785fbc26af?utm_campaign=1058&utm_source=git)** | Cantex Corporate - Carrollton, TX 75006 | On Site | Apr 06 |
 | **[Acuity Insurance](http://www.acuity.com)** | **[Technical Support Analyst Intern](https://jobright.ai/jobs/info/69d3c7d654f00230c6d29fa8?utm_campaign=1058&utm_source=git)** | Sheboygan, Wisconsin, United States | On Site | Apr 06 |
 | **[Intermountain Health](https://intermountainhealthcare.org)** | **[Student Intern I-NonClinical](https://jobright.ai/jobs/info/69d3c7d2366bb95ba55365a9?utm_campaign=1058&utm_source=git)** | Intermountain Health Cedar City Hospital | On Site | Apr 06 |
 | **[First Horizon Bank](https://www.firsthorizon.com/pmc)** | **[Intern - Digital Banking Support](https://jobright.ai/jobs/info/698e2cc90f6f7e7a2cea3bdf?utm_campaign=1058&utm_source=git)** | Knoxville, TN | On Site | Apr 06 |
@@ -83,8 +91,8 @@ For a complete list, click the following sortable link below:
 | **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Solution Center IT Help Desk](https://jobright.ai/jobs/info/69d390cf366bb95ba5534da5?utm_campaign=1058&utm_source=git)** | Tempe, AZ | Hybrid | Apr 06 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69d390c954f00230c6d28680?utm_campaign=1058&utm_source=git)** | Agoura Hills, CA | On Site | Apr 06 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69d390c354f00230c6d2867e?utm_campaign=1058&utm_source=git)** | Selinsgrove, PA | On Site | Apr 06 |
-| ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/69d390c254f00230c6d2867d?utm_campaign=1058&utm_source=git)** | Minneapolis, MN | On Site | Apr 06 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69d390c254f00230c6d2867c?utm_campaign=1058&utm_source=git)** | Gilbertsville, PA | On Site | Apr 06 |
+| ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/69d390c254f00230c6d2867d?utm_campaign=1058&utm_source=git)** | Minneapolis, MN | On Site | Apr 06 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69d390b0cfdc6132f9451e88?utm_campaign=1058&utm_source=git)** | Ypsilanti, MI | On Site | Apr 06 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69d390abcfdc6132f9451e84?utm_campaign=1058&utm_source=git)** | Collegeville, PA | On Site | Apr 06 |
 | ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/69d3901e891d7b11cfcf199b?utm_campaign=1058&utm_source=git)** | Frederick, MD | On Site | Apr 06 |
@@ -104,11 +112,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[TTSTC- IT Support Intern - Systems Analyst ( Temporary Position)](https://jobright.ai/jobs/info/69d3040b54f00230c6d24622?utm_campaign=1058&utm_source=git)** | Thomas J Rusk Building208 East 10th Street | On Site | Apr 05 |
 | **[Community Access](https://www.communityaccess.org)** | **[Respite Worker Intern](https://jobright.ai/jobs/info/69d386c6cdb525785fbc074b?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Apr 05 |
 | **[Allina Health](https://www.allinahealth.org/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69d3c2e954f00230c6d29e49?utm_campaign=1058&utm_source=git)** | St Paul, MN | On Site | Apr 05 |
-| **[Rutland Regional Medical Center](https://rrmccareers.hctsportals.com)** | **[RN New Graduate Internship Program - Surgical Care Unit](https://jobright.ai/jobs/info/69d3b3b0891d7b11cfcf2c83?utm_campaign=1058&utm_source=git)** | Rutland, VT | On Site | Apr 05 |
 | **[Redwood Logistics](https://www.redwoodlogistics.com/)** | **[Service Desk Intern](https://jobright.ai/jobs/info/69d3c10ecdb525785fbc2070?utm_campaign=1058&utm_source=git)** | Chicago, IL | Hybrid | Apr 05 |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP - User Assistance Technical Writer](https://jobright.ai/jobs/info/69d2f23a54f00230c6d24164?utm_campaign=1058&utm_source=git)** | Waltham, MA | Hybrid | Apr 05 |
 | **[Moda Health](https://www.modahealth.com/index.shtml)** | **[Medicaid Customer Service Representative](https://jobright.ai/jobs/info/69d2ca70891d7b11cfceb8f0?utm_campaign=1058&utm_source=git)** | Portland, OR | Remote | Apr 05 |
 | **[Balt Brasil](https://www.baltgroup.com/)** | **[Customer Service Representative - International](https://jobright.ai/jobs/info/69d2ca7054f00230c6d224ed?utm_campaign=1058&utm_source=git)** | Irvine, CA | On Site | Apr 05 |
+| **[Veolia](http://www.veolia.com/en/)** | **[Customer Service Intern](https://jobright.ai/jobs/info/69d3cbf0cfdc6132f94545f1?utm_campaign=1058&utm_source=git)** | West Nyack, NY, US | On Site | Apr 05 |
+| ↳ | **[Customer Service Intern](https://jobright.ai/jobs/info/69d3d165e63cea7a8b6539e5?utm_campaign=1058&utm_source=git)** | West Nyack, NY, US | On Site | Apr 05 |
 | **[Texas Treasury Safekeeping Trust Company](https://www.ttstc.org/)** | **[TTSTC- IT Support Intern - Systems Analyst ( Temporary Position)](https://jobright.ai/jobs/info/69d2983dcdb525785fbba5bf?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | Apr 05 |
 | **[City of Mount Vernon](https://cmvny.com/)** | **[Library Intern - Teen](https://jobright.ai/jobs/info/69d2868854f00230c6d21d1f?utm_campaign=1058&utm_source=git)** | Mount Vernon, WA | On Site | Apr 05 |
 | **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69d2835e891d7b11cfceb0ce?utm_campaign=1058&utm_source=git)** | Albuquerque, NM | On Site | Apr 05 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Xometry](https://www.xometry.com)** | **[Case Management Intern](https://jobright.ai/jobs/info/6943a5e5dd382f5f5669c041?utm_campaign=1058&utm_source=git)** | North Bethesda, MD | Hybrid | Apr 04 |
 | **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[Radiology Intern I](https://jobright.ai/jobs/info/69d1aa5c891d7b11cfce48cf?utm_campaign=1058&utm_source=git)** | Booneville, AR | On Site | Apr 04 |
 | **[Fayetteville Public Works Commission](https://www.faypwc.com/)** | **[IT Financial Applications Intern](https://jobright.ai/jobs/info/69d1767d366bb95ba5526890?utm_campaign=1058&utm_source=git)** | Fayetteville, NC | On Site | Apr 04 |
-| **[MemorialCare](https://www.memorialcare.org)** | **[Pharmacy Intern Per Diem](https://jobright.ai/jobs/info/69c6c08fb773006330b7291d?utm_campaign=1058&utm_source=git)** | Laguna Hills, CA | On Site | Apr 04 |
-| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Intern I - High School](https://jobright.ai/jobs/info/69d16c04cdb525785fbb2753?utm_campaign=1058&utm_source=git)** | San Jose, CA | On Site | Apr 04 |
-| **[U.S. Renal Care](https://www.usrenalcare.com)** | **[Intern - Admissions](https://jobright.ai/jobs/info/69d1697954f00230c6d1a240?utm_campaign=1058&utm_source=git)** | Plano, TX | On Site | Apr 04 |
-| **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[Radiology Intern II PRN](https://jobright.ai/jobs/info/69d1697654f00230c6d1a230?utm_campaign=1058&utm_source=git)** | Springfield, MO | On Site | Apr 04 |
-| ↳ | **[Advanced Radiology Intern (Non-Exempt)](https://jobright.ai/jobs/info/69d1697654f00230c6d1a22d?utm_campaign=1058&utm_source=git)** | Springfield, MO | On Site | Apr 04 |
-| ↳ | **[Respiratory Intern (Non-Exempt) (22072N)](https://jobright.ai/jobs/info/69d1694c366bb95ba55266ce?utm_campaign=1058&utm_source=git)** | Springfield, MO | On Site | Apr 04 |
-| ↳ | **[Advanced Radiology Intern PRN](https://jobright.ai/jobs/info/69d16929cdb525785fbb265c?utm_campaign=1058&utm_source=git)** | Rogers, AR | On Site | Apr 04 |
-| ↳ | **[Radiology Student Intern](https://jobright.ai/jobs/info/69d16924cdb525785fbb2650?utm_campaign=1058&utm_source=git)** | Fort Smith, AR | On Site | Apr 04 |
-| **[CCC Intelligent Solutions](http://www.cccis.com)** | **[End User Technology Intern](https://jobright.ai/jobs/info/69b4e2eb569738374139ea4c?utm_campaign=1058&utm_source=git)** | Chicago, IL | Hybrid | Apr 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
