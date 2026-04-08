@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE - CRNA Internship](https://jobright.ai/jobs/info/69d61463cfdc6132f9468809?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Apr 08 |
+| ↳ | **[REGISTERED NURSE - CRNA Internship](https://jobright.ai/jobs/info/69d6108c366bb95ba554b2db?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Apr 08 |
+| **[Orlando Health](https://www.orlandohealth.com/)** | **[Senior Nurse Intern - Part Time - Trauma Neuro ICU](https://jobright.ai/jobs/info/69d60f33e63cea7a8b66764f?utm_campaign=1058&utm_source=git)** | Orlando, FL | On Site | Apr 08 |
 | **[Queensborough National Bank and Trust Co.](https://www.qnbtrust.bank/)** | **[Universal Banker Internship](https://jobright.ai/jobs/info/69d603fde63cea7a8b6673fd?utm_campaign=1058&utm_source=git)** | Savannah, GA | On Site | Apr 08 |
 | **[Mitch Insurance Brokers](https://mitchinsurance.com)** | **[Receptionist - Summer Student](https://jobright.ai/jobs/info/69d5fc6c891d7b11cfd075fd?utm_campaign=1058&utm_source=git)** | Whitby, ON | On Site | Apr 07 |
 | **[Xometry](https://www.xometry.com)** | **[IT Service Desk Intern](https://jobright.ai/jobs/info/69acaada2747003c3d524801?utm_campaign=1058&utm_source=git)** | North Bethesda, MD | Hybrid | Apr 07 |
@@ -139,6 +142,7 @@ For a complete list, click the following sortable link below:
 | **[National Association of Home Builders](https://www.nahb.org)** | **[Information Technology Intern](https://jobright.ai/jobs/info/69d55350cdb525785fbcfe16?utm_campaign=1058&utm_source=git)** | Washington, DC, US | On Site | Apr 07 |
 | **[Impact Advisors](https://www.impact-advisors.com)** | **[IT Advisory Intern](https://jobright.ai/jobs/info/69d55349e63cea7a8b660469?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Apr 07 |
 | **[MANITOU Group](http://www.manitou-group.com)** | **[Transporation and Logistic Intern](https://jobright.ai/jobs/info/69ba90913b74eb1e2c888d0e?utm_campaign=1058&utm_source=git)** | West Bend, WI | On Site | Apr 07 |
+| **[Yardi](https://www.yardi.com)** | **[Intern, Associate Technical Account Manager](https://jobright.ai/jobs/info/69d60df0cfdc6132f9468545?utm_campaign=1058&utm_source=git)** | Atlanta, GA | Hybrid | Apr 07 |
 | **[Select Medical](http://www.selectmedical.com)** | **[Pharmacy Intern - PRN](https://jobright.ai/jobs/info/69d54e86366bb95ba5543f69?utm_campaign=1058&utm_source=git)** | Memphis, TN | On Site | Apr 07 |
 | **[Delek US](http://www.delekus.com/about-us)** | **[IT Intern](https://jobright.ai/jobs/info/69b86d523b74eb1e2c863a95?utm_campaign=1058&utm_source=git)** | Tyler, TX | On Site | Apr 07 |
 | **[Republic Services](http://www.republicservices.com)** | **[Commercial Helper (Intern)](https://jobright.ai/jobs/info/69d54e52366bb95ba5543f33?utm_campaign=1058&utm_source=git)** | Atlanta, GA | On Site | Apr 07 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Jobs via eFinancialCareers](http://www.efinancialcareers.com/)** | **[Client Experience Summer Intern (Early Careers) - S&P Global](https://jobright.ai/jobs/info/69d54419cdb525785fbcf652?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Apr 07 |
 | **[Meridian Bioscience Inc.](http://meridianbioscience.com)** | **[Technical Services Support Intern](https://jobright.ai/jobs/info/69b8714d56973837413dc8be?utm_campaign=1058&utm_source=git)** | Cincinnati, OH | On Site | Apr 07 |
 | **[ARCO a Family of Construction Companies](https://thearcoway.com)** | **[IT Intern/Co-op](https://jobright.ai/jobs/info/69ba897006c1ba00c54c9795?utm_campaign=1058&utm_source=git)** | Brentwood, MO | On Site | Apr 07 |
-| **[MANITOU Group](http://www.manitou-group.com)** | **[IT Technician Intern](https://jobright.ai/jobs/info/69ba88c55697383741401e32?utm_campaign=1058&utm_source=git)** | West Bend, WI | On Site | Apr 07 |
-| **[Alaka`ina Foundation Family of Companies](https://www.alakainafoundation.com/)** | **[Intern (Part-Time)](https://jobright.ai/jobs/info/699ce6d3ce78e77b4fe19dc7?utm_campaign=1058&utm_source=git)** | Kauai County, HI | On Site | Apr 07 |
-| **[Trinity Health](http://www.trinity-health.org)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69ba7e7d06c1ba00c54c7ab7?utm_campaign=1058&utm_source=git)** | Mishawaka, IN | On Site | Apr 07 |
-| **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Access Your Future Service Intern](https://jobright.ai/jobs/info/68ba32e76105227d1189b8f4?utm_campaign=1058&utm_source=git)** | Fort Worth, TX | On Site | Apr 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
