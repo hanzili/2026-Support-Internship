@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mouser Electronics](http://mouser.com)** | **[Customer Experience Intern](https://jobright.ai/jobs/info/69ba7b873b74eb1e2c885792?utm_campaign=1058&utm_source=git)** | Mansfield, TX | On Site | Apr 08 |
+| **[NRI North America](http://www.nri-na.com)** | **[Internship IT Department](https://jobright.ai/jobs/info/699d1835ce78e77b4fe1ea5f?utm_campaign=1058&utm_source=git)** | Cooperstown, NY | On Site | Apr 08 |
+| **[Aimbridge Hospitality](http://www.aimbridgehospitality.com/)** | **[Sheraton Grand Nashville - Hospitality Management Intern](https://jobright.ai/jobs/info/69bb8d093b74eb1e2c8a0dcd?utm_campaign=1058&utm_source=git)** | Nashville, TN | On Site | Apr 08 |
+| **[Schonfeld](http://www.schonfeld.com/)** | **[Counterparty Onboarding Analyst](https://jobright.ai/jobs/info/69bb8bba06c1ba00c54e12f8?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Apr 08 |
 | **[Worley](https://www.worley.com)** | **[Deskside Support Intern](https://jobright.ai/jobs/info/69bb8c0806c1ba00c54e14f8?utm_campaign=1058&utm_source=git)** | Edmonton, AB | On Site | Apr 08 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Information Technology Summer Intern 2026 - Casual Temp., $22.50/Hour](https://jobright.ai/jobs/info/69b54d083b74eb1e2c82e24a?utm_campaign=1058&utm_source=git)** | Kapolei, HI | On Site | Apr 08 |
 | **[City of West Fargo](http://www.westfargond.gov)** | **[Summer Library Intern](https://jobright.ai/jobs/info/69d621e772c86e289ed804c7?utm_campaign=1058&utm_source=git)** | West Fargo, ND | On Site | Apr 08 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Precision Castparts](http://precast.com)** | **[Co-op - Information Technology](https://jobright.ai/jobs/info/69d54baae63cea7a8b660185?utm_campaign=1058&utm_source=git)** | New Hartford, NY | On Site | Apr 07 |
 | **[SWBC](https://www.swbc.com)** | **[IT Intern (Service Delivery)](https://jobright.ai/jobs/info/69811706abff4c399a9fe56f?utm_campaign=1058&utm_source=git)** | San Antonio, TX | On Site | Apr 07 |
 | **[Texas Health Resources](https://www.texashealth.org/)** | **[Nurse Extern/Nursing Intern Extern (PRN/Days)](https://jobright.ai/jobs/info/69d54a0be63cea7a8b6600e3?utm_campaign=1058&utm_source=git)** | Plano, TX | On Site | Apr 07 |
-| **[Washington County Hospital and Clinics](http://www.wchc.org/)** | **[Nursing Summer Intern](https://jobright.ai/jobs/info/69d549c9891d7b11cfd00b51?utm_campaign=1058&utm_source=git)** | Washington Co Hospital - Washington, IA 52353 | On Site | Apr 07 |
-| **[Grenzebach Group](http://grenzebach.com)** | **[IT Intern](https://jobright.ai/jobs/info/69d549bd706f771673ba1eb4?utm_campaign=1058&utm_source=git)** | NEWNAN, GA 30265 | On Site | Apr 07 |
-| **[SWBC](https://www.swbc.com)** | **[IT Intern (Service Desk)](https://jobright.ai/jobs/info/69d5cad4cfdc6132f9465e79?utm_campaign=1058&utm_source=git)** | San Antonio, TX | On Site | Apr 07 |
-| **[Lennox](http://www.lennox.com)** | **[Technical Service Intern](https://jobright.ai/jobs/info/69d54571cdb525785fbcf6b8?utm_campaign=1058&utm_source=git)** | Bay Shore, NY | On Site | Apr 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
