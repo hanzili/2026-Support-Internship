@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of West Fargo](http://www.westfargond.gov)** | **[Summer Library Intern](https://jobright.ai/jobs/info/69d621e772c86e289ed804c7?utm_campaign=1058&utm_source=git)** | West Fargo, ND | On Site | Apr 08 |
+| **[UICGS / Bowhead Family of Companies](http://www.bowhead.com)** | **[General Clerk III](https://jobright.ai/jobs/info/69ba84fa06c1ba00c54c8afb?utm_campaign=1058&utm_source=git)** | El Paso, TX | On Site | Apr 08 |
 | **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE - CRNA Internship](https://jobright.ai/jobs/info/69d61463cfdc6132f9468809?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Apr 08 |
 | ↳ | **[REGISTERED NURSE - CRNA Internship](https://jobright.ai/jobs/info/69d6108c366bb95ba554b2db?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Apr 08 |
 | **[Orlando Health](https://www.orlandohealth.com/)** | **[Senior Nurse Intern - Part Time - Trauma Neuro ICU](https://jobright.ai/jobs/info/69d60f33e63cea7a8b66764f?utm_campaign=1058&utm_source=git)** | Orlando, FL | On Site | Apr 08 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Lennox](http://www.lennox.com)** | **[Technical Service Intern](https://jobright.ai/jobs/info/69d54571cdb525785fbcf6b8?utm_campaign=1058&utm_source=git)** | Bay Shore, NY | On Site | Apr 07 |
 | **[HCA Healthcare](https://hcahealthcare.com/)** | **[Intern PRN](https://jobright.ai/jobs/info/69ba8f2b5697383741403da3?utm_campaign=1058&utm_source=git)** | Largo, FL | On Site | Apr 07 |
 | **[Jobs via eFinancialCareers](http://www.efinancialcareers.com/)** | **[Client Experience Summer Intern (Early Careers) - S&P Global](https://jobright.ai/jobs/info/69d54419cdb525785fbcf652?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Apr 07 |
-| **[Meridian Bioscience Inc.](http://meridianbioscience.com)** | **[Technical Services Support Intern](https://jobright.ai/jobs/info/69b8714d56973837413dc8be?utm_campaign=1058&utm_source=git)** | Cincinnati, OH | On Site | Apr 07 |
-| **[ARCO a Family of Construction Companies](https://thearcoway.com)** | **[IT Intern/Co-op](https://jobright.ai/jobs/info/69ba897006c1ba00c54c9795?utm_campaign=1058&utm_source=git)** | Brentwood, MO | On Site | Apr 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
