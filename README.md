@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Asure Software](http://www.asuresoftware.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/69d5b23de63cea7a8b66306c?utm_campaign=1058&utm_source=git)** | Austin, TX | Remote | Apr 07 |
+| **[County of Los Angeles](https://lacounty.gov)** | **[TECHNOLOGY PROFESSIONAL INTERN I](https://jobright.ai/jobs/info/69d5b221706f771673ba4e47?utm_campaign=1058&utm_source=git)** | Los Angeles County, CA | On Site | Apr 07 |
+| **[Boulder County Sheriff's Office](http://bouldersheriff.gov)** | **[Service Desk Intern](https://jobright.ai/jobs/info/69d5b0f6366bb95ba5546cac?utm_campaign=1058&utm_source=git)** | Boulder County, CO | On Site | Apr 07 |
+| **[Aflac](http://www.aflac.com)** | **[Mgr, PLADS Customer Care Center (Hybrid - Windsor, CT)](https://jobright.ai/jobs/info/69d5affacfdc6132f9463fe4?utm_campaign=1058&utm_source=git)** | Windsor, CT | Hybrid | Apr 07 |
+| **[Westchester Medical Center Health Network](http://WMCHealth.org)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69d5ad9c891d7b11cfd039f6?utm_campaign=1058&utm_source=git)** | Valhalla, NY | On Site | Apr 07 |
 | **[Yardi](https://www.yardi.com)** | **[Intern, Associate Technical Account Manager](https://jobright.ai/jobs/info/69d5a3d6cdb525785fbd2492?utm_campaign=1058&utm_source=git)** | Santa Ana, CA | Hybrid | Apr 07 |
 | **[New Orleans Pelicans](http://www.Pelicans.com)** | **[Customer Service Associate](https://jobright.ai/jobs/info/69d59e34cfdc6132f9463907?utm_campaign=1058&utm_source=git)** | Metairie, LA | On Site | Apr 07 |
 | **[KPH HEALTHCARE SERVICES, INC](https://www.kphhealthcareservices.com/en/)** | **[Pharmacy Intern P4](https://jobright.ai/jobs/info/69d59c0be63cea7a8b6628a6?utm_campaign=1058&utm_source=git)** | Baldwinsville, NY | On Site | Apr 07 |
@@ -104,7 +109,6 @@ For a complete list, click the following sortable link below:
 | **[Iron Mountain](http://www.ironmountain.com)** | **[Summer 2026 INTERN (HYBRID) Process Documentation and Support Specialist](https://jobright.ai/jobs/info/69d58856366bb95ba5545c5d?utm_campaign=1058&utm_source=git)** | US | IL | Remote | Hybrid | Apr 07 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Student Nurse Intern ICU](https://jobright.ai/jobs/info/69d560c5cdb525785fbd06a4?utm_campaign=1058&utm_source=git)** | US-MD-Baltimore | On Site | Apr 07 |
 | ↳ | **[Student Nurse Intern ICU](https://jobright.ai/jobs/info/69d560c4cdb525785fbd069f?utm_campaign=1058&utm_source=git)** | Baltimore, MD, US | On Site | Apr 07 |
-| **[Yardi](https://www.yardi.com)** | **[Intern, Associate Technical Account Manager](https://jobright.ai/jobs/info/69d56034cfdc6132f9461b23?utm_campaign=1058&utm_source=git)** | Atlanta, GA | Hybrid | Apr 07 |
 | **[Shaw Industries](https://shawinc.com)** | **[Philadelphia Commercial Intern – EDS Website Migration Support](https://jobright.ai/jobs/info/69d56033891d7b11cfd01567?utm_campaign=1058&utm_source=git)** | Dalton, GA | On Site | Apr 07 |
 | **[CNIB](http://www.cnib.ca/)** | **[Intern, Wellness Guide](https://jobright.ai/jobs/info/69d558cde63cea7a8b6606ff?utm_campaign=1058&utm_source=git)** | Toronto, ON | On Site | Apr 07 |
 | **[Yardi](https://www.yardi.com)** | **[Intern, Associate Technical Account Manager](https://jobright.ai/jobs/info/69d5567a706f771673ba24b0?utm_campaign=1058&utm_source=git)** | Raleigh, NC | On Site | Apr 07 |
@@ -144,8 +148,8 @@ For a complete list, click the following sortable link below:
 | **[Geisinger](https://www.geisinger.org)** | **[Pharmacy Intern Technician- Per Diem](https://jobright.ai/jobs/info/69d5260de63cea7a8b65ee7a?utm_campaign=1058&utm_source=git)** | Wilkes-Barre, PA | On Site | Apr 07 |
 | **[Edgewater Technical Associates, LLC](http://edgewatertech.net)** | **[IT & Emerging Technology Intern](https://jobright.ai/jobs/info/69d5260b366bb95ba5542c0c?utm_campaign=1058&utm_source=git)** | Johnson City, TN | On Site | Apr 07 |
 | **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse I](https://jobright.ai/jobs/info/68d777227a37c712687cdf18?utm_campaign=1058&utm_source=git)** | Collierville, TN | On Site | Apr 07 |
-| **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/69d522b7e63cea7a8b65edcf?utm_campaign=1058&utm_source=git)** | New Bedford, MA | On Site | Apr 07 |
-| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69d522b7e63cea7a8b65edd0?utm_campaign=1058&utm_source=git)** | Los Angeles, California, United States | On Site | Apr 07 |
+| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69d522b7e63cea7a8b65edd0?utm_campaign=1058&utm_source=git)** | Los Angeles, California, United States | On Site | Apr 07 |
+| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69d522b7e63cea7a8b65edcf?utm_campaign=1058&utm_source=git)** | New Bedford, MA | On Site | Apr 07 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69d522abe63cea7a8b65edc5?utm_campaign=1058&utm_source=git)** | Pico Rivera, CA | On Site | Apr 07 |
 | ↳ | **[Summer Pharmacy Intern-scholarships available](https://jobright.ai/jobs/info/69d522aae63cea7a8b65edbf?utm_campaign=1058&utm_source=git)** | Goldsboro, NC | On Site | Apr 07 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69d522aae63cea7a8b65edc0?utm_campaign=1058&utm_source=git)** | Pico Rivera, CA | On Site | Apr 07 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69d52296cdb525785fbce7ac?utm_campaign=1058&utm_source=git)** | Hickory, NC | On Site | Apr 07 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69d52296cdb525785fbce7b3?utm_campaign=1058&utm_source=git)** | Thousand Oaks, CA | On Site | Apr 07 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69d5228ccdb525785fbce798?utm_campaign=1058&utm_source=git)** | Port St Lucie, FL | On Site | Apr 07 |
-| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69d52286891d7b11cfcff90d?utm_campaign=1058&utm_source=git)** | Albuquerque, NM | On Site | Apr 07 |
-| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69d52286891d7b11cfcff91a?utm_campaign=1058&utm_source=git)** | Clermont, FL | On Site | Apr 07 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69d52285cdb525785fbce789?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | On Site | Apr 07 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69d52285cdb525785fbce78c?utm_campaign=1058&utm_source=git)** | Greensburg, PA | On Site | Apr 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
