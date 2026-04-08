@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CHRISTUS Health](http://www.christushealth.org)** | **[Nurse Extern II - Nursing Internship](https://jobright.ai/jobs/info/69d5d9244a12eb12c5e13eaa?utm_campaign=1058&utm_source=git)** | Santa Fe, NM | On Site | Apr 07 |
+| ↳ | **[Nurse Extern II - Nursing Internship - PRN](https://jobright.ai/jobs/info/69d5d888e63cea7a8b6657fd?utm_campaign=1058&utm_source=git)** | Santa Fe, NM | On Site | Apr 07 |
+| **[Iron Mountain](http://www.ironmountain.com)** | **[Summer 2026 INTERN (HYBRID) Process Documentation and Support Specialist](https://jobright.ai/jobs/info/69d5d287891d7b11cfd05cd3?utm_campaign=1058&utm_source=git)** | Chicago, IL | Hybrid | Apr 07 |
 | **[Trimble Inc.](https://www.trimble.com/)** | **[IS Help Desk Intern](https://jobright.ai/jobs/info/69d5cd66366bb95ba5548d3c?utm_campaign=1058&utm_source=git)** | Westminster, CO | On Site | Apr 07 |
 | **[Educational Insights](http://www.educationalinsights.com)** | **[Customer Experience and Sales Operations Intern](https://jobright.ai/jobs/info/69d5cb7f891d7b11cfd058f4?utm_campaign=1058&utm_source=git)** | Learning Resources, Vernon Hills, IL, US | On Site | Apr 07 |
 | **[ETA hand2mind](http://www.hand2mind.com/)** | **[Customer Experience and Sales Operations Intern](https://jobright.ai/jobs/info/69d5cb78cdb525785fbd473d?utm_campaign=1058&utm_source=git)** | Learning Resources, Vernon Hills, IL, US | On Site | Apr 07 |
@@ -68,7 +71,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Student Nurse Intern ICU](https://jobright.ai/jobs/info/69d5ba7d891d7b11cfd03ce2?utm_campaign=1058&utm_source=git)** | Baltimore, MD | On Site | Apr 07 |
 | ↳ | **[Imaging Student Intern](https://jobright.ai/jobs/info/69d5ba76cfdc6132f94642d6?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | Apr 07 |
 | **[Asure Software](http://www.asuresoftware.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/69d5b23de63cea7a8b66306c?utm_campaign=1058&utm_source=git)** | Austin, TX | Remote | Apr 07 |
-| **[County of Los Angeles](https://lacounty.gov)** | **[TECHNOLOGY PROFESSIONAL INTERN I](https://jobright.ai/jobs/info/69d5b221706f771673ba4e47?utm_campaign=1058&utm_source=git)** | Los Angeles County, CA | On Site | Apr 07 |
 | **[Boulder County Sheriff's Office](http://bouldersheriff.gov)** | **[Service Desk Intern](https://jobright.ai/jobs/info/69d5b0f6366bb95ba5546cac?utm_campaign=1058&utm_source=git)** | Boulder County, CO | On Site | Apr 07 |
 | **[Aflac](http://www.aflac.com)** | **[Mgr, PLADS Customer Care Center (Hybrid - Windsor, CT)](https://jobright.ai/jobs/info/69d5affacfdc6132f9463fe4?utm_campaign=1058&utm_source=git)** | Windsor, CT | Hybrid | Apr 07 |
 | **[Westchester Medical Center Health Network](http://WMCHealth.org)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69d5ad9c891d7b11cfd039f6?utm_campaign=1058&utm_source=git)** | Valhalla, NY | On Site | Apr 07 |
@@ -103,6 +105,7 @@ For a complete list, click the following sortable link below:
 | **[Monarch Casino Resort Spa - Black Hawk](https://monarchblackhawk.com)** | **[Front of House Intern/Trainee](https://jobright.ai/jobs/info/69d57bb7cfdc6132f94629c0?utm_campaign=1058&utm_source=git)** | Monarch Blackhawk | On Site | Apr 07 |
 | **[AMETEK](http://www.ametek.com)** | **[Intern - IT, Helpdesk & Systems Support](https://jobright.ai/jobs/info/69d5750bcdb525785fbd105d?utm_campaign=1058&utm_source=git)** | Wayne, NJ | On Site | Apr 07 |
 | **[MUFG Capital Analytics](https://www.linkedin.com/company/80919)** | **[Intern - IT System Support - Summer 2026](https://jobright.ai/jobs/info/69d57378cfdc6132f94626cc?utm_campaign=1058&utm_source=git)** | Dallas, TX | Hybrid | Apr 07 |
+| **[Click Bond](http://clickbond.com)** | **[Intern, Information Technology](https://jobright.ai/jobs/info/69d5d72de63cea7a8b665706?utm_campaign=1058&utm_source=git)** | Watertown, CT | On Site | Apr 07 |
 | **[Willkie Farr & Gallagher LLP](http://www.willkie.com)** | **[Intern - Helpdesk -  Client Services (Summer 2026)](https://jobright.ai/jobs/info/69d570ddcfdc6132f946256d?utm_campaign=1058&utm_source=git)** | US-NY-New York | On Site | Apr 07 |
 | **[International SOS](http://www.internationalsos.com)** | **[End User Support Intern](https://jobright.ai/jobs/info/69d570d6366bb95ba554518c?utm_campaign=1058&utm_source=git)** | Blue Bell: Arbor Way | On Site | Apr 07 |
 | **[Willkie Farr & Gallagher LLP](http://www.willkie.com)** | **[Intern - Helpdesk -  Client Services (Summer 2026)](https://jobright.ai/jobs/info/69d570b8891d7b11cfd01fd2?utm_campaign=1058&utm_source=git)** | New York, NY, US | On Site | Apr 07 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SpectrumVoIP](https://www.spectrumvoip.com/)** | **[Summer Intern - Service Desk Analyst 1](https://jobright.ai/jobs/info/69d53a34706f771673ba16aa?utm_campaign=1058&utm_source=git)** | Plano, TX | On Site | Apr 07 |
 | **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69d53919366bb95ba5543577?utm_campaign=1058&utm_source=git)** | Orlando, FL | On Site | Apr 07 |
 | **[FIRST](https://firstagency.com/)** | **[Event Technology Intern](https://jobright.ai/jobs/info/69d53207891d7b11cfcfff66?utm_campaign=1058&utm_source=git)** | GS - Jersey City | On Site | Apr 07 |
-| ↳ | **[Event Technology Intern](https://jobright.ai/jobs/info/69d52b82366bb95ba5542ef7?utm_campaign=1058&utm_source=git)** | Jersey City, NJ | On Site | Apr 07 |
-| **[Pacific Seafood](https://www.pacificseafood.com/)** | **[Logistics Support Intern](https://jobright.ai/jobs/info/699cbab4ce78e77b4fe17be1?utm_campaign=1058&utm_source=git)** | Snohomish County, WA | On Site | Apr 07 |
-| **[Geisinger](https://www.geisinger.org)** | **[Pharmacy Intern Technician- Per Diem](https://jobright.ai/jobs/info/69d5260de63cea7a8b65ee7a?utm_campaign=1058&utm_source=git)** | Wilkes-Barre, PA | On Site | Apr 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
