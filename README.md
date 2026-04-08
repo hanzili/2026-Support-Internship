@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Valley Health System](https://www.valleyhealthsystemlv.com)** | **[CLINICAL SYSTEMS ANALYST (RN)](https://jobright.ai/jobs/info/69616a9df3f4cd13250660ff?utm_campaign=1058&utm_source=git)** | Las Vegas, NV | On Site | Apr 07 |
+| **[Auburn University](https://www.auburn.edu/)** | **[Student IT Support](https://jobright.ai/jobs/info/69ced7e754f00230c6d03c81?utm_campaign=1058&utm_source=git)** | Auburn, AL | On Site | Apr 07 |
+| **[Ascension](https://healthcare.ascension.org)** | **[Nurse Intern Trauma Surgical ICU](https://jobright.ai/jobs/info/69d5ba8c366bb95ba5546f6d?utm_campaign=1058&utm_source=git)** | Wichita, KS | On Site | Apr 07 |
+| ↳ | **[Student Nurse Intern ICU](https://jobright.ai/jobs/info/69d5ba7d891d7b11cfd03ce2?utm_campaign=1058&utm_source=git)** | Baltimore, MD | On Site | Apr 07 |
+| ↳ | **[Imaging Student Intern](https://jobright.ai/jobs/info/69d5ba76cfdc6132f94642d6?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | Apr 07 |
 | **[Asure Software](http://www.asuresoftware.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/69d5b23de63cea7a8b66306c?utm_campaign=1058&utm_source=git)** | Austin, TX | Remote | Apr 07 |
 | **[County of Los Angeles](https://lacounty.gov)** | **[TECHNOLOGY PROFESSIONAL INTERN I](https://jobright.ai/jobs/info/69d5b221706f771673ba4e47?utm_campaign=1058&utm_source=git)** | Los Angeles County, CA | On Site | Apr 07 |
 | **[Boulder County Sheriff's Office](http://bouldersheriff.gov)** | **[Service Desk Intern](https://jobright.ai/jobs/info/69d5b0f6366bb95ba5546cac?utm_campaign=1058&utm_source=git)** | Boulder County, CO | On Site | Apr 07 |
@@ -148,13 +153,8 @@ For a complete list, click the following sortable link below:
 | **[Geisinger](https://www.geisinger.org)** | **[Pharmacy Intern Technician- Per Diem](https://jobright.ai/jobs/info/69d5260de63cea7a8b65ee7a?utm_campaign=1058&utm_source=git)** | Wilkes-Barre, PA | On Site | Apr 07 |
 | **[Edgewater Technical Associates, LLC](http://edgewatertech.net)** | **[IT & Emerging Technology Intern](https://jobright.ai/jobs/info/69d5260b366bb95ba5542c0c?utm_campaign=1058&utm_source=git)** | Johnson City, TN | On Site | Apr 07 |
 | **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse I](https://jobright.ai/jobs/info/68d777227a37c712687cdf18?utm_campaign=1058&utm_source=git)** | Collierville, TN | On Site | Apr 07 |
-| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69d522b7e63cea7a8b65edd0?utm_campaign=1058&utm_source=git)** | Los Angeles, California, United States | On Site | Apr 07 |
-| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69d522b7e63cea7a8b65edcf?utm_campaign=1058&utm_source=git)** | New Bedford, MA | On Site | Apr 07 |
+| **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/69d522b7e63cea7a8b65edcf?utm_campaign=1058&utm_source=git)** | New Bedford, MA | On Site | Apr 07 |
+| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69d522b7e63cea7a8b65edd0?utm_campaign=1058&utm_source=git)** | Los Angeles, California, United States | On Site | Apr 07 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69d522abe63cea7a8b65edc5?utm_campaign=1058&utm_source=git)** | Pico Rivera, CA | On Site | Apr 07 |
 | ↳ | **[Summer Pharmacy Intern-scholarships available](https://jobright.ai/jobs/info/69d522aae63cea7a8b65edbf?utm_campaign=1058&utm_source=git)** | Goldsboro, NC | On Site | Apr 07 |
-| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69d522aae63cea7a8b65edc0?utm_campaign=1058&utm_source=git)** | Pico Rivera, CA | On Site | Apr 07 |
-| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69d522a2e63cea7a8b65edb3?utm_campaign=1058&utm_source=git)** | Gastonia, NC | On Site | Apr 07 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69d52296cdb525785fbce7ac?utm_campaign=1058&utm_source=git)** | Hickory, NC | On Site | Apr 07 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69d52296cdb525785fbce7b3?utm_campaign=1058&utm_source=git)** | Thousand Oaks, CA | On Site | Apr 07 |
-| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69d5228ccdb525785fbce798?utm_campaign=1058&utm_source=git)** | Port St Lucie, FL | On Site | Apr 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
