@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Gensler](http://www.gensler.com)** | **[Student Internship - IT - Summer 2026](https://jobright.ai/jobs/info/69d5e697cfdc6132f946706a?utm_campaign=1058&utm_source=git)** | Washington, DC, US | On Site | Apr 07 |
 | **[CHRISTUS Health](http://www.christushealth.org)** | **[Nurse Extern II - Nursing Internship](https://jobright.ai/jobs/info/69d5d9244a12eb12c5e13eaa?utm_campaign=1058&utm_source=git)** | Santa Fe, NM | On Site | Apr 07 |
 | ↳ | **[Nurse Extern II - Nursing Internship - PRN](https://jobright.ai/jobs/info/69d5d888e63cea7a8b6657fd?utm_campaign=1058&utm_source=git)** | Santa Fe, NM | On Site | Apr 07 |
 | **[Iron Mountain](http://www.ironmountain.com)** | **[Summer 2026 INTERN (HYBRID) Process Documentation and Support Specialist](https://jobright.ai/jobs/info/69d5d287891d7b11cfd05cd3?utm_campaign=1058&utm_source=git)** | Chicago, IL | Hybrid | Apr 07 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Technical Service Intern](https://jobright.ai/jobs/info/69d53e19cfdc6132f9460b11?utm_campaign=1058&utm_source=git)** | US-NY-Bay Shore | On Site | Apr 07 |
 | **[SpectrumVoIP](https://www.spectrumvoip.com/)** | **[Summer Intern - Service Desk Analyst 1](https://jobright.ai/jobs/info/69d53a34706f771673ba16aa?utm_campaign=1058&utm_source=git)** | Plano, TX | On Site | Apr 07 |
 | **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69d53919366bb95ba5543577?utm_campaign=1058&utm_source=git)** | Orlando, FL | On Site | Apr 07 |
-| **[FIRST](https://firstagency.com/)** | **[Event Technology Intern](https://jobright.ai/jobs/info/69d53207891d7b11cfcfff66?utm_campaign=1058&utm_source=git)** | GS - Jersey City | On Site | Apr 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
