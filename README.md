@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BillionToOne](https://www.billiontoone.com)** | **[Accessioner (Summer Intern)](https://jobright.ai/jobs/info/69cc7fcf891d7b11cfcad32f?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | Apr 08 |
+| **[Republic Airways](http://www.rjet.com)** | **[Information Technology Intern - Summer 2026](https://jobright.ai/jobs/info/69d65c32706f771673baa552?utm_campaign=1058&utm_source=git)** | Mesa HQ | Hybrid | Apr 08 |
+| **[PROCON](http://proconinc.com)** | **[IT Intern](https://jobright.ai/jobs/info/69d65822cfdc6132f9469866?utm_campaign=1058&utm_source=git)** | Hooksett, NH | On Site | Apr 08 |
 | **[Mouser Electronics](http://mouser.com)** | **[Customer Experience Intern](https://jobright.ai/jobs/info/69ba7b873b74eb1e2c885792?utm_campaign=1058&utm_source=git)** | Mansfield, TX | On Site | Apr 08 |
 | **[NRI North America](http://www.nri-na.com)** | **[Internship IT Department](https://jobright.ai/jobs/info/699d1835ce78e77b4fe1ea5f?utm_campaign=1058&utm_source=git)** | Cooperstown, NY | On Site | Apr 08 |
 | **[Aimbridge Hospitality](http://www.aimbridgehospitality.com/)** | **[Sheraton Grand Nashville - Hospitality Management Intern](https://jobright.ai/jobs/info/69bb8d093b74eb1e2c8a0dcd?utm_campaign=1058&utm_source=git)** | Nashville, TN | On Site | Apr 08 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Select Medical](http://www.selectmedical.com)** | **[Pharmacy Intern - PRN](https://jobright.ai/jobs/info/69d54e86366bb95ba5543f69?utm_campaign=1058&utm_source=git)** | Memphis, TN | On Site | Apr 07 |
 | **[Delek US](http://www.delekus.com/about-us)** | **[IT Intern](https://jobright.ai/jobs/info/69b86d523b74eb1e2c863a95?utm_campaign=1058&utm_source=git)** | Tyler, TX | On Site | Apr 07 |
 | **[Republic Services](http://www.republicservices.com)** | **[Commercial Helper (Intern)](https://jobright.ai/jobs/info/69d54e52366bb95ba5543f33?utm_campaign=1058&utm_source=git)** | Atlanta, GA | On Site | Apr 07 |
-| **[Precision Castparts](http://precast.com)** | **[Co-op - Information Technology](https://jobright.ai/jobs/info/69d54baae63cea7a8b660185?utm_campaign=1058&utm_source=git)** | New Hartford, NY | On Site | Apr 07 |
-| **[SWBC](https://www.swbc.com)** | **[IT Intern (Service Delivery)](https://jobright.ai/jobs/info/69811706abff4c399a9fe56f?utm_campaign=1058&utm_source=git)** | San Antonio, TX | On Site | Apr 07 |
-| **[Texas Health Resources](https://www.texashealth.org/)** | **[Nurse Extern/Nursing Intern Extern (PRN/Days)](https://jobright.ai/jobs/info/69d54a0be63cea7a8b6600e3?utm_campaign=1058&utm_source=git)** | Plano, TX | On Site | Apr 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
