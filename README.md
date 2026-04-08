@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Waubonsee Community College](http://waubonsee.edu)** | **[IT Specialist - Extension Campuses PT](https://jobright.ai/jobs/info/69d6833e48f0c8161d2f8343?utm_campaign=1058&utm_source=git)** | Aurora, IL | On Site | Apr 08 |
+| **[DXC Technology](https://www.dxc.com)** | **[Non-technical Intern](https://jobright.ai/jobs/info/69d6810752a5bf58001290d2?utm_campaign=1058&utm_source=git)** | Norris City, IL | On Site | Apr 08 |
+| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE - CRNA Internship](https://jobright.ai/jobs/info/69d67d81cfdc6132f946a29e?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Apr 08 |
+| **[Telesat](https://www.telesat.com)** | **[Summer Student](https://jobright.ai/jobs/info/69d67d7b52a5bf5800128fe3?utm_campaign=1058&utm_source=git)** | Hanover, ON | On Site | Apr 08 |
+| **[DXC Technology](https://www.dxc.com)** | **[Non-technical Intern](https://jobright.ai/jobs/info/69d67846cfdc6132f946a188?utm_campaign=1058&utm_source=git)** | USA - IL - ANY CITY | On Site | Apr 08 |
+| **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[Advanced Radiology Intern](https://jobright.ai/jobs/info/69d6783b48f0c8161d2f7f9e?utm_campaign=1058&utm_source=git)** | Mercy Hospital Carthage | On Site | Apr 08 |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[IS Services & Support Intern (Seattle)](https://jobright.ai/jobs/info/69bb8d5d3b74eb1e2c8a0ff0?utm_campaign=1058&utm_source=git)** | Seattle, WA | On Site | Apr 08 |
 | **[eClerx](https://eclerx.com/)** | **[Analyst Intern](https://jobright.ai/jobs/info/69d04a60cdb525785fba95cc?utm_campaign=1058&utm_source=git)** | Fayetteville, NC | On Site | Apr 08 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Student Nurse Intern](https://jobright.ai/jobs/info/699e647fe0bddb6acacde871?utm_campaign=1058&utm_source=git)** | Evansville, IN | On Site | Apr 08 |
 | ↳ | **[Radiology Student Intern](https://jobright.ai/jobs/info/699e44e9ce78e77b4fe360f9?utm_campaign=1058&utm_source=git)** | Brookfield, WI | On Site | Apr 08 |
@@ -74,6 +81,7 @@ For a complete list, click the following sortable link below:
 | **[BillionToOne](https://www.billiontoone.com)** | **[Accessioner (Summer Intern)](https://jobright.ai/jobs/info/69cc7fcf891d7b11cfcad32f?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | Apr 08 |
 | **[Republic Airways](http://www.rjet.com)** | **[Information Technology Intern - Summer 2026](https://jobright.ai/jobs/info/69d65c32706f771673baa552?utm_campaign=1058&utm_source=git)** | Mesa HQ | Hybrid | Apr 08 |
 | **[PROCON](http://proconinc.com)** | **[IT Intern](https://jobright.ai/jobs/info/69d65822cfdc6132f9469866?utm_campaign=1058&utm_source=git)** | Hooksett, NH | On Site | Apr 08 |
+| **[RONA](http://www.rona.ca/en)** | **[Motorized order attendant (night) student](https://jobright.ai/jobs/info/69ba808856973837413ff1a4?utm_campaign=1058&utm_source=git)** | Boucherville, QC | On Site | Apr 08 |
 | **[Mouser Electronics](http://mouser.com)** | **[Customer Experience Intern](https://jobright.ai/jobs/info/69ba7b873b74eb1e2c885792?utm_campaign=1058&utm_source=git)** | Mansfield, TX | On Site | Apr 08 |
 | **[NRI North America](http://www.nri-na.com)** | **[Internship IT Department](https://jobright.ai/jobs/info/699d1835ce78e77b4fe1ea5f?utm_campaign=1058&utm_source=git)** | Cooperstown, NY | On Site | Apr 08 |
 | **[Kaiser Permanente Northwest](http://www.kp.org)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69d66e57e63cea7a8b668d70?utm_campaign=1058&utm_source=git)** | Clackamas, OR | On Site | Apr 08 |
@@ -110,6 +118,7 @@ For a complete list, click the following sortable link below:
 | **[Yardi](https://www.yardi.com)** | **[Intern, Associate Technical Account Manager](https://jobright.ai/jobs/info/69d5a3d6cdb525785fbd2492?utm_campaign=1058&utm_source=git)** | Santa Ana, CA | Hybrid | Apr 07 |
 | **[New Orleans Pelicans](http://www.Pelicans.com)** | **[Customer Service Associate](https://jobright.ai/jobs/info/69d59e34cfdc6132f9463907?utm_campaign=1058&utm_source=git)** | Metairie, LA | On Site | Apr 07 |
 | **[KPH HEALTHCARE SERVICES, INC](https://www.kphhealthcareservices.com/en/)** | **[Pharmacy Intern P4](https://jobright.ai/jobs/info/69d59c0be63cea7a8b6628a6?utm_campaign=1058&utm_source=git)** | Baldwinsville, NY | On Site | Apr 07 |
+| **[Vytalize Health](https://vytalizehealth.com)** | **[Enterprise Applications Intern](https://jobright.ai/jobs/info/69d6853b366bb95ba554d0f0?utm_campaign=1058&utm_source=git)** | United States | Remote | Apr 07 |
 | **[Trimble Inc.](https://www.trimble.com/)** | **[IS Help Desk Intern](https://jobright.ai/jobs/info/69d594b1366bb95ba5546287?utm_campaign=1058&utm_source=git)** | US - CO, Westminster | On Site | Apr 07 |
 | **[MUSC Health](https://muschealth.org/locations/university-medical-center)** | **[Workday Internship - Charleston Based Only](https://jobright.ai/jobs/info/69d594b1891d7b11cfd03067?utm_campaign=1058&utm_source=git)** | Charleston | On Site | Apr 07 |
 | **[Woodgrain](http://www.woodgrain.com/)** | **[Warehouse Worker Intern- Lawrenceville, GA](https://jobright.ai/jobs/info/69d59172e63cea7a8b6624de?utm_campaign=1058&utm_source=git)** | Lawrenceville, GA | On Site | Apr 07 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[UPMC](https://www.upmc.com/)** | **[Pharmacy Intern, Falk Pharmacy](https://jobright.ai/jobs/info/69d56b68366bb95ba5544f07?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | On Site | Apr 07 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Intern, Operations Customer Center (OCC) CORE Technology (Summer 2026)](https://jobright.ai/jobs/info/69d5c316cdb525785fbd3e5c?utm_campaign=1058&utm_source=git)** | Atlanta, GA | On Site | Apr 07 |
 | **[Shaw Industries](https://shawinc.com)** | **[Philadelphia Commercial Intern – EDS Website Migration Support](https://jobright.ai/jobs/info/69d5696b366bb95ba5544d99?utm_campaign=1058&utm_source=git)** | Shaw Plant 72, 900 VD Parrot Parkway, Dalton, GA 30721 USA | On Site | Apr 07 |
-| **[Clearway Energy Group](https://www.clearwayenergygroup.com)** | **[Intern, Customer Operations](https://jobright.ai/jobs/info/69d568f7cfdc6132f94620c3?utm_campaign=1058&utm_source=git)** | San Diego, California, United States | Hybrid | Apr 07 |
-| **[Ascension](https://healthcare.ascension.org)** | **[Student Nurse Intern ICU](https://jobright.ai/jobs/info/69d5644e706f771673ba2c98?utm_campaign=1058&utm_source=git)** | Baltimore, MD | On Site | Apr 07 |
-| **[New York City FC](http://www.nycfc.com/zach-dixon)** | **[Technology Intern](https://jobright.ai/jobs/info/69d5643ecfdc6132f9461e8d?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Apr 07 |
-| **[Iron Mountain](http://www.ironmountain.com)** | **[Summer 2026 INTERN (HYBRID) Process Documentation and Support Specialist](https://jobright.ai/jobs/info/69d58856366bb95ba5545c5d?utm_campaign=1058&utm_source=git)** | US | IL | Remote | Hybrid | Apr 07 |
-| **[Ascension](https://healthcare.ascension.org)** | **[Student Nurse Intern ICU](https://jobright.ai/jobs/info/69d560c5cdb525785fbd06a4?utm_campaign=1058&utm_source=git)** | US-MD-Baltimore | On Site | Apr 07 |
-| ↳ | **[Student Nurse Intern ICU](https://jobright.ai/jobs/info/69d560c4cdb525785fbd069f?utm_campaign=1058&utm_source=git)** | Baltimore, MD, US | On Site | Apr 07 |
-| **[Shaw Industries](https://shawinc.com)** | **[Philadelphia Commercial Intern – EDS Website Migration Support](https://jobright.ai/jobs/info/69d56033891d7b11cfd01567?utm_campaign=1058&utm_source=git)** | Dalton, GA | On Site | Apr 07 |
-| **[CNIB](http://www.cnib.ca/)** | **[Intern, Wellness Guide](https://jobright.ai/jobs/info/69d558cde63cea7a8b6606ff?utm_campaign=1058&utm_source=git)** | Toronto, ON | On Site | Apr 07 |
-| **[Yardi](https://www.yardi.com)** | **[Intern, Associate Technical Account Manager](https://jobright.ai/jobs/info/69d5567a706f771673ba24b0?utm_campaign=1058&utm_source=git)** | Raleigh, NC | On Site | Apr 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
