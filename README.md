@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Milton Academy](https://miltonacademy.in/)** | **[Campus Safety Intern](https://jobright.ai/jobs/info/69d66a1bcfdc6132f9469b7c?utm_campaign=1058&utm_source=git)** | Milton, MA | On Site | Apr 08 |
+| **[Lucid Software](https://lucid.co)** | **[Customer Operations Intern - Summer 2026](https://jobright.ai/jobs/info/69d6669ce63cea7a8b668a79?utm_campaign=1058&utm_source=git)** | Raleigh, NC | Hybrid | Apr 08 |
+| **[Macalester College](http://www.macalester.edu/)** | **[Enterprise Applications Support Analyst](https://jobright.ai/jobs/info/69d6655348f0c8161d2f78d0?utm_campaign=1058&utm_source=git)** | St Paul, MN | Hybrid | Apr 08 |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[IS Services & Support Intern (Portland)](https://jobright.ai/jobs/info/69bb8f4706c1ba00c54e2a70?utm_campaign=1058&utm_source=git)** | Portland, OR | On Site | Apr 08 |
+| **[The Social Hub (B Corp™)](https://www.thesocialhub.co/)** | **[Community Support Intern](https://jobright.ai/jobs/info/69d66275e63cea7a8b6689a8?utm_campaign=1058&utm_source=git)** | NL-Hub | On Site | Apr 08 |
+| **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Manager Service Delivery "Infrastructure Operations Service Desk Lead" (Gold River, CA)](https://jobright.ai/jobs/info/697904b052f3c27ec6454e30?utm_campaign=1058&utm_source=git)** | Rancho Cordova, CA | Hybrid | Apr 08 |
 | **[BillionToOne](https://www.billiontoone.com)** | **[Accessioner (Summer Intern)](https://jobright.ai/jobs/info/69cc7fcf891d7b11cfcad32f?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | Apr 08 |
 | **[Republic Airways](http://www.rjet.com)** | **[Information Technology Intern - Summer 2026](https://jobright.ai/jobs/info/69d65c32706f771673baa552?utm_campaign=1058&utm_source=git)** | Mesa HQ | Hybrid | Apr 08 |
 | **[PROCON](http://proconinc.com)** | **[IT Intern](https://jobright.ai/jobs/info/69d65822cfdc6132f9469866?utm_campaign=1058&utm_source=git)** | Hooksett, NH | On Site | Apr 08 |
@@ -84,6 +90,7 @@ For a complete list, click the following sortable link below:
 | **[ETA hand2mind](http://www.hand2mind.com/)** | **[Customer Experience and Sales Operations Intern](https://jobright.ai/jobs/info/69d5cb78cdb525785fbd473d?utm_campaign=1058&utm_source=git)** | Learning Resources, Vernon Hills, IL, US | On Site | Apr 07 |
 | **[BWBR](https://www.bwbr.com/)** | **[Technology Intern](https://jobright.ai/jobs/info/69d5cb6ecdb525785fbd4705?utm_campaign=1058&utm_source=git)** | St. Paul, MN, US | On Site | Apr 07 |
 | **[RSA Inc.](https://www.rsa-inc.com)** | **[Data Entry Specialist (Intern)](https://jobright.ai/jobs/info/69d5cacecfdc6132f9465e1a?utm_campaign=1058&utm_source=git)** | Winston-Salem, NC, US | On Site | Apr 07 |
+| **[Humanitas Amsterdam en Diemen](https://www.humanitas.nl/afdeling/amsterdam_en_diemen/)** | **[Vrijwilliger Internationaal Vrouwen Contact (IVC)](https://jobright.ai/jobs/info/69d64fcd366bb95ba554c197?utm_campaign=1058&utm_source=git)** | Indiana, United States | On Site | Apr 07 |
 | **[The Valley Health System](https://www.valleyhealthsystemlv.com)** | **[CLINICAL SYSTEMS ANALYST (RN)](https://jobright.ai/jobs/info/69616a9df3f4cd13250660ff?utm_campaign=1058&utm_source=git)** | Las Vegas, NV | On Site | Apr 07 |
 | **[Auburn University](https://www.auburn.edu/)** | **[Student IT Support](https://jobright.ai/jobs/info/69ced7e754f00230c6d03c81?utm_campaign=1058&utm_source=git)** | Auburn, AL | On Site | Apr 07 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Nurse Intern Trauma Surgical ICU](https://jobright.ai/jobs/info/69d5ba8c366bb95ba5546f6d?utm_campaign=1058&utm_source=git)** | Wichita, KS | On Site | Apr 07 |
@@ -104,7 +111,6 @@ For a complete list, click the following sortable link below:
 | **[Hayward Holdings, Inc.](http://www.hayward.com)** | **[Tech Services Coordinator Intern](https://jobright.ai/jobs/info/69d58dd8e63cea7a8b6623fc?utm_campaign=1058&utm_source=git)** | Oakville, ON | On Site | Apr 07 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Nurse Intern Trauma Surgical ICU](https://jobright.ai/jobs/info/69d58c02e63cea7a8b662300?utm_campaign=1058&utm_source=git)** | US-KS-Wichita | On Site | Apr 07 |
 | **[Asure Software](http://www.asuresoftware.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/69d58bff891d7b11cfd02d84?utm_campaign=1058&utm_source=git)** | Austin, Texas, United States | Remote | Apr 07 |
-| **[Ascension](https://healthcare.ascension.org)** | **[Nurse Intern Trauma Surgical ICU](https://jobright.ai/jobs/info/69d58bfacfdc6132f946329b?utm_campaign=1058&utm_source=git)** | Wichita, KS, US | On Site | Apr 07 |
 | **[Minntronix, Inc. A Standex Company](https://www.minntronix.com/)** | **[Information Technology Intern](https://jobright.ai/jobs/info/69d58bdfcdb525785fbd1c0b?utm_campaign=1058&utm_source=git)** | Belleville, WI 53508, USA | On Site | Apr 07 |
 | **[Lakewood Cemetery](https://www.lakewoodcemetery.org/)** | **[Variable IT Intern - Technical Support](https://jobright.ai/jobs/info/69d58bb7891d7b11cfd02c6d?utm_campaign=1058&utm_source=git)** | Lakewood, CO | On Site | Apr 07 |
 | **[Flik Hospitality Group](https://www.flik-usa.com/)** | **[Hospitality Intern, FLIK / Nebraska Athletics / Lincoln, NE](https://jobright.ai/jobs/info/69d58534706f771673ba3ce8?utm_campaign=1058&utm_source=git)** | Lincoln, NE | On Site | Apr 07 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Charles Schwab](https://www.schwab.com/)** | **[Client Services Part-Time Internship](https://jobright.ai/jobs/info/69d55392cdb525785fbcfecf?utm_campaign=1058&utm_source=git)** | Austin, TX, US | On Site | Apr 07 |
 | ↳ | **[Client Services Part-Time Internship](https://jobright.ai/jobs/info/69d5538e891d7b11cfd0104f?utm_campaign=1058&utm_source=git)** | US-TX-Austin | On Site | Apr 07 |
 | **[National Association of Home Builders](https://www.nahb.org)** | **[Information Technology Intern](https://jobright.ai/jobs/info/69d55350cdb525785fbcfe16?utm_campaign=1058&utm_source=git)** | Washington, DC, US | On Site | Apr 07 |
-| **[Impact Advisors](https://www.impact-advisors.com)** | **[IT Advisory Intern](https://jobright.ai/jobs/info/69d55349e63cea7a8b660469?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Apr 07 |
-| **[MANITOU Group](http://www.manitou-group.com)** | **[Transporation and Logistic Intern](https://jobright.ai/jobs/info/69ba90913b74eb1e2c888d0e?utm_campaign=1058&utm_source=git)** | West Bend, WI | On Site | Apr 07 |
-| **[Yardi](https://www.yardi.com)** | **[Intern, Associate Technical Account Manager](https://jobright.ai/jobs/info/69d60df0cfdc6132f9468545?utm_campaign=1058&utm_source=git)** | Atlanta, GA | Hybrid | Apr 07 |
-| **[Select Medical](http://www.selectmedical.com)** | **[Pharmacy Intern - PRN](https://jobright.ai/jobs/info/69d54e86366bb95ba5543f69?utm_campaign=1058&utm_source=git)** | Memphis, TN | On Site | Apr 07 |
-| **[Delek US](http://www.delekus.com/about-us)** | **[IT Intern](https://jobright.ai/jobs/info/69b86d523b74eb1e2c863a95?utm_campaign=1058&utm_source=git)** | Tyler, TX | On Site | Apr 07 |
-| **[Republic Services](http://www.republicservices.com)** | **[Commercial Helper (Intern)](https://jobright.ai/jobs/info/69d54e52366bb95ba5543f33?utm_campaign=1058&utm_source=git)** | Atlanta, GA | On Site | Apr 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
