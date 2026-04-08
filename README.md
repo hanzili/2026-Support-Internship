@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Queensborough National Bank and Trust Co.](https://www.qnbtrust.bank/)** | **[Universal Banker Internship](https://jobright.ai/jobs/info/69d603fde63cea7a8b6673fd?utm_campaign=1058&utm_source=git)** | Savannah, GA | On Site | Apr 08 |
+| **[Mitch Insurance Brokers](https://mitchinsurance.com)** | **[Receptionist - Summer Student](https://jobright.ai/jobs/info/69d5fc6c891d7b11cfd075fd?utm_campaign=1058&utm_source=git)** | Whitby, ON | On Site | Apr 07 |
+| **[Xometry](https://www.xometry.com)** | **[IT Service Desk Intern](https://jobright.ai/jobs/info/69acaada2747003c3d524801?utm_campaign=1058&utm_source=git)** | North Bethesda, MD | Hybrid | Apr 07 |
+| **[Intermountain Health](https://intermountainhealthcare.org)** | **[Inpatient Pharmacy Intern](https://jobright.ai/jobs/info/69d5f2a9891d7b11cfd06d7b?utm_campaign=1058&utm_source=git)** | Good Samaritan Hospital | On Site | Apr 07 |
 | **[Gensler](http://www.gensler.com)** | **[Student Internship - IT - Summer 2026](https://jobright.ai/jobs/info/69d5e697cfdc6132f946706a?utm_campaign=1058&utm_source=git)** | Washington, DC, US | On Site | Apr 07 |
 | **[CHRISTUS Health](http://www.christushealth.org)** | **[Nurse Extern II - Nursing Internship](https://jobright.ai/jobs/info/69d5d9244a12eb12c5e13eaa?utm_campaign=1058&utm_source=git)** | Santa Fe, NM | On Site | Apr 07 |
 | ↳ | **[Nurse Extern II - Nursing Internship - PRN](https://jobright.ai/jobs/info/69d5d888e63cea7a8b6657fd?utm_campaign=1058&utm_source=git)** | Santa Fe, NM | On Site | Apr 07 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Alaka`ina Foundation Family of Companies](https://www.alakainafoundation.com/)** | **[Intern (Part-Time)](https://jobright.ai/jobs/info/699ce6d3ce78e77b4fe19dc7?utm_campaign=1058&utm_source=git)** | Kauai County, HI | On Site | Apr 07 |
 | **[Trinity Health](http://www.trinity-health.org)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69ba7e7d06c1ba00c54c7ab7?utm_campaign=1058&utm_source=git)** | Mishawaka, IN | On Site | Apr 07 |
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Access Your Future Service Intern](https://jobright.ai/jobs/info/68ba32e76105227d1189b8f4?utm_campaign=1058&utm_source=git)** | Fort Worth, TX | On Site | Apr 07 |
-| **[Lennox](http://www.lennox.com)** | **[Technical Service Intern](https://jobright.ai/jobs/info/69d53e31891d7b11cfd0060d?utm_campaign=1058&utm_source=git)** | Bay Shore, NY, US | On Site | Apr 07 |
-| ↳ | **[Technical Service Intern](https://jobright.ai/jobs/info/69d53e19cfdc6132f9460b11?utm_campaign=1058&utm_source=git)** | US-NY-Bay Shore | On Site | Apr 07 |
-| **[SpectrumVoIP](https://www.spectrumvoip.com/)** | **[Summer Intern - Service Desk Analyst 1](https://jobright.ai/jobs/info/69d53a34706f771673ba16aa?utm_campaign=1058&utm_source=git)** | Plano, TX | On Site | Apr 07 |
-| **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69d53919366bb95ba5543577?utm_campaign=1058&utm_source=git)** | Orlando, FL | On Site | Apr 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
