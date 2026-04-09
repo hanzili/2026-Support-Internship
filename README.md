@@ -57,12 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Option Care Health](https://optioncarehealth.com)** | **[Intern, Pharmacy - Per Diem](https://jobright.ai/jobs/info/6977e8e788e2b47213bbe7ed?utm_campaign=1058&utm_source=git)** | Charlotte, NC | On Site | Apr 09 |
 | **[Elevance Health](https://www.elevancehealth.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69d78b5b950d1a0760b7fe08?utm_campaign=1058&utm_source=git)** | Mason, OH | Hybrid | Apr 09 |
 | **[Sprinklr](http://www.sprinklr.com)** | **[Professional Services Intern](https://jobright.ai/jobs/info/699e3ceae0bddb6acacd99b6?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | Apr 09 |
 | **[Quantum Health](http://quantum-health.com)** | **[Patient Service Representative (Bilingual - Spanish)](https://jobright.ai/jobs/info/695d26f5f5f3c43f38e1ec3c?utm_campaign=1058&utm_source=git)** | Dublin, OH | Hybrid | Apr 09 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[IT Intern Summer 2026](https://jobright.ai/jobs/info/694a408831c12007d3b902d9?utm_campaign=1058&utm_source=git)** | Ogden, UT | On Site | Apr 09 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[Associate Customer Service Representative](https://jobright.ai/jobs/info/69d783c8366bb95ba5555f6e?utm_campaign=1058&utm_source=git)** | Phoenix, AZ | On Site | Apr 09 |
-| **[One Acre Fund](http://www.oneacrefund.org/)** | **[Data Analyst and Salesforce Administrator](https://jobright.ai/jobs/info/69d78e0048f0c8161d3015a8?utm_campaign=1058&utm_source=git)** | New York, United States | On Site | Apr 09 |
 | **[Hannaford Supermarkets](https://www.hannaford.com/)** | **[P4 Rx Intern ($26/ hr)](https://jobright.ai/jobs/info/69d76e21950d1a0760b7ebab?utm_campaign=1058&utm_source=git)** | Concord, NH | On Site | Apr 09 |
 | ↳ | **[P4 Rx Intern ($26/ hr)](https://jobright.ai/jobs/info/69d76e02366bb95ba555508e?utm_campaign=1058&utm_source=git)** | Keene, NH | On Site | Apr 09 |
 | **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE - CRNA Internship](https://jobright.ai/jobs/info/69d762c648f0c8161d30029a?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Apr 09 |
@@ -113,8 +113,8 @@ For a complete list, click the following sortable link below:
 | **[Charles Schwab](https://www.schwab.com/)** | **[Client Services Part-Time Internship](https://jobright.ai/jobs/info/69d6cc24366bb95ba554ff1d?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | Apr 08 |
 | **[Harmony United Psychiatric Care](https://hupcfl.com)** | **[Psychiatric Office Assistant Internship/Outpatient Clinic (Certification Program)/The Villages](https://jobright.ai/jobs/info/69d6c76052a5bf580012c0a5?utm_campaign=1058&utm_source=git)** | Lady Lake, FL | On Site | Apr 08 |
 | **[Elevance Health](https://www.elevancehealth.com)** | **[Pharmacy Intern (Part-Time)](https://jobright.ai/jobs/info/69d6c53c706f771673bade7e?utm_campaign=1058&utm_source=git)** | Mason, OH | Hybrid | Apr 08 |
-| **[Ascension](https://healthcare.ascension.org)** | **[Imaging Intern](https://jobright.ai/jobs/info/69d6c52e706f771673bade4d?utm_campaign=1058&utm_source=git)** | US-WI-Mequon | On Site | Apr 08 |
-| ↳ | **[Imaging Intern](https://jobright.ai/jobs/info/69d6c52ee63cea7a8b66c1fc?utm_campaign=1058&utm_source=git)** | Mequon, WI, US | On Site | Apr 08 |
+| **[Ascension](https://healthcare.ascension.org)** | **[Imaging Intern](https://jobright.ai/jobs/info/69d6c52ee63cea7a8b66c1fc?utm_campaign=1058&utm_source=git)** | Mequon, WI, US | On Site | Apr 08 |
+| ↳ | **[Imaging Intern](https://jobright.ai/jobs/info/69d6c52e706f771673bade4d?utm_campaign=1058&utm_source=git)** | US-WI-Mequon | On Site | Apr 08 |
 | **[MSI Mold Builders](https://www.msimoldbuilders.com)** | **[Internship](https://jobright.ai/jobs/info/69d6c51dcfdc6132f946d221?utm_campaign=1058&utm_source=git)** | Cedar Rapids, IA | On Site | Apr 08 |
 | ↳ | **[Internship](https://jobright.ai/jobs/info/69d6c498366bb95ba554fc92?utm_campaign=1058&utm_source=git)** | Greenville, SC | On Site | Apr 08 |
 | **[Trooh](https://trooh.com/)** | **[IT Intern](https://jobright.ai/jobs/info/69d6c48448f0c8161d2fb02b?utm_campaign=1058&utm_source=git)** | Toronto, ON | On Site | Apr 08 |
