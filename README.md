@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Information Technology, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69d73323706f771673bb0a25?utm_campaign=1058&utm_source=git)** | Staten Island, NY | On Site | Apr 08 |
 | **[PNC](http://www.pnc.com)** | **[Onboarding Specialist, Linga](https://jobright.ai/jobs/info/69d7261b706f771673bb0429?utm_campaign=1058&utm_source=git)** | Florida, United States | Hybrid | Apr 08 |
 | ↳ | **[Onboarding Specialist, Linga](https://jobright.ai/jobs/info/69d72597cfdc6132f946f78a?utm_campaign=1058&utm_source=git)** | Naples, FL | Hybrid | Apr 08 |
 | **[Amica Insurance](http://www.amica.com)** | **[Summer Student Customer Care Representative](https://jobright.ai/jobs/info/69d03502cfdc6132f94398e4?utm_campaign=1058&utm_source=git)** | Connecticut, United States | On Site | Apr 08 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Advocate Aurora Health](https://www.advocateaurorahealth.org/)** | **[Surgical Technologist Internship](https://jobright.ai/jobs/info/69d6934fe63cea7a8b669b4e?utm_campaign=1058&utm_source=git)** | Aurora St Lukes South Shore - 5900 S Lake Dr | On Site | Apr 08 |
 | ↳ | **[Surgical Technologist Internship](https://jobright.ai/jobs/info/69d69345706f771673bab7e0?utm_campaign=1058&utm_source=git)** | Aurora Medical Center West Allis - 8901 W Lincoln Ave | On Site | Apr 08 |
 | ↳ | **[Surgical Technologist Internship](https://jobright.ai/jobs/info/69d69344cfdc6132f946abad?utm_campaign=1058&utm_source=git)** | Aurora Sinai Medical Center - 945 N 12th St | On Site | Apr 08 |
-| ↳ | **[Surgical Technologist Internship](https://jobright.ai/jobs/info/69d69344366bb95ba554d6f5?utm_campaign=1058&utm_source=git)** | Aurora St Lukes Medical Center - 2900 W Oklahoma Ave | On Site | Apr 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
