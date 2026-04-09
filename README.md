@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SMUD](https://www.smud.org/en)** | **[IT Intern - Year Round](https://jobright.ai/jobs/info/69d6f971706f771673baf18d?utm_campaign=1058&utm_source=git)** | Sacramento, CA, US | On Site | Apr 08 |
 | **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[Advanced Radiology Intern](https://jobright.ai/jobs/info/69d6f244706f771673baee84?utm_campaign=1058&utm_source=git)** | Carthage, MO | On Site | Apr 08 |
 | ↳ | **[Advanced Radiology Intern (Non-Exempt)](https://jobright.ai/jobs/info/69d6f1f548f0c8161d2fc04a?utm_campaign=1058&utm_source=git)** | Joplin, MO | On Site | Apr 08 |
 | **[Connor, Clark & Lunn Financial Group (CC&L)](http://www.cclgroup.com)** | **[Intern, Institutional Client Reporting](https://jobright.ai/jobs/info/69d6f13b706f771673baee76?utm_campaign=1058&utm_source=git)** | Vancouver, BC | On Site | Apr 08 |
@@ -79,8 +80,8 @@ For a complete list, click the following sortable link below:
 | **[Charles Schwab](https://www.schwab.com/)** | **[Client Services Part-Time Internship](https://jobright.ai/jobs/info/69d6cc24366bb95ba554ff1d?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | Apr 08 |
 | **[Harmony United Psychiatric Care](https://hupcfl.com)** | **[Psychiatric Office Assistant Internship/Outpatient Clinic (Certification Program)/The Villages](https://jobright.ai/jobs/info/69d6c76052a5bf580012c0a5?utm_campaign=1058&utm_source=git)** | Lady Lake, FL | On Site | Apr 08 |
 | **[Elevance Health](https://www.elevancehealth.com)** | **[Pharmacy Intern (Part-Time)](https://jobright.ai/jobs/info/69d6c53c706f771673bade7e?utm_campaign=1058&utm_source=git)** | Mason, OH | Hybrid | Apr 08 |
-| **[Ascension](https://healthcare.ascension.org)** | **[Imaging Intern](https://jobright.ai/jobs/info/69d6c52ee63cea7a8b66c1fc?utm_campaign=1058&utm_source=git)** | Mequon, WI, US | On Site | Apr 08 |
-| ↳ | **[Imaging Intern](https://jobright.ai/jobs/info/69d6c52e706f771673bade4d?utm_campaign=1058&utm_source=git)** | US-WI-Mequon | On Site | Apr 08 |
+| **[Ascension](https://healthcare.ascension.org)** | **[Imaging Intern](https://jobright.ai/jobs/info/69d6c52e706f771673bade4d?utm_campaign=1058&utm_source=git)** | US-WI-Mequon | On Site | Apr 08 |
+| ↳ | **[Imaging Intern](https://jobright.ai/jobs/info/69d6c52ee63cea7a8b66c1fc?utm_campaign=1058&utm_source=git)** | Mequon, WI, US | On Site | Apr 08 |
 | **[MSI Mold Builders](https://www.msimoldbuilders.com)** | **[Internship](https://jobright.ai/jobs/info/69d6c51dcfdc6132f946d221?utm_campaign=1058&utm_source=git)** | Cedar Rapids, IA | On Site | Apr 08 |
 | ↳ | **[Internship](https://jobright.ai/jobs/info/69d6c498366bb95ba554fc92?utm_campaign=1058&utm_source=git)** | Greenville, SC | On Site | Apr 08 |
 | **[Trooh](https://trooh.com/)** | **[IT Intern](https://jobright.ai/jobs/info/69d6c48448f0c8161d2fb02b?utm_campaign=1058&utm_source=git)** | Toronto, ON | On Site | Apr 08 |
@@ -89,8 +90,8 @@ For a complete list, click the following sortable link below:
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69d6c0b6e63cea7a8b66bff6?utm_campaign=1058&utm_source=git)** | Lima, OH | On Site | Apr 08 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69d6c0ade63cea7a8b66bfca?utm_campaign=1058&utm_source=git)** | Elyria, OH | On Site | Apr 08 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69d6c090cfdc6132f946d010?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Apr 08 |
-| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69d6c07d706f771673badc62?utm_campaign=1058&utm_source=git)** | Toledo, OH | On Site | Apr 08 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69d6c07d706f771673badc5e?utm_campaign=1058&utm_source=git)** | Cary, NC | On Site | Apr 08 |
+| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69d6c07d706f771673badc62?utm_campaign=1058&utm_source=git)** | Toledo, OH | On Site | Apr 08 |
 | **[Republic Airways](http://www.rjet.com)** | **[Information Technology Intern - Summer 2026](https://jobright.ai/jobs/info/69d6c04648f0c8161d2fae65?utm_campaign=1058&utm_source=git)** | Phoenix, AZ | Hybrid | Apr 08 |
 | **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/69d6c03848f0c8161d2fae24?utm_campaign=1058&utm_source=git)** | Los Angeles, CA | On Site | Apr 08 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69d6c033366bb95ba554fa76?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Apr 08 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[eClerx](https://eclerx.com/)** | **[Analyst Intern](https://jobright.ai/jobs/info/69d04a60cdb525785fba95cc?utm_campaign=1058&utm_source=git)** | Fayetteville, NC | On Site | Apr 08 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Student Nurse Intern](https://jobright.ai/jobs/info/699e647fe0bddb6acacde871?utm_campaign=1058&utm_source=git)** | Evansville, IN | On Site | Apr 08 |
 | ↳ | **[Radiology Student Intern](https://jobright.ai/jobs/info/699e44e9ce78e77b4fe360f9?utm_campaign=1058&utm_source=git)** | Brookfield, WI | On Site | Apr 08 |
-| ↳ | **[Nurse Intern Oncology](https://jobright.ai/jobs/info/69ba93a33b74eb1e2c889ba6?utm_campaign=1058&utm_source=git)** | Wichita, KS | On Site | Apr 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
