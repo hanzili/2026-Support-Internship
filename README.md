@@ -57,12 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Aptiv](http://www.aptiv.com)** | **[Demo Support Specialist Intern](https://jobright.ai/jobs/info/69d81d9df4ea471a51fe3e10?utm_campaign=1058&utm_source=git)** | Troy, MI - USA | On Site | Apr 09 |
+| **[AssetWorks Inc](https://www.assetworks.com/)** | **[Professional Services Intern](https://jobright.ai/jobs/info/69d81877b67cec4f9b09a98f?utm_campaign=1058&utm_source=git)** | Greater Philadelphia | Remote | Apr 09 |
+| **[Vertiv](https://www.Vertiv.com)** | **[Field Service Intern - New York, New York](https://jobright.ai/jobs/info/69d817b1b861c42857c48a67?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Apr 09 |
+| **[Harmony United Psychiatric Care](https://hupcfl.com)** | **[Psychiatric Office Assistant Internship/Outpatient Clinic (Certification Program)/Coral Gables](https://jobright.ai/jobs/info/69d8177b738f2f099e89a9b8?utm_campaign=1058&utm_source=git)** | Miami, FL | On Site | Apr 09 |
+| **[Children's Hospital Colorado](https://www.childrenscolorado.org)** | **[Pharmacy Intern North South Float PRN](https://jobright.ai/jobs/info/69d81005738f2f099e89a81e?utm_campaign=1058&utm_source=git)** | Broomfield, CO | On Site | Apr 09 |
+| **[The University of Texas Medical Branch](http://www.utmb.edu/)** | **[Advanced Practice Provider, Internal Medicine-Palliative Care](https://jobright.ai/jobs/info/69d80fb5869c7e25d8593921?utm_campaign=1058&utm_source=git)** | Galveston, TX | On Site | Apr 09 |
+| **[Sidwell Friends School](http://www.sidwell.edu/)** | **[Information Technology  Support Intern](https://jobright.ai/jobs/info/69d80f22738f2f099e89a60c?utm_campaign=1058&utm_source=git)** | Washington, DC | On Site | Apr 09 |
 | **[St. Anthony Regional Hospital](https://www.stanthonyhospital.org)** | **[Summer Healthcare Intern](https://jobright.ai/jobs/info/69d80f0eb67cec4f9b09a628?utm_campaign=1058&utm_source=git)** | Carroll, IA 51401, USA | On Site | Apr 09 |
-| **[Make-A-Wish Metro New York and Western New York](http://metrony.wish.org)** | **[Wish Assist Intern](https://jobright.ai/jobs/info/69d80f06b67cec4f9b09a5f9?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Apr 09 |
 | **[Citizens State Bank (CSB)](https://www.csbtx.bank/)** | **[Summer Intern - Teller](https://jobright.ai/jobs/info/69d80ef59f97a42dc9c1a20d?utm_campaign=1058&utm_source=git)** | CSB Caldwell - Caldwell, TX 77836 | On Site | Apr 09 |
 | **[Kershaw](https://kershawequipment.com)** | **[Customer Service Representative I (Intern)](https://jobright.ai/jobs/info/69d80e9f9f97a42dc9c1a146?utm_campaign=1058&utm_source=git)** | Montgomery, Alabama, United States | On Site | Apr 09 |
 | **[Emerson](http://www.emerson.com)** | **[Customer Experience Intern - Summer 2026](https://jobright.ai/jobs/info/69d80e9b869c7e25d8593707?utm_campaign=1058&utm_source=git)** | 11500 North Mopac Expressway, Austin, TX, 78759, US | On Site | Apr 09 |
-| **[The University of Texas Medical Branch](http://www.utmb.edu/)** | **[Advanced Practice Provider, Internal Medicine-Palliative Care](https://jobright.ai/jobs/info/69d80c789f97a42dc9c19fc3?utm_campaign=1058&utm_source=git)** | Galveston, TX | On Site | Apr 09 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Nurse Intern Emergency Department](https://jobright.ai/jobs/info/69d80c31869c7e25d859358a?utm_campaign=1058&utm_source=git)** | Wichita, KS | On Site | Apr 09 |
 | ↳ | **[Respiratory Therapy Intern](https://jobright.ai/jobs/info/69d80bfe9f97a42dc9c19f24?utm_campaign=1058&utm_source=git)** | Elk Grove Village, IL | On Site | Apr 09 |
 | **[CareDx, Inc.](https://www.caredx.com/)** | **[IT Operations Support Summer Intern 2026](https://jobright.ai/jobs/info/69b453b45697383741390a8d?utm_campaign=1058&utm_source=git)** | Brisbane, CA | On Site | Apr 09 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69d7b964f4ea471a51fe02fd?utm_campaign=1058&utm_source=git)** | Abilene, TX | On Site | Apr 09 |
 | **[UICGS / Bowhead Family of Companies](http://www.bowhead.com)** | **[General Clerk III](https://jobright.ai/jobs/info/69d7d7cc869c7e25d8591dd0?utm_campaign=1058&utm_source=git)** | Newark, NJ | On Site | Apr 09 |
 | **[Aptive Environmental](http://goaptive.com/)** | **[Technical Support Analyst, Intern](https://jobright.ai/jobs/info/69bb91f0569738374141aabc?utm_campaign=1058&utm_source=git)** | Provo, UT | On Site | Apr 09 |
-| **[Hyatt](http://www.hyatt.com/)** | **[Summer 2026 - College Intern - Front Desk](https://jobright.ai/jobs/info/69679305f25a38006695e855?utm_campaign=1058&utm_source=git)** | San Antonio, TX | On Site | Apr 09 |
-| **[Liberty Tire Recycling, LLC](http://libertytire.com)** | **[Intern](https://jobright.ai/jobs/info/69d7a9ee869c7e25d858e8e6?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA, US | On Site | Apr 09 |
-| **[Option Care Health](https://optioncarehealth.com)** | **[Intern, Pharmacy - Per Diem](https://jobright.ai/jobs/info/6977e8e788e2b47213bbe7ed?utm_campaign=1058&utm_source=git)** | Charlotte, NC | On Site | Apr 09 |
-| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Intern Pharmacist IP (P) PT12](https://jobright.ai/jobs/info/69d7b460f4ea471a51fdff4c?utm_campaign=1058&utm_source=git)** | San Diego, CA | On Site | Apr 09 |
-| ↳ | **[Intern Pharmacist Clinical PT12 (P)](https://jobright.ai/jobs/info/69d7b485b861c42857c44c99?utm_campaign=1058&utm_source=git)** | San Diego, CA | On Site | Apr 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
