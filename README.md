@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ellipsis Health](http://www.ellipsishealth.com)** | **[Technical Support Engineer–Healthcare AI](https://jobright.ai/jobs/info/69d6d433cfdc6132f946d88b?utm_campaign=1058&utm_source=git)** | San Francisco, CA | Remote | Apr 08 |
+| **[Highgate](https://www.highgate.com)** | **[Intern](https://jobright.ai/jobs/info/69d6d3fae63cea7a8b66c834?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Apr 08 |
 | **[Charles Schwab](https://www.schwab.com/)** | **[Client Services Part-Time Internship](https://jobright.ai/jobs/info/69d6cc24366bb95ba554ff1d?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | Apr 08 |
 | **[Harmony United Psychiatric Care](https://hupcfl.com)** | **[Psychiatric Office Assistant Internship/Outpatient Clinic (Certification Program)/The Villages](https://jobright.ai/jobs/info/69d6c76052a5bf580012c0a5?utm_campaign=1058&utm_source=git)** | Lady Lake, FL | On Site | Apr 08 |
 | **[Elevance Health](https://www.elevancehealth.com)** | **[Pharmacy Intern (Part-Time)](https://jobright.ai/jobs/info/69d6c53c706f771673bade7e?utm_campaign=1058&utm_source=git)** | Mason, OH | Hybrid | Apr 08 |
@@ -70,8 +72,8 @@ For a complete list, click the following sortable link below:
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69d6c0b6e63cea7a8b66bff6?utm_campaign=1058&utm_source=git)** | Lima, OH | On Site | Apr 08 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69d6c0ade63cea7a8b66bfca?utm_campaign=1058&utm_source=git)** | Elyria, OH | On Site | Apr 08 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69d6c090cfdc6132f946d010?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Apr 08 |
-| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69d6c07d706f771673badc5e?utm_campaign=1058&utm_source=git)** | Cary, NC | On Site | Apr 08 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69d6c07d706f771673badc62?utm_campaign=1058&utm_source=git)** | Toledo, OH | On Site | Apr 08 |
+| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69d6c07d706f771673badc5e?utm_campaign=1058&utm_source=git)** | Cary, NC | On Site | Apr 08 |
 | **[Republic Airways](http://www.rjet.com)** | **[Information Technology Intern - Summer 2026](https://jobright.ai/jobs/info/69d6c04648f0c8161d2fae65?utm_campaign=1058&utm_source=git)** | Phoenix, AZ | Hybrid | Apr 08 |
 | **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/69d6c03848f0c8161d2fae24?utm_campaign=1058&utm_source=git)** | Los Angeles, CA | On Site | Apr 08 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69d6c033366bb95ba554fa76?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Apr 08 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[RONA](http://www.rona.ca/en)** | **[Motorized order attendant (night) student](https://jobright.ai/jobs/info/69ba808856973837413ff1a4?utm_campaign=1058&utm_source=git)** | Boucherville, QC | On Site | Apr 08 |
 | **[Mouser Electronics](http://mouser.com)** | **[Customer Experience Intern](https://jobright.ai/jobs/info/69ba7b873b74eb1e2c885792?utm_campaign=1058&utm_source=git)** | Mansfield, TX | On Site | Apr 08 |
 | **[NRI North America](http://www.nri-na.com)** | **[Internship IT Department](https://jobright.ai/jobs/info/699d1835ce78e77b4fe1ea5f?utm_campaign=1058&utm_source=git)** | Cooperstown, NY | On Site | Apr 08 |
-| **[Kaiser Permanente Northwest](http://www.kp.org)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69d66e57e63cea7a8b668d70?utm_campaign=1058&utm_source=git)** | Clackamas, OR | On Site | Apr 08 |
-| **[Aimbridge Hospitality](http://www.aimbridgehospitality.com/)** | **[Sheraton Grand Nashville - Hospitality Management Intern](https://jobright.ai/jobs/info/69bb8d093b74eb1e2c8a0dcd?utm_campaign=1058&utm_source=git)** | Nashville, TN | On Site | Apr 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
