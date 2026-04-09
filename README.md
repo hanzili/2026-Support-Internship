@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hoefer Welker](http://hoeferwysocki.com)** | **[IT Intern](https://jobright.ai/jobs/info/69d71db952a5bf580012df14?utm_campaign=1058&utm_source=git)** | Kansas City, MO | On Site | Apr 08 |
+| **[Defiant](https://www.defiant.com/)** | **[Security Analyst Support Intern](https://jobright.ai/jobs/info/69d71842366bb95ba5551a44?utm_campaign=1058&utm_source=git)** | United States | Remote | Apr 08 |
+| **[Hoefer Welker](http://hoeferwysocki.com)** | **[IT Intern](https://jobright.ai/jobs/info/69d713a248f0c8161d2fcd94?utm_campaign=1058&utm_source=git)** | Kansas City - Kansas City, MO 64112 US (Primary) | On Site | Apr 08 |
 | **[Defiant](https://www.defiant.com/)** | **[Security Analyst Support Intern](https://jobright.ai/jobs/info/69d7123b706f771673bafb35?utm_campaign=1058&utm_source=git)** | United States | Remote | Apr 08 |
 | **[Prisma Health](https://www.prismahealth.org)** | **[Pharmacy Intern, Pharmacy, Blount, PRN, Varied](https://jobright.ai/jobs/info/69d70c9e366bb95ba555153b?utm_campaign=1058&utm_source=git)** | Maryville, TN | On Site | Apr 08 |
 | ↳ | **[Pharmacy Intern: Childrens Hospital (PRN, Richland Campus)](https://jobright.ai/jobs/info/69d70b9b52a5bf580012d697?utm_campaign=1058&utm_source=git)** | Columbia, SC | On Site | Apr 08 |
@@ -147,14 +150,11 @@ For a complete list, click the following sortable link below:
 | **[Adventist Health](https://www.adventisthealth.org/)** | **[Intern (ONSITE, Twin Cities - Templeton, CA)](https://jobright.ai/jobs/info/69d69374e63cea7a8b669be5?utm_campaign=1058&utm_source=git)** | 1100 Las Tablas Road, Templeton, CA, 93465, US | On Site | Apr 08 |
 | **[Advocate Aurora Health](https://www.advocateaurorahealth.org/)** | **[Surgical Technologist Internship](https://jobright.ai/jobs/info/69d6934fe63cea7a8b669b4e?utm_campaign=1058&utm_source=git)** | Aurora St Lukes South Shore - 5900 S Lake Dr | On Site | Apr 08 |
 | ↳ | **[Surgical Technologist Internship](https://jobright.ai/jobs/info/69d69345706f771673bab7e0?utm_campaign=1058&utm_source=git)** | Aurora Medical Center West Allis - 8901 W Lincoln Ave | On Site | Apr 08 |
-| ↳ | **[Surgical Technologist Internship](https://jobright.ai/jobs/info/69d69344cfdc6132f946abad?utm_campaign=1058&utm_source=git)** | Aurora Sinai Medical Center - 945 N 12th St | On Site | Apr 08 |
 | ↳ | **[Surgical Technologist Internship](https://jobright.ai/jobs/info/69d69344366bb95ba554d6f5?utm_campaign=1058&utm_source=git)** | Aurora St Lukes Medical Center - 2900 W Oklahoma Ave | On Site | Apr 08 |
+| ↳ | **[Surgical Technologist Internship](https://jobright.ai/jobs/info/69d69344cfdc6132f946abad?utm_campaign=1058&utm_source=git)** | Aurora Sinai Medical Center - 945 N 12th St | On Site | Apr 08 |
 | **[Baptist Health](https://www.baptistjax.com)** | **[CT Technologist Internship, Diagnostic Clinical Imaging, Baptist Clay](https://jobright.ai/jobs/info/69d68e5a52a5bf58001297c0?utm_campaign=1058&utm_source=git)** | Metro Jacksonville | On Site | Apr 08 |
 | **[The University of Texas Medical Branch](http://www.utmb.edu/)** | **[Advanced Practice Provider, Internal Medicine - Geriatrics](https://jobright.ai/jobs/info/69d68ba748f0c8161d2f886c?utm_campaign=1058&utm_source=git)** | Galveston, TX | On Site | Apr 08 |
 | **[Tallahassee Memorial HealthCare](https://www.tmh.org/)** | **[2026 Summer Nurse Internship - June 4 through July 31](https://jobright.ai/jobs/info/69d68a17e63cea7a8b669897?utm_campaign=1058&utm_source=git)** | Tallahassee, FL, US | On Site | Apr 08 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Nurse Intern Cardiac ICU](https://jobright.ai/jobs/info/69d68a0ce63cea7a8b66986a?utm_campaign=1058&utm_source=git)** | US-KS-Wichita | On Site | Apr 08 |
 | **[Tallahassee Memorial HealthCare](https://www.tmh.org/)** | **[2026 Summer Nurse Internship - June 4 through July 31](https://jobright.ai/jobs/info/69d68a00706f771673bab53b?utm_campaign=1058&utm_source=git)** | Tallahassee | On Site | Apr 08 |
-| **[Ascension](https://healthcare.ascension.org)** | **[Nurse Intern Cardiac ICU](https://jobright.ai/jobs/info/69d689f4cfdc6132f946a8a2?utm_campaign=1058&utm_source=git)** | Wichita, KS, US | On Site | Apr 08 |
-| **[Lancaster Cupcake](https://www.lancastercupcake.com)** | **[Cupcake Truck Summer 2026 Internship](https://jobright.ai/jobs/info/69d689e048f0c8161d2f860b?utm_campaign=1058&utm_source=git)** | Lancaster, PA | On Site | Apr 08 |
-| **[KCH Transportation](https://www.kchtrans.com)** | **[Account Manager Support Internship](https://jobright.ai/jobs/info/69d689ddcfdc6132f946a836?utm_campaign=1058&utm_source=git)** | Augusta, GA | On Site | Apr 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
