@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Xometry](https://www.xometry.com)** | **[Case Management Intern](https://jobright.ai/jobs/info/6943e68d94730b7398771073?utm_campaign=1058&utm_source=git)** | Lexington, KY | Hybrid | Apr 09 |
+| **[OU Health](https://www.ouhealth.com)** | **[Radiology Student Intern - PRN](https://jobright.ai/jobs/info/69d8265cb67cec4f9b09b015?utm_campaign=1058&utm_source=git)** | Oklahoma City, OK | On Site | Apr 09 |
+| **[Mercy Health](http://www.mercy.com/)** | **[Student Nurse Intern, Mom Baby](https://jobright.ai/jobs/info/69d825c0b861c42857c48fe7?utm_campaign=1058&utm_source=git)** | Javon Bea Hospital - Rockford, IL | On Site | Apr 09 |
+| **[Sign In Solutions | Visitor Management System](https://signinsolutions.com)** | **[Customer Migration & Onboarding Interns](https://jobright.ai/jobs/info/69d824f7738f2f099e89adc2?utm_campaign=1058&utm_source=git)** | St. Petersburg, FL | Hybrid | Apr 09 |
+| **[FMOL Health](https://fmolhs.org)** | **[Pre-Clinical Intern](https://jobright.ai/jobs/info/69d82491f4ea471a51fe3f82?utm_campaign=1058&utm_source=git)** | Baton Rouge, LA | On Site | Apr 09 |
+| **[County of Marin](http://www.marincounty.org)** | **[Student Intern - Undergraduate (Sheriff's Cadet)](https://jobright.ai/jobs/info/69d8245fb67cec4f9b09adf7?utm_campaign=1058&utm_source=git)** | San Rafael, CA | On Site | Apr 09 |
+| **[Festo](https://www.festo.com/us/en)** | **[Technical Support Intern](https://jobright.ai/jobs/info/69d8241fb67cec4f9b09ad0c?utm_campaign=1058&utm_source=git)** | Mississauga, ON | On Site | Apr 09 |
+| **[Bradley Caldwell, Inc](http://bradleycaldwell.com)** | **[IT Intern](https://jobright.ai/jobs/info/69d8215a9f97a42dc9c1a7c1?utm_campaign=1058&utm_source=git)** | Hazleton, PA | On Site | Apr 09 |
 | **[Aptiv](http://www.aptiv.com)** | **[Demo Support Specialist Intern](https://jobright.ai/jobs/info/69d81d9df4ea471a51fe3e10?utm_campaign=1058&utm_source=git)** | Troy, MI - USA | On Site | Apr 09 |
 | **[AssetWorks Inc](https://www.assetworks.com/)** | **[Professional Services Intern](https://jobright.ai/jobs/info/69d81877b67cec4f9b09a98f?utm_campaign=1058&utm_source=git)** | Greater Philadelphia | Remote | Apr 09 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Field Service Intern - New York, New York](https://jobright.ai/jobs/info/69d817b1b861c42857c48a67?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Apr 09 |
@@ -94,6 +102,7 @@ For a complete list, click the following sortable link below:
 | **[Community Health Network](https://www.ecommunity.com/)** | **[IT Intern - Hybrid](https://jobright.ai/jobs/info/69d7fe7e738f2f099e899a08?utm_campaign=1058&utm_source=git)** | Indianapolis, IN | Hybrid | Apr 09 |
 | **[Naples Comprehensive Health - NCH](http://www.nchmd.org/)** | **[IT Intern FR](https://jobright.ai/jobs/info/69d7fc95f4ea471a51fe2c37?utm_campaign=1058&utm_source=git)** | Naples, FL | On Site | Apr 09 |
 | **[DMI](http://dminc.com)** | **[ServiceNow Administrator](https://jobright.ai/jobs/info/69c3593b753c101b215701e2?utm_campaign=1058&utm_source=git)** | Washington, DC | Hybrid | Apr 09 |
+| **[Cupertino Electric, Inc.](http://www.cei.com)** | **[IT Intern](https://jobright.ai/jobs/info/69d82449b861c42857c48df9?utm_campaign=1058&utm_source=git)** | San Jose, CA | On Site | Apr 09 |
 | **[Corpay](https://payments.corpay.com)** | **[Summer Intern - NA IT Operations](https://jobright.ai/jobs/info/69d7f9239f97a42dc9c193cc?utm_campaign=1058&utm_source=git)** | Peachtree Corners, GA 30092, USA | On Site | Apr 09 |
 | **[Visionary Broadband](https://www.vcn.com/)** | **[Summer Intern - Warehouse](https://jobright.ai/jobs/info/69d7f8f9869c7e25d8592939?utm_campaign=1058&utm_source=git)** | Gillette, WY, US | On Site | Apr 09 |
 | ↳ | **[Summer Intern - Customer Service](https://jobright.ai/jobs/info/69d7f8f3869c7e25d859292f?utm_campaign=1058&utm_source=git)** | Casper, WY, US | On Site | Apr 09 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Columbus Blue Jackets](http://bluejackets.com)** | **[2026-27 Season Premium Experience Intern](https://jobright.ai/jobs/info/69d7c615b67cec4f9b0972f3?utm_campaign=1058&utm_source=git)** | Columbus, OH | On Site | Apr 09 |
 | **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69d7c6079f97a42dc9c16fee?utm_campaign=1058&utm_source=git)** | Riverside, CA | On Site | Apr 09 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69d7c6069f97a42dc9c16feb?utm_campaign=1058&utm_source=git)** | Irvine, CA | On Site | Apr 09 |
-| **[California State University, Fresno](https://csufresno.edu)** | **[Customer Service Lead](https://jobright.ai/jobs/info/69c399b97a7a0045db89749f?utm_campaign=1058&utm_source=git)** | Fresno, CA | On Site | Apr 09 |
-| **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse II](https://jobright.ai/jobs/info/68d92fdf022fc803b4876d80?utm_campaign=1058&utm_source=git)** | Oxford, MS | On Site | Apr 09 |
-| **[Wei, Wei & Co., LLP](https://www.weiweico.com/)** | **[Receptionist Staff / Intern](https://jobright.ai/jobs/info/69d7b9d7f4ea471a51fe040c?utm_campaign=1058&utm_source=git)** | Flushing, NY (Headquarters) | On Site | Apr 09 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[IS Services & Support Intern (or Co-Op)](https://jobright.ai/jobs/info/69a66c4b2c0d8b0f5cd08b40?utm_campaign=1058&utm_source=git)** | Charlotte, NC | On Site | Apr 09 |
-| **[York General](https://www.yorkgeneral.org)** | **[Phlebotomist Intern](https://jobright.ai/jobs/info/69d7b995f4ea471a51fe0334?utm_campaign=1058&utm_source=git)** | York, Nebraska, United States | On Site | Apr 09 |
-| **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69d7b964f4ea471a51fe02fe?utm_campaign=1058&utm_source=git)** | Laramie, WY | On Site | Apr 09 |
-| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69d7b964f4ea471a51fe02fd?utm_campaign=1058&utm_source=git)** | Abilene, TX | On Site | Apr 09 |
-| **[UICGS / Bowhead Family of Companies](http://www.bowhead.com)** | **[General Clerk III](https://jobright.ai/jobs/info/69d7d7cc869c7e25d8591dd0?utm_campaign=1058&utm_source=git)** | Newark, NJ | On Site | Apr 09 |
-| **[Aptive Environmental](http://goaptive.com/)** | **[Technical Support Analyst, Intern](https://jobright.ai/jobs/info/69bb91f0569738374141aabc?utm_campaign=1058&utm_source=git)** | Provo, UT | On Site | Apr 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
