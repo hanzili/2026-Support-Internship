@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Nutrien](https://www.nutrien.com/)** | **[Intern, IT, Carseland](https://jobright.ai/jobs/info/69d86492b861c42857c4a298?utm_campaign=1058&utm_source=git)** | Dalemead, AB | On Site | Apr 09 |
+| **[Nutrien](https://www.nutrien.com/)** | **[Intern, Site IT, Loveland](https://jobright.ai/jobs/info/69d86cb19f97a42dc9c1c24a?utm_campaign=1058&utm_source=git)** | Loveland, CO | On Site | Apr 09 |
 | **[The University of Texas Medical Branch](http://www.utmb.edu/)** | **[Advanced Practice Provider, Internal Medicine-Palliative Care](https://jobright.ai/jobs/info/69d80c789f97a42dc9c19fc3?utm_campaign=1058&utm_source=git)** | Galveston, TX | On Site | Apr 09 |
 | **[Aptiv](http://www.aptiv.com)** | **[Demo Support Specialist Intern](https://jobright.ai/jobs/info/69d85e30f4ea471a51fe54eb?utm_campaign=1058&utm_source=git)** | Troy, MI | On Site | Apr 09 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Nurse Intern Senior Behavioral Health](https://jobright.ai/jobs/info/69d85dd1f4ea471a51fe5466?utm_campaign=1058&utm_source=git)** | Wichita, KS | On Site | Apr 09 |
@@ -132,7 +132,6 @@ For a complete list, click the following sortable link below:
 | **[Gemma Power Systems](http://www.gemmapower.com)** | **[IT Helpdesk Intern](https://jobright.ai/jobs/info/69d80926f4ea471a51fe321d?utm_campaign=1058&utm_source=git)** | Glastonbury, CT | On Site | Apr 09 |
 | **[Allen Lund Company](http://www.allenlund.com/)** | **[Internship](https://jobright.ai/jobs/info/69d8091bb861c42857c47e70?utm_campaign=1058&utm_source=git)** | Orlando, FL | On Site | Apr 09 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Intern I - High School](https://jobright.ai/jobs/info/69d808e6869c7e25d8592d26?utm_campaign=1058&utm_source=git)** | South San Francisco, CA | On Site | Apr 09 |
-| **[Make-A-Wish Metro New York and Western New York](http://metrony.wish.org)** | **[Wish Assist Intern](https://jobright.ai/jobs/info/69d85b87b67cec4f9b09bf9e?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Apr 09 |
 | **[Memorial Healthcare System](http://www.memorialregional.com)** | **[Pharmacy Intern - Pharmacy - Per Diem - Flex Shifts - MRHS](https://jobright.ai/jobs/info/69d801b0738f2f099e899b5a?utm_campaign=1058&utm_source=git)** | Memorial Regional Hospital South | On Site | Apr 09 |
 | **[Loews Hotels & Co](https://www.loewshotels.com)** | **[Rooms Internship](https://jobright.ai/jobs/info/69d8017bf4ea471a51fe2d87?utm_campaign=1058&utm_source=git)** | FL - Orlando - Loews Royal Pacific Resort | On Site | Apr 09 |
 | **[City of Denison](https://www.denisontx.gov/)** | **[Tourism Intern](https://jobright.ai/jobs/info/69d7fe95738f2f099e899a6a?utm_campaign=1058&utm_source=git)** | Denison, TX | On Site | Apr 09 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Formic](https://formic.co)** | **[Summer 2026 Intern](https://jobright.ai/jobs/info/699f8dafce78e77b4fe56079?utm_campaign=1058&utm_source=git)** | San Francisco Bay Area | On Site | Apr 09 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Nurse Intern Emergency Department](https://jobright.ai/jobs/info/69d7ef87869c7e25d859267b?utm_campaign=1058&utm_source=git)** | US-KS-Wichita | On Site | Apr 09 |
 | **[Community Health Systems](http://www.chs.net)** | **[Nursing Student Intern CIC](https://jobright.ai/jobs/info/69d7ef52f4ea471a51fe286c?utm_campaign=1058&utm_source=git)** | 7950 W Jefferson Blvd, Fort Wayne, IN, 46804, US | On Site | Apr 09 |
+| **[Ascension](https://healthcare.ascension.org)** | **[Nurse Intern Emergency Department](https://jobright.ai/jobs/info/69d7ed66b861c42857c47531?utm_campaign=1058&utm_source=git)** | Wichita, KS, US | On Site | Apr 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
