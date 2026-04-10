@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, VIP Nation Intern](https://jobright.ai/jobs/info/69bcfd9c45e08b3dc1f9f6ed?utm_campaign=1058&utm_source=git)** | Nashville, TN | Hybrid | Apr 10 |
+| **[Epiroc](https://www.epirocgroup.com/en)** | **[Intern - Technical Information Services](https://jobright.ai/jobs/info/691b8157bcdbf3560c9df7ff?utm_campaign=1058&utm_source=git)** | Garland, TX | On Site | Apr 10 |
+| **[Duke University](http://www.duke.edu)** | **[Non Duke Student/Intern](https://jobright.ai/jobs/info/69d8f50ab67cec4f9b09f5e4?utm_campaign=1058&utm_source=git)** | Durham, NC, US, 27710 | On Site | Apr 10 |
 | **[Edgewater Federal Solutions, Inc.](https://www.edgewaterit.com/)** | **[Help Desk Support Intern](https://jobright.ai/jobs/info/69d8f0eb869c7e25d859848f?utm_campaign=1058&utm_source=git)** | Frederick, MD | On Site | Apr 10 |
 | **[BITCO Insurance Companies](http://www.bitco.com)** | **[Claims Intern](https://jobright.ai/jobs/info/69d8f09c5356a60f40fd70b7?utm_campaign=1058&utm_source=git)** | Davenport, IA | On Site | Apr 10 |
 | **[Carboline](https://www.carboline.com)** | **[IT Intern](https://jobright.ai/jobs/info/69bf193a482822729301c2ad?utm_campaign=1058&utm_source=git)** | St Louis, MO | On Site | Apr 10 |
@@ -102,17 +105,16 @@ For a complete list, click the following sortable link below:
 | **[Ensono](https://www.ensono.com)** | **[End User Support Intern](https://jobright.ai/jobs/info/69d85406f4ea471a51fe5124?utm_campaign=1058&utm_source=git)** | Greater Chicago Area | Hybrid | Apr 09 |
 | **[Sidwell Friends School](http://www.sidwell.edu/)** | **[Information Technology Support Intern](https://jobright.ai/jobs/info/69d852c89f97a42dc9c1b880?utm_campaign=1058&utm_source=git)** | Washington, DC | On Site | Apr 09 |
 | **[CareDx, Inc.](https://www.caredx.com/)** | **[App Services Summer Summer Intern 2026](https://jobright.ai/jobs/info/69d84e60738f2f099e89bccb?utm_campaign=1058&utm_source=git)** | California, United States | Remote | Apr 09 |
-| **[Par Health](https://parsterileproducts.com)** | **[Intern, End User Computing Help Desk Specialist IT](https://jobright.ai/jobs/info/69a76f211fc3d83b78094239?utm_campaign=1058&utm_source=git)** | Hazelwood, MO | On Site | Apr 09 |
 | **[Olema Oncology](https://olema.com)** | **[IT Intern](https://jobright.ai/jobs/info/69d845bbb67cec4f9b09badc?utm_campaign=1058&utm_source=git)** | San Francisco, California | On Site | Apr 09 |
 | **[Tallahassee Memorial HealthCare](https://www.tmh.org/)** | **[2026 Summer Nurse Internship - June 4 through July 31](https://jobright.ai/jobs/info/69d8443a738f2f099e89ba61?utm_campaign=1058&utm_source=git)** | Tallahassee, FL | On Site | Apr 09 |
 | **[Banner Health](https://www.bannerhealth.com)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/69d84307b67cec4f9b09b9e5?utm_campaign=1058&utm_source=git)** | BUMC South Tucson (2800 E Ajo Way) | On Site | Apr 09 |
-| **[Children's Minnesota](https://www.childrensmn.org/)** | **[Respiratory Care Intern](https://jobright.ai/jobs/info/69cf32ee398fb071abf8d5f0?utm_campaign=1058&utm_source=git)** | Minneapolis, MN | On Site | Apr 09 |
+| **[Children's Minnesota](https://www.childrensmn.org/)** | **[Respiratory Care Intern](https://jobright.ai/jobs/info/69cf32e9398fb071abf8d5e7?utm_campaign=1058&utm_source=git)** | Minneapolis, MN | On Site | Apr 09 |
 | **[Schindler Group](http://www.schindler.com/)** | **[Sales Support Intern](https://jobright.ai/jobs/info/69d8409d738f2f099e89b929?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Apr 09 |
 | **[Children's Minnesota](https://www.childrensmn.org/)** | **[Respiratory Care Intern](https://jobright.ai/jobs/info/69ceffa754f00230c6d05b57?utm_campaign=1058&utm_source=git)** | St Paul, MN | On Site | Apr 09 |
 | **[Mountain View Tennis](http://www.mountainviewtennis.net)** | **[Summer Intern & Assistant](https://jobright.ai/jobs/info/69d85b739f97a42dc9c1ba82?utm_campaign=1058&utm_source=git)** | Mountain View, California, United States | On Site | Apr 09 |
 | **[AdamsPlace](http://www.adamsplace.org/)** | **[Infrastructure Support Intern](https://jobright.ai/jobs/info/69d8e8b39f97a42dc9c1eb32?utm_campaign=1058&utm_source=git)** | Murfreesboro, TN | On Site | Apr 09 |
-| **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[CT Intern, Mercy South](https://jobright.ai/jobs/info/69d8f0b5b67cec4f9b09f4ee?utm_campaign=1058&utm_source=git)** | Saint Louis, Missouri, 63128-2106 | On Site | Apr 09 |
-| ↳ | **[MRI Intern, Mercy South](https://jobright.ai/jobs/info/69d8f0af869c7e25d85983e4?utm_campaign=1058&utm_source=git)** | Saint Louis, Missouri, 63128-2106 | On Site | Apr 09 |
+| **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[MRI Intern, Mercy South](https://jobright.ai/jobs/info/69d8f0af869c7e25d85983e4?utm_campaign=1058&utm_source=git)** | Saint Louis, Missouri, 63128-2106 | On Site | Apr 09 |
+| ↳ | **[CT Intern, Mercy South](https://jobright.ai/jobs/info/69d8f0b5b67cec4f9b09f4ee?utm_campaign=1058&utm_source=git)** | Saint Louis, Missouri, 63128-2106 | On Site | Apr 09 |
 | **[Emerson](http://www.emerson.com)** | **[Customer Experience Intern - Summer 2026](https://jobright.ai/jobs/info/69d83c09f4ea471a51fe4c48?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | Apr 09 |
 | **[Children's Minnesota](https://www.childrensmn.org/)** | **[Respiratory Care Intern](https://jobright.ai/jobs/info/69d83b5a869c7e25d859485a?utm_campaign=1058&utm_source=git)** | Minneapolis, MN | On Site | Apr 09 |
 | **[Loveland Products, Inc](http://lovelandproducts.com)** | **[Intern, Site IT, Loveland](https://jobright.ai/jobs/info/69d8cf259f97a42dc9c1e68f?utm_campaign=1058&utm_source=git)** | Loveland, CO | On Site | Apr 09 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ascension](https://healthcare.ascension.org)** | **[Nurse Intern Emergency Department](https://jobright.ai/jobs/info/69d80c31869c7e25d859358a?utm_campaign=1058&utm_source=git)** | Wichita, KS | On Site | Apr 09 |
 | ↳ | **[Respiratory Therapy Intern](https://jobright.ai/jobs/info/69d80bfe9f97a42dc9c19f24?utm_campaign=1058&utm_source=git)** | Elk Grove Village, IL | On Site | Apr 09 |
 | ↳ | **[Nurse Intern Mother-Baby Unit](https://jobright.ai/jobs/info/69d80b01f4ea471a51fe3648?utm_campaign=1058&utm_source=git)** | US-KS-Wichita | On Site | Apr 09 |
-| ↳ | **[Nurse Intern Senior Behavioral Health](https://jobright.ai/jobs/info/69d80afcf4ea471a51fe3643?utm_campaign=1058&utm_source=git)** | US-KS-Wichita | On Site | Apr 09 |
-| **[Acadia Insurance (a Berkley Company)](https://www.acadiainsurance.com/)** | **[Berkley One Classics Intern](https://jobright.ai/jobs/info/69d80afcf4ea471a51fe3640?utm_campaign=1058&utm_source=git)** | US-MN-Luverne | On Site | Apr 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
