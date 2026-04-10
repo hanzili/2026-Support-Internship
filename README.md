@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[National HealthCare Corporation (NHC)](https://nhccare.com)** | **[Infrastructure Support  Intern](https://jobright.ai/jobs/info/69d883a09f97a42dc9c1cc34?utm_campaign=1058&utm_source=git)** | Murfreesboro, Tennessee, United States | On Site | Apr 09 |
 | **[Wolverine Advanced Materials](http://www.wamglobal.com/)** | **[IT Intern](https://jobright.ai/jobs/info/69d87ebf869c7e25d85960c8?utm_campaign=1058&utm_source=git)** | Dearborn, MI | On Site | Apr 09 |
 | **[St. Anthony Regional Hospital](https://www.stanthonyhospital.org)** | **[Summer Healthcare Intern](https://jobright.ai/jobs/info/69d878fab861c42857c4ae88?utm_campaign=1058&utm_source=git)** | Carroll, IA | On Site | Apr 09 |
 | **[Clark County Water Reclamation District](https://www.cleanwaterteam.com)** | **[Part-Time Records Management Intern](https://jobright.ai/jobs/info/69d877e7b67cec4f9b09cdf8?utm_campaign=1058&utm_source=git)** | Las Vegas, NV | On Site | Apr 09 |
@@ -77,7 +78,7 @@ For a complete list, click the following sortable link below:
 | **[Olema Oncology](https://olema.com)** | **[IT Intern](https://jobright.ai/jobs/info/69d845bbb67cec4f9b09badc?utm_campaign=1058&utm_source=git)** | San Francisco, California | On Site | Apr 09 |
 | **[Tallahassee Memorial HealthCare](https://www.tmh.org/)** | **[2026 Summer Nurse Internship - June 4 through July 31](https://jobright.ai/jobs/info/69d8443a738f2f099e89ba61?utm_campaign=1058&utm_source=git)** | Tallahassee, FL | On Site | Apr 09 |
 | **[Banner Health](https://www.bannerhealth.com)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/69d84307b67cec4f9b09b9e5?utm_campaign=1058&utm_source=git)** | BUMC South Tucson (2800 E Ajo Way) | On Site | Apr 09 |
-| **[Children's Minnesota](https://www.childrensmn.org/)** | **[Respiratory Care Intern](https://jobright.ai/jobs/info/69cf32e9398fb071abf8d5e7?utm_campaign=1058&utm_source=git)** | Minneapolis, MN | On Site | Apr 09 |
+| **[Children's Minnesota](https://www.childrensmn.org/)** | **[Respiratory Care Intern](https://jobright.ai/jobs/info/69cf32ee398fb071abf8d5f0?utm_campaign=1058&utm_source=git)** | Minneapolis, MN | On Site | Apr 09 |
 | **[Schindler Group](http://www.schindler.com/)** | **[Sales Support Intern](https://jobright.ai/jobs/info/69d8409d738f2f099e89b929?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Apr 09 |
 | **[Children's Minnesota](https://www.childrensmn.org/)** | **[Respiratory Care Intern](https://jobright.ai/jobs/info/69ceffa754f00230c6d05b57?utm_campaign=1058&utm_source=git)** | St Paul, MN | On Site | Apr 09 |
 | **[Mountain View Tennis](http://www.mountainviewtennis.net)** | **[Summer Intern & Assistant](https://jobright.ai/jobs/info/69d85b739f97a42dc9c1ba82?utm_campaign=1058&utm_source=git)** | Mountain View, California, United States | On Site | Apr 09 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Lehigh Valley Health Network](http://www.lvhn.org)** | **[Experienced Registered Nurse - OR Internship **SUMMER 2026**](https://jobright.ai/jobs/info/69d7f3bb9f97a42dc9c192ca?utm_campaign=1058&utm_source=git)** | Lehigh Valley Hospital- Cedar Crest | On Site | Apr 09 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Field Service Intern - New York, New York](https://jobright.ai/jobs/info/69d7f3ba9f97a42dc9c192b7?utm_campaign=1058&utm_source=git)** | New York, NY, United States | On Site | Apr 09 |
 | **[BayCare Health System](https://baycare.org/bmg)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69d7f1a6738f2f099e899641?utm_campaign=1058&utm_source=git)** | Plant City, FL | On Site | Apr 09 |
-| **[MyMichigan Health](https://www.mymichigan.org)** | **[CRNA Intern](https://jobright.ai/jobs/info/69d7f17cb67cec4f9b0995b2?utm_campaign=1058&utm_source=git)** | Midland, MI | On Site | Apr 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
