@@ -57,10 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ensono](https://www.ensono.com)** | **[End User Support Intern](https://jobright.ai/jobs/info/69d85406f4ea471a51fe5124?utm_campaign=1058&utm_source=git)** | Greater Chicago Area | Hybrid | Apr 09 |
+| **[Sidwell Friends School](http://www.sidwell.edu/)** | **[Information Technology Support Intern](https://jobright.ai/jobs/info/69d852c89f97a42dc9c1b880?utm_campaign=1058&utm_source=git)** | Washington, DC | On Site | Apr 09 |
+| **[CareDx, Inc.](https://www.caredx.com/)** | **[App Services Summer Summer Intern 2026](https://jobright.ai/jobs/info/69d84e60738f2f099e89bccb?utm_campaign=1058&utm_source=git)** | California, United States | Remote | Apr 09 |
+| **[Par Health](https://parsterileproducts.com)** | **[Intern, End User Computing Help Desk Specialist IT](https://jobright.ai/jobs/info/69a76f211fc3d83b78094239?utm_campaign=1058&utm_source=git)** | Hazelwood, MO | On Site | Apr 09 |
 | **[Olema Oncology](https://olema.com)** | **[IT Intern](https://jobright.ai/jobs/info/69d845bbb67cec4f9b09badc?utm_campaign=1058&utm_source=git)** | San Francisco, California | On Site | Apr 09 |
 | **[Tallahassee Memorial HealthCare](https://www.tmh.org/)** | **[2026 Summer Nurse Internship - June 4 through July 31](https://jobright.ai/jobs/info/69d8443a738f2f099e89ba61?utm_campaign=1058&utm_source=git)** | Tallahassee, FL | On Site | Apr 09 |
 | **[Banner Health](https://www.bannerhealth.com)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/69d84307b67cec4f9b09b9e5?utm_campaign=1058&utm_source=git)** | BUMC South Tucson (2800 E Ajo Way) | On Site | Apr 09 |
-| **[Children's Minnesota](https://www.childrensmn.org/)** | **[Respiratory Care Intern](https://jobright.ai/jobs/info/69cf32ee398fb071abf8d5f0?utm_campaign=1058&utm_source=git)** | Minneapolis, MN | On Site | Apr 09 |
+| **[Children's Minnesota](https://www.childrensmn.org/)** | **[Respiratory Care Intern](https://jobright.ai/jobs/info/69cf32e9398fb071abf8d5e7?utm_campaign=1058&utm_source=git)** | Minneapolis, MN | On Site | Apr 09 |
 | **[Schindler Group](http://www.schindler.com/)** | **[Sales Support Intern](https://jobright.ai/jobs/info/69d8409d738f2f099e89b929?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Apr 09 |
 | **[Children's Minnesota](https://www.childrensmn.org/)** | **[Respiratory Care Intern](https://jobright.ai/jobs/info/69ceffa754f00230c6d05b57?utm_campaign=1058&utm_source=git)** | St Paul, MN | On Site | Apr 09 |
 | **[Emerson](http://www.emerson.com)** | **[Customer Experience Intern - Summer 2026](https://jobright.ai/jobs/info/69d83c09f4ea471a51fe4c48?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | Apr 09 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Southern Alberta Institute of Technology (SAIT)](https://www.sait.ca/)** | **[ITS Business Operations Intern](https://jobright.ai/jobs/info/69d809d2b861c42857c481dd?utm_campaign=1058&utm_source=git)** | Greater Calgary Metropolitan Area | Hybrid | Apr 09 |
 | **[Henry Ford Health](http://www.henryford.com/)** | **[Lab Assistant-Specimen Collect (Phlebotomist) - West Oakland Internists - 40 hrs - Days -](https://jobright.ai/jobs/info/69d7e57cb861c42857c470d1?utm_campaign=1058&utm_source=git)** | Novi, MI | On Site | Apr 09 |
 | **[Plastic Ingenuity](http://plasticingenuity.com)** | **[IT Intern](https://jobright.ai/jobs/info/69d7e567b861c42857c47077?utm_campaign=1058&utm_source=git)** | Cross Plains, WI | On Site | Apr 09 |
-| **[Wisconsin Public Service](http://www.wisconsinpublicservice.com)** | **[Customer Service Representative](https://jobright.ai/jobs/info/69d7e557b67cec4f9b0990e4?utm_campaign=1058&utm_source=git)** | Green Bay, WI | On Site | Apr 09 |
-| **[Dynacare](https://www.dynacare.ca/)** | **[IT Field Services Technician](https://jobright.ai/jobs/info/69d7e526738f2f099e899046?utm_campaign=1058&utm_source=git)** | Ottawa, ON | On Site | Apr 09 |
-| **[Sompo](https://www.sompo-intl.com/)** | **[Information Technology Intern](https://jobright.ai/jobs/info/69d7e4c8b67cec4f9b098f7d?utm_campaign=1058&utm_source=git)** | Morristown, NJ | On Site | Apr 09 |
-| ↳ | **[Information Technology Intern](https://jobright.ai/jobs/info/69d7e4c8b67cec4f9b098f7e?utm_campaign=1058&utm_source=git)** | Alpharetta, GA | On Site | Apr 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
