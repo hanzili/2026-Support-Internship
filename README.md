@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Carle Health](http://www.carle.org)** | **[Student Nurse Intern - BMC](https://jobright.ai/jobs/info/69d952dd9f97a42dc9c20b6c?utm_campaign=1058&utm_source=git)** | Normal, IL | On Site | Apr 10 |
+| **[Quadbridge Inc.](http://quadbridge.com/en/home/)** | **[Warehouse technician](https://jobright.ai/jobs/info/69bdd0ccb1060245628311c0?utm_campaign=1058&utm_source=git)** | Montreal, QC | On Site | Apr 10 |
+| **[Colorado College](http://www.coloradocollege.edu/)** | **[Database Records Specialist](https://jobright.ai/jobs/info/69d94a1ef748bc5d08a4a617?utm_campaign=1058&utm_source=git)** | Colorado Springs, CO | On Site | Apr 10 |
+| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Intern I - High School](https://jobright.ai/jobs/info/69d949e6f748bc5d08a4a5a6?utm_campaign=1058&utm_source=git)** | South San Francisco, CA | On Site | Apr 10 |
 | **[Clean Harbors](http://www.cleanharbors.com)** | **[MIS Intern](https://jobright.ai/jobs/info/69d94458b67cec4f9b0a0fb0?utm_campaign=1058&utm_source=git)** | 42 Longwater Drive, Norwell, MA, 02061-9149, US | On Site | Apr 10 |
 | **[Memorial Healthcare System](http://www.memorialregional.com)** | **[Pharmacy Intern - Outpatient Pharmacy - Per Diem - Days - MHW](https://jobright.ai/jobs/info/6983dea8348f733a5c375fc2?utm_campaign=1058&utm_source=git)** | Pembroke Pines, FL | On Site | Apr 10 |
 | **[HPC Industrial powered by Clean Harbors](www.hpc-industrial.com)** | **[MIS Intern](https://jobright.ai/jobs/info/69d940b0869c7e25d8599b92?utm_campaign=1058&utm_source=git)** | Norwell, MA, United States | On Site | Apr 10 |
@@ -77,6 +81,7 @@ For a complete list, click the following sortable link below:
 | **[The Kendal Corporation](http://www.kendal.org/)** | **[IT Help Desk Intern](https://jobright.ai/jobs/info/69d9331bf748bc5d08a497e4?utm_campaign=1058&utm_source=git)** | Lexington, Virginia, United States | On Site | Apr 10 |
 | **[BCFS Health & Human Services](https://bcfshhs.org)** | **[Program Intern](https://jobright.ai/jobs/info/69d93302b67cec4f9b0a0801?utm_campaign=1058&utm_source=git)** | Tyler, TX | On Site | Apr 10 |
 | ↳ | **[Program Intern](https://jobright.ai/jobs/info/69d933009f97a42dc9c20003?utm_campaign=1058&utm_source=git)** | 202 S. John Reddit Dr, Lufkin, TX 75904 | On Site | Apr 10 |
+| **[Ross Video](http://rossvideo.com)** | **[Technical Support Specialist](https://jobright.ai/jobs/info/69d952b9738f2f099e8a0ef9?utm_campaign=1058&utm_source=git)** | Kanata, ON | On Site | Apr 10 |
 | **[Leidos](https://www.leidos.com)** | **[Email Operations Intern](https://jobright.ai/jobs/info/69d92f03869c7e25d8599520?utm_campaign=1058&utm_source=git)** | United States | Remote | Apr 10 |
 | **[Cogent Analytics](https://www.cogentanalytics.com/)** | **[IT Intern - Summer of 2026 (copy)](https://jobright.ai/jobs/info/69d92edf9f97a42dc9c1ffbc?utm_campaign=1058&utm_source=git)** | Greensboro, NC | On Site | Apr 10 |
 | **[Leidos](https://www.leidos.com)** | **[Collaboration Services Intern](https://jobright.ai/jobs/info/69d92ece5356a60f40fd8234?utm_campaign=1058&utm_source=git)** | United States | Remote | Apr 10 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[National HealthCare Corporation (NHC)](https://nhccare.com)** | **[Infrastructure Support  Intern](https://jobright.ai/jobs/info/69d883a09f97a42dc9c1cc34?utm_campaign=1058&utm_source=git)** | Murfreesboro, Tennessee, United States | On Site | Apr 09 |
 | **[Wolverine Advanced Materials](http://www.wamglobal.com/)** | **[IT Intern](https://jobright.ai/jobs/info/69d87ebf869c7e25d85960c8?utm_campaign=1058&utm_source=git)** | Dearborn, MI | On Site | Apr 09 |
 | **[St. Anthony Regional Hospital](https://www.stanthonyhospital.org)** | **[Summer Healthcare Intern](https://jobright.ai/jobs/info/69d878fab861c42857c4ae88?utm_campaign=1058&utm_source=git)** | Carroll, IA | On Site | Apr 09 |
-| **[Clark County Water Reclamation District](https://www.cleanwaterteam.com)** | **[Part-Time Records Management Intern](https://jobright.ai/jobs/info/69d877e7b67cec4f9b09cdf8?utm_campaign=1058&utm_source=git)** | Las Vegas, NV | On Site | Apr 09 |
-| **[Menorah Medical Center](http://menorahmedicalcenter.com)** | **[Pharmacist Intern PRN](https://jobright.ai/jobs/info/69d877c1b861c42857c4adec?utm_campaign=1058&utm_source=git)** | Overland Park, KS | On Site | Apr 09 |
-| **[Nutrien](https://www.nutrien.com/)** | **[Intern, IT Service, Saskatoon](https://jobright.ai/jobs/info/69d877be869c7e25d8595da4?utm_campaign=1058&utm_source=git)** | Saskatoon, SK | On Site | Apr 09 |
-| ↳ | **[Intern, Site IT, Loveland](https://jobright.ai/jobs/info/69d86cb19f97a42dc9c1c24a?utm_campaign=1058&utm_source=git)** | Loveland, CO | On Site | Apr 09 |
-| **[The University of Texas Medical Branch](http://www.utmb.edu/)** | **[Advanced Practice Provider, Internal Medicine-Palliative Care](https://jobright.ai/jobs/info/69d80c789f97a42dc9c19fc3?utm_campaign=1058&utm_source=git)** | Galveston, TX | On Site | Apr 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
