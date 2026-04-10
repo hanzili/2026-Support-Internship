@@ -57,7 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Nutrien](https://www.nutrien.com/)** | **[Intern, Site IT, Loveland](https://jobright.ai/jobs/info/69d86cb19f97a42dc9c1c24a?utm_campaign=1058&utm_source=git)** | Loveland, CO | On Site | Apr 09 |
+| **[Wolverine Advanced Materials](http://www.wamglobal.com/)** | **[IT Intern](https://jobright.ai/jobs/info/69d87ebf869c7e25d85960c8?utm_campaign=1058&utm_source=git)** | Dearborn, MI | On Site | Apr 09 |
+| **[St. Anthony Regional Hospital](https://www.stanthonyhospital.org)** | **[Summer Healthcare Intern](https://jobright.ai/jobs/info/69d878fab861c42857c4ae88?utm_campaign=1058&utm_source=git)** | Carroll, IA | On Site | Apr 09 |
+| **[Clark County Water Reclamation District](https://www.cleanwaterteam.com)** | **[Part-Time Records Management Intern](https://jobright.ai/jobs/info/69d877e7b67cec4f9b09cdf8?utm_campaign=1058&utm_source=git)** | Las Vegas, NV | On Site | Apr 09 |
+| **[Menorah Medical Center](http://menorahmedicalcenter.com)** | **[Pharmacist Intern PRN](https://jobright.ai/jobs/info/69d877c1b861c42857c4adec?utm_campaign=1058&utm_source=git)** | Overland Park, KS | On Site | Apr 09 |
+| **[Nutrien](https://www.nutrien.com/)** | **[Intern, IT Service, Saskatoon](https://jobright.ai/jobs/info/69d877be869c7e25d8595da4?utm_campaign=1058&utm_source=git)** | Saskatoon, SK | On Site | Apr 09 |
+| ↳ | **[Intern, IT, Fort Saskatchewan](https://jobright.ai/jobs/info/69d877ad738f2f099e89cd75?utm_campaign=1058&utm_source=git)** | Fort Saskatchewan, AB | On Site | Apr 09 |
+| ↳ | **[Intern, Site IT, Loveland](https://jobright.ai/jobs/info/69d86cb19f97a42dc9c1c24a?utm_campaign=1058&utm_source=git)** | Loveland, CO | On Site | Apr 09 |
 | **[The University of Texas Medical Branch](http://www.utmb.edu/)** | **[Advanced Practice Provider, Internal Medicine-Palliative Care](https://jobright.ai/jobs/info/69d80c789f97a42dc9c19fc3?utm_campaign=1058&utm_source=git)** | Galveston, TX | On Site | Apr 09 |
 | **[Aptiv](http://www.aptiv.com)** | **[Demo Support Specialist Intern](https://jobright.ai/jobs/info/69d85e30f4ea471a51fe54eb?utm_campaign=1058&utm_source=git)** | Troy, MI | On Site | Apr 09 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Nurse Intern Senior Behavioral Health](https://jobright.ai/jobs/info/69d85dd1f4ea471a51fe5466?utm_campaign=1058&utm_source=git)** | Wichita, KS | On Site | Apr 09 |
@@ -71,7 +77,7 @@ For a complete list, click the following sortable link below:
 | **[Olema Oncology](https://olema.com)** | **[IT Intern](https://jobright.ai/jobs/info/69d845bbb67cec4f9b09badc?utm_campaign=1058&utm_source=git)** | San Francisco, California | On Site | Apr 09 |
 | **[Tallahassee Memorial HealthCare](https://www.tmh.org/)** | **[2026 Summer Nurse Internship - June 4 through July 31](https://jobright.ai/jobs/info/69d8443a738f2f099e89ba61?utm_campaign=1058&utm_source=git)** | Tallahassee, FL | On Site | Apr 09 |
 | **[Banner Health](https://www.bannerhealth.com)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/69d84307b67cec4f9b09b9e5?utm_campaign=1058&utm_source=git)** | BUMC South Tucson (2800 E Ajo Way) | On Site | Apr 09 |
-| **[Children's Minnesota](https://www.childrensmn.org/)** | **[Respiratory Care Intern](https://jobright.ai/jobs/info/69cf32ee398fb071abf8d5f0?utm_campaign=1058&utm_source=git)** | Minneapolis, MN | On Site | Apr 09 |
+| **[Children's Minnesota](https://www.childrensmn.org/)** | **[Respiratory Care Intern](https://jobright.ai/jobs/info/69cf32e9398fb071abf8d5e7?utm_campaign=1058&utm_source=git)** | Minneapolis, MN | On Site | Apr 09 |
 | **[Schindler Group](http://www.schindler.com/)** | **[Sales Support Intern](https://jobright.ai/jobs/info/69d8409d738f2f099e89b929?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Apr 09 |
 | **[Children's Minnesota](https://www.childrensmn.org/)** | **[Respiratory Care Intern](https://jobright.ai/jobs/info/69ceffa754f00230c6d05b57?utm_campaign=1058&utm_source=git)** | St Paul, MN | On Site | Apr 09 |
 | **[Mountain View Tennis](http://www.mountainviewtennis.net)** | **[Summer Intern & Assistant](https://jobright.ai/jobs/info/69d85b739f97a42dc9c1ba82?utm_campaign=1058&utm_source=git)** | Mountain View, California, United States | On Site | Apr 09 |
@@ -132,6 +138,7 @@ For a complete list, click the following sortable link below:
 | **[Gemma Power Systems](http://www.gemmapower.com)** | **[IT Helpdesk Intern](https://jobright.ai/jobs/info/69d80926f4ea471a51fe321d?utm_campaign=1058&utm_source=git)** | Glastonbury, CT | On Site | Apr 09 |
 | **[Allen Lund Company](http://www.allenlund.com/)** | **[Internship](https://jobright.ai/jobs/info/69d8091bb861c42857c47e70?utm_campaign=1058&utm_source=git)** | Orlando, FL | On Site | Apr 09 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Intern I - High School](https://jobright.ai/jobs/info/69d808e6869c7e25d8592d26?utm_campaign=1058&utm_source=git)** | South San Francisco, CA | On Site | Apr 09 |
+| **[Make-A-Wish Metro New York and Western New York](http://metrony.wish.org)** | **[Wish Assist Intern](https://jobright.ai/jobs/info/69d87f26b67cec4f9b09d0df?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Apr 09 |
 | **[Memorial Healthcare System](http://www.memorialregional.com)** | **[Pharmacy Intern - Pharmacy - Per Diem - Flex Shifts - MRHS](https://jobright.ai/jobs/info/69d801b0738f2f099e899b5a?utm_campaign=1058&utm_source=git)** | Memorial Regional Hospital South | On Site | Apr 09 |
 | **[Loews Hotels & Co](https://www.loewshotels.com)** | **[Rooms Internship](https://jobright.ai/jobs/info/69d8017bf4ea471a51fe2d87?utm_campaign=1058&utm_source=git)** | FL - Orlando - Loews Royal Pacific Resort | On Site | Apr 09 |
 | **[City of Denison](https://www.denisontx.gov/)** | **[Tourism Intern](https://jobright.ai/jobs/info/69d7fe95738f2f099e899a6a?utm_campaign=1058&utm_source=git)** | Denison, TX | On Site | Apr 09 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Vertiv](https://www.Vertiv.com)** | **[Field Service Intern - New York, New York](https://jobright.ai/jobs/info/69d7f3ba9f97a42dc9c192b7?utm_campaign=1058&utm_source=git)** | New York, NY, United States | On Site | Apr 09 |
 | **[BayCare Health System](https://baycare.org/bmg)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69d7f1a6738f2f099e899641?utm_campaign=1058&utm_source=git)** | Plant City, FL | On Site | Apr 09 |
 | **[MyMichigan Health](https://www.mymichigan.org)** | **[CRNA Intern](https://jobright.ai/jobs/info/69d7f17cb67cec4f9b0995b2?utm_campaign=1058&utm_source=git)** | Midland, MI | On Site | Apr 09 |
-| **[Paradies Lagardère](https://paradieslagardere.com/)** | **[IT Intern](https://jobright.ai/jobs/info/699f7c3a81476f6176b910b3?utm_campaign=1058&utm_source=git)** | Atlanta Metro | On Site | Apr 09 |
-| **[Sompo](https://www.sompo-intl.com/)** | **[Information Technology Intern](https://jobright.ai/jobs/info/69d7f0d2869c7e25d85926f2?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Apr 09 |
-| **[Norton Rose Fulbright](http://www.nortonrosefulbright.com/in)** | **[Intern, Information Technology](https://jobright.ai/jobs/info/69bb6de306c1ba00c54de09c?utm_campaign=1058&utm_source=git)** | Greater Houston | On Site | Apr 09 |
-| **[Formic](https://formic.co)** | **[Summer 2026 Intern](https://jobright.ai/jobs/info/699f8dafce78e77b4fe56079?utm_campaign=1058&utm_source=git)** | San Francisco Bay Area | On Site | Apr 09 |
-| **[Ascension](https://healthcare.ascension.org)** | **[Nurse Intern Emergency Department](https://jobright.ai/jobs/info/69d7ef87869c7e25d859267b?utm_campaign=1058&utm_source=git)** | US-KS-Wichita | On Site | Apr 09 |
-| **[Community Health Systems](http://www.chs.net)** | **[Nursing Student Intern CIC](https://jobright.ai/jobs/info/69d7ef52f4ea471a51fe286c?utm_campaign=1058&utm_source=git)** | 7950 W Jefferson Blvd, Fort Wayne, IN, 46804, US | On Site | Apr 09 |
-| **[Ascension](https://healthcare.ascension.org)** | **[Nurse Intern Emergency Department](https://jobright.ai/jobs/info/69d7ed66b861c42857c47531?utm_campaign=1058&utm_source=git)** | Wichita, KS, US | On Site | Apr 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
