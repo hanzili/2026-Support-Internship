@@ -57,8 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cleveland Clinic](http://my.clevelandclinic.org)** | **[Pharmacy Intern - Inpatient](https://jobright.ai/jobs/info/69d96e2bb67cec4f9b0a1fbb?utm_campaign=1058&utm_source=git)** | Lutheran Hospital | On Site | Apr 10 |
+| **[Odessa Regional Medical Center](https://www.odessaregionalmedicalcenter.org)** | **[Respiratory Care Assistant PRN (Student Intern](https://jobright.ai/jobs/info/69d969845356a60f40fd9838?utm_campaign=1058&utm_source=git)** | Odessa, TX | On Site | Apr 10 |
+| **[Harmony United Psychiatric Care](https://hupcfl.com)** | **[Psychiatric Office Assistant Internship/Outpatient Clinic (Certification Program)/Altamonte Springs](https://jobright.ai/jobs/info/69d969619f97a42dc9c216c6?utm_campaign=1058&utm_source=git)** | Altamonte Springs, FL | On Site | Apr 10 |
+| ↳ | **[Psychiatric Office Assistant Internship/Outpatient Clinic (Certification Program)/Fort Lauderdale](https://jobright.ai/jobs/info/69d96947f748bc5d08a4b367?utm_campaign=1058&utm_source=git)** | Fort Lauderdale, FL | On Site | Apr 10 |
+| ↳ | **[Psychiatric Office Assistant Internship/Outpatient Clinic (Certification Program)/West Palm Beach](https://jobright.ai/jobs/info/69d9693e9f97a42dc9c21655?utm_campaign=1058&utm_source=git)** | West Palm Beach, FL | On Site | Apr 10 |
+| ↳ | **[Psychiatric Office Assistant Internship/Outpatient Clinic (Certification Program)/Lutz](https://jobright.ai/jobs/info/69d9691eb67cec4f9b0a1ecc?utm_campaign=1058&utm_source=git)** | Lutz, FL | On Site | Apr 10 |
+| ↳ | **[Psychiatric Office Assistant Internship/Outpatient Clinic (Certification Program)/Jacksonville](https://jobright.ai/jobs/info/69d9691ab67cec4f9b0a1ead?utm_campaign=1058&utm_source=git)** | Jacksonville, FL | On Site | Apr 10 |
+| **[UST](https://www.ust.com)** | **[Salesforce & CRM Intern](https://jobright.ai/jobs/info/69d96905869c7e25d859ac20?utm_campaign=1058&utm_source=git)** | New Mexico, United States | Remote | Apr 10 |
+| **[Harmony United Psychiatric Care](https://hupcfl.com)** | **[Psychiatric Office Assistant Internship/Outpatient Clinic (Certification Program)/Bradenton](https://jobright.ai/jobs/info/69d96905b67cec4f9b0a1e86?utm_campaign=1058&utm_source=git)** | Bradenton, FL | On Site | Apr 10 |
+| **[Suburban Inns](http://suburbaninns.com)** | **[Facility Technician (Maintenance)](https://jobright.ai/jobs/info/69d967e2869c7e25d859ab35?utm_campaign=1058&utm_source=git)** | Midland, Michigan | On Site | Apr 10 |
+| **[Annie E. Casey Foundation](http://www.aecf.org/)** | **[Intern, Business Technology](https://jobright.ai/jobs/info/69d96601869c7e25d859ab06?utm_campaign=1058&utm_source=git)** | Baltimore, MD, US | Hybrid | Apr 10 |
 | **[Anne Arundel County Public Schools](https://www.aacps.org/)** | **[Internship: Student - Central Office](https://jobright.ai/jobs/info/69d960605356a60f40fd966e?utm_campaign=1058&utm_source=git)** | Annapolis, MD | On Site | Apr 10 |
-| **[Navigant Credit Union](http://navigantcu.org)** | **[Intern - IT Service Desk](https://jobright.ai/jobs/info/69d9604c5356a60f40fd9641?utm_campaign=1058&utm_source=git)** | Smithfield, RI | On Site | Apr 10 |
 | **[Cogent Analytics](https://www.cogentanalytics.com/)** | **[IT Intern - Summer of 2026](https://jobright.ai/jobs/info/69d96020f748bc5d08a4b06a?utm_campaign=1058&utm_source=git)** | Greensboro, NC | On Site | Apr 10 |
 | **[Kootenai County](http://www.kcgov.us)** | **[IT Help Desk Coordinator](https://jobright.ai/jobs/info/69d95f83869c7e25d859a91a?utm_campaign=1058&utm_source=git)** | Coeur d'Alene, ID | On Site | Apr 10 |
 | **[Melissa Memorial Hospital](http://www.melissamemorial.org)** | **[Scanning Clerk-Internship](https://jobright.ai/jobs/info/69d95f82f748bc5d08a4af1f?utm_campaign=1058&utm_source=git)** | Melissa Memorial Hospital - HOLYOKE, CO 80734 | On Site | Apr 10 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69d8eb3d5356a60f40fd6cef?utm_campaign=1058&utm_source=git)** | Savannah, GA | On Site | Apr 10 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69d8eb3b869c7e25d8598144?utm_campaign=1058&utm_source=git)** | Lawrenceville, GA | On Site | Apr 10 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69d8eb2f869c7e25d859811c?utm_campaign=1058&utm_source=git)** | Buford, GA | On Site | Apr 10 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69d8eb2d738f2f099e89efaf?utm_campaign=1058&utm_source=git)** | Round Lake, IL | On Site | Apr 10 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69d8eb24738f2f099e89ef8f?utm_campaign=1058&utm_source=git)** | Atlanta, GA | On Site | Apr 10 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69d8eb22738f2f099e89ef7c?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | On Site | Apr 10 |
-| **[Cloudflare](http://www.cloudflare.com)** | **[Technical Support Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/69bc5d435b89c002acf1f31f?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | Apr 10 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69d8e89fb67cec4f9b09f229?utm_campaign=1058&utm_source=git)** | Americus, GA | On Site | Apr 10 |
-| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Intern I - High School](https://jobright.ai/jobs/info/69d906035356a60f40fd72bc?utm_campaign=1058&utm_source=git)** | Fresno, CA | On Site | Apr 10 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69d8de57738f2f099e89ee79?utm_campaign=1058&utm_source=git)** | Bainbridge, GA | On Site | Apr 10 |
-| **[MVP Health Care](https://www.mvphealthcare.com)** | **[Intern, Customer Experience Research](https://jobright.ai/jobs/info/69bc80905b89c002acf23f2b?utm_campaign=1058&utm_source=git)** | Schenectady, NY | Hybrid | Apr 10 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69d92508f748bc5d08a49321?utm_campaign=1058&utm_source=git)** | Covington, GA | On Site | Apr 10 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69d92536f748bc5d08a493e0?utm_campaign=1058&utm_source=git)** | Smyrna, GA | On Site | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
