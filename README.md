@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Make-A-Wish® Arizona](http://www.arizona.wish.org)** | **[Wish Granting Support Intern](https://jobright.ai/jobs/info/69d8b5d6869c7e25d8597694?utm_campaign=1058&utm_source=git)** | Scottsdale, AZ | On Site | Apr 10 |
+| **[DEMDACO](https://www.demdaco.com/)** | **[IT Intern](https://jobright.ai/jobs/info/69d8c399869c7e25d8597ad9?utm_campaign=1058&utm_source=git)** | Leawood, KS | On Site | Apr 10 |
 | **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE - CRNA Internship](https://jobright.ai/jobs/info/69d8b4dfb67cec4f9b09e5ab?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Apr 10 |
 | **[Kaweah Health](https://www.kaweahhealth.org)** | **[Student Nurse Intern](https://jobright.ai/jobs/info/69d8b248f748bc5d08a450d7?utm_campaign=1058&utm_source=git)** | Visalia, California | On Site | Apr 10 |
 | ↳ | **[Student Nurse Intern](https://jobright.ai/jobs/info/69d8b130738f2f099e89ddd6?utm_campaign=1058&utm_source=git)** | Visalia, California | On Site | Apr 10 |
@@ -89,7 +89,7 @@ For a complete list, click the following sortable link below:
 | **[Olema Oncology](https://olema.com)** | **[IT Intern](https://jobright.ai/jobs/info/69d845bbb67cec4f9b09badc?utm_campaign=1058&utm_source=git)** | San Francisco, California | On Site | Apr 09 |
 | **[Tallahassee Memorial HealthCare](https://www.tmh.org/)** | **[2026 Summer Nurse Internship - June 4 through July 31](https://jobright.ai/jobs/info/69d8443a738f2f099e89ba61?utm_campaign=1058&utm_source=git)** | Tallahassee, FL | On Site | Apr 09 |
 | **[Banner Health](https://www.bannerhealth.com)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/69d84307b67cec4f9b09b9e5?utm_campaign=1058&utm_source=git)** | BUMC South Tucson (2800 E Ajo Way) | On Site | Apr 09 |
-| **[Children's Minnesota](https://www.childrensmn.org/)** | **[Respiratory Care Intern](https://jobright.ai/jobs/info/69cf32e9398fb071abf8d5e7?utm_campaign=1058&utm_source=git)** | Minneapolis, MN | On Site | Apr 09 |
+| **[Children's Minnesota](https://www.childrensmn.org/)** | **[Respiratory Care Intern](https://jobright.ai/jobs/info/69cf32ee398fb071abf8d5f0?utm_campaign=1058&utm_source=git)** | Minneapolis, MN | On Site | Apr 09 |
 | **[Schindler Group](http://www.schindler.com/)** | **[Sales Support Intern](https://jobright.ai/jobs/info/69d8409d738f2f099e89b929?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Apr 09 |
 | **[Children's Minnesota](https://www.childrensmn.org/)** | **[Respiratory Care Intern](https://jobright.ai/jobs/info/69ceffa754f00230c6d05b57?utm_campaign=1058&utm_source=git)** | St Paul, MN | On Site | Apr 09 |
 | **[Mountain View Tennis](http://www.mountainviewtennis.net)** | **[Summer Intern & Assistant](https://jobright.ai/jobs/info/69d85b739f97a42dc9c1ba82?utm_campaign=1058&utm_source=git)** | Mountain View, California, United States | On Site | Apr 09 |
@@ -150,11 +150,11 @@ For a complete list, click the following sortable link below:
 | **[Gemma Power Systems](http://www.gemmapower.com)** | **[IT Helpdesk Intern](https://jobright.ai/jobs/info/69d80926f4ea471a51fe321d?utm_campaign=1058&utm_source=git)** | Glastonbury, CT | On Site | Apr 09 |
 | **[Allen Lund Company](http://www.allenlund.com/)** | **[Internship](https://jobright.ai/jobs/info/69d8091bb861c42857c47e70?utm_campaign=1058&utm_source=git)** | Orlando, FL | On Site | Apr 09 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Intern I - High School](https://jobright.ai/jobs/info/69d808e6869c7e25d8592d26?utm_campaign=1058&utm_source=git)** | South San Francisco, CA | On Site | Apr 09 |
+| **[Make-A-Wish Metro New York and Western New York](http://metrony.wish.org)** | **[Wish Assist Intern](https://jobright.ai/jobs/info/69d8bcdcb67cec4f9b09e670?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Apr 09 |
 | **[Memorial Healthcare System](http://www.memorialregional.com)** | **[Pharmacy Intern - Pharmacy - Per Diem - Flex Shifts - MRHS](https://jobright.ai/jobs/info/69d801b0738f2f099e899b5a?utm_campaign=1058&utm_source=git)** | Memorial Regional Hospital South | On Site | Apr 09 |
 | **[Loews Hotels & Co](https://www.loewshotels.com)** | **[Rooms Internship](https://jobright.ai/jobs/info/69d8017bf4ea471a51fe2d87?utm_campaign=1058&utm_source=git)** | FL - Orlando - Loews Royal Pacific Resort | On Site | Apr 09 |
 | **[City of Denison](https://www.denisontx.gov/)** | **[Tourism Intern](https://jobright.ai/jobs/info/69d7fe95738f2f099e899a6a?utm_campaign=1058&utm_source=git)** | Denison, TX | On Site | Apr 09 |
 | **[Community Health Network](https://www.ecommunity.com/)** | **[IT Intern - Hybrid](https://jobright.ai/jobs/info/69d7fe7e738f2f099e899a08?utm_campaign=1058&utm_source=git)** | Indianapolis, IN | Hybrid | Apr 09 |
 | **[Naples Comprehensive Health - NCH](http://www.nchmd.org/)** | **[IT Intern FR](https://jobright.ai/jobs/info/69d7fc95f4ea471a51fe2c37?utm_campaign=1058&utm_source=git)** | Naples, FL | On Site | Apr 09 |
 | **[DMI](http://dminc.com)** | **[ServiceNow Administrator](https://jobright.ai/jobs/info/69c3593b753c101b215701e2?utm_campaign=1058&utm_source=git)** | Washington, DC | Hybrid | Apr 09 |
-| **[Corpay](https://payments.corpay.com)** | **[Summer Intern - NA IT Operations](https://jobright.ai/jobs/info/69d7f9239f97a42dc9c193cc?utm_campaign=1058&utm_source=git)** | Peachtree Corners, GA 30092, USA | On Site | Apr 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
