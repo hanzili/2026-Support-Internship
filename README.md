@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Olema Oncology](https://olema.com)** | **[IT Intern](https://jobright.ai/jobs/info/69d89886869c7e25d8596b88?utm_campaign=1058&utm_source=git)** | San Francisco, CA | On Site | Apr 09 |
+| **[Tech Spectrum AI Solutions](https://www.techspectrumaisolutions.com)** | **[Customer Service Intern](https://jobright.ai/jobs/info/69d8986db861c42857c4ba5f?utm_campaign=1058&utm_source=git)** | Texas, United States | Remote | Apr 09 |
+| **[St. Anthony Regional Hospital](https://www.stanthonyhospital.org)** | **[Summer Student Nurse Intern](https://jobright.ai/jobs/info/69d89858738f2f099e89d8ae?utm_campaign=1058&utm_source=git)** | Carroll, IA | On Site | Apr 09 |
+| **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[CT Intern, Mercy South](https://jobright.ai/jobs/info/69d897bd869c7e25d85969d4?utm_campaign=1058&utm_source=git)** | St Louis, MO | On Site | Apr 09 |
 | **[National HealthCare Corporation (NHC)](https://nhccare.com)** | **[Infrastructure Support  Intern](https://jobright.ai/jobs/info/69d883a09f97a42dc9c1cc34?utm_campaign=1058&utm_source=git)** | Murfreesboro, Tennessee, United States | On Site | Apr 09 |
 | **[Wolverine Advanced Materials](http://www.wamglobal.com/)** | **[IT Intern](https://jobright.ai/jobs/info/69d87ebf869c7e25d85960c8?utm_campaign=1058&utm_source=git)** | Dearborn, MI | On Site | Apr 09 |
 | **[St. Anthony Regional Hospital](https://www.stanthonyhospital.org)** | **[Summer Healthcare Intern](https://jobright.ai/jobs/info/69d878fab861c42857c4ae88?utm_campaign=1058&utm_source=git)** | Carroll, IA | On Site | Apr 09 |
@@ -139,7 +143,6 @@ For a complete list, click the following sortable link below:
 | **[Gemma Power Systems](http://www.gemmapower.com)** | **[IT Helpdesk Intern](https://jobright.ai/jobs/info/69d80926f4ea471a51fe321d?utm_campaign=1058&utm_source=git)** | Glastonbury, CT | On Site | Apr 09 |
 | **[Allen Lund Company](http://www.allenlund.com/)** | **[Internship](https://jobright.ai/jobs/info/69d8091bb861c42857c47e70?utm_campaign=1058&utm_source=git)** | Orlando, FL | On Site | Apr 09 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Intern I - High School](https://jobright.ai/jobs/info/69d808e6869c7e25d8592d26?utm_campaign=1058&utm_source=git)** | South San Francisco, CA | On Site | Apr 09 |
-| **[Make-A-Wish Metro New York and Western New York](http://metrony.wish.org)** | **[Wish Assist Intern](https://jobright.ai/jobs/info/69d87f26b67cec4f9b09d0df?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Apr 09 |
 | **[Memorial Healthcare System](http://www.memorialregional.com)** | **[Pharmacy Intern - Pharmacy - Per Diem - Flex Shifts - MRHS](https://jobright.ai/jobs/info/69d801b0738f2f099e899b5a?utm_campaign=1058&utm_source=git)** | Memorial Regional Hospital South | On Site | Apr 09 |
 | **[Loews Hotels & Co](https://www.loewshotels.com)** | **[Rooms Internship](https://jobright.ai/jobs/info/69d8017bf4ea471a51fe2d87?utm_campaign=1058&utm_source=git)** | FL - Orlando - Loews Royal Pacific Resort | On Site | Apr 09 |
 | **[City of Denison](https://www.denisontx.gov/)** | **[Tourism Intern](https://jobright.ai/jobs/info/69d7fe95738f2f099e899a6a?utm_campaign=1058&utm_source=git)** | Denison, TX | On Site | Apr 09 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Gemma Power Systems](http://www.gemmapower.com)** | **[IT Helpdesk Intern](https://jobright.ai/jobs/info/69d7f8eef4ea471a51fe2b5a?utm_campaign=1058&utm_source=git)** | Glastonbury, CT, US | On Site | Apr 09 |
 | **[Visionary Broadband](https://www.vcn.com/)** | **[Summer Intern - Technical Support Specialist](https://jobright.ai/jobs/info/69d7f8e9b861c42857c47808?utm_campaign=1058&utm_source=git)** | Gillette, WY, US | On Site | Apr 09 |
 | ↳ | **[Summer Intern - Technical Support Specialist](https://jobright.ai/jobs/info/69d7f8e3b67cec4f9b099783?utm_campaign=1058&utm_source=git)** | Casper, WY, US | On Site | Apr 09 |
-| **[Lehigh Valley Health Network](http://www.lvhn.org)** | **[Experienced Registered Nurse - OR Internship **SUMMER 2026**](https://jobright.ai/jobs/info/69d7f3bb9f97a42dc9c192ca?utm_campaign=1058&utm_source=git)** | Lehigh Valley Hospital- Cedar Crest | On Site | Apr 09 |
-| **[Vertiv](https://www.Vertiv.com)** | **[Field Service Intern - New York, New York](https://jobright.ai/jobs/info/69d7f3ba9f97a42dc9c192b7?utm_campaign=1058&utm_source=git)** | New York, NY, United States | On Site | Apr 09 |
-| **[BayCare Health System](https://baycare.org/bmg)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69d7f1a6738f2f099e899641?utm_campaign=1058&utm_source=git)** | Plant City, FL | On Site | Apr 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
