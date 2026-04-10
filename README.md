@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[S&P Global](https://www.spglobal.com)** | **[Client Experience Summer Intern (Early Careers)](https://jobright.ai/jobs/info/69bccd274828227293fecd20?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Apr 10 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, VIP Nation Intern](https://jobright.ai/jobs/info/69bcfd9c45e08b3dc1f9f6ed?utm_campaign=1058&utm_source=git)** | Nashville, TN | Hybrid | Apr 10 |
 | **[Epiroc](https://www.epirocgroup.com/en)** | **[Intern - Technical Information Services](https://jobright.ai/jobs/info/691b8157bcdbf3560c9df7ff?utm_campaign=1058&utm_source=git)** | Garland, TX | On Site | Apr 10 |
 | **[Duke University](http://www.duke.edu)** | **[Non Duke Student/Intern](https://jobright.ai/jobs/info/69d8f50ab67cec4f9b09f5e4?utm_campaign=1058&utm_source=git)** | Durham, NC, US, 27710 | On Site | Apr 10 |
@@ -73,7 +74,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69d8eb22738f2f099e89ef7c?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | On Site | Apr 10 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Technical Support Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/69bc5d435b89c002acf1f31f?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | Apr 10 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69d8e89fb67cec4f9b09f229?utm_campaign=1058&utm_source=git)** | Americus, GA | On Site | Apr 10 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69d8de57738f2f099e89ee79?utm_campaign=1058&utm_source=git)** | Bainbridge, GA | On Site | Apr 10 |
+| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Intern I - High School](https://jobright.ai/jobs/info/69d906035356a60f40fd72bc?utm_campaign=1058&utm_source=git)** | Fresno, CA | On Site | Apr 10 |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69d8de57738f2f099e89ee79?utm_campaign=1058&utm_source=git)** | Bainbridge, GA | On Site | Apr 10 |
 | **[MVP Health Care](https://www.mvphealthcare.com)** | **[Intern, Customer Experience Research](https://jobright.ai/jobs/info/69bc80905b89c002acf23f2b?utm_campaign=1058&utm_source=git)** | Schenectady, NY | Hybrid | Apr 10 |
 | **[Chesterfield County](https://www.chesterfield.gov)** | **[Senior Customer Service Representative](https://jobright.ai/jobs/info/69d8eb3f869c7e25d8598156?utm_campaign=1058&utm_source=git)** | Chesterfield, VA | On Site | Apr 10 |
 | **[Reyes Beverage Group](https://reyesbeerdivision.com)** | **[Shared Services Intern](https://jobright.ai/jobs/info/69bca16b45e08b3dc1f95fef?utm_campaign=1058&utm_source=git)** | Manor, TX | On Site | Apr 10 |
@@ -113,8 +115,8 @@ For a complete list, click the following sortable link below:
 | **[Children's Minnesota](https://www.childrensmn.org/)** | **[Respiratory Care Intern](https://jobright.ai/jobs/info/69ceffa754f00230c6d05b57?utm_campaign=1058&utm_source=git)** | St Paul, MN | On Site | Apr 09 |
 | **[Mountain View Tennis](http://www.mountainviewtennis.net)** | **[Summer Intern & Assistant](https://jobright.ai/jobs/info/69d85b739f97a42dc9c1ba82?utm_campaign=1058&utm_source=git)** | Mountain View, California, United States | On Site | Apr 09 |
 | **[AdamsPlace](http://www.adamsplace.org/)** | **[Infrastructure Support Intern](https://jobright.ai/jobs/info/69d8e8b39f97a42dc9c1eb32?utm_campaign=1058&utm_source=git)** | Murfreesboro, TN | On Site | Apr 09 |
-| **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[MRI Intern, Mercy South](https://jobright.ai/jobs/info/69d8f0af869c7e25d85983e4?utm_campaign=1058&utm_source=git)** | Saint Louis, Missouri, 63128-2106 | On Site | Apr 09 |
-| ↳ | **[CT Intern, Mercy South](https://jobright.ai/jobs/info/69d8f0b5b67cec4f9b09f4ee?utm_campaign=1058&utm_source=git)** | Saint Louis, Missouri, 63128-2106 | On Site | Apr 09 |
+| **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[CT Intern, Mercy South](https://jobright.ai/jobs/info/69d8f0b5b67cec4f9b09f4ee?utm_campaign=1058&utm_source=git)** | Saint Louis, Missouri, 63128-2106 | On Site | Apr 09 |
+| ↳ | **[MRI Intern, Mercy South](https://jobright.ai/jobs/info/69d8f0af869c7e25d85983e4?utm_campaign=1058&utm_source=git)** | Saint Louis, Missouri, 63128-2106 | On Site | Apr 09 |
 | **[Emerson](http://www.emerson.com)** | **[Customer Experience Intern - Summer 2026](https://jobright.ai/jobs/info/69d83c09f4ea471a51fe4c48?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | Apr 09 |
 | **[Children's Minnesota](https://www.childrensmn.org/)** | **[Respiratory Care Intern](https://jobright.ai/jobs/info/69d83b5a869c7e25d859485a?utm_campaign=1058&utm_source=git)** | Minneapolis, MN | On Site | Apr 09 |
 | **[Loveland Products, Inc](http://lovelandproducts.com)** | **[Intern, Site IT, Loveland](https://jobright.ai/jobs/info/69d8cf259f97a42dc9c1e68f?utm_campaign=1058&utm_source=git)** | Loveland, CO | On Site | Apr 09 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Emerson](http://www.emerson.com)** | **[Customer Experience Intern - Summer 2026](https://jobright.ai/jobs/info/69d80e9b869c7e25d8593707?utm_campaign=1058&utm_source=git)** | 11500 North Mopac Expressway, Austin, TX, 78759, US | On Site | Apr 09 |
 | **[Holiday Inn Club Vacations](http://jobs.holidayinnclub.com/)** | **[Resort Experience Associate Intern- Lee, MA](https://jobright.ai/jobs/info/69d830bb869c7e25d859446b?utm_campaign=1058&utm_source=git)** | South Lee, MA | On Site | Apr 09 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Nurse Intern Emergency Department](https://jobright.ai/jobs/info/69d80c31869c7e25d859358a?utm_campaign=1058&utm_source=git)** | Wichita, KS | On Site | Apr 09 |
-| ↳ | **[Respiratory Therapy Intern](https://jobright.ai/jobs/info/69d80bfe9f97a42dc9c19f24?utm_campaign=1058&utm_source=git)** | Elk Grove Village, IL | On Site | Apr 09 |
-| ↳ | **[Nurse Intern Mother-Baby Unit](https://jobright.ai/jobs/info/69d80b01f4ea471a51fe3648?utm_campaign=1058&utm_source=git)** | US-KS-Wichita | On Site | Apr 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
