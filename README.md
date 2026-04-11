@@ -89,8 +89,8 @@ For a complete list, click the following sortable link below:
 | **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69da72f9738f2f099e8a965c?utm_campaign=1058&utm_source=git)** | Hendersonville, TN | On Site | Apr 11 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69da72e19f97a42dc9c291bf?utm_campaign=1058&utm_source=git)** | Nashville, TN | On Site | Apr 11 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69da7291b67cec4f9b0a979c?utm_campaign=1058&utm_source=git)** | Albuquerque, NM | On Site | Apr 11 |
-| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69da72e19f97a42dc9c291be?utm_campaign=1058&utm_source=git)** | Tyler, TX | On Site | Apr 11 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69da7301738f2f099e8a9680?utm_campaign=1058&utm_source=git)** | Tyler, TX | On Site | Apr 11 |
+| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69da72e19f97a42dc9c291be?utm_campaign=1058&utm_source=git)** | Tyler, TX | On Site | Apr 11 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69da72a45356a60f40fe135c?utm_campaign=1058&utm_source=git)** | Galloway, OH | On Site | Apr 11 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[IS Services & Support Intern (or Co-Op)](https://jobright.ai/jobs/info/69da72095356a60f40fe1260?utm_campaign=1058&utm_source=git)** | Reston, VA | On Site | Apr 11 |
 | **[American Battery Solutions Inc.](https://www.americanbatterysolutions.com/)** | **[IT Co-op](https://jobright.ai/jobs/info/69bd9ede4828227293ffd849?utm_campaign=1058&utm_source=git)** | Springboro, OH | On Site | Apr 11 |
