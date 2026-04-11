@@ -57,11 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Intern I &amp;#8211; High School](https://jobright.ai/jobs/info/69da566b738f2f099e8a8efa?utm_campaign=1058&utm_source=git)** | Fresno, CA | On Site | Apr 11 |
+| **[CooperSurgical](http://www.coopersurgical.com)** | **[Service & Repair, Fertility Intern](https://jobright.ai/jobs/info/69bdb8b8393a1008f7432bd1?utm_campaign=1058&utm_source=git)** | Livingston, NJ | On Site | Apr 11 |
+| **[Linamar Corporation](http://www.linamar.com/)** | **[IT Intern](https://jobright.ai/jobs/info/69d56b47e63cea7a8b661263?utm_campaign=1058&utm_source=git)** | Fruitport, MI | On Site | Apr 11 |
 | **[American Battery Solutions Inc.](https://www.americanbatterysolutions.com/)** | **[IT Co-op](https://jobright.ai/jobs/info/69bd9ede4828227293ffd849?utm_campaign=1058&utm_source=git)** | Springboro, OH | On Site | Apr 11 |
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Senior Technical Writer](https://jobright.ai/jobs/info/69bdd715393a1008f74396f6?utm_campaign=1058&utm_source=git)** | Ohio, United States | Remote | Apr 11 |
 | **[Quva](http://www.quvapharma.com/)** | **[Information Technology Intern (Applications)](https://jobright.ai/jobs/info/69bd7767393a1008f742d25f?utm_campaign=1058&utm_source=git)** | Sugar Land, TX | On Site | Apr 11 |
 | ↳ | **[Warehouse Technician Intern](https://jobright.ai/jobs/info/69bd7759393a1008f742d24a?utm_campaign=1058&utm_source=git)** | Phoenix, AZ | On Site | Apr 11 |
-| **[Beth Israel Lahey Health](https://www.bilh.org)** | **[Urology Navigator Intern](https://jobright.ai/jobs/info/69da40e5869c7e25d85a1415?utm_campaign=1058&utm_source=git)** | Burlington, MA | On Site | Apr 11 |
 | **[Valley Baptist Health System](https://www.valleybaptist.net)** | **[Student Intern Surgery Per Diem Days](https://jobright.ai/jobs/info/69851aba348f733a5c394779?utm_campaign=1058&utm_source=git)** | Brownsville, TX | On Site | Apr 11 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, VIP Nation Intern](https://jobright.ai/jobs/info/69bd6db8393a1008f742c2a1?utm_campaign=1058&utm_source=git)** | Beverly Hills, CA | Hybrid | Apr 11 |
 | **[ETS-Lindgren](http://www.ets-lindgren.com/)** | **[Technical Writer Intern](https://jobright.ai/jobs/info/69c0c9f12c312363dcd33d38?utm_campaign=1058&utm_source=git)** | Greater Chicago Area | On Site | Apr 11 |
@@ -142,7 +144,6 @@ For a complete list, click the following sortable link below:
 | **[Suburban Inns](http://suburbaninns.com)** | **[Facility Technician (Maintenance)](https://jobright.ai/jobs/info/69d967e2869c7e25d859ab35?utm_campaign=1058&utm_source=git)** | Midland, Michigan | On Site | Apr 10 |
 | **[Annie E. Casey Foundation](http://www.aecf.org/)** | **[Intern, Business Technology](https://jobright.ai/jobs/info/69d96601869c7e25d859ab06?utm_campaign=1058&utm_source=git)** | Baltimore, MD, US | Hybrid | Apr 10 |
 | **[Anne Arundel County Public Schools](https://www.aacps.org/)** | **[Internship: Student - Central Office](https://jobright.ai/jobs/info/69d960605356a60f40fd966e?utm_campaign=1058&utm_source=git)** | Annapolis, MD | On Site | Apr 10 |
-| **[Cogent Analytics](https://www.cogentanalytics.com/)** | **[IT Intern - Summer of 2026](https://jobright.ai/jobs/info/69d96020f748bc5d08a4b06a?utm_campaign=1058&utm_source=git)** | Greensboro, NC | On Site | Apr 10 |
 | **[Melissa Memorial Hospital](http://www.melissamemorial.org)** | **[Scanning Clerk-Internship](https://jobright.ai/jobs/info/69d95f82f748bc5d08a4af1f?utm_campaign=1058&utm_source=git)** | Melissa Memorial Hospital - HOLYOKE, CO 80734 | On Site | Apr 10 |
 | **[The University of Texas Medical Branch](http://www.utmb.edu/)** | **[Advanced Practice Provider, Internal Medicine - Palliative Care](https://jobright.ai/jobs/info/69d95f6d738f2f099e8a1860?utm_campaign=1058&utm_source=git)** | Galveston, TX | On Site | Apr 10 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Respiratory Therapy Intern](https://jobright.ai/jobs/info/69d95f04869c7e25d859a7fb?utm_campaign=1058&utm_source=git)** | Elk Grove Village, IL | On Site | Apr 10 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Aurora Health Care](http://aurorahealthcare.org)** | **[Inpatient Pharmacy Intern - Grafton](https://jobright.ai/jobs/info/69d95a3b9f97a42dc9c20f44?utm_campaign=1058&utm_source=git)** | Grafton, WI | On Site | Apr 10 |
 | **[CHRISTUS Health](http://www.christushealth.org)** | **[Pharmacist Intern - General Pharmacy](https://jobright.ai/jobs/info/69d959f4738f2f099e8a13ba?utm_campaign=1058&utm_source=git)** | Corpus Christi, TX | On Site | Apr 10 |
 | **[Stanley Martin Homes](http://stanleymartin.com)** | **[IT Intern](https://jobright.ai/jobs/info/69d959ef738f2f099e8a13ad?utm_campaign=1058&utm_source=git)** | Reston, VA | On Site | Apr 10 |
-| **[Advanced Energy](http://www.advancedenergy.com)** | **[IT Intern](https://jobright.ai/jobs/info/69caa6bbaa3c2c1995e2e9e9?utm_campaign=1058&utm_source=git)** | Denver, CO | Hybrid | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
