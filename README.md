@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SanMar](http://www.sanmar.com)** | **[IT Intern, Operations](https://jobright.ai/jobs/info/69bd3a77b10602456282256f?utm_campaign=1058&utm_source=git)** | Issaquah, WA | On Site | Apr 11 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Intern I - High School](https://jobright.ai/jobs/info/69da9345738f2f099e8a9f8f?utm_campaign=1058&utm_source=git)** | Oakland, CA | On Site | Apr 11 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Customer Engagement Advisory](https://jobright.ai/jobs/info/69be0ab0393a1008f743e1d0?utm_campaign=1058&utm_source=git)** | Newtown Square, PA | On Site | Apr 11 |
 | **[Packaging Corporation of America](http://packagingcorp.com)** | **[IT Intern Summer-Fall 2026 Counce Mill](https://jobright.ai/jobs/info/69a243e00da45516f16b8b20?utm_campaign=1058&utm_source=git)** | Counce, TN | On Site | Apr 11 |
@@ -72,7 +73,6 @@ For a complete list, click the following sortable link below:
 | **[Magna International](http://www.magna.com/)** | **[IT Intern - Summer 2026](https://jobright.ai/jobs/info/696ab548350cf4380311bba2?utm_campaign=1058&utm_source=git)** | Troy, MI | On Site | Apr 11 |
 | **[MercyOne](https://www.mercyone.org/)** | **[Intern Pharmacist](https://jobright.ai/jobs/info/69a0ea0281476f6176bb44a5?utm_campaign=1058&utm_source=git)** | Des Moines, IA | On Site | Apr 11 |
 | **[Nashville Music City Center](https://www.nashvillemusiccitycenter.com/)** | **[High School Intern/Slim& Husky's-Buchanan/Future Hospitality Professionals of Tennessee](https://jobright.ai/jobs/info/69da720a5356a60f40fe1263?utm_campaign=1058&utm_source=git)** | Nashville, TN, United States | On Site | Apr 11 |
-| **[Michigan Farm Bureau Family of Companies](https://www.michfb.com/)** | **[Underwriting Support Specialist - GLAIC](https://jobright.ai/jobs/info/69da8f66b67cec4f9b0a9c88?utm_campaign=1058&utm_source=git)** | Lansing, MI | On Site | Apr 11 |
 | **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse II CCU](https://jobright.ai/jobs/info/69da8f04869c7e25d85a29cb?utm_campaign=1058&utm_source=git)** | Columbus, MS | On Site | Apr 11 |
 | **[Lumos Fiber](https://www.lumosfiber.com)** | **[Customer Experience Intern](https://jobright.ai/jobs/info/69bdb0e7393a1008f7430efc?utm_campaign=1058&utm_source=git)** | High Point, NC | On Site | Apr 11 |
 | **[KW PROPERTY MANAGEMENT AND CONSULTING](https://kwpmc.com/)** | **[Corporate Intern](https://jobright.ai/jobs/info/69bdc56d393a1008f743534f?utm_campaign=1058&utm_source=git)** | Miami, FL | On Site | Apr 11 |
@@ -82,8 +82,8 @@ For a complete list, click the following sortable link below:
 | **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69da72f9738f2f099e8a965c?utm_campaign=1058&utm_source=git)** | Hendersonville, TN | On Site | Apr 11 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69da72e19f97a42dc9c291bf?utm_campaign=1058&utm_source=git)** | Nashville, TN | On Site | Apr 11 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69da7291b67cec4f9b0a979c?utm_campaign=1058&utm_source=git)** | Albuquerque, NM | On Site | Apr 11 |
-| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69da72e19f97a42dc9c291be?utm_campaign=1058&utm_source=git)** | Tyler, TX | On Site | Apr 11 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69da7301738f2f099e8a9680?utm_campaign=1058&utm_source=git)** | Tyler, TX | On Site | Apr 11 |
+| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69da72e19f97a42dc9c291be?utm_campaign=1058&utm_source=git)** | Tyler, TX | On Site | Apr 11 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69da72a45356a60f40fe135c?utm_campaign=1058&utm_source=git)** | Galloway, OH | On Site | Apr 11 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[IS Services & Support Intern (or Co-Op)](https://jobright.ai/jobs/info/69da72095356a60f40fe1260?utm_campaign=1058&utm_source=git)** | Reston, VA | On Site | Apr 11 |
 | **[American Battery Solutions Inc.](https://www.americanbatterysolutions.com/)** | **[IT Co-op](https://jobright.ai/jobs/info/69bd9ede4828227293ffd849?utm_campaign=1058&utm_source=git)** | Springboro, OH | On Site | Apr 11 |
