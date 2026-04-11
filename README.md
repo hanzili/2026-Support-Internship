@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Trimble Inc.](https://www.trimble.com/)** | **[Technical Writing Intern](https://jobright.ai/jobs/info/69da1536b67cec4f9b0a7d5d?utm_campaign=1058&utm_source=git)** | US - OR, Lake Oswego | On Site | Apr 11 |
 | **[Virginia Mason Franciscan Health](https://www.virginiamason.org)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69da0687738f2f099e8a77f8?utm_campaign=1058&utm_source=git)** | Seattle, WA | On Site | Apr 11 |
 | **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE - CRNA Internship](https://jobright.ai/jobs/info/69da03f49f97a42dc9c273eb?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Apr 11 |
 | **[Fred Meyer](https://www.fredmeyer.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69da03299f97a42dc9c27160?utm_campaign=1058&utm_source=git)** | Tualatin, OR | On Site | Apr 10 |
@@ -103,7 +104,7 @@ For a complete list, click the following sortable link below:
 | **[Sono Bello](http://sonobello.com)** | **[Intern- IT Helpdesk](https://jobright.ai/jobs/info/69d97c0a738f2f099e8a2258?utm_campaign=1058&utm_source=git)** | Bellevue, WA | Hybrid | Apr 10 |
 | ↳ | **[PAC Operations Intern](https://jobright.ai/jobs/info/69d97b4f5356a60f40fda017?utm_campaign=1058&utm_source=git)** | Bellevue, WA | Hybrid | Apr 10 |
 | **[Shiseido](http://www.shiseido.com/)** | **[Hajimari Intern, S&OP, Affiliate Customer Service](https://jobright.ai/jobs/info/69d97aea869c7e25d859b31c?utm_campaign=1058&utm_source=git)** | New York, United States | On Site | Apr 10 |
-| **[Recreation Manitoba](https://recreationmb.ca/)** | **[Client Service Associate](https://jobright.ai/jobs/info/69d979ff5356a60f40fd9fbb?utm_campaign=1058&utm_source=git)** | Oak Bluff, MB | On Site | Apr 10 |
+| **[Recreation Manitoba](https://recreationmb.ca/)** | **[Client Service Associate](https://jobright.ai/jobs/info/69d979ff5356a60f40fd9fb8?utm_campaign=1058&utm_source=git)** | Oak Bluff, MB | On Site | Apr 10 |
 | **[Salinas Valley Health](https://www.salinasvalleyhealth.com)** | **[Intern - Volunteer Services (On-site)](https://jobright.ai/jobs/info/69d97931738f2f099e8a1eec?utm_campaign=1058&utm_source=git)** | Salinas, CA | On Site | Apr 10 |
 | ↳ | **[Intern - Patient Experience (On-site)](https://jobright.ai/jobs/info/69d978fa869c7e25d859b239?utm_campaign=1058&utm_source=git)** | Salinas, CA | On Site | Apr 10 |
 | **[Open Door Group](http://www.opendoorgroup.org/)** | **[Client Service Administrator](https://jobright.ai/jobs/info/69d978c1869c7e25d859b1d2?utm_campaign=1058&utm_source=git)** | Vancouver, BC | On Site | Apr 10 |
@@ -143,8 +144,8 @@ For a complete list, click the following sortable link below:
 | **[CHRISTUS Health](http://www.christushealth.org)** | **[Pharmacist Intern - General Pharmacy](https://jobright.ai/jobs/info/69d959f4738f2f099e8a13ba?utm_campaign=1058&utm_source=git)** | Corpus Christi, TX | On Site | Apr 10 |
 | **[Stanley Martin Homes](http://stanleymartin.com)** | **[IT Intern](https://jobright.ai/jobs/info/69d959ef738f2f099e8a13ad?utm_campaign=1058&utm_source=git)** | Reston, VA | On Site | Apr 10 |
 | **[Advanced Energy](http://www.advancedenergy.com)** | **[IT Intern](https://jobright.ai/jobs/info/69caa6bbaa3c2c1995e2e9e9?utm_campaign=1058&utm_source=git)** | Denver, CO | Hybrid | Apr 10 |
-| **[Harmony United Psychiatric Care](https://hupcfl.com)** | **[Psychiatric Office Assistant Internship/Outpatient Clinic (Certification Program)/Hallandale Beach](https://jobright.ai/jobs/info/69d976fa738f2f099e8a1e03?utm_campaign=1058&utm_source=git)** | Hallandale Beach, FL | On Site | Apr 10 |
-| ↳ | **[Psychiatric Office Assistant Internship/Outpatient Clinic (Certification Program)/Oviedo](https://jobright.ai/jobs/info/69d9770b738f2f099e8a1e31?utm_campaign=1058&utm_source=git)** | Oviedo, FL | On Site | Apr 10 |
+| **[Harmony United Psychiatric Care](https://hupcfl.com)** | **[Psychiatric Office Assistant Internship/Outpatient Clinic (Certification Program)/Oviedo](https://jobright.ai/jobs/info/69d9770b738f2f099e8a1e31?utm_campaign=1058&utm_source=git)** | Oviedo, FL | On Site | Apr 10 |
+| ↳ | **[Psychiatric Office Assistant Internship/Outpatient Clinic (Certification Program)/Hallandale Beach](https://jobright.ai/jobs/info/69d976fa738f2f099e8a1e03?utm_campaign=1058&utm_source=git)** | Hallandale Beach, FL | On Site | Apr 10 |
 | **[Carle Health](http://www.carle.org)** | **[Student Nurse Intern - BMC](https://jobright.ai/jobs/info/69d952dd9f97a42dc9c20b6c?utm_campaign=1058&utm_source=git)** | Normal, IL | On Site | Apr 10 |
 | **[Quadbridge Inc.](http://quadbridge.com/en/home/)** | **[Warehouse technician](https://jobright.ai/jobs/info/69bdd0ccb1060245628311c0?utm_campaign=1058&utm_source=git)** | Montreal, QC | On Site | Apr 10 |
 | **[Colorado College](http://www.coloradocollege.edu/)** | **[Database Records Specialist](https://jobright.ai/jobs/info/69d94a1ef748bc5d08a4a617?utm_campaign=1058&utm_source=git)** | Colorado Springs, CO | On Site | Apr 10 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Children's Rescue Fund](https://childrensrescuefund.org)** | **[IT Help Desk Support Intern](https://jobright.ai/jobs/info/69cf0b53cdb525785fb9e29c?utm_campaign=1058&utm_source=git)** | Bronx, NY | On Site | Apr 10 |
 | **[Banner Health](https://www.bannerhealth.com)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/69d94004b67cec4f9b0a0c30?utm_campaign=1058&utm_source=git)** | Tucson, AZ | On Site | Apr 10 |
 | **[The Christ Hospital Health Network](https://www.thechristhospital.com/)** | **[Pharmacy Intern I](https://jobright.ai/jobs/info/69d93fd4738f2f099e8a09cd?utm_campaign=1058&utm_source=git)** | Cincinnati, OH | On Site | Apr 10 |
-| **[Hendrickson](http://www.hendrickson-intl.com/Home.aspx)** | **[IT Applications Intern (Fall 2026)](https://jobright.ai/jobs/info/69d1ee04891d7b11cfce791a?utm_campaign=1058&utm_source=git)** | Canton, OH | On Site | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
