@@ -58,7 +58,6 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Calcasieu Parish Police Jury](http://www.calcasieu.gov)** | **[PROFESSIONAL INTERN - PART-TIME](https://jobright.ai/jobs/info/69da7622869c7e25d85a287f?utm_campaign=1058&utm_source=git)** | Lake Charles, LA | On Site | Apr 11 |
-| **[City of Mount Vernon](https://cmvny.com/)** | **[Library Intern - Teen](https://jobright.ai/jobs/info/69da72f7869c7e25d85a281b?utm_campaign=1058&utm_source=git)** | Mount Vernon, WA | On Site | Apr 11 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE - CRNA Internship](https://jobright.ai/jobs/info/69da72ef738f2f099e8a960c?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Apr 11 |
 | **[MHG Hotels](http://www.MHGHotelsLLC.com)** | **[Phase 2 Intern - Operations](https://jobright.ai/jobs/info/69da72da9f97a42dc9c291a1?utm_campaign=1058&utm_source=git)** | Speedway, IN | On Site | Apr 11 |
 | ↳ | **[Phase 1 Intern](https://jobright.ai/jobs/info/69da72bc9f97a42dc9c29142?utm_campaign=1058&utm_source=git)** | Speedway, IN | On Site | Apr 11 |
@@ -76,8 +75,8 @@ For a complete list, click the following sortable link below:
 | **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69da72f9738f2f099e8a965c?utm_campaign=1058&utm_source=git)** | Hendersonville, TN | On Site | Apr 11 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69da72e19f97a42dc9c291bf?utm_campaign=1058&utm_source=git)** | Nashville, TN | On Site | Apr 11 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69da7291b67cec4f9b0a979c?utm_campaign=1058&utm_source=git)** | Albuquerque, NM | On Site | Apr 11 |
-| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69da7301738f2f099e8a9680?utm_campaign=1058&utm_source=git)** | Tyler, TX | On Site | Apr 11 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69da72e19f97a42dc9c291be?utm_campaign=1058&utm_source=git)** | Tyler, TX | On Site | Apr 11 |
+| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69da7301738f2f099e8a9680?utm_campaign=1058&utm_source=git)** | Tyler, TX | On Site | Apr 11 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69da72a45356a60f40fe135c?utm_campaign=1058&utm_source=git)** | Galloway, OH | On Site | Apr 11 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[IS Services & Support Intern (or Co-Op)](https://jobright.ai/jobs/info/69da72095356a60f40fe1260?utm_campaign=1058&utm_source=git)** | Reston, VA | On Site | Apr 11 |
 | **[American Battery Solutions Inc.](https://www.americanbatterysolutions.com/)** | **[IT Co-op](https://jobright.ai/jobs/info/69bd9ede4828227293ffd849?utm_campaign=1058&utm_source=git)** | Springboro, OH | On Site | Apr 11 |
@@ -121,7 +120,6 @@ For a complete list, click the following sortable link below:
 | **[Standish Management, LLC](http://standishmanagement.com/)** | **[IT Internship - Summer 2026](https://jobright.ai/jobs/info/69d9b26df748bc5d08a4d610?utm_campaign=1058&utm_source=git)** | Woodland Hills, California, United States | On Site | Apr 10 |
 | **[Redwood Credit Union](http://www.redwoodcu.org)** | **[Member Service Center Representative (Call Center)](https://jobright.ai/jobs/info/69d9b095f748bc5d08a4d5ab?utm_campaign=1058&utm_source=git)** | Napa, CA | On Site | Apr 10 |
 | **[Valley Medical Center](http://www.valleymed.org)** | **[Hospitalist (Admitter) - Internal Medicine (2026-0371)](https://jobright.ai/jobs/info/69d9b044869c7e25d859ced6?utm_campaign=1058&utm_source=git)** | Renton, WA | On Site | Apr 10 |
-| **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Help Your Students Connect: Host an International Exchange Student!](https://jobright.ai/jobs/info/69d9b02ff748bc5d08a4d52b?utm_campaign=1058&utm_source=git)** | Cranford, NJ | On Site | Apr 10 |
 | **[U.S. Bank](http://www.usbank.com)** | **[Account Processor](https://jobright.ai/jobs/info/69d9ae03869c7e25d859cc1f?utm_campaign=1058&utm_source=git)** | Earth City, MO | Hybrid | Apr 10 |
 | **[Hilti North America](http://www.hilti.com)** | **[Information Technology Intern - Tulsa, OK - Summer 2026](https://jobright.ai/jobs/info/69d9adde869c7e25d859cbc6?utm_campaign=1058&utm_source=git)** | Tulsa, OK | On Site | Apr 10 |
 | **[McLaren Health Care](http://www.mclaren.org)** | **[Respiratory Intern](https://jobright.ai/jobs/info/69c66e8fb773006330b707a2?utm_campaign=1058&utm_source=git)** | Lansing, MI | On Site | Apr 10 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Harmony United Psychiatric Care](https://hupcfl.com)** | **[Psychiatric Office Assistant Internship/Outpatient Clinic (Certification Program)/Altamonte Springs](https://jobright.ai/jobs/info/69d969619f97a42dc9c216c6?utm_campaign=1058&utm_source=git)** | Altamonte Springs, FL | On Site | Apr 10 |
 | ↳ | **[Psychiatric Office Assistant Internship/Outpatient Clinic (Certification Program)/Fort Lauderdale](https://jobright.ai/jobs/info/69d96947f748bc5d08a4b367?utm_campaign=1058&utm_source=git)** | Fort Lauderdale, FL | On Site | Apr 10 |
 | ↳ | **[Psychiatric Office Assistant Internship/Outpatient Clinic (Certification Program)/West Palm Beach](https://jobright.ai/jobs/info/69d9693e9f97a42dc9c21655?utm_campaign=1058&utm_source=git)** | West Palm Beach, FL | On Site | Apr 10 |
+| ↳ | **[Psychiatric Office Assistant Internship/Outpatient Clinic (Certification Program)/Lutz](https://jobright.ai/jobs/info/69d9691eb67cec4f9b0a1ecc?utm_campaign=1058&utm_source=git)** | Lutz, FL | On Site | Apr 10 |
+| ↳ | **[Psychiatric Office Assistant Internship/Outpatient Clinic (Certification Program)/Jacksonville](https://jobright.ai/jobs/info/69d9691ab67cec4f9b0a1ead?utm_campaign=1058&utm_source=git)** | Jacksonville, FL | On Site | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
