@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[I-CAR](https://www.i-car.com)** | **[Part-Time IT Support Intern](https://jobright.ai/jobs/info/69dbace8869c7e25d85a82e8?utm_campaign=1058&utm_source=git)** | Hoffman Estates, IL | Hybrid | Apr 12 |
+| **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/69dbace1869c7e25d85a82d0?utm_campaign=1058&utm_source=git)** | Lombard, IL | On Site | Apr 12 |
+| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69dbace1869c7e25d85a82d1?utm_campaign=1058&utm_source=git)** | Benson, NC | On Site | Apr 12 |
+| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69dbacd79f97a42dc9c2f10c?utm_campaign=1058&utm_source=git)** | Uvalde, TX | On Site | Apr 12 |
+| **[Mohawk Valley Health System](https://www.mvhealthsystem.org)** | **[Imaging Intern - Variable Shifts -Occasional](https://jobright.ai/jobs/info/69becccb393a1008f744a7e6?utm_campaign=1058&utm_source=git)** | Utica, NY | On Site | Apr 12 |
+| **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[Help Desk Intern](https://jobright.ai/jobs/info/6959ef9ff1f8465b79f05970?utm_campaign=1058&utm_source=git)** | Dayton, OH | On Site | Apr 12 |
+| **[apexanalytix](https://www.apexanalytix.com)** | **[Support/Implementation Specialist Intern (Summer 2026)](https://jobright.ai/jobs/info/68c027e1702aa35207aaaf88?utm_campaign=1058&utm_source=git)** | Greensboro, NC | On Site | Apr 12 |
 | **[Lasko Products](https://www.lasko.com/)** | **[IT Summer Internship](https://jobright.ai/jobs/info/698621218da7a6120460cb8c?utm_campaign=1058&utm_source=git)** | West Chester, PA | Hybrid | Apr 12 |
 | **[Saint Luke's](https://www.saintlukeskc.org)** | **[Pharmacy Intern Year 1](https://jobright.ai/jobs/info/69bfdc6079e36d3a847c7539?utm_campaign=1058&utm_source=git)** | Lees Summit, MO | On Site | Apr 12 |
 | **[Baptist Health](http://careers.baptisthealth.net)** | **[Pharmacy Intern 2, Ambulatory Pharmacy Services, Per Diem, Varies](https://jobright.ai/jobs/info/68dd15bf44d32141e0bf3e3f?utm_campaign=1058&utm_source=git)** | Miami Lakes, FL | On Site | Apr 12 |
@@ -64,8 +71,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Computer Science](https://jobright.ai/jobs/info/69db8d87b67cec4f9b0af27d?utm_campaign=1058&utm_source=git)** | Parma, OH | On Site | Apr 12 |
 | ↳ | **[Fall Intern, Customer Service/Office Administration](https://jobright.ai/jobs/info/69db8d86b67cec4f9b0af277?utm_campaign=1058&utm_source=git)** | Parma, OH | On Site | Apr 12 |
 | **[NYU Langone Health](https://nyulangone.org/)** | **[Student Intern](https://jobright.ai/jobs/info/6986218e8da7a6120460cc54?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Apr 12 |
-| **[Cuyahoga Community College](http://www.tri-c.edu)** | **[Summer Intern](https://jobright.ai/jobs/info/69db8099869c7e25d85a7ff6?utm_campaign=1058&utm_source=git)** | Cleveland, OH | On Site | Apr 12 |
-| ↳ | **[Fall Intern, ITS (East)](https://jobright.ai/jobs/info/69db8099869c7e25d85a7ff3?utm_campaign=1058&utm_source=git)** | Highland Hills, OH | On Site | Apr 12 |
+| **[Cuyahoga Community College](http://www.tri-c.edu)** | **[Fall Intern, ITS (East)](https://jobright.ai/jobs/info/69db8099869c7e25d85a7ff3?utm_campaign=1058&utm_source=git)** | Highland Hills, OH | On Site | Apr 12 |
+| ↳ | **[Summer Intern](https://jobright.ai/jobs/info/69db8099869c7e25d85a7ff6?utm_campaign=1058&utm_source=git)** | Cleveland, OH | On Site | Apr 12 |
 | **[Hilmar](https://www.hilmarcheese.com)** | **[Intern - IT](https://jobright.ai/jobs/info/69337b2da0dde7020e2ee6d5?utm_campaign=1058&utm_source=git)** | Hilmar, CA | On Site | Apr 12 |
 | **[Holiday Inn Club Vacations](http://jobs.holidayinnclub.com/)** | **[Resort Experience Associate Intern- Lee, MA](https://jobright.ai/jobs/info/69a2a468359fe034b1cdf81f?utm_campaign=1058&utm_source=git)** | South Lee, MA | On Site | Apr 12 |
 | **[Saint Xavier University](http://www.sxu.edu/)** | **[IT Repair Agent - Student Employment](https://jobright.ai/jobs/info/69db64a1b67cec4f9b0af023?utm_campaign=1058&utm_source=git)** | Chicago, IL | Hybrid | Apr 12 |
@@ -98,7 +105,6 @@ For a complete list, click the following sortable link below:
 | **[MercyOne](https://www.mercyone.org/)** | **[Intern Pharmacist](https://jobright.ai/jobs/info/69a0ea0281476f6176bb44a5?utm_campaign=1058&utm_source=git)** | Des Moines, IA | On Site | Apr 11 |
 | **[Nashville Music City Center](https://www.nashvillemusiccitycenter.com/)** | **[High School Intern/Slim& Husky's-Buchanan/Future Hospitality Professionals of Tennessee](https://jobright.ai/jobs/info/69da720a5356a60f40fe1263?utm_campaign=1058&utm_source=git)** | Nashville, TN, United States | On Site | Apr 11 |
 | **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse II CCU](https://jobright.ai/jobs/info/69da8f04869c7e25d85a29cb?utm_campaign=1058&utm_source=git)** | Columbus, MS | On Site | Apr 11 |
-| **[Michigan Farm Bureau Family of Companies](https://www.michfb.com/)** | **[Underwriting Support Specialist - GLAIC](https://jobright.ai/jobs/info/69db9d88b67cec4f9b0af3a0?utm_campaign=1058&utm_source=git)** | Lansing, MI | On Site | Apr 11 |
 | **[Lumos Fiber](https://www.lumosfiber.com)** | **[Customer Experience Intern](https://jobright.ai/jobs/info/69bdb0e7393a1008f7430efc?utm_campaign=1058&utm_source=git)** | High Point, NC | On Site | Apr 11 |
 | **[KW PROPERTY MANAGEMENT AND CONSULTING](https://kwpmc.com/)** | **[Corporate Intern](https://jobright.ai/jobs/info/69bdc56d393a1008f743534f?utm_campaign=1058&utm_source=git)** | Miami, FL | On Site | Apr 11 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad - Sign-On Bonus Available](https://jobright.ai/jobs/info/69db64849f97a42dc9c2ec05?utm_campaign=1058&utm_source=git)** | Maysville, KY | On Site | Apr 11 |
@@ -121,6 +127,7 @@ For a complete list, click the following sortable link below:
 | **[Quva](http://www.quvapharma.com/)** | **[Information Technology Intern (Applications)](https://jobright.ai/jobs/info/69bd7767393a1008f742d25f?utm_campaign=1058&utm_source=git)** | Sugar Land, TX | On Site | Apr 11 |
 | ↳ | **[Warehouse Technician Intern](https://jobright.ai/jobs/info/69bd7759393a1008f742d24a?utm_campaign=1058&utm_source=git)** | Phoenix, AZ | On Site | Apr 11 |
 | **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Intern I &amp;#8211; High School](https://jobright.ai/jobs/info/69db9dc3738f2f099e8af2a2?utm_campaign=1058&utm_source=git)** | Fresno, CA | On Site | Apr 11 |
+| **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[RN-Intern I (Nursery)](https://jobright.ai/jobs/info/69bd2c47b106024562821967?utm_campaign=1058&utm_source=git)** | Columbus, MS | On Site | Apr 11 |
 | **[Valley Baptist Health System](https://www.valleybaptist.net)** | **[Student Intern Surgery Per Diem Days](https://jobright.ai/jobs/info/69851aba348f733a5c394779?utm_campaign=1058&utm_source=git)** | Brownsville, TX | On Site | Apr 11 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, VIP Nation Intern](https://jobright.ai/jobs/info/69bd6db8393a1008f742c2a1?utm_campaign=1058&utm_source=git)** | Beverly Hills, CA | Hybrid | Apr 11 |
 | **[Children's National Hospital](https://www.childrensnational.org/)** | **[Pharmacy Intern (PRN / As Needed)](https://jobright.ai/jobs/info/69bea020b106024562841599?utm_campaign=1058&utm_source=git)** | Washington, DC | On Site | Apr 11 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Psychiatric Office Assistant Internship/Outpatient Clinic (Certification Program)/Gainesville](https://jobright.ai/jobs/info/69d9cae8f748bc5d08a4e183?utm_campaign=1058&utm_source=git)** | Gainesville, FL | On Site | Apr 10 |
 | ↳ | **[Psychiatric Office Assistant Internship/Outpatient Clinic (Certification Program)/Port Saint John](https://jobright.ai/jobs/info/69d9cad45356a60f40fdc72c?utm_campaign=1058&utm_source=git)** | Port Saint John, FL | On Site | Apr 10 |
 | ↳ | **[Psychiatric Office Assistant Internship/Outpatient Clinic (Certification Program)/Tampa](https://jobright.ai/jobs/info/69d9caca5356a60f40fdc704?utm_campaign=1058&utm_source=git)** | Tampa, FL | On Site | Apr 10 |
-| ↳ | **[Psychiatric Office Assistant Internship/Outpatient Clinic (Certification Program)/Sarasota](https://jobright.ai/jobs/info/69d9cac95356a60f40fdc703?utm_campaign=1058&utm_source=git)** | Sarasota, FL | On Site | Apr 10 |
-| ↳ | **[Psychiatric Office Assistant Internship/Outpatient Clinic (Certification Program)/Winter Garden](https://jobright.ai/jobs/info/69d9c09df748bc5d08a4dd32?utm_campaign=1058&utm_source=git)** | Winter Garden, FL | On Site | Apr 10 |
-| ↳ | **[Psychiatric Office Assistant Internship/Outpatient Clinic (Certification Program)/Ocala](https://jobright.ai/jobs/info/69d9c0725356a60f40fdc2ae?utm_campaign=1058&utm_source=git)** | Ocala, FL | On Site | Apr 10 |
-| **[Metra Commuter Rail](https://www.metra.com)** | **[Intern-Tech Support Associate](https://jobright.ai/jobs/info/69d9c05d738f2f099e8a4423?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Apr 10 |
-| **[Harmony United Psychiatric Care](https://hupcfl.com)** | **[Psychiatric Office Assistant Internship/Outpatient Clinic (Certification Program)/Coral Gables](https://jobright.ai/jobs/info/69d9c012869c7e25d859d644?utm_campaign=1058&utm_source=git)** | Coral Gables, FL | On Site | Apr 10 |
-| ↳ | **[Psychiatric Office Assistant Internship/Outpatient Clinic (Certification Program)/Melbourne](https://jobright.ai/jobs/info/69d9b9fab67cec4f9b0a42f3?utm_campaign=1058&utm_source=git)** | Melbourne, FL | On Site | Apr 10 |
-| **[Standish Management, LLC](http://standishmanagement.com/)** | **[IT Internship - Summer 2026](https://jobright.ai/jobs/info/69d9b26df748bc5d08a4d610?utm_campaign=1058&utm_source=git)** | Woodland Hills, California, United States | On Site | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
