@@ -57,6 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Washington Commanders](http://www.commanders.com/)** | **[Intern, IT](https://jobright.ai/jobs/info/69dbfef99f97a42dc9c2fac0?utm_campaign=1058&utm_source=git)** | Riverdale, MD | On Site | Apr 12 |
+| **[Resurgent Capital Services](http://resurgent.com)** | **[Bilingual Specialist I, Inbound Customer Service](https://jobright.ai/jobs/info/69dbfd55869c7e25d85a8c51?utm_campaign=1058&utm_source=git)** | Greenville, SC | On Site | Apr 12 |
+| **[State of Vermont](http://vermont.gov/portal/)** | **[Judiciary Intern](https://jobright.ai/jobs/info/69dbfd11738f2f099e8afc8c?utm_campaign=1058&utm_source=git)** | Montpelier, VT | On Site | Apr 12 |
+| **[Netrolynx AI](https://www.netrolynx.ai)** | **[Customer Service Intern](https://jobright.ai/jobs/info/69dbfce75356a60f40fe77a4?utm_campaign=1058&utm_source=git)** | United States | On Site | Apr 12 |
+| **[Texas Department of Transportation](https://www.txdot.gov)** | **[Intern Support Technician - Maintenance Division](https://jobright.ai/jobs/info/69dbfcdcf748bc5d08a59492?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | Apr 12 |
+| **[Bang Zoom! Studios](http://bangzoomentertainment.com)** | **[Support Intern (Summer 2026)](https://jobright.ai/jobs/info/69dbfcd1f748bc5d08a59473?utm_campaign=1058&utm_source=git)** | Burbank, CA | Hybrid | Apr 12 |
+| **[State of Vermont](http://vermont.gov/portal/)** | **[Judiciary Intern](https://jobright.ai/jobs/info/69dbfcbb5356a60f40fe773f?utm_campaign=1058&utm_source=git)** | Burlington, VT | On Site | Apr 12 |
+| **[MANITOU Group](http://www.manitou-group.com)** | **[Technical Writing Intern](https://jobright.ai/jobs/info/69dbfcab9f97a42dc9c2f9ef?utm_campaign=1058&utm_source=git)** | West Bend, WI | On Site | Apr 12 |
+| **[Resurgent Capital Services](http://resurgent.com)** | **[Specialist I, Inbound Customer Service](https://jobright.ai/jobs/info/69dbfc3a869c7e25d85a8c13?utm_campaign=1058&utm_source=git)** | Greenville, SC | On Site | Apr 12 |
+| **[MANITOU Group](http://www.manitou-group.com)** | **[Technical Writing Intern](https://jobright.ai/jobs/info/69dbfc11869c7e25d85a8bb4?utm_campaign=1058&utm_source=git)** | West Bend, WI | On Site | Apr 12 |
+| ↳ | **[Technical Writer Intern](https://jobright.ai/jobs/info/69dbfbf3b67cec4f9b0afdd2?utm_campaign=1058&utm_source=git)** | West Bend, WI | On Site | Apr 12 |
 | **[WorldTech IT, LLC](https://worldtechit.com/)** | **[Spring Intern - Technical Writer](https://jobright.ai/jobs/info/69dbe161f748bc5d08a58e10?utm_campaign=1058&utm_source=git)** | United States | Remote | Apr 12 |
 | **[Utah Valley University](http://www.uvu.edu/)** | **[Assistant - Database and Customer Service](https://jobright.ai/jobs/info/69dbe0089f97a42dc9c2f367?utm_campaign=1058&utm_source=git)** | Orem, UT | On Site | Apr 12 |
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Access Your Future Service Intern](https://jobright.ai/jobs/info/68198b4060a1e1b3dc6d01d9?utm_campaign=1058&utm_source=git)** | Hawley, MN | On Site | Apr 12 |
@@ -84,8 +95,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Computer Science](https://jobright.ai/jobs/info/69db8d87b67cec4f9b0af27d?utm_campaign=1058&utm_source=git)** | Parma, OH | On Site | Apr 12 |
 | ↳ | **[Fall Intern, Customer Service/Office Administration](https://jobright.ai/jobs/info/69db8d86b67cec4f9b0af277?utm_campaign=1058&utm_source=git)** | Parma, OH | On Site | Apr 12 |
 | **[NYU Langone Health](https://nyulangone.org/)** | **[Student Intern](https://jobright.ai/jobs/info/6986218e8da7a6120460cc54?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Apr 12 |
-| **[Cuyahoga Community College](http://www.tri-c.edu)** | **[Summer Intern](https://jobright.ai/jobs/info/69db8099869c7e25d85a7ff6?utm_campaign=1058&utm_source=git)** | Cleveland, OH | On Site | Apr 12 |
-| ↳ | **[Fall Intern, ITS (East)](https://jobright.ai/jobs/info/69db8099869c7e25d85a7ff3?utm_campaign=1058&utm_source=git)** | Highland Hills, OH | On Site | Apr 12 |
+| **[Cuyahoga Community College](http://www.tri-c.edu)** | **[Fall Intern, ITS (East)](https://jobright.ai/jobs/info/69db8099869c7e25d85a7ff3?utm_campaign=1058&utm_source=git)** | Highland Hills, OH | On Site | Apr 12 |
+| ↳ | **[Summer Intern](https://jobright.ai/jobs/info/69db8099869c7e25d85a7ff6?utm_campaign=1058&utm_source=git)** | Cleveland, OH | On Site | Apr 12 |
 | **[Hilmar](https://www.hilmarcheese.com)** | **[Intern - IT](https://jobright.ai/jobs/info/69337b2da0dde7020e2ee6d5?utm_campaign=1058&utm_source=git)** | Hilmar, CA | On Site | Apr 12 |
 | **[Holiday Inn Club Vacations](http://jobs.holidayinnclub.com/)** | **[Resort Experience Associate Intern- Lee, MA](https://jobright.ai/jobs/info/69a2a468359fe034b1cdf81f?utm_campaign=1058&utm_source=git)** | South Lee, MA | On Site | Apr 12 |
 | **[Saint Xavier University](http://www.sxu.edu/)** | **[IT Repair Agent - Student Employment](https://jobright.ai/jobs/info/69db64a1b67cec4f9b0af023?utm_campaign=1058&utm_source=git)** | Chicago, IL | Hybrid | Apr 12 |
@@ -122,8 +133,8 @@ For a complete list, click the following sortable link below:
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad - Sign-On Bonus Available](https://jobright.ai/jobs/info/69db64849f97a42dc9c2ec05?utm_campaign=1058&utm_source=git)** | Maysville, KY | On Site | Apr 11 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69db6484738f2f099e8aeea4?utm_campaign=1058&utm_source=git)** | Elk Grove Village, IL | On Site | Apr 11 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69db64849f97a42dc9c2ec04?utm_campaign=1058&utm_source=git)** | Northbrook, IL | On Site | Apr 11 |
-| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69db6486869c7e25d85a7dae?utm_campaign=1058&utm_source=git)** | Elk Grove Village, IL | On Site | Apr 11 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69db6484738f2f099e8aeea2?utm_campaign=1058&utm_source=git)** | Deerfield, IL | On Site | Apr 11 |
+| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69db6486869c7e25d85a7dae?utm_campaign=1058&utm_source=git)** | Elk Grove Village, IL | On Site | Apr 11 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69db6485738f2f099e8aeeac?utm_campaign=1058&utm_source=git)** | Mantua, NJ | On Site | Apr 11 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69db6499738f2f099e8aeed5?utm_campaign=1058&utm_source=git)** | Kings Mountain, NC | On Site | Apr 11 |
 | **[CooperSurgical](http://www.coopersurgical.com)** | **[Service & Repair, Fertility Intern](https://jobright.ai/jobs/info/69bdb8b8393a1008f7432bd1?utm_campaign=1058&utm_source=git)** | Livingston, NJ | On Site | Apr 11 |
@@ -146,15 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ETS-Lindgren](http://www.ets-lindgren.com/)** | **[Technical Writer Intern](https://jobright.ai/jobs/info/69c0c9f12c312363dcd33d38?utm_campaign=1058&utm_source=git)** | Greater Chicago Area | On Site | Apr 11 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[Associate Customer Service Representative - Credit Cards](https://jobright.ai/jobs/info/69da1e8cb67cec4f9b0a7f71?utm_campaign=1058&utm_source=git)** | San Antonio, TX | On Site | Apr 11 |
 | **[Trimble Inc.](https://www.trimble.com/)** | **[Technical Writing Intern](https://jobright.ai/jobs/info/69da1e4d5356a60f40fdfb86?utm_campaign=1058&utm_source=git)** | Lake Oswego, OR | On Site | Apr 11 |
-| **[MRIGlobal](http://www.mriglobal.org)** | **[Intern Technical Support](https://jobright.ai/jobs/info/69bdf846482822729300ac63?utm_campaign=1058&utm_source=git)** | Kansas City, MO | On Site | Apr 11 |
-| **[Kohler Hospitality](https://www.kohlerwisconsin.com/)** | **[Spa J-1 Intern, Kohler Waters Spa](https://jobright.ai/jobs/info/69d74d66706f771673bb2537?utm_campaign=1058&utm_source=git)** | Kohler, WI | On Site | Apr 11 |
-| **[Trimble Inc.](https://www.trimble.com/)** | **[Technical Writing Intern](https://jobright.ai/jobs/info/69da1536b67cec4f9b0a7d5d?utm_campaign=1058&utm_source=git)** | US - OR, Lake Oswego | On Site | Apr 11 |
-| **[Virginia Mason Franciscan Health](https://www.virginiamason.org)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69da0687738f2f099e8a77f8?utm_campaign=1058&utm_source=git)** | Seattle, WA | On Site | Apr 11 |
-| **[The State University of New York](http://www.suny.edu/)** | **[IT/AV Services Support Analyst](https://jobright.ai/jobs/info/69da1e1a869c7e25d85a0e3e?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Apr 11 |
-| **[Fred Meyer](https://www.fredmeyer.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69da03299f97a42dc9c27160?utm_campaign=1058&utm_source=git)** | Tualatin, OR | On Site | Apr 10 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69d9e3229f97a42dc9c25296?utm_campaign=1058&utm_source=git)** | Alpharetta, GA | On Site | Apr 10 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69d9e314869c7e25d859e92b?utm_campaign=1058&utm_source=git)** | Monroe, GA | On Site | Apr 10 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69d9e314869c7e25d859e92d?utm_campaign=1058&utm_source=git)** | Snellville, GA | On Site | Apr 10 |
-| **[Standish Management, LLC](http://standishmanagement.com/)** | **[IT Internship - Summer 2026](https://jobright.ai/jobs/info/69d9e2e15356a60f40fdd442?utm_campaign=1058&utm_source=git)** | Los Angeles, California, United States | On Site | Apr 10 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69d9d5e1f748bc5d08a4e8c2?utm_campaign=1058&utm_source=git)** | Ellijay, GA | On Site | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
