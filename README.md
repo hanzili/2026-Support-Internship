@@ -57,14 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69dbc60eb67cec4f9b0af5d8?utm_campaign=1058&utm_source=git)** | Lombard, IL | On Site | Apr 12 |
+| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE - CRNA Internship](https://jobright.ai/jobs/info/69dbc435869c7e25d85a83b8?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Apr 12 |
 | **[I-CAR](https://www.i-car.com)** | **[Part-Time IT Infrastructure Support Intern](https://jobright.ai/jobs/info/69dbbcc5f748bc5d08a58bb6?utm_campaign=1058&utm_source=git)** | Hoffman Estates, IL | Hybrid | Apr 12 |
 | ↳ | **[Part-Time IT Support Intern](https://jobright.ai/jobs/info/69dbace8869c7e25d85a82e8?utm_campaign=1058&utm_source=git)** | Hoffman Estates, IL | Hybrid | Apr 12 |
-| **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69dbace1869c7e25d85a82d1?utm_campaign=1058&utm_source=git)** | Benson, NC | On Site | Apr 12 |
-| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69dbace1869c7e25d85a82d0?utm_campaign=1058&utm_source=git)** | Lombard, IL | On Site | Apr 12 |
+| **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/69dbace1869c7e25d85a82d0?utm_campaign=1058&utm_source=git)** | Lombard, IL | On Site | Apr 12 |
+| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69dbace1869c7e25d85a82d1?utm_campaign=1058&utm_source=git)** | Benson, NC | On Site | Apr 12 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69dbacd79f97a42dc9c2f10c?utm_campaign=1058&utm_source=git)** | Uvalde, TX | On Site | Apr 12 |
 | **[Mohawk Valley Health System](https://www.mvhealthsystem.org)** | **[Imaging Intern - Variable Shifts -Occasional](https://jobright.ai/jobs/info/69becccb393a1008f744a7e6?utm_campaign=1058&utm_source=git)** | Utica, NY | On Site | Apr 12 |
 | **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[Help Desk Intern](https://jobright.ai/jobs/info/6959ef9ff1f8465b79f05970?utm_campaign=1058&utm_source=git)** | Dayton, OH | On Site | Apr 12 |
 | **[apexanalytix](https://www.apexanalytix.com)** | **[Support/Implementation Specialist Intern (Summer 2026)](https://jobright.ai/jobs/info/68c027e1702aa35207aaaf88?utm_campaign=1058&utm_source=git)** | Greensboro, NC | On Site | Apr 12 |
+| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69dbc5d35356a60f40fe6f50?utm_campaign=1058&utm_source=git)** | Eagle Pass, TX | On Site | Apr 12 |
+| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69dbc608b67cec4f9b0af5ad?utm_campaign=1058&utm_source=git)** | Fredericksburg, TX | On Site | Apr 12 |
+| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69dbc5d35356a60f40fe6f51?utm_campaign=1058&utm_source=git)** | Kerrville, TX | On Site | Apr 12 |
 | **[Lasko Products](https://www.lasko.com/)** | **[IT Summer Internship](https://jobright.ai/jobs/info/698621218da7a6120460cb8c?utm_campaign=1058&utm_source=git)** | West Chester, PA | Hybrid | Apr 12 |
 | **[Saint Luke's](https://www.saintlukeskc.org)** | **[Pharmacy Intern Year 1](https://jobright.ai/jobs/info/69bfdc6079e36d3a847c7539?utm_campaign=1058&utm_source=git)** | Lees Summit, MO | On Site | Apr 12 |
 | **[Baptist Health](http://careers.baptisthealth.net)** | **[Pharmacy Intern 2, Ambulatory Pharmacy Services, Per Diem, Varies](https://jobright.ai/jobs/info/68dd15bf44d32141e0bf3e3f?utm_campaign=1058&utm_source=git)** | Miami Lakes, FL | On Site | Apr 12 |
@@ -111,8 +116,8 @@ For a complete list, click the following sortable link below:
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad - Sign-On Bonus Available](https://jobright.ai/jobs/info/69db64849f97a42dc9c2ec05?utm_campaign=1058&utm_source=git)** | Maysville, KY | On Site | Apr 11 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69db6484738f2f099e8aeea4?utm_campaign=1058&utm_source=git)** | Elk Grove Village, IL | On Site | Apr 11 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69db64849f97a42dc9c2ec04?utm_campaign=1058&utm_source=git)** | Northbrook, IL | On Site | Apr 11 |
-| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69db6486869c7e25d85a7dae?utm_campaign=1058&utm_source=git)** | Elk Grove Village, IL | On Site | Apr 11 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69db6484738f2f099e8aeea2?utm_campaign=1058&utm_source=git)** | Deerfield, IL | On Site | Apr 11 |
+| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69db6486869c7e25d85a7dae?utm_campaign=1058&utm_source=git)** | Elk Grove Village, IL | On Site | Apr 11 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69db6485738f2f099e8aeeac?utm_campaign=1058&utm_source=git)** | Mantua, NJ | On Site | Apr 11 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69db6499738f2f099e8aeed5?utm_campaign=1058&utm_source=git)** | Kings Mountain, NC | On Site | Apr 11 |
 | **[CooperSurgical](http://www.coopersurgical.com)** | **[Service & Repair, Fertility Intern](https://jobright.ai/jobs/info/69bdb8b8393a1008f7432bd1?utm_campaign=1058&utm_source=git)** | Livingston, NJ | On Site | Apr 11 |
@@ -143,8 +148,8 @@ For a complete list, click the following sortable link below:
 | **[The State University of New York](http://www.suny.edu/)** | **[IT/AV Services Support Analyst](https://jobright.ai/jobs/info/69da1e1a869c7e25d85a0e3e?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Apr 11 |
 | **[Fred Meyer](https://www.fredmeyer.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69da03299f97a42dc9c27160?utm_campaign=1058&utm_source=git)** | Tualatin, OR | On Site | Apr 10 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69d9e3229f97a42dc9c25296?utm_campaign=1058&utm_source=git)** | Alpharetta, GA | On Site | Apr 10 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69d9e314869c7e25d859e92d?utm_campaign=1058&utm_source=git)** | Snellville, GA | On Site | Apr 10 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69d9e314869c7e25d859e92b?utm_campaign=1058&utm_source=git)** | Monroe, GA | On Site | Apr 10 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69d9e314869c7e25d859e92d?utm_campaign=1058&utm_source=git)** | Snellville, GA | On Site | Apr 10 |
 | **[Standish Management, LLC](http://standishmanagement.com/)** | **[IT Internship - Summer 2026](https://jobright.ai/jobs/info/69d9e2e15356a60f40fdd442?utm_campaign=1058&utm_source=git)** | Los Angeles, California, United States | On Site | Apr 10 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69d9d5e1f748bc5d08a4e8c2?utm_campaign=1058&utm_source=git)** | Ellijay, GA | On Site | Apr 10 |
 | **[CommonSpirit Health](https://www.commonspirit.org)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69d9d5ca738f2f099e8a5077?utm_campaign=1058&utm_source=git)** | Burien, WA | On Site | Apr 10 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[PNC](http://www.pnc.com)** | **[Loan Support Analyst](https://jobright.ai/jobs/info/69d9d5789f97a42dc9c24c2d?utm_campaign=1058&utm_source=git)** | Nevada, United States | Hybrid | Apr 10 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69da06455356a60f40fdf6df?utm_campaign=1058&utm_source=git)** | Duluth, GA | On Site | Apr 10 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69da0420b67cec4f9b0a7ac2?utm_campaign=1058&utm_source=git)** | Atlanta, GA | On Site | Apr 10 |
-| **[Harmony United Psychiatric Care](https://hupcfl.com)** | **[Psychiatric Office Assistant Internship/Outpatient Clinic (Certification Program)/The Villages](https://jobright.ai/jobs/info/69d9cb38738f2f099e8a49c7?utm_campaign=1058&utm_source=git)** | The Villages, FL | On Site | Apr 10 |
-| ↳ | **[Psychiatric Office Assistant Internship/Outpatient Clinic (Certification Program)/Orlando](https://jobright.ai/jobs/info/69d9cb199f97a42dc9c24539?utm_campaign=1058&utm_source=git)** | Orlando, FL | On Site | Apr 10 |
-| ↳ | **[Psychiatric Office Assistant Internship/Outpatient Clinic (Certification Program)/Tallahassee](https://jobright.ai/jobs/info/69d9cb059f97a42dc9c2451a?utm_campaign=1058&utm_source=git)** | Tallahassee, FL | On Site | Apr 10 |
-| ↳ | **[Psychiatric Office Assistant Internship/Outpatient Clinic (Certification Program)/Gainesville](https://jobright.ai/jobs/info/69d9cae8f748bc5d08a4e183?utm_campaign=1058&utm_source=git)** | Gainesville, FL | On Site | Apr 10 |
-| ↳ | **[Psychiatric Office Assistant Internship/Outpatient Clinic (Certification Program)/Port Saint John](https://jobright.ai/jobs/info/69d9cad45356a60f40fdc72c?utm_campaign=1058&utm_source=git)** | Port Saint John, FL | On Site | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
