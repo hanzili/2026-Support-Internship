@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[WorldTech IT, LLC](https://worldtechit.com/)** | **[Spring Intern, Help Desk](https://jobright.ai/jobs/info/69daf4f05356a60f40fe446e?utm_campaign=1058&utm_source=git)** | Minnesota, United States | Remote | Apr 11 |
 | **[CHRISTUS Health](http://www.christushealth.org)** | **[Pharmacist Intern - General Pharmacy - PRN](https://jobright.ai/jobs/info/69daf4d85356a60f40fe446b?utm_campaign=1058&utm_source=git)** | Shreveport, LA | On Site | Apr 11 |
 | **[The Hotel at Auburn University & Dixon Conference Center](https://www.auhcc.com/careers)** | **[Rooms - International Rooms Intern](https://jobright.ai/jobs/info/69dae2c25356a60f40fe4042?utm_campaign=1058&utm_source=git)** | Auburn, AL | On Site | Apr 11 |
 | **[ABRI CREDIT UNION](https://www.abricu.com/)** | **[Student Teller Joliet Township High School](https://jobright.ai/jobs/info/69daab13738f2f099e8abdf9?utm_campaign=1058&utm_source=git)** | Joliet, IL | On Site | Apr 11 |
@@ -112,8 +111,8 @@ For a complete list, click the following sortable link below:
 | **[The State University of New York](http://www.suny.edu/)** | **[IT/AV Services Support Analyst](https://jobright.ai/jobs/info/69da1e1a869c7e25d85a0e3e?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Apr 11 |
 | **[Fred Meyer](https://www.fredmeyer.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69da03299f97a42dc9c27160?utm_campaign=1058&utm_source=git)** | Tualatin, OR | On Site | Apr 10 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69d9e3229f97a42dc9c25296?utm_campaign=1058&utm_source=git)** | Alpharetta, GA | On Site | Apr 10 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69d9e314869c7e25d859e92d?utm_campaign=1058&utm_source=git)** | Snellville, GA | On Site | Apr 10 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69d9e314869c7e25d859e92b?utm_campaign=1058&utm_source=git)** | Monroe, GA | On Site | Apr 10 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69d9e314869c7e25d859e92d?utm_campaign=1058&utm_source=git)** | Snellville, GA | On Site | Apr 10 |
 | **[Standish Management, LLC](http://standishmanagement.com/)** | **[IT Internship - Summer 2026](https://jobright.ai/jobs/info/69d9e2e15356a60f40fdd442?utm_campaign=1058&utm_source=git)** | Los Angeles, California, United States | On Site | Apr 10 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69d9d5e1f748bc5d08a4e8c2?utm_campaign=1058&utm_source=git)** | Ellijay, GA | On Site | Apr 10 |
 | **[CommonSpirit Health](https://www.commonspirit.org)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69d9d5ca738f2f099e8a5077?utm_campaign=1058&utm_source=git)** | Burien, WA | On Site | Apr 10 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Recreation Manitoba](https://recreationmb.ca/)** | **[Client Service Associate](https://jobright.ai/jobs/info/69d979ff5356a60f40fd9fb8?utm_campaign=1058&utm_source=git)** | Oak Bluff, MB | On Site | Apr 10 |
 | **[Salinas Valley Health](https://www.salinasvalleyhealth.com)** | **[Intern - Volunteer Services (On-site)](https://jobright.ai/jobs/info/69d97931738f2f099e8a1eec?utm_campaign=1058&utm_source=git)** | Salinas, CA | On Site | Apr 10 |
 | ↳ | **[Intern - Patient Experience (On-site)](https://jobright.ai/jobs/info/69d978fa869c7e25d859b239?utm_campaign=1058&utm_source=git)** | Salinas, CA | On Site | Apr 10 |
+| **[Open Door Group](http://www.opendoorgroup.org/)** | **[Client Service Administrator](https://jobright.ai/jobs/info/69d978c1869c7e25d859b1d2?utm_campaign=1058&utm_source=git)** | Vancouver, BC | On Site | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
