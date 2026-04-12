@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Saint Xavier University](http://www.sxu.edu/)** | **[IT Repair Agent - Student Employment](https://jobright.ai/jobs/info/69db64a1b67cec4f9b0af023?utm_campaign=1058&utm_source=git)** | Chicago, IL | Hybrid | Apr 12 |
+| **[Association for Home & Hospice Care of North Carolina](https://ahhcnc.org)** | **[PRIMARY CARE INTERNAL MEDICINE PHYSICIAN – AMBULATORY CARE](https://jobright.ai/jobs/info/69db64255356a60f40fe691e?utm_campaign=1058&utm_source=git)** | Brooklyn, NY | On Site | Apr 12 |
 | **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE - CRNA Internship](https://jobright.ai/jobs/info/69db56ddf748bc5d08a58551?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Apr 12 |
 | **[SanMar](http://www.sanmar.com)** | **[IT Intern, Operations](https://jobright.ai/jobs/info/69bc62ae45e08b3dc1f90076?utm_campaign=1058&utm_source=git)** | Issaquah, WA | On Site | Apr 11 |
 | **[Fred Meyer](https://www.fredmeyer.com/)** | **[Pharmacist Grad Intern](https://jobright.ai/jobs/info/69db54809f97a42dc9c2e83a?utm_campaign=1058&utm_source=git)** | Florence, OR | On Site | Apr 11 |
@@ -77,7 +79,6 @@ For a complete list, click the following sortable link below:
 | **[SAP](https://www.sap.com)** | **[SAP Customer Success iXp Intern - SAP Experience Center Event and Showcase Support](https://jobright.ai/jobs/info/69856ccf8da7a612045fffc1?utm_campaign=1058&utm_source=git)** | Newtown Square, PA | On Site | Apr 11 |
 | **[ImageTrend](http://www.imagetrend.com)** | **[Technical Writing Intern](https://jobright.ai/jobs/info/69daaab1738f2f099e8abd16?utm_campaign=1058&utm_source=git)** | Hybrid in Eagan, MN | Hybrid | Apr 11 |
 | **[Calcasieu Parish Police Jury](http://www.calcasieu.gov)** | **[PROFESSIONAL INTERN - PART-TIME](https://jobright.ai/jobs/info/69da7622869c7e25d85a287f?utm_campaign=1058&utm_source=git)** | Lake Charles, LA | On Site | Apr 11 |
-| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE - CRNA Internship](https://jobright.ai/jobs/info/69da72ef738f2f099e8a960c?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Apr 11 |
 | **[MHG Hotels](http://www.MHGHotelsLLC.com)** | **[Phase 2 Intern - Operations](https://jobright.ai/jobs/info/69da72da9f97a42dc9c291a1?utm_campaign=1058&utm_source=git)** | Speedway, IN | On Site | Apr 11 |
 | ↳ | **[Phase 1 Intern](https://jobright.ai/jobs/info/69da72bc9f97a42dc9c29142?utm_campaign=1058&utm_source=git)** | Speedway, IN | On Site | Apr 11 |
 | **[Abrazo Health](https://www.abrazohealth.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69da7286f748bc5d08a52df8?utm_campaign=1058&utm_source=git)** | Phoenix, AZ | On Site | Apr 11 |
@@ -88,6 +89,13 @@ For a complete list, click the following sortable link below:
 | **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse II CCU](https://jobright.ai/jobs/info/69da8f04869c7e25d85a29cb?utm_campaign=1058&utm_source=git)** | Columbus, MS | On Site | Apr 11 |
 | **[Lumos Fiber](https://www.lumosfiber.com)** | **[Customer Experience Intern](https://jobright.ai/jobs/info/69bdb0e7393a1008f7430efc?utm_campaign=1058&utm_source=git)** | High Point, NC | On Site | Apr 11 |
 | **[KW PROPERTY MANAGEMENT AND CONSULTING](https://kwpmc.com/)** | **[Corporate Intern](https://jobright.ai/jobs/info/69bdc56d393a1008f743534f?utm_campaign=1058&utm_source=git)** | Miami, FL | On Site | Apr 11 |
+| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad - Sign-On Bonus Available](https://jobright.ai/jobs/info/69db64849f97a42dc9c2ec05?utm_campaign=1058&utm_source=git)** | Maysville, KY | On Site | Apr 11 |
+| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69db6484738f2f099e8aeea4?utm_campaign=1058&utm_source=git)** | Elk Grove Village, IL | On Site | Apr 11 |
+| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69db64849f97a42dc9c2ec04?utm_campaign=1058&utm_source=git)** | Northbrook, IL | On Site | Apr 11 |
+| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69db6486869c7e25d85a7dae?utm_campaign=1058&utm_source=git)** | Elk Grove Village, IL | On Site | Apr 11 |
+| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69db6484738f2f099e8aeea2?utm_campaign=1058&utm_source=git)** | Deerfield, IL | On Site | Apr 11 |
+| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69db6485738f2f099e8aeeac?utm_campaign=1058&utm_source=git)** | Mantua, NJ | On Site | Apr 11 |
+| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69db6499738f2f099e8aeed5?utm_campaign=1058&utm_source=git)** | Kings Mountain, NC | On Site | Apr 11 |
 | **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Intern I &amp;#8211; High School](https://jobright.ai/jobs/info/69da566b738f2f099e8a8efa?utm_campaign=1058&utm_source=git)** | Fresno, CA | On Site | Apr 11 |
 | **[CooperSurgical](http://www.coopersurgical.com)** | **[Service & Repair, Fertility Intern](https://jobright.ai/jobs/info/69bdb8b8393a1008f7432bd1?utm_campaign=1058&utm_source=git)** | Livingston, NJ | On Site | Apr 11 |
 | **[Linamar Corporation](http://www.linamar.com/)** | **[IT Intern](https://jobright.ai/jobs/info/69d56b47e63cea7a8b661263?utm_campaign=1058&utm_source=git)** | Fruitport, MI | On Site | Apr 11 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Delta Air Lines](https://www.delta.com/)** | **[Intern, Airport Customer Service (ACS) JFK - NYC Above and Below Wing Ambassador (Summer 2026)](https://jobright.ai/jobs/info/69d9a446f748bc5d08a4ce4f?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Apr 10 |
 | **[Columbia Hospitality](http://www.columbiahospitality.com)** | **[Snoqualmie Tribe Hospitality Intern](https://jobright.ai/jobs/info/69d99e55738f2f099e8a358f?utm_campaign=1058&utm_source=git)** | Snoqualmie, WA | On Site | Apr 10 |
 | **[Beth Israel Lahey Health](https://www.bilh.org)** | **[Urology Navigator Intern](https://jobright.ai/jobs/info/69d9950c738f2f099e8a2954?utm_campaign=1058&utm_source=git)** | Lahey Hospital and Medical Center | On Site | Apr 10 |
-| **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[Sonography Intern, South Heart Hospital](https://jobright.ai/jobs/info/69dac61d9f97a42dc9c2bf92?utm_campaign=1058&utm_source=git)** | Saint Louis, Missouri, 63128 | On Site | Apr 10 |
-| **[Henry Ford Health](http://www.henryford.com/)** | **[Lab Assistant-Specimen Collect (Phlebotomist) - West Oakland Internists - 40 hrs - Days -](https://jobright.ai/jobs/info/69d988beb67cec4f9b0a2918?utm_campaign=1058&utm_source=git)** | Novi, MI | On Site | Apr 10 |
-| **[Frankenmuth Insurance](https://www.fmins.com)** | **[Student Associate - Mailroom](https://jobright.ai/jobs/info/69d9888b9f97a42dc9c2210f?utm_campaign=1058&utm_source=git)** | Frankenmuth, MI | On Site | Apr 10 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69d9a478b67cec4f9b0a390b?utm_campaign=1058&utm_source=git)** | Ellicott City, MD | On Site | Apr 10 |
-| **[M3 USA](https://www.m3.com/)** | **[Physician Relations Intern](https://jobright.ai/jobs/info/69d985a3869c7e25d859b4a0?utm_campaign=1058&utm_source=git)** | Creve Coeur, MO, USA | On Site | Apr 10 |
-| **[Carthage System - Professional Swine Management LLC](https://carthagesystem.com/)** | **[IT Summer Intern](https://jobright.ai/jobs/info/69d982325356a60f40fda135?utm_campaign=1058&utm_source=git)** | Carthage, IL, US | On Site | Apr 10 |
-| **[Columbia Hospitality](http://www.columbiahospitality.com)** | **[Snoqualmie Tribe Hospitality Intern](https://jobright.ai/jobs/info/69d97fd7b67cec4f9b0a25f7?utm_campaign=1058&utm_source=git)** | Salish Lodge & Spa, 6501 Railroad Avenue SE, Snoqualmie, Washington, United States of America | On Site | Apr 10 |
-| **[Sono Bello](http://sonobello.com)** | **[Intern- IT Helpdesk](https://jobright.ai/jobs/info/69d97c0a738f2f099e8a2258?utm_campaign=1058&utm_source=git)** | Bellevue, WA | Hybrid | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
