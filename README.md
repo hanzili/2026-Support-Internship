@@ -90,8 +90,8 @@ For a complete list, click the following sortable link below:
 | **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69da72f9738f2f099e8a965c?utm_campaign=1058&utm_source=git)** | Hendersonville, TN | On Site | Apr 11 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69da72e19f97a42dc9c291bf?utm_campaign=1058&utm_source=git)** | Nashville, TN | On Site | Apr 11 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69da7291b67cec4f9b0a979c?utm_campaign=1058&utm_source=git)** | Albuquerque, NM | On Site | Apr 11 |
-| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69da7301738f2f099e8a9680?utm_campaign=1058&utm_source=git)** | Tyler, TX | On Site | Apr 11 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69da72e19f97a42dc9c291be?utm_campaign=1058&utm_source=git)** | Tyler, TX | On Site | Apr 11 |
+| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69da7301738f2f099e8a9680?utm_campaign=1058&utm_source=git)** | Tyler, TX | On Site | Apr 11 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69da72a45356a60f40fe135c?utm_campaign=1058&utm_source=git)** | Galloway, OH | On Site | Apr 11 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[IS Services & Support Intern (or Co-Op)](https://jobright.ai/jobs/info/69da72095356a60f40fe1260?utm_campaign=1058&utm_source=git)** | Reston, VA | On Site | Apr 11 |
 | **[American Battery Solutions Inc.](https://www.americanbatterysolutions.com/)** | **[IT Co-op](https://jobright.ai/jobs/info/69bd9ede4828227293ffd849?utm_campaign=1058&utm_source=git)** | Springboro, OH | On Site | Apr 11 |
@@ -111,8 +111,8 @@ For a complete list, click the following sortable link below:
 | **[The State University of New York](http://www.suny.edu/)** | **[IT/AV Services Support Analyst](https://jobright.ai/jobs/info/69da1e1a869c7e25d85a0e3e?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Apr 11 |
 | **[Fred Meyer](https://www.fredmeyer.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69da03299f97a42dc9c27160?utm_campaign=1058&utm_source=git)** | Tualatin, OR | On Site | Apr 10 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69d9e3229f97a42dc9c25296?utm_campaign=1058&utm_source=git)** | Alpharetta, GA | On Site | Apr 10 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69d9e314869c7e25d859e92b?utm_campaign=1058&utm_source=git)** | Monroe, GA | On Site | Apr 10 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69d9e314869c7e25d859e92d?utm_campaign=1058&utm_source=git)** | Snellville, GA | On Site | Apr 10 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69d9e314869c7e25d859e92b?utm_campaign=1058&utm_source=git)** | Monroe, GA | On Site | Apr 10 |
 | **[Standish Management, LLC](http://standishmanagement.com/)** | **[IT Internship - Summer 2026](https://jobright.ai/jobs/info/69d9e2e15356a60f40fdd442?utm_campaign=1058&utm_source=git)** | Los Angeles, California, United States | On Site | Apr 10 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69d9d5e1f748bc5d08a4e8c2?utm_campaign=1058&utm_source=git)** | Ellijay, GA | On Site | Apr 10 |
 | **[CommonSpirit Health](https://www.commonspirit.org)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69d9d5ca738f2f099e8a5077?utm_campaign=1058&utm_source=git)** | Burien, WA | On Site | Apr 10 |
@@ -132,9 +132,11 @@ For a complete list, click the following sortable link below:
 | **[Metra Commuter Rail](https://www.metra.com)** | **[Intern-Tech Support Associate](https://jobright.ai/jobs/info/69d9c05d738f2f099e8a4423?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Apr 10 |
 | **[Harmony United Psychiatric Care](https://hupcfl.com)** | **[Psychiatric Office Assistant Internship/Outpatient Clinic (Certification Program)/Coral Gables](https://jobright.ai/jobs/info/69d9c012869c7e25d859d644?utm_campaign=1058&utm_source=git)** | Coral Gables, FL | On Site | Apr 10 |
 | ↳ | **[Psychiatric Office Assistant Internship/Outpatient Clinic (Certification Program)/Melbourne](https://jobright.ai/jobs/info/69d9b9fab67cec4f9b0a42f3?utm_campaign=1058&utm_source=git)** | Melbourne, FL | On Site | Apr 10 |
+| **[NYC Health + Hospitals](http://www.nychealthandhospitals.org)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/69db0ca95356a60f40fe4821?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Apr 10 |
 | **[Standish Management, LLC](http://standishmanagement.com/)** | **[IT Internship - Summer 2026](https://jobright.ai/jobs/info/69d9b26df748bc5d08a4d610?utm_campaign=1058&utm_source=git)** | Woodland Hills, California, United States | On Site | Apr 10 |
 | **[Redwood Credit Union](http://www.redwoodcu.org)** | **[Member Service Center Representative (Call Center)](https://jobright.ai/jobs/info/69d9b095f748bc5d08a4d5ab?utm_campaign=1058&utm_source=git)** | Napa, CA | On Site | Apr 10 |
 | **[Valley Medical Center](http://www.valleymed.org)** | **[Hospitalist (Admitter) - Internal Medicine (2026-0371)](https://jobright.ai/jobs/info/69d9b044869c7e25d859ced6?utm_campaign=1058&utm_source=git)** | Renton, WA | On Site | Apr 10 |
+| **[Nutrien](https://www.nutrien.com/)** | **[Intern, IT, Fort Saskatchewan](https://jobright.ai/jobs/info/69db0d1b738f2f099e8ace8e?utm_campaign=1058&utm_source=git)** | Fort Saskatchewan, AB | On Site | Apr 10 |
 | **[U.S. Bank](http://www.usbank.com)** | **[Account Processor](https://jobright.ai/jobs/info/69d9ae03869c7e25d859cc1f?utm_campaign=1058&utm_source=git)** | Earth City, MO | Hybrid | Apr 10 |
 | **[Hilti North America](http://www.hilti.com)** | **[Information Technology Intern - Tulsa, OK - Summer 2026](https://jobright.ai/jobs/info/69d9adde869c7e25d859cbc6?utm_campaign=1058&utm_source=git)** | Tulsa, OK | On Site | Apr 10 |
 | **[McLaren Health Care](http://www.mclaren.org)** | **[Respiratory Intern](https://jobright.ai/jobs/info/69c66e8fb773006330b707a2?utm_campaign=1058&utm_source=git)** | Lansing, MI | On Site | Apr 10 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Shiseido](http://www.shiseido.com/)** | **[Hajimari Intern, S&OP, Affiliate Customer Service](https://jobright.ai/jobs/info/69d97aea869c7e25d859b31c?utm_campaign=1058&utm_source=git)** | New York, United States | On Site | Apr 10 |
 | **[Recreation Manitoba](https://recreationmb.ca/)** | **[Client Service Associate](https://jobright.ai/jobs/info/69d979ff5356a60f40fd9fb8?utm_campaign=1058&utm_source=git)** | Oak Bluff, MB | On Site | Apr 10 |
 | **[Salinas Valley Health](https://www.salinasvalleyhealth.com)** | **[Intern - Volunteer Services (On-site)](https://jobright.ai/jobs/info/69d97931738f2f099e8a1eec?utm_campaign=1058&utm_source=git)** | Salinas, CA | On Site | Apr 10 |
-| ↳ | **[Intern - Patient Experience (On-site)](https://jobright.ai/jobs/info/69d978fa869c7e25d859b239?utm_campaign=1058&utm_source=git)** | Salinas, CA | On Site | Apr 10 |
-| **[Open Door Group](http://www.opendoorgroup.org/)** | **[Client Service Administrator](https://jobright.ai/jobs/info/69d978c1869c7e25d859b1d2?utm_campaign=1058&utm_source=git)** | Vancouver, BC | On Site | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
