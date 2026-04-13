@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Momentum Financial Services Group](https://mfsg.com)** | **[Intern - End User Support (IT) (8-Month Term)](https://jobright.ai/jobs/info/69dc9c0bf748bc5d08a5b824?utm_campaign=1058&utm_source=git)** | Toronto, Canada | Hybrid | Apr 13 |
+| **[University of Guelph](http://www.uoguelph.ca/)** | **[Client Services Clerk](https://jobright.ai/jobs/info/69dc95f1738f2f099e8b1fe8?utm_campaign=1058&utm_source=git)** | Guelph, ON | On Site | Apr 13 |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/69dc9648738f2f099e8b2096?utm_campaign=1058&utm_source=git)** | Torrance, CA | On Site | Apr 12 |
 | **[CHRISTUS Health](http://www.christushealth.org)** | **[Pharmacist Intern - General Pharmacy - PRN](https://jobright.ai/jobs/info/69dc45c5f748bc5d08a599f5?utm_campaign=1058&utm_source=git)** | Texarkana, TX | On Site | Apr 12 |
 | **[Holman](http://www.holmanauto.com)** | **[Retail IT Intern](https://jobright.ai/jobs/info/69dc2b89f748bc5d08a59827?utm_campaign=1058&utm_source=git)** | Fort Lauderdale, FL (US) | On Site | Apr 12 |
 | ↳ | **[Retail IT Intern](https://jobright.ai/jobs/info/69dc2aa8b67cec4f9b0b0207?utm_campaign=1058&utm_source=git)** | Fort Lauderdale, FL | On Site | Apr 12 |
@@ -82,8 +85,8 @@ For a complete list, click the following sortable link below:
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE - CRNA Internship](https://jobright.ai/jobs/info/69dbc435869c7e25d85a83b8?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Apr 12 |
 | **[I-CAR](https://www.i-car.com)** | **[Part-Time IT Infrastructure Support Intern](https://jobright.ai/jobs/info/69dbbcc5f748bc5d08a58bb6?utm_campaign=1058&utm_source=git)** | Hoffman Estates, IL | Hybrid | Apr 12 |
 | ↳ | **[Part-Time IT Support Intern](https://jobright.ai/jobs/info/69dbace8869c7e25d85a82e8?utm_campaign=1058&utm_source=git)** | Hoffman Estates, IL | Hybrid | Apr 12 |
-| **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/69dbace1869c7e25d85a82d0?utm_campaign=1058&utm_source=git)** | Lombard, IL | On Site | Apr 12 |
-| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69dbace1869c7e25d85a82d1?utm_campaign=1058&utm_source=git)** | Benson, NC | On Site | Apr 12 |
+| **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69dbace1869c7e25d85a82d1?utm_campaign=1058&utm_source=git)** | Benson, NC | On Site | Apr 12 |
+| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69dbace1869c7e25d85a82d0?utm_campaign=1058&utm_source=git)** | Lombard, IL | On Site | Apr 12 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69dbacd79f97a42dc9c2f10c?utm_campaign=1058&utm_source=git)** | Uvalde, TX | On Site | Apr 12 |
 | **[Mohawk Valley Health System](https://www.mvhealthsystem.org)** | **[Imaging Intern - Variable Shifts -Occasional](https://jobright.ai/jobs/info/69becccb393a1008f744a7e6?utm_campaign=1058&utm_source=git)** | Utica, NY | On Site | Apr 12 |
 | **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[Help Desk Intern](https://jobright.ai/jobs/info/6959ef9ff1f8465b79f05970?utm_campaign=1058&utm_source=git)** | Dayton, OH | On Site | Apr 12 |
@@ -98,8 +101,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Computer Science](https://jobright.ai/jobs/info/69db8d87b67cec4f9b0af27d?utm_campaign=1058&utm_source=git)** | Parma, OH | On Site | Apr 12 |
 | ↳ | **[Fall Intern, Customer Service/Office Administration](https://jobright.ai/jobs/info/69db8d86b67cec4f9b0af277?utm_campaign=1058&utm_source=git)** | Parma, OH | On Site | Apr 12 |
 | **[NYU Langone Health](https://nyulangone.org/)** | **[Student Intern](https://jobright.ai/jobs/info/6986218e8da7a6120460cc54?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Apr 12 |
-| **[Cuyahoga Community College](http://www.tri-c.edu)** | **[Summer Intern](https://jobright.ai/jobs/info/69db8099869c7e25d85a7ff6?utm_campaign=1058&utm_source=git)** | Cleveland, OH | On Site | Apr 12 |
-| ↳ | **[Fall Intern, ITS (East)](https://jobright.ai/jobs/info/69db8099869c7e25d85a7ff3?utm_campaign=1058&utm_source=git)** | Highland Hills, OH | On Site | Apr 12 |
+| **[Cuyahoga Community College](http://www.tri-c.edu)** | **[Fall Intern, ITS (East)](https://jobright.ai/jobs/info/69db8099869c7e25d85a7ff3?utm_campaign=1058&utm_source=git)** | Highland Hills, OH | On Site | Apr 12 |
+| ↳ | **[Summer Intern](https://jobright.ai/jobs/info/69db8099869c7e25d85a7ff6?utm_campaign=1058&utm_source=git)** | Cleveland, OH | On Site | Apr 12 |
 | **[Hilmar](https://www.hilmarcheese.com)** | **[Intern - IT](https://jobright.ai/jobs/info/69337b2da0dde7020e2ee6d5?utm_campaign=1058&utm_source=git)** | Hilmar, CA | On Site | Apr 12 |
 | **[Holiday Inn Club Vacations](http://jobs.holidayinnclub.com/)** | **[Resort Experience Associate Intern- Lee, MA](https://jobright.ai/jobs/info/69a2a468359fe034b1cdf81f?utm_campaign=1058&utm_source=git)** | South Lee, MA | On Site | Apr 12 |
 | **[Saint Xavier University](http://www.sxu.edu/)** | **[IT Repair Agent - Student Employment](https://jobright.ai/jobs/info/69db64a1b67cec4f9b0af023?utm_campaign=1058&utm_source=git)** | Chicago, IL | Hybrid | Apr 12 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Quva](http://www.quvapharma.com/)** | **[Information Technology Intern (Applications)](https://jobright.ai/jobs/info/69bd7767393a1008f742d25f?utm_campaign=1058&utm_source=git)** | Sugar Land, TX | On Site | Apr 11 |
 | ↳ | **[Warehouse Technician Intern](https://jobright.ai/jobs/info/69bd7759393a1008f742d24a?utm_campaign=1058&utm_source=git)** | Phoenix, AZ | On Site | Apr 11 |
 | **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[RN-Intern I (Nursery)](https://jobright.ai/jobs/info/69bd2c47b106024562821967?utm_campaign=1058&utm_source=git)** | Columbus, MS | On Site | Apr 11 |
-| **[Valley Baptist Health System](https://www.valleybaptist.net)** | **[Student Intern Surgery Per Diem Days](https://jobright.ai/jobs/info/69851aba348f733a5c394779?utm_campaign=1058&utm_source=git)** | Brownsville, TX | On Site | Apr 11 |
-| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, VIP Nation Intern](https://jobright.ai/jobs/info/69bd6db8393a1008f742c2a1?utm_campaign=1058&utm_source=git)** | Beverly Hills, CA | Hybrid | Apr 11 |
-| **[Children's National Hospital](https://www.childrensnational.org/)** | **[Pharmacy Intern (PRN / As Needed)](https://jobright.ai/jobs/info/69bea020b106024562841599?utm_campaign=1058&utm_source=git)** | Washington, DC | On Site | Apr 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
