@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[City of Mount Vernon](https://cmvny.com/)** | **[Library Intern - Teen](https://jobright.ai/jobs/info/69dc5be3f748bc5d08a59fa5?utm_campaign=1058&utm_source=git)** | Mount Vernon, WA | On Site | Apr 12 |
 | **[CHRISTUS Health](http://www.christushealth.org)** | **[Pharmacist Intern - General Pharmacy - PRN](https://jobright.ai/jobs/info/69dc45c5f748bc5d08a599f5?utm_campaign=1058&utm_source=git)** | Texarkana, TX | On Site | Apr 12 |
 | **[Holman](http://www.holmanauto.com)** | **[Retail IT Intern](https://jobright.ai/jobs/info/69dc2b89f748bc5d08a59827?utm_campaign=1058&utm_source=git)** | Fort Lauderdale, FL (US) | On Site | Apr 12 |
 | ↳ | **[Retail IT Intern](https://jobright.ai/jobs/info/69dc2aa8b67cec4f9b0b0207?utm_campaign=1058&utm_source=git)** | Fort Lauderdale, FL | On Site | Apr 12 |
@@ -65,7 +64,6 @@ For a complete list, click the following sortable link below:
 | **[Washington Commanders](http://www.commanders.com/)** | **[Intern, IT](https://jobright.ai/jobs/info/69dbfef99f97a42dc9c2fac0?utm_campaign=1058&utm_source=git)** | Riverdale, MD | On Site | Apr 12 |
 | **[Resurgent Capital Services](http://resurgent.com)** | **[Bilingual Specialist I, Inbound Customer Service](https://jobright.ai/jobs/info/69dbfd55869c7e25d85a8c51?utm_campaign=1058&utm_source=git)** | Greenville, SC | On Site | Apr 12 |
 | **[State of Vermont](http://vermont.gov/portal/)** | **[Judiciary Intern](https://jobright.ai/jobs/info/69dbfd11738f2f099e8afc8c?utm_campaign=1058&utm_source=git)** | Montpelier, VT | On Site | Apr 12 |
-| **[Netrolynx AI](https://www.netrolynx.ai)** | **[Customer Service Intern](https://jobright.ai/jobs/info/69dbfce75356a60f40fe77a4?utm_campaign=1058&utm_source=git)** | United States | On Site | Apr 12 |
 | **[Texas Department of Transportation](https://www.txdot.gov)** | **[Intern Support Technician - Maintenance Division](https://jobright.ai/jobs/info/69dbfcdcf748bc5d08a59492?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | Apr 12 |
 | **[Bang Zoom! Studios](http://bangzoomentertainment.com)** | **[Support Intern (Summer 2026)](https://jobright.ai/jobs/info/69dbfcd1f748bc5d08a59473?utm_campaign=1058&utm_source=git)** | Burbank, CA | Hybrid | Apr 12 |
 | **[State of Vermont](http://vermont.gov/portal/)** | **[Judiciary Intern](https://jobright.ai/jobs/info/69dbfcbb5356a60f40fe773f?utm_campaign=1058&utm_source=git)** | Burlington, VT | On Site | Apr 12 |
@@ -100,8 +98,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Computer Science](https://jobright.ai/jobs/info/69db8d87b67cec4f9b0af27d?utm_campaign=1058&utm_source=git)** | Parma, OH | On Site | Apr 12 |
 | ↳ | **[Fall Intern, Customer Service/Office Administration](https://jobright.ai/jobs/info/69db8d86b67cec4f9b0af277?utm_campaign=1058&utm_source=git)** | Parma, OH | On Site | Apr 12 |
 | **[NYU Langone Health](https://nyulangone.org/)** | **[Student Intern](https://jobright.ai/jobs/info/6986218e8da7a6120460cc54?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Apr 12 |
-| **[Cuyahoga Community College](http://www.tri-c.edu)** | **[Fall Intern, ITS (East)](https://jobright.ai/jobs/info/69db8099869c7e25d85a7ff3?utm_campaign=1058&utm_source=git)** | Highland Hills, OH | On Site | Apr 12 |
-| ↳ | **[Summer Intern](https://jobright.ai/jobs/info/69db8099869c7e25d85a7ff6?utm_campaign=1058&utm_source=git)** | Cleveland, OH | On Site | Apr 12 |
+| **[Cuyahoga Community College](http://www.tri-c.edu)** | **[Summer Intern](https://jobright.ai/jobs/info/69db8099869c7e25d85a7ff6?utm_campaign=1058&utm_source=git)** | Cleveland, OH | On Site | Apr 12 |
+| ↳ | **[Fall Intern, ITS (East)](https://jobright.ai/jobs/info/69db8099869c7e25d85a7ff3?utm_campaign=1058&utm_source=git)** | Highland Hills, OH | On Site | Apr 12 |
 | **[Hilmar](https://www.hilmarcheese.com)** | **[Intern - IT](https://jobright.ai/jobs/info/69337b2da0dde7020e2ee6d5?utm_campaign=1058&utm_source=git)** | Hilmar, CA | On Site | Apr 12 |
 | **[Holiday Inn Club Vacations](http://jobs.holidayinnclub.com/)** | **[Resort Experience Associate Intern- Lee, MA](https://jobright.ai/jobs/info/69a2a468359fe034b1cdf81f?utm_campaign=1058&utm_source=git)** | South Lee, MA | On Site | Apr 12 |
 | **[Saint Xavier University](http://www.sxu.edu/)** | **[IT Repair Agent - Student Employment](https://jobright.ai/jobs/info/69db64a1b67cec4f9b0af023?utm_campaign=1058&utm_source=git)** | Chicago, IL | Hybrid | Apr 12 |
@@ -109,6 +107,7 @@ For a complete list, click the following sortable link below:
 | **[National HealthCare Corporation (NHC)](https://nhccare.com)** | **[Infrastructure Support  Intern](https://jobright.ai/jobs/info/69db8d61b67cec4f9b0af245?utm_campaign=1058&utm_source=git)** | Murfreesboro, TN | On Site | Apr 11 |
 | **[SanMar](http://www.sanmar.com)** | **[IT Intern, Operations](https://jobright.ai/jobs/info/69bc62ae45e08b3dc1f90076?utm_campaign=1058&utm_source=git)** | Issaquah, WA | On Site | Apr 11 |
 | **[Fred Meyer](https://www.fredmeyer.com/)** | **[Pharmacist Grad Intern](https://jobright.ai/jobs/info/69db54809f97a42dc9c2e83a?utm_campaign=1058&utm_source=git)** | Florence, OR | On Site | Apr 11 |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[IS Services & Support Intern (or Co-Op)](https://jobright.ai/jobs/info/69dc78925356a60f40fe9208?utm_campaign=1058&utm_source=git)** | Reston, VA | On Site | Apr 11 |
 | **[Noblis](http://www.noblis.org)** | **[Summer 2026 - Machinery Silencing Support Intern](https://jobright.ai/jobs/info/69ce067acdb525785fb92f20?utm_campaign=1058&utm_source=git)** | Philadelphia, PA | On Site | Apr 11 |
 | **[Michigan Farm Bureau Family of Companies](https://www.michfb.com/)** | **[Underwriting Support Specialist - GLAIC](https://jobright.ai/jobs/info/69dc6d28b67cec4f9b0b14f6?utm_campaign=1058&utm_source=git)** | Lansing, MI | On Site | Apr 11 |
 | **[CHRISTUS Health](http://www.christushealth.org)** | **[Pharmacist Intern - General Pharmacy - PRN](https://jobright.ai/jobs/info/69daf4d85356a60f40fe446b?utm_campaign=1058&utm_source=git)** | Shreveport, LA | On Site | Apr 11 |
@@ -138,8 +137,8 @@ For a complete list, click the following sortable link below:
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad - Sign-On Bonus Available](https://jobright.ai/jobs/info/69db64849f97a42dc9c2ec05?utm_campaign=1058&utm_source=git)** | Maysville, KY | On Site | Apr 11 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69db6484738f2f099e8aeea4?utm_campaign=1058&utm_source=git)** | Elk Grove Village, IL | On Site | Apr 11 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69db64849f97a42dc9c2ec04?utm_campaign=1058&utm_source=git)** | Northbrook, IL | On Site | Apr 11 |
-| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69db6486869c7e25d85a7dae?utm_campaign=1058&utm_source=git)** | Elk Grove Village, IL | On Site | Apr 11 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69db6484738f2f099e8aeea2?utm_campaign=1058&utm_source=git)** | Deerfield, IL | On Site | Apr 11 |
+| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69db6486869c7e25d85a7dae?utm_campaign=1058&utm_source=git)** | Elk Grove Village, IL | On Site | Apr 11 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69db6485738f2f099e8aeeac?utm_campaign=1058&utm_source=git)** | Mantua, NJ | On Site | Apr 11 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69db6499738f2f099e8aeed5?utm_campaign=1058&utm_source=git)** | Kings Mountain, NC | On Site | Apr 11 |
 | **[CooperSurgical](http://www.coopersurgical.com)** | **[Service & Repair, Fertility Intern](https://jobright.ai/jobs/info/69bdb8b8393a1008f7432bd1?utm_campaign=1058&utm_source=git)** | Livingston, NJ | On Site | Apr 11 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[RN-Intern I (Nursery)](https://jobright.ai/jobs/info/69bd2c47b106024562821967?utm_campaign=1058&utm_source=git)** | Columbus, MS | On Site | Apr 11 |
 | **[Valley Baptist Health System](https://www.valleybaptist.net)** | **[Student Intern Surgery Per Diem Days](https://jobright.ai/jobs/info/69851aba348f733a5c394779?utm_campaign=1058&utm_source=git)** | Brownsville, TX | On Site | Apr 11 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, VIP Nation Intern](https://jobright.ai/jobs/info/69bd6db8393a1008f742c2a1?utm_campaign=1058&utm_source=git)** | Beverly Hills, CA | Hybrid | Apr 11 |
+| **[Children's National Hospital](https://www.childrensnational.org/)** | **[Pharmacy Intern (PRN / As Needed)](https://jobright.ai/jobs/info/69bea020b106024562841599?utm_campaign=1058&utm_source=git)** | Washington, DC | On Site | Apr 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
