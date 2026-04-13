@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Justrite Safety Group](https://www.justrite.com)** | **[Customer Service Intern](https://jobright.ai/jobs/info/69a854ed1dfc787e9aa35583?utm_campaign=1058&utm_source=git)** | Wellsburg, WV | On Site | Apr 13 |
+| **[Delta Dental of Michigan](http://www.deltadentalmi.com/)** | **[Internship - PC Technician](https://jobright.ai/jobs/info/69dcf188bc6f6622c990f5ea?utm_campaign=1058&utm_source=git)** | Okemos, MI | On Site | Apr 13 |
+| **[Lovelace Health System](http://lovelace.com/)** | **[Radiology Intern](https://jobright.ai/jobs/info/69dcec34738f2f099e8b380f?utm_campaign=1058&utm_source=git)** | Albuquerque, NM | On Site | Apr 13 |
 | **[Salt River Project](https://www.srpnet.com/)** | **[Customer Service Representative Level 7-1](https://jobright.ai/jobs/info/69dce417bfa7f40fd6f7872b?utm_campaign=1058&utm_source=git)** | Phoenix, AZ | Hybrid | Apr 13 |
 | **[Momentum Financial Services Group](https://mfsg.com)** | **[Intern - End User Support (IT) (8-Month Term)](https://jobright.ai/jobs/info/69dcd1f3738f2f099e8b3281?utm_campaign=1058&utm_source=git)** | Toronto, ON | Hybrid | Apr 13 |
 | **[Salt River Project](https://www.srpnet.com/)** | **[Customer Service Representative La Linea Level 7-1](https://jobright.ai/jobs/info/69dccdcb738f2f099e8b30a0?utm_campaign=1058&utm_source=git)** | Phoenix, AZ | Hybrid | Apr 13 |
@@ -90,7 +93,6 @@ For a complete list, click the following sortable link below:
 | **[MyMichigan Health](https://www.mymichigan.org)** | **[CRNA Intern](https://jobright.ai/jobs/info/69d7f139b861c42857c4766f?utm_campaign=1058&utm_source=git)** | Midland, MI | On Site | Apr 12 |
 | **[Peoples Commercial Bancorp Inc.](http://bankofcommercestilwell.com)** | **[Teller](https://jobright.ai/jobs/info/69dcc4729f97a42dc9c32ced?utm_campaign=1058&utm_source=git)** | New Martinsville, WV | On Site | Apr 12 |
 | **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69dbc60eb67cec4f9b0af5d8?utm_campaign=1058&utm_source=git)** | Lombard, IL | On Site | Apr 12 |
-| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE - CRNA Internship](https://jobright.ai/jobs/info/69dbc435869c7e25d85a83b8?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Apr 12 |
 | **[I-CAR](https://www.i-car.com)** | **[Part-Time IT Infrastructure Support Intern](https://jobright.ai/jobs/info/69dbbcc5f748bc5d08a58bb6?utm_campaign=1058&utm_source=git)** | Hoffman Estates, IL | Hybrid | Apr 12 |
 | ↳ | **[Part-Time IT Support Intern](https://jobright.ai/jobs/info/69dbace8869c7e25d85a82e8?utm_campaign=1058&utm_source=git)** | Hoffman Estates, IL | Hybrid | Apr 12 |
 | **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/69dbace1869c7e25d85a82d0?utm_campaign=1058&utm_source=git)** | Lombard, IL | On Site | Apr 12 |
@@ -114,7 +116,6 @@ For a complete list, click the following sortable link below:
 | **[Hilmar](https://www.hilmarcheese.com)** | **[Intern - IT](https://jobright.ai/jobs/info/69337b2da0dde7020e2ee6d5?utm_campaign=1058&utm_source=git)** | Hilmar, CA | On Site | Apr 12 |
 | **[Holiday Inn Club Vacations](http://jobs.holidayinnclub.com/)** | **[Resort Experience Associate Intern- Lee, MA](https://jobright.ai/jobs/info/69a2a468359fe034b1cdf81f?utm_campaign=1058&utm_source=git)** | South Lee, MA | On Site | Apr 12 |
 | **[Saint Xavier University](http://www.sxu.edu/)** | **[IT Repair Agent - Student Employment](https://jobright.ai/jobs/info/69db64a1b67cec4f9b0af023?utm_campaign=1058&utm_source=git)** | Chicago, IL | Hybrid | Apr 12 |
-| **[Association for Home & Hospice Care of North Carolina](https://ahhcnc.org)** | **[PRIMARY CARE INTERNAL MEDICINE PHYSICIAN – AMBULATORY CARE](https://jobright.ai/jobs/info/69db64255356a60f40fe691e?utm_campaign=1058&utm_source=git)** | Brooklyn, NY | On Site | Apr 12 |
 | **[National HealthCare Corporation (NHC)](https://nhccare.com)** | **[Infrastructure Support  Intern](https://jobright.ai/jobs/info/69db8d61b67cec4f9b0af245?utm_campaign=1058&utm_source=git)** | Murfreesboro, TN | On Site | Apr 11 |
 | **[SanMar](http://www.sanmar.com)** | **[IT Intern, Operations](https://jobright.ai/jobs/info/69bc62ae45e08b3dc1f90076?utm_campaign=1058&utm_source=git)** | Issaquah, WA | On Site | Apr 11 |
 | **[Fred Meyer](https://www.fredmeyer.com/)** | **[Pharmacist Grad Intern](https://jobright.ai/jobs/info/69db54809f97a42dc9c2e83a?utm_campaign=1058&utm_source=git)** | Florence, OR | On Site | Apr 11 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Linamar Corporation](http://www.linamar.com/)** | **[IT Intern](https://jobright.ai/jobs/info/69d56b47e63cea7a8b661263?utm_campaign=1058&utm_source=git)** | Fruitport, MI | On Site | Apr 11 |
 | **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69da72f9738f2f099e8a965c?utm_campaign=1058&utm_source=git)** | Hendersonville, TN | On Site | Apr 11 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69da72e19f97a42dc9c291bf?utm_campaign=1058&utm_source=git)** | Nashville, TN | On Site | Apr 11 |
-| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69da7291b67cec4f9b0a979c?utm_campaign=1058&utm_source=git)** | Albuquerque, NM | On Site | Apr 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
