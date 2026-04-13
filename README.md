@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CHRISTUS Health](http://www.christushealth.org)** | **[Pharmacist Intern - General Pharmacy - PRN](https://jobright.ai/jobs/info/69dc45c5f748bc5d08a599f5?utm_campaign=1058&utm_source=git)** | Texarkana, TX | On Site | Apr 12 |
 | **[Holman](http://www.holmanauto.com)** | **[Retail IT Intern](https://jobright.ai/jobs/info/69dc2b89f748bc5d08a59827?utm_campaign=1058&utm_source=git)** | Fort Lauderdale, FL (US) | On Site | Apr 12 |
 | ↳ | **[Retail IT Intern](https://jobright.ai/jobs/info/69dc2aa8b67cec4f9b0b0207?utm_campaign=1058&utm_source=git)** | Fort Lauderdale, FL | On Site | Apr 12 |
 | **[Shiseido](http://www.shiseido.com/)** | **[Hajimari Intern, S&OP, Affiliate Customer Service](https://jobright.ai/jobs/info/69dc17bd9f97a42dc9c2fc4a?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Apr 12 |
@@ -109,7 +110,6 @@ For a complete list, click the following sortable link below:
 | **[Fred Meyer](https://www.fredmeyer.com/)** | **[Pharmacist Grad Intern](https://jobright.ai/jobs/info/69db54809f97a42dc9c2e83a?utm_campaign=1058&utm_source=git)** | Florence, OR | On Site | Apr 11 |
 | **[Noblis](http://www.noblis.org)** | **[Summer 2026 - Machinery Silencing Support Intern](https://jobright.ai/jobs/info/69ce067acdb525785fb92f20?utm_campaign=1058&utm_source=git)** | Philadelphia, PA | On Site | Apr 11 |
 | **[CHRISTUS Health](http://www.christushealth.org)** | **[Pharmacist Intern - General Pharmacy - PRN](https://jobright.ai/jobs/info/69daf4d85356a60f40fe446b?utm_campaign=1058&utm_source=git)** | Shreveport, LA | On Site | Apr 11 |
-| **[The Hotel at Auburn University & Dixon Conference Center](https://www.auhcc.com/careers)** | **[Rooms - International Rooms Intern](https://jobright.ai/jobs/info/69dae2c25356a60f40fe4042?utm_campaign=1058&utm_source=git)** | Auburn, AL | On Site | Apr 11 |
 | **[ABRI CREDIT UNION](https://www.abricu.com/)** | **[Student Teller Joliet Township High School](https://jobright.ai/jobs/info/69daab13738f2f099e8abdf9?utm_campaign=1058&utm_source=git)** | Joliet, IL | On Site | Apr 11 |
 | **[M3 USA](https://www.m3.com/)** | **[Physician Relations Intern](https://jobright.ai/jobs/info/69daaafd869c7e25d85a4cc2?utm_campaign=1058&utm_source=git)** | Creve Coeur, MO | Remote | Apr 11 |
 | **[Hy-Vee, Inc.](https://www.hy-vee.com)** | **[Retail Pharmacy Intern](https://jobright.ai/jobs/info/69daaadf869c7e25d85a4c8b?utm_campaign=1058&utm_source=git)** | Lawrence, KS | On Site | Apr 11 |
@@ -145,8 +145,8 @@ For a complete list, click the following sortable link below:
 | **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69da72f9738f2f099e8a965c?utm_campaign=1058&utm_source=git)** | Hendersonville, TN | On Site | Apr 11 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69da72e19f97a42dc9c291bf?utm_campaign=1058&utm_source=git)** | Nashville, TN | On Site | Apr 11 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69da7291b67cec4f9b0a979c?utm_campaign=1058&utm_source=git)** | Albuquerque, NM | On Site | Apr 11 |
-| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69da7301738f2f099e8a9680?utm_campaign=1058&utm_source=git)** | Tyler, TX | On Site | Apr 11 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69da72e19f97a42dc9c291be?utm_campaign=1058&utm_source=git)** | Tyler, TX | On Site | Apr 11 |
+| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69da7301738f2f099e8a9680?utm_campaign=1058&utm_source=git)** | Tyler, TX | On Site | Apr 11 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69da72a45356a60f40fe135c?utm_campaign=1058&utm_source=git)** | Galloway, OH | On Site | Apr 11 |
 | **[American Battery Solutions Inc.](https://www.americanbatterysolutions.com/)** | **[IT Co-op](https://jobright.ai/jobs/info/69bd9ede4828227293ffd849?utm_campaign=1058&utm_source=git)** | Springboro, OH | On Site | Apr 11 |
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Senior Technical Writer](https://jobright.ai/jobs/info/69bdd715393a1008f74396f6?utm_campaign=1058&utm_source=git)** | Ohio, United States | Remote | Apr 11 |
