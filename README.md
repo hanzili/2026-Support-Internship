@@ -136,8 +136,8 @@ For a complete list, click the following sortable link below:
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad - Sign-On Bonus Available](https://jobright.ai/jobs/info/69db64849f97a42dc9c2ec05?utm_campaign=1058&utm_source=git)** | Maysville, KY | On Site | Apr 11 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69db6484738f2f099e8aeea4?utm_campaign=1058&utm_source=git)** | Elk Grove Village, IL | On Site | Apr 11 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69db64849f97a42dc9c2ec04?utm_campaign=1058&utm_source=git)** | Northbrook, IL | On Site | Apr 11 |
-| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69db6486869c7e25d85a7dae?utm_campaign=1058&utm_source=git)** | Elk Grove Village, IL | On Site | Apr 11 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69db6484738f2f099e8aeea2?utm_campaign=1058&utm_source=git)** | Deerfield, IL | On Site | Apr 11 |
+| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69db6486869c7e25d85a7dae?utm_campaign=1058&utm_source=git)** | Elk Grove Village, IL | On Site | Apr 11 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69db6485738f2f099e8aeeac?utm_campaign=1058&utm_source=git)** | Mantua, NJ | On Site | Apr 11 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69db6499738f2f099e8aeed5?utm_campaign=1058&utm_source=git)** | Kings Mountain, NC | On Site | Apr 11 |
 | **[CooperSurgical](http://www.coopersurgical.com)** | **[Service & Repair, Fertility Intern](https://jobright.ai/jobs/info/69bdb8b8393a1008f7432bd1?utm_campaign=1058&utm_source=git)** | Livingston, NJ | On Site | Apr 11 |
