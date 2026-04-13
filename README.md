@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Salt River Project](https://www.srpnet.com/)** | **[Temporary Customer Service Representative Level 7-1](https://jobright.ai/jobs/info/69dd27c6bc6f6622c9910b7d?utm_campaign=1058&utm_source=git)** | Phoenix, AZ | Hybrid | Apr 13 |
+| **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Pharmacy Intern YR4](https://jobright.ai/jobs/info/69dd2746738f2f099e8b4d67?utm_campaign=1058&utm_source=git)** | Newton-MA | On Site | Apr 13 |
+| **[Packaging Corporation of America](http://packagingcorp.com)** | **[Summer 2026 Information Systems Intern](https://jobright.ai/jobs/info/691d440fbcdbf3560c9eeff6?utm_campaign=1058&utm_source=git)** | De Ridder, LA | On Site | Apr 13 |
+| **[SSM Health](https://www.ssmhealth.com/)** | **[Pharmacy Intern (H)](https://jobright.ai/jobs/info/69dd272961f6ed54321fb670?utm_campaign=1058&utm_source=git)** | Fenton, MO | On Site | Apr 13 |
+| **[Alta Equipment Group](https://altg.com)** | **[IT Intern](https://jobright.ai/jobs/info/69dd25d8738f2f099e8b4c5c?utm_campaign=1058&utm_source=git)** | Livonia, MI | Hybrid | Apr 13 |
+| **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Access Your Future Service Intern](https://jobright.ai/jobs/info/678810cd4c4f5e767ed55c8e?utm_campaign=1058&utm_source=git)** | Casselton, ND | On Site | Apr 13 |
+| **[Select Specialty Hospital](https://www.selectspecialtyhospitals.com/)** | **[Pharmacy Intern - PRN](https://jobright.ai/jobs/info/69dd1fd99f97a42dc9c349ff?utm_campaign=1058&utm_source=git)** | Tulsa, OK | On Site | Apr 13 |
+| **[Alta Equipment Company](https://www.altaequipment.com/)** | **[IT Intern](https://jobright.ai/jobs/info/69dd1f875356a60f40fec951?utm_campaign=1058&utm_source=git)** | Livonia, MI, USA | Hybrid | Apr 13 |
 | **[SSM Health](https://www.ssmhealth.com/)** | **[Pharmacy Intern (H)](https://jobright.ai/jobs/info/69dd1c66bc6f6622c991072d?utm_campaign=1058&utm_source=git)** | Greater St. Louis | On Site | Apr 13 |
 | **[QED Technologies International LLC](https://qedmrf.com/en)** | **[Informational Technology Intern](https://jobright.ai/jobs/info/69dd1b31f748bc5d08a5e254?utm_campaign=1058&utm_source=git)** | Rochester, NY | On Site | Apr 13 |
 | **[Volvo Construction Equipment](http://www.volvoce.com)** | **[Intern: IT Specialist (Summer 2026)](https://jobright.ai/jobs/info/69dd1b255356a60f40fec7d7?utm_campaign=1058&utm_source=git)** | Shippensburg, PA | On Site | Apr 13 |
@@ -130,8 +138,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Computer Science](https://jobright.ai/jobs/info/69db8d87b67cec4f9b0af27d?utm_campaign=1058&utm_source=git)** | Parma, OH | On Site | Apr 12 |
 | ↳ | **[Fall Intern, Customer Service/Office Administration](https://jobright.ai/jobs/info/69db8d86b67cec4f9b0af277?utm_campaign=1058&utm_source=git)** | Parma, OH | On Site | Apr 12 |
 | **[NYU Langone Health](https://nyulangone.org/)** | **[Student Intern](https://jobright.ai/jobs/info/6986218e8da7a6120460cc54?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Apr 12 |
-| **[Cuyahoga Community College](http://www.tri-c.edu)** | **[Fall Intern, ITS (East)](https://jobright.ai/jobs/info/69db8099869c7e25d85a7ff3?utm_campaign=1058&utm_source=git)** | Highland Hills, OH | On Site | Apr 12 |
-| ↳ | **[Summer Intern](https://jobright.ai/jobs/info/69db8099869c7e25d85a7ff6?utm_campaign=1058&utm_source=git)** | Cleveland, OH | On Site | Apr 12 |
+| **[Cuyahoga Community College](http://www.tri-c.edu)** | **[Summer Intern](https://jobright.ai/jobs/info/69db8099869c7e25d85a7ff6?utm_campaign=1058&utm_source=git)** | Cleveland, OH | On Site | Apr 12 |
+| ↳ | **[Fall Intern, ITS (East)](https://jobright.ai/jobs/info/69db8099869c7e25d85a7ff3?utm_campaign=1058&utm_source=git)** | Highland Hills, OH | On Site | Apr 12 |
 | **[Hilmar](https://www.hilmarcheese.com)** | **[Intern - IT](https://jobright.ai/jobs/info/69337b2da0dde7020e2ee6d5?utm_campaign=1058&utm_source=git)** | Hilmar, CA | On Site | Apr 12 |
 | **[Holiday Inn Club Vacations](http://jobs.holidayinnclub.com/)** | **[Resort Experience Associate Intern- Lee, MA](https://jobright.ai/jobs/info/69a2a468359fe034b1cdf81f?utm_campaign=1058&utm_source=git)** | South Lee, MA | On Site | Apr 12 |
 | **[Saint Xavier University](http://www.sxu.edu/)** | **[IT Repair Agent - Student Employment](https://jobright.ai/jobs/info/69db64a1b67cec4f9b0af023?utm_campaign=1058&utm_source=git)** | Chicago, IL | Hybrid | Apr 12 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SanMar](http://www.sanmar.com)** | **[IT Intern, Operations](https://jobright.ai/jobs/info/69bd3a77b10602456282256f?utm_campaign=1058&utm_source=git)** | Issaquah, WA | On Site | Apr 11 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Intern I - High School](https://jobright.ai/jobs/info/69da9345738f2f099e8a9f8f?utm_campaign=1058&utm_source=git)** | Oakland, CA | On Site | Apr 11 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Customer Engagement Advisory](https://jobright.ai/jobs/info/69be0ab0393a1008f743e1d0?utm_campaign=1058&utm_source=git)** | Newtown Square, PA | On Site | Apr 11 |
-| **[Packaging Corporation of America](http://packagingcorp.com)** | **[IT Intern Summer-Fall 2026 Counce Mill](https://jobright.ai/jobs/info/69a243e00da45516f16b8b20?utm_campaign=1058&utm_source=git)** | Counce, TN | On Site | Apr 11 |
-| **[Trinity Health](http://www.trinity-health.org)** | **[Intern Pharmacist](https://jobright.ai/jobs/info/69a0ba725218a8167671e55e?utm_campaign=1058&utm_source=git)** | Des Moines, IA | On Site | Apr 11 |
-| **[Mission Health](https://missionhealth.org/)** | **[Pharmacist Intern PRN](https://jobright.ai/jobs/info/6984152d348f733a5c37e1bf?utm_campaign=1058&utm_source=git)** | Marion, NC | On Site | Apr 11 |
-| **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Access Your Future Service Intern](https://jobright.ai/jobs/info/68c0740f8e65e77df55c137f?utm_campaign=1058&utm_source=git)** | Cheyenne, WY | On Site | Apr 11 |
-| **[SAP](https://www.sap.com)** | **[SAP Customer Success iXp Intern - SAP Experience Center Event and Showcase Support](https://jobright.ai/jobs/info/69856ccf8da7a612045fffc1?utm_campaign=1058&utm_source=git)** | Newtown Square, PA | On Site | Apr 11 |
-| **[ImageTrend](http://www.imagetrend.com)** | **[Technical Writing Intern](https://jobright.ai/jobs/info/69daaab1738f2f099e8abd16?utm_campaign=1058&utm_source=git)** | Hybrid in Eagan, MN | Hybrid | Apr 11 |
-| **[MHG Hotels](http://www.MHGHotelsLLC.com)** | **[Phase 2 Intern - Operations](https://jobright.ai/jobs/info/69da72da9f97a42dc9c291a1?utm_campaign=1058&utm_source=git)** | Speedway, IN | On Site | Apr 11 |
-| ↳ | **[Phase 1 Intern](https://jobright.ai/jobs/info/69da72bc9f97a42dc9c29142?utm_campaign=1058&utm_source=git)** | Speedway, IN | On Site | Apr 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
