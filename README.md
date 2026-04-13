@@ -136,8 +136,8 @@ For a complete list, click the following sortable link below:
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad - Sign-On Bonus Available](https://jobright.ai/jobs/info/69db64849f97a42dc9c2ec05?utm_campaign=1058&utm_source=git)** | Maysville, KY | On Site | Apr 11 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69db6484738f2f099e8aeea4?utm_campaign=1058&utm_source=git)** | Elk Grove Village, IL | On Site | Apr 11 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69db64849f97a42dc9c2ec04?utm_campaign=1058&utm_source=git)** | Northbrook, IL | On Site | Apr 11 |
-| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69db6484738f2f099e8aeea2?utm_campaign=1058&utm_source=git)** | Deerfield, IL | On Site | Apr 11 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69db6486869c7e25d85a7dae?utm_campaign=1058&utm_source=git)** | Elk Grove Village, IL | On Site | Apr 11 |
+| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69db6484738f2f099e8aeea2?utm_campaign=1058&utm_source=git)** | Deerfield, IL | On Site | Apr 11 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69db6485738f2f099e8aeeac?utm_campaign=1058&utm_source=git)** | Mantua, NJ | On Site | Apr 11 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69db6499738f2f099e8aeed5?utm_campaign=1058&utm_source=git)** | Kings Mountain, NC | On Site | Apr 11 |
 | **[CooperSurgical](http://www.coopersurgical.com)** | **[Service & Repair, Fertility Intern](https://jobright.ai/jobs/info/69bdb8b8393a1008f7432bd1?utm_campaign=1058&utm_source=git)** | Livingston, NJ | On Site | Apr 11 |
@@ -145,16 +145,16 @@ For a complete list, click the following sortable link below:
 | **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69da72f9738f2f099e8a965c?utm_campaign=1058&utm_source=git)** | Hendersonville, TN | On Site | Apr 11 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69da72e19f97a42dc9c291bf?utm_campaign=1058&utm_source=git)** | Nashville, TN | On Site | Apr 11 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69da7291b67cec4f9b0a979c?utm_campaign=1058&utm_source=git)** | Albuquerque, NM | On Site | Apr 11 |
-| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69da72e19f97a42dc9c291be?utm_campaign=1058&utm_source=git)** | Tyler, TX | On Site | Apr 11 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69da7301738f2f099e8a9680?utm_campaign=1058&utm_source=git)** | Tyler, TX | On Site | Apr 11 |
+| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69da72e19f97a42dc9c291be?utm_campaign=1058&utm_source=git)** | Tyler, TX | On Site | Apr 11 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69da72a45356a60f40fe135c?utm_campaign=1058&utm_source=git)** | Galloway, OH | On Site | Apr 11 |
 | **[American Battery Solutions Inc.](https://www.americanbatterysolutions.com/)** | **[IT Co-op](https://jobright.ai/jobs/info/69bd9ede4828227293ffd849?utm_campaign=1058&utm_source=git)** | Springboro, OH | On Site | Apr 11 |
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Senior Technical Writer](https://jobright.ai/jobs/info/69bdd715393a1008f74396f6?utm_campaign=1058&utm_source=git)** | Ohio, United States | Remote | Apr 11 |
 | **[Quva](http://www.quvapharma.com/)** | **[Information Technology Intern (Applications)](https://jobright.ai/jobs/info/69bd7767393a1008f742d25f?utm_campaign=1058&utm_source=git)** | Sugar Land, TX | On Site | Apr 11 |
 | ↳ | **[Warehouse Technician Intern](https://jobright.ai/jobs/info/69bd7759393a1008f742d24a?utm_campaign=1058&utm_source=git)** | Phoenix, AZ | On Site | Apr 11 |
-| **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Intern I &amp;#8211; High School](https://jobright.ai/jobs/info/69db9dc3738f2f099e8af2a2?utm_campaign=1058&utm_source=git)** | Fresno, CA | On Site | Apr 11 |
 | **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[RN-Intern I (Nursery)](https://jobright.ai/jobs/info/69bd2c47b106024562821967?utm_campaign=1058&utm_source=git)** | Columbus, MS | On Site | Apr 11 |
 | **[Valley Baptist Health System](https://www.valleybaptist.net)** | **[Student Intern Surgery Per Diem Days](https://jobright.ai/jobs/info/69851aba348f733a5c394779?utm_campaign=1058&utm_source=git)** | Brownsville, TX | On Site | Apr 11 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, VIP Nation Intern](https://jobright.ai/jobs/info/69bd6db8393a1008f742c2a1?utm_campaign=1058&utm_source=git)** | Beverly Hills, CA | Hybrid | Apr 11 |
 | **[Children's National Hospital](https://www.childrensnational.org/)** | **[Pharmacy Intern (PRN / As Needed)](https://jobright.ai/jobs/info/69bea020b106024562841599?utm_campaign=1058&utm_source=git)** | Washington, DC | On Site | Apr 11 |
+| **[ETS-Lindgren](http://www.ets-lindgren.com/)** | **[Technical Writer Intern](https://jobright.ai/jobs/info/69c0c9f12c312363dcd33d38?utm_campaign=1058&utm_source=git)** | Greater Chicago Area | On Site | Apr 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
