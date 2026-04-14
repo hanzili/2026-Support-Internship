@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[U.S. Chamber of Commerce](https://www.uschamber.com/)** | **[Information Technology Internship - Summer 2026](https://jobright.ai/jobs/info/69deb1d6433ac8430e0dbe2e?utm_campaign=1058&utm_source=git)** | Headquarters, 1615 H Street, NW, Washington, District Of Columbia, United States of America | Hybrid | Apr 14 |
+| **[North Carolina State University](http://www.ncsu.edu)** | **[IT Support Analyst](https://jobright.ai/jobs/info/69deadfa36823d1b425831c3?utm_campaign=1058&utm_source=git)** | Raleigh, NC | On Site | Apr 14 |
+| **[UPMC](https://www.upmc.com/)** | **[Respiratory Care Intern - UPMC Memorial](https://jobright.ai/jobs/info/69deadcdaba61f1417317026?utm_campaign=1058&utm_source=git)** | York, PA | On Site | Apr 14 |
+| **[Wealth Enhancement](http://wealthenhancement.com/)** | **[Intern](https://jobright.ai/jobs/info/69dea89c5913ad339813ec64?utm_campaign=1058&utm_source=git)** | Coronado, CA | On Site | Apr 14 |
+| **[Amery Hospital & Clinic](https://www.amerymedicalcenter.org)** | **[Laboratory Student Intern](https://jobright.ai/jobs/info/69dea882aba61f1417316e7f?utm_campaign=1058&utm_source=git)** | Hutchinson, MN, United States | On Site | Apr 14 |
+| **[HealthPartners](https://www.castalovespells.com/contact/)** | **[Laboratory Student Intern](https://jobright.ai/jobs/info/69dea85ee34484770f1a3fb9?utm_campaign=1058&utm_source=git)** | Hutchinson, MN, United States | On Site | Apr 14 |
+| **[Albany International Corp.](http://www.albint.com/)** | **[IT Operations Intern](https://jobright.ai/jobs/info/69dea8575913ad339813eba8?utm_campaign=1058&utm_source=git)** | Kaukauna, WI | On Site | Apr 14 |
 | **[BOLAND](http://boland.com)** | **[Supply Intern (Summer)](https://jobright.ai/jobs/info/69dea6ababa61f1417316da0?utm_campaign=1058&utm_source=git)** | Upper Marlboro, MD | On Site | Apr 14 |
 | **[Boston Medical Center (BMC)](http://www.bmc.org/)** | **[High School Student Intern Medical Assistant](https://jobright.ai/jobs/info/69dea6a936823d1b42582f6b?utm_campaign=1058&utm_source=git)** | Brockton, MA | On Site | Apr 14 |
 | **[Daniels Health](https://www.danielshealth.com/)** | **[IT Service Desk Intern](https://jobright.ai/jobs/info/69dea43218cf504166e2ed74?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Apr 14 |
@@ -123,9 +130,9 @@ For a complete list, click the following sortable link below:
 | **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69de6e315913ad339813d356?utm_campaign=1058&utm_source=git)** | Franklin, TN | On Site | Apr 14 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69de6a2618cf504166e2ce3b?utm_campaign=1058&utm_source=git)** | Toms River, NJ | On Site | Apr 14 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69de6a0ce34484770f1a1e1d?utm_campaign=1058&utm_source=git)** | High Point, NC | On Site | Apr 14 |
-| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69de6a26e34484770f1a1e43?utm_campaign=1058&utm_source=git)** | Carmel, IN | On Site | Apr 14 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69de6e325913ad339813d363?utm_campaign=1058&utm_source=git)** | Jacksonville, FL | On Site | Apr 14 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69de6a0ce34484770f1a1e1c?utm_campaign=1058&utm_source=git)** | Grand Rapids, MI | On Site | Apr 14 |
+| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69de6a26e34484770f1a1e43?utm_campaign=1058&utm_source=git)** | Carmel, IN | On Site | Apr 14 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69de6de4aba61f1417314e8c?utm_campaign=1058&utm_source=git)** | Brooklyn Park, MN | On Site | Apr 14 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69de6a0ce34484770f1a1e23?utm_campaign=1058&utm_source=git)** | Morgantown, WV | On Site | Apr 14 |
 | **[Cherokee Indian Hospital](https://cherokeehospital.org)** | **[Intern](https://jobright.ai/jobs/info/69de43ac18cf504166e2c29b?utm_campaign=1058&utm_source=git)** | Cherokee, NC | On Site | Apr 14 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Johns Hopkins Hospital](https://www.hopkinsmedicine.org/the-johns-hopkins-hospital)** | **[Patient Care Tech intern - CNA - Adult Oncology 5CD](https://jobright.ai/jobs/info/69dde0325913ad339813b3c7?utm_campaign=1058&utm_source=git)** | DC-Baltimore Area | On Site | Apr 13 |
 | **[SAP Taulia](https://taulia.com/)** | **[IT Support Intern](https://jobright.ai/jobs/info/69dddde3aba61f1417312de8?utm_campaign=1058&utm_source=git)** | Salt Lake City, UT | Hybrid | Apr 13 |
 | **[VEKA - North America](http://vekainc.com)** | **[Customer Account Specialist Intern](https://jobright.ai/jobs/info/69ddce78aba61f1417312717?utm_campaign=1058&utm_source=git)** | Fombell, PA | Hybrid | Apr 13 |
-| **[Thomas Jefferson University](http://www.jefferson.edu/)** | **[Pharmacy Intern - Per Diem - Jefferson Center City Outpatient](https://jobright.ai/jobs/info/69ddc30ae34484770f19f2e7?utm_campaign=1058&utm_source=git)** | Philadelphia, PA | On Site | Apr 13 |
-| **[Asset Management Powered by AssetWorks USA](https://www.assetworks.com/active-assets/)** | **[Professional Services Intern](https://jobright.ai/jobs/info/69ddc2f95913ad339813a74b?utm_campaign=1058&utm_source=git)** | United States - Pennsylvania | On Site | Apr 13 |
-| **[Massachusetts School Building Authority (MSBA)](http://www.massschoolbuildings.org/)** | **[IT Co-Op](https://jobright.ai/jobs/info/69ddbe7e4d3bec4144b4dc08?utm_campaign=1058&utm_source=git)** | Boston, MA | Hybrid | Apr 13 |
-| **[Nextech Systems](http://www.nextech.com)** | **[Support Operations Intern ( Summer 2026 Internship) -  Remote United States](https://jobright.ai/jobs/info/69ddb2388182b27d347411f1?utm_campaign=1058&utm_source=git)** | United States | Remote | Apr 13 |
-| **[Carle Health](http://www.carle.org)** | **[Radiologic Technologist Intern - Cath Lab - Methodist](https://jobright.ai/jobs/info/69ddb22f433ac8430e0d658d?utm_campaign=1058&utm_source=git)** | Peoria, IL, US | On Site | Apr 13 |
-| ↳ | **[Radiologic Technologist Intern - Cath Lab - Methodist](https://jobright.ai/jobs/info/69ddb22d5913ad3398139fad?utm_campaign=1058&utm_source=git)** | US-IL-Peoria | On Site | Apr 13 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[IT Intern- Infrastructure and Operations](https://jobright.ai/jobs/info/69ddaacc433ac8430e0d622b?utm_campaign=1058&utm_source=git)** | Austin, Texas, United States | On Site | Apr 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
