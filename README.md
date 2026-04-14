@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Innovid](https://www.innovid.com)** | **[Information Technology (IT) Intern](https://jobright.ai/jobs/info/69de1bb336823d1b4257fbd5?utm_campaign=1058&utm_source=git)** | New York | Hybrid | Apr 14 |
 | **[Oracle](https://www.oracle.com/)** | **[Global Delivery Intern - Customer Success Support](https://jobright.ai/jobs/info/698a66400f6f7e7a2ce58978?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | Apr 14 |
 | **[Jefferson Health](http://JeffersonHealth.org)** | **[Pharmacy Intern - Per Diem - Jefferson Center City Outpatient](https://jobright.ai/jobs/info/69de15a85913ad339813bf2a?utm_campaign=1058&utm_source=git)** | Philadelphia, PA | On Site | Apr 14 |
 | **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse II ICU](https://jobright.ai/jobs/info/69de0e7318cf504166e2ba1e?utm_campaign=1058&utm_source=git)** | Memphis, TN | On Site | Apr 14 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Yunex Traffic](https://www.yunextraffic.com/global/en/)** | **[Service Technician](https://jobright.ai/jobs/info/69dd9abe35a2b346b20b1bdc?utm_campaign=1058&utm_source=git)** | Sunnyvale, TX | Hybrid | Apr 13 |
 | **[Saint Luke's](https://www.saintlukeskc.org)** | **[Nursing Intern - PCU](https://jobright.ai/jobs/info/69ddb959aba61f1417311dd8?utm_campaign=1058&utm_source=git)** | Lees Summit, MO | On Site | Apr 13 |
 | **[TD Securities](https://www.tdsecurities.com)** | **[Private Trust Private Client Service Intern/Co-Op (Fall 2026)](https://jobright.ai/jobs/info/69dd6c00bc6f6622c99121ee?utm_campaign=1058&utm_source=git)** | Toronto, ON | On Site | Apr 13 |
-| **[South Platte Renew](https://southplatterenewco.gov/)** | **[Records and Information Intern](https://jobright.ai/jobs/info/69dd6bf8bc6f6622c99121dc?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | Apr 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
