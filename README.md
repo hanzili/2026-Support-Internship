@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[VEKA - North America](http://vekainc.com)** | **[Customer Account Specialist Intern](https://jobright.ai/jobs/info/69ddce78aba61f1417312717?utm_campaign=1058&utm_source=git)** | Fombell, PA | Hybrid | Apr 13 |
 | **[Thomas Jefferson University](http://www.jefferson.edu/)** | **[Pharmacy Intern - Per Diem - Jefferson Center City Outpatient](https://jobright.ai/jobs/info/69ddc30ae34484770f19f2e7?utm_campaign=1058&utm_source=git)** | Philadelphia, PA | On Site | Apr 13 |
 | **[Asset Management Powered by AssetWorks USA](https://www.assetworks.com/active-assets/)** | **[Professional Services Intern](https://jobright.ai/jobs/info/69ddc2f95913ad339813a74b?utm_campaign=1058&utm_source=git)** | United States - Pennsylvania | On Site | Apr 13 |
 | **[Bellco Credit Union](https://www.bellco.org)** | **[Operations Intern - Support Services](https://jobright.ai/jobs/info/69ddc1795913ad339813a6d4?utm_campaign=1058&utm_source=git)** | Greenwood Village, CO | On Site | Apr 13 |
@@ -67,15 +68,15 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Radiologic Technologist Intern - Cath Lab - Methodist](https://jobright.ai/jobs/info/69ddb22d5913ad3398139fad?utm_campaign=1058&utm_source=git)** | US-IL-Peoria | On Site | Apr 13 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[IT Intern- Infrastructure and Operations](https://jobright.ai/jobs/info/69ddaacc433ac8430e0d622b?utm_campaign=1058&utm_source=git)** | Austin, Texas, United States | On Site | Apr 13 |
 | ↳ | **[IT Intern- Infrastructure and Operations](https://jobright.ai/jobs/info/69ddaacc433ac8430e0d622a?utm_campaign=1058&utm_source=git)** | Thornton, Colorado, United States | On Site | Apr 13 |
-| ↳ | **[IT Intern- Infrastructure and Operations](https://jobright.ai/jobs/info/69ddaac2aba61f14173116ed?utm_campaign=1058&utm_source=git)** | Honolulu, Hawaii, United States | On Site | Apr 13 |
 | ↳ | **[IT Intern- Infrastructure and Operations](https://jobright.ai/jobs/info/69ddaac2aba61f14173116ec?utm_campaign=1058&utm_source=git)** | Fort Collins, Colorado, United States | On Site | Apr 13 |
+| ↳ | **[IT Intern- Infrastructure and Operations](https://jobright.ai/jobs/info/69ddaac2aba61f14173116ed?utm_campaign=1058&utm_source=git)** | Honolulu, Hawaii, United States | On Site | Apr 13 |
 | ↳ | **[IT Intern- Infrastructure and Operations](https://jobright.ai/jobs/info/69ddaab05913ad3398139bcb?utm_campaign=1058&utm_source=git)** | Bellevue, Washington, United States | On Site | Apr 13 |
 | ↳ | **[IT Intern- Infrastructure and Operations](https://jobright.ai/jobs/info/69ddaab05913ad3398139bce?utm_campaign=1058&utm_source=git)** | Tysons Corner, Virginia, United States | On Site | Apr 13 |
 | ↳ | **[IT Intern- Infrastructure and Operations](https://jobright.ai/jobs/info/69ddaa7d4d3bec4144b4d39c?utm_campaign=1058&utm_source=git)** | Irvine, California, United States | On Site | Apr 13 |
 | ↳ | **[IT Intern- Infrastructure and Operations](https://jobright.ai/jobs/info/69ddaa7d4d3bec4144b4d39d?utm_campaign=1058&utm_source=git)** | Westminster, Colorado, United States | On Site | Apr 13 |
 | ↳ | **[IT Intern- Infrastructure and Operations](https://jobright.ai/jobs/info/69ddaa7de34484770f19e664?utm_campaign=1058&utm_source=git)** | Pleasanton, California, United States | On Site | Apr 13 |
-| ↳ | **[IT Intern- Infrastructure and Operations](https://jobright.ai/jobs/info/69ddaa7b8182b27d34740c71?utm_campaign=1058&utm_source=git)** | Phoenix, Arizona, United States | On Site | Apr 13 |
 | ↳ | **[IT Intern- Infrastructure and Operations](https://jobright.ai/jobs/info/69ddaa7be34484770f19e660?utm_campaign=1058&utm_source=git)** | Orlando, Florida, United States | On Site | Apr 13 |
+| ↳ | **[IT Intern- Infrastructure and Operations](https://jobright.ai/jobs/info/69ddaa7b8182b27d34740c71?utm_campaign=1058&utm_source=git)** | Phoenix, Arizona, United States | On Site | Apr 13 |
 | ↳ | **[IT Intern- Infrastructure and Operations](https://jobright.ai/jobs/info/69ddaa7b8182b27d34740c7b?utm_campaign=1058&utm_source=git)** | Greeley, Colorado, United States | On Site | Apr 13 |
 | **[Xometry](https://www.xometry.com)** | **[Case Management Intern](https://jobright.ai/jobs/info/6948ed3863141d1884589708?utm_campaign=1058&utm_source=git)** | Gaithersburg, MD | Hybrid | Apr 13 |
 | **[BankNewport](http://banknewport.com)** | **[IT Internship](https://jobright.ai/jobs/info/69dda800e34484770f19e5aa?utm_campaign=1058&utm_source=git)** | US-RI-Middletown | On Site | Apr 13 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[PTR Premier Truck Rental](https://rentptr.com)** | **[Intern Fleet Service](https://jobright.ai/jobs/info/69dd5aad738f2f099e8b5e60?utm_campaign=1058&utm_source=git)** | Fort Wayne, IN | On Site | Apr 13 |
 | **[Hercules Industries](http://herculesindustries.com)** | **[IT Help Desk Intern](https://jobright.ai/jobs/info/69dd5a88738f2f099e8b5e17?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | Apr 13 |
 | ↳ | **[IT Help Desk Intern](https://jobright.ai/jobs/info/69dd5a0f738f2f099e8b5d80?utm_campaign=1058&utm_source=git)** | Denver, Colorado, United States | On Site | Apr 13 |
-| **[SPG - Specialty Program Group](https://www.specialtyprogramgroup.com/)** | **[Claims Service Associate - Summer Intern](https://jobright.ai/jobs/info/69dd581d5356a60f40fedc54?utm_campaign=1058&utm_source=git)** | Lynnfield, MA | On Site | Apr 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
