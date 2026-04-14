@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Xometry](https://www.xometry.com)** | **[Customer Support Intern](https://jobright.ai/jobs/info/6952e06ef1f8465b79ea28f5?utm_campaign=1058&utm_source=git)** | North Bethesda, MD | Hybrid | Apr 14 |
 | **[Innovid](https://www.innovid.com)** | **[Information Technology (IT) Intern](https://jobright.ai/jobs/info/69de1bb336823d1b4257fbd5?utm_campaign=1058&utm_source=git)** | New York | Hybrid | Apr 14 |
 | **[Oracle](https://www.oracle.com/)** | **[Global Delivery Intern - Customer Success Support](https://jobright.ai/jobs/info/698a66400f6f7e7a2ce58978?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | Apr 14 |
 | **[Jefferson Health](http://JeffersonHealth.org)** | **[Pharmacy Intern - Per Diem - Jefferson Center City Outpatient](https://jobright.ai/jobs/info/69de15a85913ad339813bf2a?utm_campaign=1058&utm_source=git)** | Philadelphia, PA | On Site | Apr 14 |
@@ -86,23 +87,22 @@ For a complete list, click the following sortable link below:
 | **[Nextech Systems](http://www.nextech.com)** | **[Support Operations Intern ( Summer 2026 Internship) -  Remote United States](https://jobright.ai/jobs/info/69ddb2388182b27d347411f1?utm_campaign=1058&utm_source=git)** | United States | Remote | Apr 13 |
 | **[Carle Health](http://www.carle.org)** | **[Radiologic Technologist Intern - Cath Lab - Methodist](https://jobright.ai/jobs/info/69ddb22f433ac8430e0d658d?utm_campaign=1058&utm_source=git)** | Peoria, IL, US | On Site | Apr 13 |
 | ↳ | **[Radiologic Technologist Intern - Cath Lab - Methodist](https://jobright.ai/jobs/info/69ddb22d5913ad3398139fad?utm_campaign=1058&utm_source=git)** | US-IL-Peoria | On Site | Apr 13 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[IT Intern- Infrastructure and Operations](https://jobright.ai/jobs/info/69ddaacc433ac8430e0d622b?utm_campaign=1058&utm_source=git)** | Austin, Texas, United States | On Site | Apr 13 |
-| ↳ | **[IT Intern- Infrastructure and Operations](https://jobright.ai/jobs/info/69ddaacc433ac8430e0d622a?utm_campaign=1058&utm_source=git)** | Thornton, Colorado, United States | On Site | Apr 13 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[IT Intern- Infrastructure and Operations](https://jobright.ai/jobs/info/69ddaacc433ac8430e0d622a?utm_campaign=1058&utm_source=git)** | Thornton, Colorado, United States | On Site | Apr 13 |
+| ↳ | **[IT Intern- Infrastructure and Operations](https://jobright.ai/jobs/info/69ddaacc433ac8430e0d622b?utm_campaign=1058&utm_source=git)** | Austin, Texas, United States | On Site | Apr 13 |
 | ↳ | **[IT Intern- Infrastructure and Operations](https://jobright.ai/jobs/info/69ddaac2aba61f14173116ec?utm_campaign=1058&utm_source=git)** | Fort Collins, Colorado, United States | On Site | Apr 13 |
 | ↳ | **[IT Intern- Infrastructure and Operations](https://jobright.ai/jobs/info/69ddaac2aba61f14173116ed?utm_campaign=1058&utm_source=git)** | Honolulu, Hawaii, United States | On Site | Apr 13 |
-| ↳ | **[IT Intern- Infrastructure and Operations](https://jobright.ai/jobs/info/69ddaab05913ad3398139bcb?utm_campaign=1058&utm_source=git)** | Bellevue, Washington, United States | On Site | Apr 13 |
 | ↳ | **[IT Intern- Infrastructure and Operations](https://jobright.ai/jobs/info/69ddaab05913ad3398139bce?utm_campaign=1058&utm_source=git)** | Tysons Corner, Virginia, United States | On Site | Apr 13 |
-| ↳ | **[IT Intern- Infrastructure and Operations](https://jobright.ai/jobs/info/69ddaa7d4d3bec4144b4d39c?utm_campaign=1058&utm_source=git)** | Irvine, California, United States | On Site | Apr 13 |
+| ↳ | **[IT Intern- Infrastructure and Operations](https://jobright.ai/jobs/info/69ddaab05913ad3398139bcb?utm_campaign=1058&utm_source=git)** | Bellevue, Washington, United States | On Site | Apr 13 |
 | ↳ | **[IT Intern- Infrastructure and Operations](https://jobright.ai/jobs/info/69ddaa7d4d3bec4144b4d39d?utm_campaign=1058&utm_source=git)** | Westminster, Colorado, United States | On Site | Apr 13 |
+| ↳ | **[IT Intern- Infrastructure and Operations](https://jobright.ai/jobs/info/69ddaa7d4d3bec4144b4d39c?utm_campaign=1058&utm_source=git)** | Irvine, California, United States | On Site | Apr 13 |
 | ↳ | **[IT Intern- Infrastructure and Operations](https://jobright.ai/jobs/info/69ddaa7de34484770f19e664?utm_campaign=1058&utm_source=git)** | Pleasanton, California, United States | On Site | Apr 13 |
+| ↳ | **[IT Intern- Infrastructure and Operations](https://jobright.ai/jobs/info/69ddaa7b8182b27d34740c71?utm_campaign=1058&utm_source=git)** | Phoenix, Arizona, United States | On Site | Apr 13 |
 | ↳ | **[IT Intern- Infrastructure and Operations](https://jobright.ai/jobs/info/69ddaa7b8182b27d34740c7b?utm_campaign=1058&utm_source=git)** | Greeley, Colorado, United States | On Site | Apr 13 |
 | ↳ | **[IT Intern- Infrastructure and Operations](https://jobright.ai/jobs/info/69ddaa7be34484770f19e660?utm_campaign=1058&utm_source=git)** | Orlando, Florida, United States | On Site | Apr 13 |
-| ↳ | **[IT Intern- Infrastructure and Operations](https://jobright.ai/jobs/info/69ddaa7b8182b27d34740c71?utm_campaign=1058&utm_source=git)** | Phoenix, Arizona, United States | On Site | Apr 13 |
 | **[Xometry](https://www.xometry.com)** | **[Case Management Intern](https://jobright.ai/jobs/info/6948ed3863141d1884589708?utm_campaign=1058&utm_source=git)** | Gaithersburg, MD | Hybrid | Apr 13 |
 | **[BankNewport](http://banknewport.com)** | **[IT Internship](https://jobright.ai/jobs/info/69dda800e34484770f19e5aa?utm_campaign=1058&utm_source=git)** | US-RI-Middletown | On Site | Apr 13 |
 | ↳ | **[IT Internship](https://jobright.ai/jobs/info/69dda7e78182b27d34740b86?utm_campaign=1058&utm_source=git)** | Middletown, RI, US | On Site | Apr 13 |
-| **[GE HealthCare](http://www.gehealthcare.com)** | **[USCAN Service Technology Intern - Summer 2026](https://jobright.ai/jobs/info/69dda640e34484770f19e4aa?utm_campaign=1058&utm_source=git)** | Idaho, United States | Remote | Apr 13 |
-| ↳ | **[USCAN Service Technology Intern - Summer 2026](https://jobright.ai/jobs/info/69dda6328182b27d34740a90?utm_campaign=1058&utm_source=git)** | Wyoming, United States | Remote | Apr 13 |
+| **[GE HealthCare](http://www.gehealthcare.com)** | **[USCAN Service Technology Intern - Summer 2026](https://jobright.ai/jobs/info/69dda6328182b27d34740a90?utm_campaign=1058&utm_source=git)** | Wyoming, United States | Remote | Apr 13 |
 | ↳ | **[USCAN Service Technology Intern - Summer 2026](https://jobright.ai/jobs/info/69dda62ce34484770f19e49e?utm_campaign=1058&utm_source=git)** | Wisconsin, United States | Remote | Apr 13 |
 | ↳ | **[USCAN Service Technology Intern - Summer 2026](https://jobright.ai/jobs/info/69dda5ea433ac8430e0d5f78?utm_campaign=1058&utm_source=git)** | Oregon, United States | Remote | Apr 13 |
 | **[University Health KC](https://www.universityhealthkc.org)** | **[Pharmacy Student Intern (Inpatient) - Pharmacy - UH Truman Medical Centers (varied shifts per week)](https://jobright.ai/jobs/info/69dda5d95913ad339813989d?utm_campaign=1058&utm_source=git)** | Kansas City, MO | On Site | Apr 13 |
@@ -125,7 +125,7 @@ For a complete list, click the following sortable link below:
 | **[The Lodge & Club Ponte Vedra Beach](https://www.pontevedra.com/stay/lodge)** | **[THE GYM - INTERN](https://jobright.ai/jobs/info/69dd88379f97a42dc9c36957?utm_campaign=1058&utm_source=git)** | Ponte Vedra Beach, FL | On Site | Apr 13 |
 | **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[Radiology Intern](https://jobright.ai/jobs/info/69dd87a4bc6f6622c9912874?utm_campaign=1058&utm_source=git)** | Pittsburg, KS | On Site | Apr 13 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69dd875c5356a60f40fee7f7?utm_campaign=1058&utm_source=git)** | Wichita, KS | On Site | Apr 13 |
-| **[Veolia | North America](http://growingblue.com/)** | **[Customer Service Intern](https://jobright.ai/jobs/info/69d059dfcdb525785fba9972?utm_campaign=1058&utm_source=git)** | West Nyack, NY | On Site | Apr 13 |
+| **[Veolia | North America](http://www.veolianorthamerica.com/)** | **[Customer Service Intern](https://jobright.ai/jobs/info/69d059dfcdb525785fba9972?utm_campaign=1058&utm_source=git)** | West Nyack, NY | On Site | Apr 13 |
 | **[Hunterdon Health](https://www.hunterdonhealth.org/)** | **[Nursing Intern](https://jobright.ai/jobs/info/69dd87015356a60f40fee732?utm_campaign=1058&utm_source=git)** | Flemington, NJ | On Site | Apr 13 |
 | **[Flexera](https://www.flexera.com)** | **[Technical Writer Intern](https://jobright.ai/jobs/info/69dd86f1f748bc5d08a601c3?utm_campaign=1058&utm_source=git)** | United States | Remote | Apr 13 |
 | **[MyMichigan Health](https://www.mymichigan.org)** | **[CRNA Intern](https://jobright.ai/jobs/info/69d7f125f4ea471a51fe2971?utm_campaign=1058&utm_source=git)** | Midland, MI | On Site | Apr 13 |
@@ -155,6 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Pearle Vision](http://www.pearlevision.com)** | **[Student Optician-Peterborough, ON-PearleVision](https://jobright.ai/jobs/info/69d978b8b67cec4f9b0a2377?utm_campaign=1058&utm_source=git)** | Peterborough, ON | On Site | Apr 13 |
 | **[Groupe Dynamite](https://groupedynamite.com)** | **[Intern, Customer Service Projects](https://jobright.ai/jobs/info/69dd6d3a5356a60f40fee283?utm_campaign=1058&utm_source=git)** | Mont-Royal, QC | On Site | Apr 13 |
 | **[Yunex Traffic](https://www.yunextraffic.com/global/en/)** | **[Service Technician](https://jobright.ai/jobs/info/69dd9abe35a2b346b20b1bdc?utm_campaign=1058&utm_source=git)** | Sunnyvale, TX | Hybrid | Apr 13 |
-| **[Saint Luke's](https://www.saintlukeskc.org)** | **[Nursing Intern - PCU](https://jobright.ai/jobs/info/69ddb959aba61f1417311dd8?utm_campaign=1058&utm_source=git)** | Lees Summit, MO | On Site | Apr 13 |
+| **[Saint Luke's](https://www.saintlukeskc.org)** | **[Nursing Intern - PCU](https://jobright.ai/jobs/info/69ddbef95913ad339813a38e?utm_campaign=1058&utm_source=git)** | Lees Summit, MO | On Site | Apr 13 |
 | **[TD Securities](https://www.tdsecurities.com)** | **[Private Trust Private Client Service Intern/Co-Op (Fall 2026)](https://jobright.ai/jobs/info/69dd6c00bc6f6622c99121ee?utm_campaign=1058&utm_source=git)** | Toronto, ON | On Site | Apr 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
