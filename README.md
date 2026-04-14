@@ -71,12 +71,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Radiologic Technologist Intern - Cath Lab - Methodist](https://jobright.ai/jobs/info/69ddb22d5913ad3398139fad?utm_campaign=1058&utm_source=git)** | US-IL-Peoria | On Site | Apr 13 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[IT Intern- Infrastructure and Operations](https://jobright.ai/jobs/info/69ddaacc433ac8430e0d622a?utm_campaign=1058&utm_source=git)** | Thornton, Colorado, United States | On Site | Apr 13 |
 | ↳ | **[IT Intern- Infrastructure and Operations](https://jobright.ai/jobs/info/69ddaacc433ac8430e0d622b?utm_campaign=1058&utm_source=git)** | Austin, Texas, United States | On Site | Apr 13 |
-| ↳ | **[IT Intern- Infrastructure and Operations](https://jobright.ai/jobs/info/69ddaac2aba61f14173116ed?utm_campaign=1058&utm_source=git)** | Honolulu, Hawaii, United States | On Site | Apr 13 |
 | ↳ | **[IT Intern- Infrastructure and Operations](https://jobright.ai/jobs/info/69ddaac2aba61f14173116ec?utm_campaign=1058&utm_source=git)** | Fort Collins, Colorado, United States | On Site | Apr 13 |
+| ↳ | **[IT Intern- Infrastructure and Operations](https://jobright.ai/jobs/info/69ddaac2aba61f14173116ed?utm_campaign=1058&utm_source=git)** | Honolulu, Hawaii, United States | On Site | Apr 13 |
 | ↳ | **[IT Intern- Infrastructure and Operations](https://jobright.ai/jobs/info/69ddaab05913ad3398139bce?utm_campaign=1058&utm_source=git)** | Tysons Corner, Virginia, United States | On Site | Apr 13 |
 | ↳ | **[IT Intern- Infrastructure and Operations](https://jobright.ai/jobs/info/69ddaab05913ad3398139bcb?utm_campaign=1058&utm_source=git)** | Bellevue, Washington, United States | On Site | Apr 13 |
-| ↳ | **[IT Intern- Infrastructure and Operations](https://jobright.ai/jobs/info/69ddaa7d4d3bec4144b4d39c?utm_campaign=1058&utm_source=git)** | Irvine, California, United States | On Site | Apr 13 |
 | ↳ | **[IT Intern- Infrastructure and Operations](https://jobright.ai/jobs/info/69ddaa7de34484770f19e664?utm_campaign=1058&utm_source=git)** | Pleasanton, California, United States | On Site | Apr 13 |
+| ↳ | **[IT Intern- Infrastructure and Operations](https://jobright.ai/jobs/info/69ddaa7d4d3bec4144b4d39c?utm_campaign=1058&utm_source=git)** | Irvine, California, United States | On Site | Apr 13 |
 | ↳ | **[IT Intern- Infrastructure and Operations](https://jobright.ai/jobs/info/69ddaa7d4d3bec4144b4d39d?utm_campaign=1058&utm_source=git)** | Westminster, Colorado, United States | On Site | Apr 13 |
 | ↳ | **[IT Intern- Infrastructure and Operations](https://jobright.ai/jobs/info/69ddaa7b8182b27d34740c7b?utm_campaign=1058&utm_source=git)** | Greeley, Colorado, United States | On Site | Apr 13 |
 | ↳ | **[IT Intern- Infrastructure and Operations](https://jobright.ai/jobs/info/69ddaa7be34484770f19e660?utm_campaign=1058&utm_source=git)** | Orlando, Florida, United States | On Site | Apr 13 |
@@ -127,7 +127,6 @@ For a complete list, click the following sortable link below:
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69dd77109f97a42dc9c365c8?utm_campaign=1058&utm_source=git)** | Lawrence, KS | On Site | Apr 13 |
 | **[BGIS](https://www.bgis.com)** | **[Intern, Technical Support Analyst](https://jobright.ai/jobs/info/69dd765c61f6ed54321fd840?utm_campaign=1058&utm_source=git)** | Markham, ON, Canada | On Site | Apr 13 |
 | **[Enviri](https://www.enviri.com)** | **[IT Intern - Summer 2026](https://jobright.ai/jobs/info/69dd7651bc6f6622c99124c8?utm_campaign=1058&utm_source=git)** | 2401 Edmund Hwy, West Columbia, SC 29170, USA | On Site | Apr 13 |
-| **[Sterling Pharma Solutions](https://www.sterlingpharmasolutions.com)** | **[IT Support Intern (Summer 2026)](https://jobright.ai/jobs/info/69dda28d8182b27d347405d7?utm_campaign=1058&utm_source=git)** | Germantown, WI | On Site | Apr 13 |
 | **[Sheridan College](https://www.sheridan.edu)** | **[(Student Position )Library Helpdesk](https://jobright.ai/jobs/info/69dd9a5535a2b346b20b1aff?utm_campaign=1058&utm_source=git)** | Sheridan County, KS | On Site | Apr 13 |
 | **[Valley Children's Healthcare](https://www.valleychildrens.org/)** | **[Student Intern - IT Infrastructure](https://jobright.ai/jobs/info/69dd9aa835a2b346b20b1b9e?utm_campaign=1058&utm_source=git)** | Madera, CA | On Site | Apr 13 |
 | **[Wenzel Associates](http://www.wenzel.com)** | **[Summer Intern - Inventory Specialist](https://jobright.ai/jobs/info/69dd73aaf748bc5d08a5ff16?utm_campaign=1058&utm_source=git)** | Austin,TX,US | On Site | Apr 13 |
@@ -141,7 +140,7 @@ For a complete list, click the following sortable link below:
 | **[Pearle Vision](http://www.pearlevision.com)** | **[Student Optician-Peterborough, ON-PearleVision](https://jobright.ai/jobs/info/69d978b8b67cec4f9b0a2377?utm_campaign=1058&utm_source=git)** | Peterborough, ON | On Site | Apr 13 |
 | **[Groupe Dynamite](https://groupedynamite.com)** | **[Intern, Customer Service Projects](https://jobright.ai/jobs/info/69dd6d3a5356a60f40fee283?utm_campaign=1058&utm_source=git)** | Mont-Royal, QC | On Site | Apr 13 |
 | **[Yunex Traffic](https://www.yunextraffic.com/global/en/)** | **[Service Technician](https://jobright.ai/jobs/info/69dd9abe35a2b346b20b1bdc?utm_campaign=1058&utm_source=git)** | Sunnyvale, TX | Hybrid | Apr 13 |
-| **[Saint Luke's](https://www.saintlukeskc.org)** | **[Nursing Intern - PCU](https://jobright.ai/jobs/info/69ddbef95913ad339813a38e?utm_campaign=1058&utm_source=git)** | Lees Summit, MO | On Site | Apr 13 |
+| **[Saint Luke's](https://www.saintlukeskc.org)** | **[Nursing Intern - PCU](https://jobright.ai/jobs/info/69ddb959aba61f1417311dd8?utm_campaign=1058&utm_source=git)** | Lees Summit, MO | On Site | Apr 13 |
 | **[TD Securities](https://www.tdsecurities.com)** | **[Private Trust Private Client Service Intern/Co-Op (Fall 2026)](https://jobright.ai/jobs/info/69dd6c00bc6f6622c99121ee?utm_campaign=1058&utm_source=git)** | Toronto, ON | On Site | Apr 13 |
 | **[South Platte Renew](https://southplatterenewco.gov/)** | **[Records and Information Intern](https://jobright.ai/jobs/info/69dd6bf8bc6f6622c99121dc?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | Apr 13 |
 | **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[Intern, Technical Support](https://jobright.ai/jobs/info/69dd6b105356a60f40fee086?utm_campaign=1058&utm_source=git)** | Springboro, OH | On Site | Apr 13 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[SCAN](https://www.thescangroup.org/)** | **[Temporary Pharmacist Intern (Part-time)](https://jobright.ai/jobs/info/69dd5fa661f6ed54321fcfb0?utm_campaign=1058&utm_source=git)** | Long Beach Office 3800 | Remote | Apr 13 |
 | **[Arvum Senior Living](https://www.arvumseniorliving.com/)** | **[Weekend Sat & Sun Concierge 9am-3pm](https://jobright.ai/jobs/info/69dd5e959f97a42dc9c35e86?utm_campaign=1058&utm_source=git)** | Biloxi, MS | On Site | Apr 13 |
 | **[PTR Premier Truck Rental](https://rentptr.com)** | **[Intern Fleet Service](https://jobright.ai/jobs/info/69dd5aad738f2f099e8b5e60?utm_campaign=1058&utm_source=git)** | Fort Wayne, IN | On Site | Apr 13 |
+| **[Hercules Industries](http://herculesindustries.com)** | **[IT Help Desk Intern](https://jobright.ai/jobs/info/69dd5a88738f2f099e8b5e17?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | Apr 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
