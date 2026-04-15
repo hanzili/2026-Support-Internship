@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Keck Medicine of USC](https://www.keckmedicine.org)** | **[Pharmacist Intern - Pharmacy - Per Diem 8 Hour Day Shift (Non-Union)](https://jobright.ai/jobs/info/69decdc65913ad33981403a7?utm_campaign=1058&utm_source=git)** | Glendale, CA | On Site | Apr 14 |
+| **[CyrusOne](http://www.cyrusone.com)** | **[IT Summer Intern](https://jobright.ai/jobs/info/69decda4e34484770f1a4eb7?utm_campaign=1058&utm_source=git)** | Dallas, TX | Hybrid | Apr 14 |
+| **[The University of Georgia](http://www.ai.uga.edu)** | **[Application Analyst Assistant](https://jobright.ai/jobs/info/69deca7ce34484770f1a4cd6?utm_campaign=1058&utm_source=git)** | Athens, GA | On Site | Apr 14 |
+| **[City of Greater Sudbury](https://www.greatersudbury.ca/)** | **[Citizen Service Representative (Including Library Services) - Bilingual - English/French](https://jobright.ai/jobs/info/69dec4a036823d1b42583ba0?utm_campaign=1058&utm_source=git)** | Greater Sudbury, ON | On Site | Apr 14 |
 | **[DeKalb Public Health (GA)](https://www.dekalbhealth.net)** | **[Hourly Customer Service Representative](https://jobright.ai/jobs/info/69dec0fcaba61f1417317935?utm_campaign=1058&utm_source=git)** | DeKalb County, GA | On Site | Apr 14 |
-| **[CyrusOne](http://www.cyrusone.com)** | **[IT Summer Intern](https://jobright.ai/jobs/info/69dec09b18cf504166e2fa6d?utm_campaign=1058&utm_source=git)** | Dallas, TX | Hybrid | Apr 14 |
 | **[Archrock](https://www.archrock.com)** | **[Field Service Technician Intern](https://jobright.ai/jobs/info/69debe3d18cf504166e2fa08?utm_campaign=1058&utm_source=git)** | Farmington, NM | On Site | Apr 14 |
 | **[Veolia | North America](http://www.veolianorthamerica.com/)** | **[Customer Service Intern](https://jobright.ai/jobs/info/69d05a1a891d7b11cfcdabba?utm_campaign=1058&utm_source=git)** | West Nyack, NY | On Site | Apr 14 |
 | **[Formic](https://formic.co)** | **[Summer 2026 Intern](https://jobright.ai/jobs/info/69debca1433ac8430e0dc2a4?utm_campaign=1058&utm_source=git)** | San Francisco Bay Area | On Site | Apr 14 |
@@ -139,22 +142,19 @@ For a complete list, click the following sortable link below:
 | **[Rightworks](https://www.rightworks.com/)** | **[IT Services Intern](https://jobright.ai/jobs/info/69cd8e1b54f00230c6cf3ab5?utm_campaign=1058&utm_source=git)** | Nashua, NH | On Site | Apr 14 |
 | **[SECU](https://www.ncsecu.org)** | **[Intern - Member Services Support Summer 2026](https://jobright.ai/jobs/info/69de50f436823d1b425805a1?utm_campaign=1058&utm_source=git)** | North Carolina, United States | On Site | Apr 14 |
 | **[Cleveland Clinic](http://my.clevelandclinic.org)** | **[Pharmacy Intern - Inpatient PRN](https://jobright.ai/jobs/info/69de80ea18cf504166e2d665?utm_campaign=1058&utm_source=git)** | Cleveland, OH | On Site | Apr 14 |
-| **[Hartford HealthCare](https://hartfordhealthcare.org)** | **[Pharmacy Intern (Per diem)](https://jobright.ai/jobs/info/69c1bb412c312363dcd4e5f9?utm_campaign=1058&utm_source=git)** | Hartford, CT | On Site | Apr 14 |
 | **[Double Good](https://www.doublegood.com/)** | **[IT Intern (Summer 2026)](https://jobright.ai/jobs/info/69c1874175f7ff1cd80fac62?utm_campaign=1058&utm_source=git)** | Elmhurst, IL | On Site | Apr 14 |
 | **[New York Life](https://www.newyorklife.com/)** | **[2026 GBS Life Insurance Claims Internship - Pittsburgh](https://jobright.ai/jobs/info/69d5ceb1891d7b11cfd05c00?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | Hybrid | Apr 14 |
 | **[Verkada](https://www.verkada.com)** | **[Technical Support Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/69c19d8979e36d3a847e97ac?utm_campaign=1058&utm_source=git)** | San Mateo, CA | On Site | Apr 14 |
 | **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69de6e315913ad339813d356?utm_campaign=1058&utm_source=git)** | Franklin, TN | On Site | Apr 14 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69de6a2618cf504166e2ce3b?utm_campaign=1058&utm_source=git)** | Toms River, NJ | On Site | Apr 14 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69de6a0ce34484770f1a1e1d?utm_campaign=1058&utm_source=git)** | High Point, NC | On Site | Apr 14 |
-| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69de6e325913ad339813d363?utm_campaign=1058&utm_source=git)** | Jacksonville, FL | On Site | Apr 14 |
-| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69de6de4aba61f1417314e8c?utm_campaign=1058&utm_source=git)** | Brooklyn Park, MN | On Site | Apr 14 |
-| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69de6a0ce34484770f1a1e1c?utm_campaign=1058&utm_source=git)** | Grand Rapids, MI | On Site | Apr 14 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69de6a26e34484770f1a1e43?utm_campaign=1058&utm_source=git)** | Carmel, IN | On Site | Apr 14 |
+| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69de6de4aba61f1417314e8c?utm_campaign=1058&utm_source=git)** | Brooklyn Park, MN | On Site | Apr 14 |
+| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69de6e325913ad339813d363?utm_campaign=1058&utm_source=git)** | Jacksonville, FL | On Site | Apr 14 |
+| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69de6a0ce34484770f1a1e1c?utm_campaign=1058&utm_source=git)** | Grand Rapids, MI | On Site | Apr 14 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69de6a0ce34484770f1a1e23?utm_campaign=1058&utm_source=git)** | Morgantown, WV | On Site | Apr 14 |
 | **[Cherokee Indian Hospital](https://cherokeehospital.org)** | **[Intern](https://jobright.ai/jobs/info/69de43ac18cf504166e2c29b?utm_campaign=1058&utm_source=git)** | Cherokee, NC | On Site | Apr 14 |
 | **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[Intern, Business Support (Operations Manufacturing)](https://jobright.ai/jobs/info/69c19cfb2c312363dcd4b5de?utm_campaign=1058&utm_source=git)** | Springboro, OH | On Site | Apr 14 |
 | **[SECU](https://www.ncsecu.org)** | **[Intern - Member Services Support Summer 2026](https://jobright.ai/jobs/info/69de435336823d1b4258029e?utm_campaign=1058&utm_source=git)** | North Carolina | On Site | Apr 14 |
 | **[Union Pacific Railroad](http://www.up.com/)** | **[Year Round Intern - Customer Care & Support](https://jobright.ai/jobs/info/69de434be34484770f1a1266?utm_campaign=1058&utm_source=git)** | Omaha, NE | Hybrid | Apr 14 |
-| **[Martin's Point Health Care](http://martinspoint.org)** | **[Care Team Patient Services Representative Intern](https://jobright.ai/jobs/info/69de432f5913ad339813c640?utm_campaign=1058&utm_source=git)** | Portland, ME | On Site | Apr 14 |
-| ↳ | **[Care Team Patient Services Representative Intern](https://jobright.ai/jobs/info/69de432aaba61f1417314146?utm_campaign=1058&utm_source=git)** | Scarborough, ME | On Site | Apr 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
