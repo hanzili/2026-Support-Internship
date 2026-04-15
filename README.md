@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MicroVention-Terumo](http://microvention.com)** | **[Intern, IT](https://jobright.ai/jobs/info/69e010615913ad3398147a75?utm_campaign=1058&utm_source=git)** | Aliso Viejo, California, USA | Hybrid | Apr 15 |
+| **[Lee Health](http://www.leehealth.org/)** | **[PRN Enrolled Pharmacist Intern - Gulf Coast Medical Center](https://jobright.ai/jobs/info/69e00d5a4920452a85dd1545?utm_campaign=1058&utm_source=git)** | Fort Myers, FL | On Site | Apr 15 |
+| ↳ | **[PRN Student Intern](https://jobright.ai/jobs/info/69e00a925913ad33981478a6?utm_campaign=1058&utm_source=git)** | Fort Myers, FL | On Site | Apr 15 |
+| **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Omni Cares Internship / Rooms / Summer 2026](https://jobright.ai/jobs/info/69e0097baba61f141731f348?utm_campaign=1058&utm_source=git)** | Asheville, NC | On Site | Apr 15 |
+| **[Bassett Healthcare Network](https://www.bassett.org/)** | **[Clinical Pharmacy Intern](https://jobright.ai/jobs/info/69e0096e5913ad339814782e?utm_campaign=1058&utm_source=git)** | Delhi, NY | On Site | Apr 15 |
 | **[Spry Methods, Inc.](https://www.sprymethods.com)** | **[IT Operations & Systems Intern](https://jobright.ai/jobs/info/69e0027e4920452a85dd11a7?utm_campaign=1058&utm_source=git)** | McLean, VA | On Site | Apr 15 |
 | **[Jefferson County Public Schools](http://www.jefferson.kyschools.us/)** | **[Technician Finance Support (2026-2027) Multiple Vacancies](https://jobright.ai/jobs/info/69e0019be34484770f1ac068?utm_campaign=1058&utm_source=git)** | Louisville Metro | On Site | Apr 15 |
 | **[The Chefs'​ Warehouse](https://www.chefswarehouse.com)** | **[Transportation - Intern](https://jobright.ai/jobs/info/69e0016114bf245fc7a6f403?utm_campaign=1058&utm_source=git)** | 240 Food Center Dr, Bronx, NY 10474, USA | On Site | Apr 15 |
@@ -89,8 +94,8 @@ For a complete list, click the following sortable link below:
 | **[Brigham and Women's Hospital](http://www.brighamandwomens.org/)** | **[Pharmacy Intern YR3](https://jobright.ai/jobs/info/69dfdace4920452a85dcfe4d?utm_campaign=1058&utm_source=git)** | Boston, MA | On Site | Apr 15 |
 | **[Dimmitt Automotive Group](http://dimmitt.com)** | **[Collision Center Service Coordinator](https://jobright.ai/jobs/info/69dfda9b4920452a85dcfe0a?utm_campaign=1058&utm_source=git)** | Oldsmar, FL | On Site | Apr 15 |
 | **[Schindler Group](http://www.schindler.com/)** | **[Sales Support Intern](https://jobright.ai/jobs/info/69d8409d738f2f099e89b929?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Apr 15 |
-| **[The MetroHealth System (Cleveland, OH)](http://www.metrohealth.org)** | **[Nurse Intern- Delivery Room](https://jobright.ai/jobs/info/69c2e2fe94007a2195def147?utm_campaign=1058&utm_source=git)** | Cleveland, OH | On Site | Apr 15 |
-| ↳ | **[Student Intern-Med Affairs](https://jobright.ai/jobs/info/69dfda58e34484770f1aae18?utm_campaign=1058&utm_source=git)** | Cleveland, OH | On Site | Apr 15 |
+| **[The MetroHealth System (Cleveland, OH)](http://www.metrohealth.org)** | **[Student Intern-Med Affairs](https://jobright.ai/jobs/info/69dfda58e34484770f1aae18?utm_campaign=1058&utm_source=git)** | Cleveland, OH | On Site | Apr 15 |
+| ↳ | **[Nurse Intern- Delivery Room](https://jobright.ai/jobs/info/69c2e2fe94007a2195def147?utm_campaign=1058&utm_source=git)** | Cleveland, OH | On Site | Apr 15 |
 | **[Naples Comprehensive Health - NCH](http://www.nchmd.org/)** | **[Medical Staff Intern FR](https://jobright.ai/jobs/info/69dfda5514bf245fc7a6e2f9?utm_campaign=1058&utm_source=git)** | Naples, FL | On Site | Apr 15 |
 | **[Justrite Manufacturing Company L.L.C.](http://www.justritemfg.com/)** | **[Customer Service Intern](https://jobright.ai/jobs/info/69dfd813433ac8430e0e28eb?utm_campaign=1058&utm_source=git)** | Wellsburg, WV | On Site | Apr 15 |
 | **[Peoples Commercial Bancorp Inc.](http://bankofcommercestilwell.com)** | **[Teller](https://jobright.ai/jobs/info/69dfd7c35913ad33981460de?utm_campaign=1058&utm_source=git)** | Charleston, WV | On Site | Apr 15 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Golden 1 Credit Union](https://www.golden1.com/)** | **[Business Member Support Center - Business Member Support Service Center Representative](https://jobright.ai/jobs/info/69df10eb18cf504166e322e2?utm_campaign=1058&utm_source=git)** | Sacramento, CA | On Site | Apr 14 |
 | ↳ | **[Business Member Support Center - Business Member Support Account Servicing Sr Specialist](https://jobright.ai/jobs/info/69df10e9aba61f141731a120?utm_campaign=1058&utm_source=git)** | Sacramento, CA | On Site | Apr 14 |
 | **[Mednevo](https://mednevo.com)** | **[Co-Founder and Medical Doctor Intern (MD)](https://jobright.ai/jobs/info/69df0fcd433ac8430e0dec4b?utm_campaign=1058&utm_source=git)** | Austin, Texas Metropolitan Area | Hybrid | Apr 14 |
-| **[Amica Insurance](http://www.amica.com)** | **[Summer Student Customer Care Representative](https://jobright.ai/jobs/info/69d03502cfdc6132f94398e4?utm_campaign=1058&utm_source=git)** | Connecticut, United States | On Site | Apr 14 |
-| **[IBM](http://www.ibm.com)** | **[Technical Support Professional Intern: 2026](https://jobright.ai/jobs/info/69dfa8a414bf245fc7a6cecb?utm_campaign=1058&utm_source=git)** | San Jose, CA | Remote | Apr 14 |
-| **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY/PHARMACIST-GRAD INTERN](https://jobright.ai/jobs/info/69defa2918cf504166e315fd?utm_campaign=1058&utm_source=git)** | Eagle, CO | On Site | Apr 14 |
-| ↳ | **[PHARMACY/PHARMACIST-GRAD INTERN](https://jobright.ai/jobs/info/69def9adaba61f1417319256?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | Apr 14 |
-| **[Marvin](http://www.marvin.com/)** | **[Customer Services Intern](https://jobright.ai/jobs/info/69def79f433ac8430e0dddac?utm_campaign=1058&utm_source=git)** | Minnesota, United States | On Site | Apr 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
