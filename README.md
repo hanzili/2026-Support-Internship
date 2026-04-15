@@ -57,6 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY/PHARMACIST-GRAD INTERN](https://jobright.ai/jobs/info/69defa2918cf504166e315fd?utm_campaign=1058&utm_source=git)** | Eagle, CO | On Site | Apr 14 |
+| **[IBM](http://www.ibm.com)** | **[Technical Support Professional Intern: 2026](https://jobright.ai/jobs/info/69defa0e36823d1b425855e8?utm_campaign=1058&utm_source=git)** | San Jose, CA | Remote | Apr 14 |
+| **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY/PHARMACIST-GRAD INTERN](https://jobright.ai/jobs/info/69def9adaba61f1417319256?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | Apr 14 |
+| **[IBM](http://www.ibm.com)** | **[Technical Support Professional Intern: 2026](https://jobright.ai/jobs/info/69def8c518cf504166e313de?utm_campaign=1058&utm_source=git)** | Lowell, MA | Remote | Apr 14 |
+| **[Marvin](http://www.marvin.com/)** | **[Customer Services Intern](https://jobright.ai/jobs/info/69def79f433ac8430e0dddac?utm_campaign=1058&utm_source=git)** | Minnesota, United States | On Site | Apr 14 |
+| **[IBM](http://www.ibm.com)** | **[Technical Support Professional Intern: 2026](https://jobright.ai/jobs/info/69def77e433ac8430e0ddda0?utm_campaign=1058&utm_source=git)** | Austin, TX | Remote | Apr 14 |
+| **[InterWorks](http://www.interworks.com)** | **[IT Intern](https://jobright.ai/jobs/info/68596a3df7e1d7c7ec214cfc?utm_campaign=1058&utm_source=git)** | Stillwater, Oklahoma, United States | On Site | Apr 14 |
+| **[Atlas Oil Company](http://www.atlasoil.com)** | **[IT Intern](https://jobright.ai/jobs/info/69def5ea5913ad33981416a4?utm_campaign=1058&utm_source=git)** | Greater Houston | On Site | Apr 14 |
+| **[Ascension](https://healthcare.ascension.org)** | **[Student Nurse Intern Neuro Trauma Stepdown](https://jobright.ai/jobs/info/69def594e34484770f1a61ad?utm_campaign=1058&utm_source=git)** | Indianapolis, IN | On Site | Apr 14 |
+| ↳ | **[Nursing Intern Med Surg](https://jobright.ai/jobs/info/69def4d3aba61f1417319118?utm_campaign=1058&utm_source=git)** | Milwaukee, WI | On Site | Apr 14 |
+| **[McLaren Health Care](http://www.mclaren.org)** | **[Respiratory Intern](https://jobright.ai/jobs/info/69c7048c1b5ad0288738953d?utm_campaign=1058&utm_source=git)** | Port Huron, MI | On Site | Apr 14 |
 | **[Provincial Senior Living](https://provincialseniorliving.com/)** | **[concierge](https://jobright.ai/jobs/info/69dee0c436823d1b425844a9?utm_campaign=1058&utm_source=git)** | Sun City West, AZ | On Site | Apr 14 |
 | **[Aurora Health Care](http://aurorahealthcare.org)** | **[Inpatient Pharmacy Intern - Summit](https://jobright.ai/jobs/info/69dee092e34484770f1a53b2?utm_campaign=1058&utm_source=git)** | Oconomowoc, WI | On Site | Apr 14 |
 | **[Tallahassee Memorial HealthCare](https://www.tmh.org/)** | **[2026 Summer Nurse Internship - June 4 through July 31](https://jobright.ai/jobs/info/69d8443a738f2f099e89ba61?utm_campaign=1058&utm_source=git)** | Tallahassee, FL | On Site | Apr 14 |
@@ -145,16 +156,5 @@ For a complete list, click the following sortable link below:
 | **[F.H. Paschen](http://fhpaschen.com)** | **[IT Helpdesk Intern - Chicago Summer 2026](https://jobright.ai/jobs/info/69de590f433ac8430e0d9204?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Apr 14 |
 | **[Therma-Tru Doors](http://www.thermatru.com/)** | **[IT Infrastructure Intern](https://jobright.ai/jobs/info/69de588836823d1b42580821?utm_campaign=1058&utm_source=git)** | Butler, IN | On Site | Apr 14 |
 | **[Rightworks](https://www.rightworks.com/)** | **[IT Services Intern](https://jobright.ai/jobs/info/69cd8e1b54f00230c6cf3ab5?utm_campaign=1058&utm_source=git)** | Nashua, NH | On Site | Apr 14 |
-| **[SECU](https://www.ncsecu.org)** | **[Intern - Member Services Support Summer 2026](https://jobright.ai/jobs/info/69de50f436823d1b425805a1?utm_campaign=1058&utm_source=git)** | North Carolina, United States | On Site | Apr 14 |
-| **[Cleveland Clinic](http://my.clevelandclinic.org)** | **[Pharmacy Intern - Inpatient PRN](https://jobright.ai/jobs/info/69de80ea18cf504166e2d665?utm_campaign=1058&utm_source=git)** | Cleveland, OH | On Site | Apr 14 |
-| **[Double Good](https://www.doublegood.com/)** | **[IT Intern (Summer 2026)](https://jobright.ai/jobs/info/69c1874175f7ff1cd80fac62?utm_campaign=1058&utm_source=git)** | Elmhurst, IL | On Site | Apr 14 |
-| **[New York Life](https://www.newyorklife.com/)** | **[2026 GBS Life Insurance Claims Internship - Pittsburgh](https://jobright.ai/jobs/info/69d5ceb1891d7b11cfd05c00?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | Hybrid | Apr 14 |
-| **[Verkada](https://www.verkada.com)** | **[Technical Support Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/69c19d8979e36d3a847e97ac?utm_campaign=1058&utm_source=git)** | San Mateo, CA | On Site | Apr 14 |
-| **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69de6e315913ad339813d356?utm_campaign=1058&utm_source=git)** | Franklin, TN | On Site | Apr 14 |
-| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69de6a2618cf504166e2ce3b?utm_campaign=1058&utm_source=git)** | Toms River, NJ | On Site | Apr 14 |
-| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69de6a0ce34484770f1a1e1d?utm_campaign=1058&utm_source=git)** | High Point, NC | On Site | Apr 14 |
-| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69de6a26e34484770f1a1e43?utm_campaign=1058&utm_source=git)** | Carmel, IN | On Site | Apr 14 |
-| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69de6de4aba61f1417314e8c?utm_campaign=1058&utm_source=git)** | Brooklyn Park, MN | On Site | Apr 14 |
-| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69de6a0ce34484770f1a1e1c?utm_campaign=1058&utm_source=git)** | Grand Rapids, MI | On Site | Apr 14 |
-| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69de6e325913ad339813d363?utm_campaign=1058&utm_source=git)** | Jacksonville, FL | On Site | Apr 14 |
+| **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[RN-Intern II (CCU)](https://jobright.ai/jobs/info/69c2387475f7ff1cd810f37e?utm_campaign=1058&utm_source=git)** | Columbus, MS | On Site | Apr 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
