@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wells Fargo](http://www.wellsfargo.com)** | **[Business Relationship Support Representative - CSO 2 GPL NSG](https://jobright.ai/jobs/info/69df69ce14bf245fc7a6c134?utm_campaign=1058&utm_source=git)** | Winston-Salem, NC | Hybrid | Apr 15 |
 | **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE - CRNA Internship](https://jobright.ai/jobs/info/69df4db614bf245fc7a6bdb4?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Apr 15 |
 | **[Fairmont Hotels & Resorts](http://www.fairmont.com/)** | **[Hostperson II (Internship)](https://jobright.ai/jobs/info/69df4d7614bf245fc7a6bcbc?utm_campaign=1058&utm_source=git)** | Kohala, HI | On Site | Apr 15 |
+| **[Enoch Cree Nation](https://enochnation.ca/)** | **[FOOD BANK RECEPTIONIST – CLOSED (INTERNAL) COMPETITION](https://jobright.ai/jobs/info/69df69ce14bf245fc7a6c133?utm_campaign=1058&utm_source=git)** | Enoch Cree Nation, AB | On Site | Apr 15 |
 | **[Click Bond](http://clickbond.com)** | **[Intern, Information Technology](https://jobright.ai/jobs/info/69df2e36433ac8430e0df6d0?utm_campaign=1058&utm_source=git)** | Watertown, CT | On Site | Apr 14 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69df2943e34484770f1a7aae?utm_campaign=1058&utm_source=git)** | Gainesville, FL | On Site | Apr 14 |
 | **[Brigham and Women's Hospital](http://www.brighamandwomens.org/)** | **[Intern, International Patient Center](https://jobright.ai/jobs/info/69df24fce34484770f1a773f?utm_campaign=1058&utm_source=git)** | Boston, MA | On Site | Apr 14 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cantex](https://www.cantexcc.com)** | **[IT internship (22220)](https://jobright.ai/jobs/info/69de73f45913ad339813d449?utm_campaign=1058&utm_source=git)** | Cantex Corporate - Carrollton, TX 75006 | On Site | Apr 14 |
 | **[Caesars Entertainment](https://www.caesars.com/paris-las-vegas)** | **[Guest Service Agent - Intern](https://jobright.ai/jobs/info/69de73d318cf504166e2d1d7?utm_campaign=1058&utm_source=git)** | South Lake Tahoe, NV, United States | On Site | Apr 14 |
 | **[OneOncology](https://oneoncology.com/)** | **[Clinical Intern](https://jobright.ai/jobs/info/69de729236823d1b4258109c?utm_campaign=1058&utm_source=git)** | Edison, NJ | On Site | Apr 14 |
-| **[Zoro.com](http://zoro.com)** | **[Customer Service Associate (M-F or T-SAT Shift)](https://jobright.ai/jobs/info/69de6a1d36823d1b42580df7?utm_campaign=1058&utm_source=git)** | Janesville, WI | Hybrid | Apr 14 |
-| **[Northern Virginia Family Services](https://www.nvfs.org/)** | **[Shelter Support Services Intern](https://jobright.ai/jobs/info/69bca87b45e08b3dc1f96e6b?utm_campaign=1058&utm_source=git)** | Manassas, VA | On Site | Apr 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
