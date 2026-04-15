@@ -57,11 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Click Bond](http://clickbond.com)** | **[Intern, Information Technology](https://jobright.ai/jobs/info/69df2e36433ac8430e0df6d0?utm_campaign=1058&utm_source=git)** | Watertown, CT | On Site | Apr 14 |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69df2943e34484770f1a7aae?utm_campaign=1058&utm_source=git)** | Gainesville, FL | On Site | Apr 14 |
 | **[Brigham and Women's Hospital](http://www.brighamandwomens.org/)** | **[Intern, International Patient Center](https://jobright.ai/jobs/info/69df24fce34484770f1a773f?utm_campaign=1058&utm_source=git)** | Boston, MA | On Site | Apr 14 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69df2199433ac8430e0df21b?utm_campaign=1058&utm_source=git)** | Richardson, TX | On Site | Apr 14 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69df217136823d1b425868a9?utm_campaign=1058&utm_source=git)** | South Charleston, WV | On Site | Apr 14 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69df2166aba61f141731a67f?utm_campaign=1058&utm_source=git)** | Lexington, KY | On Site | Apr 14 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69df2157e34484770f1a76f4?utm_campaign=1058&utm_source=git)** | Gainesville, FL | On Site | Apr 14 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69df214be34484770f1a76ca?utm_campaign=1058&utm_source=git)** | Youngstown, OH | On Site | Apr 14 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69df1f9818cf504166e32770?utm_campaign=1058&utm_source=git)** | Dayton, OH | On Site | Apr 14 |
 | **[Golden 1 Credit Union](https://www.golden1.com/)** | **[Business Member Support Center - Business Member Support Service Center Representative](https://jobright.ai/jobs/info/69df10eb18cf504166e322e2?utm_campaign=1058&utm_source=git)** | Sacramento, CA | On Site | Apr 14 |
@@ -69,8 +70,7 @@ For a complete list, click the following sortable link below:
 | **[Mednevo](https://mednevo.com)** | **[Co-Founder and Medical Doctor Intern (MD)](https://jobright.ai/jobs/info/69df0fcd433ac8430e0dec4b?utm_campaign=1058&utm_source=git)** | Austin, Texas Metropolitan Area | Hybrid | Apr 14 |
 | **[Amica Insurance](http://www.amica.com)** | **[Summer Student Customer Care Representative](https://jobright.ai/jobs/info/69d03502cfdc6132f94398e4?utm_campaign=1058&utm_source=git)** | Connecticut, United States | On Site | Apr 14 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY/PHARMACIST-GRAD INTERN](https://jobright.ai/jobs/info/69defa2918cf504166e315fd?utm_campaign=1058&utm_source=git)** | Eagle, CO | On Site | Apr 14 |
-| **[IBM](http://www.ibm.com)** | **[Technical Support Professional Intern: 2026](https://jobright.ai/jobs/info/69defa0e36823d1b425855e8?utm_campaign=1058&utm_source=git)** | San Jose, CA | Remote | Apr 14 |
-| **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY/PHARMACIST-GRAD INTERN](https://jobright.ai/jobs/info/69def9adaba61f1417319256?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | Apr 14 |
+| ↳ | **[PHARMACY/PHARMACIST-GRAD INTERN](https://jobright.ai/jobs/info/69def9adaba61f1417319256?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | Apr 14 |
 | **[IBM](http://www.ibm.com)** | **[Technical Support Professional Intern: 2026](https://jobright.ai/jobs/info/69def8c518cf504166e313de?utm_campaign=1058&utm_source=git)** | Lowell, MA | Remote | Apr 14 |
 | **[Marvin](http://www.marvin.com/)** | **[Customer Services Intern](https://jobright.ai/jobs/info/69def79f433ac8430e0dddac?utm_campaign=1058&utm_source=git)** | Minnesota, United States | On Site | Apr 14 |
 | **[IBM](http://www.ibm.com)** | **[Technical Support Professional Intern: 2026](https://jobright.ai/jobs/info/69def77e433ac8430e0ddda0?utm_campaign=1058&utm_source=git)** | Austin, TX | Remote | Apr 14 |
