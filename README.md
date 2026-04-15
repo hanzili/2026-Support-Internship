@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Golden 1 Credit Union](https://www.golden1.com/)** | **[Business Member Support Center - Business Member Support Service Center Representative](https://jobright.ai/jobs/info/69df10eb18cf504166e322e2?utm_campaign=1058&utm_source=git)** | Sacramento, CA | On Site | Apr 14 |
+| ↳ | **[Business Member Support Center - Business Member Support Account Servicing Sr Specialist](https://jobright.ai/jobs/info/69df10e9aba61f141731a120?utm_campaign=1058&utm_source=git)** | Sacramento, CA | On Site | Apr 14 |
+| **[Mednevo](https://mednevo.com)** | **[Co-Founder and Medical Doctor Intern (MD)](https://jobright.ai/jobs/info/69df0fcd433ac8430e0dec4b?utm_campaign=1058&utm_source=git)** | Austin, Texas Metropolitan Area | Hybrid | Apr 14 |
+| **[Amica Insurance](http://www.amica.com)** | **[Summer Student Customer Care Representative](https://jobright.ai/jobs/info/69d03502cfdc6132f94398e4?utm_campaign=1058&utm_source=git)** | Connecticut, United States | On Site | Apr 14 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY/PHARMACIST-GRAD INTERN](https://jobright.ai/jobs/info/69defa2918cf504166e315fd?utm_campaign=1058&utm_source=git)** | Eagle, CO | On Site | Apr 14 |
 | **[IBM](http://www.ibm.com)** | **[Technical Support Professional Intern: 2026](https://jobright.ai/jobs/info/69defa0e36823d1b425855e8?utm_campaign=1058&utm_source=git)** | San Jose, CA | Remote | Apr 14 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY/PHARMACIST-GRAD INTERN](https://jobright.ai/jobs/info/69def9adaba61f1417319256?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | Apr 14 |
@@ -119,7 +123,6 @@ For a complete list, click the following sortable link below:
 | **[Go West IT](https://www.gowestit.com)** | **[Technical Account Manager Intern](https://jobright.ai/jobs/info/69de96165913ad339813e4e6?utm_campaign=1058&utm_source=git)** | Greenwood Village, US | On Site | Apr 14 |
 | **[Devon Bank](http://devonbank.com)** | **[Bank Teller Intern (Chicago) - $18.25 Per Hour](https://jobright.ai/jobs/info/69de95af18cf504166e2e5fa?utm_campaign=1058&utm_source=git)** | Chicago,IL,US | On Site | Apr 14 |
 | **[Child and Family Services of Erie County, Inc.](https://cfsbny.org)** | **[Centralized Intake Intern](https://jobright.ai/jobs/info/69de959d18cf504166e2e5e8?utm_campaign=1058&utm_source=git)** | Cheektowaga, New York, United States | On Site | Apr 14 |
-| **[Methodist Le Bonheur Healthcare](https://www.methodisthealth.org/)** | **[Pharmacy Intern PRN](https://jobright.ai/jobs/info/69de931be34484770f1a3407?utm_campaign=1058&utm_source=git)** | Memphis, TN | On Site | Apr 14 |
 | **[STERIS](http://steris.com)** | **[IT Applications Intern](https://jobright.ai/jobs/info/69de92b0433ac8430e0dadd1?utm_campaign=1058&utm_source=git)** | Mentor, OH | Hybrid | Apr 14 |
 | **[Federal Reserve Bank of Atlanta](https://www.atlantafed.org)** | **[2026 Summer Internship Program - IT Procurement Intern](https://jobright.ai/jobs/info/69de8a0c433ac8430e0da8bc?utm_campaign=1058&utm_source=git)** | Atlanta, GA | On Site | Apr 14 |
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Intern, International Patient Center](https://jobright.ai/jobs/info/69de8a01aba61f1417315bdd?utm_campaign=1058&utm_source=git)** | Boston-MA | On Site | Apr 14 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[West Bend Insurance Company](http://www.thesilverlining.com/)** | **[Corporate Receptionist](https://jobright.ai/jobs/info/69de5b9e18cf504166e2c937?utm_campaign=1058&utm_source=git)** | West Bend, WI | On Site | Apr 14 |
 | **[Jubilant Pharmova Limited](https://www.jubilantpharmova.com)** | **[Pharmacy Intern – Nuclear Pharmacy (Summer Internship) - Boston (Canton), MA](https://jobright.ai/jobs/info/69c27ac694007a2195de575d?utm_campaign=1058&utm_source=git)** | Boston, MA | On Site | Apr 14 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE - CRNA Internship](https://jobright.ai/jobs/info/69de5937433ac8430e0d922b?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Apr 14 |
-| **[F.H. Paschen](http://fhpaschen.com)** | **[IT Helpdesk Intern - Chicago Summer 2026](https://jobright.ai/jobs/info/69de590f433ac8430e0d9204?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Apr 14 |
-| **[Therma-Tru Doors](http://www.thermatru.com/)** | **[IT Infrastructure Intern](https://jobright.ai/jobs/info/69de588836823d1b42580821?utm_campaign=1058&utm_source=git)** | Butler, IN | On Site | Apr 14 |
-| **[Rightworks](https://www.rightworks.com/)** | **[IT Services Intern](https://jobright.ai/jobs/info/69cd8e1b54f00230c6cf3ab5?utm_campaign=1058&utm_source=git)** | Nashua, NH | On Site | Apr 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
