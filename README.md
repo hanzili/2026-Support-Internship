@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Perryman Company](http://perrymanco.com)** | **[Internship - IT Support Technician](https://jobright.ai/jobs/info/69df8fbf4920452a85dce3a9?utm_campaign=1058&utm_source=git)** | Houston, Pennsylvania, United States | On Site | Apr 15 |
 | **[MetroPlusHealth](https://www.metroplus.org/)** | **[Summer Intern - Call Center](https://jobright.ai/jobs/info/69c3031e753c101b2156746c?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Apr 15 |
 | **[Nokia](http://www.nokia.com)** | **[Service Operations Intern](https://jobright.ai/jobs/info/69a59c390da45516f16e4a6e?utm_campaign=1058&utm_source=git)** | Miami-FTL Area | Hybrid | Apr 15 |
 | **[Erlanger](https://www.erlanger.org)** | **[Nurse Intern, Full-time, Med Surg, EWCH, Murphy, NC](https://jobright.ai/jobs/info/69c2915894007a2195de7935?utm_campaign=1058&utm_source=git)** | Murphy, NC | On Site | Apr 15 |
@@ -100,8 +101,7 @@ For a complete list, click the following sortable link below:
 | **[Veolia | North America](http://growingblue.com/)** | **[Customer Service Intern](https://jobright.ai/jobs/info/69d05a1a891d7b11cfcdabba?utm_campaign=1058&utm_source=git)** | West Nyack, NY | On Site | Apr 14 |
 | **[Formic](https://formic.co)** | **[Summer 2026 Intern](https://jobright.ai/jobs/info/69debca1433ac8430e0dc2a4?utm_campaign=1058&utm_source=git)** | San Francisco Bay Area | On Site | Apr 14 |
 | **[Marvin](http://www.marvin.com/)** | **[Customer Services Intern](https://jobright.ai/jobs/info/69debc685913ad339813fa57?utm_campaign=1058&utm_source=git)** | US-MN-Warroad | On Site | Apr 14 |
-| **[Ascension](https://healthcare.ascension.org)** | **[Student Nurse Intern Neuro Trauma Stepdown](https://jobright.ai/jobs/info/69debc685913ad339813fa5c?utm_campaign=1058&utm_source=git)** | US-IN-Indianapolis | On Site | Apr 14 |
-| ↳ | **[Student Nurse Intern Neuro Trauma Stepdown](https://jobright.ai/jobs/info/69debc66433ac8430e0dc262?utm_campaign=1058&utm_source=git)** | Indianapolis, IN, US | On Site | Apr 14 |
+| **[Ascension](https://healthcare.ascension.org)** | **[Student Nurse Intern Neuro Trauma Stepdown](https://jobright.ai/jobs/info/69debc66433ac8430e0dc262?utm_campaign=1058&utm_source=git)** | Indianapolis, IN, US | On Site | Apr 14 |
 | **[Marvin](http://www.marvin.com/)** | **[Customer Services Intern](https://jobright.ai/jobs/info/69debc4eaba61f14173176f6?utm_campaign=1058&utm_source=git)** | Warroad, MN, US | On Site | Apr 14 |
 | **[International SOS](http://www.internationalsos.com)** | **[Remote-Customer Service Representative (Spanish Only)](https://jobright.ai/jobs/info/69deba1418cf504166e2f85c?utm_campaign=1058&utm_source=git)** | Texas, United States | Remote | Apr 14 |
 | **[U.S. Chamber of Commerce](https://www.uschamber.com/)** | **[Information Technology Internship - Summer 2026](https://jobright.ai/jobs/info/69deb6be433ac8430e0dc11b?utm_campaign=1058&utm_source=git)** | DC-Baltimore Area | Hybrid | Apr 14 |
