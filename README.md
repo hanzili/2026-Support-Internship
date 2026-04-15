@@ -135,6 +135,7 @@ For a complete list, click the following sortable link below:
 | **[1st Security Bank of Washington](https://www.fsbwa.com/)** | **[Customer Service Representative Intern](https://jobright.ai/jobs/info/69c1d2df75f7ff1cd8102b6e?utm_campaign=1058&utm_source=git)** | Olympia, WA | On Site | Apr 14 |
 | **[Prysmian](https://www.prysmian.com)** | **[McKinney IT Intern](https://jobright.ai/jobs/info/69a5e4f1359fe034b1d09dac?utm_campaign=1058&utm_source=git)** | McKinney, TX | On Site | Apr 14 |
 | **[University of St. Thomas](http://www.stthomas.edu)** | **[Athletics Student Worker - Ticketing Intern](https://jobright.ai/jobs/info/69de84ed18cf504166e2d7f1?utm_campaign=1058&utm_source=git)** | St. Paul, MN, US | On Site | Apr 14 |
+| **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Access Your Future Service Intern](https://jobright.ai/jobs/info/69df08f918cf504166e31921?utm_campaign=1058&utm_source=git)** | Bozeman, MT | On Site | Apr 14 |
 | **[Pine Rest Christian Mental Health Services](https://www.pinerest.org/)** | **[Intern - Assessment & Referral Clinician](https://jobright.ai/jobs/info/69de7b1b36823d1b42581441?utm_campaign=1058&utm_source=git)** | Grand Rapids, MI | On Site | Apr 14 |
 | **[Tacony Corporation](http://tacony.com)** | **[IT Support & Infrastructure Intern](https://jobright.ai/jobs/info/69de7a945913ad339813d699?utm_campaign=1058&utm_source=git)** | Fenton, MO, US | On Site | Apr 14 |
 | **[University of Southern California](http://www.usc.edu)** | **[Pharmacist Intern - Pharmacy - Per Diem 8 Hour Day Shift (Non-Union)](https://jobright.ai/jobs/info/69de7a8e36823d1b425813c3?utm_campaign=1058&utm_source=git)** | Glendale, CA | On Site | Apr 14 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[F.H. Paschen](http://fhpaschen.com)** | **[IT Helpdesk Intern - Chicago Summer 2026](https://jobright.ai/jobs/info/69de590f433ac8430e0d9204?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Apr 14 |
 | **[Therma-Tru Doors](http://www.thermatru.com/)** | **[IT Infrastructure Intern](https://jobright.ai/jobs/info/69de588836823d1b42580821?utm_campaign=1058&utm_source=git)** | Butler, IN | On Site | Apr 14 |
 | **[Rightworks](https://www.rightworks.com/)** | **[IT Services Intern](https://jobright.ai/jobs/info/69cd8e1b54f00230c6cf3ab5?utm_campaign=1058&utm_source=git)** | Nashua, NH | On Site | Apr 14 |
-| **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[RN-Intern II (CCU)](https://jobright.ai/jobs/info/69c2387475f7ff1cd810f37e?utm_campaign=1058&utm_source=git)** | Columbus, MS | On Site | Apr 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
