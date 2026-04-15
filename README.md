@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Vertiv](https://www.Vertiv.com)** | **[Field Service Intern - New York, New York](https://jobright.ai/jobs/info/69d817b1b861c42857c48a67?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Apr 15 |
+| **[UChicago Medicine](https://www.uchicagomedicine.org/)** | **[Student Pharmacy Intern, Meds 2 Beds, Days](https://jobright.ai/jobs/info/69dfe82a433ac8430e0e300a?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Apr 15 |
+| **[U-Haul](http://www.uhaul.com/)** | **[Operations & Customer Experience Summer Intern](https://jobright.ai/jobs/info/69dfe7694920452a85dd039b?utm_campaign=1058&utm_source=git)** | Phoenix, AZ | On Site | Apr 15 |
+| **[Amivero](https://amivero.com)** | **[Infromation Technology Intern](https://jobright.ai/jobs/info/69dfe3ef433ac8430e0e2d19?utm_campaign=1058&utm_source=git)** | Reston, VA | Hybrid | Apr 15 |
+| **[UPMC](https://www.upmc.com/)** | **[Respiratory Care Intern - UPMC Presbyterian](https://jobright.ai/jobs/info/69ccd980891d7b11cfcb493e?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | On Site | Apr 15 |
+| **[Smile Doctors](https://smiledoctors.com)** | **[Support Services Intern](https://jobright.ai/jobs/info/69dfe37c4920452a85dd0093?utm_campaign=1058&utm_source=git)** | Dallas, TX, USA | On Site | Apr 15 |
+| **[Campbell County Health](https://www.cchwyo.org/)** | **[IT INTERN](https://jobright.ai/jobs/info/69dfdf93433ac8430e0e2b4c?utm_campaign=1058&utm_source=git)** | Gillette, WY | On Site | Apr 15 |
+| **[Geisinger](https://www.geisinger.org)** | **[Intern Undergraduate IT (Applications)](https://jobright.ai/jobs/info/69dfdf82433ac8430e0e2b11?utm_campaign=1058&utm_source=git)** | Danville, PA | Remote | Apr 15 |
 | **[Brigham and Women's Hospital](http://www.brighamandwomens.org/)** | **[Pharmacy Intern YR3](https://jobright.ai/jobs/info/69dfdace4920452a85dcfe4d?utm_campaign=1058&utm_source=git)** | Boston, MA | On Site | Apr 15 |
 | **[Dimmitt Automotive Group](http://dimmitt.com)** | **[Collision Center Service Coordinator](https://jobright.ai/jobs/info/69dfda9b4920452a85dcfe0a?utm_campaign=1058&utm_source=git)** | Oldsmar, FL | On Site | Apr 15 |
 | **[Schindler Group](http://www.schindler.com/)** | **[Sales Support Intern](https://jobright.ai/jobs/info/69d8409d738f2f099e89b929?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Apr 15 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[International SOS](http://www.internationalsos.com)** | **[Remote-Customer Service Representative (Spanish Only)](https://jobright.ai/jobs/info/69deba1418cf504166e2f85c?utm_campaign=1058&utm_source=git)** | Texas, United States | Remote | Apr 14 |
 | **[U.S. Chamber of Commerce](https://www.uschamber.com/)** | **[Information Technology Internship - Summer 2026](https://jobright.ai/jobs/info/69deb6be433ac8430e0dc11b?utm_campaign=1058&utm_source=git)** | DC-Baltimore Area | Hybrid | Apr 14 |
 | **[Child and Family Services of Erie County, Inc.](https://cfsbny.org)** | **[Centralized Intake Intern](https://jobright.ai/jobs/info/69deb68936823d1b42583644?utm_campaign=1058&utm_source=git)** | Buffalo, NY | On Site | Apr 14 |
-| **[Dairy Farmers of America](https://www.dfamilk.com/)** | **[Summer 2026 Shared Applications Intern](https://jobright.ai/jobs/info/69deb68836823d1b4258363d?utm_campaign=1058&utm_source=git)** | Kansas City, KS | On Site | Apr 14 |
-| **[U.S. Chamber of Commerce](https://www.uschamber.com/)** | **[Information Technology Internship - Summer 2026](https://jobright.ai/jobs/info/69deb1d6433ac8430e0dbe2e?utm_campaign=1058&utm_source=git)** | Headquarters, 1615 H Street, NW, Washington, District Of Columbia, United States of America | Hybrid | Apr 14 |
-| **[Hutchinson Health](https://www.healthpartners.com/care/hospitals/hutchinson)** | **[Laboratory Student Intern](https://jobright.ai/jobs/info/69ded26caba61f1417317f36?utm_campaign=1058&utm_source=git)** | Hutchinson, MN | On Site | Apr 14 |
-| **[North Carolina State University](http://www.ncsu.edu)** | **[IT Support Analyst](https://jobright.ai/jobs/info/69deadfa36823d1b425831c3?utm_campaign=1058&utm_source=git)** | Raleigh, NC | On Site | Apr 14 |
-| **[UPMC](https://www.upmc.com/)** | **[Respiratory Care Intern - UPMC Memorial](https://jobright.ai/jobs/info/69deadcdaba61f1417317026?utm_campaign=1058&utm_source=git)** | York, PA | On Site | Apr 14 |
-| **[Wealth Enhancement](http://wealthenhancement.com/)** | **[Intern](https://jobright.ai/jobs/info/69dea89c5913ad339813ec64?utm_campaign=1058&utm_source=git)** | Coronado, CA | On Site | Apr 14 |
-| **[Amery Hospital & Clinic](https://www.amerymedicalcenter.org)** | **[Laboratory Student Intern](https://jobright.ai/jobs/info/69dea882aba61f1417316e7f?utm_campaign=1058&utm_source=git)** | Hutchinson, MN, United States | On Site | Apr 14 |
-| **[HealthPartners](https://www.castalovespells.com/contact/)** | **[Laboratory Student Intern](https://jobright.ai/jobs/info/69dea85ee34484770f1a3fb9?utm_campaign=1058&utm_source=git)** | Hutchinson, MN, United States | On Site | Apr 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
