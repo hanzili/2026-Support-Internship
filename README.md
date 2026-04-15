@@ -57,8 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MetroPlusHealth](https://www.metroplus.org/)** | **[Summer Intern - Call Center](https://jobright.ai/jobs/info/69c3031e753c101b2156746c?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Apr 15 |
+| **[Nokia](http://www.nokia.com)** | **[Service Operations Intern](https://jobright.ai/jobs/info/69a59c390da45516f16e4a6e?utm_campaign=1058&utm_source=git)** | Miami-FTL Area | Hybrid | Apr 15 |
+| **[Erlanger](https://www.erlanger.org)** | **[Nurse Intern, Full-time, Med Surg, EWCH, Murphy, NC](https://jobright.ai/jobs/info/69c2915894007a2195de7935?utm_campaign=1058&utm_source=git)** | Murphy, NC | On Site | Apr 15 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[Business Relationship Support Representative - CSO 2 GPL NSG](https://jobright.ai/jobs/info/69df6b844920452a85dcdc20?utm_campaign=1058&utm_source=git)** | Charlotte, NC | Hybrid | Apr 15 |
 | ↳ | **[Business Relationship Support Representative - CSO 2 GPL NSG](https://jobright.ai/jobs/info/69df69ce14bf245fc7a6c134?utm_campaign=1058&utm_source=git)** | Winston-Salem, NC | Hybrid | Apr 15 |
+| **[Proofpoint](http://www.proofpoint.com)** | **[Workday Analyst Intern](https://jobright.ai/jobs/info/69a65b3ce567421f42576042?utm_campaign=1058&utm_source=git)** | Sunnyvale, CA | On Site | Apr 15 |
 | **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE - CRNA Internship](https://jobright.ai/jobs/info/69df4db614bf245fc7a6bdb4?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Apr 15 |
 | **[Fairmont Hotels & Resorts](http://www.fairmont.com/)** | **[Hostperson II (Internship)](https://jobright.ai/jobs/info/69df4d7614bf245fc7a6bcbc?utm_campaign=1058&utm_source=git)** | Kohala, HI | On Site | Apr 15 |
 | **[Enoch Cree Nation](https://enochnation.ca/)** | **[FOOD BANK RECEPTIONIST – CLOSED (INTERNAL) COMPETITION](https://jobright.ai/jobs/info/69df69ce14bf245fc7a6c133?utm_campaign=1058&utm_source=git)** | Enoch Cree Nation, AB | On Site | Apr 15 |
@@ -93,7 +97,7 @@ For a complete list, click the following sortable link below:
 | **[City of Greater Sudbury](https://www.greatersudbury.ca/)** | **[Citizen Service Representative (Including Library Services) - Bilingual - English/French](https://jobright.ai/jobs/info/69dec4a036823d1b42583ba0?utm_campaign=1058&utm_source=git)** | Greater Sudbury, ON | On Site | Apr 14 |
 | **[DeKalb Public Health (GA)](https://www.dekalbhealth.net)** | **[Hourly Customer Service Representative](https://jobright.ai/jobs/info/69dec0fcaba61f1417317935?utm_campaign=1058&utm_source=git)** | DeKalb County, GA | On Site | Apr 14 |
 | **[Archrock](https://www.archrock.com)** | **[Field Service Technician Intern](https://jobright.ai/jobs/info/69debe3d18cf504166e2fa08?utm_campaign=1058&utm_source=git)** | Farmington, NM | On Site | Apr 14 |
-| **[Veolia | North America](http://www.veolianorthamerica.com/)** | **[Customer Service Intern](https://jobright.ai/jobs/info/69d05a1a891d7b11cfcdabba?utm_campaign=1058&utm_source=git)** | West Nyack, NY | On Site | Apr 14 |
+| **[Veolia | North America](http://growingblue.com/)** | **[Customer Service Intern](https://jobright.ai/jobs/info/69d05a1a891d7b11cfcdabba?utm_campaign=1058&utm_source=git)** | West Nyack, NY | On Site | Apr 14 |
 | **[Formic](https://formic.co)** | **[Summer 2026 Intern](https://jobright.ai/jobs/info/69debca1433ac8430e0dc2a4?utm_campaign=1058&utm_source=git)** | San Francisco Bay Area | On Site | Apr 14 |
 | **[Marvin](http://www.marvin.com/)** | **[Customer Services Intern](https://jobright.ai/jobs/info/69debc685913ad339813fa57?utm_campaign=1058&utm_source=git)** | US-MN-Warroad | On Site | Apr 14 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Student Nurse Intern Neuro Trauma Stepdown](https://jobright.ai/jobs/info/69debc685913ad339813fa5c?utm_campaign=1058&utm_source=git)** | US-IN-Indianapolis | On Site | Apr 14 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Pine Rest Christian Mental Health Services](https://www.pinerest.org/)** | **[Intern - Assessment & Referral Clinician](https://jobright.ai/jobs/info/69de7b1b36823d1b42581441?utm_campaign=1058&utm_source=git)** | Grand Rapids, MI | On Site | Apr 14 |
 | **[Tacony Corporation](http://tacony.com)** | **[IT Support & Infrastructure Intern](https://jobright.ai/jobs/info/69de7a945913ad339813d699?utm_campaign=1058&utm_source=git)** | Fenton, MO, US | On Site | Apr 14 |
 | **[University of Southern California](http://www.usc.edu)** | **[Pharmacist Intern - Pharmacy - Per Diem 8 Hour Day Shift (Non-Union)](https://jobright.ai/jobs/info/69de7a8e36823d1b425813c3?utm_campaign=1058&utm_source=git)** | Glendale, CA | On Site | Apr 14 |
-| **[USC Verdugo Hills Hospital](https://uscvhh.org/)** | **[Pharmacist Intern - Pharmacy - Per Diem 8 Hour Day Shift (Non-Union)](https://jobright.ai/jobs/info/69de7a7b36823d1b42581381?utm_campaign=1058&utm_source=git)** | Glendale, CA | On Site | Apr 14 |
-| **[Cantex](https://www.cantexcc.com)** | **[IT internship (22220)](https://jobright.ai/jobs/info/69de7841aba61f1417315263?utm_campaign=1058&utm_source=git)** | Carrollton, TX | On Site | Apr 14 |
-| **[STERIS](http://steris.com)** | **[IT Applications Intern](https://jobright.ai/jobs/info/69de7794433ac8430e0d9d84?utm_campaign=1058&utm_source=git)** | Mentor, OH, US, 44060 | Hybrid | Apr 14 |
-| **[Cantex](https://www.cantexcc.com)** | **[IT internship (22220)](https://jobright.ai/jobs/info/69de73f45913ad339813d449?utm_campaign=1058&utm_source=git)** | Cantex Corporate - Carrollton, TX 75006 | On Site | Apr 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
