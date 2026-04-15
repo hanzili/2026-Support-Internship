@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Intern I, General](https://jobright.ai/jobs/info/69d5ff13e63cea7a8b6670f1?utm_campaign=1058&utm_source=git)** | Binghamton, NY | On Site | Apr 15 |
+| **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/69df9d425913ad3398144a91?utm_campaign=1058&utm_source=git)** | Boston, MA | On Site | Apr 15 |
+| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69df9d395913ad3398144a7e?utm_campaign=1058&utm_source=git)** | Sun City Center, FL | On Site | Apr 15 |
+| **[Skechers](http://www.skechers.com)** | **[ServiceNow IT Service Management (ITSM) Intern (Summer 2026)](https://jobright.ai/jobs/info/69c2c96d753c101b21561689?utm_campaign=1058&utm_source=git)** | Manhattan Beach, CA | On Site | Apr 15 |
 | **[Perryman Company](http://perrymanco.com)** | **[Internship - IT Support Technician](https://jobright.ai/jobs/info/69df8fbf4920452a85dce3a9?utm_campaign=1058&utm_source=git)** | Houston, Pennsylvania, United States | On Site | Apr 15 |
 | **[MetroPlusHealth](https://www.metroplus.org/)** | **[Summer Intern - Call Center](https://jobright.ai/jobs/info/69c3031e753c101b2156746c?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Apr 15 |
 | **[Nokia](http://www.nokia.com)** | **[Service Operations Intern](https://jobright.ai/jobs/info/69a59c390da45516f16e4a6e?utm_campaign=1058&utm_source=git)** | Miami-FTL Area | Hybrid | Apr 15 |
@@ -90,6 +94,7 @@ For a complete list, click the following sortable link below:
 | **[McLaren Health Care](http://www.mclaren.org)** | **[Respiratory Intern](https://jobright.ai/jobs/info/69c7048c1b5ad0288738953d?utm_campaign=1058&utm_source=git)** | Port Huron, MI | On Site | Apr 14 |
 | **[Provincial Senior Living](https://provincialseniorliving.com/)** | **[concierge](https://jobright.ai/jobs/info/69dee0c436823d1b425844a9?utm_campaign=1058&utm_source=git)** | Sun City West, AZ | On Site | Apr 14 |
 | **[Aurora Health Care](http://aurorahealthcare.org)** | **[Inpatient Pharmacy Intern - Summit](https://jobright.ai/jobs/info/69dee092e34484770f1a53b2?utm_campaign=1058&utm_source=git)** | Oconomowoc, WI | On Site | Apr 14 |
+| **[Made by Momma](http://www.madebymomma.org)** | **[Program Support Intern](https://jobright.ai/jobs/info/69df8e1614bf245fc7a6c836?utm_campaign=1058&utm_source=git)** | Calgary, AB | On Site | Apr 14 |
 | **[Tallahassee Memorial HealthCare](https://www.tmh.org/)** | **[2026 Summer Nurse Internship - June 4 through July 31](https://jobright.ai/jobs/info/69d8443a738f2f099e89ba61?utm_campaign=1058&utm_source=git)** | Tallahassee, FL | On Site | Apr 14 |
 | **[Regional Municipality of Wood Buffalo](https://rmwb.ca)** | **[Customer Service Agent](https://jobright.ai/jobs/info/69ded89618cf504166e30333?utm_campaign=1058&utm_source=git)** | Fort McMurray, AB | On Site | Apr 14 |
 | **[Keck Medicine of USC](https://www.keckmedicine.org)** | **[Pharmacist Intern - Pharmacy - Per Diem 8 Hour Day Shift (Non-Union)](https://jobright.ai/jobs/info/69decdc65913ad33981403a7?utm_campaign=1058&utm_source=git)** | Glendale, CA | On Site | Apr 14 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Greenspoon Marder LLP](https://www.gmlaw.com/)** | **[Receptionist - Fort Lauderdale - 0302](https://jobright.ai/jobs/info/69de86ed433ac8430e0da2e9?utm_campaign=1058&utm_source=git)** | Fort Lauderdale, Florida, United States | On Site | Apr 14 |
 | **[Bellco Credit Union](https://www.bellco.org)** | **[Operations Intern - Support Services](https://jobright.ai/jobs/info/69de86dae34484770f1a287a?utm_campaign=1058&utm_source=git)** | Greenwood Village, CO | On Site | Apr 14 |
 | **[1st Security Bank of Washington](https://www.fsbwa.com/)** | **[Customer Service Representative Intern](https://jobright.ai/jobs/info/69c1d2df75f7ff1cd8102b6e?utm_campaign=1058&utm_source=git)** | Olympia, WA | On Site | Apr 14 |
-| **[Prysmian](https://www.prysmian.com)** | **[McKinney IT Intern](https://jobright.ai/jobs/info/69a5e4f1359fe034b1d09dac?utm_campaign=1058&utm_source=git)** | McKinney, TX | On Site | Apr 14 |
-| **[University of St. Thomas](http://www.stthomas.edu)** | **[Athletics Student Worker - Ticketing Intern](https://jobright.ai/jobs/info/69de84ed18cf504166e2d7f1?utm_campaign=1058&utm_source=git)** | St. Paul, MN, US | On Site | Apr 14 |
-| **[Pine Rest Christian Mental Health Services](https://www.pinerest.org/)** | **[Intern - Assessment & Referral Clinician](https://jobright.ai/jobs/info/69de7b1b36823d1b42581441?utm_campaign=1058&utm_source=git)** | Grand Rapids, MI | On Site | Apr 14 |
-| **[Tacony Corporation](http://tacony.com)** | **[IT Support & Infrastructure Intern](https://jobright.ai/jobs/info/69de7a945913ad339813d699?utm_campaign=1058&utm_source=git)** | Fenton, MO, US | On Site | Apr 14 |
-| **[University of Southern California](http://www.usc.edu)** | **[Pharmacist Intern - Pharmacy - Per Diem 8 Hour Day Shift (Non-Union)](https://jobright.ai/jobs/info/69de7a8e36823d1b425813c3?utm_campaign=1058&utm_source=git)** | Glendale, CA | On Site | Apr 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
