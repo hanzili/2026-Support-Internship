@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cone Health](http://www.conehealth.com)** | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/69e097c5cf5a9e0c33c87549?utm_campaign=1058&utm_source=git)** | Greensboro, NC | On Site | Apr 16 |
+| **[Wellstar Health System](https://www.wellstar.org)** | **[PRN Respiratory Care Intern @ Cobb Hospital](https://jobright.ai/jobs/info/69e097839564e855a25de5d4?utm_campaign=1058&utm_source=git)** | Austell, GA | On Site | Apr 16 |
 | **[Leidos](https://www.leidos.com)** | **[IT Support Technician Level 1 Depot - Intern](https://jobright.ai/jobs/info/69e08256ba9bd32d03370d0d?utm_campaign=1058&utm_source=git)** | Elkridge, MD | On Site | Apr 15 |
 | **[Campbell County Health](https://www.cchwyo.org/)** | **[IT INTERN](https://jobright.ai/jobs/info/69e08235c17d1d5254334f5e?utm_campaign=1058&utm_source=git)** | Gillette, WY | On Site | Apr 15 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69e07b01b20fd532b4ae1d34?utm_campaign=1058&utm_source=git)** | Boston, MA | On Site | Apr 15 |
@@ -147,7 +149,6 @@ For a complete list, click the following sortable link below:
 | **[Acuity Insurance](http://www.acuity.com)** | **[Insurance Customer Service Intern](https://jobright.ai/jobs/info/69c33922097a024c43d93967?utm_campaign=1058&utm_source=git)** | Sheboygan, WI | Remote | Apr 15 |
 | **[Southern Industrial Constructors, Inc.](https://www.southernindustrial.com/)** | **[IT Technical Writer Intern (Summer 2026)](https://jobright.ai/jobs/info/69acf1522747003c3d527f56?utm_campaign=1058&utm_source=git)** | Raleigh, NC | On Site | Apr 15 |
 | **[U-Haul](http://www.uhaul.com/)** | **[Operations & Customer Experience Summer Intern](https://jobright.ai/jobs/info/69dfbdf814bf245fc7a6d76c?utm_campaign=1058&utm_source=git)** | Phoenix, Arizona | On Site | Apr 15 |
-| **[ABB](https://global.abb/group/en)** | **[Préposé réception et expédition (étudiant)](https://jobright.ai/jobs/info/69dfbc7caba61f141731d109?utm_campaign=1058&utm_source=git)** | Bromont, QC | On Site | Apr 15 |
 | **[Ingram Content Group](http://ingramcontent.com)** | **[IT Internship](https://jobright.ai/jobs/info/69dfbc5fe34484770f1aa123?utm_campaign=1058&utm_source=git)** | La Vergne, TN | On Site | Apr 15 |
 | **[Select Medical](http://www.selectmedical.com)** | **[Pharmacy Intern - PRN](https://jobright.ai/jobs/info/69dfbc425913ad339814562a?utm_campaign=1058&utm_source=git)** | Memphis, TN | On Site | Apr 15 |
 | **[Georgia Tech Research Institute](http://www.gtrc.gatech.edu)** | **[CIPHER-IT Operations Intern Summer 2026](https://jobright.ai/jobs/info/69dfb909e34484770f1a9f79?utm_campaign=1058&utm_source=git)** | Atlanta, GA | On Site | Apr 15 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ingram Content Group](http://ingramcontent.com)** | **[IT Internship](https://jobright.ai/jobs/info/69dfb34c4920452a85dced9c?utm_campaign=1058&utm_source=git)** | 1 Ingram Blvd, La Vergne, TN 37086, USA | On Site | Apr 15 |
 | **[Amivero](https://amivero.com)** | **[Infromation Technology Intern](https://jobright.ai/jobs/info/69dfab26e34484770f1a9a31?utm_campaign=1058&utm_source=git)** | Reston, VA, US | Hybrid | Apr 15 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Cath Lab Tech Intern](https://jobright.ai/jobs/info/69dfab18aba61f141731c92a?utm_campaign=1058&utm_source=git)** | Racine, WI, US | On Site | Apr 15 |
-| **[Amivero](https://amivero.com)** | **[Infromation Technology Intern](https://jobright.ai/jobs/info/69dfa8dd14bf245fc7a6cf53?utm_campaign=1058&utm_source=git)** | US-VA-Reston | Hybrid | Apr 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
