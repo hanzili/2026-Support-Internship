@@ -114,7 +114,6 @@ For a complete list, click the following sortable link below:
 | **[UW Health SwedishAmerican](https://swedishamerican.org)** | **[Professional Student Radiological Intern](https://jobright.ai/jobs/info/69dff28614bf245fc7a6ed3d?utm_campaign=1058&utm_source=git)** | Rockford, IL | On Site | Apr 15 |
 | **[Happy Hospitality](http://www.happycamper.pizza)** | **[Events and Catering Intern](https://jobright.ai/jobs/info/69dff21aaba61f141731e5e3?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Apr 15 |
 | **[U.S. Bank](http://www.usbank.com)** | **[Fraud and Disputes Intake Specialist](https://jobright.ai/jobs/info/69dff094aba61f141731e5cb?utm_campaign=1058&utm_source=git)** | Texas, United States | Remote | Apr 15 |
-| **[UC San Diego Health](https://health.ucsd.edu/)** | **[Patient Service Representative - Vista Lab - 139168](https://jobright.ai/jobs/info/69dff0535913ad3398146a4d?utm_campaign=1058&utm_source=git)** | San Diego, CA | On Site | Apr 15 |
 | **[McLaren Health Care](http://www.mclaren.org)** | **[Imaging Intern](https://jobright.ai/jobs/info/69dfec895913ad3398146942?utm_campaign=1058&utm_source=git)** | Lapeer, MI | On Site | Apr 15 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Field Service Intern - New York, New York](https://jobright.ai/jobs/info/69d817b1b861c42857c48a67?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Apr 15 |
 | **[UChicago Medicine](https://www.uchicagomedicine.org/)** | **[Student Pharmacy Intern, Meds 2 Beds, Days](https://jobright.ai/jobs/info/69dfe82a433ac8430e0e300a?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Apr 15 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Ingram Content Group](http://ingramcontent.com)** | **[IT Internship](https://jobright.ai/jobs/info/69dfb34c4920452a85dced9c?utm_campaign=1058&utm_source=git)** | 1 Ingram Blvd, La Vergne, TN 37086, USA | On Site | Apr 15 |
 | **[Amivero](https://amivero.com)** | **[Infromation Technology Intern](https://jobright.ai/jobs/info/69dfab26e34484770f1a9a31?utm_campaign=1058&utm_source=git)** | Reston, VA, US | Hybrid | Apr 15 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Cath Lab Tech Intern](https://jobright.ai/jobs/info/69dfab18aba61f141731c92a?utm_campaign=1058&utm_source=git)** | Racine, WI, US | On Site | Apr 15 |
+| **[Amivero](https://amivero.com)** | **[Infromation Technology Intern](https://jobright.ai/jobs/info/69dfa8dd14bf245fc7a6cf53?utm_campaign=1058&utm_source=git)** | US-VA-Reston | Hybrid | Apr 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
