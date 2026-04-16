@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nationwide Children's Hospital](http://www.nationwidechildrens.org)** | **[Pharmacy Intern - Outpatient/Ambulatory Pharmacy (P1 Intern Only)](https://jobright.ai/jobs/info/69e11cc7acc736112f5c1f71?utm_campaign=1058&utm_source=git)** | Main Campus, Columbus, OH | On Site | Apr 16 |
+| ↳ | **[Pharmacy Intern - Outpatient/Ambulatory Pharmacy (P2 Intern Only)](https://jobright.ai/jobs/info/69e11cbfff71e82d604b5378?utm_campaign=1058&utm_source=git)** | Main Campus, Columbus, OH | On Site | Apr 16 |
+| **[Ntiva, Inc.](http://www.ntiva.com)** | **[Service Desk Intern](https://jobright.ai/jobs/info/69e11b71d612782e61146e8a?utm_campaign=1058&utm_source=git)** | Parkersburg, WV | On Site | Apr 16 |
 | **[Community Health Systems](http://www.chs.net)** | **[ICU Student Intern](https://jobright.ai/jobs/info/69e11089acc736112f5c1c33?utm_campaign=1058&utm_source=git)** | 2520 E Dupont Rd, Fort Wayne, IN, 46825, US | On Site | Apr 16 |
 | ↳ | **[Student Intern ICU](https://jobright.ai/jobs/info/69e1107340a62c1fa93b67bf?utm_campaign=1058&utm_source=git)** | 2520 E Dupont Rd, Fort Wayne, IN, 46825, US | On Site | Apr 16 |
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Intern, International Patient Services](https://jobright.ai/jobs/info/69e11067d612782e61146bca?utm_campaign=1058&utm_source=git)** | Boston-MA | On Site | Apr 16 |
@@ -70,6 +73,7 @@ For a complete list, click the following sortable link below:
 | **[The University of Texas Medical Branch](http://www.utmb.edu/)** | **[Advanced Practice Provider, Internal Medicine-Oncology](https://jobright.ai/jobs/info/69e0f81d40a62c1fa93b5f99?utm_campaign=1058&utm_source=git)** | Galveston, TX | On Site | Apr 16 |
 | **[CONVERGIX Automation Solutions](https://convergixautomation.com)** | **[IT Systems & Support Intern](https://jobright.ai/jobs/info/69c45c04d5a1016e98db925e?utm_campaign=1058&utm_source=git)** | Bridgman, MI | On Site | Apr 16 |
 | **[Aimbridge Hospitality](http://www.aimbridgehospitality.com/)** | **[Oneida Hotel - Hospitality Management Intern](https://jobright.ai/jobs/info/69c3e265d5a1016e98dad0e2?utm_campaign=1058&utm_source=git)** | Ashwaubenon, WI | On Site | Apr 16 |
+| **[Ascension](https://healthcare.ascension.org)** | **[Nurse Intern Respiratory Stroke](https://jobright.ai/jobs/info/69e11b00ff71e82d604b5252?utm_campaign=1058&utm_source=git)** | Wichita, KS | On Site | Apr 16 |
 | **[Nemours Children's Health](http://www.nemours.org)** | **[Pharmacy Student Intern (Second-Year Rising)](https://jobright.ai/jobs/info/69c42f6633eecf31079456e0?utm_campaign=1058&utm_source=git)** | Orlando, FL | On Site | Apr 16 |
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Client Services Analyst I (Fully Remote - USA)](https://jobright.ai/jobs/info/69c52c90f4b6c932e4439a26?utm_campaign=1058&utm_source=git)** | Texas, United States | Remote | Apr 16 |
 | **[ebm-papst](https://www.ebmpapst.com/en/)** | **[IT Intern](https://jobright.ai/jobs/info/69e0f0316c20aa114953e68c?utm_campaign=1058&utm_source=git)** | Farmington, CT | On Site | Apr 16 |
@@ -129,7 +133,6 @@ For a complete list, click the following sortable link below:
 | **[Herc Rentals](http://www.HercRentals.com)** | **[ProSales Intern - Streamwood, IL](https://jobright.ai/jobs/info/69d6985d366bb95ba554d94b?utm_campaign=1058&utm_source=git)** | Streamwood, IL | On Site | Apr 15 |
 | **[Plastic Ingenuity](http://plasticingenuity.com)** | **[IT Intern](https://jobright.ai/jobs/info/69e02618433ac8430e0e47ad?utm_campaign=1058&utm_source=git)** | 1017 Park Street, Cross Plains, WI, United States | On Site | Apr 15 |
 | **[Saint Luke's](https://www.saintlukeskc.org)** | **[Nursing Intern](https://jobright.ai/jobs/info/69e01e964920452a85dd1ab7?utm_campaign=1058&utm_source=git)** | Saint Luke's East Hospital   |   100 NE Saint Lukes Blvd   |   Lees Summit   |   MO | On Site | Apr 15 |
-| **[Ascent](https://www.ascentfunding.com/)** | **[IT Help Desk Intern](https://jobright.ai/jobs/info/69e01afaaba61f141731f8a9?utm_campaign=1058&utm_source=git)** | San Diego,CA,US | On Site | Apr 15 |
 | **[OneRail](http://www.onerail.com)** | **[Technical Writer Intern](https://jobright.ai/jobs/info/69e035d75913ad3398148719?utm_campaign=1058&utm_source=git)** | Orlando, FL | On Site | Apr 15 |
 | **[MicroVention-Terumo](http://microvention.com)** | **[Intern, IT](https://jobright.ai/jobs/info/69e010615913ad3398147a75?utm_campaign=1058&utm_source=git)** | Aliso Viejo, California, USA | Hybrid | Apr 15 |
 | **[Xometry](https://www.xometry.com)** | **[Customer Support Intern](https://jobright.ai/jobs/info/695dc344efe5dd5cbd3d9d49?utm_campaign=1058&utm_source=git)** | Lexington, KY | Hybrid | Apr 15 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Happy Hospitality](http://www.happycamper.pizza)** | **[Events and Catering Intern](https://jobright.ai/jobs/info/69dff21aaba61f141731e5e3?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Apr 15 |
 | **[U.S. Bank](http://www.usbank.com)** | **[Fraud and Disputes Intake Specialist](https://jobright.ai/jobs/info/69dff094aba61f141731e5cb?utm_campaign=1058&utm_source=git)** | Texas, United States | Remote | Apr 15 |
 | **[Comanche County Memorial Hospital](https://www.ccmhhealth.com/)** | **[It Intern - Information Technology](https://jobright.ai/jobs/info/69e0f7b96c20aa114953eb96?utm_campaign=1058&utm_source=git)** | Lawton, OK | On Site | Apr 15 |
-| **[McLaren Health Care](http://www.mclaren.org)** | **[Imaging Intern](https://jobright.ai/jobs/info/69dfec895913ad3398146942?utm_campaign=1058&utm_source=git)** | Lapeer, MI | On Site | Apr 15 |
-| **[Vertiv](https://www.Vertiv.com)** | **[Field Service Intern - New York, New York](https://jobright.ai/jobs/info/69d817b1b861c42857c48a67?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Apr 15 |
-| **[UChicago Medicine](https://www.uchicagomedicine.org/)** | **[Student Pharmacy Intern, Meds 2 Beds, Days](https://jobright.ai/jobs/info/69dfe82a433ac8430e0e300a?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Apr 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
