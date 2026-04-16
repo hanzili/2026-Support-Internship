@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Stuller, Inc.](http://stuller.com)** | **[SysOps Intern](https://jobright.ai/jobs/info/69e02368433ac8430e0e46ec?utm_campaign=1058&utm_source=git)** | Lafayette, Louisiana Metropolitan Area | On Site | Apr 15 |
+| **[Saint Luke's](https://www.saintlukeskc.org)** | **[Nursing Intern](https://jobright.ai/jobs/info/69e01e964920452a85dd1ab7?utm_campaign=1058&utm_source=git)** | Saint Luke's East Hospital   |   100 NE Saint Lukes Blvd   |   Lees Summit   |   MO | On Site | Apr 15 |
+| **[Plastic Ingenuity](http://plasticingenuity.com)** | **[IT Intern](https://jobright.ai/jobs/info/69e01afc433ac8430e0e4559?utm_campaign=1058&utm_source=git)** | 1017 Park Street, Cross Plains, WI, United States | On Site | Apr 15 |
+| **[Ascent](https://www.ascentfunding.com/)** | **[IT Help Desk Intern](https://jobright.ai/jobs/info/69e01afaaba61f141731f8a9?utm_campaign=1058&utm_source=git)** | San Diego,CA,US | On Site | Apr 15 |
 | **[MicroVention-Terumo](http://microvention.com)** | **[Intern, IT](https://jobright.ai/jobs/info/69e010615913ad3398147a75?utm_campaign=1058&utm_source=git)** | Aliso Viejo, California, USA | Hybrid | Apr 15 |
 | **[Lee Health](http://www.leehealth.org/)** | **[PRN Enrolled Pharmacist Intern - Gulf Coast Medical Center](https://jobright.ai/jobs/info/69e00d5a4920452a85dd1545?utm_campaign=1058&utm_source=git)** | Fort Myers, FL | On Site | Apr 15 |
 | ↳ | **[PRN Student Intern](https://jobright.ai/jobs/info/69e00a925913ad33981478a6?utm_campaign=1058&utm_source=git)** | Fort Myers, FL | On Site | Apr 15 |
@@ -94,8 +98,8 @@ For a complete list, click the following sortable link below:
 | **[Brigham and Women's Hospital](http://www.brighamandwomens.org/)** | **[Pharmacy Intern YR3](https://jobright.ai/jobs/info/69dfdace4920452a85dcfe4d?utm_campaign=1058&utm_source=git)** | Boston, MA | On Site | Apr 15 |
 | **[Dimmitt Automotive Group](http://dimmitt.com)** | **[Collision Center Service Coordinator](https://jobright.ai/jobs/info/69dfda9b4920452a85dcfe0a?utm_campaign=1058&utm_source=git)** | Oldsmar, FL | On Site | Apr 15 |
 | **[Schindler Group](http://www.schindler.com/)** | **[Sales Support Intern](https://jobright.ai/jobs/info/69d8409d738f2f099e89b929?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Apr 15 |
-| **[The MetroHealth System (Cleveland, OH)](http://www.metrohealth.org)** | **[Student Intern-Med Affairs](https://jobright.ai/jobs/info/69dfda58e34484770f1aae18?utm_campaign=1058&utm_source=git)** | Cleveland, OH | On Site | Apr 15 |
-| ↳ | **[Nurse Intern- Delivery Room](https://jobright.ai/jobs/info/69c2e2fe94007a2195def147?utm_campaign=1058&utm_source=git)** | Cleveland, OH | On Site | Apr 15 |
+| **[The MetroHealth System (Cleveland, OH)](http://www.metrohealth.org)** | **[Nurse Intern- Delivery Room](https://jobright.ai/jobs/info/69c2e2fe94007a2195def147?utm_campaign=1058&utm_source=git)** | Cleveland, OH | On Site | Apr 15 |
+| ↳ | **[Student Intern-Med Affairs](https://jobright.ai/jobs/info/69dfda58e34484770f1aae18?utm_campaign=1058&utm_source=git)** | Cleveland, OH | On Site | Apr 15 |
 | **[Naples Comprehensive Health - NCH](http://www.nchmd.org/)** | **[Medical Staff Intern FR](https://jobright.ai/jobs/info/69dfda5514bf245fc7a6e2f9?utm_campaign=1058&utm_source=git)** | Naples, FL | On Site | Apr 15 |
 | **[Justrite Manufacturing Company L.L.C.](http://www.justritemfg.com/)** | **[Customer Service Intern](https://jobright.ai/jobs/info/69dfd813433ac8430e0e28eb?utm_campaign=1058&utm_source=git)** | Wellsburg, WV | On Site | Apr 15 |
 | **[Peoples Commercial Bancorp Inc.](http://bankofcommercestilwell.com)** | **[Teller](https://jobright.ai/jobs/info/69dfd7c35913ad33981460de?utm_campaign=1058&utm_source=git)** | Charleston, WV | On Site | Apr 15 |
@@ -128,8 +132,8 @@ For a complete list, click the following sortable link below:
 | **[Amivero](https://amivero.com)** | **[Infromation Technology Intern](https://jobright.ai/jobs/info/69dfa8dd14bf245fc7a6cf53?utm_campaign=1058&utm_source=git)** | US-VA-Reston | Hybrid | Apr 15 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Cath Lab Tech Intern](https://jobright.ai/jobs/info/69dfa8be4920452a85dcea14?utm_campaign=1058&utm_source=git)** | US-WI-Racine | On Site | Apr 15 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69dfc9be433ac8430e0e2316?utm_campaign=1058&utm_source=git)** | Lansing, MI | On Site | Apr 15 |
-| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69dfc8b15913ad3398145b5f?utm_campaign=1058&utm_source=git)** | Woodbury, NJ | On Site | Apr 15 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69dfc8d4aba61f141731d6ea?utm_campaign=1058&utm_source=git)** | Woodbury, NJ | On Site | Apr 15 |
+| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69dfc8b15913ad3398145b5f?utm_campaign=1058&utm_source=git)** | Woodbury, NJ | On Site | Apr 15 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69dfcf70433ac8430e0e2629?utm_campaign=1058&utm_source=git)** | Lincoln, NE | On Site | Apr 15 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Intern I, General](https://jobright.ai/jobs/info/69d5ff13e63cea7a8b6670f1?utm_campaign=1058&utm_source=git)** | Binghamton, NY | On Site | Apr 15 |
 | **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/69df9d425913ad3398144a91?utm_campaign=1058&utm_source=git)** | Boston, MA | On Site | Apr 15 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69df2166aba61f141731a67f?utm_campaign=1058&utm_source=git)** | Lexington, KY | On Site | Apr 14 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69df214be34484770f1a76ca?utm_campaign=1058&utm_source=git)** | Youngstown, OH | On Site | Apr 14 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69df1f9818cf504166e32770?utm_campaign=1058&utm_source=git)** | Dayton, OH | On Site | Apr 14 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69dfdabe4920452a85dcfe38?utm_campaign=1058&utm_source=git)** | Streetsboro, OH | On Site | Apr 14 |
-| **[Golden 1 Credit Union](https://www.golden1.com/)** | **[Business Member Support Center - Business Member Support Service Center Representative](https://jobright.ai/jobs/info/69df10eb18cf504166e322e2?utm_campaign=1058&utm_source=git)** | Sacramento, CA | On Site | Apr 14 |
-| ↳ | **[Business Member Support Center - Business Member Support Account Servicing Sr Specialist](https://jobright.ai/jobs/info/69df10e9aba61f141731a120?utm_campaign=1058&utm_source=git)** | Sacramento, CA | On Site | Apr 14 |
-| **[Mednevo](https://mednevo.com)** | **[Co-Founder and Medical Doctor Intern (MD)](https://jobright.ai/jobs/info/69df0fcd433ac8430e0dec4b?utm_campaign=1058&utm_source=git)** | Austin, Texas Metropolitan Area | Hybrid | Apr 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
