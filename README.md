@@ -57,12 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Community Health Systems](http://www.chs.net)** | **[ICU Student Intern](https://jobright.ai/jobs/info/69e11089acc736112f5c1c33?utm_campaign=1058&utm_source=git)** | 2520 E Dupont Rd, Fort Wayne, IN, 46825, US | On Site | Apr 16 |
+| ↳ | **[Student Intern ICU](https://jobright.ai/jobs/info/69e1107340a62c1fa93b67bf?utm_campaign=1058&utm_source=git)** | 2520 E Dupont Rd, Fort Wayne, IN, 46825, US | On Site | Apr 16 |
+| **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Intern, International Patient Services](https://jobright.ai/jobs/info/69e11067d612782e61146bca?utm_campaign=1058&utm_source=git)** | Boston-MA | On Site | Apr 16 |
+| **[Leidos](https://www.leidos.com)** | **[IT Support Technician Intern](https://jobright.ai/jobs/info/69e11064ff71e82d604b4fb0?utm_campaign=1058&utm_source=git)** | Gaithersburg, MD | On Site | Apr 16 |
+| **[eClerx](https://eclerx.com/)** | **[IT Intern](https://jobright.ai/jobs/info/69a7842d2672cb0acb4bfbe9?utm_campaign=1058&utm_source=git)** | Fayetteville, NC | On Site | Apr 16 |
+| **[Shermco Industries](http://www.shermco.com)** | **[Field Service Intern](https://jobright.ai/jobs/info/69c4227733eecf3107943f4f?utm_campaign=1058&utm_source=git)** | Hiawatha, IA | On Site | Apr 16 |
+| **[Jacobs](http://www.jacobs.com)** | **[Equipment and Field Support Intern – Summer 2026 Calgary (AB)](https://jobright.ai/jobs/info/69e10919fd1c0456f3fac30a?utm_campaign=1058&utm_source=git)** | Calgary, AB | Hybrid | Apr 16 |
 | **[Harford Mutual Insurance Group](http://harfordmutual.com)** | **[IT Intern, Technical Services](https://jobright.ai/jobs/info/69e10364ff71e82d604b4c5c?utm_campaign=1058&utm_source=git)** | Bel Air, MD | On Site | Apr 16 |
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Pharmacy Intern YR3](https://jobright.ai/jobs/info/69e10306fd1c0456f3fac1e6?utm_campaign=1058&utm_source=git)** | Boston-MA | On Site | Apr 16 |
 | **[Old Republic Title](http://www.oldrepublictitle.com/)** | **[Intern](https://jobright.ai/jobs/info/69e102faacc736112f5c17b9?utm_campaign=1058&utm_source=git)** | Utah, United States | On Site | Apr 16 |
 | **[The University of Texas Medical Branch](http://www.utmb.edu/)** | **[Advanced Practice Provider, Internal Medicine-Oncology](https://jobright.ai/jobs/info/69e0f81d40a62c1fa93b5f99?utm_campaign=1058&utm_source=git)** | Galveston, TX | On Site | Apr 16 |
 | **[CONVERGIX Automation Solutions](https://convergixautomation.com)** | **[IT Systems & Support Intern](https://jobright.ai/jobs/info/69c45c04d5a1016e98db925e?utm_campaign=1058&utm_source=git)** | Bridgman, MI | On Site | Apr 16 |
 | **[Aimbridge Hospitality](http://www.aimbridgehospitality.com/)** | **[Oneida Hotel - Hospitality Management Intern](https://jobright.ai/jobs/info/69c3e265d5a1016e98dad0e2?utm_campaign=1058&utm_source=git)** | Ashwaubenon, WI | On Site | Apr 16 |
+| **[Nemours Children's Health](http://www.nemours.org)** | **[Pharmacy Student Intern (Second-Year Rising)](https://jobright.ai/jobs/info/69c42f6633eecf31079456e0?utm_campaign=1058&utm_source=git)** | Orlando, FL | On Site | Apr 16 |
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Client Services Analyst I (Fully Remote - USA)](https://jobright.ai/jobs/info/69c52c90f4b6c932e4439a26?utm_campaign=1058&utm_source=git)** | Texas, United States | Remote | Apr 16 |
 | **[ebm-papst](https://www.ebmpapst.com/en/)** | **[IT Intern](https://jobright.ai/jobs/info/69e0f0316c20aa114953e68c?utm_campaign=1058&utm_source=git)** | Farmington, CT | On Site | Apr 16 |
 | **[Red Bull New York](http://www.newyorkredbulls.com)** | **[2026 Internship, Summer - IT](https://jobright.ai/jobs/info/69c4bc1a6f4f855eeda76398?utm_campaign=1058&utm_source=git)** | Harrison, NJ | On Site | Apr 16 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[McLaren Health Care](http://www.mclaren.org)** | **[Imaging Intern](https://jobright.ai/jobs/info/69dfec895913ad3398146942?utm_campaign=1058&utm_source=git)** | Lapeer, MI | On Site | Apr 15 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Field Service Intern - New York, New York](https://jobright.ai/jobs/info/69d817b1b861c42857c48a67?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Apr 15 |
 | **[UChicago Medicine](https://www.uchicagomedicine.org/)** | **[Student Pharmacy Intern, Meds 2 Beds, Days](https://jobright.ai/jobs/info/69dfe82a433ac8430e0e300a?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Apr 15 |
-| **[U-Haul](http://www.uhaul.com/)** | **[Operations & Customer Experience Summer Intern](https://jobright.ai/jobs/info/69dfe7694920452a85dd039b?utm_campaign=1058&utm_source=git)** | Phoenix, AZ | On Site | Apr 15 |
-| **[Amivero](https://amivero.com)** | **[Infromation Technology Intern](https://jobright.ai/jobs/info/69dfe3ef433ac8430e0e2d19?utm_campaign=1058&utm_source=git)** | Reston, VA | Hybrid | Apr 15 |
-| **[UPMC](https://www.upmc.com/)** | **[Respiratory Care Intern - UPMC Presbyterian](https://jobright.ai/jobs/info/69ccd980891d7b11cfcb493e?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | On Site | Apr 15 |
-| **[Smile Doctors](https://smiledoctors.com)** | **[Support Services Intern](https://jobright.ai/jobs/info/69dfe37c4920452a85dd0093?utm_campaign=1058&utm_source=git)** | Dallas, TX, USA | On Site | Apr 15 |
-| **[Geisinger](https://www.geisinger.org)** | **[Intern Undergraduate IT (Applications)](https://jobright.ai/jobs/info/69dfdf82433ac8430e0e2b11?utm_campaign=1058&utm_source=git)** | Danville, PA | Remote | Apr 15 |
-| **[UC Health](http://uchealth.com/)** | **[Pharmacy Intern, First shift , Specialty Pharmacy](https://jobright.ai/jobs/info/69dd3ab261f6ed54321fc109?utm_campaign=1058&utm_source=git)** | Cincinnati, OH | On Site | Apr 15 |
-| **[Brigham and Women's Hospital](http://www.brighamandwomens.org/)** | **[Pharmacy Intern YR3](https://jobright.ai/jobs/info/69dfdace4920452a85dcfe4d?utm_campaign=1058&utm_source=git)** | Boston, MA | On Site | Apr 15 |
-| **[Dimmitt Automotive Group](http://dimmitt.com)** | **[Collision Center Service Coordinator](https://jobright.ai/jobs/info/69dfda9b4920452a85dcfe0a?utm_campaign=1058&utm_source=git)** | Oldsmar, FL | On Site | Apr 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
