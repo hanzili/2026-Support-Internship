@@ -57,10 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Wells Fargo](http://www.wellsfargo.com)** | **[Business Relationship Support Representative - Dedicated Team](https://jobright.ai/jobs/info/69e0bd856c20aa114953d5a9?utm_campaign=1058&utm_source=git)** | El Monte, CA | Hybrid | Apr 16 |
+| **[Mayhill Hospital](https://mayhillhospital.com)** | **[Resident Internal Medicine](https://jobright.ai/jobs/info/69e0c9bafd1c0456f3faaa58?utm_campaign=1058&utm_source=git)** | Palmdale, CA | On Site | Apr 16 |
+| **[St. Elizabeth Healthcare](http://www.stelizabeth.com/)** | **[Intern Pharmacy - Retail Outpatient](https://jobright.ai/jobs/info/69c52c355a5e774c16b0cbf0?utm_campaign=1058&utm_source=git)** | Edgewood, KY | On Site | Apr 16 |
+| **[Wells Fargo](http://www.wellsfargo.com)** | **[Associate Customer Service Representative - Credit Cards - Bilingual (Spanish/English)](https://jobright.ai/jobs/info/69e0c2e9ff71e82d604b346b?utm_campaign=1058&utm_source=git)** | San Antonio, TX | On Site | Apr 16 |
+| ↳ | **[Business Relationship Support Representative - Dedicated Team](https://jobright.ai/jobs/info/69e0bd856c20aa114953d5a9?utm_campaign=1058&utm_source=git)** | El Monte, CA | Hybrid | Apr 16 |
 | **[PNC](http://www.pnc.com)** | **[Customer Service Representative-Mountain/Pacific Time Zones Only](https://jobright.ai/jobs/info/69e0b7d2ff71e82d604b2f10?utm_campaign=1058&utm_source=git)** | Nevada, United States | Hybrid | Apr 16 |
 | **[Boone County Hospital](https://www.boonehospital.com/foundation)** | **[IT Intern](https://jobright.ai/jobs/info/69e0b317e7504b3764731258?utm_campaign=1058&utm_source=git)** | Boone, IA | On Site | Apr 16 |
 | **[Huntington Health](https://www.huntingtonhealth.org)** | **[Student Nurse Intern Per Diem - DOU](https://jobright.ai/jobs/info/69e0acabd612782e6114471c?utm_campaign=1058&utm_source=git)** | Huntington Hospital - Pasadena | On Site | Apr 16 |
+| **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE - CRNA Internship](https://jobright.ai/jobs/info/69e0cbf540a62c1fa93b4fad?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Apr 16 |
 | **[Cone Health](http://www.conehealth.com)** | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/69e097c5cf5a9e0c33c87549?utm_campaign=1058&utm_source=git)** | Greensboro, NC | On Site | Apr 16 |
 | **[Wellstar Health System](https://www.wellstar.org)** | **[PRN Respiratory Care Intern @ Cobb Hospital](https://jobright.ai/jobs/info/69e097839564e855a25de5d4?utm_campaign=1058&utm_source=git)** | Austell, GA | On Site | Apr 16 |
 | **[Tennessee Board of Regents (TBR)](https://www.tbr.edu/)** | **[College Work Study Program (Help Desk Technician)](https://jobright.ai/jobs/info/69e0b359e7504b3764731297?utm_campaign=1058&utm_source=git)** | Memphis, TN | On Site | Apr 16 |
@@ -72,6 +76,7 @@ For a complete list, click the following sortable link below:
 | **[Aqua](https://www.aquawater.com/)** | **[IT Intern](https://jobright.ai/jobs/info/69e0591cc5691b27c176cca0?utm_campaign=1058&utm_source=git)** | Bryn Mawr, PA | On Site | Apr 15 |
 | **[U.S. Bank](http://www.usbank.com)** | **[Contact Center Customer Experience Specialist - PrePaid (Spanish Preferred)](https://jobright.ai/jobs/info/69d80a7bb67cec4f9b09a22e?utm_campaign=1058&utm_source=git)** | United States | Remote | Apr 15 |
 | **[American Food & Vending](https://www.afvusa.com/)** | **[IT Intern - Network Technical Support](https://jobright.ai/jobs/info/69e073f6c17d1d5254334ac0?utm_campaign=1058&utm_source=git)** | Syracuse-Auburn Area | On Site | Apr 15 |
+| **[CNB Bank](https://www.bankcnb.com)** | **[CNB Bank, IT Service Desk Intern](https://jobright.ai/jobs/info/69e0cc186c20aa114953db92?utm_campaign=1058&utm_source=git)** | Clearfield, PA | On Site | Apr 15 |
 | **[Parkview Health](http://www.parkview.com)** | **[Medication Reconciliation Pharmacy Intern](https://jobright.ai/jobs/info/69e04defb20fd532b4ae09e7?utm_campaign=1058&utm_source=git)** | Greater Fort Wayne | On Site | Apr 15 |
 | **[Schindler Elevator Corporation (U.S.)](http://www.schindler.com)** | **[Sales Support Intern](https://jobright.ai/jobs/info/69d85bba738f2f099e89bfff?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Apr 15 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Student Nurse Intern](https://jobright.ai/jobs/info/69e049ac14bf245fc7a70ce1?utm_campaign=1058&utm_source=git)** | Kyle, TX | On Site | Apr 15 |
@@ -109,7 +114,6 @@ For a complete list, click the following sortable link below:
 | **[The Chefs'​ Warehouse](https://www.chefswarehouse.com)** | **[Transportation - Intern](https://jobright.ai/jobs/info/69e0016114bf245fc7a6f403?utm_campaign=1058&utm_source=git)** | 240 Food Center Dr, Bronx, NY 10474, USA | On Site | Apr 15 |
 | **[Baptist Health Care](https://www.ebaptisthealthcare.org)** | **[Surgical Technician Intern Program](https://jobright.ai/jobs/info/69dffde35913ad339814723d?utm_campaign=1058&utm_source=git)** | 123 Baptist Way, Pensacola, FL, 32503, US | On Site | Apr 15 |
 | **[UPMC](https://www.upmc.com/)** | **[Respiratory Care Intern - UPMC Magee](https://jobright.ai/jobs/info/69dffb56aba61f141731ed38?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | On Site | Apr 15 |
-| **[Redwood Credit Union](http://www.redwoodcu.org)** | **[Member Service Associate (Teller)](https://jobright.ai/jobs/info/69dff7b114bf245fc7a6f1ba?utm_campaign=1058&utm_source=git)** | Santa Rosa, CA | On Site | Apr 15 |
 | **[Baton Rouge General Medical Center](http://www.brgeneral.org/site406.php)** | **[Intern - Respiratory Care](https://jobright.ai/jobs/info/69dff763aba61f141731eb64?utm_campaign=1058&utm_source=git)** | Baton Rouge, LA | On Site | Apr 15 |
 | **[Topcon Positioning Systems](https://www.topconpositioning.com/)** | **[Medical Affairs Intern](https://jobright.ai/jobs/info/69dff73214bf245fc7a6f111?utm_campaign=1058&utm_source=git)** | La Jolla, CA | On Site | Apr 15 |
 | **[Leidos](https://www.leidos.com)** | **[IT Support Technician Level 1 Depot - Intern](https://jobright.ai/jobs/info/69dff72e4920452a85dd0c2d?utm_campaign=1058&utm_source=git)** | Elkridge, MD | On Site | Apr 15 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Triumph](https://www.tfin.com/)** | **[Associate Service Desk Engineer Intern – Summer 2026](https://jobright.ai/jobs/info/69dfc1fd4920452a85dcf4c9?utm_campaign=1058&utm_source=git)** | Dallas, TX | On Site | Apr 15 |
 | ↳ | **[Associate Service Desk Engineer Intern – Summer 2026](https://jobright.ai/jobs/info/69e06c30c17d1d525433453d?utm_campaign=1058&utm_source=git)** | Dallas, TX | On Site | Apr 15 |
 | **[Acuity Insurance](http://www.acuity.com)** | **[Insurance Customer Service Intern](https://jobright.ai/jobs/info/69c33922097a024c43d93967?utm_campaign=1058&utm_source=git)** | Sheboygan, WI | Remote | Apr 15 |
-| **[Southern Industrial Constructors, Inc.](https://www.southernindustrial.com/)** | **[IT Technical Writer Intern (Summer 2026)](https://jobright.ai/jobs/info/69acf1522747003c3d527f56?utm_campaign=1058&utm_source=git)** | Raleigh, NC | On Site | Apr 15 |
-| **[U-Haul](http://www.uhaul.com/)** | **[Operations & Customer Experience Summer Intern](https://jobright.ai/jobs/info/69dfbdf814bf245fc7a6d76c?utm_campaign=1058&utm_source=git)** | Phoenix, Arizona | On Site | Apr 15 |
-| **[Ingram Content Group](http://ingramcontent.com)** | **[IT Internship](https://jobright.ai/jobs/info/69dfbc5fe34484770f1aa123?utm_campaign=1058&utm_source=git)** | La Vergne, TN | On Site | Apr 15 |
-| **[Select Medical](http://www.selectmedical.com)** | **[Pharmacy Intern - PRN](https://jobright.ai/jobs/info/69dfbc425913ad339814562a?utm_campaign=1058&utm_source=git)** | Memphis, TN | On Site | Apr 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
