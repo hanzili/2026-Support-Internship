@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Client Services Analyst I (Fully Remote - USA)](https://jobright.ai/jobs/info/69c52c90f4b6c932e4439a26?utm_campaign=1058&utm_source=git)** | Texas, United States | Remote | Apr 16 |
+| **[ebm-papst](https://www.ebmpapst.com/en/)** | **[IT Intern](https://jobright.ai/jobs/info/69e0f0316c20aa114953e68c?utm_campaign=1058&utm_source=git)** | Farmington, CT | On Site | Apr 16 |
 | **[Red Bull New York](http://www.newyorkredbulls.com)** | **[2026 Internship, Summer - IT](https://jobright.ai/jobs/info/69c4bc1a6f4f855eeda76398?utm_campaign=1058&utm_source=git)** | Harrison, NJ | On Site | Apr 16 |
 | **[Action Behavior Centers - ABA Therapy for Autism](https://www.actionbehavior.com)** | **[Internal Only Clinic Admissions Associate](https://jobright.ai/jobs/info/69e0e44cd612782e61145b25?utm_campaign=1058&utm_source=git)** | Helotes, TX | On Site | Apr 16 |
 | **[Hyatt Regency](http://www.regency.hyatt.com/)** | **[Summer 2026 Front Desk Internship](https://jobright.ai/jobs/info/69d9dcd7869c7e25d859e51d?utm_campaign=1058&utm_source=git)** | Seattle, WA | On Site | Apr 16 |
@@ -78,7 +80,6 @@ For a complete list, click the following sortable link below:
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern Associate Digital Service & CX](https://jobright.ai/jobs/info/69c49a51d5a1016e98dbe8a5?utm_campaign=1058&utm_source=git)** | Stamford, CT | On Site | Apr 16 |
 | **[Huntington Health](https://www.huntingtonhealth.org)** | **[Student Nurse Intern Per Diem - DOU](https://jobright.ai/jobs/info/69e0acabd612782e6114471c?utm_campaign=1058&utm_source=git)** | Huntington Hospital - Pasadena | On Site | Apr 16 |
 | **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE - CRNA Internship](https://jobright.ai/jobs/info/69e0cbf540a62c1fa93b4fad?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Apr 16 |
-| **[Cone Health](http://www.conehealth.com)** | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/69e097c5cf5a9e0c33c87549?utm_campaign=1058&utm_source=git)** | Greensboro, NC | On Site | Apr 16 |
 | **[Wellstar Health System](https://www.wellstar.org)** | **[PRN Respiratory Care Intern @ Cobb Hospital](https://jobright.ai/jobs/info/69e097839564e855a25de5d4?utm_campaign=1058&utm_source=git)** | Austell, GA | On Site | Apr 16 |
 | **[Tennessee Board of Regents (TBR)](https://www.tbr.edu/)** | **[College Work Study Program (Help Desk Technician)](https://jobright.ai/jobs/info/69e0b359e7504b3764731297?utm_campaign=1058&utm_source=git)** | Memphis, TN | On Site | Apr 16 |
 | **[Leidos](https://www.leidos.com)** | **[IT Support Technician Level 1 Depot - Intern](https://jobright.ai/jobs/info/69e08256ba9bd32d03370d0d?utm_campaign=1058&utm_source=git)** | Elkridge, MD | On Site | Apr 15 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[HCVT](http://www.hcvt.com)** | **[IT Service Desk Internship - Summer 2026](https://jobright.ai/jobs/info/69c41d586f4f855eeda67991?utm_campaign=1058&utm_source=git)** | Monrovia, CA | Hybrid | Apr 15 |
 | **[Marmon Foodservice Technologies](https://marmonfoodservice.com)** | **[IT Intern](https://jobright.ai/jobs/info/69dfd5f114bf245fc7a6dff4?utm_campaign=1058&utm_source=git)** | USA_PA_Johnstown_106 Station Street | On Site | Apr 15 |
 | ↳ | **[IT Intern](https://jobright.ai/jobs/info/69dfd5e7e34484770f1aaaff?utm_campaign=1058&utm_source=git)** | Blairsville, PA | On Site | Apr 15 |
-| **[Ken Garff Automotive Group](https://www.kengarff.com/)** | **[Internal Claims Administrator Intern](https://jobright.ai/jobs/info/69dff62c14bf245fc7a6eff8?utm_campaign=1058&utm_source=git)** | SLC Metro Area | On Site | Apr 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
