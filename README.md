@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Leidos](https://www.leidos.com)** | **[IT Support Technician Level 1 Depot - Intern](https://jobright.ai/jobs/info/69e08256ba9bd32d03370d0d?utm_campaign=1058&utm_source=git)** | Elkridge, MD | On Site | Apr 15 |
+| **[Campbell County Health](https://www.cchwyo.org/)** | **[IT INTERN](https://jobright.ai/jobs/info/69e08235c17d1d5254334f5e?utm_campaign=1058&utm_source=git)** | Gillette, WY | On Site | Apr 15 |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69e07b01b20fd532b4ae1d34?utm_campaign=1058&utm_source=git)** | Boston, MA | On Site | Apr 15 |
+| **[Driscoll's](http://www.driscolls.com)** | **[Sales Support Intern](https://jobright.ai/jobs/info/69d8310bb67cec4f9b09b40a?utm_campaign=1058&utm_source=git)** | Watsonville, CA | On Site | Apr 15 |
 | **[Aqua](https://www.aquawater.com/)** | **[IT Intern](https://jobright.ai/jobs/info/69e0591cc5691b27c176cca0?utm_campaign=1058&utm_source=git)** | Bryn Mawr, PA | On Site | Apr 15 |
 | **[U.S. Bank](http://www.usbank.com)** | **[Contact Center Customer Experience Specialist - PrePaid (Spanish Preferred)](https://jobright.ai/jobs/info/69d80a7bb67cec4f9b09a22e?utm_campaign=1058&utm_source=git)** | United States | Remote | Apr 15 |
-| **[CNB Bank](https://www.bankcnb.com)** | **[CNB Bank, IT Service Desk Intern](https://jobright.ai/jobs/info/69e077c1cf5a9e0c33c86aec?utm_campaign=1058&utm_source=git)** | Clearfield, PA | On Site | Apr 15 |
 | **[American Food & Vending](https://www.afvusa.com/)** | **[IT Intern - Network Technical Support](https://jobright.ai/jobs/info/69e073f6c17d1d5254334ac0?utm_campaign=1058&utm_source=git)** | Syracuse-Auburn Area | On Site | Apr 15 |
 | **[Parkview Health](http://www.parkview.com)** | **[Medication Reconciliation Pharmacy Intern](https://jobright.ai/jobs/info/69e04defb20fd532b4ae09e7?utm_campaign=1058&utm_source=git)** | Greater Fort Wayne | On Site | Apr 15 |
 | **[Schindler Elevator Corporation (U.S.)](http://www.schindler.com)** | **[Sales Support Intern](https://jobright.ai/jobs/info/69d85bba738f2f099e89bfff?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Apr 15 |
@@ -124,8 +127,8 @@ For a complete list, click the following sortable link below:
 | **[Brigham and Women's Hospital](http://www.brighamandwomens.org/)** | **[Pharmacy Intern YR3](https://jobright.ai/jobs/info/69dfdace4920452a85dcfe4d?utm_campaign=1058&utm_source=git)** | Boston, MA | On Site | Apr 15 |
 | **[Dimmitt Automotive Group](http://dimmitt.com)** | **[Collision Center Service Coordinator](https://jobright.ai/jobs/info/69dfda9b4920452a85dcfe0a?utm_campaign=1058&utm_source=git)** | Oldsmar, FL | On Site | Apr 15 |
 | **[Schindler Group](http://www.schindler.com/)** | **[Sales Support Intern](https://jobright.ai/jobs/info/69d8409d738f2f099e89b929?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Apr 15 |
-| **[The MetroHealth System (Cleveland, OH)](http://www.metrohealth.org)** | **[Student Intern-Med Affairs](https://jobright.ai/jobs/info/69dfda58e34484770f1aae18?utm_campaign=1058&utm_source=git)** | Cleveland, OH | On Site | Apr 15 |
-| ↳ | **[Nurse Intern- Delivery Room](https://jobright.ai/jobs/info/69c2e2fe94007a2195def147?utm_campaign=1058&utm_source=git)** | Cleveland, OH | On Site | Apr 15 |
+| **[The MetroHealth System (Cleveland, OH)](http://www.metrohealth.org)** | **[Nurse Intern- Delivery Room](https://jobright.ai/jobs/info/69c2e2fe94007a2195def147?utm_campaign=1058&utm_source=git)** | Cleveland, OH | On Site | Apr 15 |
+| ↳ | **[Student Intern-Med Affairs](https://jobright.ai/jobs/info/69dfda58e34484770f1aae18?utm_campaign=1058&utm_source=git)** | Cleveland, OH | On Site | Apr 15 |
 | **[Naples Comprehensive Health - NCH](http://www.nchmd.org/)** | **[Medical Staff Intern FR](https://jobright.ai/jobs/info/69dfda5514bf245fc7a6e2f9?utm_campaign=1058&utm_source=git)** | Naples, FL | On Site | Apr 15 |
 | **[Justrite Manufacturing Company L.L.C.](http://www.justritemfg.com/)** | **[Customer Service Intern](https://jobright.ai/jobs/info/69dfd813433ac8430e0e28eb?utm_campaign=1058&utm_source=git)** | Wellsburg, WV | On Site | Apr 15 |
 | **[Peoples Commercial Bancorp Inc.](http://bankofcommercestilwell.com)** | **[Teller](https://jobright.ai/jobs/info/69dfd7c35913ad33981460de?utm_campaign=1058&utm_source=git)** | Charleston, WV | On Site | Apr 15 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ingram Content Group](http://ingramcontent.com)** | **[IT Internship](https://jobright.ai/jobs/info/69dfb34c4920452a85dced9c?utm_campaign=1058&utm_source=git)** | 1 Ingram Blvd, La Vergne, TN 37086, USA | On Site | Apr 15 |
 | **[Amivero](https://amivero.com)** | **[Infromation Technology Intern](https://jobright.ai/jobs/info/69dfab26e34484770f1a9a31?utm_campaign=1058&utm_source=git)** | Reston, VA, US | Hybrid | Apr 15 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Cath Lab Tech Intern](https://jobright.ai/jobs/info/69dfab18aba61f141731c92a?utm_campaign=1058&utm_source=git)** | Racine, WI, US | On Site | Apr 15 |
-| **[Amivero](https://amivero.com)** | **[Infromation Technology Intern](https://jobright.ai/jobs/info/69dfa8dd14bf245fc7a6cf53?utm_campaign=1058&utm_source=git)** | US-VA-Reston | Hybrid | Apr 15 |
-| **[Ascension](https://healthcare.ascension.org)** | **[Cath Lab Tech Intern](https://jobright.ai/jobs/info/69dfa8be4920452a85dcea14?utm_campaign=1058&utm_source=git)** | US-WI-Racine | On Site | Apr 15 |
-| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69dfc9be433ac8430e0e2316?utm_campaign=1058&utm_source=git)** | Lansing, MI | On Site | Apr 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
