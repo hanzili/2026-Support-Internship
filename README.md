@@ -57,13 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fred Meyer](https://www.fredmeyer.com/)** | **[Pharmacist Grad Intern](https://jobright.ai/jobs/info/69e1e4f640a62c1fa93bcf9f?utm_campaign=1058&utm_source=git)** | Coos Bay, OR | On Site | Apr 17 |
 | **[Burke](https://myburke.org)** | **[Intern](https://jobright.ai/jobs/info/69e1c430fd1c0456f3faff9d?utm_campaign=1058&utm_source=git)** | Nacogdoches, TX | On Site | Apr 16 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69e1c2bcd612782e6114a508?utm_campaign=1058&utm_source=git)** | Fairhaven, MA | On Site | Apr 16 |
 | **[Royal Credit Union](https://www.rcu.org)** | **[WBLAHS Teller Internship](https://jobright.ai/jobs/info/69e1b247d612782e61149e30?utm_campaign=1058&utm_source=git)** | Hugo, MN | On Site | Apr 16 |
 | **[Spry Methods, Inc.](https://www.sprymethods.com)** | **[IT Operations & Systems Intern](https://jobright.ai/jobs/info/69e1ae88ff71e82d604b827a?utm_campaign=1058&utm_source=git)** | McLean, VA | On Site | Apr 16 |
 | **[GRX Holdings LLC](https://www.grxholdings.com/)** | **[Pharmacist Graduate Intern](https://jobright.ai/jobs/info/69e1ae80ff71e82d604b825d?utm_campaign=1058&utm_source=git)** | Iowa City, IA | On Site | Apr 16 |
 | **[Click Bond](http://clickbond.com)** | **[Intern, Information Technology](https://jobright.ai/jobs/info/69e1aaf86c20aa1149542474?utm_campaign=1058&utm_source=git)** | Watertown, CT | On Site | Apr 16 |
-| **[U.S. Bank](http://www.usbank.com)** | **[Account Processor](https://jobright.ai/jobs/info/69d9ae03869c7e25d859cc1f?utm_campaign=1058&utm_source=git)** | Earth City, MO | Hybrid | Apr 16 |
 | **[McLaren Health Care](http://www.mclaren.org)** | **[Intern- Imaging](https://jobright.ai/jobs/info/69e1a678acc736112f5c4944?utm_campaign=1058&utm_source=git)** | Petoskey, MI | On Site | Apr 16 |
 | ↳ | **[Intern- Boulder Park Terrace](https://jobright.ai/jobs/info/69e1a66dff71e82d604b7e28?utm_campaign=1058&utm_source=git)** | Charlevoix, MI | On Site | Apr 16 |
 | ↳ | **[Intern- Facilities](https://jobright.ai/jobs/info/69e1a6116c20aa1149542190?utm_campaign=1058&utm_source=git)** | Petoskey, MI | On Site | Apr 16 |
@@ -137,7 +137,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Student Nurse Intern](https://jobright.ai/jobs/info/69e12bf5ff71e82d604b573e?utm_campaign=1058&utm_source=git)** | Bradley Hospital | On Site | Apr 16 |
 | ↳ | **[Student Nurse Intern](https://jobright.ai/jobs/info/69e12be4d612782e61147338?utm_campaign=1058&utm_source=git)** | Bradley Hospital | On Site | Apr 16 |
 | **[Mount Sinai Medical Center](https://www.msmc.com/)** | **[Certified Medical Assistant - Intern](https://jobright.ai/jobs/info/69e12929d612782e611472ee?utm_campaign=1058&utm_source=git)** | Miami Beach, FL | On Site | Apr 16 |
-| **[Premier America Credit Union](https://www.premieramerica.com/home)** | **[Intern - Salesforce/Data](https://jobright.ai/jobs/info/69e1d54facc736112f5c592f?utm_campaign=1058&utm_source=git)** | Chatsworth,CA,US | On Site | Apr 16 |
+| **[Rentokil Réunion - Les experts de la lutte contre les nuisibles partout  à la Réunion](https://www.rentokil.re)** | **[Customer Service Rep I - Hybrid](https://jobright.ai/jobs/info/69e1e513ff71e82d604bb800?utm_campaign=1058&utm_source=git)** | Biloxi, MS | Hybrid | Apr 16 |
 | **[Bloom Energy](http://www.bloomenergy.com)** | **[IT Software IT Infrastructure Intern](https://jobright.ai/jobs/info/698c6e610f6f7e7a2ce82a6f?utm_campaign=1058&utm_source=git)** | San Jose, CA | On Site | Apr 16 |
 | **[Houchens Insurance Group](https://www.higusa.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/69c47c0933eecf310794d30a?utm_campaign=1058&utm_source=git)** | Bowling Green, KY | On Site | Apr 16 |
 | **[Brigham and Women's Hospital](http://www.brighamandwomens.org/)** | **[Pharmacy Intern YR3](https://jobright.ai/jobs/info/69e12236acc736112f5c2090?utm_campaign=1058&utm_source=git)** | Boston, MA | On Site | Apr 16 |
