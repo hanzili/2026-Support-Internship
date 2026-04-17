@@ -57,16 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Sharp HealthCare](http://www.sharp.com)** | **[Intern Pharmacist – Sharp Memorial Hospital – Variable Shift – Per Diem](https://jobright.ai/jobs/info/69e24b0bbe46fa3a4ef56d64?utm_campaign=1058&utm_source=git)** | San Diego, CA | On Site | Apr 17 |
+| **[PNC](http://www.pnc.com)** | **[Loan Support Analyst](https://jobright.ai/jobs/info/69e26063be46fa3a4ef56f70?utm_campaign=1058&utm_source=git)** | Michigan, United States | Hybrid | Apr 17 |
 | **[Hannaford Supermarkets](https://www.hannaford.com/)** | **[P4 Rx Intern ($26/ hr)](https://jobright.ai/jobs/info/69c678581818a24cd84c6519?utm_campaign=1058&utm_source=git)** | Biddeford, ME | On Site | Apr 17 |
 | **[Global Tungsten & Powders](http://www.globaltungsten.com/en/)** | **[Medical Co-op/Intern](https://jobright.ai/jobs/info/69e24aea3770bd5361cd8075?utm_campaign=1058&utm_source=git)** | Towanda, PA | On Site | Apr 17 |
 | **[Wiz](https://www.wiz.io)** | **[Technical Account Manager (West)](https://jobright.ai/jobs/info/69c5ccf71b5ad02887379c03?utm_campaign=1058&utm_source=git)** | United States | Remote | Apr 17 |
 | **[Hannaford Supermarkets](https://www.hannaford.com/)** | **[P4 Rx Intern ($26/ hr)](https://jobright.ai/jobs/info/69c6782b83ea553769fdb410?utm_campaign=1058&utm_source=git)** | Ellsworth, ME | On Site | Apr 17 |
 | ↳ | **[P4 Rx Intern ($26/ hr)](https://jobright.ai/jobs/info/69c677ade565c26a70020a09?utm_campaign=1058&utm_source=git)** | Essex Junction, VT | On Site | Apr 17 |
 | **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse II 2 East](https://jobright.ai/jobs/info/69e244f43770bd5361cd7fed?utm_campaign=1058&utm_source=git)** | 6019 Walnut Grove Road, Memphis, TN, 38120, US | On Site | Apr 17 |
+| **[DSV - Global Transport and Logistics](http://www.dsv.com)** | **[Intern, Warehouse, Road Transport US](https://jobright.ai/jobs/info/69aa43922ebd316bece20750?utm_campaign=1058&utm_source=git)** | Lancaster, TX | On Site | Apr 17 |
+| **[Palmetto](http://www.palmetto.com)** | **[Customer Experience Data & Operations Intern](https://jobright.ai/jobs/info/69c5a491aa9a29199e808537?utm_campaign=1058&utm_source=git)** | Charlotte, NC | On Site | Apr 17 |
 | **[Hannaford Supermarkets](https://www.hannaford.com/)** | **[P4 Rx Intern ($26/ hr)](https://jobright.ai/jobs/info/69c67865aa3c2c1995e100a9?utm_campaign=1058&utm_source=git)** | Williston, VT | On Site | Apr 17 |
 | ↳ | **[P4 Rx Intern ($26/ hr)](https://jobright.ai/jobs/info/69c678611b5ad02887384b99?utm_campaign=1058&utm_source=git)** | Farmington, ME | On Site | Apr 17 |
 | **[Aimbridge Hospitality](http://www.aimbridgehospitality.com/)** | **[Wyndham Grand Pittsburgh Downtown - Hospitality Management Intern](https://jobright.ai/jobs/info/69c682b2e565c26a70020e42?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | On Site | Apr 17 |
+| **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Fall Intern 2026 – Client Experience (CX) Department](https://jobright.ai/jobs/info/69c56905e565c26a7000f44b?utm_campaign=1058&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | Apr 17 |
 | **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse II](https://jobright.ai/jobs/info/69e231345a16743a729c54f9?utm_campaign=1058&utm_source=git)** | Oxford, MS | On Site | Apr 17 |
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Prior Authorization Pharmacist - Connecticut Medicaid (Remote)](https://jobright.ai/jobs/info/69c5797faa3c2c1995dff501?utm_campaign=1058&utm_source=git)** | Connecticut, United States | Remote | Apr 17 |
 | **[KPH HEALTHCARE SERVICES, INC](https://www.kphhealthcareservices.com/en/)** | **[Pharmacy Intern P3](https://jobright.ai/jobs/info/69c53e35e565c26a7000d235?utm_campaign=1058&utm_source=git)** | Ithaca, NY | On Site | Apr 17 |
@@ -113,8 +116,8 @@ For a complete list, click the following sortable link below:
 | **[Parsons Corporation](http://www.parsons.com)** | **[IT Intern - Summer 2026](https://jobright.ai/jobs/info/69e176ebd612782e61148ccc?utm_campaign=1058&utm_source=git)** | US - NJ, Newark | On Site | Apr 16 |
 | **[WCF Insurance](https://www.wcf.com)** | **[Customer Experience Intern](https://jobright.ai/jobs/info/69e1734afd1c0456f3fae692?utm_campaign=1058&utm_source=git)** | Sandy, UT | On Site | Apr 16 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69e1ebf76c20aa1149545d32?utm_campaign=1058&utm_source=git)** | Riverhead, NY | On Site | Apr 16 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69e1ebfa6c20aa1149545d56?utm_campaign=1058&utm_source=git)** | Manorville, NY | On Site | Apr 16 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69e1ebf5d612782e6114d59c?utm_campaign=1058&utm_source=git)** | Smithtown, NY | On Site | Apr 16 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69e1ebfa6c20aa1149545d56?utm_campaign=1058&utm_source=git)** | Manorville, NY | On Site | Apr 16 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69e1eaf040a62c1fa93bd102?utm_campaign=1058&utm_source=git)** | District Heights, MD | On Site | Apr 16 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/69e228bccda04a632939fe3a?utm_campaign=1058&utm_source=git)** | Chelsea, MI | On Site | Apr 16 |
 | **[ParsonsKellogg](https://parsonskellogg.com)** | **[IT Intern - Summer 2026](https://jobright.ai/jobs/info/69e170f840a62c1fa93b8838?utm_campaign=1058&utm_source=git)** | US - NJ, Newark | On Site | Apr 16 |
@@ -128,7 +131,6 @@ For a complete list, click the following sortable link below:
 | **[TTX Company](http://www.ttx.com)** | **[Operations Support Intern](https://jobright.ai/jobs/info/69e1650540a62c1fa93b832f?utm_campaign=1058&utm_source=git)** | Jacksonville, FL | On Site | Apr 16 |
 | **[Lasko Products](https://www.lasko.com/)** | **[IT Summer Internship](https://jobright.ai/jobs/info/698621218da7a6120460cb8c?utm_campaign=1058&utm_source=git)** | West Chester, PA | Hybrid | Apr 16 |
 | **[Southeast Hospital](https://www.sehealth.org/locations/southeast-hospital)** | **[Advanced Radiology Intern - PRN](https://jobright.ai/jobs/info/69e191f1ff71e82d604b777e?utm_campaign=1058&utm_source=git)** | Cape Girardeau, MO | On Site | Apr 16 |
-| **[HCA Healthcare](https://hcahealthcare.com/)** | **[Chaplain Intern PRN](https://jobright.ai/jobs/info/69e163adff71e82d604b6b20?utm_campaign=1058&utm_source=git)** | San Antonio, TX | On Site | Apr 16 |
 | **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[Intern, Technical Support (Project Engineer)](https://jobright.ai/jobs/info/69e15e8bacc736112f5c347e?utm_campaign=1058&utm_source=git)** | Lincoln, NE | On Site | Apr 16 |
 | ↳ | **[Intern, Technical Support (R&D Engineer)](https://jobright.ai/jobs/info/69e15e7fff71e82d604b68e5?utm_campaign=1058&utm_source=git)** | Lincoln, NE | On Site | Apr 16 |
 | **[Harris Teeter](http://www.harristeeter.com)** | **[PT Pharmacy Graduate Intern - High Point Market](https://jobright.ai/jobs/info/69e23a3b3ce36005badbda43?utm_campaign=1058&utm_source=git)** | HIGH POINT, NORTH CAROLINA, STORE 173 - HIGH POINT-SKEET CLUB | On Site | Apr 16 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Western Specialty Contractors](http://westernspecialtycontractors.com)** | **[IT Help Desk Intern](https://jobright.ai/jobs/info/69e174a26c20aa11495414dc?utm_campaign=1058&utm_source=git)** | St Louis, MO | On Site | Apr 16 |
 | **[City of Twin Falls](http://www.tfid.org)** | **[Male Drug Testing Tech](https://jobright.ai/jobs/info/69e17899ff71e82d604b723e?utm_campaign=1058&utm_source=git)** | Twin Falls, ID | On Site | Apr 16 |
 | **[Orlando Health](https://www.orlandohealth.com/)** | **[Pharmacist, Intern I - Orlando Health Cancer Institute](https://jobright.ai/jobs/info/69e135ebfd1c0456f3fad0dc?utm_campaign=1058&utm_source=git)** | Orlando, FL | On Site | Apr 16 |
-| **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Intern, International Patient Services](https://jobright.ai/jobs/info/69e1359fd612782e611475c4?utm_campaign=1058&utm_source=git)** | Boston, MA | On Site | Apr 16 |
-| **[San José State University](http://www.sjsu.edu/)** | **[Testing Coordinator](https://jobright.ai/jobs/info/69c48ed933eecf310794e6c8?utm_campaign=1058&utm_source=git)** | San Jose, CA | On Site | Apr 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
