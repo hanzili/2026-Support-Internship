@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sharp HealthCare](http://www.sharp.com)** | **[Intern Pharmacist – Sharp Memorial Hospital – Variable Shift – Per Diem](https://jobright.ai/jobs/info/69e24b0bbe46fa3a4ef56d64?utm_campaign=1058&utm_source=git)** | San Diego, CA | On Site | Apr 17 |
+| **[Hannaford Supermarkets](https://www.hannaford.com/)** | **[P4 Rx Intern ($26/ hr)](https://jobright.ai/jobs/info/69c678581818a24cd84c6519?utm_campaign=1058&utm_source=git)** | Biddeford, ME | On Site | Apr 17 |
+| **[Global Tungsten & Powders](http://www.globaltungsten.com/en/)** | **[Medical Co-op/Intern](https://jobright.ai/jobs/info/69e24aea3770bd5361cd8075?utm_campaign=1058&utm_source=git)** | Towanda, PA | On Site | Apr 17 |
+| **[Wiz](https://www.wiz.io)** | **[Technical Account Manager (West)](https://jobright.ai/jobs/info/69c5ccf71b5ad02887379c03?utm_campaign=1058&utm_source=git)** | United States | Remote | Apr 17 |
+| **[Hannaford Supermarkets](https://www.hannaford.com/)** | **[P4 Rx Intern ($26/ hr)](https://jobright.ai/jobs/info/69c6782b83ea553769fdb410?utm_campaign=1058&utm_source=git)** | Ellsworth, ME | On Site | Apr 17 |
+| ↳ | **[P4 Rx Intern ($26/ hr)](https://jobright.ai/jobs/info/69c677ade565c26a70020a09?utm_campaign=1058&utm_source=git)** | Essex Junction, VT | On Site | Apr 17 |
 | **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse II 2 East](https://jobright.ai/jobs/info/69e244f43770bd5361cd7fed?utm_campaign=1058&utm_source=git)** | 6019 Walnut Grove Road, Memphis, TN, 38120, US | On Site | Apr 17 |
 | **[Hannaford Supermarkets](https://www.hannaford.com/)** | **[P4 Rx Intern ($26/ hr)](https://jobright.ai/jobs/info/69c67865aa3c2c1995e100a9?utm_campaign=1058&utm_source=git)** | Williston, VT | On Site | Apr 17 |
 | ↳ | **[P4 Rx Intern ($26/ hr)](https://jobright.ai/jobs/info/69c678611b5ad02887384b99?utm_campaign=1058&utm_source=git)** | Farmington, ME | On Site | Apr 17 |
@@ -67,10 +73,12 @@ For a complete list, click the following sortable link below:
 | **[Schindler Group](http://www.schindler.com/)** | **[Sales Support Intern](https://jobright.ai/jobs/info/69dd3466bc6f6622c9910ec9?utm_campaign=1058&utm_source=git)** | Sacramento, CA | On Site | Apr 17 |
 | **[Big Cedar Lodge](https://bigcedar.com/)** | **[Hospitality Attractions Internship Program](https://jobright.ai/jobs/info/69e223030335427bb49c7818?utm_campaign=1058&utm_source=git)** | Ridgedale, MO | On Site | Apr 17 |
 | **[Precision Castparts](http://precast.com)** | **[IT Intern (Co-Op)](https://jobright.ai/jobs/info/69717c8e333b6343a14e1831?utm_campaign=1058&utm_source=git)** | Spanish Fork, UT | On Site | Apr 17 |
+| **[Nuvance Health](https://www.nuvancehealth.org)** | **[Intern Pharmacist - PRN (Retail)](https://jobright.ai/jobs/info/69e24a8efcfcbd43860a27ff?utm_campaign=1058&utm_source=git)** | Norwalk, CT | On Site | Apr 17 |
 | **[KPH HEALTHCARE SERVICES, INC](https://www.kphhealthcareservices.com/en/)** | **[Pharmacy Intern P4](https://jobright.ai/jobs/info/68f6ce4776a51a4307bde5d6?utm_campaign=1058&utm_source=git)** | Seneca Falls, NY | On Site | Apr 17 |
 | ↳ | **[Pharmacy Intern P4](https://jobright.ai/jobs/info/6959e379aa05c26e7ab383eb?utm_campaign=1058&utm_source=git)** | Ithaca, NY | On Site | Apr 17 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Document Management Solutions Intern Summer 2026](https://jobright.ai/jobs/info/68ffe53f0ab3b222462afb5b?utm_campaign=1058&utm_source=git)** | Cranberry Township, PA | Hybrid | Apr 17 |
 | **[KPH HEALTHCARE SERVICES, INC](https://www.kphhealthcareservices.com/en/)** | **[Pharmacy Intern P3](https://jobright.ai/jobs/info/69c8a6fa1b5ad028873948b3?utm_campaign=1058&utm_source=git)** | Seneca Falls, NY | On Site | Apr 17 |
+| **[Northern Virginia Family Services](https://www.nvfs.org/)** | **[Shelter Support Services Intern](https://jobright.ai/jobs/info/69bca87b45e08b3dc1f96e6b?utm_campaign=1058&utm_source=git)** | Manassas, VA | On Site | Apr 17 |
 | **[Lumicera Health Services](https://www.lumicera.com/)** | **[Clinical Intern, Specialty Pharmacy](https://jobright.ai/jobs/info/69c586ddaa3c2c1995e012c8?utm_campaign=1058&utm_source=git)** | Scottsdale, AZ | Remote | Apr 17 |
 | **[Essentia Health](https://www.essentiahealth.org/)** | **[Pharmacist Intern - Population Health](https://jobright.ai/jobs/info/698b1394c5761b521a9a7816?utm_campaign=1058&utm_source=git)** | Superior, WI | On Site | Apr 17 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[Senior Technology Operations Analyst - Trading Floor Desktop Support](https://jobright.ai/jobs/info/69e223700335427bb49c7869?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Apr 17 |
@@ -105,8 +113,8 @@ For a complete list, click the following sortable link below:
 | **[Parsons Corporation](http://www.parsons.com)** | **[IT Intern - Summer 2026](https://jobright.ai/jobs/info/69e176ebd612782e61148ccc?utm_campaign=1058&utm_source=git)** | US - NJ, Newark | On Site | Apr 16 |
 | **[WCF Insurance](https://www.wcf.com)** | **[Customer Experience Intern](https://jobright.ai/jobs/info/69e1734afd1c0456f3fae692?utm_campaign=1058&utm_source=git)** | Sandy, UT | On Site | Apr 16 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69e1ebf76c20aa1149545d32?utm_campaign=1058&utm_source=git)** | Riverhead, NY | On Site | Apr 16 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69e1ebf5d612782e6114d59c?utm_campaign=1058&utm_source=git)** | Smithtown, NY | On Site | Apr 16 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69e1ebfa6c20aa1149545d56?utm_campaign=1058&utm_source=git)** | Manorville, NY | On Site | Apr 16 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69e1ebf5d612782e6114d59c?utm_campaign=1058&utm_source=git)** | Smithtown, NY | On Site | Apr 16 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69e1eaf040a62c1fa93bd102?utm_campaign=1058&utm_source=git)** | District Heights, MD | On Site | Apr 16 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/69e228bccda04a632939fe3a?utm_campaign=1058&utm_source=git)** | Chelsea, MI | On Site | Apr 16 |
 | **[ParsonsKellogg](https://parsonskellogg.com)** | **[IT Intern - Summer 2026](https://jobright.ai/jobs/info/69e170f840a62c1fa93b8838?utm_campaign=1058&utm_source=git)** | US - NJ, Newark | On Site | Apr 16 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Orlando Health](https://www.orlandohealth.com/)** | **[Pharmacist, Intern I - Orlando Health Cancer Institute](https://jobright.ai/jobs/info/69e135ebfd1c0456f3fad0dc?utm_campaign=1058&utm_source=git)** | Orlando, FL | On Site | Apr 16 |
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Intern, International Patient Services](https://jobright.ai/jobs/info/69e1359fd612782e611475c4?utm_campaign=1058&utm_source=git)** | Boston, MA | On Site | Apr 16 |
 | **[San José State University](http://www.sjsu.edu/)** | **[Testing Coordinator](https://jobright.ai/jobs/info/69c48ed933eecf310794e6c8?utm_campaign=1058&utm_source=git)** | San Jose, CA | On Site | Apr 16 |
-| **[Tanium](http://www.tanium.com)** | **[Technical Support Engineer Intern](https://jobright.ai/jobs/info/69a972d0f2055e05d1719dfe?utm_campaign=1058&utm_source=git)** | Emeryville, CA | Hybrid | Apr 16 |
-| **[Orlando Health](https://www.orlandohealth.com/)** | **[Pharmacist, Intern II - Orlando Health Cancer Institute](https://jobright.ai/jobs/info/69e1548bfd1c0456f3fadbbc?utm_campaign=1058&utm_source=git)** | Orlando, FL | On Site | Apr 16 |
-| **[Tanium](http://www.tanium.com)** | **[Technical Support Engineer Intern](https://jobright.ai/jobs/info/69a8c19b2580d3183f00d2ef?utm_campaign=1058&utm_source=git)** | Bellevue, WA | Hybrid | Apr 16 |
-| **[Ecclesiastical Insurance](https://ecclesiastical.ca/)** | **[Operations Associate, Data Support](https://jobright.ai/jobs/info/69e12e51fd1c0456f3facdea?utm_campaign=1058&utm_source=git)** | Dartmouth, NS | Hybrid | Apr 16 |
-| **[Maryland Judiciary](https://www.mdcourts.gov/careers)** | **[Seasonal Temporary Intern](https://jobright.ai/jobs/info/69e15e54ff71e82d604b6882?utm_campaign=1058&utm_source=git)** | Baltimore, MD | On Site | Apr 16 |
-| **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[Intern, Technical Support (R&D Engineer)](https://jobright.ai/jobs/info/69e12c00fd1c0456f3facd38?utm_campaign=1058&utm_source=git)** | US-NE-Lincoln | On Site | Apr 16 |
-| ↳ | **[Intern, Technical Support (Project Engineer)](https://jobright.ai/jobs/info/69e12bff6c20aa114953fb16?utm_campaign=1058&utm_source=git)** | Lincoln, NE, US | On Site | Apr 16 |
-| ↳ | **[Intern, Technical Support (R&D Engineer)](https://jobright.ai/jobs/info/69e12bfeff71e82d604b5751?utm_campaign=1058&utm_source=git)** | Lincoln, NE, US | On Site | Apr 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
