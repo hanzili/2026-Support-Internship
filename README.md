@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[WCF Insurance](https://www.wcf.com)** | **[Customer Experience Intern](https://jobright.ai/jobs/info/69e1734afd1c0456f3fae692?utm_campaign=1058&utm_source=git)** | Sandy, UT | On Site | Apr 16 |
+| **[ParsonsKellogg](https://parsonskellogg.com)** | **[IT Intern - Summer 2026](https://jobright.ai/jobs/info/69e170f840a62c1fa93b8838?utm_campaign=1058&utm_source=git)** | US - NJ, Newark | On Site | Apr 16 |
+| **[Withum](http://www.withum.com)** | **[IT Intern 2026](https://jobright.ai/jobs/info/69e16839acc736112f5c38d9?utm_campaign=1058&utm_source=git)** | East Brunswick, NJ | Hybrid | Apr 16 |
+| **[Sharp HealthCare](http://www.sharp.com)** | **[Intern Pharmacist – Sharp Memorial Hospital – Variable Shift – Per Diem](https://jobright.ai/jobs/info/69e167eb6c20aa1149540fc7?utm_campaign=1058&utm_source=git)** | San Diego, CA | On Site | Apr 16 |
 | **[TTX Company](http://www.ttx.com)** | **[Operations Support Intern](https://jobright.ai/jobs/info/69e1650540a62c1fa93b832f?utm_campaign=1058&utm_source=git)** | Jacksonville, FL | On Site | Apr 16 |
 | **[Lasko Products](https://www.lasko.com/)** | **[IT Summer Internship](https://jobright.ai/jobs/info/698621218da7a6120460cb8c?utm_campaign=1058&utm_source=git)** | West Chester, PA | Hybrid | Apr 16 |
 | **[HCA Healthcare](https://hcahealthcare.com/)** | **[Chaplain Intern PRN](https://jobright.ai/jobs/info/69e163adff71e82d604b6b20?utm_campaign=1058&utm_source=git)** | San Antonio, TX | On Site | Apr 16 |
@@ -77,7 +81,9 @@ For a complete list, click the following sortable link below:
 | **[BKF Engineers](http://www.bkf.com)** | **[2026 IT Intern](https://jobright.ai/jobs/info/69e142ee40a62c1fa93b77ba?utm_campaign=1058&utm_source=git)** | Pleasanton, CA | Hybrid | Apr 16 |
 | **[ServiceNow](http://www.servicenow.com)** | **[Technical Writer - Emerging Talent Intern (July 2026-December 2026)](https://jobright.ai/jobs/info/69a0e7380836fe79d861f3da?utm_campaign=1058&utm_source=git)** | Santa Clara, CA | Hybrid | Apr 16 |
 | **[Daniels Health](https://www.danielshealth.com/)** | **[IT Service Desk Intern](https://jobright.ai/jobs/info/69e13f7ed612782e61147acf?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Apr 16 |
+| **[Renfrew County District School Board](http://www.rcdsb.on.ca)** | **[Help Desk Support Specialist](https://jobright.ai/jobs/info/69e16a9840a62c1fa93b857b?utm_campaign=1058&utm_source=git)** | Pembroke, ON | On Site | Apr 16 |
 | **[Kaweah Health](https://www.kaweahhealth.org)** | **[Student Nurse Intern-ICU-2W](https://jobright.ai/jobs/info/69e13b61d612782e6114796d?utm_campaign=1058&utm_source=git)** | Visalia, California | On Site | Apr 16 |
+| **[Western Specialty Contractors](http://westernspecialtycontractors.com)** | **[IT Help Desk Intern](https://jobright.ai/jobs/info/69e174a26c20aa11495414dc?utm_campaign=1058&utm_source=git)** | St Louis, MO | On Site | Apr 16 |
 | **[Orlando Health](https://www.orlandohealth.com/)** | **[Pharmacist, Intern I - Orlando Health Cancer Institute](https://jobright.ai/jobs/info/69e135ebfd1c0456f3fad0dc?utm_campaign=1058&utm_source=git)** | Orlando, FL | On Site | Apr 16 |
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Intern, International Patient Services](https://jobright.ai/jobs/info/69e1359fd612782e611475c4?utm_campaign=1058&utm_source=git)** | Boston, MA | On Site | Apr 16 |
 | **[San José State University](http://www.sjsu.edu/)** | **[Testing Coordinator](https://jobright.ai/jobs/info/69c48ed933eecf310794e6c8?utm_campaign=1058&utm_source=git)** | San Jose, CA | On Site | Apr 16 |
@@ -104,7 +110,6 @@ For a complete list, click the following sortable link below:
 | **[Nationwide Children's Hospital](http://www.nationwidechildrens.org)** | **[Pharmacy Intern - Outpatient/Ambulatory Pharmacy (P1 Intern Only)](https://jobright.ai/jobs/info/69e11cc7acc736112f5c1f71?utm_campaign=1058&utm_source=git)** | Main Campus, Columbus, OH | On Site | Apr 16 |
 | ↳ | **[Pharmacy Intern - Outpatient/Ambulatory Pharmacy (P2 Intern Only)](https://jobright.ai/jobs/info/69e11cbfff71e82d604b5378?utm_campaign=1058&utm_source=git)** | Main Campus, Columbus, OH | On Site | Apr 16 |
 | **[Ntiva, Inc.](http://www.ntiva.com)** | **[Service Desk Intern](https://jobright.ai/jobs/info/69e11b71d612782e61146e8a?utm_campaign=1058&utm_source=git)** | Parkersburg, WV | On Site | Apr 16 |
-| **[Catholic Health](https://www.chsbuffalo.org/)** | **[Intern Student Catholic Medical Partners](https://jobright.ai/jobs/info/69e164f3fd1c0456f3fae0ec?utm_campaign=1058&utm_source=git)** | Buffalo, NY | On Site | Apr 16 |
 | **[Community Health Systems](http://www.chs.net)** | **[Student Intern ICU](https://jobright.ai/jobs/info/69e1107340a62c1fa93b67bf?utm_campaign=1058&utm_source=git)** | 2520 E Dupont Rd, Fort Wayne, IN, 46825, US | On Site | Apr 16 |
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Intern, International Patient Services](https://jobright.ai/jobs/info/69e11067d612782e61146bca?utm_campaign=1058&utm_source=git)** | Boston-MA | On Site | Apr 16 |
 | **[eClerx](https://eclerx.com/)** | **[IT Intern](https://jobright.ai/jobs/info/69a7842d2672cb0acb4bfbe9?utm_campaign=1058&utm_source=git)** | Fayetteville, NC | On Site | Apr 16 |
@@ -148,13 +153,8 @@ For a complete list, click the following sortable link below:
 | **[PNC](http://www.pnc.com)** | **[Customer Service Representative-Mountain/Pacific Time Zones Only](https://jobright.ai/jobs/info/69e0b7d2ff71e82d604b2f10?utm_campaign=1058&utm_source=git)** | Nevada, United States | Hybrid | Apr 16 |
 | **[Kent Outdoors](https://kentoutdoors.co/)** | **[Customer Service Representative Internship](https://jobright.ai/jobs/info/69d9cd89f748bc5d08a4e587?utm_campaign=1058&utm_source=git)** | Bend, OR | On Site | Apr 16 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern Associate Digital Service & CX](https://jobright.ai/jobs/info/69c49a51d5a1016e98dbe8a5?utm_campaign=1058&utm_source=git)** | Stamford, CT | On Site | Apr 16 |
+| **[Huntington Health](https://www.huntingtonhealth.org)** | **[Student Nurse Intern Per Diem Days - DOU](https://jobright.ai/jobs/info/69e1708dd612782e61148c0c?utm_campaign=1058&utm_source=git)** | Huntington Hospital - Pasadena | On Site | Apr 16 |
 | **[Wellstar Health System](https://www.wellstar.org)** | **[PRN Respiratory Care Intern @ Cobb Hospital](https://jobright.ai/jobs/info/69e097839564e855a25de5d4?utm_campaign=1058&utm_source=git)** | Austell, GA | On Site | Apr 16 |
 | **[Tennessee Board of Regents (TBR)](https://www.tbr.edu/)** | **[College Work Study Program (Help Desk Technician)](https://jobright.ai/jobs/info/69e0b359e7504b3764731297?utm_campaign=1058&utm_source=git)** | Memphis, TN | On Site | Apr 16 |
 | **[Leidos](https://www.leidos.com)** | **[IT Support Technician Level 1 Depot - Intern](https://jobright.ai/jobs/info/69e08256ba9bd32d03370d0d?utm_campaign=1058&utm_source=git)** | Elkridge, MD | On Site | Apr 15 |
-| **[Campbell County Health](https://www.cchwyo.org/)** | **[IT INTERN](https://jobright.ai/jobs/info/69e08235c17d1d5254334f5e?utm_campaign=1058&utm_source=git)** | Gillette, WY | On Site | Apr 15 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69e07b01b20fd532b4ae1d34?utm_campaign=1058&utm_source=git)** | Boston, MA | On Site | Apr 15 |
-| **[Driscoll's](http://www.driscolls.com)** | **[Sales Support Intern](https://jobright.ai/jobs/info/69d8310bb67cec4f9b09b40a?utm_campaign=1058&utm_source=git)** | Watsonville, CA | On Site | Apr 15 |
-| **[Saint Luke's](https://www.saintlukeskc.org)** | **[Nursing Intern](https://jobright.ai/jobs/info/69e0ae4de7504b37647310de?utm_campaign=1058&utm_source=git)** | Lees Summit, MO | On Site | Apr 15 |
-| **[Aqua](https://www.aquawater.com/)** | **[IT Intern](https://jobright.ai/jobs/info/69e0591cc5691b27c176cca0?utm_campaign=1058&utm_source=git)** | Bryn Mawr, PA | On Site | Apr 15 |
-| **[U.S. Bank](http://www.usbank.com)** | **[Contact Center Customer Experience Specialist - PrePaid (Spanish Preferred)](https://jobright.ai/jobs/info/69d80a7bb67cec4f9b09a22e?utm_campaign=1058&utm_source=git)** | United States | Remote | Apr 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
