@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[LA-Tech.org](http://la-tech.org)** | **[Technical Intern (Software & Cybersecurity)](https://jobright.ai/jobs/info/69c1b68379e36d3a847ebd53?utm_campaign=1058&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 16 |
+| **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[Advanced Radiology Intern - PRN](https://jobright.ai/jobs/info/69e17db46c20aa11495416ac?utm_campaign=1058&utm_source=git)** | Cape Girardeau, MO | On Site | Apr 16 |
+| **[UnityPoint Health](http://www.unitypoint.org/)** | **[Intern - Technical Operations Center](https://jobright.ai/jobs/info/69e17be040a62c1fa93b8a84?utm_campaign=1058&utm_source=git)** | Grimes, IA | Hybrid | Apr 16 |
+| **[Action Behavior Centers - ABA Therapy for Autism](https://www.actionbehavior.com)** | **[Internal Only- Clinic Admissions Associate](https://jobright.ai/jobs/info/69e1784340a62c1fa93b89b8?utm_campaign=1058&utm_source=git)** | Allen, TX | On Site | Apr 16 |
+| **[Parsons Corporation](http://www.parsons.com)** | **[IT Intern - Summer 2026](https://jobright.ai/jobs/info/69e17749d612782e61148d7f?utm_campaign=1058&utm_source=git)** | Newark, NJ | On Site | Apr 16 |
+| **[Leonardo DRS](https://www.leonardodrs.com)** | **[IT Intern - Fitchburg](https://jobright.ai/jobs/info/69e17717fd1c0456f3fae6b5?utm_campaign=1058&utm_source=git)** | Fitchburg, MA | On Site | Apr 16 |
+| **[Parsons Corporation](http://www.parsons.com)** | **[IT Intern - Summer 2026](https://jobright.ai/jobs/info/69e176ebd612782e61148ccc?utm_campaign=1058&utm_source=git)** | US - NJ, Newark | On Site | Apr 16 |
 | **[WCF Insurance](https://www.wcf.com)** | **[Customer Experience Intern](https://jobright.ai/jobs/info/69e1734afd1c0456f3fae692?utm_campaign=1058&utm_source=git)** | Sandy, UT | On Site | Apr 16 |
 | **[ParsonsKellogg](https://parsonskellogg.com)** | **[IT Intern - Summer 2026](https://jobright.ai/jobs/info/69e170f840a62c1fa93b8838?utm_campaign=1058&utm_source=git)** | US - NJ, Newark | On Site | Apr 16 |
 | **[Withum](http://www.withum.com)** | **[IT Intern 2026](https://jobright.ai/jobs/info/69e16839acc736112f5c38d9?utm_campaign=1058&utm_source=git)** | East Brunswick, NJ | Hybrid | Apr 16 |
@@ -76,14 +83,15 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern - Outpatient/Ambulatory Pharmacy (P2 Intern Only)](https://jobright.ai/jobs/info/69e154bf40a62c1fa93b7e40?utm_campaign=1058&utm_source=git)** | Columbus, OH | On Site | Apr 16 |
 | **[Baptist Health Care](https://www.ebaptisthealthcare.org)** | **[Nurse Intern - Ortho Neuro](https://jobright.ai/jobs/info/69e153eed612782e611481c3?utm_campaign=1058&utm_source=git)** | 123 Baptist Way, Pensacola, FL, 32503, US | On Site | Apr 16 |
 | **[Auburn University](https://www.auburn.edu/)** | **[Student Employee (Enterprise and Data Solutions)](https://jobright.ai/jobs/info/69dd5239f748bc5d08a5f3b1?utm_campaign=1058&utm_source=git)** | Auburn, AL | Hybrid | Apr 16 |
+| **[Ascension](https://healthcare.ascension.org)** | **[Respiratory Therapy Intern](https://jobright.ai/jobs/info/69e178606c20aa114954154b?utm_campaign=1058&utm_source=git)** | Wichita, KS | On Site | Apr 16 |
 | **[Munson Healthcare](https://www.munsonhealthcare.org/)** | **[Radiology Student Intern - Gaylord](https://jobright.ai/jobs/info/69e1470bacc736112f5c2e2b?utm_campaign=1058&utm_source=git)** | Gaylord, MI | On Site | Apr 16 |
-| **[Ascension](https://healthcare.ascension.org)** | **[Respiratory Therapy Intern](https://jobright.ai/jobs/info/69e143c8fd1c0456f3fad60a?utm_campaign=1058&utm_source=git)** | Wichita, KS | On Site | Apr 16 |
 | **[BKF Engineers](http://www.bkf.com)** | **[2026 IT Intern](https://jobright.ai/jobs/info/69e142ee40a62c1fa93b77ba?utm_campaign=1058&utm_source=git)** | Pleasanton, CA | Hybrid | Apr 16 |
 | **[ServiceNow](http://www.servicenow.com)** | **[Technical Writer - Emerging Talent Intern (July 2026-December 2026)](https://jobright.ai/jobs/info/69a0e7380836fe79d861f3da?utm_campaign=1058&utm_source=git)** | Santa Clara, CA | Hybrid | Apr 16 |
 | **[Daniels Health](https://www.danielshealth.com/)** | **[IT Service Desk Intern](https://jobright.ai/jobs/info/69e13f7ed612782e61147acf?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Apr 16 |
 | **[Renfrew County District School Board](http://www.rcdsb.on.ca)** | **[Help Desk Support Specialist](https://jobright.ai/jobs/info/69e16a9840a62c1fa93b857b?utm_campaign=1058&utm_source=git)** | Pembroke, ON | On Site | Apr 16 |
 | **[Kaweah Health](https://www.kaweahhealth.org)** | **[Student Nurse Intern-ICU-2W](https://jobright.ai/jobs/info/69e13b61d612782e6114796d?utm_campaign=1058&utm_source=git)** | Visalia, California | On Site | Apr 16 |
 | **[Western Specialty Contractors](http://westernspecialtycontractors.com)** | **[IT Help Desk Intern](https://jobright.ai/jobs/info/69e174a26c20aa11495414dc?utm_campaign=1058&utm_source=git)** | St Louis, MO | On Site | Apr 16 |
+| **[City of Twin Falls](http://www.tfid.org)** | **[Male Drug Testing Tech](https://jobright.ai/jobs/info/69e17899ff71e82d604b723e?utm_campaign=1058&utm_source=git)** | Twin Falls, ID | On Site | Apr 16 |
 | **[Orlando Health](https://www.orlandohealth.com/)** | **[Pharmacist, Intern I - Orlando Health Cancer Institute](https://jobright.ai/jobs/info/69e135ebfd1c0456f3fad0dc?utm_campaign=1058&utm_source=git)** | Orlando, FL | On Site | Apr 16 |
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Intern, International Patient Services](https://jobright.ai/jobs/info/69e1359fd612782e611475c4?utm_campaign=1058&utm_source=git)** | Boston, MA | On Site | Apr 16 |
 | **[San José State University](http://www.sjsu.edu/)** | **[Testing Coordinator](https://jobright.ai/jobs/info/69c48ed933eecf310794e6c8?utm_campaign=1058&utm_source=git)** | San Jose, CA | On Site | Apr 16 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[St. Elizabeth Healthcare](http://www.stelizabeth.com/)** | **[Intern Pharmacy - Retail Outpatient](https://jobright.ai/jobs/info/69c52c355a5e774c16b0cbf0?utm_campaign=1058&utm_source=git)** | Edgewood, KY | On Site | Apr 16 |
 | **[KPH HEALTHCARE SERVICES, INC](https://www.kphhealthcareservices.com/en/)** | **[Pharmacy Intern P1](https://jobright.ai/jobs/info/68f6cb3c9a65fd34585972f6?utm_campaign=1058&utm_source=git)** | Ithaca, NY | On Site | Apr 16 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[Associate Customer Service Representative - Credit Cards - Bilingual (Spanish/English)](https://jobright.ai/jobs/info/69e0c2e9ff71e82d604b346b?utm_campaign=1058&utm_source=git)** | San Antonio, TX | On Site | Apr 16 |
-| ↳ | **[Business Relationship Support Representative - Dedicated Team](https://jobright.ai/jobs/info/69e0bd856c20aa114953d5a9?utm_campaign=1058&utm_source=git)** | El Monte, CA | Hybrid | Apr 16 |
-| **[PNC](http://www.pnc.com)** | **[Customer Service Representative-Mountain/Pacific Time Zones Only](https://jobright.ai/jobs/info/69e0b7d2ff71e82d604b2f10?utm_campaign=1058&utm_source=git)** | Nevada, United States | Hybrid | Apr 16 |
-| **[Kent Outdoors](https://kentoutdoors.co/)** | **[Customer Service Representative Internship](https://jobright.ai/jobs/info/69d9cd89f748bc5d08a4e587?utm_campaign=1058&utm_source=git)** | Bend, OR | On Site | Apr 16 |
-| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern Associate Digital Service & CX](https://jobright.ai/jobs/info/69c49a51d5a1016e98dbe8a5?utm_campaign=1058&utm_source=git)** | Stamford, CT | On Site | Apr 16 |
-| **[Huntington Health](https://www.huntingtonhealth.org)** | **[Student Nurse Intern Per Diem Days - DOU](https://jobright.ai/jobs/info/69e1708dd612782e61148c0c?utm_campaign=1058&utm_source=git)** | Huntington Hospital - Pasadena | On Site | Apr 16 |
-| **[Wellstar Health System](https://www.wellstar.org)** | **[PRN Respiratory Care Intern @ Cobb Hospital](https://jobright.ai/jobs/info/69e097839564e855a25de5d4?utm_campaign=1058&utm_source=git)** | Austell, GA | On Site | Apr 16 |
-| **[Tennessee Board of Regents (TBR)](https://www.tbr.edu/)** | **[College Work Study Program (Help Desk Technician)](https://jobright.ai/jobs/info/69e0b359e7504b3764731297?utm_campaign=1058&utm_source=git)** | Memphis, TN | On Site | Apr 16 |
-| **[Leidos](https://www.leidos.com)** | **[IT Support Technician Level 1 Depot - Intern](https://jobright.ai/jobs/info/69e08256ba9bd32d03370d0d?utm_campaign=1058&utm_source=git)** | Elkridge, MD | On Site | Apr 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
