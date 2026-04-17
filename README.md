@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hannaford Supermarkets](https://www.hannaford.com/)** | **[P4 Rx Intern ($26/ hr)](https://jobright.ai/jobs/info/69c67865aa3c2c1995e100a9?utm_campaign=1058&utm_source=git)** | Williston, VT | On Site | Apr 17 |
+| ↳ | **[P4 Rx Intern ($26/ hr)](https://jobright.ai/jobs/info/69c678611b5ad02887384b99?utm_campaign=1058&utm_source=git)** | Farmington, ME | On Site | Apr 17 |
+| **[Aimbridge Hospitality](http://www.aimbridgehospitality.com/)** | **[Wyndham Grand Pittsburgh Downtown - Hospitality Management Intern](https://jobright.ai/jobs/info/69c682b2e565c26a70020e42?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | On Site | Apr 17 |
+| **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse II](https://jobright.ai/jobs/info/69e231345a16743a729c54f9?utm_campaign=1058&utm_source=git)** | Oxford, MS | On Site | Apr 17 |
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Prior Authorization Pharmacist - Connecticut Medicaid (Remote)](https://jobright.ai/jobs/info/69c5797faa3c2c1995dff501?utm_campaign=1058&utm_source=git)** | Connecticut, United States | Remote | Apr 17 |
 | **[KPH HEALTHCARE SERVICES, INC](https://www.kphhealthcareservices.com/en/)** | **[Pharmacy Intern P3](https://jobright.ai/jobs/info/69c53e35e565c26a7000d235?utm_campaign=1058&utm_source=git)** | Ithaca, NY | On Site | Apr 17 |
 | **[Schindler Group](http://www.schindler.com/)** | **[Sales Support Intern](https://jobright.ai/jobs/info/69dd3466bc6f6622c9910ec9?utm_campaign=1058&utm_source=git)** | Sacramento, CA | On Site | Apr 17 |
@@ -100,8 +104,8 @@ For a complete list, click the following sortable link below:
 | **[Parsons Corporation](http://www.parsons.com)** | **[IT Intern - Summer 2026](https://jobright.ai/jobs/info/69e176ebd612782e61148ccc?utm_campaign=1058&utm_source=git)** | US - NJ, Newark | On Site | Apr 16 |
 | **[WCF Insurance](https://www.wcf.com)** | **[Customer Experience Intern](https://jobright.ai/jobs/info/69e1734afd1c0456f3fae692?utm_campaign=1058&utm_source=git)** | Sandy, UT | On Site | Apr 16 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69e1ebf76c20aa1149545d32?utm_campaign=1058&utm_source=git)** | Riverhead, NY | On Site | Apr 16 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69e1ebfa6c20aa1149545d56?utm_campaign=1058&utm_source=git)** | Manorville, NY | On Site | Apr 16 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69e1ebf5d612782e6114d59c?utm_campaign=1058&utm_source=git)** | Smithtown, NY | On Site | Apr 16 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69e1ebfa6c20aa1149545d56?utm_campaign=1058&utm_source=git)** | Manorville, NY | On Site | Apr 16 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69e1eaf040a62c1fa93bd102?utm_campaign=1058&utm_source=git)** | District Heights, MD | On Site | Apr 16 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/69e228bccda04a632939fe3a?utm_campaign=1058&utm_source=git)** | Chelsea, MI | On Site | Apr 16 |
 | **[ParsonsKellogg](https://parsonskellogg.com)** | **[IT Intern - Summer 2026](https://jobright.ai/jobs/info/69e170f840a62c1fa93b8838?utm_campaign=1058&utm_source=git)** | US - NJ, Newark | On Site | Apr 16 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Technical Support (Project Engineer)](https://jobright.ai/jobs/info/69e12bff6c20aa114953fb16?utm_campaign=1058&utm_source=git)** | Lincoln, NE, US | On Site | Apr 16 |
 | ↳ | **[Intern, Technical Support (R&D Engineer)](https://jobright.ai/jobs/info/69e12bfeff71e82d604b5751?utm_campaign=1058&utm_source=git)** | Lincoln, NE, US | On Site | Apr 16 |
 | ↳ | **[Intern, Technical Support (Project Engineer)](https://jobright.ai/jobs/info/69e12bfeff71e82d604b5757?utm_campaign=1058&utm_source=git)** | US-NE-Lincoln | On Site | Apr 16 |
-| **[Brown University](https://www.brown.edu)** | **[Student Nurse Intern](https://jobright.ai/jobs/info/69e12bfd6c20aa114953fb05?utm_campaign=1058&utm_source=git)** | Bradley Hospital | On Site | Apr 16 |
-| ↳ | **[Student Nurse Intern](https://jobright.ai/jobs/info/69e12bf5ff71e82d604b573e?utm_campaign=1058&utm_source=git)** | Bradley Hospital | On Site | Apr 16 |
-| ↳ | **[Student Nurse Intern](https://jobright.ai/jobs/info/69e12be4d612782e61147338?utm_campaign=1058&utm_source=git)** | Bradley Hospital | On Site | Apr 16 |
-| **[Mount Sinai Medical Center](https://www.msmc.com/)** | **[Certified Medical Assistant - Intern](https://jobright.ai/jobs/info/69e12929d612782e611472ee?utm_campaign=1058&utm_source=git)** | Miami Beach, FL | On Site | Apr 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
