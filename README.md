@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Burke](https://myburke.org)** | **[Intern](https://jobright.ai/jobs/info/69e1c430fd1c0456f3faff9d?utm_campaign=1058&utm_source=git)** | Nacogdoches, TX | On Site | Apr 16 |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69e1c2bcd612782e6114a508?utm_campaign=1058&utm_source=git)** | Fairhaven, MA | On Site | Apr 16 |
 | **[Royal Credit Union](https://www.rcu.org)** | **[WBLAHS Teller Internship](https://jobright.ai/jobs/info/69e1b247d612782e61149e30?utm_campaign=1058&utm_source=git)** | Hugo, MN | On Site | Apr 16 |
 | **[Spry Methods, Inc.](https://www.sprymethods.com)** | **[IT Operations & Systems Intern](https://jobright.ai/jobs/info/69e1ae88ff71e82d604b827a?utm_campaign=1058&utm_source=git)** | McLean, VA | On Site | Apr 16 |
 | **[GRX Holdings LLC](https://www.grxholdings.com/)** | **[Pharmacist Graduate Intern](https://jobright.ai/jobs/info/69e1ae80ff71e82d604b825d?utm_campaign=1058&utm_source=git)** | Iowa City, IA | On Site | Apr 16 |
@@ -70,6 +72,8 @@ For a complete list, click the following sortable link below:
 | **[Astrodyne TDI](http://www.spherics.com)** | **[IT Intern](https://jobright.ai/jobs/info/69d45900366bb95ba553cce1?utm_campaign=1058&utm_source=git)** | Hackettstown, NJ | On Site | Apr 16 |
 | **[Phelps Health](https://phelpshealth.org/)** | **[Audiology Intern](https://jobright.ai/jobs/info/69e191cfd612782e61149301?utm_campaign=1058&utm_source=git)** | Rolla, MO | On Site | Apr 16 |
 | **[McLaren Health Care](http://www.mclaren.org)** | **[Intern- Facilities](https://jobright.ai/jobs/info/69e18f596c20aa1149541ac9?utm_campaign=1058&utm_source=git)** | Petoskey, MI | On Site | Apr 16 |
+| **[Brown University Health](https://www.brownhealth.org)** | **[Student Nurse Intern](https://jobright.ai/jobs/info/69e1bbb540a62c1fa93b9eb3?utm_campaign=1058&utm_source=git)** | East Providence, RI | On Site | Apr 16 |
+| ↳ | **[Student Nurse Intern](https://jobright.ai/jobs/info/69e1bc02acc736112f5c52be?utm_campaign=1058&utm_source=git)** | East Providence, RI | On Site | Apr 16 |
 | **[LA-Tech.org](http://la-tech.org)** | **[Technical Intern (Software & Cybersecurity)](https://jobright.ai/jobs/info/69c1b68379e36d3a847ebd53?utm_campaign=1058&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 16 |
 | **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[Advanced Radiology Intern - PRN](https://jobright.ai/jobs/info/69e17db46c20aa11495416ac?utm_campaign=1058&utm_source=git)** | Cape Girardeau, MO | On Site | Apr 16 |
 | **[UnityPoint Health](http://www.unitypoint.org/)** | **[Intern - Technical Operations Center](https://jobright.ai/jobs/info/69e17be040a62c1fa93b8a84?utm_campaign=1058&utm_source=git)** | Grimes, IA | Hybrid | Apr 16 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse II 3 South Med Surg](https://jobright.ai/jobs/info/69c50190f7bed33dee481a7c?utm_campaign=1058&utm_source=git)** | Memphis, TN | On Site | Apr 16 |
 | **[The University of Texas Medical Branch](http://www.utmb.edu/)** | **[Advanced Practice Provider, Internal Medicine-Oncology](https://jobright.ai/jobs/info/69e0f81d40a62c1fa93b5f99?utm_campaign=1058&utm_source=git)** | Galveston, TX | On Site | Apr 16 |
 | **[CONVERGIX Automation Solutions](https://convergixautomation.com)** | **[IT Systems & Support Intern](https://jobright.ai/jobs/info/69c45c04d5a1016e98db925e?utm_campaign=1058&utm_source=git)** | Bridgman, MI | On Site | Apr 16 |
-| **[Aimbridge Hospitality](http://www.aimbridgehospitality.com/)** | **[Oneida Hotel - Hospitality Management Intern](https://jobright.ai/jobs/info/69c3e265d5a1016e98dad0e2?utm_campaign=1058&utm_source=git)** | Ashwaubenon, WI | On Site | Apr 16 |
-| **[Gerdau North America](http://www.gerdau.com)** | **[Intern - IT Operations](https://jobright.ai/jobs/info/69c4f5bd33eecf3107957424?utm_campaign=1058&utm_source=git)** | Whitby, ON | On Site | Apr 16 |
-| **[Ascension](https://healthcare.ascension.org)** | **[Nurse Intern Respiratory Stroke](https://jobright.ai/jobs/info/69e11b00ff71e82d604b5252?utm_campaign=1058&utm_source=git)** | Wichita, KS | On Site | Apr 16 |
-| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69e185eafd1c0456f3faea7b?utm_campaign=1058&utm_source=git)** | Swampscott, MA | On Site | Apr 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
