@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Visionary Broadband](https://www.vcn.com/)** | **[Summer Intern - Warehouse](https://jobright.ai/jobs/info/69e2aab7fcfcbd43860a3d7f?utm_campaign=1058&utm_source=git)** | Gillette, WY | On Site | Apr 17 |
+| **[UPMC](https://www.upmc.com/)** | **[Audiologist Intern](https://jobright.ai/jobs/info/69e2aa97fcfcbd43860a3c52?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | On Site | Apr 17 |
+| **[Welldoc](https://www.welldoc.com)** | **[Clinical Intern](https://jobright.ai/jobs/info/69e2a5435c44d4710fe2600a?utm_campaign=1058&utm_source=git)** | Columbia, MD | Hybrid | Apr 17 |
 | **[eGenesis](https://www.egenesisbio.com)** | **[Swine Neonatal Care Technician Intern](https://jobright.ai/jobs/info/69e29c8a5c44d4710fe25eeb?utm_campaign=1058&utm_source=git)** | Greater Madison Area | On Site | Apr 17 |
 | **[Bank OZK](https://www.ozk.com/personal)** | **[Intern, Information Technology](https://jobright.ai/jobs/info/69e29c885c44d4710fe25edb?utm_campaign=1058&utm_source=git)** | Little Rock, AR | On Site | Apr 17 |
 | **[Mariner Finance](http://www.marinerfinance.com)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/69e2964a5c44d4710fe25da7?utm_campaign=1058&utm_source=git)** | Mentor, OH, US | On Site | Apr 17 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[GRX Holdings LLC](https://www.grxholdings.com/)** | **[Pharmacist Graduate Intern](https://jobright.ai/jobs/info/69e1ae80ff71e82d604b825d?utm_campaign=1058&utm_source=git)** | Iowa City, IA | On Site | Apr 16 |
 | **[Click Bond](http://clickbond.com)** | **[Intern, Information Technology](https://jobright.ai/jobs/info/69e1aaf86c20aa1149542474?utm_campaign=1058&utm_source=git)** | Watertown, CT | On Site | Apr 16 |
 | **[McLaren Health Care](http://www.mclaren.org)** | **[Intern- Imaging](https://jobright.ai/jobs/info/69e1a678acc736112f5c4944?utm_campaign=1058&utm_source=git)** | Petoskey, MI | On Site | Apr 16 |
-| ↳ | **[Intern- Boulder Park Terrace](https://jobright.ai/jobs/info/69e1a66dff71e82d604b7e28?utm_campaign=1058&utm_source=git)** | Charlevoix, MI | On Site | Apr 16 |
-| ↳ | **[Intern- Facilities](https://jobright.ai/jobs/info/69e1a6116c20aa1149542190?utm_campaign=1058&utm_source=git)** | Petoskey, MI | On Site | Apr 16 |
-| ↳ | **[Intern- Imaging Cheboygan](https://jobright.ai/jobs/info/69e1a5d0fd1c0456f3faf348?utm_campaign=1058&utm_source=git)** | Cheboygan, MI | On Site | Apr 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
