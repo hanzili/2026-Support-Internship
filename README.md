@@ -137,6 +137,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Student Nurse Intern](https://jobright.ai/jobs/info/69e12bf5ff71e82d604b573e?utm_campaign=1058&utm_source=git)** | Bradley Hospital | On Site | Apr 16 |
 | ↳ | **[Student Nurse Intern](https://jobright.ai/jobs/info/69e12be4d612782e61147338?utm_campaign=1058&utm_source=git)** | Bradley Hospital | On Site | Apr 16 |
 | **[Mount Sinai Medical Center](https://www.msmc.com/)** | **[Certified Medical Assistant - Intern](https://jobright.ai/jobs/info/69e12929d612782e611472ee?utm_campaign=1058&utm_source=git)** | Miami Beach, FL | On Site | Apr 16 |
+| **[Premier America Credit Union](https://www.premieramerica.com/home)** | **[Intern - Salesforce/Data](https://jobright.ai/jobs/info/69e1d54facc736112f5c592f?utm_campaign=1058&utm_source=git)** | Chatsworth,CA,US | On Site | Apr 16 |
 | **[Bloom Energy](http://www.bloomenergy.com)** | **[IT Software IT Infrastructure Intern](https://jobright.ai/jobs/info/698c6e610f6f7e7a2ce82a6f?utm_campaign=1058&utm_source=git)** | San Jose, CA | On Site | Apr 16 |
 | **[Houchens Insurance Group](https://www.higusa.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/69c47c0933eecf310794d30a?utm_campaign=1058&utm_source=git)** | Bowling Green, KY | On Site | Apr 16 |
 | **[Brigham and Women's Hospital](http://www.brighamandwomens.org/)** | **[Pharmacy Intern YR3](https://jobright.ai/jobs/info/69e12236acc736112f5c2090?utm_campaign=1058&utm_source=git)** | Boston, MA | On Site | Apr 16 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Pharmacy Intern YR3](https://jobright.ai/jobs/info/69e10306fd1c0456f3fac1e6?utm_campaign=1058&utm_source=git)** | Boston-MA | On Site | Apr 16 |
 | **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse II 3 South Med Surg](https://jobright.ai/jobs/info/69c50190f7bed33dee481a7c?utm_campaign=1058&utm_source=git)** | Memphis, TN | On Site | Apr 16 |
 | **[The University of Texas Medical Branch](http://www.utmb.edu/)** | **[Advanced Practice Provider, Internal Medicine-Oncology](https://jobright.ai/jobs/info/69e0f81d40a62c1fa93b5f99?utm_campaign=1058&utm_source=git)** | Galveston, TX | On Site | Apr 16 |
-| **[CONVERGIX Automation Solutions](https://convergixautomation.com)** | **[IT Systems & Support Intern](https://jobright.ai/jobs/info/69c45c04d5a1016e98db925e?utm_campaign=1058&utm_source=git)** | Bridgman, MI | On Site | Apr 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
