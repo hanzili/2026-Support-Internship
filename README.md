@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[Advanced Radiology Intern - PRN](https://jobright.ai/jobs/info/69e1f2c6ff71e82d604bbdbb?utm_campaign=1058&utm_source=git)** | Cape Girardeau, MO | On Site | Apr 17 |
 | **[Fred Meyer](https://www.fredmeyer.com/)** | **[Pharmacist Grad Intern](https://jobright.ai/jobs/info/69e1e4f640a62c1fa93bcf9f?utm_campaign=1058&utm_source=git)** | Coos Bay, OR | On Site | Apr 17 |
 | **[Burke](https://myburke.org)** | **[Intern](https://jobright.ai/jobs/info/69e1c430fd1c0456f3faff9d?utm_campaign=1058&utm_source=git)** | Nacogdoches, TX | On Site | Apr 16 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69e1c2bcd612782e6114a508?utm_campaign=1058&utm_source=git)** | Fairhaven, MA | On Site | Apr 16 |
@@ -85,6 +86,10 @@ For a complete list, click the following sortable link below:
 | **[Leonardo DRS](https://www.leonardodrs.com)** | **[IT Intern - Fitchburg](https://jobright.ai/jobs/info/69e17717fd1c0456f3fae6b5?utm_campaign=1058&utm_source=git)** | Fitchburg, MA | On Site | Apr 16 |
 | **[Parsons Corporation](http://www.parsons.com)** | **[IT Intern - Summer 2026](https://jobright.ai/jobs/info/69e176ebd612782e61148ccc?utm_campaign=1058&utm_source=git)** | US - NJ, Newark | On Site | Apr 16 |
 | **[WCF Insurance](https://www.wcf.com)** | **[Customer Experience Intern](https://jobright.ai/jobs/info/69e1734afd1c0456f3fae692?utm_campaign=1058&utm_source=git)** | Sandy, UT | On Site | Apr 16 |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69e1ebf76c20aa1149545d32?utm_campaign=1058&utm_source=git)** | Riverhead, NY | On Site | Apr 16 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69e1ebfa6c20aa1149545d56?utm_campaign=1058&utm_source=git)** | Manorville, NY | On Site | Apr 16 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69e1ebf5d612782e6114d59c?utm_campaign=1058&utm_source=git)** | Smithtown, NY | On Site | Apr 16 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69e1eaf040a62c1fa93bd102?utm_campaign=1058&utm_source=git)** | District Heights, MD | On Site | Apr 16 |
 | **[ParsonsKellogg](https://parsonskellogg.com)** | **[IT Intern - Summer 2026](https://jobright.ai/jobs/info/69e170f840a62c1fa93b8838?utm_campaign=1058&utm_source=git)** | US - NJ, Newark | On Site | Apr 16 |
 | **[Withum](http://www.withum.com)** | **[IT Intern 2026](https://jobright.ai/jobs/info/69e16839acc736112f5c38d9?utm_campaign=1058&utm_source=git)** | East Brunswick, NJ | Hybrid | Apr 16 |
 | **[Sharp HealthCare](http://www.sharp.com)** | **[Intern Pharmacist – Sharp Memorial Hospital – Variable Shift – Per Diem](https://jobright.ai/jobs/info/69e167eb6c20aa1149540fc7?utm_campaign=1058&utm_source=git)** | San Diego, CA | On Site | Apr 16 |
@@ -147,14 +152,9 @@ For a complete list, click the following sortable link below:
 | **[Nationwide Children's Hospital](http://www.nationwidechildrens.org)** | **[Pharmacy Intern - Outpatient/Ambulatory Pharmacy (P1 Intern Only)](https://jobright.ai/jobs/info/69e11cc7acc736112f5c1f71?utm_campaign=1058&utm_source=git)** | Main Campus, Columbus, OH | On Site | Apr 16 |
 | ↳ | **[Pharmacy Intern - Outpatient/Ambulatory Pharmacy (P2 Intern Only)](https://jobright.ai/jobs/info/69e11cbfff71e82d604b5378?utm_campaign=1058&utm_source=git)** | Main Campus, Columbus, OH | On Site | Apr 16 |
 | **[Ntiva, Inc.](http://www.ntiva.com)** | **[Service Desk Intern](https://jobright.ai/jobs/info/69e11b71d612782e61146e8a?utm_campaign=1058&utm_source=git)** | Parkersburg, WV | On Site | Apr 16 |
+| **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Access Your Future Service Intern](https://jobright.ai/jobs/info/69e1f096d6ee4e4e4a8919f2?utm_campaign=1058&utm_source=git)** | Hayward, CA | On Site | Apr 16 |
 | **[Community Health Systems](http://www.chs.net)** | **[Student Intern ICU](https://jobright.ai/jobs/info/69e1107340a62c1fa93b67bf?utm_campaign=1058&utm_source=git)** | 2520 E Dupont Rd, Fort Wayne, IN, 46825, US | On Site | Apr 16 |
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Intern, International Patient Services](https://jobright.ai/jobs/info/69e11067d612782e61146bca?utm_campaign=1058&utm_source=git)** | Boston-MA | On Site | Apr 16 |
 | **[eClerx](https://eclerx.com/)** | **[IT Intern](https://jobright.ai/jobs/info/69a7842d2672cb0acb4bfbe9?utm_campaign=1058&utm_source=git)** | Fayetteville, NC | On Site | Apr 16 |
 | **[Bronson Healthcare](https://www.bronsonhealth.com/)** | **[Inpatient Pharmacy Intern PRN](https://jobright.ai/jobs/info/69e16505d612782e611486e5?utm_campaign=1058&utm_source=git)** | Greater Kalamazoo Area | On Site | Apr 16 |
-| **[Shermco Industries](http://www.shermco.com)** | **[Field Service Intern](https://jobright.ai/jobs/info/69c4227733eecf3107943f4f?utm_campaign=1058&utm_source=git)** | Hiawatha, IA | On Site | Apr 16 |
-| **[Jacobs](http://www.jacobs.com)** | **[Equipment and Field Support Intern – Summer 2026 Calgary (AB)](https://jobright.ai/jobs/info/69e10919fd1c0456f3fac30a?utm_campaign=1058&utm_source=git)** | Calgary, AB | Hybrid | Apr 16 |
-| **[Harford Mutual Insurance Group](http://harfordmutual.com)** | **[IT Intern, Technical Services](https://jobright.ai/jobs/info/69e10364ff71e82d604b4c5c?utm_campaign=1058&utm_source=git)** | Bel Air, MD | On Site | Apr 16 |
-| **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Pharmacy Intern YR3](https://jobright.ai/jobs/info/69e10306fd1c0456f3fac1e6?utm_campaign=1058&utm_source=git)** | Boston-MA | On Site | Apr 16 |
-| **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse II 3 South Med Surg](https://jobright.ai/jobs/info/69c50190f7bed33dee481a7c?utm_campaign=1058&utm_source=git)** | Memphis, TN | On Site | Apr 16 |
-| **[The University of Texas Medical Branch](http://www.utmb.edu/)** | **[Advanced Practice Provider, Internal Medicine-Oncology](https://jobright.ai/jobs/info/69e0f81d40a62c1fa93b5f99?utm_campaign=1058&utm_source=git)** | Galveston, TX | On Site | Apr 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
