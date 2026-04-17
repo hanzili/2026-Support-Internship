@@ -116,8 +116,8 @@ For a complete list, click the following sortable link below:
 | **[Parsons Corporation](http://www.parsons.com)** | **[IT Intern - Summer 2026](https://jobright.ai/jobs/info/69e176ebd612782e61148ccc?utm_campaign=1058&utm_source=git)** | US - NJ, Newark | On Site | Apr 16 |
 | **[WCF Insurance](https://www.wcf.com)** | **[Customer Experience Intern](https://jobright.ai/jobs/info/69e1734afd1c0456f3fae692?utm_campaign=1058&utm_source=git)** | Sandy, UT | On Site | Apr 16 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69e1ebf76c20aa1149545d32?utm_campaign=1058&utm_source=git)** | Riverhead, NY | On Site | Apr 16 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69e1ebf5d612782e6114d59c?utm_campaign=1058&utm_source=git)** | Smithtown, NY | On Site | Apr 16 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69e1ebfa6c20aa1149545d56?utm_campaign=1058&utm_source=git)** | Manorville, NY | On Site | Apr 16 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69e1ebf5d612782e6114d59c?utm_campaign=1058&utm_source=git)** | Smithtown, NY | On Site | Apr 16 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69e1eaf040a62c1fa93bd102?utm_campaign=1058&utm_source=git)** | District Heights, MD | On Site | Apr 16 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/69e228bccda04a632939fe3a?utm_campaign=1058&utm_source=git)** | Chelsea, MI | On Site | Apr 16 |
 | **[ParsonsKellogg](https://parsonskellogg.com)** | **[IT Intern - Summer 2026](https://jobright.ai/jobs/info/69e170f840a62c1fa93b8838?utm_campaign=1058&utm_source=git)** | US - NJ, Newark | On Site | Apr 16 |
@@ -131,6 +131,7 @@ For a complete list, click the following sortable link below:
 | **[TTX Company](http://www.ttx.com)** | **[Operations Support Intern](https://jobright.ai/jobs/info/69e1650540a62c1fa93b832f?utm_campaign=1058&utm_source=git)** | Jacksonville, FL | On Site | Apr 16 |
 | **[Lasko Products](https://www.lasko.com/)** | **[IT Summer Internship](https://jobright.ai/jobs/info/698621218da7a6120460cb8c?utm_campaign=1058&utm_source=git)** | West Chester, PA | Hybrid | Apr 16 |
 | **[Southeast Hospital](https://www.sehealth.org/locations/southeast-hospital)** | **[Advanced Radiology Intern - PRN](https://jobright.ai/jobs/info/69e191f1ff71e82d604b777e?utm_campaign=1058&utm_source=git)** | Cape Girardeau, MO | On Site | Apr 16 |
+| **[Albuquerque Isotopes Baseball Club](http://www.ABQisotopes.com)** | **[Box Office Intern (56308)](https://jobright.ai/jobs/info/69e26c50be46fa3a4ef5710b?utm_campaign=1058&utm_source=git)** | Moosic, PA 18507 | On Site | Apr 16 |
 | **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[Intern, Technical Support (Project Engineer)](https://jobright.ai/jobs/info/69e15e8bacc736112f5c347e?utm_campaign=1058&utm_source=git)** | Lincoln, NE | On Site | Apr 16 |
 | ↳ | **[Intern, Technical Support (R&D Engineer)](https://jobright.ai/jobs/info/69e15e7fff71e82d604b68e5?utm_campaign=1058&utm_source=git)** | Lincoln, NE | On Site | Apr 16 |
 | **[Harris Teeter](http://www.harristeeter.com)** | **[PT Pharmacy Graduate Intern - High Point Market](https://jobright.ai/jobs/info/69e23a3b3ce36005badbda43?utm_campaign=1058&utm_source=git)** | HIGH POINT, NORTH CAROLINA, STORE 173 - HIGH POINT-SKEET CLUB | On Site | Apr 16 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kaweah Health](https://www.kaweahhealth.org)** | **[Student Nurse Intern-ICU-2W](https://jobright.ai/jobs/info/69e13b61d612782e6114796d?utm_campaign=1058&utm_source=git)** | Visalia, California | On Site | Apr 16 |
 | **[Western Specialty Contractors](http://westernspecialtycontractors.com)** | **[IT Help Desk Intern](https://jobright.ai/jobs/info/69e174a26c20aa11495414dc?utm_campaign=1058&utm_source=git)** | St Louis, MO | On Site | Apr 16 |
 | **[City of Twin Falls](http://www.tfid.org)** | **[Male Drug Testing Tech](https://jobright.ai/jobs/info/69e17899ff71e82d604b723e?utm_campaign=1058&utm_source=git)** | Twin Falls, ID | On Site | Apr 16 |
-| **[Orlando Health](https://www.orlandohealth.com/)** | **[Pharmacist, Intern I - Orlando Health Cancer Institute](https://jobright.ai/jobs/info/69e135ebfd1c0456f3fad0dc?utm_campaign=1058&utm_source=git)** | Orlando, FL | On Site | Apr 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
