@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[REV Group, Inc](http://www.revgroup.com/)** | **[Intern](https://jobright.ai/jobs/info/69e195e66c20aa1149541c44?utm_campaign=1058&utm_source=git)** | Brandon, SD | On Site | Apr 16 |
+| **[Phelps Health](https://phelpshealth.org/)** | **[Audiology Intern](https://jobright.ai/jobs/info/69e191cfd612782e61149301?utm_campaign=1058&utm_source=git)** | Rolla, MO | On Site | Apr 16 |
 | **[McLaren Health Care](http://www.mclaren.org)** | **[Intern- Facilities](https://jobright.ai/jobs/info/69e18f596c20aa1149541ac9?utm_campaign=1058&utm_source=git)** | Petoskey, MI | On Site | Apr 16 |
 | **[LA-Tech.org](http://la-tech.org)** | **[Technical Intern (Software & Cybersecurity)](https://jobright.ai/jobs/info/69c1b68379e36d3a847ebd53?utm_campaign=1058&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 16 |
 | **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[Advanced Radiology Intern - PRN](https://jobright.ai/jobs/info/69e17db46c20aa11495416ac?utm_campaign=1058&utm_source=git)** | Cape Girardeau, MO | On Site | Apr 16 |
@@ -76,7 +78,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69e185ed6c20aa11495418a3?utm_campaign=1058&utm_source=git)** | Jacksonville, FL | On Site | Apr 16 |
 | **[TTX Company](http://www.ttx.com)** | **[Operations Support Intern](https://jobright.ai/jobs/info/69e1650540a62c1fa93b832f?utm_campaign=1058&utm_source=git)** | Jacksonville, FL | On Site | Apr 16 |
 | **[Lasko Products](https://www.lasko.com/)** | **[IT Summer Internship](https://jobright.ai/jobs/info/698621218da7a6120460cb8c?utm_campaign=1058&utm_source=git)** | West Chester, PA | Hybrid | Apr 16 |
-| **[Southeast Hospital](https://www.sehealth.org/locations/southeast-hospital)** | **[Advanced Radiology Intern - PRN](https://jobright.ai/jobs/info/69e1917140a62c1fa93b8ec8?utm_campaign=1058&utm_source=git)** | Cape Girardeau, MO | On Site | Apr 16 |
+| **[Southeast Hospital](https://www.sehealth.org/locations/southeast-hospital)** | **[Advanced Radiology Intern - PRN](https://jobright.ai/jobs/info/69e191f1ff71e82d604b777e?utm_campaign=1058&utm_source=git)** | Cape Girardeau, MO | On Site | Apr 16 |
 | **[HCA Healthcare](https://hcahealthcare.com/)** | **[Chaplain Intern PRN](https://jobright.ai/jobs/info/69e163adff71e82d604b6b20?utm_campaign=1058&utm_source=git)** | San Antonio, TX | On Site | Apr 16 |
 | **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[Intern, Technical Support (Project Engineer)](https://jobright.ai/jobs/info/69e15e8bacc736112f5c347e?utm_campaign=1058&utm_source=git)** | Lincoln, NE | On Site | Apr 16 |
 | ↳ | **[Intern, Technical Support (R&D Engineer)](https://jobright.ai/jobs/info/69e15e7fff71e82d604b68e5?utm_campaign=1058&utm_source=git)** | Lincoln, NE | On Site | Apr 16 |
@@ -86,6 +88,7 @@ For a complete list, click the following sortable link below:
 | **[Leidos](https://www.leidos.com)** | **[IT Support Technician Intern](https://jobright.ai/jobs/info/69e158cb6c20aa1149540b1f?utm_campaign=1058&utm_source=git)** | Gaithersburg, MD | On Site | Apr 16 |
 | **[Samaritan Health Services](https://www.samhealth.org/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69e158cafd1c0456f3fadd12?utm_campaign=1058&utm_source=git)** | Lebanon, OR | On Site | Apr 16 |
 | **[Payer Sciences](https://www.payersciences.com/)** | **[Client Services Intern](https://jobright.ai/jobs/info/69e158c9fd1c0456f3fadd0c?utm_campaign=1058&utm_source=git)** | Morristown, NJ | On Site | Apr 16 |
+| **[Salvus TG now known as The Purple Guys, an Ntiva Company](https://salvustg.com/)** | **[Service Desk Intern](https://jobright.ai/jobs/info/69e19279acc736112f5c4301?utm_campaign=1058&utm_source=git)** | Parkersburg, WV | On Site | Apr 16 |
 | **[Nationwide Children's Hospital](http://www.nationwidechildrens.org)** | **[Pharmacy Intern - Outpatient/Ambulatory Pharmacy (P1 Intern Only)](https://jobright.ai/jobs/info/69e154c2ff71e82d604b66bd?utm_campaign=1058&utm_source=git)** | Columbus, OH | On Site | Apr 16 |
 | ↳ | **[Pharmacy Intern - Outpatient/Ambulatory Pharmacy (P2 Intern Only)](https://jobright.ai/jobs/info/69e154bf40a62c1fa93b7e40?utm_campaign=1058&utm_source=git)** | Columbus, OH | On Site | Apr 16 |
 | **[Baptist Health Care](https://www.ebaptisthealthcare.org)** | **[Nurse Intern - Ortho Neuro](https://jobright.ai/jobs/info/69e153eed612782e611481c3?utm_campaign=1058&utm_source=git)** | 123 Baptist Way, Pensacola, FL, 32503, US | On Site | Apr 16 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hyatt Regency](http://www.regency.hyatt.com/)** | **[Summer 2026 Front Desk Internship](https://jobright.ai/jobs/info/69d9dcd7869c7e25d859e51d?utm_campaign=1058&utm_source=git)** | Seattle, WA | On Site | Apr 16 |
 | **[Intermountain Health](https://intermountainhealthcare.org)** | **[Intern Resident](https://jobright.ai/jobs/info/69e0e2f3acc736112f5c0a05?utm_campaign=1058&utm_source=git)** | Primary Childrens at Taylorsville | On Site | Apr 16 |
 | **[PARKVIEW HEALTH SYSTEM INC](https://www.parkview.com/)** | **[Medication Reconciliation Pharmacy Intern](https://jobright.ai/jobs/info/69e0e2946c20aa114953e26b?utm_campaign=1058&utm_source=git)** | Fort Wayne, IN | On Site | Apr 16 |
-| **[Xometry](https://www.xometry.com)** | **[Customer Support Intern](https://jobright.ai/jobs/info/6952e5fa935649778e20a49f?utm_campaign=1058&utm_source=git)** | Waltham, MA | Hybrid | Apr 16 |
-| **[Hyatt](http://www.hyatt.com/)** | **[Summer 2026 - College Intern - Sedona, AZ (Front Office & Recreation)](https://jobright.ai/jobs/info/68fca19ae04ac838fb5ab30d?utm_campaign=1058&utm_source=git)** | Sedona, AZ | On Site | Apr 16 |
-| **[Xometry](https://www.xometry.com)** | **[Customer Support Intern](https://jobright.ai/jobs/info/6952df915bb7de448ef5f0b8?utm_campaign=1058&utm_source=git)** | Lexington, KY | On Site | Apr 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
