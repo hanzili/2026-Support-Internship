@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lumicera Health Services](https://www.lumicera.com/)** | **[Clinical Intern, Specialty Pharmacy](https://jobright.ai/jobs/info/69c586ddaa3c2c1995e012c8?utm_campaign=1058&utm_source=git)** | Scottsdale, AZ | Remote | Apr 17 |
 | **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[Advanced Radiology Intern - PRN](https://jobright.ai/jobs/info/69e1f2c6ff71e82d604bbdbb?utm_campaign=1058&utm_source=git)** | Cape Girardeau, MO | On Site | Apr 17 |
 | **[Fred Meyer](https://www.fredmeyer.com/)** | **[Pharmacist Grad Intern](https://jobright.ai/jobs/info/69e1e4f640a62c1fa93bcf9f?utm_campaign=1058&utm_source=git)** | Coos Bay, OR | On Site | Apr 17 |
 | **[Burke](https://myburke.org)** | **[Intern](https://jobright.ai/jobs/info/69e1c430fd1c0456f3faff9d?utm_campaign=1058&utm_source=git)** | Nacogdoches, TX | On Site | Apr 16 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Community Health Systems](http://www.chs.net)** | **[Student Intern ICU](https://jobright.ai/jobs/info/69e1107340a62c1fa93b67bf?utm_campaign=1058&utm_source=git)** | 2520 E Dupont Rd, Fort Wayne, IN, 46825, US | On Site | Apr 16 |
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Intern, International Patient Services](https://jobright.ai/jobs/info/69e11067d612782e61146bca?utm_campaign=1058&utm_source=git)** | Boston-MA | On Site | Apr 16 |
 | **[eClerx](https://eclerx.com/)** | **[IT Intern](https://jobright.ai/jobs/info/69a7842d2672cb0acb4bfbe9?utm_campaign=1058&utm_source=git)** | Fayetteville, NC | On Site | Apr 16 |
-| **[Bronson Healthcare](https://www.bronsonhealth.com/)** | **[Inpatient Pharmacy Intern PRN](https://jobright.ai/jobs/info/69e16505d612782e611486e5?utm_campaign=1058&utm_source=git)** | Greater Kalamazoo Area | On Site | Apr 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
