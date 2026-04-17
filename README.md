@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[KPH HEALTHCARE SERVICES, INC](https://www.kphhealthcareservices.com/en/)** | **[Pharmacy Intern P4](https://jobright.ai/jobs/info/68f6ce4776a51a4307bde5d6?utm_campaign=1058&utm_source=git)** | Seneca Falls, NY | On Site | Apr 17 |
+| ↳ | **[Pharmacy Intern P4](https://jobright.ai/jobs/info/6959e379aa05c26e7ab383eb?utm_campaign=1058&utm_source=git)** | Ithaca, NY | On Site | Apr 17 |
+| **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Document Management Solutions Intern Summer 2026](https://jobright.ai/jobs/info/68ffe53f0ab3b222462afb5b?utm_campaign=1058&utm_source=git)** | Cranberry Township, PA | Hybrid | Apr 17 |
+| **[KPH HEALTHCARE SERVICES, INC](https://www.kphhealthcareservices.com/en/)** | **[Pharmacy Intern P3](https://jobright.ai/jobs/info/69c8a6fa1b5ad028873948b3?utm_campaign=1058&utm_source=git)** | Seneca Falls, NY | On Site | Apr 17 |
 | **[Lumicera Health Services](https://www.lumicera.com/)** | **[Clinical Intern, Specialty Pharmacy](https://jobright.ai/jobs/info/69c586ddaa3c2c1995e012c8?utm_campaign=1058&utm_source=git)** | Scottsdale, AZ | Remote | Apr 17 |
 | **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[Advanced Radiology Intern - PRN](https://jobright.ai/jobs/info/69e1f2c6ff71e82d604bbdbb?utm_campaign=1058&utm_source=git)** | Cape Girardeau, MO | On Site | Apr 17 |
 | **[Fred Meyer](https://www.fredmeyer.com/)** | **[Pharmacist Grad Intern](https://jobright.ai/jobs/info/69e1e4f640a62c1fa93bcf9f?utm_campaign=1058&utm_source=git)** | Coos Bay, OR | On Site | Apr 17 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Nationwide Children's Hospital](http://www.nationwidechildrens.org)** | **[Pharmacy Intern - Outpatient/Ambulatory Pharmacy (P1 Intern Only)](https://jobright.ai/jobs/info/69e11cc7acc736112f5c1f71?utm_campaign=1058&utm_source=git)** | Main Campus, Columbus, OH | On Site | Apr 16 |
 | ↳ | **[Pharmacy Intern - Outpatient/Ambulatory Pharmacy (P2 Intern Only)](https://jobright.ai/jobs/info/69e11cbfff71e82d604b5378?utm_campaign=1058&utm_source=git)** | Main Campus, Columbus, OH | On Site | Apr 16 |
 | **[Ntiva, Inc.](http://www.ntiva.com)** | **[Service Desk Intern](https://jobright.ai/jobs/info/69e11b71d612782e61146e8a?utm_campaign=1058&utm_source=git)** | Parkersburg, WV | On Site | Apr 16 |
-| **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Access Your Future Service Intern](https://jobright.ai/jobs/info/69e1f096d6ee4e4e4a8919f2?utm_campaign=1058&utm_source=git)** | Hayward, CA | On Site | Apr 16 |
-| **[Community Health Systems](http://www.chs.net)** | **[Student Intern ICU](https://jobright.ai/jobs/info/69e1107340a62c1fa93b67bf?utm_campaign=1058&utm_source=git)** | 2520 E Dupont Rd, Fort Wayne, IN, 46825, US | On Site | Apr 16 |
-| **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Intern, International Patient Services](https://jobright.ai/jobs/info/69e11067d612782e61146bca?utm_campaign=1058&utm_source=git)** | Boston-MA | On Site | Apr 16 |
-| **[eClerx](https://eclerx.com/)** | **[IT Intern](https://jobright.ai/jobs/info/69a7842d2672cb0acb4bfbe9?utm_campaign=1058&utm_source=git)** | Fayetteville, NC | On Site | Apr 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
