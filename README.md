@@ -112,8 +112,8 @@ For a complete list, click the following sortable link below:
 | **[eGenesis](https://www.egenesisbio.com)** | **[Swine Neonatal Care Technician Intern](https://jobright.ai/jobs/info/69e2d795be46fa3a4ef59153?utm_campaign=1058&utm_source=git)** | Northwest, IN | On Site | Apr 17 |
 | **[ACCIONA](https://www.acciona.com)** | **[IT Co-op](https://jobright.ai/jobs/info/69b24ae8ae2a534885e93d30?utm_campaign=1058&utm_source=git)** | British Columbia, Canada | On Site | Apr 17 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Application Lifecycle Management, Technical Support](https://jobright.ai/jobs/info/69d92030b67cec4f9b09fe77?utm_campaign=1058&utm_source=git)** | Toronto, ON | On Site | Apr 17 |
-| **[Equitable](http://equitable.ca/)** | **[Client Care Representative](https://jobright.ai/jobs/info/69e2db84fcfcbd43860a4e0d?utm_campaign=1058&utm_source=git)** | Waterloo, ON | Hybrid | Apr 17 |
-| ↳ | **[Client Care Representative - Bilingual](https://jobright.ai/jobs/info/69e2db915c44d4710fe272b3?utm_campaign=1058&utm_source=git)** | Waterloo, ON | Hybrid | Apr 17 |
+| **[Equitable](http://equitable.ca/)** | **[Client Care Representative - Bilingual](https://jobright.ai/jobs/info/69e2db915c44d4710fe272b3?utm_campaign=1058&utm_source=git)** | Waterloo, ON | Hybrid | Apr 17 |
+| ↳ | **[Client Care Representative](https://jobright.ai/jobs/info/69e2db84fcfcbd43860a4e0d?utm_campaign=1058&utm_source=git)** | Waterloo, ON | Hybrid | Apr 17 |
 | **[UICGS / Bowhead Family of Companies](http://www.bowhead.com)** | **[General Clerk III](https://jobright.ai/jobs/info/69e2793bfcfcbd43860a318c?utm_campaign=1058&utm_source=git)** | Chaparral, NM | On Site | Apr 17 |
 | **[Trinity Health](http://www.trinity-health.org)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/69718e13587dfa0bb55f3ee6?utm_campaign=1058&utm_source=git)** | Des Moines, IA | On Site | Apr 17 |
 | **[Kentucky Farm Bureau Insurance](http://kyfb.com)** | **[Regional Support Intern (Lexington-Hamburg)](https://jobright.ai/jobs/info/69e2acf43ce36005badbf364?utm_campaign=1058&utm_source=git)** | US-KY-Lexington | On Site | Apr 17 |
@@ -132,7 +132,6 @@ For a complete list, click the following sortable link below:
 | **[1st Security Bank](https://www.linkedin.com/company/54228853)** | **[Customer Service Representative Intern](https://jobright.ai/jobs/info/69e2c6d82f28653593078154?utm_campaign=1058&utm_source=git)** | Hadlock, WA | On Site | Apr 17 |
 | **[County of Lancaster](https://www.lancastercountypa.gov)** | **[Court Intern (Fall 2026)](https://jobright.ai/jobs/info/69e2981b5c44d4710fe25e17?utm_campaign=1058&utm_source=git)** | Judicial Operations-50 North Duke Street, Lancaster, PA | On Site | Apr 17 |
 | **[Prisma Health](https://www.prismahealth.org)** | **[Pharmacy Intern, Pharmacy, PRN, Variable](https://jobright.ai/jobs/info/69e293b23770bd5361cd909f?utm_campaign=1058&utm_source=git)** | Columbia, SC | On Site | Apr 17 |
-| **[Learning Resources](https://www.learningresources.com)** | **[Customer Experience and Sales Operations Intern](https://jobright.ai/jobs/info/69d55640cfdc6132f946169a?utm_campaign=1058&utm_source=git)** | Vernon Hills, IL | Hybrid | Apr 17 |
 | **[Sharp HealthCare](http://www.sharp.com)** | **[Intern Pharmacist – Sharp Memorial Hospital – Variable Shift – Per Diem](https://jobright.ai/jobs/info/69e271f33770bd5361cd885a?utm_campaign=1058&utm_source=git)** | San Diego, CA | On Site | Apr 17 |
 | **[Wiz](https://www.wiz.io)** | **[Technical Account Manager (Mid-Atlantic)](https://jobright.ai/jobs/info/69c5c9181818a24cd84bb1fd?utm_campaign=1058&utm_source=git)** | United States | Remote | Apr 17 |
 | **[Advocate Aurora Health](https://www.advocateaurorahealth.org/)** | **[Outpatient Pharmacy Intern West Allis Hospital](https://jobright.ai/jobs/info/69e280df3770bd5361cd8c1a?utm_campaign=1058&utm_source=git)** | West Allis, WI - 2424 S 90th St | On Site | Apr 17 |
@@ -153,8 +152,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69e271c43770bd5361cd8781?utm_campaign=1058&utm_source=git)** | West New York, NJ | On Site | Apr 17 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69e271cc3770bd5361cd87c2?utm_campaign=1058&utm_source=git)** | Malden, MA | On Site | Apr 17 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69e271ad5c44d4710fe25385?utm_campaign=1058&utm_source=git)** | Sacramento, CA | On Site | Apr 17 |
-| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69e271f23ce36005badbe381?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Apr 17 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69e271c9fcfcbd43860a2f9e?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Apr 17 |
+| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69e271f23ce36005badbe381?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Apr 17 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69e272462f28653593076a95?utm_campaign=1058&utm_source=git)** | Elk Grove, CA | On Site | Apr 17 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69e271c25c44d4710fe253f5?utm_campaign=1058&utm_source=git)** | Plymouth, MA | On Site | Apr 17 |
+| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69e2723b2f28653593076a5b?utm_campaign=1058&utm_source=git)** | Plymouth, MA | On Site | Apr 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
