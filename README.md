@@ -84,6 +84,7 @@ For a complete list, click the following sortable link below:
 | **[UPMC](https://www.upmc.com/)** | **[Respiratory Care Intern - UPMC Mercy](https://jobright.ai/jobs/info/69e2cae23ce36005badbfbf4?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | On Site | Apr 17 |
 | **[Cardinal Health](https://www.cardinalhealth.com)** | **[Per Diem Pharmacy Intern](https://jobright.ai/jobs/info/69e2c0323ce36005badbf827?utm_campaign=1058&utm_source=git)** | Knoxville, TN | On Site | Apr 17 |
 | **[Elk Island Public Schools](https://www.eips.ca/)** | **[Summer Student Shipper Receiver (Financial Services) - Temporary](https://jobright.ai/jobs/info/69e2db94fcfcbd43860a4e65?utm_campaign=1058&utm_source=git)** | Sherwood Park, AB | On Site | Apr 17 |
+| **[Visionary Broadband](https://www.vcn.com/)** | **[Summer Intern - Warehouse](https://jobright.ai/jobs/info/69e2fd253770bd5361cda91b?utm_campaign=1058&utm_source=git)** | Gillette, Wyoming | On Site | Apr 17 |
 | **[Mariner Finance](http://www.marinerfinance.com)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/69e2964a5c44d4710fe25da7?utm_campaign=1058&utm_source=git)** | Mentor, OH, US | On Site | Apr 17 |
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/69e29648be46fa3a4ef57d43?utm_campaign=1058&utm_source=git)** | Onsite | On Site | Apr 17 |
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/69e296433770bd5361cd9240?utm_campaign=1058&utm_source=git)** | US-OH-Mentor | On Site | Apr 17 |
@@ -111,12 +112,12 @@ For a complete list, click the following sortable link below:
 | **[eGenesis](https://www.egenesisbio.com)** | **[Swine Neonatal Care Technician Intern](https://jobright.ai/jobs/info/69e2d795be46fa3a4ef59153?utm_campaign=1058&utm_source=git)** | Northwest, IN | On Site | Apr 17 |
 | **[ACCIONA](https://www.acciona.com)** | **[IT Co-op](https://jobright.ai/jobs/info/69b24ae8ae2a534885e93d30?utm_campaign=1058&utm_source=git)** | British Columbia, Canada | On Site | Apr 17 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Application Lifecycle Management, Technical Support](https://jobright.ai/jobs/info/69d92030b67cec4f9b09fe77?utm_campaign=1058&utm_source=git)** | Toronto, ON | On Site | Apr 17 |
-| **[Equitable](http://equitable.ca/)** | **[Client Care Representative](https://jobright.ai/jobs/info/69e2db84fcfcbd43860a4e0d?utm_campaign=1058&utm_source=git)** | Waterloo, ON | Hybrid | Apr 17 |
-| ↳ | **[Client Care Representative - Bilingual](https://jobright.ai/jobs/info/69e2db915c44d4710fe272b3?utm_campaign=1058&utm_source=git)** | Waterloo, ON | Hybrid | Apr 17 |
+| **[Equitable](http://equitable.ca/)** | **[Client Care Representative - Bilingual](https://jobright.ai/jobs/info/69e2db915c44d4710fe272b3?utm_campaign=1058&utm_source=git)** | Waterloo, ON | Hybrid | Apr 17 |
+| ↳ | **[Client Care Representative](https://jobright.ai/jobs/info/69e2db84fcfcbd43860a4e0d?utm_campaign=1058&utm_source=git)** | Waterloo, ON | Hybrid | Apr 17 |
 | **[UICGS / Bowhead Family of Companies](http://www.bowhead.com)** | **[General Clerk III](https://jobright.ai/jobs/info/69e2793bfcfcbd43860a318c?utm_campaign=1058&utm_source=git)** | Chaparral, NM | On Site | Apr 17 |
 | **[Trinity Health](http://www.trinity-health.org)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/69718e13587dfa0bb55f3ee6?utm_campaign=1058&utm_source=git)** | Des Moines, IA | On Site | Apr 17 |
-| **[Kentucky Farm Bureau Insurance](http://kyfb.com)** | **[Regional Support Intern (Lexington-Hamburg)](https://jobright.ai/jobs/info/69e2acdbbe46fa3a4ef583d9?utm_campaign=1058&utm_source=git)** | Lexington, KY, US | On Site | Apr 17 |
-| ↳ | **[Regional Support Intern (Lexington-Hamburg)](https://jobright.ai/jobs/info/69e2acf43ce36005badbf364?utm_campaign=1058&utm_source=git)** | US-KY-Lexington | On Site | Apr 17 |
+| **[Kentucky Farm Bureau Insurance](http://kyfb.com)** | **[Regional Support Intern (Lexington-Hamburg)](https://jobright.ai/jobs/info/69e2acf43ce36005badbf364?utm_campaign=1058&utm_source=git)** | US-KY-Lexington | On Site | Apr 17 |
+| ↳ | **[Regional Support Intern (Lexington-Hamburg)](https://jobright.ai/jobs/info/69e2acdbbe46fa3a4ef583d9?utm_campaign=1058&utm_source=git)** | Lexington, KY, US | On Site | Apr 17 |
 | **[Winston Water Cooler, Ltd.](http://winstonwatercooler.com)** | **[Summer Intern](https://jobright.ai/jobs/info/69e29c765c44d4710fe25e7b?utm_campaign=1058&utm_source=git)** | Las Vegas, NV | On Site | Apr 17 |
 | **[St. Jude Children's Research Hospital - ALSAC](https://www.stjude.org)** | **[Intern- LeMoyne-Owen College Call Center (Spring/Summer 2026)](https://jobright.ai/jobs/info/69aa31342ebd316bece1f289?utm_campaign=1058&utm_source=git)** | Memphis, TN | On Site | Apr 17 |
 | **[RÖDL USA](http://www.roedl.us)** | **[Praktikant (w/m/d)](https://jobright.ai/jobs/info/67a4ce6df1a6c091c9da20ba?utm_campaign=1058&utm_source=git)** | Birmingham, AL | On Site | Apr 17 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69e271f23ce36005badbe381?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Apr 17 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69e272462f28653593076a95?utm_campaign=1058&utm_source=git)** | Elk Grove, CA | On Site | Apr 17 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69e271c25c44d4710fe253f5?utm_campaign=1058&utm_source=git)** | Plymouth, MA | On Site | Apr 17 |
-| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69e2723b2f28653593076a5b?utm_campaign=1058&utm_source=git)** | Plymouth, MA | On Site | Apr 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
