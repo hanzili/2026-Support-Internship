@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lawndale Elementary School District](https://www.lawndalesd.net/)** | **[SELPA Braille Transcriber I](https://jobright.ai/jobs/info/69e559c33aa0c47964390f25?utm_campaign=1058&utm_source=git)** | Lawndale, CA | On Site | Apr 19 |
 | **[Leviton](https://www.leviton.com)** | **[Intern, IT Infrastructure](https://jobright.ai/jobs/info/698fe5af6ea51a7610f24a5b?utm_campaign=1058&utm_source=git)** | Melville, NY | On Site | Apr 19 |
 | **[Canon Financial Services, Inc.](https://www.cfs.canon.com)** | **[2026 Canon Insights Summer Internship - Customer Service Support Intern](https://jobright.ai/jobs/info/69ab404a142d5b4265fc89d5?utm_campaign=1058&utm_source=git)** | Mount Laurel, NJ | Hybrid | Apr 19 |
 | **[FortisBC](https://www.fortisbc.com)** | **[Customer Service Representative](https://jobright.ai/jobs/info/693b93bcd4054a2bc02576f8?utm_campaign=1058&utm_source=git)** | Prince George, BC | On Site | Apr 19 |
@@ -143,7 +144,7 @@ For a complete list, click the following sortable link below:
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[IS Services & Support Intern (or Co-Op)](https://jobright.ai/jobs/info/69e2c6aefcfcbd43860a483a?utm_campaign=1058&utm_source=git)** | San Antonio, TX | On Site | Apr 17 |
 | **[Keck Medicine of USC](https://www.keckmedicine.org)** | **[Intern Pharmacist (Hospital) - Pharmacy - Per Diem 8 Hour Days (Non-Exempt) (Non-Union)](https://jobright.ai/jobs/info/69e32fe33ce36005badc09c5?utm_campaign=1058&utm_source=git)** | Los Angeles, CA | On Site | Apr 17 |
 | **[Sentry](https://link.sentry.com/Sentry-HomePage)** | **[Claims Intern](https://jobright.ai/jobs/info/69e34e7ffcfcbd43860a6519?utm_campaign=1058&utm_source=git)** | El Paso | On Site | Apr 17 |
-| ↳ | **[Claims Intern](https://jobright.ai/jobs/info/69e34e7cfcfcbd43860a6500?utm_campaign=1058&utm_source=git)** | Stevens Point, WI | On Site | Apr 17 |
+| ↳ | **[Claims Intern](https://jobright.ai/jobs/info/69e34e842f28653593079fbe?utm_campaign=1058&utm_source=git)** | Stevens Point, WI | On Site | Apr 17 |
 | **[Chestnut Health Systems](http://chestnut.org/)** | **[Behavioral Health Intern](https://jobright.ai/jobs/info/69e2b8ae3770bd5361cd9ca0?utm_campaign=1058&utm_source=git)** | Belleville, IL, US | On Site | Apr 17 |
 | **[ODP Business Solutions](https://odpbusiness.com)** | **[IT Intern (Onsite in Boca Raton, FL)](https://jobright.ai/jobs/info/69e337343ce36005badc126a?utm_campaign=1058&utm_source=git)** | 6600 North Military Trail, Boca Raton, FL, 33496, US | On Site | Apr 17 |
 | **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[Intern, Technical Support (Design Engineer)](https://jobright.ai/jobs/info/69e2b1d42f28653593077b5e?utm_campaign=1058&utm_source=git)** | Lincoln, NE | On Site | Apr 17 |
@@ -151,7 +152,6 @@ For a complete list, click the following sortable link below:
 | **[Gillette Stadium](http://www.gillettestadium.com/)** | **[Premium Services Intern](https://jobright.ai/jobs/info/69e4c1459b6eb37e26f7bad6?utm_campaign=1058&utm_source=git)** | NPS - Foxborough, MA 02035 | On Site | Apr 17 |
 | **[Navitus Health Solutions](https://www.navitus.com/)** | **[Clinical Intern, Specialty Pharmacy](https://jobright.ai/jobs/info/69e2ad3c5c44d4710fe264b7?utm_campaign=1058&utm_source=git)** | Scottsdale, AZ, US | On Site | Apr 17 |
 | ↳ | **[Clinical Intern, Specialty Pharmacy](https://jobright.ai/jobs/info/69e2ad373770bd5361cd98a9?utm_campaign=1058&utm_source=git)** | US-AZ-Scottsdale | On Site | Apr 17 |
-| **[Lawndale Elementary School District](https://www.lawndalesd.net/)** | **[SELPA Braille Transcriber I](https://jobright.ai/jobs/info/69e4fd4b3aa0c4796439091e?utm_campaign=1058&utm_source=git)** | Lawndale, CA | On Site | Apr 17 |
 | **[Dana Incorporated](https://www.dana.com/)** | **[IT Co-Op](https://jobright.ai/jobs/info/69e2aac92f28653593077708?utm_campaign=1058&utm_source=git)** | Novi, MI | On Site | Apr 17 |
 | **[UPMC](https://www.upmc.com/)** | **[Audiologist Intern](https://jobright.ai/jobs/info/69e2aa97fcfcbd43860a3c52?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | On Site | Apr 17 |
 | **[Centinela Hospital Medical Center](https://www.centinelamed.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69e2cddd5c44d4710fe26eba?utm_campaign=1058&utm_source=git)** | Inglewood, CA | On Site | Apr 17 |
