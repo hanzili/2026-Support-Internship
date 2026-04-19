@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Leviton](https://www.leviton.com)** | **[Intern, IT Infrastructure](https://jobright.ai/jobs/info/698fe5af6ea51a7610f24a5b?utm_campaign=1058&utm_source=git)** | Melville, NY | On Site | Apr 19 |
 | **[Canon Financial Services, Inc.](https://www.cfs.canon.com)** | **[2026 Canon Insights Summer Internship - Customer Service Support Intern](https://jobright.ai/jobs/info/69ab404a142d5b4265fc89d5?utm_campaign=1058&utm_source=git)** | Mount Laurel, NJ | Hybrid | Apr 19 |
 | **[FortisBC](https://www.fortisbc.com)** | **[Customer Service Representative](https://jobright.ai/jobs/info/693b93bcd4054a2bc02576f8?utm_campaign=1058&utm_source=git)** | Prince George, BC | On Site | Apr 19 |
 | **[Give Kids The World Village](https://www.gktw.org)** | **[Village Vacation Planning Services Internship](https://jobright.ai/jobs/info/69e501fbe0cd471b2f1223f5?utm_campaign=1058&utm_source=git)** | Give Kids The World - Kissimmee, FL 34746 | On Site | Apr 19 |
@@ -140,7 +141,7 @@ For a complete list, click the following sortable link below:
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[IS Services & Support Intern (or Co-Op)](https://jobright.ai/jobs/info/69e2c6aefcfcbd43860a483a?utm_campaign=1058&utm_source=git)** | San Antonio, TX | On Site | Apr 17 |
 | **[Keck Medicine of USC](https://www.keckmedicine.org)** | **[Intern Pharmacist (Hospital) - Pharmacy - Per Diem 8 Hour Days (Non-Exempt) (Non-Union)](https://jobright.ai/jobs/info/69e32fe33ce36005badc09c5?utm_campaign=1058&utm_source=git)** | Los Angeles, CA | On Site | Apr 17 |
 | **[Sentry](https://link.sentry.com/Sentry-HomePage)** | **[Claims Intern](https://jobright.ai/jobs/info/69e34e7ffcfcbd43860a6519?utm_campaign=1058&utm_source=git)** | El Paso | On Site | Apr 17 |
-| ↳ | **[Claims Intern](https://jobright.ai/jobs/info/69e34e842f28653593079fbe?utm_campaign=1058&utm_source=git)** | Stevens Point, WI | On Site | Apr 17 |
+| ↳ | **[Claims Intern](https://jobright.ai/jobs/info/69e34e7cfcfcbd43860a6500?utm_campaign=1058&utm_source=git)** | Stevens Point, WI | On Site | Apr 17 |
 | **[Chestnut Health Systems](http://chestnut.org/)** | **[Behavioral Health Intern](https://jobright.ai/jobs/info/69e2b8ae3770bd5361cd9ca0?utm_campaign=1058&utm_source=git)** | Belleville, IL, US | On Site | Apr 17 |
 | **[ODP Business Solutions](https://odpbusiness.com)** | **[IT Intern (Onsite in Boca Raton, FL)](https://jobright.ai/jobs/info/69e337343ce36005badc126a?utm_campaign=1058&utm_source=git)** | 6600 North Military Trail, Boca Raton, FL, 33496, US | On Site | Apr 17 |
 | **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[Intern, Technical Support (Design Engineer)](https://jobright.ai/jobs/info/69e2b1d42f28653593077b5e?utm_campaign=1058&utm_source=git)** | Lincoln, NE | On Site | Apr 17 |
@@ -154,7 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Centinela Hospital Medical Center](https://www.centinelamed.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69e2cddd5c44d4710fe26eba?utm_campaign=1058&utm_source=git)** | Inglewood, CA | On Site | Apr 17 |
 | **[Siemens Healthineers](https://www.siemens-healthineers.com)** | **[Customer Care Coordinator Internship](https://jobright.ai/jobs/info/69e2db86fcfcbd43860a4e1d?utm_campaign=1058&utm_source=git)** | Oakville, ON | On Site | Apr 17 |
 | **[Welldoc](https://www.welldoc.com)** | **[Clinical Intern](https://jobright.ai/jobs/info/69e2a5435c44d4710fe2600a?utm_campaign=1058&utm_source=git)** | Columbia, MD | Hybrid | Apr 17 |
-| **[St. Luke's University Health Network](http://www.slhn.org/)** | **[Graduate Nurse and Registered Nurse Critical Care Internship/Fellowship (Opportunities at All Campuses) Fall 2026 Cohort](https://jobright.ai/jobs/info/69e34e705c44d4710fe28b6a?utm_campaign=1058&utm_source=git)** | Orwigsburg, PA - 100 Paramount Blvd | On Site | Apr 17 |
-| ↳ | **[Graduate Nurse and Registered Nurse Critical Care Internship/Fellowship (Opportunities at All Campuses) Fall 2026 Cohort](https://jobright.ai/jobs/info/69e34e66fcfcbd43860a649d?utm_campaign=1058&utm_source=git)** | Allentown, PA - 1736 Hamilton St | On Site | Apr 17 |
+| **[St. Luke's University Health Network](http://www.slhn.org/)** | **[Graduate Nurse and Registered Nurse Critical Care Internship/Fellowship (Opportunities at All Campuses) Fall 2026 Cohort](https://jobright.ai/jobs/info/69e34e6fbe46fa3a4ef5a99b?utm_campaign=1058&utm_source=git)** | Quakertown, PA - 3000 John Fries Highway | On Site | Apr 17 |
 | ↳ | **[Graduate Nurse and Registered Nurse Critical Care Internship/Fellowship (Opportunities at All Campuses) Fall 2026 Cohort](https://jobright.ai/jobs/info/69e34e662f28653593079f23?utm_campaign=1058&utm_source=git)** | Sellersville, PA - 700 Lawn Ave | On Site | Apr 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
