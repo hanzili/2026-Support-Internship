@@ -57,12 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE - CRNA Internship](https://jobright.ai/jobs/info/69e5eebfe0cd471b2f1231b0?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Apr 20 |
+| ↳ | **[REGISTERED NURSE - CRNA Internship](https://jobright.ai/jobs/info/69e5eeaf7820c036924cdd4b?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Apr 20 |
 | **[U.S. Bank](http://www.usbank.com)** | **[Contact Center Customer Experience Specialist - PrePaid (Spanish Preferred)](https://jobright.ai/jobs/info/69d80a7bb67cec4f9b09a22e?utm_campaign=1058&utm_source=git)** | United States | Remote | Apr 20 |
-| **[University of Guelph](http://www.uoguelph.ca/)** | **[Client Services Clerk](https://jobright.ai/jobs/info/69dc95f1738f2f099e8b1fe8?utm_campaign=1058&utm_source=git)** | Guelph, ON | On Site | Apr 19 |
+| **[University of Guelph](http://www.uoguelph.ca/)** | **[Client Services Clerk](https://jobright.ai/jobs/info/69e5ee683aa0c47964391779?utm_campaign=1058&utm_source=git)** | Guelph, Ontario, Canada | On Site | Apr 19 |
+| ↳ | **[Client Services Clerk](https://jobright.ai/jobs/info/69dc95f1738f2f099e8b1fe8?utm_campaign=1058&utm_source=git)** | Guelph, ON | On Site | Apr 19 |
+| **[Give Kids The World Village](https://www.gktw.org)** | **[Village Vacation Planning Services Internship](https://jobright.ai/jobs/info/69e5eebb3aa0c479643918d3?utm_campaign=1058&utm_source=git)** | Kissimmee, FL | On Site | Apr 19 |
+| ↳ | **[Information Technology Internship](https://jobright.ai/jobs/info/69e5eed5f8fa2f3ec329f2e5?utm_campaign=1058&utm_source=git)** | Kissimmee, FL | On Site | Apr 19 |
+| **[SA Hospitality Group](http://www.sahospitalitygroup.com)** | **[FOH - Host Person (New Restaurant Opening - 220 5th Avenue)](https://jobright.ai/jobs/info/69e5ee61e0cd471b2f123047?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Apr 19 |
 | **[Lawndale Elementary School District](https://www.lawndalesd.net/)** | **[SELPA Braille Transcriber I](https://jobright.ai/jobs/info/69e559c33aa0c47964390f25?utm_campaign=1058&utm_source=git)** | Lawndale, CA | On Site | Apr 19 |
+| **[Survitec Group Ltd.](http://survitecgroup.com/)** | **[Apprentice Service Technician](https://jobright.ai/jobs/info/69e5ee8b7820c036924cdcce?utm_campaign=1058&utm_source=git)** | Delta, British Columbia, Canada | On Site | Apr 19 |
 | **[Leviton](https://www.leviton.com)** | **[Intern, IT Infrastructure](https://jobright.ai/jobs/info/698fe5af6ea51a7610f24a5b?utm_campaign=1058&utm_source=git)** | Melville, NY | On Site | Apr 19 |
 | **[Canon Financial Services, Inc.](https://www.cfs.canon.com)** | **[2026 Canon Insights Summer Internship - Customer Service Support Intern](https://jobright.ai/jobs/info/69ab404a142d5b4265fc89d5?utm_campaign=1058&utm_source=git)** | Mount Laurel, NJ | Hybrid | Apr 19 |
-| **[FortisBC](https://www.fortisbc.com)** | **[Customer Service Representative](https://jobright.ai/jobs/info/693b93bcd4054a2bc02576f8?utm_campaign=1058&utm_source=git)** | Prince George, BC | On Site | Apr 19 |
+| **[FortisBC](https://www.fortisbc.com)** | **[Customer Service Representative](https://jobright.ai/jobs/info/693b93bcd4054a2bc02576f8?utm_campaign=1058&utm_source=git)** | Prince George, British Columbia, Canada | On Site | Apr 19 |
+| **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Access Your Future Service Intern](https://jobright.ai/jobs/info/69e5f65b3cfd986aa6f8322e?utm_campaign=1058&utm_source=git)** | Irving, TX | On Site | Apr 19 |
 | **[Give Kids The World Village](https://www.gktw.org)** | **[Village Vacation Planning Services Internship](https://jobright.ai/jobs/info/69e501fbe0cd471b2f1223f5?utm_campaign=1058&utm_source=git)** | Give Kids The World - Kissimmee, FL 34746 | On Site | Apr 19 |
 | ↳ | **[Information Technology Internship](https://jobright.ai/jobs/info/69e4ff5fe0cd471b2f1223e8?utm_campaign=1058&utm_source=git)** | Give Kids The World - Kissimmee, FL 34746 | On Site | Apr 19 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE - CRNA Internship](https://jobright.ai/jobs/info/69e4fd663aa0c4796439099a?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Apr 19 |
@@ -91,7 +99,6 @@ For a complete list, click the following sortable link below:
 | **[Kent Outdoors](https://kentoutdoors.co/)** | **[Customer Service Representative Internship](https://jobright.ai/jobs/info/69d9cd89f748bc5d08a4e587?utm_campaign=1058&utm_source=git)** | Bend, OR | On Site | Apr 18 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Respiratory Therapy Intern](https://jobright.ai/jobs/info/690992784a1b456627b01d83?utm_campaign=1058&utm_source=git)** | Tulsa, OK | On Site | Apr 18 |
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Access Your Future Service Intern](https://jobright.ai/jobs/info/69dff598433ac8430e0e35c4?utm_campaign=1058&utm_source=git)** | Grand Forks, ND | On Site | Apr 18 |
-| **[Lumentum](https://www.lumentum.com/en)** | **[Customer Quality Intern](https://jobright.ai/jobs/info/69d5f549cfdc6132f946784b?utm_campaign=1058&utm_source=git)** | San Jose, CA | On Site | Apr 18 |
 | **[Auctane](https://auctane.com/)** | **[Salesforce Administrator Intern](https://jobright.ai/jobs/info/69c6ae34aa3c2c1995e113d1?utm_campaign=1058&utm_source=git)** | Austin, TX | Hybrid | Apr 18 |
 | **[RÖDL USA](http://www.roedl.us)** | **[Praktikant (w/m/d)](https://jobright.ai/jobs/info/68cd9657b2a74e1837ed9323?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Apr 18 |
 | **[Reliance Matrix](https://reliancematrix.com)** | **[Client Service Trainee Program](https://jobright.ai/jobs/info/69aa15f49ca4e908ec6561b8?utm_campaign=1058&utm_source=git)** | Schaumburg, IL | On Site | Apr 18 |
@@ -149,12 +156,5 @@ For a complete list, click the following sortable link below:
 | **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Warehouse Associate](https://jobright.ai/jobs/info/69e2c6b3be46fa3a4ef58c2e?utm_campaign=1058&utm_source=git)** | Greater Columbia, Missouri Area | On Site | Apr 17 |
 | **[Keck Medicine of USC](https://www.keckmedicine.org)** | **[Intern Pharmacist (Hospital) - Pharmacy - Per Diem 8 Hour Days (Non-Exempt) (Non-Union)](https://jobright.ai/jobs/info/69e32fe33ce36005badc09c5?utm_campaign=1058&utm_source=git)** | Los Angeles, CA | On Site | Apr 17 |
 | **[Sentry](https://link.sentry.com/Sentry-HomePage)** | **[Claims Intern](https://jobright.ai/jobs/info/69e34e7ffcfcbd43860a6519?utm_campaign=1058&utm_source=git)** | El Paso | On Site | Apr 17 |
-| ↳ | **[Claims Intern](https://jobright.ai/jobs/info/69e34e842f28653593079fbe?utm_campaign=1058&utm_source=git)** | Stevens Point, WI | On Site | Apr 17 |
-| **[Chestnut Health Systems](http://chestnut.org/)** | **[Behavioral Health Intern](https://jobright.ai/jobs/info/69e2b8ae3770bd5361cd9ca0?utm_campaign=1058&utm_source=git)** | Belleville, IL, US | On Site | Apr 17 |
-| **[ODP Business Solutions](https://odpbusiness.com)** | **[IT Intern (Onsite in Boca Raton, FL)](https://jobright.ai/jobs/info/69e337343ce36005badc126a?utm_campaign=1058&utm_source=git)** | 6600 North Military Trail, Boca Raton, FL, 33496, US | On Site | Apr 17 |
-| **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[Intern, Technical Support (Design Engineer)](https://jobright.ai/jobs/info/69e2b1d42f28653593077b5e?utm_campaign=1058&utm_source=git)** | Lincoln, NE | On Site | Apr 17 |
-| **[PulseSync Pte Ltd](http://pulsesync.com/)** | **[Intern (Support) – SG](https://jobright.ai/jobs/info/69e2db5dbe46fa3a4ef59307?utm_campaign=1058&utm_source=git)** | Lane County, OR | On Site | Apr 17 |
-| **[Gillette Stadium](http://www.gillettestadium.com/)** | **[Premium Services Intern](https://jobright.ai/jobs/info/69e4c1459b6eb37e26f7bad6?utm_campaign=1058&utm_source=git)** | NPS - Foxborough, MA 02035 | On Site | Apr 17 |
-| **[Navitus Health Solutions](https://www.navitus.com/)** | **[Clinical Intern, Specialty Pharmacy](https://jobright.ai/jobs/info/69e2ad3c5c44d4710fe264b7?utm_campaign=1058&utm_source=git)** | Scottsdale, AZ, US | On Site | Apr 17 |
-| ↳ | **[Clinical Intern, Specialty Pharmacy](https://jobright.ai/jobs/info/69e2ad373770bd5361cd98a9?utm_campaign=1058&utm_source=git)** | US-AZ-Scottsdale | On Site | Apr 17 |
+| ↳ | **[Claims Intern](https://jobright.ai/jobs/info/69e34e7cfcfcbd43860a6500?utm_campaign=1058&utm_source=git)** | Stevens Point, WI | On Site | Apr 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
