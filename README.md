@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[U.S. Bank](http://www.usbank.com)** | **[Contact Center Customer Experience Specialist - PrePaid (Spanish Preferred)](https://jobright.ai/jobs/info/69d80a7bb67cec4f9b09a22e?utm_campaign=1058&utm_source=git)** | United States | Remote | Apr 20 |
 | **[University of Guelph](http://www.uoguelph.ca/)** | **[Client Services Clerk](https://jobright.ai/jobs/info/69dc95f1738f2f099e8b1fe8?utm_campaign=1058&utm_source=git)** | Guelph, ON | On Site | Apr 19 |
 | **[Lawndale Elementary School District](https://www.lawndalesd.net/)** | **[SELPA Braille Transcriber I](https://jobright.ai/jobs/info/69e559c33aa0c47964390f25?utm_campaign=1058&utm_source=git)** | Lawndale, CA | On Site | Apr 19 |
 | **[Leviton](https://www.leviton.com)** | **[Intern, IT Infrastructure](https://jobright.ai/jobs/info/698fe5af6ea51a7610f24a5b?utm_campaign=1058&utm_source=git)** | Melville, NY | On Site | Apr 19 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Gillette Stadium](http://www.gillettestadium.com/)** | **[Premium Services Intern](https://jobright.ai/jobs/info/69e4c1459b6eb37e26f7bad6?utm_campaign=1058&utm_source=git)** | NPS - Foxborough, MA 02035 | On Site | Apr 17 |
 | **[Navitus Health Solutions](https://www.navitus.com/)** | **[Clinical Intern, Specialty Pharmacy](https://jobright.ai/jobs/info/69e2ad3c5c44d4710fe264b7?utm_campaign=1058&utm_source=git)** | Scottsdale, AZ, US | On Site | Apr 17 |
 | ↳ | **[Clinical Intern, Specialty Pharmacy](https://jobright.ai/jobs/info/69e2ad373770bd5361cd98a9?utm_campaign=1058&utm_source=git)** | US-AZ-Scottsdale | On Site | Apr 17 |
-| **[Dana Incorporated](https://www.dana.com/)** | **[IT Co-Op](https://jobright.ai/jobs/info/69e2aac92f28653593077708?utm_campaign=1058&utm_source=git)** | Novi, MI | On Site | Apr 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
