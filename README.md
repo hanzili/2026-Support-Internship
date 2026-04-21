@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CHRISTUS Health](https://www.christushealth.org/santa-rosa)** | **[Nurse Extern I - Nursing Internship - PRN](https://jobright.ai/jobs/info/69cb4c148fc6090c5d456904?utm_campaign=1058&utm_source=git)** | Shreveport, LA | On Site | Apr 21 |
+| **[Aman](https://www.aman.com/)** | **[Food & Beverage 12 month Intern - Amangiri](https://jobright.ai/jobs/info/69af32896b21de023e605ca6?utm_campaign=1058&utm_source=git)** | Page, AZ | On Site | Apr 21 |
+| **[Pearson](https://www.pearson.com/)** | **[Test Center Administrator (Dayton, OH)](https://jobright.ai/jobs/info/69d1edf5366bb95ba552a85b?utm_campaign=1058&utm_source=git)** | Dayton, OH | On Site | Apr 21 |
 | **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE - CRNA Internship](https://jobright.ai/jobs/info/69e74f91f8fa2f3ec32a6f1c?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Apr 21 |
 | ↳ | **[REGISTERED NURSE - CRNA Internship](https://jobright.ai/jobs/info/69e74f883aa0c47964399499?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Apr 21 |
 | **[CHRISTUS Health](https://www.christushealth.org/santa-rosa)** | **[Nurse Extern I-Nursing Internship-PRN](https://jobright.ai/jobs/info/69cb4c25aa3c2c1995e35c61?utm_campaign=1058&utm_source=git)** | Shreveport, LA | On Site | Apr 21 |
@@ -109,8 +112,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69e6cf4d9b6eb37e26f82233?utm_campaign=1058&utm_source=git)** | Collegeville, PA | On Site | Apr 20 |
 | ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/69e6cf407820c036924d24dc?utm_campaign=1058&utm_source=git)** | Beckley, WV | On Site | Apr 20 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69e6cf3f7820c036924d24d7?utm_campaign=1058&utm_source=git)** | Wyckoff, NJ | On Site | Apr 20 |
-| **[Ticketmaster](https://www.ticketmaster.com)** | **[Client Operations Internship](https://jobright.ai/jobs/info/69e6c7033aa0c47964395e20?utm_campaign=1058&utm_source=git)** | Beverly Hills, CA | On Site | Apr 20 |
-| ↳ | **[Client Operations Internship](https://jobright.ai/jobs/info/69e6c7033aa0c47964395e22?utm_campaign=1058&utm_source=git)** | Nashville, TN | On Site | Apr 20 |
+| **[Ticketmaster](https://www.ticketmaster.com)** | **[Client Operations Internship](https://jobright.ai/jobs/info/69e6c7033aa0c47964395e22?utm_campaign=1058&utm_source=git)** | Nashville, TN | On Site | Apr 20 |
+| ↳ | **[Client Operations Internship](https://jobright.ai/jobs/info/69e6c7033aa0c47964395e20?utm_campaign=1058&utm_source=git)** | Beverly Hills, CA | On Site | Apr 20 |
 | **[Xometry](https://www.xometry.com)** | **[IT Service Desk Intern](https://jobright.ai/jobs/info/69acaada2747003c3d524801?utm_campaign=1058&utm_source=git)** | North Bethesda, MD | Hybrid | Apr 20 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69e6f911e0cd471b2f12812e?utm_campaign=1058&utm_source=git)** | Levittown, PA | On Site | Apr 20 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69e6f9383aa0c47964396929?utm_campaign=1058&utm_source=git)** | Youngstown, OH | On Site | Apr 20 |
@@ -139,8 +142,8 @@ For a complete list, click the following sortable link below:
 | **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse II - Full-Time Nights](https://jobright.ai/jobs/info/69e6aae83cfd986aa6f87233?utm_campaign=1058&utm_source=git)** | 1201 Bishop Street, Union City, TN, 38261, US | On Site | Apr 20 |
 | **[Chestnut Health Systems](http://chestnut.org/)** | **[Behavioral Health Intern](https://jobright.ai/jobs/info/69e2b8ae3770bd5361cd9ca0?utm_campaign=1058&utm_source=git)** | Belleville, IL, US | On Site | Apr 20 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Client Operations Internship](https://jobright.ai/jobs/info/69e6a580e0cd471b2f126f57?utm_campaign=1058&utm_source=git)** | New York, NY, USA | On Site | Apr 20 |
-| ↳ | **[Client Operations Internship](https://jobright.ai/jobs/info/69e6a556f8fa2f3ec32a316a?utm_campaign=1058&utm_source=git)** | Nashville, TN, USA | On Site | Apr 20 |
 | ↳ | **[Client Operations Internship](https://jobright.ai/jobs/info/69e6a556f8fa2f3ec32a316d?utm_campaign=1058&utm_source=git)** | Beverly Hills, CA, USA | On Site | Apr 20 |
+| ↳ | **[Client Operations Internship](https://jobright.ai/jobs/info/69e6a556f8fa2f3ec32a316a?utm_campaign=1058&utm_source=git)** | Nashville, TN, USA | On Site | Apr 20 |
 | ↳ | **[Client Operations Internship](https://jobright.ai/jobs/info/69e6a5233cfd986aa6f87105?utm_campaign=1058&utm_source=git)** | Toronto, ON, CA | On Site | Apr 20 |
 | **[Lawndale Elementary School District](https://www.lawndalesd.net/)** | **[SELPA Braille Transcriber I](https://jobright.ai/jobs/info/69e6d596e0cd471b2f1279b9?utm_campaign=1058&utm_source=git)** | Lawndale, CA | On Site | Apr 20 |
 | **[Cruise Planners HQ](http://www.cruiseplanners.com)** | **[CP Intern](https://jobright.ai/jobs/info/69e70b9ee0cd471b2f12828e?utm_campaign=1058&utm_source=git)** | Coral Springs, FL | On Site | Apr 20 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Michigan State University](http://msu.edu)** | **[Intern-Fixed Term](https://jobright.ai/jobs/info/69e6917b3aa0c47964394e93?utm_campaign=1058&utm_source=git)** | East Lansing, MI | On Site | Apr 20 |
 | **[Harvey Performance Company](https://www.harveyperformance.com)** | **[Helpdesk Intern](https://jobright.ai/jobs/info/69e691623aa0c47964394e14?utm_campaign=1058&utm_source=git)** | Rowley, MA | On Site | Apr 20 |
 | **[McLaren Health Care](http://www.mclaren.org)** | **[Imaging Intern](https://jobright.ai/jobs/info/69e6914c3cfd986aa6f8684c?utm_campaign=1058&utm_source=git)** | Pontiac, MI | On Site | Apr 20 |
-| **[The Andersons, Inc.](http://www.andersonsinc.com)** | **[Customer Service Intern (Summer 2026)](https://jobright.ai/jobs/info/69e746ede0cd471b2f12aaa3?utm_campaign=1058&utm_source=git)** | Maumee, OH | On Site | Apr 20 |
-| **[Ascension](https://healthcare.ascension.org)** | **[Student Nurse Intern](https://jobright.ai/jobs/info/699038e90cc8ea15f1daf98d?utm_campaign=1058&utm_source=git)** | US-IN-Evansville | On Site | Apr 20 |
-| ↳ | **[Nurse Intern Senior Behavioral Health](https://jobright.ai/jobs/info/69d85dd1f4ea471a51fe5466?utm_campaign=1058&utm_source=git)** | Wichita, KS | On Site | Apr 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
