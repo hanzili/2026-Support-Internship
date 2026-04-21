@@ -57,7 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Notre Dame](http://mendoza.nd.edu)** | **[IT Support Assistant](https://jobright.ai/jobs/info/69e77e093aa0c4796439a450?utm_campaign=1058&utm_source=git)** | Notre Dame, IN | On Site | Apr 21 |
+| **[Yaskawa America, Inc. -  Drives & Motion Division](https://www.yaskawa.com/)** | **[IT Help Desk Intern](https://jobright.ai/jobs/info/69aef53cdfaeda6ff596f974?utm_campaign=1058&utm_source=git)** | Waukegan, IL | On Site | Apr 21 |
+| **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[Intern, Technical Support (Engineering Intern)](https://jobright.ai/jobs/info/69af3432749500645093b30f?utm_campaign=1058&utm_source=git)** | Springboro, OH | On Site | Apr 21 |
+| **[Starz](http://www.starz.com/)** | **[STARZ Intern, IT Support](https://jobright.ai/jobs/info/69965d7181476f6176ae2bf7?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Apr 21 |
+| ↳ | **[Starz Intern, IT Support](https://jobright.ai/jobs/info/699658b1ce78e77b4fda5ed2?utm_campaign=1058&utm_source=git)** | Santa Monica, CA | On Site | Apr 21 |
+| **[Drawbridge](https://drawbridgeco.com/)** | **[Client Services Intern, Hybrid: 3 days in office and 2 days remote](https://jobright.ai/jobs/info/69e77a320a6e09555302a875?utm_campaign=1058&utm_source=git)** | New York, NY | Hybrid | Apr 21 |
 | **[BillionToOne](https://www.billiontoone.com)** | **[Client Services Intern (Prenatal)](https://jobright.ai/jobs/info/69cb5a5daa3c2c1995e364c9?utm_campaign=1058&utm_source=git)** | Union City, CA | On Site | Apr 21 |
+| **[IDEXX](http://www.idexx.com)** | **[IT Help Desk Intern](https://jobright.ai/jobs/info/69caee36aa3c2c1995e31e27?utm_campaign=1058&utm_source=git)** | Westbrook, ME | On Site | Apr 21 |
+| **[Motion](https://www.motion.com)** | **[Global Services Intern](https://jobright.ai/jobs/info/69b38850ae2a534885eaf330?utm_campaign=1058&utm_source=git)** | Birmingham, AL | On Site | Apr 21 |
 | **[Direct Supply](http://www.directsupply.com)** | **[Client Support Intern](https://jobright.ai/jobs/info/69e76ab70a6e09555302a569?utm_campaign=1058&utm_source=git)** | Milwaukee, WI | On Site | Apr 21 |
 | **[Pearson](https://www.pearson.com/)** | **[Test Center Administrator (Dayton, OH)](https://jobright.ai/jobs/info/69d1edf5366bb95ba552a85b?utm_campaign=1058&utm_source=git)** | Dayton, OH | On Site | Apr 21 |
 | **[Stop & Shop](http://stopandshop.com)** | **[PT Pharmacy Intern - Pharmacy - 0718](https://jobright.ai/jobs/info/69e765387820c036924d633b?utm_campaign=1058&utm_source=git)** | 91 Point Judith Rd, Narragansett, RI, USA | On Site | Apr 21 |
@@ -65,11 +73,11 @@ For a complete list, click the following sortable link below:
 | **[CHRISTUS Health](https://www.christushealth.org/santa-rosa)** | **[Nurse Extern I - Nursing Internship - PRN](https://jobright.ai/jobs/info/69cb4c148fc6090c5d456904?utm_campaign=1058&utm_source=git)** | Shreveport, LA | On Site | Apr 21 |
 | **[Saint Luke's](https://www.saintlukeskc.org)** | **[Pharmacy Intern Year 1](https://jobright.ai/jobs/info/69cba024cdb525785fb77a92?utm_campaign=1058&utm_source=git)** | Kansas City, MO | On Site | Apr 21 |
 | **[Legends Global](http://legends.net)** | **[Hospitality Intern - Huntington Bank Pavilion](https://jobright.ai/jobs/info/69af51296b21de023e608004?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Apr 21 |
-| **[Starz](http://www.starz.com/)** | **[Starz Intern, IT Support](https://jobright.ai/jobs/info/699658b1ce78e77b4fda5ed2?utm_campaign=1058&utm_source=git)** | Santa Monica, CA | On Site | Apr 21 |
 | **[Aman](https://www.aman.com/)** | **[Food & Beverage 12 month Intern - Amangiri](https://jobright.ai/jobs/info/69af32896b21de023e605ca6?utm_campaign=1058&utm_source=git)** | Page, AZ | On Site | Apr 21 |
 | **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE - CRNA Internship](https://jobright.ai/jobs/info/69e74f91f8fa2f3ec32a6f1c?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Apr 21 |
 | ↳ | **[REGISTERED NURSE - CRNA Internship](https://jobright.ai/jobs/info/69e74f883aa0c47964399499?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Apr 21 |
 | **[CHRISTUS Health](https://www.christushealth.org/santa-rosa)** | **[Nurse Extern I-Nursing Internship-PRN](https://jobright.ai/jobs/info/69cb4c25aa3c2c1995e35c61?utm_campaign=1058&utm_source=git)** | Shreveport, LA | On Site | Apr 21 |
+| **[University of Michigan](https://www.umich.edu)** | **[PHARM INTERN TECH (TEMP)](https://jobright.ai/jobs/info/69e7642c3aa0c47964399d6b?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Apr 21 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69e74053f8fa2f3ec32a6b15?utm_campaign=1058&utm_source=git)** | Kennebunk, ME | On Site | Apr 21 |
 | **[Everett Public Schools](https://www.everettsd.org/)** | **[Invitation ONLY- 2025-26 Current Student Interns: Substitute Cert](https://jobright.ai/jobs/info/69e73a3c3aa0c47964399023?utm_campaign=1058&utm_source=git)** | Everett, WA | On Site | Apr 21 |
 | **[U.S. Customs and Border Protection](http://www.cbp.gov)** | **[Information Technology Specialist](https://jobright.ai/jobs/info/69e739f2f8fa2f3ec32a6aac?utm_campaign=1058&utm_source=git)** | Riverside, CA | On Site | Apr 21 |
@@ -94,7 +102,6 @@ For a complete list, click the following sortable link below:
 | **[Action Behavior Centers - ABA Therapy for Autism](https://www.actionbehavior.com)** | **[Clinic Admissions Associate](https://jobright.ai/jobs/info/69e6f91e7820c036924d2d85?utm_campaign=1058&utm_source=git)** | Mesa, AZ | On Site | Apr 20 |
 | **[CareMed Specialty Pharmacy](https://caremedsp.com)** | **[Part-Time Pharmacy Intern](https://jobright.ai/jobs/info/69e6f1ccf8fa2f3ec32a4271?utm_campaign=1058&utm_source=git)** | New Hyde Park, NY | On Site | Apr 20 |
 | **[Medica](https://www.medica.com)** | **[Sales Support Intern](https://jobright.ai/jobs/info/69e6f1663aa0c4796439680c?utm_campaign=1058&utm_source=git)** | Hopkins, MN | Hybrid | Apr 20 |
-| **[Starz](http://www.starz.com/)** | **[STARZ Intern, IT Support](https://jobright.ai/jobs/info/69965d7181476f6176ae2bf7?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Apr 20 |
 | **[SSP](http://mysspusa.com)** | **[IT Internship](https://jobright.ai/jobs/info/69e6ec75e0cd471b2f127da5?utm_campaign=1058&utm_source=git)** | Twinsburg, OH | On Site | Apr 20 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69e6ec71e0cd471b2f127d8b?utm_campaign=1058&utm_source=git)** | Ringwood, NJ | On Site | Apr 20 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/69e6ec70e0cd471b2f127d88?utm_campaign=1058&utm_source=git)** | Philadelphia, PA | On Site | Apr 20 |
@@ -134,7 +141,8 @@ For a complete list, click the following sortable link below:
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69e746eae0cd471b2f12aa98?utm_campaign=1058&utm_source=git)** | Cleveland, OH | On Site | Apr 20 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69e746f87820c036924d573c?utm_campaign=1058&utm_source=git)** | Ramsey, NJ | On Site | Apr 20 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69e746ff3aa0c4796439923e?utm_campaign=1058&utm_source=git)** | Doylestown, PA | On Site | Apr 20 |
-| ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/69dc9648738f2f099e8b2096?utm_campaign=1058&utm_source=git)** | Torrance, CA | On Site | Apr 20 |
+| **[ofi North America (Olam Food Ingredients)](http://www.ofi.com)** | **[Summer 2026 Intern: Customer Service Operations Strategy](https://jobright.ai/jobs/info/69e77dfb0a6e09555302abe7?utm_campaign=1058&utm_source=git)** | Oxnard, CA | On Site | Apr 20 |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/69dc9648738f2f099e8b2096?utm_campaign=1058&utm_source=git)** | Torrance, CA | On Site | Apr 20 |
 | **[Direct Supply](http://www.directsupply.com)** | **[Client Support Intern](https://jobright.ai/jobs/info/69e6b42ae0cd471b2f127352?utm_campaign=1058&utm_source=git)** | Milwaukee, WI | On Site | Apr 20 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Omni Cares Internship / OCI](https://jobright.ai/jobs/info/69e6b3cf9b6eb37e26f81c39?utm_campaign=1058&utm_source=git)** | Miami-FTL Area | On Site | Apr 20 |
 | **[Nationwide Children's Hospital](http://www.nationwidechildrens.org)** | **[Intern-IS Desktop Services](https://jobright.ai/jobs/info/69e6b37e3aa0c47964395ad4?utm_campaign=1058&utm_source=git)** | Columbus, OH | On Site | Apr 20 |
@@ -146,15 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse II - Full-Time Nights](https://jobright.ai/jobs/info/69e6aae83cfd986aa6f87233?utm_campaign=1058&utm_source=git)** | 1201 Bishop Street, Union City, TN, 38261, US | On Site | Apr 20 |
 | **[Chestnut Health Systems](http://chestnut.org/)** | **[Behavioral Health Intern](https://jobright.ai/jobs/info/69e2b8ae3770bd5361cd9ca0?utm_campaign=1058&utm_source=git)** | Belleville, IL, US | On Site | Apr 20 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Client Operations Internship](https://jobright.ai/jobs/info/69e6a580e0cd471b2f126f57?utm_campaign=1058&utm_source=git)** | New York, NY, USA | On Site | Apr 20 |
-| ↳ | **[Client Operations Internship](https://jobright.ai/jobs/info/69e6a556f8fa2f3ec32a316d?utm_campaign=1058&utm_source=git)** | Beverly Hills, CA, USA | On Site | Apr 20 |
 | ↳ | **[Client Operations Internship](https://jobright.ai/jobs/info/69e6a556f8fa2f3ec32a316a?utm_campaign=1058&utm_source=git)** | Nashville, TN, USA | On Site | Apr 20 |
+| ↳ | **[Client Operations Internship](https://jobright.ai/jobs/info/69e6a556f8fa2f3ec32a316d?utm_campaign=1058&utm_source=git)** | Beverly Hills, CA, USA | On Site | Apr 20 |
 | ↳ | **[Client Operations Internship](https://jobright.ai/jobs/info/69e6a5233cfd986aa6f87105?utm_campaign=1058&utm_source=git)** | Toronto, ON, CA | On Site | Apr 20 |
-| **[Lawndale Elementary School District](https://www.lawndalesd.net/)** | **[SELPA Braille Transcriber I](https://jobright.ai/jobs/info/69e6d596e0cd471b2f1279b9?utm_campaign=1058&utm_source=git)** | Lawndale, CA | On Site | Apr 20 |
-| **[Cruise Planners HQ](http://www.cruiseplanners.com)** | **[CP Intern](https://jobright.ai/jobs/info/69e70b9ee0cd471b2f12828e?utm_campaign=1058&utm_source=git)** | Coral Springs, FL | On Site | Apr 20 |
-| **[FusionTek](https://www.fusiontek.com)** | **[IT Support Internship](https://jobright.ai/jobs/info/69e69ebb3cfd986aa6f86f0c?utm_campaign=1058&utm_source=git)** | Arlington, VA | On Site | Apr 20 |
-| **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY/PHARMCST-INTERN (083)](https://jobright.ai/jobs/info/69e69e8f3cfd986aa6f86e2b?utm_campaign=1058&utm_source=git)** | Derby, KS | On Site | Apr 20 |
-| **[Shelter Insurance Companies](https://www.shelterinsurance.com/)** | **[Cultivate Intern - Auto Physical Damage Claims](https://jobright.ai/jobs/info/69e69e557820c036924d181d?utm_campaign=1058&utm_source=git)** | Columbia, MO - Corporate Office | On Site | Apr 20 |
-| **[Children's Wisconsin](https://childrenswi.org/)** | **[High School Intern Clinical](https://jobright.ai/jobs/info/69e69dfce0cd471b2f126bd2?utm_campaign=1058&utm_source=git)** | Appleton, WI | On Site | Apr 20 |
-| **[International Rescue Committee](http://www.rescue.org)** | **[Extended Services Intern](https://jobright.ai/jobs/info/69e697def8fa2f3ec32a2bb5?utm_campaign=1058&utm_source=git)** | Baltimore, MD USA | Hybrid | Apr 20 |
-| **[Oklahoma Medical Research Foundation](http://www.omrf.org)** | **[IT Operations & Infrastructure Intern (temporary)](https://jobright.ai/jobs/info/69e691af3cfd986aa6f86910?utm_campaign=1058&utm_source=git)** | Oklahoma City, OK | On Site | Apr 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
