@@ -111,10 +111,11 @@ For a complete list, click the following sortable link below:
 | **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse II - Full-Time Nights](https://jobright.ai/jobs/info/69e6aae83cfd986aa6f87233?utm_campaign=1058&utm_source=git)** | 1201 Bishop Street, Union City, TN, 38261, US | On Site | Apr 20 |
 | **[Chestnut Health Systems](http://chestnut.org/)** | **[Behavioral Health Intern](https://jobright.ai/jobs/info/69e2b8ae3770bd5361cd9ca0?utm_campaign=1058&utm_source=git)** | Belleville, IL, US | On Site | Apr 20 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Client Operations Internship](https://jobright.ai/jobs/info/69e6a580e0cd471b2f126f57?utm_campaign=1058&utm_source=git)** | New York, NY, USA | On Site | Apr 20 |
-| ↳ | **[Client Operations Internship](https://jobright.ai/jobs/info/69e6a556f8fa2f3ec32a316d?utm_campaign=1058&utm_source=git)** | Beverly Hills, CA, USA | On Site | Apr 20 |
 | ↳ | **[Client Operations Internship](https://jobright.ai/jobs/info/69e6a556f8fa2f3ec32a316a?utm_campaign=1058&utm_source=git)** | Nashville, TN, USA | On Site | Apr 20 |
+| ↳ | **[Client Operations Internship](https://jobright.ai/jobs/info/69e6a556f8fa2f3ec32a316d?utm_campaign=1058&utm_source=git)** | Beverly Hills, CA, USA | On Site | Apr 20 |
 | ↳ | **[Client Operations Internship](https://jobright.ai/jobs/info/69e6a5233cfd986aa6f87105?utm_campaign=1058&utm_source=git)** | Toronto, ON, CA | On Site | Apr 20 |
 | **[Lawndale Elementary School District](https://www.lawndalesd.net/)** | **[SELPA Braille Transcriber I](https://jobright.ai/jobs/info/69e6d596e0cd471b2f1279b9?utm_campaign=1058&utm_source=git)** | Lawndale, CA | On Site | Apr 20 |
+| **[Cruise Planners HQ](http://www.cruiseplanners.com)** | **[CP Intern](https://jobright.ai/jobs/info/69e70b9ee0cd471b2f12828e?utm_campaign=1058&utm_source=git)** | Coral Springs, FL | On Site | Apr 20 |
 | **[FusionTek](https://www.fusiontek.com)** | **[IT Support Internship](https://jobright.ai/jobs/info/69e69ebb3cfd986aa6f86f0c?utm_campaign=1058&utm_source=git)** | Arlington, VA | On Site | Apr 20 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY/PHARMCST-INTERN (083)](https://jobright.ai/jobs/info/69e69e8f3cfd986aa6f86e2b?utm_campaign=1058&utm_source=git)** | Derby, KS | On Site | Apr 20 |
 | **[Shelter Insurance Companies](https://www.shelterinsurance.com/)** | **[Cultivate Intern - Auto Physical Damage Claims](https://jobright.ai/jobs/info/69e69e557820c036924d181d?utm_campaign=1058&utm_source=git)** | Columbia, MO - Corporate Office | On Site | Apr 20 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Honeywell](http://www.honeywell.com)** | **[Intern Field Service Technician](https://jobright.ai/jobs/info/69b6672a06c1ba00c548552b?utm_campaign=1058&utm_source=git)** | Markham, Ontario, Canada | On Site | Apr 20 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69e665197820c036924d0406?utm_campaign=1058&utm_source=git)** | Newark, NJ | On Site | Apr 20 |
 | **[Berger Moving & Storage](http://bergerallied.com)** | **[Junior IT Admin Intern](https://jobright.ai/jobs/info/69e65f923cfd986aa6f8549f?utm_campaign=1058&utm_source=git)** | Roseville, MN | On Site | Apr 20 |
-| **[Scheels](http://www.scheels.com)** | **[Digital Customer Experience Intern](https://jobright.ai/jobs/info/69e65f453aa0c47964393a65?utm_campaign=1058&utm_source=git)** | Fargo, ND | On Site | Apr 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
