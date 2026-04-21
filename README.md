@@ -57,8 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fulton Bank](https://www.fultonbank.com/)** | **[IT Field Support Military Internship](https://jobright.ai/jobs/info/69e7c39858811370cb11e473?utm_campaign=1058&utm_source=git)** | ASC - East Petersburg | On Site | Apr 21 |
+| ↳ | **[IT Field Support Military Internship](https://jobright.ai/jobs/info/69e7c3943aa0c4796439ba62?utm_campaign=1058&utm_source=git)** | US-PA-East Petersburg | On Site | Apr 21 |
+| ↳ | **[IT Field Support Military Internship](https://jobright.ai/jobs/info/69e7c38f0a6e09555302c15f?utm_campaign=1058&utm_source=git)** | East Petersburg, PA, US | On Site | Apr 21 |
+| **[KCI](http://www.kci.com/)** | **[IT Intern](https://jobright.ai/jobs/info/69e7c38d58811370cb11e443?utm_campaign=1058&utm_source=git)** | Rock Hill, SC, US | On Site | Apr 21 |
+| ↳ | **[IT Intern](https://jobright.ai/jobs/info/69e7c38a3aa0c4796439ba2d?utm_campaign=1058&utm_source=git)** | US-SC-Rock Hill | On Site | Apr 21 |
+| **[UW Credit Union](http://uwcu.org/)** | **[Verona Area High School Teller Intern](https://jobright.ai/jobs/info/69e7c156e0cd471b2f12d3d0?utm_campaign=1058&utm_source=git)** | Verona, WI, US | On Site | Apr 21 |
 | **[Centinela Hospital Medical Center](https://www.centinelamed.com)** | **[*Pharmacy Intern](https://jobright.ai/jobs/info/69e7b8640a6e09555302bf0f?utm_campaign=1058&utm_source=git)** | Inglewood, CA | On Site | Apr 21 |
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Access Your Future Service Intern](https://jobright.ai/jobs/info/68af50af7bcb7608b3d2c69b?utm_campaign=1058&utm_source=git)** | McKinney, TX | On Site | Apr 21 |
+| **[Crown Equipment Corporation](https://303crownmaids.com/)** | **[Service Technician Intern](https://jobright.ai/jobs/info/69e14f92d612782e61147fb7?utm_campaign=1058&utm_source=git)** | Schaumburg, IL | On Site | Apr 21 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE - CRNA Internship](https://jobright.ai/jobs/info/69e7afd73aa0c4796439b599?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Apr 21 |
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Access Your Future Service Intern](https://jobright.ai/jobs/info/69dff598433ac8430e0e35c4?utm_campaign=1058&utm_source=git)** | Grand Forks, ND | On Site | Apr 21 |
 | **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse II 3 South](https://jobright.ai/jobs/info/69e7a81a3aa0c4796439b308?utm_campaign=1058&utm_source=git)** | Memphis, TN | On Site | Apr 21 |
@@ -74,6 +81,7 @@ For a complete list, click the following sortable link below:
 | **[TowneBank](https://www.townebank.com/)** | **[Intern - IT](https://jobright.ai/jobs/info/69e79b05e0cd471b2f12c936?utm_campaign=1058&utm_source=git)** | Raleigh, NC | On Site | Apr 21 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[PHARM INTERN TECH (TEMP)](https://jobright.ai/jobs/info/69e79b00f8fa2f3ec32a8b7c?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Apr 21 |
 | **[Justrite Safety Group](https://www.justrite.com)** | **[IT Support Analyst Intern](https://jobright.ai/jobs/info/69ca8f8faa3c2c1995e2db98?utm_campaign=1058&utm_source=git)** | Broomfield, CO | On Site | Apr 21 |
+| **[Save the Children Canada](https://savethechildren.ca)** | **[Information Technology IT Intern](https://jobright.ai/jobs/info/69e7c464f8fa2f3ec32a9723?utm_campaign=1058&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 21 |
 | **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse II - 7T Cardiac Med/Surg](https://jobright.ai/jobs/info/690db5f944146d3b6ec4f15e?utm_campaign=1058&utm_source=git)** | 7601 Southcrest Parkway, Southaven, MS, 38671, US | On Site | Apr 21 |
 | ↳ | **[Intern-Nurse II 5 West](https://jobright.ai/jobs/info/69e793bdf8fa2f3ec32a88fd?utm_campaign=1058&utm_source=git)** | Memphis, TN | On Site | Apr 21 |
 | **[Cavendish Farms](https://www.cavendishfarms.com)** | **[Technical Analyst Student/Intern - Summer 2026](https://jobright.ai/jobs/info/69e78fbf0a6e09555302b27f?utm_campaign=1058&utm_source=git)** | Saint John, NB, Canada | On Site | Apr 21 |
@@ -133,7 +141,6 @@ For a complete list, click the following sortable link below:
 | **[McLaren Health Care](http://www.mclaren.org)** | **[Intern- Imaging Cheboygan](https://jobright.ai/jobs/info/69e1a5d0fd1c0456f3faf348?utm_campaign=1058&utm_source=git)** | Cheboygan, MI | On Site | Apr 20 |
 | **[Kent Outdoors](https://kentoutdoors.co/)** | **[Customer Service Representative Internship](https://jobright.ai/jobs/info/69d9cd89f748bc5d08a4e587?utm_campaign=1058&utm_source=git)** | Bend, OR | On Site | Apr 20 |
 | **[City of Taylor, Texas](http://taylortx.gov/)** | **[LIBRARY INTERN](https://jobright.ai/jobs/info/69e79209e0cd471b2f12c61d?utm_campaign=1058&utm_source=git)** | Taylor Library - Taylor, TX 76574 | On Site | Apr 20 |
-| **[Community Unit School District 300](http://D300.org)** | **[Help Desk Support Specialist II](https://jobright.ai/jobs/info/69e1ec03d612782e6114d5c8?utm_campaign=1058&utm_source=git)** | Algonquin, IL | On Site | Apr 20 |
 | **[Shelter Insurance Companies](https://www.shelterinsurance.com/)** | **[Cultivate Intern - Auto Physical Damage Claims](https://jobright.ai/jobs/info/69e6ff83e0cd471b2f12823d?utm_campaign=1058&utm_source=git)** | Greater Columbia, Missouri Area | On Site | Apr 20 |
 | **[Starz](http://www.starz.com/)** | **[STARZ Intern, IT Support](https://jobright.ai/jobs/info/69964250ce78e77b4fda3c0b?utm_campaign=1058&utm_source=git)** | Greenwood Village, CO | On Site | Apr 20 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/69e6f9443aa0c4796439694c?utm_campaign=1058&utm_source=git)** | Union City, NJ | On Site | Apr 20 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ascension](https://healthcare.ascension.org)** | **[Imaging Student Intern](https://jobright.ai/jobs/info/69e6e3637820c036924d28b3?utm_campaign=1058&utm_source=git)** | Round Rock, TX | On Site | Apr 20 |
 | **[Wayne Metropolitan Community Action Agency](https://www.waynemetro.org/)** | **[Direct Service Specialist Intern- Paid](https://jobright.ai/jobs/info/69e7547c7820c036924d59df?utm_campaign=1058&utm_source=git)** | Lakeshore Office - Detroit, MI 48202 | Hybrid | Apr 20 |
 | **[ImageTrend](http://www.imagetrend.com)** | **[Technical Writing Intern](https://jobright.ai/jobs/info/69e749c37820c036924d576a?utm_campaign=1058&utm_source=git)** | Hybrid in Eagan, MN | Hybrid | Apr 20 |
-| **[Ascension](https://healthcare.ascension.org)** | **[Imaging Student Intern](https://jobright.ai/jobs/info/69cb2d271b5ad028873a9658?utm_campaign=1058&utm_source=git)** | US-WI-Brookfield | On Site | Apr 20 |
-| **[Toshiba International Corporation](http://www.toshiba.com/tic)** | **[UPS Field Service Data Entry Intern](https://jobright.ai/jobs/info/69e6d5e2f8fa2f3ec32a3c96?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Apr 20 |
-| **[Children's Wisconsin](https://childrenswi.org/)** | **[High School Intern Clinical](https://jobright.ai/jobs/info/69e6d5ca3cfd986aa6f87bd6?utm_campaign=1058&utm_source=git)** | Appleton, WI | On Site | Apr 20 |
-| **[National Cattlemen's Beef Association](https://www.ncba.org)** | **[Meeting and Events Intern Fall 2026](https://jobright.ai/jobs/info/69e6d59ae0cd471b2f1279c5?utm_campaign=1058&utm_source=git)** | Centennial, CO | On Site | Apr 20 |
-| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Client Operations Internship](https://jobright.ai/jobs/info/69e78d000a6e09555302b188?utm_campaign=1058&utm_source=git)** | Beverly Hills, CA | On Site | Apr 20 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69e6f1629b6eb37e26f82a00?utm_campaign=1058&utm_source=git)** | Cranston, RI | On Site | Apr 20 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69e724e4e0cd471b2f12a68c?utm_campaign=1058&utm_source=git)** | Cincinnati, OH | On Site | Apr 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
