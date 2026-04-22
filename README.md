@@ -57,13 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Universal Scientific Industrial Co., Ltd.](https://www.usiglobal.com)** | **[IT Intern](https://jobright.ai/jobs/info/69cc5759891d7b11cfcabec1?utm_campaign=1058&utm_source=git)** | Milpitas, CA | On Site | Apr 22 |
+| **[Rheem Manufacturing](http://www.rheem.com)** | **[Intern Warehouse Associate I](https://jobright.ai/jobs/info/69e54157e0cd471b2f122613?utm_campaign=1058&utm_source=git)** | Houston, TX, United States | On Site | Apr 22 |
 | **[Dewberry](http://www.dewberry.com/)** | **[Helpdesk / PC Technician Intern](https://jobright.ai/jobs/info/69e8de820a6e0955530370ce?utm_campaign=1058&utm_source=git)** | Fairfax, VA, US | On Site | Apr 22 |
 | ↳ | **[Helpdesk / PC Technician Intern](https://jobright.ai/jobs/info/69e8de7f3aa0c479643a571b?utm_campaign=1058&utm_source=git)** | US-VA-Fairfax | On Site | Apr 22 |
 | **[Saint Luke's](https://www.saintlukeskc.org)** | **[Nursing Intern - Medical Intermediate - PRN](https://jobright.ai/jobs/info/69d5d589e63cea7a8b665531?utm_campaign=1058&utm_source=git)** | Kansas City, MO | On Site | Apr 22 |
-| **[Universal Scientific Industrial Co., Ltd.](https://www.usiglobal.com)** | **[IT Intern](https://jobright.ai/jobs/info/69cc5759891d7b11cfcabec1?utm_campaign=1058&utm_source=git)** | Milpitas, CA | On Site | Apr 22 |
+| **[Children's Hospital of The King's Daughters](https://www.chkd.org/)** | **[Respiratory Student Aide](https://jobright.ai/jobs/info/69afe68e7495006450953f63?utm_campaign=1058&utm_source=git)** | Norfolk, VA | On Site | Apr 22 |
 | **[Humana](http://www.humana.com)** | **[Unpaid Pharmacy Intern](https://jobright.ai/jobs/info/69e8cf6d58811370cb1288ef?utm_campaign=1058&utm_source=git)** | Louisville, KY, US | On Site | Apr 22 |
 | **[Aimbridge Hospitality](http://www.aimbridgehospitality.com/)** | **[Marriott Indianapolis East - Hospitality Management Intern](https://jobright.ai/jobs/info/69af86147495006450940506?utm_campaign=1058&utm_source=git)** | Indianapolis, IN | On Site | Apr 22 |
 | **[REV Group, Inc](http://www.revgroup.com/)** | **[Intern](https://jobright.ai/jobs/info/69e195e66c20aa1149541c44?utm_campaign=1058&utm_source=git)** | Brandon, SD | On Site | Apr 22 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[IT Intern](https://jobright.ai/jobs/info/69cc85f6cfdc6132f940eed2?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Apr 22 |
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Prior Authorization Pharmacist - Texas Medicaid (Remote)](https://jobright.ai/jobs/info/69cc8c148130af1ac833bc94?utm_campaign=1058&utm_source=git)** | Texas, United States | Remote | Apr 22 |
 | **[California State University, Los Angeles](http://www.calstatela.edu)** | **[Alternative Testing Student Support/Proctor](https://jobright.ai/jobs/info/689d1c22faa4e875e826d17a?utm_campaign=1058&utm_source=git)** | Los Angeles, CA | On Site | Apr 22 |
 | **[St. Elizabeth Healthcare](http://www.stelizabeth.com/)** | **[Pharmacy Intern Inpatient](https://jobright.ai/jobs/info/69cceb8554f00230c6ceba12?utm_campaign=1058&utm_source=git)** | Fort Thomas, KY | On Site | Apr 22 |
@@ -76,7 +79,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69e8bc150a6e09555303631b?utm_campaign=1058&utm_source=git)** | Morgantown, WV | On Site | Apr 22 |
 | **[Stormont Vail Health](http://www.stormontvail.org)** | **[Medical Imaging Intern/Associate - Radiology CT Scan - PRN](https://jobright.ai/jobs/info/69cc3df9e1921223acc74d87?utm_campaign=1058&utm_source=git)** | Topeka, KS | On Site | Apr 22 |
 | ↳ | **[Medical Imaging Intern/Associate - Radiology Administration - PRN](https://jobright.ai/jobs/info/69cc4884e1921223acc7506a?utm_campaign=1058&utm_source=git)** | Topeka, KS | On Site | Apr 22 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[IT Intern](https://jobright.ai/jobs/info/69cc85f6cfdc6132f940eed2?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Apr 22 |
 | **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/69e8dedf0a6e095553037185?utm_campaign=1058&utm_source=git)** | Palatine, IL | On Site | Apr 22 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69e8def67820c036924e36d2?utm_campaign=1058&utm_source=git)** | DeLand, FL | On Site | Apr 22 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69e8dedf0a6e095553037186?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Apr 22 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Volvo Group](http://www.volvogroup.com)** | **[Intern: Digital Product Support (Summer 2026)](https://jobright.ai/jobs/info/69e8b3cf7820c036924e23c1?utm_campaign=1058&utm_source=git)** | Shippensburg, PA, US, 17257 | On Site | Apr 21 |
 | **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69e7f9bc58811370cb11f9fc?utm_campaign=1058&utm_source=git)** | Pico Rivera, CA | On Site | Apr 21 |
 | **[DLA Piper](https://www.dlapiper.com/)** | **[Intern - Legal Support Services](https://jobright.ai/jobs/info/69e7f9b358811370cb11f9f0?utm_campaign=1058&utm_source=git)** | Austin, Texas Metropolitan Area | On Site | Apr 21 |
-| **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69e7f9a758811370cb11f9cb?utm_campaign=1058&utm_source=git)** | Bothell, WA | On Site | Apr 21 |
-| ↳ | **[Pharmacy Graduate Intern (Non-US Education)](https://jobright.ai/jobs/info/69e7f9a558811370cb11f9c3?utm_campaign=1058&utm_source=git)** | Bayonne, NJ | On Site | Apr 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
