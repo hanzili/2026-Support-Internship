@@ -88,8 +88,8 @@ For a complete list, click the following sortable link below:
 | **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69e7f9a758811370cb11f9cb?utm_campaign=1058&utm_source=git)** | Bothell, WA | On Site | Apr 21 |
 | ↳ | **[Pharmacy Graduate Intern (Non-US Education)](https://jobright.ai/jobs/info/69e7f9a558811370cb11f9c3?utm_campaign=1058&utm_source=git)** | Bayonne, NJ | On Site | Apr 21 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69e7f9a458811370cb11f9c1?utm_campaign=1058&utm_source=git)** | Voorhees, NJ | On Site | Apr 21 |
-| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69e7f9a258811370cb11f9bf?utm_campaign=1058&utm_source=git)** | Federal Way, WA | On Site | Apr 21 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69e7f9a258811370cb11f9c0?utm_campaign=1058&utm_source=git)** | Dallas, TX | On Site | Apr 21 |
+| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69e7f9a258811370cb11f9bf?utm_campaign=1058&utm_source=git)** | Federal Way, WA | On Site | Apr 21 |
 | **[CPPI](https://cppi.com/)** | **[IT Intern (Gainesville)](https://jobright.ai/jobs/info/69e7f93858811370cb11f8d4?utm_campaign=1058&utm_source=git)** | Gainesville, FL | On Site | Apr 21 |
 | **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69e7f7de0a6e09555302d5f9?utm_campaign=1058&utm_source=git)** | McHenry, IL | On Site | Apr 21 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69e7f7ddf8fa2f3ec32aaadb?utm_campaign=1058&utm_source=git)** | St Albans, VT | On Site | Apr 21 |
