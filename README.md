@@ -57,9 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Delaware North](http://www.delawarenorth.com/)** | **[Suites Internship, Target Field](https://jobright.ai/jobs/info/69e86c0ce0cd471b2f1353c3?utm_campaign=1058&utm_source=git)** | Minneapolis, MN | On Site | Apr 21 |
 | **[Central Bank](https://www.centralbank.net/)** | **[Customer Service Representative Intern](https://jobright.ai/jobs/info/69e85d95e0cd471b2f1351a4?utm_campaign=1058&utm_source=git)** | Columbia, MO | On Site | Apr 21 |
 | **[Sutter Health](http://www.sutterhealth.org)** | **[Intern, Clinical Pharmacist Year 1](https://jobright.ai/jobs/info/69e85d8de0cd471b2f135187?utm_campaign=1058&utm_source=git)** | Modesto, CA | On Site | Apr 21 |
-| **[Reed Smith LLP](http://www.reedsmith.com/)** | **[2026 Summer Intern - Music Group, Century City Office](https://jobright.ai/jobs/info/69e85d7958811370cb126437?utm_campaign=1058&utm_source=git)** | Los Angeles, CA | On Site | Apr 21 |
 | **[SPATCO Energy Solutions](http://spatco.com)** | **[Service Tech Trainee](https://jobright.ai/jobs/info/69e85cd53aa0c479643a2ed9?utm_campaign=1058&utm_source=git)** | North Little Rock, AR | On Site | Apr 21 |
 | **[Dartmouth Health](https://www.dartmouth-health.org/)** | **[Intern - Radiology](https://jobright.ai/jobs/info/69e85cd258811370cb1263bb?utm_campaign=1058&utm_source=git)** | Lebanon, NH | On Site | Apr 21 |
 | **[SSM Health](https://www.ssmhealth.com/)** | **[Pharmacy Intern (H)](https://jobright.ai/jobs/info/69e857790a6e0955530330dc?utm_campaign=1058&utm_source=git)** | Greater St. Louis | On Site | Apr 21 |
