@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cruise Planners HQ](http://www.cruiseplanners.com)** | **[CP Intern](https://jobright.ai/jobs/info/69e8989d4b0fa35a70767147?utm_campaign=1058&utm_source=git)** | Coral Springs, FL | On Site | Apr 22 |
+| **[Convatec](https://www.convatecgroup.com)** | **[Quality Support Intern](https://jobright.ai/jobs/info/69e8930258811370cb126ca0?utm_campaign=1058&utm_source=git)** | Memphis, TN | On Site | Apr 22 |
+| **[Rush University Medical Center](https://www.rush.edu/)** | **[Pharmacy Intern-26037](https://jobright.ai/jobs/info/69e892b8e0cd471b2f135a43?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Apr 22 |
+| **[Xometry](https://www.xometry.com)** | **[Customer Support Intern](https://jobright.ai/jobs/info/695ab318aa05c26e7ab4364b?utm_campaign=1058&utm_source=git)** | North Bethesda, MD | Hybrid | Apr 22 |
+| **[Cleveland Clinic](http://my.clevelandclinic.org)** | **[IT Summer Intern - Interoperability](https://jobright.ai/jobs/info/69e772f20a6e09555302a6b3?utm_campaign=1058&utm_source=git)** | Remote Location | Remote | Apr 22 |
 | **[Action Behavior Centers - ABA Therapy for Autism](https://www.actionbehavior.com)** | **[Clinic Admissions Associate](https://jobright.ai/jobs/info/69e883b67820c036924e0319?utm_campaign=1058&utm_source=git)** | Maricopa, AZ | On Site | Apr 22 |
 | **[RLS Radiopharmacies](https://rls.bio/)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/69e881dc58811370cb1269ed?utm_campaign=1058&utm_source=git)** | Tampa | On Site | Apr 22 |
 | **[Action Behavior Centers - ABA Therapy for Autism](https://www.actionbehavior.com)** | **[Clinic Admissions Associate](https://jobright.ai/jobs/info/69e872f13aa0c479643a3399?utm_campaign=1058&utm_source=git)** | Garner, NC | On Site | Apr 22 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Praktikant (w/m/d)](https://jobright.ai/jobs/info/67a4ce6df1a6c091c9da20ba?utm_campaign=1058&utm_source=git)** | Birmingham, AL | On Site | Apr 21 |
 | **[RTX](http://rtx.com/)** | **[End User Support Internship - Fall 2026](https://jobright.ai/jobs/info/69e7e2420a6e09555302cc60?utm_campaign=1058&utm_source=git)** | Cambridge, MA | On Site | Apr 21 |
 | **[Kentucky Farm Bureau Insurance](http://kyfb.com)** | **[Regional Support Intern (Lexington-Hamburg)](https://jobright.ai/jobs/info/69e2c20c3770bd5361cd9e83?utm_campaign=1058&utm_source=git)** | Lexington, KY | On Site | Apr 21 |
-| **[St. Vincent’s Health System](https://uabstvincents.org)** | **[Intern - General Radiology - PRN](https://jobright.ai/jobs/info/69e7de1258811370cb11edd3?utm_campaign=1058&utm_source=git)** | US-AL-Birmingham | On Site | Apr 21 |
-| ↳ | **[Intern - General Radiology - PRN](https://jobright.ai/jobs/info/69e7ddd9e0cd471b2f12dd2b?utm_campaign=1058&utm_source=git)** | Birmingham, AL, US | On Site | Apr 21 |
-| ↳ | **[Intern - General Radiology - PRN](https://jobright.ai/jobs/info/69e7ddce0a6e09555302c9be?utm_campaign=1058&utm_source=git)** | UAB St. Vincent's Birmingham | On Site | Apr 21 |
-| **[TAK Broadband](https://takcommunications.com/)** | **[IT Help Desk Intern](https://jobright.ai/jobs/info/69e69ed69b6eb37e26f816e4?utm_campaign=1058&utm_source=git)** | Sioux Falls,SD,US | On Site | Apr 21 |
-| **[HCA Healthcare](https://hcahealthcare.com/)** | **[Intern PRN](https://jobright.ai/jobs/info/69e7dc9e7820c036924d8929?utm_campaign=1058&utm_source=git)** | Lakeland, FL | On Site | Apr 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
