@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Social Hub (B Corp™)](https://www.thesocialhub.co/)** | **[IT Service Desk Intern](https://jobright.ai/jobs/info/69ea2c5b7820c036924ec467?utm_campaign=1058&utm_source=git)** | NL-Hub | On Site | Apr 23 |
 | **[Xometry](https://www.xometry.com)** | **[Case Management Intern](https://jobright.ai/jobs/info/69407a6150bbaf7650527a7a?utm_campaign=1058&utm_source=git)** | North Bethesda, MD | On Site | Apr 23 |
+| **[Huhtamaki](http://huhtamaki.com/)** | **[IT Intern](https://jobright.ai/jobs/info/69cd9828398fb071abf7a539?utm_campaign=1058&utm_source=git)** | De Soto, KS | Hybrid | Apr 23 |
+| **[Nuvance Health](https://www.nuvancehealth.org)** | **[Medical Assistant Intern - Float Pool Region C](https://jobright.ai/jobs/info/69ea2c2a7820c036924ec436?utm_campaign=1058&utm_source=git)** | Danbury, CT | On Site | Apr 23 |
+| **[Farm Credit Financial Partners, Inc.](https://www.financialpartners.com)** | **[ServiceNow Administrator Intern](https://jobright.ai/jobs/info/69ea2bfe7820c036924ec37a?utm_campaign=1058&utm_source=git)** | Springfield, MA | Hybrid | Apr 23 |
 | **[Central Garden & Pet](http://www.central.com)** | **[Service Desk Intern](https://jobright.ai/jobs/info/69ea192e7820c036924ec114?utm_campaign=1058&utm_source=git)** | Walnut Creek, CA | On Site | Apr 23 |
 | **[BCFS Health & Human Services](https://bcfshhs.org)** | **[Intern - Hotline Response and Service Coordinator](https://jobright.ai/jobs/info/6979367639f7f96cc6d19f94?utm_campaign=1058&utm_source=git)** | San Antonio, Texas Metropolitan Area | On Site | Apr 23 |
 | **[Colliers](http://www.colliers.com)** | **[Summer Intern](https://jobright.ai/jobs/info/69cd6948cfdc6132f9418419?utm_campaign=1058&utm_source=git)** | Sacramento, CA | On Site | Apr 23 |
@@ -70,6 +74,9 @@ For a complete list, click the following sortable link below:
 | **[Xometry](https://www.xometry.com)** | **[IT Service Desk Intern](https://jobright.ai/jobs/info/69acaada2747003c3d524801?utm_campaign=1058&utm_source=git)** | North Bethesda, MD | Hybrid | Apr 23 |
 | **[University Housing - The University of Georgia](https://housing.uga.edu/)** | **[Desk Assistant](https://jobright.ai/jobs/info/69e9ddf4e0cd471b2f13f50d?utm_campaign=1058&utm_source=git)** | Athens, GA | On Site | Apr 23 |
 | ↳ | **[Night Desk Assistant](https://jobright.ai/jobs/info/69e9ddbe7820c036924e9f12?utm_campaign=1058&utm_source=git)** | Athens, GA | On Site | Apr 23 |
+| **[University of Michigan](https://www.umich.edu)** | **[PHARM INTERN TECH (TEMP)](https://jobright.ai/jobs/info/69ea2c020a6e09555303f69f?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Apr 23 |
+| ↳ | **[REGISTERED NURSE - CRNA Internship](https://jobright.ai/jobs/info/69ea2bfc4b0fa35a70772969?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Apr 23 |
+| ↳ | **[REGISTERED NURSE - CRNA Internship](https://jobright.ai/jobs/info/69ea2bfc4b0fa35a7077296a?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Apr 23 |
 | **[Cone Health](http://www.conehealth.com)** | **[Student Ultrasound Assistant](https://jobright.ai/jobs/info/69e9d58d4b0fa35a707703a7?utm_campaign=1058&utm_source=git)** | Greensboro, NC | On Site | Apr 23 |
 | **[Smith's Food & Drug Centers](https://www.smithsfoodanddrug.com/)** | **[Pharmacist Intern #347](https://jobright.ai/jobs/info/69e9cec13aa0c479643abd0a?utm_campaign=1058&utm_source=git)** | Henderson, NV | On Site | Apr 23 |
 | ↳ | **[Pharmacist Intern #385](https://jobright.ai/jobs/info/69e9cec03aa0c479643abd09?utm_campaign=1058&utm_source=git)** | Henderson, NV | On Site | Apr 23 |
@@ -147,14 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Tacony Corporation](http://tacony.com)** | **[IT Intern](https://jobright.ai/jobs/info/69e977d30a6e09555303c027?utm_campaign=1058&utm_source=git)** | Fenton, MO, US | On Site | Apr 22 |
 | **[Reston Hospital](https://restonhospital.com)** | **[Pharmacy Intern PRN](https://jobright.ai/jobs/info/69cbf35d8130af1ac8335da2?utm_campaign=1058&utm_source=git)** | Reston, VA | On Site | Apr 22 |
 | **[Franklin Templeton](http://www.franklintempleton.com)** | **[Undergrad Intern – Client Representative: Global Shareholder Services](https://jobright.ai/jobs/info/69e9186d58811370cb12a3d5?utm_campaign=1058&utm_source=git)** | Rancho Cordova, CA | Hybrid | Apr 22 |
-| **[Willdan Performance Engineering](https://www.willdan.com/solutions/design-build-energy-performance-contracting.aspx)** | **[Technical Aide Internship](https://jobright.ai/jobs/info/69e977d74b0fa35a7076e884?utm_campaign=1058&utm_source=git)** | Urbandale, IA, Urbandale, IA, US | On Site | Apr 22 |
-| ↳ | **[Technical Aide Internship](https://jobright.ai/jobs/info/69e977ee7820c036924e83dc?utm_campaign=1058&utm_source=git)** | Minnetonka, MN, Minnetonka, MN, US | On Site | Apr 22 |
+| **[Willdan Performance Engineering](https://www.willdan.com/solutions/design-build-energy-performance-contracting.aspx)** | **[Technical Aide Internship](https://jobright.ai/jobs/info/69e977ee7820c036924e83dc?utm_campaign=1058&utm_source=git)** | Minnetonka, MN, Minnetonka, MN, US | On Site | Apr 22 |
+| ↳ | **[Technical Aide Internship](https://jobright.ai/jobs/info/69e977d74b0fa35a7076e884?utm_campaign=1058&utm_source=git)** | Urbandale, IA, Urbandale, IA, US | On Site | Apr 22 |
 | **[Pitco](https://www.pitco.com/)** | **[Technical Service Intern](https://jobright.ai/jobs/info/69e979134b0fa35a7076ef00?utm_campaign=1058&utm_source=git)** | Bow, NH | On Site | Apr 22 |
-| **[Dewberry](http://www.dewberry.com/)** | **[Helpdesk / PC Technician Intern](https://jobright.ai/jobs/info/69e95caa7820c036924e7a32?utm_campaign=1058&utm_source=git)** | Fairfax, VA | On Site | Apr 22 |
-| **[Easterseals Redwood](https://www.eastersealsredwood.org/)** | **[Military and Veteran Services Intern](https://jobright.ai/jobs/info/69e9797ce0cd471b2f13e06b?utm_campaign=1058&utm_source=git)** | Cincinnati, OH | On Site | Apr 22 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/69e93abf7820c036924e6a9e?utm_campaign=1058&utm_source=git)** | Omaha, NE | On Site | Apr 22 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69e87d737820c036924e02dc?utm_campaign=1058&utm_source=git)** | Cedar Grove, NJ | On Site | Apr 22 |
-| ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/69e93a8b58811370cb12bf0f?utm_campaign=1058&utm_source=git)** | Phoenix, AZ | On Site | Apr 22 |
-| **[Wonderful Pistachios & Almonds](https://www.wonderfulpistachiosandalmonds.com/#ourdifference)** | **[Wonderful Scholar Summer Internship, IT](https://jobright.ai/jobs/info/69af6b2b749500645093e020?utm_campaign=1058&utm_source=git)** | Lost Hills, CA | On Site | Apr 22 |
-| **[Achievement First](https://www.achievementfirst.org/)** | **[IT Intern, Connecticut](https://jobright.ai/jobs/info/69caf3951b5ad028873a7143?utm_campaign=1058&utm_source=git)** | Connecticut, United States | On Site | Apr 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
