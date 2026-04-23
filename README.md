@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Advanced Technology Systems Company](https://www.atscva.com/)** | **[Intern - Engineering / IT](https://jobright.ai/jobs/info/69ea91b9dc35f7132c4aaf25?utm_campaign=1058&utm_source=git)** | McLean, McLean, VA, US | On Site | Apr 23 |
+| ↳ | **[Intern - Engineering / IT](https://jobright.ai/jobs/info/69ea919b4b0fa35a7077517b?utm_campaign=1058&utm_source=git)** | Arizona, Gilbert, AZ, US | On Site | Apr 23 |
+| **[EL1 Sports](http://www.EL1SPORTS.com)** | **[Baseball Operations Intern (Temp Role May 18 - August 7)](https://jobright.ai/jobs/info/69ea917558811370cb1340f8?utm_campaign=1058&utm_source=git)** | Dubuque,IA,US | On Site | Apr 23 |
+| **[Community Health Systems](http://www.chs.net)** | **[Nurse Intern- ICU](https://jobright.ai/jobs/info/69ea8f703aa0c479643b0a2e?utm_campaign=1058&utm_source=git)** | 2101 Dubois Dr, Warsaw, IN, 46580, US | On Site | Apr 23 |
 | **[AvePoint Public Sector](https://www.avepoint.com/solutions/us-public-sector)** | **[Client Services Intern](https://jobright.ai/jobs/info/69ea83694b0fa35a70774e16?utm_campaign=1058&utm_source=git)** | Jersey City, NJ, United States | On Site | Apr 23 |
 | **[Latham Centers, Inc.](https://www.lathamcenters.org/)** | **[IT Intern](https://jobright.ai/jobs/info/69ea82c57820c036924ee5d5?utm_campaign=1058&utm_source=git)** | Yarmouth Port, MA | On Site | Apr 23 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Operations Support Intern](https://jobright.ai/jobs/info/69ea800a7820c036924ee550?utm_campaign=1058&utm_source=git)** | Baltimore, MD USA, US | Hybrid | Apr 23 |
@@ -100,6 +104,7 @@ For a complete list, click the following sortable link below:
 | **[TechSmith](http://www.techsmith.com)** | **[Software - Customer Service Intern (Paid Internship) - Hybrid](https://jobright.ai/jobs/info/69ea73b54b0fa35a70774765?utm_campaign=1058&utm_source=git)** | East Lansing, Michigan | Hybrid | Apr 23 |
 | **[Formic](https://formic.co)** | **[Summer 2026 Intern](https://jobright.ai/jobs/info/6994d5f1e0bddb6acac352a3?utm_campaign=1058&utm_source=git)** | Woodridge, IL | On Site | Apr 23 |
 | **[RÖDL USA](http://www.roedl.us)** | **[Praktikant (w/m/d)](https://jobright.ai/jobs/info/6875a21b5cebcd1dd51c233d?utm_campaign=1058&utm_source=git)** | Detroit, MI | On Site | Apr 23 |
+| **[Olthof Homes](https://olthofhomes.com)** | **[IT Helpdesk Intern](https://jobright.ai/jobs/info/69ea918ddc35f7132c4aae84?utm_campaign=1058&utm_source=git)** | Cedar Lake, IN | On Site | Apr 23 |
 | **[SitusAMC](https://www.situsamc.com)** | **[Intern, Document Review](https://jobright.ai/jobs/info/69cdc57b398fb071abf7c16a?utm_campaign=1058&utm_source=git)** | St. Petersburg, FL | On Site | Apr 23 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (OT/OTA Hospital Inpatient) Winter 2026 OT Fieldwork](https://jobright.ai/jobs/info/689441eaa9199876488e403f?utm_campaign=1058&utm_source=git)** | Elkridge, MD | On Site | Apr 23 |
 | **[RadNet](https://www.radnet.com)** | **[Intern (Patient Engagement)](https://jobright.ai/jobs/info/69d8970df748bc5d08a44418?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Apr 23 |
@@ -147,14 +152,9 @@ For a complete list, click the following sortable link below:
 | **[Kinney Drugs](http://www.kinneydrugs.com)** | **[Pharmacy Intern P4](https://jobright.ai/jobs/info/69d581ce891d7b11cfd028af?utm_campaign=1058&utm_source=git)** | Baldwinsville, NY | On Site | Apr 22 |
 | **[Mercury Insurance](http://www.mercuryinsurance.com)** | **[Customer Support Specialist](https://jobright.ai/jobs/info/69e9b26758811370cb12eaf4?utm_campaign=1058&utm_source=git)** | United States | Remote | Apr 22 |
 | **[OhioHealth](https://www.ohiohealth.com/)** | **[Patient Support Assistant - intern (Work Based Learning Students only)](https://jobright.ai/jobs/info/69e98b20e0cd471b2f13e4c5?utm_campaign=1058&utm_source=git)** | DOCTORS HOSPITAL, US | On Site | Apr 22 |
-| ↳ | **[Patient Support Assistant - intern (Work Based Learning Students only)](https://jobright.ai/jobs/info/69e98b073aa0c479643aad9c?utm_campaign=1058&utm_source=git)** | DUBLIN METHODIST HOSPITAL, US | On Site | Apr 22 |
 | ↳ | **[Patient Support Assistant - intern (Work Based Learning Students only)](https://jobright.ai/jobs/info/69e98b077820c036924e8f9c?utm_campaign=1058&utm_source=git)** | 3535 OLENTANGY RIVER RD, US | On Site | Apr 22 |
+| ↳ | **[Patient Support Assistant - intern (Work Based Learning Students only)](https://jobright.ai/jobs/info/69e98b073aa0c479643aad9c?utm_campaign=1058&utm_source=git)** | DUBLIN METHODIST HOSPITAL, US | On Site | Apr 22 |
 | ↳ | **[Patient Support Assistant - intern (Work Based Learning Students only)](https://jobright.ai/jobs/info/69e98af24b0fa35a7076f50f?utm_campaign=1058&utm_source=git)** | MANSFIELD HOSPITAL, US | On Site | Apr 22 |
 | **[Acadia Realty Trust](http://www.acadiarealty.com/)** | **[IT Intern](https://jobright.ai/jobs/info/69e32fc62f28653593078dd4?utm_campaign=1058&utm_source=git)** | Rye, NY | On Site | Apr 22 |
 | **[RAINN](http://rainn.org)** | **[Helpdesk / Quality Assurance (QA) Internship](https://jobright.ai/jobs/info/69e9bddb58811370cb12f09c?utm_campaign=1058&utm_source=git)** | Washington, DC | Remote | Apr 22 |
-| **[OhioHealth](https://www.ohiohealth.com/)** | **[Patient Support Assistant - intern (Work Based Learning Students only)](https://jobright.ai/jobs/info/69e9afdce0cd471b2f13e9d5?utm_campaign=1058&utm_source=git)** | Columbus, OH | On Site | Apr 22 |
-| **[Stadler](http://www.stadlerrail.com/)** | **[IT Help Desk Intern – Salt Lake City, UT](https://jobright.ai/jobs/info/69e99df258811370cb12e700?utm_campaign=1058&utm_source=git)** | Salt Lake City, UT | On Site | Apr 22 |
-| **[Valley Medical Center](http://www.valleymed.org)** | **[Inpatient Pharmacy Intern - 1st year (2026-0389)](https://jobright.ai/jobs/info/69e9b2707820c036924e95c0?utm_campaign=1058&utm_source=git)** | Renton, WA | On Site | Apr 22 |
-| ↳ | **[Inpatient Pharmacy Intern - 1st year (2026-0390)](https://jobright.ai/jobs/info/69e9b26f4b0fa35a7076fb06?utm_campaign=1058&utm_source=git)** | Renton, WA | On Site | Apr 22 |
-| **[Topcon Healthcare](https://topconhealthcare.com)** | **[Medical Afffairs Intern](https://jobright.ai/jobs/info/69e0469b433ac8430e0e532b?utm_campaign=1058&utm_source=git)** | La Jolla, CA | On Site | Apr 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
