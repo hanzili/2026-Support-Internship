@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Metropolitan Water District of Southern California](http://www.mwdh2o.com/)** | **[Student Intern (District Temp-PT)](https://jobright.ai/jobs/info/69ea4b2b3aa0c479643aed9f?utm_campaign=1058&utm_source=git)** | Los Angeles, CA, US | On Site | Apr 23 |
+| **[Mercer Company](https://mercer-company.com/)** | **[Customer Service Intern - Summer 2026](https://jobright.ai/jobs/info/69ea58e00a6e0955530404d0?utm_campaign=1058&utm_source=git)** | Montreal - 1 Place Ville Marie, CA | Hybrid | Apr 23 |
+| **[Lafayette 148 New York](http://lafayette148ny.com)** | **[Sales Support Intern](https://jobright.ai/jobs/info/69ea53464b0fa35a707736ae?utm_campaign=1058&utm_source=git)** | Brooklyn, New York, United States | On Site | Apr 23 |
+| **[Community Health Systems](http://www.chs.net)** | **[Student Intern House Rotation](https://jobright.ai/jobs/info/69ea50810a6e09555304029e?utm_campaign=1058&utm_source=git)** | 2520 E Dupont Rd, Fort Wayne, IN, 46825, US | On Site | Apr 23 |
+| **[Metropolitan Water District of Southern California](http://www.mwdh2o.com/)** | **[Student Intern (District Temp-PT)](https://jobright.ai/jobs/info/69ea4b757820c036924ecd1e?utm_campaign=1058&utm_source=git)** | US-CA-Los Angeles | On Site | Apr 23 |
+| ↳ | **[Student Intern (District Temp-PT)](https://jobright.ai/jobs/info/69ea4b2b3aa0c479643aed9f?utm_campaign=1058&utm_source=git)** | Los Angeles, CA, US | On Site | Apr 23 |
 | **[RTX](http://rtx.com/)** | **[Engineering Support Intern](https://jobright.ai/jobs/info/69ea4ad94b0fa35a70773345?utm_campaign=1058&utm_source=git)** | US-MA-CAMBRIDGE-BBN06 ~ 10 & 50 Moulton St ~ MOULTON B6, US | On Site | Apr 23 |
 | **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Intern](https://jobright.ai/jobs/info/69ea47f558811370cb1323be?utm_campaign=1058&utm_source=git)** | Philadelphia, PA, US | On Site | Apr 23 |
 | **[CAC Group](https://cacgroup.com)** | **[Intern, Property and Casualty](https://jobright.ai/jobs/info/69ea47e758811370cb132372?utm_campaign=1058&utm_source=git)** | Birmingham, Alabama, US | On Site | Apr 23 |
@@ -152,9 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Paradies Lagardère](https://www.paradieslagardere.com/)** | **[IT Intern](https://jobright.ai/jobs/info/69e9778ae0cd471b2f13d7b3?utm_campaign=1058&utm_source=git)** | Atlanta, Georgia, United States | On Site | Apr 22 |
 | **[KCH Transportation](https://www.kchtrans.com)** | **[Account Management Support Intern](https://jobright.ai/jobs/info/69ea3be43aa0c479643ae619?utm_campaign=1058&utm_source=git)** | Augusta, GA | On Site | Apr 22 |
 | **[Veregy](https://www.veregy.com/)** | **[Intern](https://jobright.ai/jobs/info/69e944d558811370cb12c38b?utm_campaign=1058&utm_source=git)** | Phoenix, AZ | On Site | Apr 22 |
-| **[Toledo Walleye](https://www.toledowalleye.com)** | **[Box Office & Fanwear Internship](https://jobright.ai/jobs/info/69e964933aa0c479643a9b76?utm_campaign=1058&utm_source=git)** | Toledo, OH | On Site | Apr 22 |
 | **[Topcon Healthcare](https://topconhealthcare.com)** | **[Medical Affairs Intern](https://jobright.ai/jobs/info/69e046ce4920452a85dd27e1?utm_campaign=1058&utm_source=git)** | La Jolla, CA | On Site | Apr 22 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/69e925463aa0c479643a7c64?utm_campaign=1058&utm_source=git)** | Schnecksville, PA | On Site | Apr 22 |
-| **[Elite Sports Clubs](http://eliteclubs.com)** | **[Summer Food & Beverage Intern](https://jobright.ai/jobs/info/69e94e43e0cd471b2f13c7c3?utm_campaign=1058&utm_source=git)** | Milwaukee, WI | On Site | Apr 22 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/69e925014b0fa35a7076c375?utm_campaign=1058&utm_source=git)** | Carbondale, PA | On Site | Apr 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
