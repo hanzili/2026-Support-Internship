@@ -77,6 +77,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69e9c7327820c036924e9d7b?utm_campaign=1058&utm_source=git)** | Glendora, CA | On Site | Apr 23 |
 | ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/69e9c7230a6e09555303db44?utm_campaign=1058&utm_source=git)** | Brookline, MA | On Site | Apr 23 |
 | **[Children's Minnesota](https://www.childrensmn.org/)** | **[Medical Imaging Intern](https://jobright.ai/jobs/info/69e9c6e13aa0c479643abbc8?utm_campaign=1058&utm_source=git)** | St Paul, MN | On Site | Apr 23 |
+| **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[Front Desk Student Assistant](https://jobright.ai/jobs/info/69ea0f460a6e09555303ee38?utm_campaign=1058&utm_source=git)** | Topeka Metropolitan Area | On Site | Apr 22 |
 | **[Fred Meyer](https://www.fredmeyer.com/)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/69ea01ab0a6e09555303e13c?utm_campaign=1058&utm_source=git)** | Happy Valley, OR | On Site | Apr 22 |
 | **[NBOA: Business Leadership for Independent Schools](https://nboa.org)** | **[Information Technology Intern](https://jobright.ai/jobs/info/69e9ef763aa0c479643abffc?utm_campaign=1058&utm_source=git)** | Lexington, KY | On Site | Apr 22 |
 | **[Clark-Pleasant Community School Corp](http://www.cpcsc.k12.in.us)** | **[Summer Classified Technology Intern (3 Positions)](https://jobright.ai/jobs/info/69e9e5527820c036924e9fc2?utm_campaign=1058&utm_source=git)** | Whiteland, IN | On Site | Apr 22 |
@@ -137,7 +138,7 @@ For a complete list, click the following sortable link below:
 | **[CVS Health](https://www.cvshealth.com/)** | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/69e925014b0fa35a7076c375?utm_campaign=1058&utm_source=git)** | Carbondale, PA | On Site | Apr 22 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69e924444b0fa35a7076c185?utm_campaign=1058&utm_source=git)** | Charlotte, NC | On Site | Apr 22 |
 | **[Daxko](https://www.daxko.com/)** | **[Customer Enablement Intern](https://jobright.ai/jobs/info/69e923b70a6e095553039885?utm_campaign=1058&utm_source=git)** | Birmingham, AL | Remote | Apr 22 |
-| **[Milwaukee Rescue Mission](https://milmission.org)** | **[Distribution Center Summer Intern](https://jobright.ai/jobs/info/69e94e8c4b0fa35a7076d82c?utm_campaign=1058&utm_source=git)** | Milwaukee, WI | On Site | Apr 22 |
+| **[Milwaukee Rescue Mission](https://milmission.org)** | **[Distribution Center Summer Intern](https://jobright.ai/jobs/info/69e67c553aa0c4796439460d?utm_campaign=1058&utm_source=git)** | Milwaukee, WI | On Site | Apr 22 |
 | **[Unity Health](https://www.unity-health.org)** | **[Pharmacy Intern, PRN](https://jobright.ai/jobs/info/69e977d6e0cd471b2f13d872?utm_campaign=1058&utm_source=git)** | Searcy, AR, US | On Site | Apr 22 |
 | **[Milwaukee Rescue Mission](https://milmission.org)** | **[Joy House Guest Services Summer Intern](https://jobright.ai/jobs/info/69e94e43e0cd471b2f13c7be?utm_campaign=1058&utm_source=git)** | Milwaukee, WI | On Site | Apr 22 |
 | ↳ | **[Joy House Guest Services Summer Intern](https://jobright.ai/jobs/info/69e67c569b6eb37e26f808d8?utm_campaign=1058&utm_source=git)** | Milwaukee, WI | On Site | Apr 22 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Achievement First](https://www.achievementfirst.org/)** | **[IT Intern, Connecticut](https://jobright.ai/jobs/info/69caf3951b5ad028873a7143?utm_campaign=1058&utm_source=git)** | Connecticut, United States | On Site | Apr 22 |
 | ↳ | **[IT Intern, New York](https://jobright.ai/jobs/info/69caf43f466f1e133aac93b7?utm_campaign=1058&utm_source=git)** | New York, United States | On Site | Apr 22 |
 | **[Trinity Health](http://www.trinity-health.org)** | **[Pharmacy Intern Mount Carmel Dublin](https://jobright.ai/jobs/info/69ceb31154f00230c6d01d0f?utm_campaign=1058&utm_source=git)** | Dublin, OH | On Site | Apr 22 |
-| **[Stifel Financial Corp.](http://www.stifel.com)** | **[Information Technology Intern- Summer 2026](https://jobright.ai/jobs/info/69b097e2dfaeda6ff59abf93?utm_campaign=1058&utm_source=git)** | St Louis, MO | On Site | Apr 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
