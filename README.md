@@ -57,13 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Texas A&M AgriLife Research](https://agriliferesearch.tamu.edu/)** | **[Student Assistant](https://jobright.ai/jobs/info/69ebd3040a6e09555304a991?utm_campaign=1058&utm_source=git)** | College Station, TX | On Site | Apr 24 |
+| **[Academy School District 20](https://www.asd20.org)** | **[IT Summer Internship (Students Only)](https://jobright.ai/jobs/info/69ebd2cb58811370cb13cfa9?utm_campaign=1058&utm_source=git)** | Academy District 20 EAC (Education and Administration Center), Colorado Springs, CO, US | On Site | Apr 24 |
+| **[Service Electric Company](http://serviceelectricco.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/69ebca04dc35f7132c4b3943?utm_campaign=1058&utm_source=git)** | Chattanooga, TN | On Site | Apr 24 |
 | **[Echo Electric](https://echoelectric.com)** | **[Intern](https://jobright.ai/jobs/info/69ebc50058811370cb13cab9?utm_campaign=1058&utm_source=git)** | Syracuse, NY, US, 13204 | On Site | Apr 24 |
 | **[Saint Luke's](https://www.saintlukeskc.org)** | **[Nursing Intern Graduate](https://jobright.ai/jobs/info/69ebc4394b0fa35a7077e618?utm_campaign=1058&utm_source=git)** | Saint Luke's Hospital   |   4401 Wornall Rd   |   Kansas City   |   MO, US | On Site | Apr 24 |
 | **[Sperber Landscape Companies](https://sperbercompanies.com/about/)** | **[IT Intern](https://jobright.ai/jobs/info/69ebc41c4b0fa35a7077e541?utm_campaign=1058&utm_source=git)** | Westlake Village, CA | On Site | Apr 24 |
 | **[Houston Methodist](http://www.houstonmethodist.org/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69cf444a398fb071abf8e544?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Apr 24 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69ebc3b258811370cb13c564?utm_campaign=1058&utm_source=git)** | Philadelphia, PA | On Site | Apr 24 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/69ebc3a816b2612c2a11e722?utm_campaign=1058&utm_source=git)** | Saline, MI | On Site | Apr 24 |
-| **[Philips](https://www.usa.philips.com)** | **[Intern-Customer Service-Nashville, TN-Summer 2026](https://jobright.ai/jobs/info/69ebc35d58811370cb13c47d?utm_campaign=1058&utm_source=git)** | Nashville, TN | On Site | Apr 24 |
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Access Your Future Service Intern](https://jobright.ai/jobs/info/694319d194730b7398761bc0?utm_campaign=1058&utm_source=git)** | Redfield, SD | On Site | Apr 24 |
 | **[Bloom Energy](http://www.bloomenergy.com)** | **[IT Helpdesk Intern](https://jobright.ai/jobs/info/69d5dc21366bb95ba55494d7?utm_campaign=1058&utm_source=git)** | San Jose, CA | On Site | Apr 24 |
 | **[Mac Properties](http://macapartments.com)** | **[Maintenance Intern](https://jobright.ai/jobs/info/69ebc2e358811370cb13c442?utm_campaign=1058&utm_source=git)** | Chicago, Illinois | On Site | Apr 24 |
@@ -80,6 +82,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Senior Nurse Intern PRN - Trauma ICU - Bayfront Hospital](https://jobright.ai/jobs/info/69ebb80b7820c036924f64d5?utm_campaign=1058&utm_source=git)** | Orlando Health Bayfront Hospital | On Site | Apr 24 |
 | **[Stride, Inc.](https://www.stridelearning.com)** | **[Conference & Event Support Micro-Intern](https://jobright.ai/jobs/info/69ebb78a0a6e095553049b59?utm_campaign=1058&utm_source=git)** | US - GA - Remote, US | Remote | Apr 24 |
 | **[Benchmark Hospitality at DU](http://www.benchmarkhoteldfw.com)** | **[Guest Service Agent Internship](https://jobright.ai/jobs/info/69ebb7747820c036924f6400?utm_campaign=1058&utm_source=git)** | The StateView Hotel, US | On Site | Apr 24 |
+| **[Jonas Club Software](http://www.jonasclub.com)** | **[Tech Operations Intern](https://jobright.ai/jobs/info/69ebd32ddc35f7132c4b3b0d?utm_campaign=1058&utm_source=git)** | Markham, Ontario, Canada | On Site | Apr 24 |
+| **[Tandem Diabetes Care](http://www.tandemdiabetes.com)** | **[IT Technician Intern](https://jobright.ai/jobs/info/69cf1804891d7b11cfccff14?utm_campaign=1058&utm_source=git)** | Barnes, CA | On Site | Apr 24 |
 | **[The Cigna Group](https://www.cigna.com/)** | **[Specialty & Infusion Pharmacy Summer Intern](https://jobright.ai/jobs/info/69ebafad16b2612c2a11df66?utm_campaign=1058&utm_source=git)** | Oakdale, Pennsylvania, United States of America | Hybrid | Apr 24 |
 | **[Magna International](http://www.magna.com/)** | **[Intern - IT Support](https://jobright.ai/jobs/info/69eba83616b2612c2a11dcd2?utm_campaign=1058&utm_source=git)** | Southfield, Michigan, US | On Site | Apr 24 |
 | **[Halifax Health](https://www.halifaxhealth.org)** | **[IT Intern](https://jobright.ai/jobs/info/69eba82a16b2612c2a11dc69?utm_campaign=1058&utm_source=git)** | US-FL-Daytona Beach, US | On Site | Apr 24 |
@@ -112,6 +116,7 @@ For a complete list, click the following sortable link below:
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE - CRNA Internship](https://jobright.ai/jobs/info/69eb91664b0fa35a7077c78d?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Apr 24 |
 | **[Meritus Health](http://www.meritushealth.com)** | **[Certified Nursing Assistant, Intern](https://jobright.ai/jobs/info/69eb910a0a6e095553047c86?utm_campaign=1058&utm_source=git)** | Winchester, VA | On Site | Apr 24 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[PHARM INTERN TECH (TEMP)](https://jobright.ai/jobs/info/69eb90be58811370cb13a0a8?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Apr 24 |
+| **[RWJBarnabas Health](https://www.rwjbarnabashealthcareers.org/)** | **[Paramedic Intern](https://jobright.ai/jobs/info/69d8b0fbb861c42857c4bf67?utm_campaign=1058&utm_source=git)** | Somerset, NJ | On Site | Apr 24 |
 | **[Houchens Insurance Group](https://www.higusa.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/69c47c0933eecf310794d30a?utm_campaign=1058&utm_source=git)** | Bowling Green, KY | On Site | Apr 24 |
 | **[ISACA](http://www.isaca.org)** | **[Intern, IT Service Desk](https://jobright.ai/jobs/info/69eba16058811370cb13b501?utm_campaign=1058&utm_source=git)** | Schaumburg, IL | Hybrid | Apr 24 |
 | **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[Intern, Technical Support- Engineering](https://jobright.ai/jobs/info/699631b1e0bddb6acac49284?utm_campaign=1058&utm_source=git)** | Wilkes-Barre, PA | On Site | Apr 24 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[Respiratory Intern - Mercy Southeast](https://jobright.ai/jobs/info/69eac4700a6e095553042b95?utm_campaign=1058&utm_source=git)** | Mercy Hospital Southeast, US | On Site | Apr 23 |
 | ↳ | **[Radiology Intern II](https://jobright.ai/jobs/info/69eac45b3aa0c479643b17e8?utm_campaign=1058&utm_source=git)** | Mercy Hospital Perry, US | On Site | Apr 23 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Registrar Intern](https://jobright.ai/jobs/info/69eac45a3aa0c479643b17de?utm_campaign=1058&utm_source=git)** | Salt Lake City, UT, United States | Remote | Apr 23 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69eb3c1d16b2612c2a11a5e2?utm_campaign=1058&utm_source=git)** | Chapel Hill, NC | On Site | Apr 23 |
-| **[Waco Tribune-Herald](http://wacotrib.com)** | **[Office Assistant 1 (Keyboarding)- Student Health Center- NY HELPS](https://jobright.ai/jobs/info/69eb52364b0fa35a7077a775?utm_campaign=1058&utm_source=git)** | Brockport, NY | On Site | Apr 23 |
-| **[Pavement Recycling Systems](http://pavementrecycling.com)** | **[Intern](https://jobright.ai/jobs/info/69eabba33aa0c479643b165f?utm_campaign=1058&utm_source=git)** | Sacramento, CA, US | On Site | Apr 23 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/69eabb717820c036924ef4ac?utm_campaign=1058&utm_source=git)** | US-CA-Sacramento | On Site | Apr 23 |
-| **[SAP](https://www.sap.com)** | **[SAP Procurement ERM iXp Intern - Technical Product Support](https://jobright.ai/jobs/info/69eabae1dc35f7132c4abb2c?utm_campaign=1058&utm_source=git)** | Toronto, ON, CA, M5K 1B7 | Hybrid | Apr 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
