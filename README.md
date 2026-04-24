@@ -90,9 +90,11 @@ For a complete list, click the following sortable link below:
 | **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Intern](https://jobright.ai/jobs/info/69ea47f558811370cb1323be?utm_campaign=1058&utm_source=git)** | Philadelphia, PA, US | On Site | Apr 23 |
 | **[CAC Group](https://cacgroup.com)** | **[Intern, Property and Casualty](https://jobright.ai/jobs/info/69ea47e758811370cb132372?utm_campaign=1058&utm_source=git)** | Birmingham, Alabama, US | On Site | Apr 23 |
 | **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Intern](https://jobright.ai/jobs/info/69ea47c03aa0c479643aeb25?utm_campaign=1058&utm_source=git)** | US-PA-Philadelphia | On Site | Apr 23 |
+| **[Otter Tail County](https://ottertailcounty.gov/)** | **[Technology Analyst - Software & Training Administrator](https://jobright.ai/jobs/info/69eaac520a6e095553042655?utm_campaign=1058&utm_source=git)** | Fergus Falls, MN | On Site | Apr 23 |
 | **[Greenberg Traurig Amsterdam](https://www.gtlaw.com/en/locations/amsterdam)** | **[Intern](https://jobright.ai/jobs/info/69ea3cc43aa0c479643ae6a2?utm_campaign=1058&utm_source=git)** | Philadelphia, US | On Site | Apr 23 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Extended Services Intern](https://jobright.ai/jobs/info/69e6ec68f8fa2f3ec32a3fd4?utm_campaign=1058&utm_source=git)** | Baltimore, MD | Hybrid | Apr 23 |
 | ↳ | **[Walk-in Case Management Services Intern](https://jobright.ai/jobs/info/69e32f8efcfcbd43860a5415?utm_campaign=1058&utm_source=git)** | Baltimore, MD | Hybrid | Apr 23 |
+| **[North Carolina State University](http://www.ncsu.edu)** | **[Temporary-Technical/Paraprofessional](https://jobright.ai/jobs/info/69eaac5c0a6e095553042675?utm_campaign=1058&utm_source=git)** | Raleigh, NC | On Site | Apr 23 |
 | **[Publicis Groupe](https://www.publicisgroupe.com)** | **[Intern](https://jobright.ai/jobs/info/69ea72e058811370cb133401?utm_campaign=1058&utm_source=git)** | Philadelphia, PA | On Site | Apr 23 |
 | **[Bassett Healthcare Network](https://www.bassett.org/)** | **[Clinical Pharmacy Intern](https://jobright.ai/jobs/info/69e0096e5913ad339814782e?utm_campaign=1058&utm_source=git)** | Delhi, NY | On Site | Apr 23 |
 | **[NAVY EXCHANGE SERVICE COMMAND (NEXCOM)](https://www.mynavyexchange.com)** | **[GUEST SERVICE REPRESENTATIVE I](https://jobright.ai/jobs/info/69e6f9493aa0c4796439694f?utm_campaign=1058&utm_source=git)** | Patuxent River, MD | On Site | Apr 23 |
@@ -119,7 +121,6 @@ For a complete list, click the following sortable link below:
 | **[Xometry](https://www.xometry.com)** | **[Case Management Intern](https://jobright.ai/jobs/info/69407a6150bbaf7650527a7a?utm_campaign=1058&utm_source=git)** | North Bethesda, MD | On Site | Apr 23 |
 | **[Huhtamaki](http://huhtamaki.com/)** | **[IT Intern](https://jobright.ai/jobs/info/69cd9828398fb071abf7a539?utm_campaign=1058&utm_source=git)** | De Soto, KS | Hybrid | Apr 23 |
 | **[The University of Georgia](http://www.ai.uga.edu)** | **[Pre-LVT Intern](https://jobright.ai/jobs/info/69ea47903aa0c479643aea25?utm_campaign=1058&utm_source=git)** | Athens, GA | On Site | Apr 23 |
-| ↳ | **[Desk Assistant](https://jobright.ai/jobs/info/69ea47224b0fa35a707730a2?utm_campaign=1058&utm_source=git)** | Athens, GA | On Site | Apr 23 |
 | ↳ | **[Student Assistant - FMD](https://jobright.ai/jobs/info/69ea47903aa0c479643aea26?utm_campaign=1058&utm_source=git)** | Athens, GA | On Site | Apr 23 |
 | **[Nuvance Health](https://www.nuvancehealth.org)** | **[Medical Assistant Intern - Float Pool Region C](https://jobright.ai/jobs/info/69ea2c2a7820c036924ec436?utm_campaign=1058&utm_source=git)** | Danbury, CT | On Site | Apr 23 |
 | **[Central Garden & Pet](http://www.central.com)** | **[Service Desk Intern](https://jobright.ai/jobs/info/69ea192e7820c036924ec114?utm_campaign=1058&utm_source=git)** | Walnut Creek, CA | On Site | Apr 23 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kinney Drugs](http://www.kinneydrugs.com)** | **[Pharmacy Intern P4](https://jobright.ai/jobs/info/69d581ce891d7b11cfd028af?utm_campaign=1058&utm_source=git)** | Baldwinsville, NY | On Site | Apr 22 |
 | **[Mercury Insurance](http://www.mercuryinsurance.com)** | **[Customer Support Specialist](https://jobright.ai/jobs/info/69e9b26758811370cb12eaf4?utm_campaign=1058&utm_source=git)** | United States | Remote | Apr 22 |
 | **[OhioHealth](https://www.ohiohealth.com/)** | **[Patient Support Assistant - intern (Work Based Learning Students only)](https://jobright.ai/jobs/info/69e98b20e0cd471b2f13e4c5?utm_campaign=1058&utm_source=git)** | DOCTORS HOSPITAL, US | On Site | Apr 22 |
-| ↳ | **[Patient Support Assistant - intern (Work Based Learning Students only)](https://jobright.ai/jobs/info/69e98b077820c036924e8f9c?utm_campaign=1058&utm_source=git)** | 3535 OLENTANGY RIVER RD, US | On Site | Apr 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
