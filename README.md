@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SpotHero](http://www.spothero.com)** | **[IT Intern](https://jobright.ai/jobs/info/69ebef2fdc35f7132c4b4693?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Apr 24 |
 | **[SageNet](http://www.sagenet.com/)** | **[Help Desk / IT Support Internship](https://jobright.ai/jobs/info/69ebe226dc35f7132c4b40ca?utm_campaign=1058&utm_source=git)** | Tulsa, Oklahoma, United States | On Site | Apr 24 |
 | **[Arclin](http://arclin.com)** | **[Intern: Supply Chain Customer Service](https://jobright.ai/jobs/info/69ebe22216b2612c2a11f88a?utm_campaign=1058&utm_source=git)** | Alpharetta, Georgia, United States | On Site | Apr 24 |
 | **[Cruise Planners HQ](http://www.cruiseplanners.com)** | **[Summer Internship](https://jobright.ai/jobs/info/69ebde4558811370cb13d527?utm_campaign=1058&utm_source=git)** | Coral Springs, FL | On Site | Apr 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[RTX](http://rtx.com/)** | **[Engineering Support Intern](https://jobright.ai/jobs/info/69eb6e587820c036924f3c7c?utm_campaign=1058&utm_source=git)** | Cambridge, MA | On Site | Apr 24 |
 | **[Golden 1 Credit Union](https://www.golden1.com/)** | **[Member Care Collections and Loss Mitigation - Member Care Rep II](https://jobright.ai/jobs/info/69cf409f891d7b11cfcd1ef0?utm_campaign=1058&utm_source=git)** | Sacramento, CA | On Site | Apr 24 |
 | **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE - CRNA Internship](https://jobright.ai/jobs/info/69eb66987820c036924f38dd?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Apr 24 |
-| **[Lookout Housing + Health Society](https://lookoutsociety.ca/)** | **[Job Title                                                   Recovery Advocate](https://jobright.ai/jobs/info/69eb6669dc35f7132c4b01f3?utm_campaign=1058&utm_source=git)** | North Vancouver, British Columbia, Canada | On Site | Apr 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
