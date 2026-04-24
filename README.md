@@ -91,8 +91,12 @@ For a complete list, click the following sortable link below:
 | **[Providence Health & Services](https://www.providence.org/)** | **[Pharmacist Intern - Credena Health Pharmacy](https://jobright.ai/jobs/info/69ea63e14b0fa35a70773cd6?utm_campaign=1058&utm_source=git)** | Seattle, WA, United States | On Site | Apr 23 |
 | ↳ | **[Pharmacist Intern - Credena Health Pharmacy](https://jobright.ai/jobs/info/69ea63e04b0fa35a70773cce?utm_campaign=1058&utm_source=git)** | Seattle, WA, United States | On Site | Apr 23 |
 | **[Covenant Health](https://www.covenanthealth.org)** | **[Pharmacist Intern - Credena Health Pharmacy](https://jobright.ai/jobs/info/69ea63df58811370cb132d61?utm_campaign=1058&utm_source=git)** | Seattle, WA, United States | On Site | Apr 23 |
+| **[Eastern Idaho Regional Medical Center](https://eirmc.com)** | **[Pharmacist Intern I PRN](https://jobright.ai/jobs/info/69ce4051891d7b11cfcc67e3?utm_campaign=1058&utm_source=git)** | Idaho Falls, ID | On Site | Apr 23 |
+| **[Trinity Health MI](https://bit.ly/3y0fhsr)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69b1df6c548f140066e7d941?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Apr 23 |
 | **[Eastern Idaho Regional Medical Center](https://eirmc.com)** | **[Pharmacist Intern III PRN](https://jobright.ai/jobs/info/69ce4065cfdc6132f94266c3?utm_campaign=1058&utm_source=git)** | Idaho Falls, ID | On Site | Apr 23 |
 | **[SMC³](http://www.smc3.com/)** | **[Application Support Intern](https://jobright.ai/jobs/info/69ea5c024b0fa35a707738c1?utm_campaign=1058&utm_source=git)** | Peachtree City, GA, US | On Site | Apr 23 |
+| **[Centerpoint Medical Center](http://www.centerpointmedical.com)** | **[Pharmacy Intern PRN](https://jobright.ai/jobs/info/68eb879f2f64880ca0b58b47?utm_campaign=1058&utm_source=git)** | Independence, MO | On Site | Apr 23 |
+| **[Eastern Idaho Regional Medical Center](https://eirmc.com)** | **[Pharmacist Intern II PRN](https://jobright.ai/jobs/info/69ce417e366bb95ba5509a16?utm_campaign=1058&utm_source=git)** | Idaho Falls, ID | On Site | Apr 23 |
 | **[Lafayette 148 New York](http://lafayette148ny.com)** | **[Sales Support Intern](https://jobright.ai/jobs/info/69ea53464b0fa35a707736ae?utm_campaign=1058&utm_source=git)** | Brooklyn, New York, United States | On Site | Apr 23 |
 | **[Community Health Systems](http://www.chs.net)** | **[Student Intern House Rotation](https://jobright.ai/jobs/info/69ea50810a6e09555304029e?utm_campaign=1058&utm_source=git)** | 2520 E Dupont Rd, Fort Wayne, IN, 46825, US | On Site | Apr 23 |
 | **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[IT Intern Summer 2026 - Irving, TX](https://jobright.ai/jobs/info/69df249436823d1b42586906?utm_campaign=1058&utm_source=git)** | Irving, TX | On Site | Apr 23 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[University Housing - The University of Georgia](https://housing.uga.edu/)** | **[Desk Assistant](https://jobright.ai/jobs/info/69e9ddf4e0cd471b2f13f50d?utm_campaign=1058&utm_source=git)** | Athens, GA | On Site | Apr 23 |
 | ↳ | **[Night Desk Assistant](https://jobright.ai/jobs/info/69e9ddbe7820c036924e9f12?utm_campaign=1058&utm_source=git)** | Athens, GA | On Site | Apr 23 |
 | **[Cone Health](http://www.conehealth.com)** | **[Student Ultrasound Assistant](https://jobright.ai/jobs/info/69e9d58d4b0fa35a707703a7?utm_campaign=1058&utm_source=git)** | Greensboro, NC | On Site | Apr 23 |
-| **[Smith's Food & Drug Centers](https://www.smithsfoodanddrug.com/)** | **[Pharmacist Intern #347](https://jobright.ai/jobs/info/69e9cec13aa0c479643abd0a?utm_campaign=1058&utm_source=git)** | Henderson, NV | On Site | Apr 23 |
-| ↳ | **[Pharmacist Intern #385](https://jobright.ai/jobs/info/69e9cec03aa0c479643abd09?utm_campaign=1058&utm_source=git)** | Henderson, NV | On Site | Apr 23 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69e9c9be4b0fa35a707702f3?utm_campaign=1058&utm_source=git)** | Arlington, VA | On Site | Apr 23 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69e9c75e58811370cb12f417?utm_campaign=1058&utm_source=git)** | Beckley, WV | On Site | Apr 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
