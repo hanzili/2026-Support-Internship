@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Magna International](http://www.magna.com/)** | **[Intern - IT Support](https://jobright.ai/jobs/info/69eba83616b2612c2a11dcd2?utm_campaign=1058&utm_source=git)** | Southfield, Michigan, US | On Site | Apr 24 |
+| **[Halifax Health](https://www.halifaxhealth.org)** | **[IT Intern](https://jobright.ai/jobs/info/69eba82a16b2612c2a11dc69?utm_campaign=1058&utm_source=git)** | US-FL-Daytona Beach, US | On Site | Apr 24 |
+| **[IBM](http://www.ibm.com)** | **[Tech Support Intern 2026](https://jobright.ai/jobs/info/69eba74f58811370cb13b82b?utm_campaign=1058&utm_source=git)** | Austin, TX | Hybrid | Apr 24 |
+| **[Ascension](https://healthcare.ascension.org)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69eba1e458811370cb13b6fb?utm_campaign=1058&utm_source=git)** | St. Johns, FL, US | On Site | Apr 24 |
+| **[UFP Site Built](https://www.ufpsitebuilt.com)** | **[IT Intern](https://jobright.ai/jobs/info/69eba15e7820c036924f5a6c?utm_campaign=1058&utm_source=git)** | Grand Rapids, MI (IT Building), US | On Site | Apr 24 |
 | **[BorgWarner](http://www.borgwarner.com)** | **[IT Co-op/Intern](https://jobright.ai/jobs/info/69cef47ecfdc6132f942e71b?utm_campaign=1058&utm_source=git)** | Ithaca, NY | On Site | Apr 24 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Intern IT](https://jobright.ai/jobs/info/69b3d3e6ae2a534885eb4c06?utm_campaign=1058&utm_source=git)** | Lexington, KY | On Site | Apr 24 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Customer Experience Analyst Intern (Year Round)](https://jobright.ai/jobs/info/69cf1405cdb525785fb9e98f?utm_campaign=1058&utm_source=git)** | Tucson, AZ | On Site | Apr 24 |
@@ -74,7 +79,9 @@ For a complete list, click the following sortable link below:
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE - CRNA Internship](https://jobright.ai/jobs/info/69eb91664b0fa35a7077c78d?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Apr 24 |
 | **[Meritus Health](http://www.meritushealth.com)** | **[Certified Nursing Assistant, Intern](https://jobright.ai/jobs/info/69eb910a0a6e095553047c86?utm_campaign=1058&utm_source=git)** | Winchester, VA | On Site | Apr 24 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[PHARM INTERN TECH (TEMP)](https://jobright.ai/jobs/info/69eb90be58811370cb13a0a8?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Apr 24 |
+| **[ISACA](http://www.isaca.org)** | **[Intern, IT Service Desk](https://jobright.ai/jobs/info/69eba16058811370cb13b501?utm_campaign=1058&utm_source=git)** | Schaumburg, IL | Hybrid | Apr 24 |
 | **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[Intern, Technical Support- Engineering](https://jobright.ai/jobs/info/699631b1e0bddb6acac49284?utm_campaign=1058&utm_source=git)** | Wilkes-Barre, PA | On Site | Apr 24 |
+| **[Banner Health](https://www.bannerhealth.com)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/69eba7794b0fa35a7077d76c?utm_campaign=1058&utm_source=git)** | Scottsdale, AZ | On Site | Apr 24 |
 | **[Sharp HealthCare](http://www.sharp.com)** | **[Intern Pharmacist - Sharp Grossmont Hospital - Variable Shift - Per Diem](https://jobright.ai/jobs/info/69eb95437820c036924f534d?utm_campaign=1058&utm_source=git)** | La Mesa, CA | On Site | Apr 24 |
 | **[DXC Technology](https://www.dxc.com)** | **[Non-technical Intern](https://jobright.ai/jobs/info/69eb70707820c036924f3ec8?utm_campaign=1058&utm_source=git)** | USA - NY - NEW YORK, US | On Site | Apr 24 |
 | **[Pavement Recycling Systems](http://pavementrecycling.com)** | **[Intern](https://jobright.ai/jobs/info/69eb93324b0fa35a7077cd72?utm_campaign=1058&utm_source=git)** | Sacramento, CA | On Site | Apr 24 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CommonSpirit Health](https://www.commonspirit.org)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69eb25530a6e095553044924?utm_campaign=1058&utm_source=git)** | Council Bluffs, IA | On Site | Apr 23 |
 | **[North Carolina State University](http://www.ncsu.edu)** | **[Temporary Technology Support Analyst](https://jobright.ai/jobs/info/69eb054f16b2612c2a118579?utm_campaign=1058&utm_source=git)** | Raleigh, NC | On Site | Apr 23 |
 | **[AvePoint Public Sector](https://www.avepoint.com/solutions/us-public-sector)** | **[Client Services Intern](https://jobright.ai/jobs/info/69ea83694b0fa35a70774e16?utm_campaign=1058&utm_source=git)** | Jersey City, NJ, United States | On Site | Apr 23 |
-| **[Latham Centers, Inc.](https://www.lathamcenters.org/)** | **[IT Intern](https://jobright.ai/jobs/info/69ea82c57820c036924ee5d5?utm_campaign=1058&utm_source=git)** | Yarmouth Port, MA | On Site | Apr 23 |
-| **[East Georgia Regional Medical Center, LLC](https://www.eastgeorgiaregional.com)** | **[Student Nurse Intern TELE MED/SURG PRN](https://jobright.ai/jobs/info/69eb0b9616b2612c2a1186ec?utm_campaign=1058&utm_source=git)** | Statesboro, GA | On Site | Apr 23 |
-| **[Allegheny Health Network](https://www.ahn.org)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69eb2fed58811370cb136d8c?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | On Site | Apr 23 |
-| **[International Rescue Committee](http://www.rescue.org)** | **[Operations Support Intern](https://jobright.ai/jobs/info/69ea800a7820c036924ee550?utm_campaign=1058&utm_source=git)** | Baltimore, MD USA, US | Hybrid | Apr 23 |
-| **[Resound Credit Union](https://www.bankcfcu.org/)** | **[(Internship) Summer Teller](https://jobright.ai/jobs/info/69eb3c54dc35f7132c4aedca?utm_campaign=1058&utm_source=git)** | Murfreesboro, TN | On Site | Apr 23 |
-| **[Corewell Health](https://corewellhealth.org)** | **[RN OR Intern](https://jobright.ai/jobs/info/69ea79ef4b0fa35a70774a96?utm_campaign=1058&utm_source=git)** | Royal Oak, MI, US | On Site | Apr 23 |
-| **[Sharp HealthCare](http://www.sharp.com)** | **[Intern Pharmacist - Sharp Grossmont Hospital - Variable Shift - Per Diem](https://jobright.ai/jobs/info/69ea79ea4b0fa35a70774a94?utm_campaign=1058&utm_source=git)** | La Mesa, CA, US | On Site | Apr 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
