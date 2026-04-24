@@ -57,16 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[Intern, Technical Support- Engineering](https://jobright.ai/jobs/info/699631b1e0bddb6acac49284?utm_campaign=1058&utm_source=git)** | Wilkes-Barre, PA | On Site | Apr 24 |
 | **[DXC Technology](https://www.dxc.com)** | **[Non-technical Intern](https://jobright.ai/jobs/info/69eb70707820c036924f3ec8?utm_campaign=1058&utm_source=git)** | USA - NY - NEW YORK, US | On Site | Apr 24 |
 | **[Community Health Systems](http://www.chs.net)** | **[Registered Nurse Intern Women's Services](https://jobright.ai/jobs/info/69eb63c74b0fa35a7077b1ea?utm_campaign=1058&utm_source=git)** | 1499 Fair Rd, Statesboro, GA, 30458, US | On Site | Apr 24 |
 | **[Xometry](https://www.xometry.com)** | **[Customer Support Intern](https://jobright.ai/jobs/info/695ab318aa05c26e7ab4364b?utm_campaign=1058&utm_source=git)** | North Bethesda, MD | Hybrid | Apr 24 |
 | **[GenPark](https://genpark.ai)** | **[Information Technology Intern](https://jobright.ai/jobs/info/69eb581216b2612c2a11b635?utm_campaign=1058&utm_source=git)** | San Diego, CA | Hybrid | Apr 24 |
+| **[ofi North America (Olam Food Ingredients)](http://www.ofi.com)** | **[Summer 2026 Intern: Customer Service Operations Strategy](https://jobright.ai/jobs/info/69eb80137820c036924f4001?utm_campaign=1058&utm_source=git)** | Fresno, CA | On Site | Apr 24 |
+| **[NXP Semiconductors](https://www.nxp.com)** | **[Americas Customer Application Support Internship - Summer 2026](https://jobright.ai/jobs/info/69cf156bcdb525785fb9ea0c?utm_campaign=1058&utm_source=git)** | Novi, MI | On Site | Apr 24 |
 | **[Lumicera Health Services](https://www.lumicera.com/)** | **[Summer Intern- IT Support](https://jobright.ai/jobs/info/69ce9825cfdc6132f9429acb?utm_campaign=1058&utm_source=git)** | Appleton, WI | On Site | Apr 24 |
 | **[RTX](http://rtx.com/)** | **[Engineering Support Intern](https://jobright.ai/jobs/info/69eb6e587820c036924f3c7c?utm_campaign=1058&utm_source=git)** | Cambridge, MA | On Site | Apr 24 |
 | **[Golden 1 Credit Union](https://www.golden1.com/)** | **[Member Care Collections and Loss Mitigation - Member Care Rep II](https://jobright.ai/jobs/info/69cf409f891d7b11cfcd1ef0?utm_campaign=1058&utm_source=git)** | Sacramento, CA | On Site | Apr 24 |
 | **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE - CRNA Internship](https://jobright.ai/jobs/info/69eb66987820c036924f38dd?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Apr 24 |
 | ↳ | **[REGISTERED NURSE - CRNA Internship](https://jobright.ai/jobs/info/69eb66710a6e095553047036?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Apr 24 |
-| ↳ | **[PHARM INTERN TECH (TEMP)](https://jobright.ai/jobs/info/69eb669f4b0fa35a7077b2ca?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Apr 24 |
 | **[AHMC HealthCare](http://AHMChealth.com)** | **[Intern Pharmacist-Per Diem](https://jobright.ai/jobs/info/69eb6e804b0fa35a7077b719?utm_campaign=1058&utm_source=git)** | Anaheim, CA | On Site | Apr 24 |
 | **[Lookout Housing + Health Society](https://lookoutsociety.ca/)** | **[Job Title                                                   Recovery Advocate](https://jobright.ai/jobs/info/69eb6669dc35f7132c4b01f3?utm_campaign=1058&utm_source=git)** | North Vancouver, British Columbia, Canada | On Site | Apr 23 |
 | **[Huntington Health](https://www.huntingtonhealth.org)** | **[Student Nurse Intern, Per Diem Nights, DOU](https://jobright.ai/jobs/info/69eb0ba07820c036924f0b08?utm_campaign=1058&utm_source=git)** | Huntington Hospital - Pasadena, US | On Site | Apr 23 |
@@ -138,7 +140,7 @@ For a complete list, click the following sortable link below:
 | **[Corewell Health](https://corewellhealth.org)** | **[RN OR Intern](https://jobright.ai/jobs/info/69ea79ef4b0fa35a70774a96?utm_campaign=1058&utm_source=git)** | Royal Oak, MI, US | On Site | Apr 23 |
 | **[Sharp HealthCare](http://www.sharp.com)** | **[Intern Pharmacist - Sharp Grossmont Hospital - Variable Shift - Per Diem](https://jobright.ai/jobs/info/69ea79ea4b0fa35a70774a94?utm_campaign=1058&utm_source=git)** | La Mesa, CA, US | On Site | Apr 23 |
 | **[Lutheran Health Network](http://www.lutheranhealth.net)** | **[Student Intern House Rotation](https://jobright.ai/jobs/info/69eb134058811370cb1366c3?utm_campaign=1058&utm_source=git)** | Fort Wayne, IN | On Site | Apr 23 |
-| ↳ | **[Student Intern House Rotation PRN](https://jobright.ai/jobs/info/69eb134f7820c036924f0d42?utm_campaign=1058&utm_source=git)** | Fort Wayne, IN | On Site | Apr 23 |
+| ↳ | **[Student Intern House Rotation PRN](https://jobright.ai/jobs/info/69eb131216b2612c2a1187e7?utm_campaign=1058&utm_source=git)** | Fort Wayne, IN | On Site | Apr 23 |
 | **[Kawartha Pine Ridge District School Board](https://www.kprschools.ca/)** | **[Client Services/Analyst Trainer - 35 hours - Education Centre](https://jobright.ai/jobs/info/69eb0c070a6e0955530441cd?utm_campaign=1058&utm_source=git)** | Peterborough, Ontario, Canada | On Site | Apr 23 |
 | **[Orion](https://orionadvisortech.com/)** | **[Intern](https://jobright.ai/jobs/info/69ea72b50a6e095553040e5d?utm_campaign=1058&utm_source=git)** | Jacksonville, US | Hybrid | Apr 23 |
 | **[CESO, INC.](http://cesoinc.com)** | **[Information Technology Co-Op/Intern](https://jobright.ai/jobs/info/69ea716b3aa0c479643afaf2?utm_campaign=1058&utm_source=git)** | Dayton, OH | On Site | Apr 23 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Trinity Health MI](https://bit.ly/3y0fhsr)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69b1df6c548f140066e7d941?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Apr 23 |
 | **[SMC³](http://www.smc3.com/)** | **[Application Support Intern](https://jobright.ai/jobs/info/69ea5c024b0fa35a707738c1?utm_campaign=1058&utm_source=git)** | Peachtree City, GA, US | On Site | Apr 23 |
 | **[CCC Intelligent Solutions](http://www.cccis.com)** | **[Salesforce Support and Analytics Intern](https://jobright.ai/jobs/info/69d5d584891d7b11cfd06063?utm_campaign=1058&utm_source=git)** | Chicago, IL | Hybrid | Apr 23 |
-| **[Eastern Idaho Regional Medical Center](https://eirmc.com)** | **[Pharmacist Intern III PRN](https://jobright.ai/jobs/info/69ce4065cfdc6132f94266c3?utm_campaign=1058&utm_source=git)** | Idaho Falls, ID | On Site | Apr 23 |
-| **[Centerpoint Medical Center](http://www.centerpointmedical.com)** | **[Pharmacy Intern PRN](https://jobright.ai/jobs/info/68eb879f2f64880ca0b58b47?utm_campaign=1058&utm_source=git)** | Independence, MO | On Site | Apr 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
