@@ -57,11 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DMA - DuCharme, McMillen & Associates, Inc.](https://www.dmainc.com/)** | **[IT Support Intern](https://jobright.ai/jobs/info/69ec0aaf4b0fa35a7078069d?utm_campaign=1058&utm_source=git)** | Fort Wayne, IN | On Site | Apr 24 |
+| **[Veolia | North America](http://growingblue.com/)** | **[Customer Service Intern](https://jobright.ai/jobs/info/69ec0a8ddc35f7132c4b53ae?utm_campaign=1058&utm_source=git)** | New Rochelle, NY | On Site | Apr 24 |
+| **[SpotHero](http://www.spothero.com)** | **[IT Intern](https://jobright.ai/jobs/info/69ec0a7c7820c036924f8cf6?utm_campaign=1058&utm_source=git)** | Chicago, IL | Hybrid | Apr 24 |
+| **[Cooper Electric](https://cooper-electric.com)** | **[Intern](https://jobright.ai/jobs/info/69ec03724b0fa35a707803a2?utm_campaign=1058&utm_source=git)** | Syracuse, NY | On Site | Apr 24 |
+| **[IWK Health](https://www.iwk.nshealth.ca)** | **[Registration/Scheduling Clerk, ENT](https://jobright.ai/jobs/info/69ec0302dc35f7132c4b505c?utm_campaign=1058&utm_source=git)** | Halifax, Nova Scotia, Canada | On Site | Apr 24 |
 | **[Pyramid Global Hospitality](https://pyramidglobal.com)** | **[Guest Service Agent Internship](https://jobright.ai/jobs/info/69ebfdc716b2612c2a12052a?utm_campaign=1058&utm_source=git)** | Triangle Area | On Site | Apr 24 |
 | **[UFP Industries](https://www.ufpi.com/)** | **[IT Intern](https://jobright.ai/jobs/info/69ebfd2edc35f7132c4b4db1?utm_campaign=1058&utm_source=git)** | Grand Rapids, MI | On Site | Apr 24 |
 | **[Municipal Mowing Solutions](http://www.alamo-industrial.com/)** | **[IT Intern](https://jobright.ai/jobs/info/69ebfc0a0a6e09555304ba41?utm_campaign=1058&utm_source=git)** | Selma, AL, 36701, United States | On Site | Apr 24 |
 | **[Legends Global](http://legends.net)** | **[Hospitality Intern - Huntington Bank Pavilion](https://jobright.ai/jobs/info/69ebf5037820c036924f83c5?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Apr 24 |
 | **[SpotHero](http://www.spothero.com)** | **[IT Intern](https://jobright.ai/jobs/info/69ebef2fdc35f7132c4b4693?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Apr 24 |
+| **[MercyOne](https://www.mercyone.org/)** | **[Lead Pharmacist Intern](https://jobright.ai/jobs/info/69ec0aa77820c036924f8d90?utm_campaign=1058&utm_source=git)** | West Des Moines, IA | On Site | Apr 24 |
+| ↳ | **[Lead Pharmacist Intern](https://jobright.ai/jobs/info/69ec0a814b0fa35a707805d2?utm_campaign=1058&utm_source=git)** | Des Moines, IA | On Site | Apr 24 |
+| **[Five Stones Research Corporation](http://5sr-hsv.com)** | **[IT Intern](https://jobright.ai/jobs/info/69ec03f958811370cb13e398?utm_campaign=1058&utm_source=git)** | Huntsville, AL | On Site | Apr 24 |
+| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Customer Success Enablement Support](https://jobright.ai/jobs/info/69ec02f47820c036924f8a04?utm_campaign=1058&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Apr 24 |
 | **[SageNet](http://www.sagenet.com/)** | **[Help Desk / IT Support Internship](https://jobright.ai/jobs/info/69ebe226dc35f7132c4b40ca?utm_campaign=1058&utm_source=git)** | Tulsa, Oklahoma, United States | On Site | Apr 24 |
 | **[Arclin](http://arclin.com)** | **[Intern: Supply Chain Customer Service](https://jobright.ai/jobs/info/69ebe22216b2612c2a11f88a?utm_campaign=1058&utm_source=git)** | Alpharetta, Georgia, United States | On Site | Apr 24 |
 | **[Cruise Planners HQ](http://www.cruiseplanners.com)** | **[Summer Internship](https://jobright.ai/jobs/info/69ebde4558811370cb13d527?utm_campaign=1058&utm_source=git)** | Coral Springs, FL | On Site | Apr 24 |
@@ -82,7 +91,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacist Grad Intern](https://jobright.ai/jobs/info/69ebfdc10a6e09555304be05?utm_campaign=1058&utm_source=git)** | Renton, WA | On Site | Apr 24 |
 | ↳ | **[Pharmacist Grad Intern](https://jobright.ai/jobs/info/69ebfdbc7820c036924f888d?utm_campaign=1058&utm_source=git)** | Hillsboro, OR | On Site | Apr 24 |
 | ↳ | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/69ebfdb4dc35f7132c4b4e93?utm_campaign=1058&utm_source=git)** | Albuquerque, NM | On Site | Apr 24 |
-| **[Children's Healthcare of Atlanta](http://www.choa.org)** | **[IT Asset Management Intern](https://jobright.ai/jobs/info/69ebfda14b0fa35a70780078?utm_campaign=1058&utm_source=git)** | Brookhaven, GA | On Site | Apr 24 |
 | **[First Security Bank Montana - Div. of Glacier Bank](http://ourbank.com)** | **[Teller Intern](https://jobright.ai/jobs/info/69ebfde24b0fa35a7078013f?utm_campaign=1058&utm_source=git)** | Bozeman, MT | On Site | Apr 24 |
 | **[Service Electric Company](http://serviceelectricco.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/69ebca04dc35f7132c4b3943?utm_campaign=1058&utm_source=git)** | Chattanooga, TN | On Site | Apr 24 |
 | **[Echo Electric](https://echoelectric.com)** | **[Intern](https://jobright.ai/jobs/info/69ebc50058811370cb13cab9?utm_campaign=1058&utm_source=git)** | Syracuse, NY, US, 13204 | On Site | Apr 24 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[PTR Premier Truck Rental](https://rentptr.com)** | **[Intern Service Technician](https://jobright.ai/jobs/info/69b330ddae2a534885ea97c1?utm_campaign=1058&utm_source=git)** | Fort Worth, TX | On Site | Apr 24 |
 | ↳ | **[Intern Service Technician](https://jobright.ai/jobs/info/69b3359ca8ac8e70ff677732?utm_campaign=1058&utm_source=git)** | Fort Wayne, IN | On Site | Apr 24 |
 | **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69ebae964b0fa35a7077dab5?utm_campaign=1058&utm_source=git)** | Rochester, NY | On Site | Apr 24 |
-| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69ebae984b0fa35a7077dac1?utm_campaign=1058&utm_source=git)** | Albany, OR | On Site | Apr 24 |
-| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE - CRNA Internship](https://jobright.ai/jobs/info/69eb91664b0fa35a7077c78d?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Apr 24 |
-| **[Meritus Health](http://www.meritushealth.com)** | **[Certified Nursing Assistant, Intern](https://jobright.ai/jobs/info/69eb910a0a6e095553047c86?utm_campaign=1058&utm_source=git)** | Winchester, VA | On Site | Apr 24 |
-| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[PHARM INTERN TECH (TEMP)](https://jobright.ai/jobs/info/69eb90be58811370cb13a0a8?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Apr 24 |
-| **[RWJBarnabas Health](https://www.rwjbarnabashealthcareers.org/)** | **[Paramedic Intern](https://jobright.ai/jobs/info/69b4f3c356973837413a0329?utm_campaign=1058&utm_source=git)** | Somerset, NJ | On Site | Apr 24 |
-| ↳ | **[Paramedic Intern](https://jobright.ai/jobs/info/69d8b0fbb861c42857c4bf67?utm_campaign=1058&utm_source=git)** | Somerset, NJ | On Site | Apr 24 |
-| **[Houchens Insurance Group](https://www.higusa.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/69c47c0933eecf310794d30a?utm_campaign=1058&utm_source=git)** | Bowling Green, KY | On Site | Apr 24 |
-| **[ISACA](http://www.isaca.org)** | **[Intern, IT Service Desk](https://jobright.ai/jobs/info/69eba16058811370cb13b501?utm_campaign=1058&utm_source=git)** | Schaumburg, IL | Hybrid | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
