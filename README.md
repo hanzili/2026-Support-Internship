@@ -57,12 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tenet Healthcare](http://tenethealth.com)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/6922ebeec0cefa13343d9df2?utm_campaign=1058&utm_source=git)** | Memphis, TN | On Site | Apr 25 |
 | **[Bush Hog](http://www.bushhog.com/)** | **[IT Intern](https://jobright.ai/jobs/info/69ec87cbdc35f7132c4b6fd2?utm_campaign=1058&utm_source=git)** | Selma, AL | On Site | Apr 25 |
 | **[University of Michigan](https://www.umich.edu)** | **[PHARM INTERN TECH (TEMP)](https://jobright.ai/jobs/info/69ec87aa16b2612c2a122a8e?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Apr 25 |
 | ↳ | **[REGISTERED NURSE - CRNA Internship](https://jobright.ai/jobs/info/69ec822458811370cb140165?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Apr 25 |
 | **[CommunityCare HMO Inc.](https://www.linkedin.com/company/54432740)** | **[Reporting - Seasonal Intern - Medical Records Clerk](https://jobright.ai/jobs/info/69ec73174b0fa35a707824d2?utm_campaign=1058&utm_source=git)** | Tulsa, OK | On Site | Apr 25 |
 | **[Smith's Food & Drug Centers](https://www.smithsfoodanddrug.com/)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/69ec821e58811370cb140143?utm_campaign=1058&utm_source=git)** | Salt Lake City, UT | On Site | Apr 24 |
 | ↳ | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/69ec82360a6e09555304e374?utm_campaign=1058&utm_source=git)** | Henderson, NV | On Site | Apr 24 |
+| **[Lynden Logistics](http://lynden.com)** | **[Technical Operations Intern](https://jobright.ai/jobs/info/69ec98e558811370cb1402f7?utm_campaign=1058&utm_source=git)** | Anchorage, AK | On Site | Apr 24 |
 | **[Orchard Hill College & Academy Trust](https://orchardhill.ac.uk)** | **[Receptionist – Bedelsford Chaucer Centre](https://jobright.ai/jobs/info/69ec78bd16b2612c2a1229ef?utm_campaign=1058&utm_source=git)** | Morden, Manitoba, Canada | On Site | Apr 24 |
 | **[Central California Alliance for Health](https://thealliance.health/)** | **[Claims Technician I (Temporary)](https://jobright.ai/jobs/info/69ec729e7820c036924fac4f?utm_campaign=1058&utm_source=git)** | Scotts Valley, CA | On Site | Apr 24 |
 | **[Heritage Financial Credit Union](https://heritagefcu.com/)** | **[Information Technology Internship](https://jobright.ai/jobs/info/69ec51f358811370cb13f8f6?utm_campaign=1058&utm_source=git)** | Headquarters, KY | On Site | Apr 24 |
@@ -89,10 +91,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69ec1e05dc35f7132c4b5d52?utm_campaign=1058&utm_source=git)** | Abingdon, VA | On Site | Apr 24 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69ec17e14b0fa35a707809da?utm_campaign=1058&utm_source=git)** | Westfield, NJ | On Site | Apr 24 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69ec17c90a6e09555304c6e3?utm_campaign=1058&utm_source=git)** | Rochelle Park, NJ | On Site | Apr 24 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69ec17c67820c036924f9107?utm_campaign=1058&utm_source=git)** | Fair Lawn, NJ | On Site | Apr 24 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69ec17c67820c036924f9105?utm_campaign=1058&utm_source=git)** | Philadelphia, PA | On Site | Apr 24 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69ec17c67820c036924f9108?utm_campaign=1058&utm_source=git)** | Garwood, NJ | On Site | Apr 24 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69ec17c67820c036924f9106?utm_campaign=1058&utm_source=git)** | Elizabeth, NJ | On Site | Apr 24 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69ec17c67820c036924f9105?utm_campaign=1058&utm_source=git)** | Philadelphia, PA | On Site | Apr 24 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69ec17c67820c036924f9107?utm_campaign=1058&utm_source=git)** | Fair Lawn, NJ | On Site | Apr 24 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69ec17c67820c036924f910a?utm_campaign=1058&utm_source=git)** | Livingston, NJ | On Site | Apr 24 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69ec17b87820c036924f90cd?utm_campaign=1058&utm_source=git)** | Ledgewood, NJ | On Site | Apr 24 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69ec17b77820c036924f90cb?utm_campaign=1058&utm_source=git)** | Fair Lawn, NJ | On Site | Apr 24 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Resident Services Intern](https://jobright.ai/jobs/info/69ebc2d44b0fa35a7077e235?utm_campaign=1058&utm_source=git)** | St. Louis, Missouri | On Site | Apr 24 |
 | ↳ | **[Maintenance Intern](https://jobright.ai/jobs/info/69ebc2d14b0fa35a7077e226?utm_campaign=1058&utm_source=git)** | St. Louis, Missouri | On Site | Apr 24 |
 | **[Heritage Financial Credit Union](https://heritagefcu.com/)** | **[Information Technology Internship](https://jobright.ai/jobs/info/69ebc2c516b2612c2a11e56a?utm_campaign=1058&utm_source=git)** | Middletown,NY,US | On Site | Apr 24 |
-| **[Pyramid Global Hospitality](https://pyramidglobal.com)** | **[Guest Service Agent Internship](https://jobright.ai/jobs/info/69ebc29fdc35f7132c4b2e95?utm_campaign=1058&utm_source=git)** | Raleigh, North Carolina, United States of America | On Site | Apr 24 |
-| **[Magna International](http://www.magna.com/)** | **[Intern - IT Support](https://jobright.ai/jobs/info/69ebc2974b0fa35a7077e136?utm_campaign=1058&utm_source=git)** | Southfield, MI | On Site | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
