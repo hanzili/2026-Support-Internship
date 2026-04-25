@@ -57,15 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[Intern, Technical Support - CI/ Operations Intern](https://jobright.ai/jobs/info/6997a30ae0bddb6acac65758?utm_campaign=1058&utm_source=git)** | Wilkes-Barre, PA | On Site | Apr 25 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[IS Services & Support Intern (or Co-Op) - South Florida](https://jobright.ai/jobs/info/69b33588ad360c0340a85b78?utm_campaign=1058&utm_source=git)** | Hollywood, FL | On Site | Apr 25 |
 | **[Xometry](https://www.xometry.com)** | **[Customer Support Intern](https://jobright.ai/jobs/info/6952d982f1f8465b79ea22d4?utm_campaign=1058&utm_source=git)** | Waltham, MA | Hybrid | Apr 25 |
 | **[KOSTAL Group](http://www.kostal.com)** | **[IT Intern](https://jobright.ai/jobs/info/69b4261006c1ba00c5455d9a?utm_campaign=1058&utm_source=git)** | Troy, OH | On Site | Apr 25 |
-| **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[ISD Global Support Intern Summer 2026](https://jobright.ai/jobs/info/69b47d6d5697383741395b94?utm_campaign=1058&utm_source=git)** | Hopkins, SC | On Site | Apr 25 |
+| **[Methodist Le Bonheur Healthcare](https://www.methodisthealth.org/)** | **[Pharmacy Intern PRN](https://jobright.ai/jobs/info/69d5bec6891d7b11cfd04013?utm_campaign=1058&utm_source=git)** | Memphis, TN | On Site | Apr 25 |
 | **[Stormont Vail Health](http://www.stormontvail.org)** | **[Pharmacy Student Intern 1 (P1 & P2)](https://jobright.ai/jobs/info/6948c2ca63141d188458605b?utm_campaign=1058&utm_source=git)** | Topeka, KS | On Site | Apr 25 |
+| **[Cherokee Indian Hospital](https://cherokeehospital.org)** | **[Intern - Primary Care](https://jobright.ai/jobs/info/69b46ec856973837413943d7?utm_campaign=1058&utm_source=git)** | Cherokee, NC | On Site | Apr 25 |
+| **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[ISD Global Support Intern Summer 2026](https://jobright.ai/jobs/info/69b47d6d5697383741395b94?utm_campaign=1058&utm_source=git)** | Hopkins, SC | On Site | Apr 25 |
+| **[Dartmouth Health](https://www.dartmouth-health.org/)** | **[Intern - Radiology](https://jobright.ai/jobs/info/69ecd02216b2612c2a1234b0?utm_campaign=1058&utm_source=git)** | Lebanon, NH | On Site | Apr 25 |
 | **[Tenet Healthcare](http://tenethealth.com)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/6922ebeec0cefa13343d9df2?utm_campaign=1058&utm_source=git)** | Memphis, TN | On Site | Apr 25 |
 | **[Bush Hog](http://www.bushhog.com/)** | **[IT Intern](https://jobright.ai/jobs/info/69ec87cbdc35f7132c4b6fd2?utm_campaign=1058&utm_source=git)** | Selma, AL | On Site | Apr 25 |
-| **[University of Michigan](https://www.umich.edu)** | **[PHARM INTERN TECH (TEMP)](https://jobright.ai/jobs/info/69ec87aa16b2612c2a122a8e?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Apr 25 |
-| ↳ | **[REGISTERED NURSE - CRNA Internship](https://jobright.ai/jobs/info/69ec822458811370cb140165?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Apr 25 |
 | **[CommunityCare HMO Inc.](https://www.linkedin.com/company/54432740)** | **[Reporting - Seasonal Intern - Medical Records Clerk](https://jobright.ai/jobs/info/69ec73174b0fa35a707824d2?utm_campaign=1058&utm_source=git)** | Tulsa, OK | On Site | Apr 25 |
 | **[Smith's Food & Drug Centers](https://www.smithsfoodanddrug.com/)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/69ec821e58811370cb140143?utm_campaign=1058&utm_source=git)** | Salt Lake City, UT | On Site | Apr 24 |
 | ↳ | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/69ec82360a6e09555304e374?utm_campaign=1058&utm_source=git)** | Henderson, NV | On Site | Apr 24 |
@@ -96,10 +98,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69ec17e14b0fa35a707809da?utm_campaign=1058&utm_source=git)** | Westfield, NJ | On Site | Apr 24 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69ec17c90a6e09555304c6e3?utm_campaign=1058&utm_source=git)** | Rochelle Park, NJ | On Site | Apr 24 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69ec17c67820c036924f9108?utm_campaign=1058&utm_source=git)** | Garwood, NJ | On Site | Apr 24 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69ec17c67820c036924f9105?utm_campaign=1058&utm_source=git)** | Philadelphia, PA | On Site | Apr 24 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69ec17c67820c036924f9107?utm_campaign=1058&utm_source=git)** | Fair Lawn, NJ | On Site | Apr 24 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69ec17c67820c036924f9106?utm_campaign=1058&utm_source=git)** | Elizabeth, NJ | On Site | Apr 24 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69ec17c67820c036924f910a?utm_campaign=1058&utm_source=git)** | Livingston, NJ | On Site | Apr 24 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69ec17c67820c036924f9105?utm_campaign=1058&utm_source=git)** | Philadelphia, PA | On Site | Apr 24 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69ec17b87820c036924f90cd?utm_campaign=1058&utm_source=git)** | Ledgewood, NJ | On Site | Apr 24 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69ec17b77820c036924f90cb?utm_campaign=1058&utm_source=git)** | Fair Lawn, NJ | On Site | Apr 24 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69ec17b2dc35f7132c4b5771?utm_campaign=1058&utm_source=git)** | Hillside, NJ | On Site | Apr 24 |
@@ -108,7 +110,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69ec178816b2612c2a120d36?utm_campaign=1058&utm_source=git)** | Wood-Ridge, NJ | On Site | Apr 24 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69ec177e16b2612c2a120cfe?utm_campaign=1058&utm_source=git)** | Hackensack, NJ | On Site | Apr 24 |
 | **[Tombras](http://tombras.com)** | **[IT Help Desk Intern](https://jobright.ai/jobs/info/69ec176b16b2612c2a120cad?utm_campaign=1058&utm_source=git)** | Knoxville, TN | On Site | Apr 24 |
-| **[SAP Taulia](https://taulia.com/)** | **[IT Support Intern](https://jobright.ai/jobs/info/69dddde3aba61f1417312de8?utm_campaign=1058&utm_source=git)** | Salt Lake City, UT | Hybrid | Apr 24 |
 | **[Ravago Manufacturing Americas](https://rma.ravagomanufacturing.com)** | **[Production Assistant Intern](https://jobright.ai/jobs/info/69ec11d47820c036924f8f70?utm_campaign=1058&utm_source=git)** | Greenwood, IN | On Site | Apr 24 |
 | **[Veolia](https://www.veolia.com/fr)** | **[Customer Service Intern](https://jobright.ai/jobs/info/69ec11840a6e09555304c584?utm_campaign=1058&utm_source=git)** | New Rochelle, NY | On Site | Apr 24 |
 | **[DMA - DuCharme, McMillen & Associates, Inc.](https://www.dmainc.com/)** | **[IT Support Intern](https://jobright.ai/jobs/info/69ec0aaf4b0fa35a7078069d?utm_campaign=1058&utm_source=git)** | Fort Wayne, IN | On Site | Apr 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Bloom Energy](http://www.bloomenergy.com)** | **[IT Helpdesk Intern](https://jobright.ai/jobs/info/69d5dc21366bb95ba55494d7?utm_campaign=1058&utm_source=git)** | San Jose, CA | On Site | Apr 24 |
 | **[Mac Properties](http://macapartments.com)** | **[Maintenance Intern](https://jobright.ai/jobs/info/69ebc2e358811370cb13c442?utm_campaign=1058&utm_source=git)** | Chicago, Illinois | On Site | Apr 24 |
 | ↳ | **[Inventory Intern](https://jobright.ai/jobs/info/69ebc2e07820c036924f6ad3?utm_campaign=1058&utm_source=git)** | Chicago, Illinois | On Site | Apr 24 |
-| ↳ | **[Resident Services Intern](https://jobright.ai/jobs/info/69ebc2dadc35f7132c4b2f9c?utm_campaign=1058&utm_source=git)** | Chicago, Illinois | On Site | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
