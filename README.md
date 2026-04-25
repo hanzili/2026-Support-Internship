@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/69ece23e58811370cb140c50?utm_campaign=1058&utm_source=git)** | Sarasota, FL | On Site | Apr 25 |
+| **[Yardi](https://www.yardi.com)** | **[Intern, Associate Technical Account Manager](https://jobright.ai/jobs/info/69ab93d1142d5b4265fcaef5?utm_campaign=1058&utm_source=git)** | Santa Ana, CA | Hybrid | Apr 25 |
 | **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[Intern, Technical Support - CI/ Operations Intern](https://jobright.ai/jobs/info/6997a30ae0bddb6acac65758?utm_campaign=1058&utm_source=git)** | Wilkes-Barre, PA | On Site | Apr 25 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[IS Services & Support Intern (or Co-Op) - South Florida](https://jobright.ai/jobs/info/69b33588ad360c0340a85b78?utm_campaign=1058&utm_source=git)** | Hollywood, FL | On Site | Apr 25 |
 | **[Xometry](https://www.xometry.com)** | **[Customer Support Intern](https://jobright.ai/jobs/info/6952d982f1f8465b79ea22d4?utm_campaign=1058&utm_source=git)** | Waltham, MA | Hybrid | Apr 25 |
@@ -97,10 +99,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69ec1e05dc35f7132c4b5d52?utm_campaign=1058&utm_source=git)** | Abingdon, VA | On Site | Apr 24 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69ec17e14b0fa35a707809da?utm_campaign=1058&utm_source=git)** | Westfield, NJ | On Site | Apr 24 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69ec17c90a6e09555304c6e3?utm_campaign=1058&utm_source=git)** | Rochelle Park, NJ | On Site | Apr 24 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69ec17c67820c036924f9108?utm_campaign=1058&utm_source=git)** | Garwood, NJ | On Site | Apr 24 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69ec17c67820c036924f9107?utm_campaign=1058&utm_source=git)** | Fair Lawn, NJ | On Site | Apr 24 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69ec17c67820c036924f9106?utm_campaign=1058&utm_source=git)** | Elizabeth, NJ | On Site | Apr 24 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69ec17c67820c036924f910a?utm_campaign=1058&utm_source=git)** | Livingston, NJ | On Site | Apr 24 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69ec17c67820c036924f9108?utm_campaign=1058&utm_source=git)** | Garwood, NJ | On Site | Apr 24 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69ec17c67820c036924f9106?utm_campaign=1058&utm_source=git)** | Elizabeth, NJ | On Site | Apr 24 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69ec17c67820c036924f9107?utm_campaign=1058&utm_source=git)** | Fair Lawn, NJ | On Site | Apr 24 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69ec17c67820c036924f9105?utm_campaign=1058&utm_source=git)** | Philadelphia, PA | On Site | Apr 24 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69ec17b87820c036924f90cd?utm_campaign=1058&utm_source=git)** | Ledgewood, NJ | On Site | Apr 24 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69ec17b77820c036924f90cb?utm_campaign=1058&utm_source=git)** | Fair Lawn, NJ | On Site | Apr 24 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/69ebc3a816b2612c2a11e722?utm_campaign=1058&utm_source=git)** | Saline, MI | On Site | Apr 24 |
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Access Your Future Service Intern](https://jobright.ai/jobs/info/694319d194730b7398761bc0?utm_campaign=1058&utm_source=git)** | Redfield, SD | On Site | Apr 24 |
 | **[Bloom Energy](http://www.bloomenergy.com)** | **[IT Helpdesk Intern](https://jobright.ai/jobs/info/69d5dc21366bb95ba55494d7?utm_campaign=1058&utm_source=git)** | San Jose, CA | On Site | Apr 24 |
-| **[Mac Properties](http://macapartments.com)** | **[Maintenance Intern](https://jobright.ai/jobs/info/69ebc2e358811370cb13c442?utm_campaign=1058&utm_source=git)** | Chicago, Illinois | On Site | Apr 24 |
-| ↳ | **[Inventory Intern](https://jobright.ai/jobs/info/69ebc2e07820c036924f6ad3?utm_campaign=1058&utm_source=git)** | Chicago, Illinois | On Site | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
