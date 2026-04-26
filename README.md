@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PTR Premier Truck Rental](https://rentptr.com)** | **[Service Tech Intern](https://jobright.ai/jobs/info/69b33b17ae2a534885eaa6d7?utm_campaign=1058&utm_source=git)** | Fort Worth, TX | On Site | Apr 25 |
 | **[Four Seasons Hotels and Resorts](http://www.fourseasons.com)** | **[Server Assistant - J1 Intern](https://jobright.ai/jobs/info/69ed6c9e0a6e09555304fc75?utm_campaign=1058&utm_source=git)** | St. Louis, US | On Site | Apr 25 |
 | **[DaZZee I.T.](https://dazzee.com)** | **[Technical Intern](https://jobright.ai/jobs/info/69ed2ab0dc35f7132c4b8254?utm_campaign=1058&utm_source=git)** | Branson, MO | On Site | Apr 25 |
 | **[Harmony United Psychiatric Care](https://hupcfl.com)** | **[Psychiatric Office Assistant Internship/Outpatient Clinic (Certification Program)/Port Charlotte](https://jobright.ai/jobs/info/69ed2a8a0a6e09555304f78a?utm_campaign=1058&utm_source=git)** | Punta Gorda, FL | On Site | Apr 25 |
@@ -70,6 +71,8 @@ For a complete list, click the following sortable link below:
 | **[Yardi](https://www.yardi.com)** | **[Intern, Associate Technical Account Manager](https://jobright.ai/jobs/info/695f0609a1bbea1d9a79d11e?utm_campaign=1058&utm_source=git)** | Santa Barbara, CA | Hybrid | Apr 25 |
 | **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/69ece23e58811370cb140c50?utm_campaign=1058&utm_source=git)** | Sarasota, FL | On Site | Apr 25 |
 | **[Yardi](https://www.yardi.com)** | **[Intern, Associate Technical Account Manager](https://jobright.ai/jobs/info/69ab93d1142d5b4265fcaef5?utm_campaign=1058&utm_source=git)** | Santa Ana, CA | Hybrid | Apr 25 |
+| **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69ed945b7820c036924fcf82?utm_campaign=1058&utm_source=git)** | Weymouth, MA | On Site | Apr 25 |
+| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69ed98f97820c036924fd03e?utm_campaign=1058&utm_source=git)** | Bridgewater, MA | On Site | Apr 25 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[PHARM INTERN TECH (TEMP)](https://jobright.ai/jobs/info/69ecf53858811370cb141062?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Apr 25 |
 | ↳ | **[REGISTERED NURSE - CRNA Internship](https://jobright.ai/jobs/info/69ecf3944b0fa35a70783bb8?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Apr 25 |
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Contact Center Manager](https://jobright.ai/jobs/info/69dda4e48182b27d3474098e?utm_campaign=1058&utm_source=git)** | Washington, DC | On Site | Apr 25 |
@@ -114,11 +117,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69ec1e05dc35f7132c4b5d52?utm_campaign=1058&utm_source=git)** | Abingdon, VA | On Site | Apr 24 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69ec17e14b0fa35a707809da?utm_campaign=1058&utm_source=git)** | Westfield, NJ | On Site | Apr 24 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69ec17c90a6e09555304c6e3?utm_campaign=1058&utm_source=git)** | Rochelle Park, NJ | On Site | Apr 24 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69ec17c67820c036924f9106?utm_campaign=1058&utm_source=git)** | Elizabeth, NJ | On Site | Apr 24 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69ec17c67820c036924f9108?utm_campaign=1058&utm_source=git)** | Garwood, NJ | On Site | Apr 24 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69ec17c67820c036924f9107?utm_campaign=1058&utm_source=git)** | Fair Lawn, NJ | On Site | Apr 24 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69ec17c67820c036924f9105?utm_campaign=1058&utm_source=git)** | Philadelphia, PA | On Site | Apr 24 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69ec17c67820c036924f9106?utm_campaign=1058&utm_source=git)** | Elizabeth, NJ | On Site | Apr 24 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69ec17c67820c036924f910a?utm_campaign=1058&utm_source=git)** | Livingston, NJ | On Site | Apr 24 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69ec17c67820c036924f9107?utm_campaign=1058&utm_source=git)** | Fair Lawn, NJ | On Site | Apr 24 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69ec17b87820c036924f90cd?utm_campaign=1058&utm_source=git)** | Ledgewood, NJ | On Site | Apr 24 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69ec17b77820c036924f90cb?utm_campaign=1058&utm_source=git)** | Fair Lawn, NJ | On Site | Apr 24 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69ec17b2dc35f7132c4b5771?utm_campaign=1058&utm_source=git)** | Hillside, NJ | On Site | Apr 24 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Bio-Rad Laboratories](https://www.bio-rad.com/)** | **[Document Control Specialist Intern](https://jobright.ai/jobs/info/69ebfd0d16b2612c2a1203de?utm_campaign=1058&utm_source=git)** | Hercules, CA | On Site | Apr 24 |
 | **[Trinity Health](http://www.trinity-health.org)** | **[Lead Pharmacist Intern](https://jobright.ai/jobs/info/69ebfc4058811370cb13e138?utm_campaign=1058&utm_source=git)** | Des Moines, IA | On Site | Apr 24 |
 | ↳ | **[Lead Pharmacist Intern](https://jobright.ai/jobs/info/69ebfded0a6e09555304beb3?utm_campaign=1058&utm_source=git)** | West Des Moines, IA | On Site | Apr 24 |
-| **[Hotel Drover, Autograph Collection](https://hoteldrover.com/)** | **[IT Internship](https://jobright.ai/jobs/info/69ebd9150a6e09555304ab22?utm_campaign=1058&utm_source=git)** | FORT WORTH, TX 76164 | On Site | Apr 24 |
-| **[Texas Department of Transportation](https://www.txdot.gov)** | **[Intern Support Technician](https://jobright.ai/jobs/info/69ec115758811370cb13e6f5?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | Apr 24 |
-| **[Texas A&M AgriLife Research](https://agriliferesearch.tamu.edu/)** | **[Student Assistant](https://jobright.ai/jobs/info/69ebd3040a6e09555304a991?utm_campaign=1058&utm_source=git)** | College Station, TX | On Site | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
