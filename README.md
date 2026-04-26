@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[U.S. Hunger](https://ushunger.org/)** | **[Salesforce Intern](https://jobright.ai/jobs/info/69edb7384b0fa35a707854e3?utm_campaign=1058&utm_source=git)** | Longwood,FL,US | Hybrid | Apr 25 |
+| **[Smith's Food & Drug Centers](https://www.smithsfoodanddrug.com/)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/69edcd727820c036924fd92b?utm_campaign=1058&utm_source=git)** | Albuquerque, NM | On Site | Apr 25 |
 | **[Four Seasons Hotels and Resorts](http://www.fourseasons.com)** | **[Server Assistant - J1 Intern](https://jobright.ai/jobs/info/69edabaedc35f7132c4b9006?utm_campaign=1058&utm_source=git)** | St Louis, MO | On Site | Apr 25 |
 | **[Bullpen Capital](http://bullpencap.com)** | **[IT Intern](https://jobright.ai/jobs/info/69edbe0fdc35f7132c4b95dc?utm_campaign=1058&utm_source=git)** | Chicago, IL | Hybrid | Apr 25 |
 | **[Circle Health](https://www.circlehealth.in/)** | **[Customer Service Intern (Healthcare Operations)](https://jobright.ai/jobs/info/69ed9f86dc35f7132c4b8ed2?utm_campaign=1058&utm_source=git)** | NYC Metro Area | On Site | Apr 25 |
@@ -123,11 +124,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69ec1e05dc35f7132c4b5d52?utm_campaign=1058&utm_source=git)** | Abingdon, VA | On Site | Apr 24 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69ec17e14b0fa35a707809da?utm_campaign=1058&utm_source=git)** | Westfield, NJ | On Site | Apr 24 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69ec17c90a6e09555304c6e3?utm_campaign=1058&utm_source=git)** | Rochelle Park, NJ | On Site | Apr 24 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69ec17c67820c036924f9105?utm_campaign=1058&utm_source=git)** | Philadelphia, PA | On Site | Apr 24 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69ec17c67820c036924f910a?utm_campaign=1058&utm_source=git)** | Livingston, NJ | On Site | Apr 24 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69ec17c67820c036924f9106?utm_campaign=1058&utm_source=git)** | Elizabeth, NJ | On Site | Apr 24 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69ec17c67820c036924f910a?utm_campaign=1058&utm_source=git)** | Livingston, NJ | On Site | Apr 24 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69ec17c67820c036924f9107?utm_campaign=1058&utm_source=git)** | Fair Lawn, NJ | On Site | Apr 24 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69ec17c67820c036924f9108?utm_campaign=1058&utm_source=git)** | Garwood, NJ | On Site | Apr 24 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69ec17c67820c036924f9105?utm_campaign=1058&utm_source=git)** | Philadelphia, PA | On Site | Apr 24 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69ec17b87820c036924f90cd?utm_campaign=1058&utm_source=git)** | Ledgewood, NJ | On Site | Apr 24 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69ec17b77820c036924f90cb?utm_campaign=1058&utm_source=git)** | Fair Lawn, NJ | On Site | Apr 24 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69ec17b2dc35f7132c4b5771?utm_campaign=1058&utm_source=git)** | Hillside, NJ | On Site | Apr 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cruise Planners HQ](http://www.cruiseplanners.com)** | **[Summer Internship](https://jobright.ai/jobs/info/69ebde4558811370cb13d527?utm_campaign=1058&utm_source=git)** | Coral Springs, FL | On Site | Apr 24 |
 | **[Holiday Inn Club Vacations](http://jobs.holidayinnclub.com/)** | **[Resort Experience Associate Intern- Lee, MA](https://jobright.ai/jobs/info/69ebde2a16b2612c2a11f71a?utm_campaign=1058&utm_source=git)** | South Lee, MA | On Site | Apr 24 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69ebde2016b2612c2a11f6f3?utm_campaign=1058&utm_source=git)** | Saint Johns, FL | On Site | Apr 24 |
-| **[Texas Department of Transportation](https://www.txdot.gov)** | **[Intern Engineering Support](https://jobright.ai/jobs/info/69ebddcadc35f7132c4b3f19?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
