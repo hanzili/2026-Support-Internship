@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Four Seasons Hotels and Resorts](http://www.fourseasons.com)** | **[Server Assistant - J1 Intern](https://jobright.ai/jobs/info/69ed6c9e0a6e09555304fc75?utm_campaign=1058&utm_source=git)** | St. Louis, US | On Site | Apr 25 |
 | **[DaZZee I.T.](https://dazzee.com)** | **[Technical Intern](https://jobright.ai/jobs/info/69ed2ab0dc35f7132c4b8254?utm_campaign=1058&utm_source=git)** | Branson, MO | On Site | Apr 25 |
 | **[Harmony United Psychiatric Care](https://hupcfl.com)** | **[Psychiatric Office Assistant Internship/Outpatient Clinic (Certification Program)/Port Charlotte](https://jobright.ai/jobs/info/69ed2a8a0a6e09555304f78a?utm_campaign=1058&utm_source=git)** | Punta Gorda, FL | On Site | Apr 25 |
 | **[Boston Children's Hospital](https://www.childrenshospital.org/)** | **[Respiratory Therapist Internship](https://jobright.ai/jobs/info/696098bc7ebc25398eb67b78?utm_campaign=1058&utm_source=git)** | Boston, MA | On Site | Apr 25 |
@@ -113,8 +114,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69ec1e05dc35f7132c4b5d52?utm_campaign=1058&utm_source=git)** | Abingdon, VA | On Site | Apr 24 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69ec17e14b0fa35a707809da?utm_campaign=1058&utm_source=git)** | Westfield, NJ | On Site | Apr 24 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69ec17c90a6e09555304c6e3?utm_campaign=1058&utm_source=git)** | Rochelle Park, NJ | On Site | Apr 24 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69ec17c67820c036924f9105?utm_campaign=1058&utm_source=git)** | Philadelphia, PA | On Site | Apr 24 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69ec17c67820c036924f9107?utm_campaign=1058&utm_source=git)** | Fair Lawn, NJ | On Site | Apr 24 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69ec17c67820c036924f9105?utm_campaign=1058&utm_source=git)** | Philadelphia, PA | On Site | Apr 24 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69ec17c67820c036924f9106?utm_campaign=1058&utm_source=git)** | Elizabeth, NJ | On Site | Apr 24 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69ec17c67820c036924f9108?utm_campaign=1058&utm_source=git)** | Garwood, NJ | On Site | Apr 24 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69ec17c67820c036924f910a?utm_campaign=1058&utm_source=git)** | Livingston, NJ | On Site | Apr 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hotel Drover, Autograph Collection](https://hoteldrover.com/)** | **[IT Internship](https://jobright.ai/jobs/info/69ebd9150a6e09555304ab22?utm_campaign=1058&utm_source=git)** | FORT WORTH, TX 76164 | On Site | Apr 24 |
 | **[Texas Department of Transportation](https://www.txdot.gov)** | **[Intern Support Technician](https://jobright.ai/jobs/info/69ec115758811370cb13e6f5?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | Apr 24 |
 | **[Texas A&M AgriLife Research](https://agriliferesearch.tamu.edu/)** | **[Student Assistant](https://jobright.ai/jobs/info/69ebd3040a6e09555304a991?utm_campaign=1058&utm_source=git)** | College Station, TX | On Site | Apr 24 |
-| **[Academy School District 20](https://www.asd20.org)** | **[IT Summer Internship (Students Only)](https://jobright.ai/jobs/info/69ebd2cb58811370cb13cfa9?utm_campaign=1058&utm_source=git)** | Academy District 20 EAC (Education and Administration Center), Colorado Springs, CO, US | On Site | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
