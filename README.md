@@ -155,6 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Eastern Virginia Medical School](http://www.evms.edu)** | **[Intern, Health Sciences](https://jobright.ai/jobs/info/69ef7d0b0a6e09555305517c?utm_campaign=1058&utm_source=git)** | Norfolk, VA, US | On Site | Apr 27 |
 | **[Relais & Châteaux](https://www.relaischateaux.com)** | **[Intern - Twin Farms](https://jobright.ai/jobs/info/69ef7cf9fbe0994a40eb662a?utm_campaign=1058&utm_source=git)** | Barnard, VT | On Site | Apr 27 |
 | **[CEC Entertainment](http://www.chuckecheese.com/careers)** | **[Information Technology Internship](https://jobright.ai/jobs/info/69ef7a210a6e0955530550c8?utm_campaign=1058&utm_source=git)** | Support Center, 1707 Market Place Blvd., Suite 200, Irving, TX, US | On Site | Apr 27 |
-| **[SeaWorld Parks & Entertainment](https://unitedparks.com/)** | **[Summer Internship - IT Technician](https://jobright.ai/jobs/info/69efb02258811370cb147d20?utm_campaign=1058&utm_source=git)** | SeaWorld Orlando, US | On Site | Apr 27 |
 | **[Brown University](https://www.brown.edu)** | **[Student Nurse Intern I](https://jobright.ai/jobs/info/69ef671d4b0fa35a70788f48?utm_campaign=1058&utm_source=git)** | Rhode Island Hospital, US | On Site | Apr 27 |
+| **[Cedar Point Amusement Park](https://www.cedarpoint.com/)** | **[Hospitality & Guest Service Internships](https://jobright.ai/jobs/info/69b694aa06c1ba00c5487907?utm_campaign=1058&utm_source=git)** | Sandusky, OH | On Site | Apr 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
