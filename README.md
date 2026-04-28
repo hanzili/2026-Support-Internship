@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Critical Mass](http://www.criticalmass.com/)** | **[Client Services Intern](https://jobright.ai/jobs/info/69da3ca3869c7e25d85a1268?utm_campaign=1058&utm_source=git)** | Los Angeles, CA | On Site | Apr 28 |
+| **[First Horizon Bank](https://www.firsthorizon.com/pmc)** | **[Intern - Digital Banking Support](https://jobright.ai/jobs/info/698e2cc90f6f7e7a2cea3bdf?utm_campaign=1058&utm_source=git)** | Knoxville, TN | On Site | Apr 28 |
 | **[University of Michigan](https://www.umich.edu)** | **[PHARM INTERN TECH (TEMP)](https://jobright.ai/jobs/info/69f07cb28d8d624381a96627?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Apr 28 |
 | ↳ | **[REGISTERED NURSE - CRNA Internship](https://jobright.ai/jobs/info/69f07c91a4aa3545d8a5e349?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Apr 28 |
 | **[Ambition Preparatory Charter School](http://www.ambitionprep.org/careers)** | **[IT Summer Intern](https://jobright.ai/jobs/info/69f07542a4aa3545d8a5e2e8?utm_campaign=1058&utm_source=git)** | Jackson, MS | On Site | Apr 28 |
+| **[Coweta Public Schools](https://www.cowetaps.org)** | **[IT Summer Intern 26-27](https://jobright.ai/jobs/info/69f097958feca91f1491af01?utm_campaign=1058&utm_source=git)** | Coweta, OK | On Site | Apr 28 |
 | **[PTR Premier Truck Rental](https://rentptr.com)** | **[Service Tech Intern](https://jobright.ai/jobs/info/69b33dfead360c0340a86592?utm_campaign=1058&utm_source=git)** | Fort Wayne, IN | On Site | Apr 27 |
 | **[Xometry](https://www.xometry.com)** | **[Case Management Intern](https://jobright.ai/jobs/info/6948ed3863141d1884589708?utm_campaign=1058&utm_source=git)** | Gaithersburg, MD | Hybrid | Apr 27 |
 | **[Osi Vision, LLC](https://osivision.com/)** | **[Summer Internship: IT Operations & Automation](https://jobright.ai/jobs/info/69f036f3ecbc8c2f731ff045?utm_campaign=1058&utm_source=git)** | San Antonio, TX | On Site | Apr 27 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[IEA Constructors LLC, a MasTec Company](https://ieaconstructors.com/)** | **[Intern](https://jobright.ai/jobs/info/69ef8e8458811370cb1471c7?utm_campaign=1058&utm_source=git)** | US-IN-Clinton | On Site | Apr 27 |
 | **[Kentucky Eye Institute](https://kyeye.com/)** | **[Ophthalmic Medical Assistant - Summer intern](https://jobright.ai/jobs/info/69ef8e8358811370cb1471ab?utm_campaign=1058&utm_source=git)** | US-OH-Cincinnati | On Site | Apr 27 |
 | ↳ | **[Ophthalmic Medical Assistant - Summer Intern](https://jobright.ai/jobs/info/69ef8e7bfbe0994a40eb705a?utm_campaign=1058&utm_source=git)** | Crestview Hills, KY, US | On Site | Apr 27 |
-| ↳ | **[Ophthalmic Medical Assistant - Summer intern](https://jobright.ai/jobs/info/69ef8e7afbe0994a40eb704f?utm_campaign=1058&utm_source=git)** | Cincinnati, OH, US | On Site | Apr 27 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[IS Services & Support Intern (or Co-Op)](https://jobright.ai/jobs/info/69ef85e40a6e0955530559c2?utm_campaign=1058&utm_source=git)** | Indianapolis, IN | On Site | Apr 27 |
-| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69ef85c058811370cb146f90?utm_campaign=1058&utm_source=git)** | Tupelo, MS | On Site | Apr 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
