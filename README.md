@@ -57,6 +57,21 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TAD](http://technologyarchitecturedesign.com/)** | **[ARB Summer Internship](https://jobright.ai/jobs/info/69f0e3b2825a315d7ca34df9?utm_campaign=1058&utm_source=git)** | Richland Hills,TX,US | On Site | Apr 28 |
+| **[L2T, LLC](https://www.l2tllc.com/)** | **[IT Internship](https://jobright.ai/jobs/info/69f0e0adb27fee43e8cd5f41?utm_campaign=1058&utm_source=git)** | US-VA-Herndon | On Site | Apr 28 |
+| ↳ | **[IT Internship](https://jobright.ai/jobs/info/69f0e09f62b48c6838792707?utm_campaign=1058&utm_source=git)** | Herndon, VA, US | On Site | Apr 28 |
+| **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69f0dfb5b27fee43e8cd5e89?utm_campaign=1058&utm_source=git)** | Hamburg, NY | On Site | Apr 28 |
+| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69f0dfb5b27fee43e8cd5e88?utm_campaign=1058&utm_source=git)** | Clarence, NY | On Site | Apr 28 |
+| **[The Social Hub (B Corp™)](https://www.thesocialhub.co/)** | **[Service Communications Intern](https://jobright.ai/jobs/info/69f0df43b27fee43e8cd5e02?utm_campaign=1058&utm_source=git)** | NL-Hub | On Site | Apr 28 |
+| **[Ascension](https://healthcare.ascension.org)** | **[Nurse Intern / ICU](https://jobright.ai/jobs/info/69f0d7e68d8d624381a98b7a?utm_campaign=1058&utm_source=git)** | Mequon, Wisconsin, 53097 | On Site | Apr 28 |
+| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69f0d6d58feca91f1491d194?utm_campaign=1058&utm_source=git)** | Draper, UT | On Site | Apr 28 |
+| **[Capital Health (US)](http://www.capitalhealth.org)** | **[Patient Care Intern I - Central Resource Office - PER DIEM](https://jobright.ai/jobs/info/69f0d6b4ecbc8c2f732023d0?utm_campaign=1058&utm_source=git)** | Pennington, NJ, US | On Site | Apr 28 |
+| ↳ | **[Patient Care Intern II - Central Resource Office - PER DIEM](https://jobright.ai/jobs/info/69f0d6b1b27fee43e8cd5bf5?utm_campaign=1058&utm_source=git)** | Pennington, NJ, US | On Site | Apr 28 |
+| ↳ | **[Patient Care Intern I - Central Resource Office - PER DIEM](https://jobright.ai/jobs/info/69f0d6a38feca91f1491d0c1?utm_campaign=1058&utm_source=git)** | RMC, US | On Site | Apr 28 |
+| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69f0d69eb27fee43e8cd5b93?utm_campaign=1058&utm_source=git)** | Marathon, FL | On Site | Apr 28 |
+| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69f0d68e62b48c68387923fc?utm_campaign=1058&utm_source=git)** | Madison, WI | On Site | Apr 28 |
+| **[Capital Health (US)](http://www.capitalhealth.org)** | **[Patient Care Intern II - Central Resource Office - PER DIEM](https://jobright.ai/jobs/info/69f0d68762b48c68387923ac?utm_campaign=1058&utm_source=git)** | RMC, US | On Site | Apr 28 |
+| **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/69f0d6808d8d624381a98a7e?utm_campaign=1058&utm_source=git)** | Vero Beach, FL | On Site | Apr 28 |
 | **[Core & Main](https://coreandmain.com/)** | **[Intern - Field](https://jobright.ai/jobs/info/69f0d0bab27fee43e8cd59e2?utm_campaign=1058&utm_source=git)** | Indianapolis, IN 46219, US | On Site | Apr 28 |
 | **[SEKO Logistics](http://sekologistics.com)** | **[IT Intern](https://jobright.ai/jobs/info/69f0d0a1825a315d7ca34806?utm_campaign=1058&utm_source=git)** | Schaumburg, IL, US | On Site | Apr 28 |
 | **[Texas Department of Transportation](https://www.txdot.gov)** | **[Intern Support Technician](https://jobright.ai/jobs/info/69f0cfad8feca91f1491cdef?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | Apr 28 |
@@ -142,19 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[IT Intern](https://jobright.ai/jobs/info/69efc72c4b0fa35a7078bc9c?utm_campaign=1058&utm_source=git)** | NEW YORK, NY, US | On Site | Apr 27 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69ec1797dc35f7132c4b5702?utm_campaign=1058&utm_source=git)** | Passaic, NJ | On Site | Apr 27 |
 | **[CEC Entertainment](http://www.chuckecheese.com/careers)** | **[Information Technology Internship](https://jobright.ai/jobs/info/69efbb5b0a6e095553056fdf?utm_campaign=1058&utm_source=git)** | Irving, TX | On Site | Apr 27 |
-| **[Achieving the Dream](https://www.achievingthedream.org)** | **[Meetings & Learning Events Intern](https://jobright.ai/jobs/info/69efba140a6e095553056cdf?utm_campaign=1058&utm_source=git)** | Silver Spring, MD, US | Hybrid | Apr 27 |
-| **[Fabick Cat](https://www.fabickcat.com/)** | **[IT Help Desk Intern](https://jobright.ai/jobs/info/69efba1358811370cb1482a6?utm_campaign=1058&utm_source=git)** | Milwaukee, WI, 53225, United States | On Site | Apr 27 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69ec17c67820c036924f910a?utm_campaign=1058&utm_source=git)** | Livingston, NJ | On Site | Apr 27 |
-| **[KIPP Colorado Public Schools](http://www.kippcolorado.org)** | **[Technology Intern (Summer 2026)](https://jobright.ai/jobs/info/69efb85c4b0fa35a7078b39b?utm_campaign=1058&utm_source=git)** | Denver Metropolitan Area | On Site | Apr 27 |
-| **[Northern Children's Services](https://northernchildren.org)** | **[Outpatient Intern](https://jobright.ai/jobs/info/69efb78fe624fe645d532c3e?utm_campaign=1058&utm_source=git)** | Philadelphia, Pennsylvania, United States | On Site | Apr 27 |
-| **[Hy-Vee, Inc.](https://www.hy-vee.com)** | **[Retail Pharmacy Intern](https://jobright.ai/jobs/info/69efdd0358811370cb148d89?utm_campaign=1058&utm_source=git)** | Olathe, KS | On Site | Apr 27 |
-| **[Fabick Cat](https://www.fabickcat.com/)** | **[IT Help Desk Intern](https://jobright.ai/jobs/info/69efd46c4b0fa35a7078bd60?utm_campaign=1058&utm_source=git)** | Milwaukee, WI | On Site | Apr 27 |
-| ↳ | **[IT Help Desk Intern](https://jobright.ai/jobs/info/69efd406e624fe645d53387e?utm_campaign=1058&utm_source=git)** | Fenton, MO | On Site | Apr 27 |
-| **[SCA Health](http://scasurgery.com)** | **[Intern - Berks Center for Digestive Health](https://jobright.ai/jobs/info/69efd64b16b2612c2a12be42?utm_campaign=1058&utm_source=git)** | Reading, PA | On Site | Apr 27 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69ec178816b2612c2a120d36?utm_campaign=1058&utm_source=git)** | Wood-Ridge, NJ | On Site | Apr 27 |
-| **[Ervin Cable Construction LLC](http://www.ervincable.com/)** | **[Intern](https://jobright.ai/jobs/info/69efd55c58811370cb148b18?utm_campaign=1058&utm_source=git)** | Sturgis, KY | On Site | Apr 27 |
-| **[Skinship](skinshipaesthetics.com)** | **[Patient Coordinator Intern](https://jobright.ai/jobs/info/69efaf6c4b0fa35a7078b05e?utm_campaign=1058&utm_source=git)** | Atlanta, GA | On Site | Apr 27 |
-| **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[Student IT Support Technician](https://jobright.ai/jobs/info/69efd59f58811370cb148b2a?utm_campaign=1058&utm_source=git)** | Topeka Metropolitan Area | On Site | Apr 27 |
-| ↳ | **[Student Hourly-Entry Level IT Technician](https://jobright.ai/jobs/info/69efd502e624fe645d533965?utm_campaign=1058&utm_source=git)** | Topeka Metropolitan Area | On Site | Apr 27 |
-| ↳ | **[Student Help Desk Assistant](https://jobright.ai/jobs/info/69efd5864b0fa35a7078be88?utm_campaign=1058&utm_source=git)** | Topeka Metropolitan Area | On Site | Apr 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
