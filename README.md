@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SS&C Technologies](http://www.ssctech.com)** | **[Technical Writing & Research Analyst Intern](https://jobright.ai/jobs/info/69f0b8d0825a315d7ca33536?utm_campaign=1058&utm_source=git)** | New York, NY, US | On Site | Apr 28 |
+| **[ProHealth Care](http://www.prohealthcare.org/)** | **[Clinical Support Assoc. Intern](https://jobright.ai/jobs/info/69f0b8018feca91f1491bd15?utm_campaign=1058&utm_source=git)** | New Berlin, WI, US | On Site | Apr 28 |
+| **[HWC Engineering](https://www.hwcengineering.com)** | **[Intern - Information Technology](https://jobright.ai/jobs/info/69f0b77fb27fee43e8cd45d8?utm_campaign=1058&utm_source=git)** | Indianapolis, IN, US | On Site | Apr 28 |
 | **[SanMar](http://www.sanmar.com)** | **[IT Intern, Operations](https://jobright.ai/jobs/info/69bc62ae45e08b3dc1f90076?utm_campaign=1058&utm_source=git)** | Issaquah, WA | On Site | Apr 28 |
+| **[Dartmouth Health](https://www.dartmouth-health.org/)** | **[Intern - Radiology](https://jobright.ai/jobs/info/69f0b709ecbc8c2f73200a7b?utm_campaign=1058&utm_source=git)** | Lebanon, NH | On Site | Apr 28 |
 | **[Critical Mass](http://www.criticalmass.com/)** | **[Client Services Intern](https://jobright.ai/jobs/info/69da3ca3869c7e25d85a1268?utm_campaign=1058&utm_source=git)** | Los Angeles, CA | On Site | Apr 28 |
 | **[First Horizon Bank](https://www.firsthorizon.com/pmc)** | **[Intern - Digital Banking Support](https://jobright.ai/jobs/info/698e2cc90f6f7e7a2cea3bdf?utm_campaign=1058&utm_source=git)** | Knoxville, TN | On Site | Apr 28 |
 | **[University of Michigan](https://www.umich.edu)** | **[PHARM INTERN TECH (TEMP)](https://jobright.ai/jobs/info/69f07cb28d8d624381a96627?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Apr 28 |
@@ -103,7 +107,6 @@ For a complete list, click the following sortable link below:
 | **[Samaritan Health Services](https://www.samhealth.org/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69f0019d58811370cb14a1d3?utm_campaign=1058&utm_source=git)** | Newport, OR | On Site | Apr 27 |
 | **[AMOREPACIFIC](https://www.apgroup.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/69efdd2f0a6e095553057b55?utm_campaign=1058&utm_source=git)** | NYC Metro Area | On Site | Apr 27 |
 | **[Trinity Health MI](https://bit.ly/3y0fhsr)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69efdcbdfbe0994a40eb8ca5?utm_campaign=1058&utm_source=git)** | Grand Rapids, MI | On Site | Apr 27 |
-| **[CCHMC Biomedical Research Technologies Masters Program](https://www.cincinnatichildrens.org/education/research/biomedical-research-masters)** | **[Nurse Intern BMT (JR218355)](https://jobright.ai/jobs/info/69f012fe2b095843b0311563?utm_campaign=1058&utm_source=git)** | Cincinnati, OH | On Site | Apr 27 |
 | **[Nikkiso Clean Energy & Industrial Gases](https://www.NikkisoCEIG.com)** | **[IT Intern](https://jobright.ai/jobs/info/69efd882e624fe645d533ac3?utm_campaign=1058&utm_source=git)** | Temecula, CA | On Site | Apr 27 |
 | **[U.S. Bank](http://www.usbank.com)** | **[Call Center Collector](https://jobright.ai/jobs/info/69efd8650a6e09555305798c?utm_campaign=1058&utm_source=git)** | United States | Remote | Apr 27 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/69efd7dbe624fe645d533a43?utm_campaign=1058&utm_source=git)** | Memphis, TN | On Site | Apr 27 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY/PHARMACIST-GRAD INTERN](https://jobright.ai/jobs/info/69e650c6f8fa2f3ec32a0c56?utm_campaign=1058&utm_source=git)** | Bozeman, MT | On Site | Apr 27 |
 | ↳ | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/69ebfdb4dc35f7132c4b4e93?utm_campaign=1058&utm_source=git)** | Albuquerque, NM | On Site | Apr 27 |
 | **[Voltus](https://www.voltus.co)** | **[Dispatch Operations Intern](https://jobright.ai/jobs/info/69ef95dafbe0994a40eb721d?utm_campaign=1058&utm_source=git)** | United States | Remote | Apr 27 |
-| **[Acuity Insurance](http://www.acuity.com)** | **[Technical Support Analyst Intern](https://jobright.ai/jobs/info/69ea3b943aa0c479643ae53a?utm_campaign=1058&utm_source=git)** | Sheboygan, WI | On Site | Apr 27 |
-| **[IEA Constructors LLC, a MasTec Company](https://ieaconstructors.com/)** | **[Intern](https://jobright.ai/jobs/info/69ef8e8458811370cb1471c7?utm_campaign=1058&utm_source=git)** | US-IN-Clinton | On Site | Apr 27 |
-| **[Kentucky Eye Institute](https://kyeye.com/)** | **[Ophthalmic Medical Assistant - Summer intern](https://jobright.ai/jobs/info/69ef8e8358811370cb1471ab?utm_campaign=1058&utm_source=git)** | US-OH-Cincinnati | On Site | Apr 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
