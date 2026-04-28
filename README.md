@@ -57,6 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Core & Main](https://coreandmain.com/)** | **[Intern - Field](https://jobright.ai/jobs/info/69f0d0bab27fee43e8cd59e2?utm_campaign=1058&utm_source=git)** | Indianapolis, IN 46219, US | On Site | Apr 28 |
+| **[SEKO Logistics](http://sekologistics.com)** | **[IT Intern](https://jobright.ai/jobs/info/69f0d0a1825a315d7ca34806?utm_campaign=1058&utm_source=git)** | Schaumburg, IL, US | On Site | Apr 28 |
+| **[Texas Department of Transportation](https://www.txdot.gov)** | **[Intern Support Technician](https://jobright.ai/jobs/info/69f0cfad8feca91f1491cdef?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | Apr 28 |
+| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[PHARM INTERN TECH (TEMP)](https://jobright.ai/jobs/info/69f0cfa18d8d624381a98706?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Apr 28 |
+| ↳ | **[REGISTERED NURSE - CRNA Internship](https://jobright.ai/jobs/info/69f0cfa18d8d624381a98709?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Apr 28 |
+| **[RedSail Technologies](https://redsailtechnologies.com)** | **[IT Support Analyst Intern](https://jobright.ai/jobs/info/69f0cf978feca91f1491cd9b?utm_campaign=1058&utm_source=git)** | Spartanburg, SC | On Site | Apr 28 |
+| **[Repligen Corporation](http://www.repligen.com)** | **[IT Process Documentation Intern](https://jobright.ai/jobs/info/69b8552b06c1ba00c54a1acf?utm_campaign=1058&utm_source=git)** | Waltham, MA | On Site | Apr 28 |
+| **[Alta Equipment Group](https://altg.com)** | **[Service Technical Internship](https://jobright.ai/jobs/info/69d3e58b891d7b11cfcf5528?utm_campaign=1058&utm_source=git)** | Syracuse, NY | On Site | Apr 28 |
+| **[Avencia Homes](https://avenciahomes.com)** | **[Intern](https://jobright.ai/jobs/info/69f0cb75b27fee43e8cd574b?utm_campaign=1058&utm_source=git)** | Rock Hill, SC | On Site | Apr 28 |
+| **[Apptegy](http://www.apptegy.com)** | **[Client Experience Internship](https://jobright.ai/jobs/info/69f0cb1aecbc8c2f73201d33?utm_campaign=1058&utm_source=git)** | Little Rock, AR | On Site | Apr 28 |
+| **[Milacron](https://www.milacron.com)** | **[Information Technology Intern (ITSM)](https://jobright.ai/jobs/info/69f0c943ecbc8c2f73201cfc?utm_campaign=1058&utm_source=git)** | Batavia, OH 45103, USA | On Site | Apr 28 |
 | **[St. Vincent’s Health System](https://uabstvincents.org)** | **[Intern - Imaging](https://jobright.ai/jobs/info/69f0c604ecbc8c2f73201a38?utm_campaign=1058&utm_source=git)** | Pell City, AL, US | On Site | Apr 28 |
 | ↳ | **[Intern - Imaging](https://jobright.ai/jobs/info/69f0c5c9825a315d7ca34107?utm_campaign=1058&utm_source=git)** | UAB St. Vincent's St. Clair | On Site | Apr 28 |
 | ↳ | **[Intern - Imaging](https://jobright.ai/jobs/info/69f0c5be62b48c6838791411?utm_campaign=1058&utm_source=git)** | US-AL-Pell City | On Site | Apr 28 |
@@ -68,11 +79,11 @@ For a complete list, click the following sortable link below:
 | **[ProHealth Care](http://www.prohealthcare.org/)** | **[Clinical Support Assoc. Intern](https://jobright.ai/jobs/info/69f0b8018feca91f1491bd15?utm_campaign=1058&utm_source=git)** | New Berlin, WI, US | On Site | Apr 28 |
 | **[HWC Engineering](https://www.hwcengineering.com)** | **[Intern - Information Technology](https://jobright.ai/jobs/info/69f0b77fb27fee43e8cd45d8?utm_campaign=1058&utm_source=git)** | Indianapolis, IN, US | On Site | Apr 28 |
 | **[SanMar](http://www.sanmar.com)** | **[IT Intern, Operations](https://jobright.ai/jobs/info/69bc62ae45e08b3dc1f90076?utm_campaign=1058&utm_source=git)** | Issaquah, WA | On Site | Apr 28 |
+| **[West Virginia University Foundation](https://www.wvuf.org/)** | **[Technical Support Services Intern](https://jobright.ai/jobs/info/69d3eeb454f00230c6d2c8cc?utm_campaign=1058&utm_source=git)** | Morgantown, WV | On Site | Apr 28 |
 | **[Dartmouth Health](https://www.dartmouth-health.org/)** | **[Intern - Radiology](https://jobright.ai/jobs/info/69f0b709ecbc8c2f73200a7b?utm_campaign=1058&utm_source=git)** | Lebanon, NH | On Site | Apr 28 |
 | **[Critical Mass](http://www.criticalmass.com/)** | **[Client Services Intern](https://jobright.ai/jobs/info/69da3ca3869c7e25d85a1268?utm_campaign=1058&utm_source=git)** | Los Angeles, CA | On Site | Apr 28 |
 | **[First Horizon Bank](https://www.firsthorizon.com/pmc)** | **[Intern - Digital Banking Support](https://jobright.ai/jobs/info/698e2cc90f6f7e7a2cea3bdf?utm_campaign=1058&utm_source=git)** | Knoxville, TN | On Site | Apr 28 |
 | **[Colliers](http://www.colliers.com)** | **[Intern](https://jobright.ai/jobs/info/69d3f98acfdc6132f945651d?utm_campaign=1058&utm_source=git)** | Cleveland, OH | On Site | Apr 28 |
-| **[SAIC](http://www.saic.com)** | **[Intern Technical I](https://jobright.ai/jobs/info/69f0c4298d8d624381a97832?utm_campaign=1058&utm_source=git)** | San Diego, CA | On Site | Apr 28 |
 | **[University of Michigan](https://www.umich.edu)** | **[PHARM INTERN TECH (TEMP)](https://jobright.ai/jobs/info/69f07cb28d8d624381a96627?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Apr 28 |
 | ↳ | **[REGISTERED NURSE - CRNA Internship](https://jobright.ai/jobs/info/69f07c91a4aa3545d8a5e349?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Apr 28 |
 | **[Ambition Preparatory Charter School](http://www.ambitionprep.org/careers)** | **[IT Summer Intern](https://jobright.ai/jobs/info/69f07542a4aa3545d8a5e2e8?utm_campaign=1058&utm_source=git)** | Jackson, MS | On Site | Apr 28 |
@@ -146,15 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[Student IT Support Technician](https://jobright.ai/jobs/info/69efd59f58811370cb148b2a?utm_campaign=1058&utm_source=git)** | Topeka Metropolitan Area | On Site | Apr 27 |
 | ↳ | **[Student Hourly-Entry Level IT Technician](https://jobright.ai/jobs/info/69efd502e624fe645d533965?utm_campaign=1058&utm_source=git)** | Topeka Metropolitan Area | On Site | Apr 27 |
 | ↳ | **[Student Help Desk Assistant](https://jobright.ai/jobs/info/69efd5864b0fa35a7078be88?utm_campaign=1058&utm_source=git)** | Topeka Metropolitan Area | On Site | Apr 27 |
-| **[Nikkiso Clean Energy & Industrial Gases](https://www.NikkisoCEIG.com)** | **[IT Intern](https://jobright.ai/jobs/info/69efac0ee624fe645d532957?utm_campaign=1058&utm_source=git)** | Temecula, CA, US | On Site | Apr 27 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69ec17b87820c036924f90cd?utm_campaign=1058&utm_source=git)** | Ledgewood, NJ | On Site | Apr 27 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69ec17c67820c036924f9107?utm_campaign=1058&utm_source=git)** | Fair Lawn, NJ | On Site | Apr 27 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69ec1e9516b2612c2a121301?utm_campaign=1058&utm_source=git)** | Paramus, NJ | On Site | Apr 27 |
-| **[Nikkiso Clean Energy & Industrial Gases](https://www.NikkisoCEIG.com)** | **[IT Intern](https://jobright.ai/jobs/info/69efabbd0a6e09555305647a?utm_campaign=1058&utm_source=git)** | US-CA-Temecula | On Site | Apr 27 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69ec17e14b0fa35a707809da?utm_campaign=1058&utm_source=git)** | Westfield, NJ | On Site | Apr 27 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69ec17c67820c036924f9108?utm_campaign=1058&utm_source=git)** | Garwood, NJ | On Site | Apr 27 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69ec17b2dc35f7132c4b5771?utm_campaign=1058&utm_source=git)** | Hillside, NJ | On Site | Apr 27 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69ec17c90a6e09555304c6e3?utm_campaign=1058&utm_source=git)** | Rochelle Park, NJ | On Site | Apr 27 |
-| **[Baptist Health Care](https://www.ebaptisthealthcare.org)** | **[Nurse Intern - Medical](https://jobright.ai/jobs/info/69efa8e4fbe0994a40eb7865?utm_campaign=1058&utm_source=git)** | 123 Baptist Way, Pensacola, FL, 32503, US | On Site | Apr 27 |
-| **[Overlake Medical Center & Clinics](https://www.overlakehospital.org/)** | **[Pharmacy Intern (per diem)](https://jobright.ai/jobs/info/69d3dab3cfdc6132f945501d?utm_campaign=1058&utm_source=git)** | Bellevue, WA | On Site | Apr 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
