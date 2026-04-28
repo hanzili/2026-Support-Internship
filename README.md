@@ -57,11 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PTR Premier Truck Rental](https://rentptr.com)** | **[Service Tech Intern](https://jobright.ai/jobs/info/69b33dfead360c0340a86592?utm_campaign=1058&utm_source=git)** | Fort Wayne, IN | On Site | Apr 27 |
 | **[Xometry](https://www.xometry.com)** | **[Case Management Intern](https://jobright.ai/jobs/info/6948ed3863141d1884589708?utm_campaign=1058&utm_source=git)** | Gaithersburg, MD | Hybrid | Apr 27 |
 | **[Osi Vision, LLC](https://osivision.com/)** | **[Summer Internship: IT Operations & Automation](https://jobright.ai/jobs/info/69f036f3ecbc8c2f731ff045?utm_campaign=1058&utm_source=git)** | San Antonio, TX | On Site | Apr 27 |
 | **[NAVY EXCHANGE SERVICE COMMAND (NEXCOM)](https://www.mynavyexchange.com)** | **[GUEST SERVICE REPRESENTATIVE II](https://jobright.ai/jobs/info/69ebdda80a6e09555304ae0f?utm_campaign=1058&utm_source=git)** | Fort Worth, TX | On Site | Apr 27 |
 | **[Tucson Medical Center](https://www.tmcaz.com/)** | **[Pharmacy Intern Per Diem](https://jobright.ai/jobs/info/69f02884b27fee43e8cd256a?utm_campaign=1058&utm_source=git)** | Tucson, AZ | On Site | Apr 27 |
 | **[Premier Lacrosse League](https://www.premierlacrosseleague.com/)** | **[Premium Hospitality & Service Internship](https://jobright.ai/jobs/info/69f0274becbc8c2f731fe77b?utm_campaign=1058&utm_source=git)** | El Segundo, CA | Hybrid | Apr 27 |
+| **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY/PHARMACIST-INTERN](https://jobright.ai/jobs/info/69e848637820c036924db754?utm_campaign=1058&utm_source=git)** | Englewood, CO | On Site | Apr 27 |
+| ↳ | **[PHARMACY/PHARMACIST-INTERN](https://jobright.ai/jobs/info/69e848873aa0c4796439ea4c?utm_campaign=1058&utm_source=git)** | Littleton, CO | On Site | Apr 27 |
 | **[Ritchie Bros.](http://www.rbauction.com)** | **[Intern](https://jobright.ai/jobs/info/69f036a1ecbc8c2f731feee5?utm_campaign=1058&utm_source=git)** | Westchester, IL | Hybrid | Apr 27 |
 | **[NAVY EXCHANGE SERVICE COMMAND (NEXCOM)](https://www.mynavyexchange.com)** | **[Customer Service Clerk PT w/ Benefits](https://jobright.ai/jobs/info/69f009f74b0fa35a7078d8a5?utm_campaign=1058&utm_source=git)** | Silverdale, WA | On Site | Apr 27 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69f009ed58811370cb14a42d?utm_campaign=1058&utm_source=git)** | Springfield, MA | On Site | Apr 27 |
@@ -108,7 +111,6 @@ For a complete list, click the following sortable link below:
 | **[University Health KC](https://www.universityhealthkc.org)** | **[Pharmacy Student Intern (Inpatient) - Pharmacy - UH Truman Medical Centers (varied shifts per week)](https://jobright.ai/jobs/info/69dda5d95913ad339813989d?utm_campaign=1058&utm_source=git)** | Kansas City, MO | On Site | Apr 27 |
 | **[Crum & Forster](https://www.cfins.com/)** | **[IT Intern](https://jobright.ai/jobs/info/69efc72fe624fe645d533750?utm_campaign=1058&utm_source=git)** | US-NY-NEW YORK | On Site | Apr 27 |
 | ↳ | **[IT Intern](https://jobright.ai/jobs/info/69efc72c4b0fa35a7078bc9c?utm_campaign=1058&utm_source=git)** | NEW YORK, NY, US | On Site | Apr 27 |
-| **[City of Greater Sudbury](https://www.greatersudbury.ca/)** | **[Citizen Service Representative (Including Library Services) - Bilingual - English/French](https://jobright.ai/jobs/info/69dec4a036823d1b42583ba0?utm_campaign=1058&utm_source=git)** | Greater Sudbury, Ontario, Canada | On Site | Apr 27 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69ec1797dc35f7132c4b5702?utm_campaign=1058&utm_source=git)** | Passaic, NJ | On Site | Apr 27 |
 | **[CEC Entertainment](http://www.chuckecheese.com/careers)** | **[Information Technology Internship](https://jobright.ai/jobs/info/69efbb5b0a6e095553056fdf?utm_campaign=1058&utm_source=git)** | Irving, TX | On Site | Apr 27 |
 | **[Achieving the Dream](https://www.achievingthedream.org)** | **[Meetings & Learning Events Intern](https://jobright.ai/jobs/info/69efba140a6e095553056cdf?utm_campaign=1058&utm_source=git)** | Silver Spring, MD, US | Hybrid | Apr 27 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Eastern Virginia Medical School](http://www.evms.edu)** | **[Intern, Health Sciences](https://jobright.ai/jobs/info/69ef7d0b0a6e09555305517c?utm_campaign=1058&utm_source=git)** | Norfolk, VA, US | On Site | Apr 27 |
 | **[Relais & Châteaux](https://www.relaischateaux.com)** | **[Intern - Twin Farms](https://jobright.ai/jobs/info/69ef7cf9fbe0994a40eb662a?utm_campaign=1058&utm_source=git)** | Barnard, VT | On Site | Apr 27 |
 | **[CEC Entertainment](http://www.chuckecheese.com/careers)** | **[Information Technology Internship](https://jobright.ai/jobs/info/69ef7a210a6e0955530550c8?utm_campaign=1058&utm_source=git)** | Support Center, 1707 Market Place Blvd., Suite 200, Irving, TX, US | On Site | Apr 27 |
-| **[Brown University](https://www.brown.edu)** | **[Student Nurse Intern I](https://jobright.ai/jobs/info/69ef671d4b0fa35a70788f48?utm_campaign=1058&utm_source=git)** | Rhode Island Hospital, US | On Site | Apr 27 |
-| **[Cedar Point Amusement Park](https://www.cedarpoint.com/)** | **[Hospitality & Guest Service Internships](https://jobright.ai/jobs/info/69b694aa06c1ba00c5487907?utm_campaign=1058&utm_source=git)** | Sandusky, OH | On Site | Apr 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
