@@ -66,6 +66,7 @@ For a complete list, click the following sortable link below:
 | **[Weber State University Department of Automotive Technology](https://www.weber.edu/automotive)** | **[Telecommunications Campus Operator (Morning)](https://jobright.ai/jobs/info/69f001bd58811370cb14a272?utm_campaign=1058&utm_source=git)** | Ogden, UT | On Site | Apr 27 |
 | **[Cogent Analytics](https://www.cogentanalytics.com/)** | **[IT Intern - Summer of 2026](https://jobright.ai/jobs/info/69f001bc16b2612c2a12d20f?utm_campaign=1058&utm_source=git)** | Greensboro, NC | On Site | Apr 27 |
 | **[Eastern Virginia Medical School](http://www.evms.edu)** | **[Intern, Health Sciences](https://jobright.ai/jobs/info/69f001b20a6e095553058be9?utm_campaign=1058&utm_source=git)** | Norfolk, VA | On Site | Apr 27 |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/69f01e6a2b095843b031167b?utm_campaign=1058&utm_source=git)** | Hemet, CA | On Site | Apr 27 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Technology Support, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69efff0f16b2612c2a12d119?utm_campaign=1058&utm_source=git)** | Brooklyn, NY | On Site | Apr 27 |
 | ↳ | **[Operations Support, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69effc4ae624fe645d534905?utm_campaign=1058&utm_source=git)** | Jamaica, NY | On Site | Apr 27 |
 | **[1st Security Bank of Washington](https://www.fsbwa.com/)** | **[Customer Service Representative Intern](https://jobright.ai/jobs/info/69effc2a0a6e0955530589f9?utm_campaign=1058&utm_source=git)** | Port Townsend, WA | On Site | Apr 27 |
@@ -84,6 +85,7 @@ For a complete list, click the following sortable link below:
 | **[Samaritan Health Services](https://www.samhealth.org/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69f0019d58811370cb14a1d3?utm_campaign=1058&utm_source=git)** | Newport, OR | On Site | Apr 27 |
 | **[AMOREPACIFIC](https://www.apgroup.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/69efdd2f0a6e095553057b55?utm_campaign=1058&utm_source=git)** | NYC Metro Area | On Site | Apr 27 |
 | **[Trinity Health MI](https://bit.ly/3y0fhsr)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69efdcbdfbe0994a40eb8ca5?utm_campaign=1058&utm_source=git)** | Grand Rapids, MI | On Site | Apr 27 |
+| **[CCHMC Biomedical Research Technologies Masters Program](https://www.cincinnatichildrens.org/education/research/biomedical-research-masters)** | **[Nurse Intern BMT (JR218355)](https://jobright.ai/jobs/info/69f012fe2b095843b0311563?utm_campaign=1058&utm_source=git)** | Cincinnati, OH | On Site | Apr 27 |
 | **[Nikkiso Clean Energy & Industrial Gases](https://www.NikkisoCEIG.com)** | **[IT Intern](https://jobright.ai/jobs/info/69efd882e624fe645d533ac3?utm_campaign=1058&utm_source=git)** | Temecula, CA | On Site | Apr 27 |
 | **[U.S. Bank](http://www.usbank.com)** | **[Call Center Collector](https://jobright.ai/jobs/info/69efd8650a6e09555305798c?utm_campaign=1058&utm_source=git)** | United States | Remote | Apr 27 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/69efd7dbe624fe645d533a43?utm_campaign=1058&utm_source=git)** | Memphis, TN | On Site | Apr 27 |
@@ -109,6 +111,7 @@ For a complete list, click the following sortable link below:
 | **[Fabick Cat](https://www.fabickcat.com/)** | **[IT Help Desk Intern](https://jobright.ai/jobs/info/69efd46c4b0fa35a7078bd60?utm_campaign=1058&utm_source=git)** | Milwaukee, WI | On Site | Apr 27 |
 | ↳ | **[IT Help Desk Intern](https://jobright.ai/jobs/info/69efd406e624fe645d53387e?utm_campaign=1058&utm_source=git)** | Fenton, MO | On Site | Apr 27 |
 | **[SCA Health](http://scasurgery.com)** | **[Intern - Berks Center for Digestive Health](https://jobright.ai/jobs/info/69efd64b16b2612c2a12be42?utm_campaign=1058&utm_source=git)** | Reading, PA | On Site | Apr 27 |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69ec178816b2612c2a120d36?utm_campaign=1058&utm_source=git)** | Wood-Ridge, NJ | On Site | Apr 27 |
 | **[Ervin Cable Construction LLC](http://www.ervincable.com/)** | **[Intern](https://jobright.ai/jobs/info/69efd55c58811370cb148b18?utm_campaign=1058&utm_source=git)** | Sturgis, KY | On Site | Apr 27 |
 | **[Skinship](skinshipaesthetics.com)** | **[Patient Coordinator Intern](https://jobright.ai/jobs/info/69efaf6c4b0fa35a7078b05e?utm_campaign=1058&utm_source=git)** | Atlanta, GA | On Site | Apr 27 |
 | **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[Student IT Support Technician](https://jobright.ai/jobs/info/69efd59f58811370cb148b2a?utm_campaign=1058&utm_source=git)** | Topeka Metropolitan Area | On Site | Apr 27 |
@@ -136,8 +139,8 @@ For a complete list, click the following sortable link below:
 | **[IEA Constructors LLC, a MasTec Company](https://ieaconstructors.com/)** | **[Intern](https://jobright.ai/jobs/info/69ef8e8458811370cb1471c7?utm_campaign=1058&utm_source=git)** | US-IN-Clinton | On Site | Apr 27 |
 | **[Kentucky Eye Institute](https://kyeye.com/)** | **[Ophthalmic Medical Assistant - Summer intern](https://jobright.ai/jobs/info/69ef8e8358811370cb1471ab?utm_campaign=1058&utm_source=git)** | US-OH-Cincinnati | On Site | Apr 27 |
 | ↳ | **[Ophthalmic Medical Assistant - Summer Intern](https://jobright.ai/jobs/info/69ef8e7bfbe0994a40eb705a?utm_campaign=1058&utm_source=git)** | Crestview Hills, KY, US | On Site | Apr 27 |
-| ↳ | **[Ophthalmic Medical Assistant - Summer Intern](https://jobright.ai/jobs/info/69ef8e7a4b0fa35a7078a279?utm_campaign=1058&utm_source=git)** | Cincinnati, OH, US | On Site | Apr 27 |
 | ↳ | **[Ophthalmic Medical Assistant - Summer intern](https://jobright.ai/jobs/info/69ef8e7afbe0994a40eb704f?utm_campaign=1058&utm_source=git)** | Cincinnati, OH, US | On Site | Apr 27 |
+| ↳ | **[Ophthalmic Medical Assistant - Summer Intern](https://jobright.ai/jobs/info/69ef8e7a4b0fa35a7078a279?utm_campaign=1058&utm_source=git)** | Cincinnati, OH, US | On Site | Apr 27 |
 | ↳ | **[Ophthalmic Medical Assistant - Summer Intern](https://jobright.ai/jobs/info/69ef8e3a16b2612c2a12a3c7?utm_campaign=1058&utm_source=git)** | US-OH-Cincinnati | On Site | Apr 27 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[IS Services & Support Intern (or Co-Op)](https://jobright.ai/jobs/info/69ef85e40a6e0955530559c2?utm_campaign=1058&utm_source=git)** | Indianapolis, IN | On Site | Apr 27 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69ef85c058811370cb146f90?utm_campaign=1058&utm_source=git)** | Tupelo, MS | On Site | Apr 27 |
@@ -152,9 +155,6 @@ For a complete list, click the following sortable link below:
 | **[General Dynamics Mission Systems](https://gdmissionsystems.com)** | **[Integrated Logistics Support Intern](https://jobright.ai/jobs/info/69e6cedaf8fa2f3ec32a3a84?utm_campaign=1058&utm_source=git)** | Scottsdale, AZ | On Site | Apr 27 |
 | **[Xometry](https://www.xometry.com)** | **[IT Service Desk Intern](https://jobright.ai/jobs/info/69aa56469ca4e908ec65acbf?utm_campaign=1058&utm_source=git)** | North Bethesda, MD | On Site | Apr 27 |
 | **[Access: Supports for Living](http://businesssolutions.accesssupports.org)** | **[I/DD Nursing Intern](https://jobright.ai/jobs/info/69ef469e0a6e095553053b20?utm_campaign=1058&utm_source=git)** | Middletown, NY | On Site | Apr 27 |
-| **[Golden 1 Credit Union](https://www.golden1.com/)** | **[Contact Center MSR II - Remote in CA only](https://jobright.ai/jobs/info/6946239cd1953b5d11bf3ebb?utm_campaign=1058&utm_source=git)** | Sacramento, CA | Remote | Apr 27 |
-| ↳ | **[Remote Contact Center MSR II (Solano County)](https://jobright.ai/jobs/info/69462075d1953b5d11bf3cfb?utm_campaign=1058&utm_source=git)** | Solano County, CA | Remote | Apr 27 |
-| **[The Reynolds and Reynolds Company](https://www.reyrey.com)** | **[Technical Support Intern](https://jobright.ai/jobs/info/6999bb5981476f6176b281aa?utm_campaign=1058&utm_source=git)** | CS-Bryan Area | On Site | Apr 27 |
-| **[Golden 1 Credit Union](https://www.golden1.com/)** | **[SAC County - Contact Center MSR II - Remote - CA Only](https://jobright.ai/jobs/info/69461d6c63141d188455ca3d?utm_campaign=1058&utm_source=git)** | Sacramento, CA | Remote | Apr 27 |
-| ↳ | **[Remote Contact Center MSR II (Rancho Cucamonga)](https://jobright.ai/jobs/info/694620f57d506e3808f17377?utm_campaign=1058&utm_source=git)** | Ontario, CA | Remote | Apr 27 |
+| **[Golden 1 Credit Union](https://www.golden1.com/)** | **[Remote Contact Center MSR II (Solano County)](https://jobright.ai/jobs/info/69462075d1953b5d11bf3cfb?utm_campaign=1058&utm_source=git)** | Solano County, CA | Remote | Apr 27 |
+| ↳ | **[Contact Center MSR II - Remote in CA only](https://jobright.ai/jobs/info/6946239cd1953b5d11bf3ebb?utm_campaign=1058&utm_source=git)** | Sacramento, CA | Remote | Apr 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
