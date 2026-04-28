@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Michigan](https://www.umich.edu)** | **[PHARM INTERN TECH (TEMP)](https://jobright.ai/jobs/info/69f07cb28d8d624381a96627?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Apr 28 |
+| **[Rush University Medical Center](https://www.rush.edu/)** | **[Pharmacy Intern-24610](https://jobright.ai/jobs/info/69f07caa8d8d624381a96618?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Apr 28 |
+| **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE - CRNA Internship](https://jobright.ai/jobs/info/69f07c91a4aa3545d8a5e349?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Apr 28 |
+| **[Ambition Preparatory Charter School](http://www.ambitionprep.org/careers)** | **[IT Summer Intern](https://jobright.ai/jobs/info/69f07542a4aa3545d8a5e2e8?utm_campaign=1058&utm_source=git)** | Jackson, MS | On Site | Apr 28 |
 | **[PTR Premier Truck Rental](https://rentptr.com)** | **[Service Tech Intern](https://jobright.ai/jobs/info/69b33dfead360c0340a86592?utm_campaign=1058&utm_source=git)** | Fort Wayne, IN | On Site | Apr 27 |
 | **[Xometry](https://www.xometry.com)** | **[Case Management Intern](https://jobright.ai/jobs/info/6948ed3863141d1884589708?utm_campaign=1058&utm_source=git)** | Gaithersburg, MD | Hybrid | Apr 27 |
 | **[Osi Vision, LLC](https://osivision.com/)** | **[Summer Internship: IT Operations & Automation](https://jobright.ai/jobs/info/69f036f3ecbc8c2f731ff045?utm_campaign=1058&utm_source=git)** | San Antonio, TX | On Site | Apr 27 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Ophthalmic Medical Assistant - Summer Intern](https://jobright.ai/jobs/info/69ef8e7bfbe0994a40eb705a?utm_campaign=1058&utm_source=git)** | Crestview Hills, KY, US | On Site | Apr 27 |
 | ↳ | **[Ophthalmic Medical Assistant - Summer intern](https://jobright.ai/jobs/info/69ef8e7afbe0994a40eb704f?utm_campaign=1058&utm_source=git)** | Cincinnati, OH, US | On Site | Apr 27 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[IS Services & Support Intern (or Co-Op)](https://jobright.ai/jobs/info/69ef85e40a6e0955530559c2?utm_campaign=1058&utm_source=git)** | Indianapolis, IN | On Site | Apr 27 |
-| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69ef85c058811370cb146f90?utm_campaign=1058&utm_source=git)** | Tupelo, MS | On Site | Apr 27 |
-| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69ef85abe624fe645d531eb7?utm_campaign=1058&utm_source=git)** | Huntersville, NC | On Site | Apr 27 |
-| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[PHARM INTERN TECH (TEMP)](https://jobright.ai/jobs/info/69ef7d9f4b0fa35a70789948?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Apr 27 |
-| **[Eastern Virginia Medical School](http://www.evms.edu)** | **[Intern, Health Sciences](https://jobright.ai/jobs/info/69ef7d0b0a6e09555305517c?utm_campaign=1058&utm_source=git)** | Norfolk, VA, US | On Site | Apr 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
