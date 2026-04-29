@@ -143,8 +143,8 @@ For a complete list, click the following sortable link below:
 | **[L2T, LLC](https://www.l2tllc.com/)** | **[IT Internship](https://jobright.ai/jobs/info/69f118208d8d624381a9a52d?utm_campaign=1058&utm_source=git)** | Herndon, VA | On Site | Apr 28 |
 | **[UAB Medicine](https://www.uabmedicine.org)** | **[Intern - Imaging](https://jobright.ai/jobs/info/69f13590ecbc8c2f73204802?utm_campaign=1058&utm_source=git)** | Pell City, AL | On Site | Apr 28 |
 | ↳ | **[Intern - Respiratory Therapy](https://jobright.ai/jobs/info/69f1359a8d8d624381a9adf6?utm_campaign=1058&utm_source=git)** | Birmingham, AL | On Site | Apr 28 |
-| **[Children's Wisconsin](https://childrenswi.org/)** | **[High School Intern Clinical](https://jobright.ai/jobs/info/69f135aa62b48c6838794463?utm_campaign=1058&utm_source=git)** | Neenah, WI | On Site | Apr 28 |
-| ↳ | **[Nurse Intern](https://jobright.ai/jobs/info/69f1359f62b48c683879441b?utm_campaign=1058&utm_source=git)** | Milwaukee, WI | On Site | Apr 28 |
+| **[Children's Wisconsin](https://childrenswi.org/)** | **[Nurse Intern](https://jobright.ai/jobs/info/69f1359f62b48c683879441b?utm_campaign=1058&utm_source=git)** | Milwaukee, WI | On Site | Apr 28 |
+| ↳ | **[High School Intern Clinical](https://jobright.ai/jobs/info/69f135aa62b48c6838794463?utm_campaign=1058&utm_source=git)** | Neenah, WI | On Site | Apr 28 |
 | **[CuraLinc Healthcare](https://curalinc.com/)** | **[Paid Internship - Information Technology](https://jobright.ai/jobs/info/69f1106eb27fee43e8cd71b3?utm_campaign=1058&utm_source=git)** | United States | Remote | Apr 28 |
 | **[Kindred](https://www.kindredhospitals.com)** | **[Pharmacy Intern - Per Diem](https://jobright.ai/jobs/info/69f11065ecbc8c2f732039f0?utm_campaign=1058&utm_source=git)** | Paramount, CA | On Site | Apr 28 |
 | **[CuraLinc Healthcare](https://curalinc.com/)** | **[Paid Internship - Clinical Operations](https://jobright.ai/jobs/info/69f10ffa825a315d7ca35ded?utm_campaign=1058&utm_source=git)** | United States | Remote | Apr 28 |
