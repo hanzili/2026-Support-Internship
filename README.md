@@ -57,6 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Texas Department of Transportation](https://www.txdot.gov)** | **[Intern Support Technician - Admin](https://jobright.ai/jobs/info/69f224f5f154d768fbaa587c?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | Apr 29 |
+| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[PHARM INTERN TECH (TEMP)](https://jobright.ai/jobs/info/69f224eef154d768fbaa585c?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Apr 29 |
+| **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Access Your Future Service Intern](https://jobright.ai/jobs/info/69f2247cf154d768fbaa576c?utm_campaign=1058&utm_source=git)** | Fort Worth, TX | On Site | Apr 29 |
+| **[Brown University Health](https://www.brownhealth.org)** | **[Student Nurse Intern 1](https://jobright.ai/jobs/info/69f2245aecbc8c2f73208fa7?utm_campaign=1058&utm_source=git)** | Providence, RI | On Site | Apr 29 |
+| **[Egan Company](https://www.eganco.com/)** | **[IT Systems and Support Intern - Summer 2026](https://jobright.ai/jobs/info/69f222f0825a315d7ca3aeb8?utm_campaign=1058&utm_source=git)** | Champlin, MN | On Site | Apr 29 |
+| ↳ | **[IT Systems and Support Intern - Summer 2026](https://jobright.ai/jobs/info/69f21cd18d8d624381a9f45e?utm_campaign=1058&utm_source=git)** | Champlin, MN | On Site | Apr 29 |
+| **[Yardi](https://www.yardi.com)** | **[Intern, Associate Technical Account Manager](https://jobright.ai/jobs/info/69d5a3d6cdb525785fbd2492?utm_campaign=1058&utm_source=git)** | Santa Ana, CA | Hybrid | Apr 29 |
+| **[The Cancer & Hematology Centers](https://www.chcwm.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69bb8b665697383741419cc6?utm_campaign=1058&utm_source=git)** | Grand Rapids, MI | On Site | Apr 29 |
+| **[LCMC Health](https://www.lcmchealth.org/)** | **[Pharmacist - Student Licensed Intern PRN](https://jobright.ai/jobs/info/69f21c46f154d768fbaa5516?utm_campaign=1058&utm_source=git)** | Touro Infirmary, US | On Site | Apr 29 |
+| **[Pacific Seafood](https://www.pacificseafood.com/)** | **[Logistics Support Intern](https://jobright.ai/jobs/info/699cbab4ce78e77b4fe17be1?utm_campaign=1058&utm_source=git)** | Snohomish County, WA | On Site | Apr 29 |
 | **[Brown University](https://www.brown.edu)** | **[Student Nurse Intern 1](https://jobright.ai/jobs/info/69f20e28825a315d7ca3a858?utm_campaign=1058&utm_source=git)** | Rhode Island Hospital, US | On Site | Apr 29 |
 | **[Woodgrain](http://www.woodgrain.com/)** | **[Warehouse Worker Intern- Lawrenceville, GA](https://jobright.ai/jobs/info/69d59172e63cea7a8b6624de?utm_campaign=1058&utm_source=git)** | Lawrenceville, GA | On Site | Apr 29 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Intern, Operations Customer Center (OCC) CORE Technology (Summer 2026)](https://jobright.ai/jobs/info/69f20009825a315d7ca3a36a?utm_campaign=1058&utm_source=git)** | Atlanta, GA | On Site | Apr 29 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Babcock & Wilcox](https://www.babcock.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/69f118b762b48c6838793b51?utm_campaign=1058&utm_source=git)** | Akron, OH | On Site | Apr 28 |
 | **[CAPTRUST](https://www.captrust.com)** | **[Summer 2026 Institutional Client Service Intern](https://jobright.ai/jobs/info/69f1189d825a315d7ca35f7c?utm_campaign=1058&utm_source=git)** | Phoenix, AZ, US | On Site | Apr 28 |
 | **[Godfather's Pizza](http://www.godfathers.com)** | **[IT Intern](https://jobright.ai/jobs/info/69f118338d8d624381a9a5bc?utm_campaign=1058&utm_source=git)** | Omaha, NE | On Site | Apr 28 |
-| **[L2T, LLC](https://www.l2tllc.com/)** | **[IT Internship](https://jobright.ai/jobs/info/69f118208d8d624381a9a52d?utm_campaign=1058&utm_source=git)** | Herndon, VA | On Site | Apr 28 |
-| **[UAB Medicine](https://www.uabmedicine.org)** | **[Intern - Imaging](https://jobright.ai/jobs/info/69f13590ecbc8c2f73204802?utm_campaign=1058&utm_source=git)** | Pell City, AL | On Site | Apr 28 |
-| ↳ | **[Intern - Respiratory Therapy](https://jobright.ai/jobs/info/69f1359a8d8d624381a9adf6?utm_campaign=1058&utm_source=git)** | Birmingham, AL | On Site | Apr 28 |
-| **[Children's Wisconsin](https://childrenswi.org/)** | **[Nurse Intern](https://jobright.ai/jobs/info/69f1359f62b48c683879441b?utm_campaign=1058&utm_source=git)** | Milwaukee, WI | On Site | Apr 28 |
-| ↳ | **[High School Intern Clinical](https://jobright.ai/jobs/info/69f135aa62b48c6838794463?utm_campaign=1058&utm_source=git)** | Neenah, WI | On Site | Apr 28 |
-| **[CuraLinc Healthcare](https://curalinc.com/)** | **[Paid Internship - Information Technology](https://jobright.ai/jobs/info/69f1106eb27fee43e8cd71b3?utm_campaign=1058&utm_source=git)** | United States | Remote | Apr 28 |
-| **[Kindred](https://www.kindredhospitals.com)** | **[Pharmacy Intern - Per Diem](https://jobright.ai/jobs/info/69f11065ecbc8c2f732039f0?utm_campaign=1058&utm_source=git)** | Paramount, CA | On Site | Apr 28 |
-| **[CuraLinc Healthcare](https://curalinc.com/)** | **[Paid Internship - Clinical Operations](https://jobright.ai/jobs/info/69f10ffa825a315d7ca35ded?utm_campaign=1058&utm_source=git)** | United States | Remote | Apr 28 |
-| **[Godfather's Pizza](http://www.godfathers.com)** | **[IT Intern](https://jobright.ai/jobs/info/69f10f0a825a315d7ca35b60?utm_campaign=1058&utm_source=git)** | Headquarters, Omaha, NE, US | On Site | Apr 28 |
-| **[Stormont Vail Health](http://www.stormontvail.org)** | **[Pharmacy Student Intern 1 (P1 & P2) - Pharmacy - PRN](https://jobright.ai/jobs/info/69f10e7d62b48c6838793610?utm_campaign=1058&utm_source=git)** | Topeka, KS, US | On Site | Apr 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
