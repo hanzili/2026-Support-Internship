@@ -57,7 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Oakland County, Michigan Government](https://www.oakgov.com/)** | **[College Intern - Clerk's Office](https://jobright.ai/jobs/info/69f1d3dfb27fee43e8cdb3c8?utm_campaign=1058&utm_source=git)** | Pontiac, MI | On Site | Apr 29 |
+| **[Golden 1 Credit Union](https://www.golden1.com/)** | **[Madera County - Contact Center MSR II - Remote](https://jobright.ai/jobs/info/69462144d1953b5d11bf3d6c?utm_campaign=1058&utm_source=git)** | Fresno, CA | Remote | Apr 29 |
+| **[University of Michigan](https://www.umich.edu)** | **[PHARM INTERN TECH (TEMP)](https://jobright.ai/jobs/info/69f1ccb8825a315d7ca39ee6?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Apr 29 |
+| ↳ | **[REGISTERED NURSE - CRNA Internship](https://jobright.ai/jobs/info/69f1cc7a8d8d624381a9e507?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Apr 29 |
+| **[GREENWOOD 50 SCHOOL DISTRICT](https://www.linkedin.com/company/56874586)** | **[Computer Technician: Summer Internship](https://jobright.ai/jobs/info/69f1c90fb27fee43e8cdb252?utm_campaign=1058&utm_source=git)** | Greenwood, SC | On Site | Apr 29 |
 | **[Harsco Rail](http://harscorail.com)** | **[IT Intern - Summer 2026](https://jobright.ai/jobs/info/69dd9b1435a2b346b20b1d78?utm_campaign=1058&utm_source=git)** | West Columbia, SC | On Site | Apr 29 |
+| **[UMass Memorial Health](https://www.ummhealth.org)** | **[Pharmacy Intern, Inpatient Pharmacy, Per Diem](https://jobright.ai/jobs/info/69f1c92a8d8d624381a9e4b9?utm_campaign=1058&utm_source=git)** | Worcester, MA | On Site | Apr 28 |
+| ↳ | **[Pharmacy Intern, Inpatient Pharmacy, Per Diem (Eve)](https://jobright.ai/jobs/info/69f1c9218feca91f14922487?utm_campaign=1058&utm_source=git)** | Worcester, MA | On Site | Apr 28 |
 | **[Golden 1 Credit Union](https://www.golden1.com/)** | **[IT - Help Desk and Desktop - Desktop Support Technician](https://jobright.ai/jobs/info/69f1900462b48c6838796a90?utm_campaign=1058&utm_source=git)** | Sacramento, CA | On Site | Apr 28 |
 | **[Oakland County, Michigan Government](https://www.oakgov.com/)** | **[College Intern - Clerk's Office](https://jobright.ai/jobs/info/69f18c708d8d624381a9cb0a?utm_campaign=1058&utm_source=git)** | Pontiac, Michigan, United States, US | On Site | Apr 28 |
 | **[Florence Township School Dist](http://www.florence.k12.nj.us)** | **[Summer Technology Helpers](https://jobright.ai/jobs/info/69f1ba228d8d624381a9e273?utm_campaign=1058&utm_source=git)** | Florence, NJ | On Site | Apr 28 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69f107f4825a315d7ca358ba?utm_campaign=1058&utm_source=git)** | East Greenwich, RI | On Site | Apr 28 |
 | **[Children's Wisconsin](https://childrenswi.org/)** | **[Nurse Intern](https://jobright.ai/jobs/info/69f1046c8feca91f1491e05a?utm_campaign=1058&utm_source=git)** | Milwaukee, WI, US | On Site | Apr 28 |
 | **[NewYork-Presbyterian Hospital](http://www.nypventures.org/)** | **[Per Diem Intern](https://jobright.ai/jobs/info/69f1045f8d8d624381a99bf9?utm_campaign=1058&utm_source=git)** | NYP/Morgan Stanley Children's Hospital, US | On Site | Apr 28 |
-| **[Kaplan](http://www.kaplan.com)** | **[Desktop Operations, Intern](https://jobright.ai/jobs/info/69bb8a1d56973837414193be?utm_campaign=1058&utm_source=git)** | Fort Lauderdale, FL | On Site | Apr 28 |
-| **[Bronson Healthcare](https://www.bronsonhealth.com/)** | **[Higher Promise Intern - Phlebotomy](https://jobright.ai/jobs/info/69f10357ecbc8c2f73203225?utm_campaign=1058&utm_source=git)** | Bronson Healthcare Group, US | On Site | Apr 28 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69f141d7b27fee43e8cd83da?utm_campaign=1058&utm_source=git)** | Glen Allen, VA | On Site | Apr 28 |
-| **[Meijer](https://www.meijer.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69f1290cb27fee43e8cd7601?utm_campaign=1058&utm_source=git)** | Bad Axe, MI | On Site | Apr 28 |
-| **[Vistal](vistal.com)** | **[IT Intern](https://jobright.ai/jobs/info/69f12cdeecbc8c2f73203f15?utm_campaign=1058&utm_source=git)** | West Fargo, ND | On Site | Apr 28 |
-| **[NYC Department of Health and Mental Hygiene](https://www.nyc.gov/site/doh/index.page)** | **[IT Help Desk Intern](https://jobright.ai/jobs/info/69f100f2ecbc8c2f73203043?utm_campaign=1058&utm_source=git)** | MANHATTAN | Hybrid | Apr 28 |
-| **[Milacron](https://www.milacron.com)** | **[Information Technology Intern (ITSM)](https://jobright.ai/jobs/info/69f0fbe7ecbc8c2f73202ee2?utm_campaign=1058&utm_source=git)** | Batavia, OH | On Site | Apr 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
