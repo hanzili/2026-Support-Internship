@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of New Hampshire](https://www.unh.edu)** | **[Technician Intern](https://jobright.ai/jobs/info/69d8b0edb861c42857c4bee7?utm_campaign=1058&utm_source=git)** | Durham, NH | On Site | Apr 29 |
+| **[KPH HEALTHCARE SERVICES, INC](https://www.kphhealthcareservices.com/en/)** | **[Pharmacy Intern P4](https://jobright.ai/jobs/info/69d59c0be63cea7a8b6628a6?utm_campaign=1058&utm_source=git)** | Baldwinsville, NY | On Site | Apr 29 |
+| **[CHRISTUS Health](https://www.christushealth.org/santa-rosa)** | **[Nurse Extern II - Nursing Internship](https://jobright.ai/jobs/info/69d5d9244a12eb12c5e13eaa?utm_campaign=1058&utm_source=git)** | Santa Fe, NM | On Site | Apr 29 |
 | **[AMETEK](http://www.ametek.com)** | **[Intern - IT, Helpdesk & Systems Support](https://jobright.ai/jobs/info/69d5750bcdb525785fbd105d?utm_campaign=1058&utm_source=git)** | Wayne, NJ | On Site | Apr 29 |
 | **[Lennox](http://www.lennox.com)** | **[Technical Service Intern](https://jobright.ai/jobs/info/69d54571cdb525785fbcf6b8?utm_campaign=1058&utm_source=git)** | Bay Shore, NY | On Site | Apr 29 |
 | **[Oakland County, Michigan Government](https://www.oakgov.com/)** | **[College Intern - Clerk's Office](https://jobright.ai/jobs/info/69f1d3dfb27fee43e8cdb3c8?utm_campaign=1058&utm_source=git)** | Pontiac, MI | On Site | Apr 29 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Capital Health (US)](http://www.capitalhealth.org)** | **[Patient Care Intern II - Central Resource Office - PER DIEM](https://jobright.ai/jobs/info/69f1418c8feca91f1491f5f1?utm_campaign=1058&utm_source=git)** | Pennington, NJ | On Site | Apr 28 |
 | ↳ | **[Patient Care Intern I - Central Resource Office - PER DIEM](https://jobright.ai/jobs/info/69f12cfc825a315d7ca3627b?utm_campaign=1058&utm_source=git)** | Pennington, NJ | On Site | Apr 28 |
 | **[NYCM Insurance](https://www.nycm.com)** | **[Customer Service Representative (Hybrid)](https://jobright.ai/jobs/info/69f14106ecbc8c2f73204dbb?utm_campaign=1058&utm_source=git)** | Edmeston, NY | Hybrid | Apr 28 |
-| **[SEKO Logistics](http://sekologistics.com)** | **[IT Intern](https://jobright.ai/jobs/info/69f1296ab27fee43e8cd777f?utm_campaign=1058&utm_source=git)** | Schaumburg, IL | On Site | Apr 28 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69f1080e825a315d7ca358e2?utm_campaign=1058&utm_source=git)** | Johnston, RI | On Site | Apr 28 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69f107f4825a315d7ca358ba?utm_campaign=1058&utm_source=git)** | East Greenwich, RI | On Site | Apr 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
