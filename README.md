@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Newport, Oregon](https://www.newportoregon.gov)** | **[60+ Activity Center Office Clerk](https://jobright.ai/jobs/info/69f153e5ecbc8c2f732054c0?utm_campaign=1058&utm_source=git)** | Newport, OR | On Site | Apr 28 |
+| **[Freeman Hospital](https://www.newcastle-hospitals.nhs.uk/consultants/dr-abbas-khushnood/)** | **[Clinical Administrator](https://jobright.ai/jobs/info/69f153d9825a315d7ca37619?utm_campaign=1058&utm_source=git)** | Carthage, MO | On Site | Apr 28 |
+| **[Starz](http://www.starz.com/)** | **[STARZ Intern, IT Support](https://jobright.ai/jobs/info/69964250ce78e77b4fda3c0b?utm_campaign=1058&utm_source=git)** | Greenwood Village, CO | On Site | Apr 28 |
+| **[RRD](https://www.rrd.com/)** | **[IT Production Support Specialist Summer Intern](https://jobright.ai/jobs/info/69f1504fecbc8c2f732053b5?utm_campaign=1058&utm_source=git)** | Logan, UT | Hybrid | Apr 28 |
+| **[Xometry](https://www.xometry.com)** | **[Case Management Intern](https://jobright.ai/jobs/info/6943e68d94730b7398771073?utm_campaign=1058&utm_source=git)** | Lexington, KY | Hybrid | Apr 28 |
+| **[Laurentian Bank](https://www.laurentianbank.ca)** | **[Intern - Sales Support Analyst](https://jobright.ai/jobs/info/69f150068feca91f1491fb1c?utm_campaign=1058&utm_source=git)** | Burlington, Ontario, Canada | Hybrid | Apr 28 |
+| **[OhioHealth](https://www.ohiohealth.com/)** | **[Pharmacy Intern - Grady](https://jobright.ai/jobs/info/69f14fe6825a315d7ca373d0?utm_campaign=1058&utm_source=git)** | Delaware, OH | On Site | Apr 28 |
 | **[Southwest Florida Water Management District](http://www.watermatters.org)** | **[Records Services Student Internship (9008)](https://jobright.ai/jobs/info/69f14242825a315d7ca36ff5?utm_campaign=1058&utm_source=git)** | Brooksville, FL | On Site | Apr 28 |
 | **[New York City Ballet](http://nycballet.com)** | **[Intern, Membership](https://jobright.ai/jobs/info/69f1420e825a315d7ca36edd?utm_campaign=1058&utm_source=git)** | New York, New York, United States | Hybrid | Apr 28 |
 | **[Hyatt Place + Hyatt House Charleston Historic District](http://www.hyattplacehyatthousecharleston.com/)** | **[Front Desk Agent/ Seasonal/Internship](https://jobright.ai/jobs/info/69f14206825a315d7ca36ec6?utm_campaign=1058&utm_source=git)** | Morristown,NJ,US | On Site | Apr 28 |
@@ -93,8 +100,8 @@ For a complete list, click the following sortable link below:
 | **[New Jersey Courts](https://www.njcourts.gov/)** | **[Unpaid Intern (Various Divisions/Chambers)](https://jobright.ai/jobs/info/69f141d98feca91f1491f7a9?utm_campaign=1058&utm_source=git)** | New Brunswick, NJ | On Site | Apr 28 |
 | **[UAB Medicine](https://www.uabmedicine.org)** | **[Intern - Imaging](https://jobright.ai/jobs/info/69f13590ecbc8c2f73204802?utm_campaign=1058&utm_source=git)** | Pell City, AL | On Site | Apr 28 |
 | ↳ | **[Intern - Respiratory Therapy](https://jobright.ai/jobs/info/69f1359a8d8d624381a9adf6?utm_campaign=1058&utm_source=git)** | Birmingham, AL | On Site | Apr 28 |
-| **[Children's Wisconsin](https://childrenswi.org/)** | **[Nurse Intern](https://jobright.ai/jobs/info/69f1359f62b48c683879441b?utm_campaign=1058&utm_source=git)** | Milwaukee, WI | On Site | Apr 28 |
-| ↳ | **[High School Intern Clinical](https://jobright.ai/jobs/info/69f135aa62b48c6838794463?utm_campaign=1058&utm_source=git)** | Neenah, WI | On Site | Apr 28 |
+| **[Children's Wisconsin](https://childrenswi.org/)** | **[High School Intern Clinical](https://jobright.ai/jobs/info/69f135aa62b48c6838794463?utm_campaign=1058&utm_source=git)** | Neenah, WI | On Site | Apr 28 |
+| ↳ | **[Nurse Intern](https://jobright.ai/jobs/info/69f1359f62b48c683879441b?utm_campaign=1058&utm_source=git)** | Milwaukee, WI | On Site | Apr 28 |
 | **[CuraLinc Healthcare](https://curalinc.com/)** | **[Paid Internship - Information Technology](https://jobright.ai/jobs/info/69f1106eb27fee43e8cd71b3?utm_campaign=1058&utm_source=git)** | United States | Remote | Apr 28 |
 | **[Kindred](https://www.kindredhospitals.com)** | **[Pharmacy Intern - Per Diem](https://jobright.ai/jobs/info/69f11065ecbc8c2f732039f0?utm_campaign=1058&utm_source=git)** | Paramount, CA | On Site | Apr 28 |
 | **[CuraLinc Healthcare](https://curalinc.com/)** | **[Paid Internship - Clinical Operations](https://jobright.ai/jobs/info/69f10ffa825a315d7ca35ded?utm_campaign=1058&utm_source=git)** | United States | Remote | Apr 28 |
@@ -134,8 +141,8 @@ For a complete list, click the following sortable link below:
 | **[TAD](http://technologyarchitecturedesign.com/)** | **[ARB Summer Internship](https://jobright.ai/jobs/info/69f0e3b2825a315d7ca34df9?utm_campaign=1058&utm_source=git)** | Richland Hills,TX,US | On Site | Apr 28 |
 | **[L2T, LLC](https://www.l2tllc.com/)** | **[IT Internship](https://jobright.ai/jobs/info/69f0e0adb27fee43e8cd5f41?utm_campaign=1058&utm_source=git)** | US-VA-Herndon | On Site | Apr 28 |
 | ↳ | **[IT Internship](https://jobright.ai/jobs/info/69f0e09f62b48c6838792707?utm_campaign=1058&utm_source=git)** | Herndon, VA, US | On Site | Apr 28 |
-| **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69f0dfb5b27fee43e8cd5e88?utm_campaign=1058&utm_source=git)** | Clarence, NY | On Site | Apr 28 |
-| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69f0dfb5b27fee43e8cd5e89?utm_campaign=1058&utm_source=git)** | Hamburg, NY | On Site | Apr 28 |
+| **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69f0dfb5b27fee43e8cd5e89?utm_campaign=1058&utm_source=git)** | Hamburg, NY | On Site | Apr 28 |
+| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69f0dfb5b27fee43e8cd5e88?utm_campaign=1058&utm_source=git)** | Clarence, NY | On Site | Apr 28 |
 | **[The Social Hub (B Corp™)](https://www.thesocialhub.co/)** | **[Service Communications Intern](https://jobright.ai/jobs/info/69f0df43b27fee43e8cd5e02?utm_campaign=1058&utm_source=git)** | NL-Hub | On Site | Apr 28 |
 | **[Emory Healthcare](http://www.emoryhealthcare.org/)** | **[Clinical Dietitian II / Intern Prg](https://jobright.ai/jobs/info/69f103a88feca91f1491df30?utm_campaign=1058&utm_source=git)** | Atlanta, GA | On Site | Apr 28 |
 | **[Optum](https://www.optum.com/)** | **[Pharmacist Intern Behavioral Health](https://jobright.ai/jobs/info/69f1039d8d8d624381a99ace?utm_campaign=1058&utm_source=git)** | Pontiac, MI | On Site | Apr 28 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Capital Health (US)](http://www.capitalhealth.org)** | **[Patient Care Intern II - Central Resource Office - PER DIEM](https://jobright.ai/jobs/info/69f0d68762b48c68387923ac?utm_campaign=1058&utm_source=git)** | RMC, US | On Site | Apr 28 |
 | **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/69f0d6808d8d624381a98a7e?utm_campaign=1058&utm_source=git)** | Vero Beach, FL | On Site | Apr 28 |
 | **[Kessler Collection](http://www.kesslercollection.com)** | **[J1 Visa - Guest Services Internship](https://jobright.ai/jobs/info/69f0f502ecbc8c2f73202bdd?utm_campaign=1058&utm_source=git)** | Savannah, GA | On Site | Apr 28 |
-| **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69f0f53b8feca91f1491da9c?utm_campaign=1058&utm_source=git)** | High Point, NC | On Site | Apr 28 |
-| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69f0f49462b48c6838792d10?utm_campaign=1058&utm_source=git)** | Virginia Beach, VA | On Site | Apr 28 |
-| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69f0f51cb27fee43e8cd664f?utm_campaign=1058&utm_source=git)** | Richmond, VA | On Site | Apr 28 |
-| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69f0f5238d8d624381a9968c?utm_campaign=1058&utm_source=git)** | East Lansing, MI | On Site | Apr 28 |
-| ↳ | **[Pharmacy Graduate Intern (Non-US Education)](https://jobright.ai/jobs/info/69f0f54b8feca91f1491dad2?utm_campaign=1058&utm_source=git)** | St Paul, MN | On Site | Apr 28 |
-| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69f0f4e0825a315d7ca353b3?utm_campaign=1058&utm_source=git)** | Raleigh, NC | On Site | Apr 28 |
-| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69f0f51db27fee43e8cd6650?utm_campaign=1058&utm_source=git)** | Gainesville, FL | On Site | Apr 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
