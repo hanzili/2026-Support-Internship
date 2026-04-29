@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Woodgrain](http://www.woodgrain.com/)** | **[Warehouse Worker Intern- Lawrenceville, GA](https://jobright.ai/jobs/info/69d59172e63cea7a8b6624de?utm_campaign=1058&utm_source=git)** | Lawrenceville, GA | On Site | Apr 29 |
+| **[Delta Air Lines](https://www.delta.com/)** | **[Intern, Operations Customer Center (OCC) CORE Technology (Summer 2026)](https://jobright.ai/jobs/info/69f20009825a315d7ca3a36a?utm_campaign=1058&utm_source=git)** | Atlanta, GA | On Site | Apr 29 |
 | **[University of New Hampshire](https://www.unh.edu)** | **[Technician Intern](https://jobright.ai/jobs/info/69d8b0edb861c42857c4bee7?utm_campaign=1058&utm_source=git)** | Durham, NH | On Site | Apr 29 |
 | **[KPH HEALTHCARE SERVICES, INC](https://www.kphhealthcareservices.com/en/)** | **[Pharmacy Intern P4](https://jobright.ai/jobs/info/69d59c0be63cea7a8b6628a6?utm_campaign=1058&utm_source=git)** | Baldwinsville, NY | On Site | Apr 29 |
 | **[CHRISTUS Health](https://www.christushealth.org/santa-rosa)** | **[Nurse Extern II - Nursing Internship](https://jobright.ai/jobs/info/69d5d9244a12eb12c5e13eaa?utm_campaign=1058&utm_source=git)** | Santa Fe, NM | On Site | Apr 29 |
@@ -64,6 +66,7 @@ For a complete list, click the following sortable link below:
 | **[Lennox](http://www.lennox.com)** | **[Technical Service Intern](https://jobright.ai/jobs/info/69d54571cdb525785fbcf6b8?utm_campaign=1058&utm_source=git)** | Bay Shore, NY | On Site | Apr 29 |
 | **[Oakland County, Michigan Government](https://www.oakgov.com/)** | **[College Intern - Clerk's Office](https://jobright.ai/jobs/info/69f1d3dfb27fee43e8cdb3c8?utm_campaign=1058&utm_source=git)** | Pontiac, MI | On Site | Apr 29 |
 | **[Golden 1 Credit Union](https://www.golden1.com/)** | **[Madera County - Contact Center MSR II - Remote](https://jobright.ai/jobs/info/69462144d1953b5d11bf3d6c?utm_campaign=1058&utm_source=git)** | Fresno, CA | Remote | Apr 29 |
+| **[Magnera Corporation](https://magnera.com/)** | **[IT On-Site Support Intern](https://jobright.ai/jobs/info/69bc67404828227293fe3630?utm_campaign=1058&utm_source=git)** | Evansville, IN | On Site | Apr 29 |
 | **[University of Michigan](https://www.umich.edu)** | **[PHARM INTERN TECH (TEMP)](https://jobright.ai/jobs/info/69f1ccb8825a315d7ca39ee6?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Apr 29 |
 | ↳ | **[REGISTERED NURSE - CRNA Internship](https://jobright.ai/jobs/info/69f1cc7a8d8d624381a9e507?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Apr 29 |
 | **[GREENWOOD 50 SCHOOL DISTRICT](https://www.linkedin.com/company/56874586)** | **[Computer Technician: Summer Internship](https://jobright.ai/jobs/info/69f1c90fb27fee43e8cdb252?utm_campaign=1058&utm_source=git)** | Greenwood, SC | On Site | Apr 29 |
@@ -146,15 +149,12 @@ For a complete list, click the following sortable link below:
 | **[L2T, LLC](https://www.l2tllc.com/)** | **[IT Internship](https://jobright.ai/jobs/info/69f118208d8d624381a9a52d?utm_campaign=1058&utm_source=git)** | Herndon, VA | On Site | Apr 28 |
 | **[UAB Medicine](https://www.uabmedicine.org)** | **[Intern - Imaging](https://jobright.ai/jobs/info/69f13590ecbc8c2f73204802?utm_campaign=1058&utm_source=git)** | Pell City, AL | On Site | Apr 28 |
 | ↳ | **[Intern - Respiratory Therapy](https://jobright.ai/jobs/info/69f1359a8d8d624381a9adf6?utm_campaign=1058&utm_source=git)** | Birmingham, AL | On Site | Apr 28 |
-| **[Children's Wisconsin](https://childrenswi.org/)** | **[Nurse Intern](https://jobright.ai/jobs/info/69f1359f62b48c683879441b?utm_campaign=1058&utm_source=git)** | Milwaukee, WI | On Site | Apr 28 |
-| ↳ | **[High School Intern Clinical](https://jobright.ai/jobs/info/69f135aa62b48c6838794463?utm_campaign=1058&utm_source=git)** | Neenah, WI | On Site | Apr 28 |
+| **[Children's Wisconsin](https://childrenswi.org/)** | **[High School Intern Clinical](https://jobright.ai/jobs/info/69f135aa62b48c6838794463?utm_campaign=1058&utm_source=git)** | Neenah, WI | On Site | Apr 28 |
+| ↳ | **[Nurse Intern](https://jobright.ai/jobs/info/69f1359f62b48c683879441b?utm_campaign=1058&utm_source=git)** | Milwaukee, WI | On Site | Apr 28 |
 | **[CuraLinc Healthcare](https://curalinc.com/)** | **[Paid Internship - Information Technology](https://jobright.ai/jobs/info/69f1106eb27fee43e8cd71b3?utm_campaign=1058&utm_source=git)** | United States | Remote | Apr 28 |
 | **[Kindred](https://www.kindredhospitals.com)** | **[Pharmacy Intern - Per Diem](https://jobright.ai/jobs/info/69f11065ecbc8c2f732039f0?utm_campaign=1058&utm_source=git)** | Paramount, CA | On Site | Apr 28 |
 | **[CuraLinc Healthcare](https://curalinc.com/)** | **[Paid Internship - Clinical Operations](https://jobright.ai/jobs/info/69f10ffa825a315d7ca35ded?utm_campaign=1058&utm_source=git)** | United States | Remote | Apr 28 |
 | **[Godfather's Pizza](http://www.godfathers.com)** | **[IT Intern](https://jobright.ai/jobs/info/69f10f0a825a315d7ca35b60?utm_campaign=1058&utm_source=git)** | Headquarters, Omaha, NE, US | On Site | Apr 28 |
 | **[Stormont Vail Health](http://www.stormontvail.org)** | **[Pharmacy Student Intern 1 (P1 & P2) - Pharmacy - PRN](https://jobright.ai/jobs/info/69f10e7d62b48c6838793610?utm_campaign=1058&utm_source=git)** | Topeka, KS, US | On Site | Apr 28 |
 | **[AmeriLife](http://www.amerilife.com)** | **[Client Services Intern](https://jobright.ai/jobs/info/69f10e59b27fee43e8cd6e80?utm_campaign=1058&utm_source=git)** | Alpharetta, GA, US | On Site | Apr 28 |
-| **[Capital Health (US)](http://www.capitalhealth.org)** | **[Patient Care Intern II - Central Resource Office - PER DIEM](https://jobright.ai/jobs/info/69f1418c8feca91f1491f5f1?utm_campaign=1058&utm_source=git)** | Pennington, NJ | On Site | Apr 28 |
-| ↳ | **[Patient Care Intern I - Central Resource Office - PER DIEM](https://jobright.ai/jobs/info/69f12cfc825a315d7ca3627b?utm_campaign=1058&utm_source=git)** | Pennington, NJ | On Site | Apr 28 |
-| **[NYCM Insurance](https://www.nycm.com)** | **[Customer Service Representative (Hybrid)](https://jobright.ai/jobs/info/69f14106ecbc8c2f73204dbb?utm_campaign=1058&utm_source=git)** | Edmeston, NY | Hybrid | Apr 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
