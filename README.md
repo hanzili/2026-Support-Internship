@@ -69,6 +69,7 @@ For a complete list, click the following sortable link below:
 | **[Kroger](https://www.thekrogerco.com/)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/69f17a64825a315d7ca37ceb?utm_campaign=1058&utm_source=git)** | Gig Harbor, WA | On Site | Apr 28 |
 | **[Lutheran Health Network](http://www.lutheranhealth.net)** | **[Student Intern Cardiac Tele 5A PRN](https://jobright.ai/jobs/info/69f17a1eecbc8c2f73205c86?utm_campaign=1058&utm_source=git)** | Fort Wayne, IN | On Site | Apr 28 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY/PHARMACIST-INTERN](https://jobright.ai/jobs/info/69f179fc8d8d624381a9c1c6?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | Apr 28 |
+| **[Brown University Health](https://www.brownhealth.org)** | **[Pharmacy Intern PD](https://jobright.ai/jobs/info/69f1b0f8825a315d7ca39897?utm_campaign=1058&utm_source=git)** | Providence, RI | On Site | Apr 28 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Respiratory Therapy Intern](https://jobright.ai/jobs/info/69f172fe8feca91f14920188?utm_campaign=1058&utm_source=git)** | Tulsa, OK | On Site | Apr 28 |
 | ↳ | **[Nursing Intern](https://jobright.ai/jobs/info/69f172d9ecbc8c2f73205b1a?utm_campaign=1058&utm_source=git)** | Mequon, WI | On Site | Apr 28 |
 | **[American Fidelity](http://www.americanfidelity.com)** | **[Customer Experience Intern](https://jobright.ai/jobs/info/69f16635ecbc8c2f73205969?utm_campaign=1058&utm_source=git)** | Oklahoma City, OK | On Site | Apr 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kindred](https://www.kindredhospitals.com)** | **[ZZZ Pharmacy Intern - Per Diem](https://jobright.ai/jobs/info/69f0fb39825a315d7ca354a7?utm_campaign=1058&utm_source=git)** | Paramount, CA | On Site | Apr 28 |
 | **[The Ohio State University Wexner Medical Center](http://wexnermedical.osu.edu/)** | **[Pharmacy Intern - Specialty Rx](https://jobright.ai/jobs/info/69f118eb8feca91f1491e985?utm_campaign=1058&utm_source=git)** | Columbus, OH | On Site | Apr 28 |
 | ↳ | **[Pharmacy Intern - Outpatient](https://jobright.ai/jobs/info/69f118498d8d624381a9a64e?utm_campaign=1058&utm_source=git)** | Columbus, OH | On Site | Apr 28 |
-| **[Johns Hopkins Hospital](https://www.hopkinsmedicine.org/the-johns-hopkins-hospital)** | **[Patient Care Tech intern - CNA - Adult Oncology 5C](https://jobright.ai/jobs/info/69f15ca862b48c6838795243?utm_campaign=1058&utm_source=git)** | DC-Baltimore Area | On Site | Apr 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
