@@ -59,6 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Golden 1 Credit Union](https://www.golden1.com/)** | **[IT - Help Desk and Desktop - Desktop Support Technician](https://jobright.ai/jobs/info/69f1900462b48c6838796a90?utm_campaign=1058&utm_source=git)** | Sacramento, CA | On Site | Apr 28 |
 | **[Oakland County, Michigan Government](https://www.oakgov.com/)** | **[College Intern - Clerk's Office](https://jobright.ai/jobs/info/69f18c708d8d624381a9cb0a?utm_campaign=1058&utm_source=git)** | Pontiac, Michigan, United States, US | On Site | Apr 28 |
+| **[Superior Ambulance Service](https://www.superiorambulance.com)** | **[IT Intern](https://jobright.ai/jobs/info/69f1a78d62b48c6838797337?utm_campaign=1058&utm_source=git)** | Elmhurst, IL | On Site | Apr 28 |
 | **[Mercury Insurance](http://www.mercuryinsurance.com)** | **[Customer Support Specialist](https://jobright.ai/jobs/info/69f186e78d8d624381a9caf3?utm_campaign=1058&utm_source=git)** | United States | Remote | Apr 28 |
 | **[Illinois Bone & Joint Institute](https://www.ibji.com/)** | **[Intern, Clinical](https://jobright.ai/jobs/info/69f186a6b27fee43e8cd98c4?utm_campaign=1058&utm_source=git)** | Arlington Heights, IL | On Site | Apr 28 |
 | ↳ | **[Intern, Clinical](https://jobright.ai/jobs/info/69f1824aecbc8c2f732063da?utm_campaign=1058&utm_source=git)** | Arlington Heights,IL,US | On Site | Apr 28 |
@@ -155,6 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Kindred](https://www.kindredhospitals.com)** | **[ZZZ Pharmacy Intern - Per Diem](https://jobright.ai/jobs/info/69f0fb39825a315d7ca354a7?utm_campaign=1058&utm_source=git)** | Paramount, CA | On Site | Apr 28 |
 | **[The Ohio State University Wexner Medical Center](http://wexnermedical.osu.edu/)** | **[Pharmacy Intern - Specialty Rx](https://jobright.ai/jobs/info/69f118eb8feca91f1491e985?utm_campaign=1058&utm_source=git)** | Columbus, OH | On Site | Apr 28 |
 | ↳ | **[Pharmacy Intern - Outpatient](https://jobright.ai/jobs/info/69f118498d8d624381a9a64e?utm_campaign=1058&utm_source=git)** | Columbus, OH | On Site | Apr 28 |
-| **[Johns Hopkins Hospital](https://www.hopkinsmedicine.org/the-johns-hopkins-hospital)** | **[Patient Care Tech Intern - CNA - Oncology](https://jobright.ai/jobs/info/69f15c4aecbc8c2f732055dd?utm_campaign=1058&utm_source=git)** | DC-Baltimore Area | On Site | Apr 28 |
-| ↳ | **[Patient Care Tech intern - CNA - Adult Oncology 5C](https://jobright.ai/jobs/info/69f15ca862b48c6838795243?utm_campaign=1058&utm_source=git)** | DC-Baltimore Area | On Site | Apr 28 |
+| **[Johns Hopkins Hospital](https://www.hopkinsmedicine.org/the-johns-hopkins-hospital)** | **[Patient Care Tech intern - CNA - Adult Oncology 5C](https://jobright.ai/jobs/info/69f15ca862b48c6838795243?utm_campaign=1058&utm_source=git)** | DC-Baltimore Area | On Site | Apr 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
