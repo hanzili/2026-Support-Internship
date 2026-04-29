@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AMETEK](http://www.ametek.com)** | **[Intern - IT, Helpdesk & Systems Support](https://jobright.ai/jobs/info/69d5750bcdb525785fbd105d?utm_campaign=1058&utm_source=git)** | Wayne, NJ | On Site | Apr 29 |
+| **[Lennox](http://www.lennox.com)** | **[Technical Service Intern](https://jobright.ai/jobs/info/69d54571cdb525785fbcf6b8?utm_campaign=1058&utm_source=git)** | Bay Shore, NY | On Site | Apr 29 |
 | **[Oakland County, Michigan Government](https://www.oakgov.com/)** | **[College Intern - Clerk's Office](https://jobright.ai/jobs/info/69f1d3dfb27fee43e8cdb3c8?utm_campaign=1058&utm_source=git)** | Pontiac, MI | On Site | Apr 29 |
 | **[Golden 1 Credit Union](https://www.golden1.com/)** | **[Madera County - Contact Center MSR II - Remote](https://jobright.ai/jobs/info/69462144d1953b5d11bf3d6c?utm_campaign=1058&utm_source=git)** | Fresno, CA | Remote | Apr 29 |
 | **[University of Michigan](https://www.umich.edu)** | **[PHARM INTERN TECH (TEMP)](https://jobright.ai/jobs/info/69f1ccb8825a315d7ca39ee6?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Apr 29 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SEKO Logistics](http://sekologistics.com)** | **[IT Intern](https://jobright.ai/jobs/info/69f1296ab27fee43e8cd777f?utm_campaign=1058&utm_source=git)** | Schaumburg, IL | On Site | Apr 28 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69f1080e825a315d7ca358e2?utm_campaign=1058&utm_source=git)** | Johnston, RI | On Site | Apr 28 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69f107f4825a315d7ca358ba?utm_campaign=1058&utm_source=git)** | East Greenwich, RI | On Site | Apr 28 |
-| **[Children's Wisconsin](https://childrenswi.org/)** | **[Nurse Intern](https://jobright.ai/jobs/info/69f1046c8feca91f1491e05a?utm_campaign=1058&utm_source=git)** | Milwaukee, WI, US | On Site | Apr 28 |
-| **[NewYork-Presbyterian Hospital](http://www.nypventures.org/)** | **[Per Diem Intern](https://jobright.ai/jobs/info/69f1045f8d8d624381a99bf9?utm_campaign=1058&utm_source=git)** | NYP/Morgan Stanley Children's Hospital, US | On Site | Apr 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
