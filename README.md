@@ -57,6 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hyatt Regency](http://www.regency.hyatt.com/)** | **[Summer Internship - Rooms](https://jobright.ai/jobs/info/69f17ea262b48c6838795eba?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | Apr 28 |
+| **[Cleveland Clinic](http://my.clevelandclinic.org)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69f17e2becbc8c2f73206296?utm_campaign=1058&utm_source=git)** | Cleveland, OH | On Site | Apr 28 |
+| **[Gadsden Regional Medical Center](https://www.gadsdenregional.com/)** | **[Nurse Intern](https://jobright.ai/jobs/info/69f17a94825a315d7ca37d8d?utm_campaign=1058&utm_source=git)** | Gadsden, AL | On Site | Apr 28 |
+| **[Kroger](https://www.thekrogerco.com/)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/69f17a64825a315d7ca37ceb?utm_campaign=1058&utm_source=git)** | Gig Harbor, WA | On Site | Apr 28 |
+| **[Lutheran Health Network](http://www.lutheranhealth.net)** | **[Student Intern Cardiac Tele 5A PRN](https://jobright.ai/jobs/info/69f17a1eecbc8c2f73205c86?utm_campaign=1058&utm_source=git)** | Fort Wayne, IN | On Site | Apr 28 |
+| **[Aspire Technology Partners](http://aspiretransforms.com)** | **[Intern - NOC Analyst (HD)](https://jobright.ai/jobs/info/69f17a188feca91f14920352?utm_campaign=1058&utm_source=git)** | Eatontown, NJ | On Site | Apr 28 |
+| **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY/PHARMACIST-INTERN](https://jobright.ai/jobs/info/69f179fc8d8d624381a9c1c6?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | Apr 28 |
+| **[Deloitte](https://www2.deloitte.com)** | **[Analyst, Deloitte Technology Canada - Fall 2026 Co-op/Intern (4- 8 months) - Multiple Locations 1](https://jobright.ai/jobs/info/69f179f762b48c6838795827?utm_campaign=1058&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Apr 28 |
+| **[Ascension](https://healthcare.ascension.org)** | **[Respiratory Therapy Intern](https://jobright.ai/jobs/info/69f172fe8feca91f14920188?utm_campaign=1058&utm_source=git)** | Tulsa, OK | On Site | Apr 28 |
+| ↳ | **[Nursing Intern](https://jobright.ai/jobs/info/69f172d9ecbc8c2f73205b1a?utm_campaign=1058&utm_source=git)** | Mequon, WI | On Site | Apr 28 |
 | **[American Fidelity](http://www.americanfidelity.com)** | **[Customer Experience Intern](https://jobright.ai/jobs/info/69f16635ecbc8c2f73205969?utm_campaign=1058&utm_source=git)** | Oklahoma City, OK | On Site | Apr 28 |
 | **[Stormont Vail Health](http://www.stormontvail.org)** | **[Pharmacy Student Intern 1 (P1 & P2) - Pharmacy - PRN](https://jobright.ai/jobs/info/69f16633825a315d7ca37946?utm_campaign=1058&utm_source=git)** | Topeka, KS | On Site | Apr 28 |
 | **[AmeriLife](http://www.amerilife.com)** | **[Client Services Intern](https://jobright.ai/jobs/info/69f1660e62b48c6838795521?utm_campaign=1058&utm_source=git)** | Alpharetta, GA | On Site | Apr 28 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cook Solutions Group](https://www.cooksolutionsgroup.com/)** | **[NOC Intern - Portland, OR](https://jobright.ai/jobs/info/69f0eed1ecbc8c2f73202b6b?utm_campaign=1058&utm_source=git)** | Portland, OR | On Site | Apr 28 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Omni Care Intern - Recreation](https://jobright.ai/jobs/info/69f0eec2825a315d7ca35204?utm_campaign=1058&utm_source=git)** | Omni Hilton Head Oceanfront Resort, 23 Ocean Lane, Hilton Head Island, South Carolina, United States of America | On Site | Apr 28 |
 | **[Fidelity Bank / Oklahoma Fidelity Bank](http://fidelitybank.com)** | **[Digital Operations Support Intern](https://jobright.ai/jobs/info/69f0ee788feca91f1491d84c?utm_campaign=1058&utm_source=git)** | Wichita, Kansas, United States | On Site | Apr 28 |
-| **[Aspire Technology Partners](http://aspiretransforms.com)** | **[Intern - NOC Analyst (HD)](https://jobright.ai/jobs/info/69f0ee5d62b48c6838792ad9?utm_campaign=1058&utm_source=git)** | Eatontown,NJ,US | On Site | Apr 28 |
-| **[Community Health Systems](http://www.chs.net)** | **[Student Nurse Intern - Med Surg - PCT PRN](https://jobright.ai/jobs/info/69f0ec008d8d624381a99120?utm_campaign=1058&utm_source=git)** | 2101 Dubois Dr, Warsaw, IN, 46580, US | On Site | Apr 28 |
-| **[City Cruises](https://citycruises.com/)** | **[Hospitality Internship](https://jobright.ai/jobs/info/69f0e73d8feca91f1491d5b0?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Apr 28 |
-| **[Town of Oakville](https://www.oakville.ca/)** | **[Customer Service Technician - Casual (2 positions)](https://jobright.ai/jobs/info/69f103848feca91f1491de64?utm_campaign=1058&utm_source=git)** | Oakville, Ontario, Canada | On Site | Apr 28 |
-| **[TAD](http://technologyarchitecturedesign.com/)** | **[ARB Summer Internship](https://jobright.ai/jobs/info/69f0e3b2825a315d7ca34df9?utm_campaign=1058&utm_source=git)** | Richland Hills,TX,US | On Site | Apr 28 |
-| **[L2T, LLC](https://www.l2tllc.com/)** | **[IT Internship](https://jobright.ai/jobs/info/69f0e0adb27fee43e8cd5f41?utm_campaign=1058&utm_source=git)** | US-VA-Herndon | On Site | Apr 28 |
-| ↳ | **[IT Internship](https://jobright.ai/jobs/info/69f0e09f62b48c6838792707?utm_campaign=1058&utm_source=git)** | Herndon, VA, US | On Site | Apr 28 |
-| **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69f0dfb5b27fee43e8cd5e88?utm_campaign=1058&utm_source=git)** | Clarence, NY | On Site | Apr 28 |
-| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69f0dfb5b27fee43e8cd5e89?utm_campaign=1058&utm_source=git)** | Hamburg, NY | On Site | Apr 28 |
-| **[The Social Hub (B Corp™)](https://www.thesocialhub.co/)** | **[Service Communications Intern](https://jobright.ai/jobs/info/69f0df43b27fee43e8cd5e02?utm_campaign=1058&utm_source=git)** | NL-Hub | On Site | Apr 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
