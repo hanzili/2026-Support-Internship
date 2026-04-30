@@ -57,15 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Connection](http://www.pcconnection.com)** | **[Intern Technical- Solution Center](https://jobright.ai/jobs/info/69d6b139e63cea7a8b66b536?utm_campaign=1058&utm_source=git)** | Keene, NH | On Site | Apr 30 |
 | **[American Regent, Inc.](http://www.americanregent.com/)** | **[IT Helpdesk Support Intern](https://jobright.ai/jobs/info/69bb23cc3b74eb1e2c899076?utm_campaign=1058&utm_source=git)** | Shirley, NY | On Site | Apr 30 |
 | **[Sprinklr](http://www.sprinklr.com)** | **[Professional Services Intern](https://jobright.ai/jobs/info/699e3ceae0bddb6acacd99b6?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | Apr 30 |
 | **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE - CRNA Internship](https://jobright.ai/jobs/info/69f32292343eef4fb0a992e5?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Apr 30 |
 | ↳ | **[REGISTERED NURSE - Neonatal Nurse Practitioner Internship (Brandon NICU and Von Voigtlander Women's Hospital)](https://jobright.ai/jobs/info/69f3223b1f90bd6ae23cdb20?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Apr 30 |
 | ↳ | **[PHARM INTERN TECH (TEMP)](https://jobright.ai/jobs/info/69f322276942c746fa69008c?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Apr 30 |
+| **[ofi](https://www.ofi.com)** | **[Summer 2026 Intern: Customer Service Operations Strategy](https://jobright.ai/jobs/info/69f34219343eef4fb0a99866?utm_campaign=1058&utm_source=git)** | Fresno, CA | On Site | Apr 30 |
 | **[Charles Schwab](https://www.schwab.com/)** | **[Client Services Part-Time Internship](https://jobright.ai/jobs/info/69f31178ab4ec4779fffe672?utm_campaign=1058&utm_source=git)** | Omaha, NE, US | On Site | Apr 30 |
 | **[Smith's Food & Drug Centers](https://www.smithsfoodanddrug.com/)** | **[Pharmacist Intern #153](https://jobright.ai/jobs/info/69f3353d461b9b613a61f11b?utm_campaign=1058&utm_source=git)** | Midvale, UT | On Site | Apr 29 |
 | **[Fred Meyer](https://www.fredmeyer.com/)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/69f31e0758b23a2329da2f9f?utm_campaign=1058&utm_source=git)** | Gig Harbor, WA | On Site | Apr 29 |
-| **[CHRISTUS Health](https://www.christushealth.org/santa-rosa)** | **[Nurse Extern I - Nursing Internship - PRN](https://jobright.ai/jobs/info/69f2ea0aab4ec4779fffda37?utm_campaign=1058&utm_source=git)** | Shreveport, LA | On Site | Apr 29 |
+| **[CHRISTUS Health](https://www.gsmc.org)** | **[Nurse Extern I - Nursing Internship - PRN](https://jobright.ai/jobs/info/69f2ea0aab4ec4779fffda37?utm_campaign=1058&utm_source=git)** | Shreveport, LA | On Site | Apr 29 |
 | **[Mott Corporation](http://mottcorp.com)** | **[Intern / Information Technology](https://jobright.ai/jobs/info/69f2e9c58d8d624381aa47b3?utm_campaign=1058&utm_source=git)** | Farmington, CT | On Site | Apr 29 |
 | **[SSM Health](https://www.ssmhealth.com/)** | **[Radiology Student Intern](https://jobright.ai/jobs/info/69f2e9b4ecbc8c2f7320f18f?utm_campaign=1058&utm_source=git)** | Greater St. Louis | On Site | Apr 29 |
 | **[UNFI](http://unfi.com)** | **[IT Summer Intern - IT Services and Operations - MN](https://jobright.ai/jobs/info/69f2d85dab4ec4779fffd6c4?utm_campaign=1058&utm_source=git)** | Hopkins, MN | Hybrid | Apr 29 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[MANITOU Group](http://www.manitou-group.com)** | **[Transporation and Logistic Intern](https://jobright.ai/jobs/info/69ba90913b74eb1e2c888d0e?utm_campaign=1058&utm_source=git)** | West Bend, WI | On Site | Apr 29 |
 | **[UPMC](https://www.upmc.com/)** | **[Pharmacy Intern, Falk Pharmacy](https://jobright.ai/jobs/info/69d56b68366bb95ba5544f07?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | On Site | Apr 29 |
 | **[Thomas Jefferson University](http://www.jefferson.edu/)** | **[Pharmacy Intern - Per Diem - Center City Inpatient](https://jobright.ai/jobs/info/69f24d8f8d8d624381aa0422?utm_campaign=1058&utm_source=git)** | Philadelphia, PA, US | On Site | Apr 29 |
-| **[City of Sarasota](http://www.sarasotafl.gov)** | **[Summer Intern I - Information Technology](https://jobright.ai/jobs/info/69f24d888feca91f14924391?utm_campaign=1058&utm_source=git)** | City Hall Main Building, US | On Site | Apr 29 |
-| **[Strategic Resources, Inc. (SRI)](http://sri-hq.com)** | **[IT Intern](https://jobright.ai/jobs/info/69f24d7fab4ec4779fff8737?utm_campaign=1058&utm_source=git)** | United States | Remote | Apr 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
