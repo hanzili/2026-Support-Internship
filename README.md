@@ -57,18 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fox Pest Control](https://fox-pest.com/)** | **[IT Support Intern (Seasonal)](https://jobright.ai/jobs/info/69f3749a461b9b613a62052f?utm_campaign=1058&utm_source=git)** | Logan, UT, US | On Site | Apr 30 |
 | **[Aimbridge Hospitality](http://www.aimbridgehospitality.com/)** | **[Sheraton Grand Nashville - Hospitality Management Intern](https://jobright.ai/jobs/info/69eaa1cc58811370cb134879?utm_campaign=1058&utm_source=git)** | Nashville, TN | On Site | Apr 30 |
 | **[McLaren Health Care](http://www.mclaren.org)** | **[Imaging Intern](https://jobright.ai/jobs/info/69f367a6343eef4fb0a9a31b?utm_campaign=1058&utm_source=git)** | Pontiac, MI | On Site | Apr 30 |
 | **[Hannaford Supermarkets](https://www.hannaford.com/)** | **[P4 Rx Intern ($26/ hr)](https://jobright.ai/jobs/info/69d76e02366bb95ba555508e?utm_campaign=1058&utm_source=git)** | Keene, NH | On Site | Apr 30 |
 | **[Kinsta®](https://kinsta.com)** | **[GTM Engineer Intern](https://jobright.ai/jobs/info/69f3676d461b9b613a6202b9?utm_campaign=1058&utm_source=git)** | US | Remote | Apr 30 |
-| **[Walmart](http://www.walmart.com)** | **[Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/69f36760343eef4fb0a9a2b7?utm_campaign=1058&utm_source=git)** | Springfield, MO | On Site | Apr 30 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[IS Services & Support Intern (or Co-Op)](https://jobright.ai/jobs/info/69a66c4b2c0d8b0f5cd08b40?utm_campaign=1058&utm_source=git)** | Charlotte, NC | On Site | Apr 30 |
 | **[Indie Campers](https://indiecampers.com/)** | **[Tourism & Operations Internship](https://jobright.ai/jobs/info/69e652ca3aa0c479643934de?utm_campaign=1058&utm_source=git)** | Palma Depot | On Site | Apr 30 |
 | **[Root Inc.](https://www.root.com)** | **[IT Intern](https://jobright.ai/jobs/info/69f366956942c746fa691083?utm_campaign=1058&utm_source=git)** | Columbus, OH | On Site | Apr 30 |
 | **[Onto Innovation](http://www.ontoinnovation.com)** | **[Purchasing, Materials Intern](https://jobright.ai/jobs/info/69d6983848f0c8161d2f8c80?utm_campaign=1058&utm_source=git)** | Tucson, AZ | On Site | Apr 30 |
 | **[Connection](http://www.pcconnection.com)** | **[Intern Technical- Solution Center](https://jobright.ai/jobs/info/69d6b139e63cea7a8b66b536?utm_campaign=1058&utm_source=git)** | Keene, NH | On Site | Apr 30 |
 | **[Parrish Medical Center](https://www.parrishhealthcare.com)** | **[Information Integrity Specialist- INTERN](https://jobright.ai/jobs/info/69f3669a58b23a2329da41fa?utm_campaign=1058&utm_source=git)** | Titusville, FL | On Site | Apr 30 |
-| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Intern I - High School](https://jobright.ai/jobs/info/69f3669fc78b9e4518954825?utm_campaign=1058&utm_source=git)** | Fresno, CA | On Site | Apr 30 |
+| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Intern I - High School](https://jobright.ai/jobs/info/69f3669758b23a2329da41e8?utm_campaign=1058&utm_source=git)** | Fresno, CA | On Site | Apr 30 |
 | ↳ | **[Intern I - High School](https://jobright.ai/jobs/info/69f366641f90bd6ae23ceb6e?utm_campaign=1058&utm_source=git)** | Modesto, CA | On Site | Apr 30 |
 | **[American Regent, Inc.](http://www.americanregent.com/)** | **[IT Helpdesk Support Intern](https://jobright.ai/jobs/info/69bb23cc3b74eb1e2c899076?utm_campaign=1058&utm_source=git)** | Shirley, NY | On Site | Apr 30 |
 | **[Mosquito Joe](https://mosquitojoefranchise.com/)** | **[Customer Service Intern](https://jobright.ai/jobs/info/69f35965c78b9e4518954545?utm_campaign=1058&utm_source=git)** | Glen Burnie, MD | On Site | Apr 30 |
