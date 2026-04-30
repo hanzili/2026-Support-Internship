@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Taft Stettinius & Hollister LLP](http://www.taftlaw.com)** | **[Client & Innovation Intern](https://jobright.ai/jobs/info/69f3bac4461b9b613a623aff?utm_campaign=1058&utm_source=git)** | Indianapolis, IN | On Site | Apr 30 |
+| **[Beech Acres Parenting Center](https://beechacres.org)** | **[Intern - Information Technology - $15.00 hourly](https://jobright.ai/jobs/info/69f3b4d96942c746fa694a7a?utm_campaign=1058&utm_source=git)** | US-OH-Cincinnati | On Site | Apr 30 |
+| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Intern I - High School](https://jobright.ai/jobs/info/69f3b45b58b23a2329da78f5?utm_campaign=1058&utm_source=git)** | Santa Clara, CA | On Site | Apr 30 |
 | **[R.E. Mason](http://remason.com)** | **[IT Student Intern Opportunity - Part Time](https://jobright.ai/jobs/info/69f3ad401f90bd6ae23d14e0?utm_campaign=1058&utm_source=git)** | Charlotte, NC 28206 | On Site | Apr 30 |
 | **[JX Truck Center](https://jxe.com/)** | **[Parts Department Intern](https://jobright.ai/jobs/info/69f3ad21c78b9e4518956c8c?utm_campaign=1058&utm_source=git)** | Kronenwetter,WI,US | On Site | Apr 30 |
 | **[The Sports Facilities Companies](https://sportsfacilities.com)** | **[Hospitality Internship - Ballparks of America/Sho-Me](https://jobright.ai/jobs/info/69f3acc8461b9b613a6225df?utm_campaign=1058&utm_source=git)** | Branson,MO,US | On Site | Apr 30 |
@@ -71,18 +74,16 @@ For a complete list, click the following sortable link below:
 | **[Ascension](https://healthcare.ascension.org)** | **[Student Nurse Intern](https://jobright.ai/jobs/info/69f394496942c746fa692ee1?utm_campaign=1058&utm_source=git)** | US-FL-Panama City | On Site | Apr 30 |
 | **[AdvaMed](http://www.advamed.org)** | **[Intern, Business Systems](https://jobright.ai/jobs/info/69f393f2c78b9e4518956401?utm_campaign=1058&utm_source=git)** | Washington, DC | Hybrid | Apr 30 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Student Nurse Intern](https://jobright.ai/jobs/info/69f393ec1f90bd6ae23d0c5e?utm_campaign=1058&utm_source=git)** | Panama City, FL, US | On Site | Apr 30 |
-| **[WellDyne](https://welldyne.com)** | **[Intern](https://jobright.ai/jobs/info/69f3ad80343eef4fb0a9c8a1?utm_campaign=1058&utm_source=git)** | United States | Remote | Apr 30 |
+| **[CarolinaEast Health System](https://www.carolinaeasthealth.com/)** | **[Cath Lab/EP Technology Intern - Paramedic](https://jobright.ai/jobs/info/6975b675206da320f49fbffc?utm_campaign=1058&utm_source=git)** | New Bern-MC Area | On Site | Apr 30 |
 | **[Rollins, Inc.](http://www.rollins.com/)** | **[IT Support Intern (Seasonal)](https://jobright.ai/jobs/info/69f3ad40461b9b613a622776?utm_campaign=1058&utm_source=git)** | Logan, UT | On Site | Apr 30 |
 | **[PTR Premier Truck Rental](https://rentptr.com)** | **[Intern Service Technician](https://jobright.ai/jobs/info/69b330ddae2a534885ea97c1?utm_campaign=1058&utm_source=git)** | Fort Worth, TX | On Site | Apr 30 |
-| **[CarolinaEast Health System](https://www.carolinaeasthealth.com/)** | **[Cath Lab/EP Technology Intern - Paramedic](https://jobright.ai/jobs/info/6975b675206da320f49fbffc?utm_campaign=1058&utm_source=git)** | New Bern-MC Area | On Site | Apr 30 |
-| **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse II](https://jobright.ai/jobs/info/69f3ac4d343eef4fb0a9c683?utm_campaign=1058&utm_source=git)** | Oxford, MS | On Site | Apr 30 |
 | **[City of Greater Sudbury](https://www.greatersudbury.ca/)** | **[Branch Assistant](https://jobright.ai/jobs/info/69f3a0a558b23a2329da63e0?utm_campaign=1058&utm_source=git)** | Greater Sudbury, Ontario, Canada | On Site | Apr 30 |
 | **[Rogers Electric](https://www.rogerselectric.com)** | **[IT Intern](https://jobright.ai/jobs/info/69d6a481e63cea7a8b66a13c?utm_campaign=1058&utm_source=git)** | Alpharetta, GA | On Site | Apr 30 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE - CRNA Internship](https://jobright.ai/jobs/info/69f37b306942c746fa6916c7?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Apr 30 |
 | **[City of New Haven](https://www.newhavenct.gov)** | **[Library Technology Supervisor](https://jobright.ai/jobs/info/69f37b116942c746fa691677?utm_campaign=1058&utm_source=git)** | New Haven, CT | On Site | Apr 30 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE - Neonatal Nurse Practitioner Internship (Brandon NICU and Von Voigtlander Women's Hospital)](https://jobright.ai/jobs/info/69f37b05c78b9e4518954d60?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Apr 30 |
-| **[McLaren Health Care](http://www.mclaren.org)** | **[Nurse Intern- 5 West](https://jobright.ai/jobs/info/69f37a5e343eef4fb0a9a7a1?utm_campaign=1058&utm_source=git)** | Bay City, MI | On Site | Apr 30 |
-| ↳ | **[Nurse Intern- 6 East](https://jobright.ai/jobs/info/69f37a5e461b9b613a62070f?utm_campaign=1058&utm_source=git)** | Bay City, MI | On Site | Apr 30 |
+| **[McLaren Health Care](http://www.mclaren.org)** | **[Nurse Intern- 6 East](https://jobright.ai/jobs/info/69f37a5e461b9b613a62070f?utm_campaign=1058&utm_source=git)** | Bay City, MI | On Site | Apr 30 |
+| ↳ | **[Nurse Intern- 5 West](https://jobright.ai/jobs/info/69f37a5e343eef4fb0a9a7a1?utm_campaign=1058&utm_source=git)** | Bay City, MI | On Site | Apr 30 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[PHARM INTERN TECH (TEMP)](https://jobright.ai/jobs/info/69f37a58461b9b613a620703?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Apr 30 |
 | **[Fox Pest Control](https://fox-pest.com/)** | **[IT Support Intern (Seasonal)](https://jobright.ai/jobs/info/69f3749a461b9b613a62052f?utm_campaign=1058&utm_source=git)** | Logan, UT, US | On Site | Apr 30 |
 | **[4G Clinical](http://4gclinical.com)** | **[Information Technology Intern (Summer Intern 2026)](https://jobright.ai/jobs/info/69f3b05b461b9b613a622b61?utm_campaign=1058&utm_source=git)** | WELLESLEY, MA 02481, USA | Hybrid | Apr 30 |
@@ -104,7 +105,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Nurse Intern- 5 East](https://jobright.ai/jobs/info/69f37b0dc78b9e4518954d6f?utm_campaign=1058&utm_source=git)** | Bay City, MI | On Site | Apr 30 |
 | **[Connection](http://www.pcconnection.com)** | **[Intern Technical- Solution Center](https://jobright.ai/jobs/info/69d6b139e63cea7a8b66b536?utm_campaign=1058&utm_source=git)** | Keene, NH | On Site | Apr 30 |
 | **[Parrish Medical Center](https://www.parrishhealthcare.com)** | **[Information Integrity Specialist- INTERN](https://jobright.ai/jobs/info/69f3669a58b23a2329da41fa?utm_campaign=1058&utm_source=git)** | Titusville, FL | On Site | Apr 30 |
-| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Intern I - High School](https://jobright.ai/jobs/info/69f3669758b23a2329da41e8?utm_campaign=1058&utm_source=git)** | Fresno, CA | On Site | Apr 30 |
+| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Intern I - High School](https://jobright.ai/jobs/info/69f3669fc78b9e4518954825?utm_campaign=1058&utm_source=git)** | Fresno, CA | On Site | Apr 30 |
 | ↳ | **[Intern I - High School](https://jobright.ai/jobs/info/69f366641f90bd6ae23ceb6e?utm_campaign=1058&utm_source=git)** | Modesto, CA | On Site | Apr 30 |
 | **[American Regent, Inc.](http://www.americanregent.com/)** | **[IT Helpdesk Support Intern](https://jobright.ai/jobs/info/69bb23cc3b74eb1e2c899076?utm_campaign=1058&utm_source=git)** | Shirley, NY | On Site | Apr 30 |
 | **[Mosquito Joe](https://mosquitojoefranchise.com/)** | **[Customer Service Intern](https://jobright.ai/jobs/info/69f35965c78b9e4518954545?utm_campaign=1058&utm_source=git)** | Glen Burnie, MD | On Site | Apr 30 |
@@ -153,8 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Brockville General Hospital](https://www.brockvillegeneralhospital.ca)** | **[Casual Registration Clerk - Emergency](https://jobright.ai/jobs/info/69f3a112c78b9e451895669c?utm_campaign=1058&utm_source=git)** | Brockville, Ontario, Canada | On Site | Apr 29 |
 | ↳ | **[Casual Clerk](https://jobright.ai/jobs/info/69f369ec58b23a2329da4639?utm_campaign=1058&utm_source=git)** | Brockville, Ontario, Canada | On Site | Apr 29 |
 | **[MercyOne](https://www.mercyone.org/)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/69f29ade8d8d624381aa1c27?utm_campaign=1058&utm_source=git)** | Des Moines, IA | On Site | Apr 29 |
-| **[Milliman](http://www.milliman.com)** | **[Information Technology Support Summer 2026 Intern - Minneapolis (CMH Health)](https://jobright.ai/jobs/info/69f29ad48d8d624381aa1c03?utm_campaign=1058&utm_source=git)** | Eden Prairie, MN | On Site | Apr 29 |
-| ↳ | **[Information Technology Support Summer 2026 Intern - Hartford (CMH Health)](https://jobright.ai/jobs/info/69f29ad4ecbc8c2f7320b941?utm_campaign=1058&utm_source=git)** | Windsor, CT | On Site | Apr 29 |
+| **[Milliman](http://www.milliman.com)** | **[Information Technology Support Summer 2026 Intern - Hartford (CMH Health)](https://jobright.ai/jobs/info/69f29ad4ecbc8c2f7320b941?utm_campaign=1058&utm_source=git)** | Windsor, CT | On Site | Apr 29 |
+| ↳ | **[Information Technology Support Summer 2026 Intern - Minneapolis (CMH Health)](https://jobright.ai/jobs/info/69f29ad48d8d624381aa1c03?utm_campaign=1058&utm_source=git)** | Eden Prairie, MN | On Site | Apr 29 |
 | **[Live! Hospitality & Entertainment](https://visitlive.com/)** | **[Intern](https://jobright.ai/jobs/info/69f29ad1ab4ec4779fffa02c?utm_campaign=1058&utm_source=git)** | Arlington, TX | On Site | Apr 29 |
-| **[Transfinder](http://www.transfinder.com/)** | **[Client Services Intern (Calling '27 \- '28 Grads!)](https://jobright.ai/jobs/info/69f29a32825a315d7ca3d93c?utm_campaign=1058&utm_source=git)** | Schenectady, New York, United States | On Site | Apr 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
