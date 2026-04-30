@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Charles Schwab](https://www.schwab.com/)** | **[Client Services Part-Time Internship](https://jobright.ai/jobs/info/69f31178ab4ec4779fffe672?utm_campaign=1058&utm_source=git)** | Omaha, NE, US | On Site | Apr 30 |
 | **[CHRISTUS Health](https://www.christushealth.org/santa-rosa)** | **[Nurse Extern I - Nursing Internship - PRN](https://jobright.ai/jobs/info/69f2ea0aab4ec4779fffda37?utm_campaign=1058&utm_source=git)** | Shreveport, LA | On Site | Apr 29 |
 | **[Mott Corporation](http://mottcorp.com)** | **[Intern / Information Technology](https://jobright.ai/jobs/info/69f2e9c58d8d624381aa47b3?utm_campaign=1058&utm_source=git)** | Farmington, CT | On Site | Apr 29 |
 | **[SSM Health](https://www.ssmhealth.com/)** | **[Radiology Student Intern](https://jobright.ai/jobs/info/69f2e9b4ecbc8c2f7320f18f?utm_campaign=1058&utm_source=git)** | Greater St. Louis | On Site | Apr 29 |
@@ -91,8 +92,8 @@ For a complete list, click the following sortable link below:
 | **[RailPros](http://railpros.com)** | **[Intern - IT](https://jobright.ai/jobs/info/69f2a025825a315d7ca3da53?utm_campaign=1058&utm_source=git)** | Irving, TX | On Site | Apr 29 |
 | **[Transfinder](http://www.transfinder.com/)** | **[Client Services Intern (Calling '27 - '28 Grads!)](https://jobright.ai/jobs/info/69f2cf7aab4ec4779fffc383?utm_campaign=1058&utm_source=git)** | Schenectady, NY | On Site | Apr 29 |
 | **[MercyOne](https://www.mercyone.org/)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/69f29ade8d8d624381aa1c27?utm_campaign=1058&utm_source=git)** | Des Moines, IA | On Site | Apr 29 |
-| **[Milliman](http://www.milliman.com)** | **[Information Technology Support Summer 2026 Intern - Hartford (CMH Health)](https://jobright.ai/jobs/info/69f29ad4ecbc8c2f7320b941?utm_campaign=1058&utm_source=git)** | Windsor, CT | On Site | Apr 29 |
-| ↳ | **[Information Technology Support Summer 2026 Intern - Minneapolis (CMH Health)](https://jobright.ai/jobs/info/69f29ad48d8d624381aa1c03?utm_campaign=1058&utm_source=git)** | Eden Prairie, MN | On Site | Apr 29 |
+| **[Milliman](http://www.milliman.com)** | **[Information Technology Support Summer 2026 Intern - Minneapolis (CMH Health)](https://jobright.ai/jobs/info/69f29ad48d8d624381aa1c03?utm_campaign=1058&utm_source=git)** | Eden Prairie, MN | On Site | Apr 29 |
+| ↳ | **[Information Technology Support Summer 2026 Intern - Hartford (CMH Health)](https://jobright.ai/jobs/info/69f29ad4ecbc8c2f7320b941?utm_campaign=1058&utm_source=git)** | Windsor, CT | On Site | Apr 29 |
 | **[Live! Hospitality & Entertainment](https://visitlive.com/)** | **[Intern](https://jobright.ai/jobs/info/69f29ad1ab4ec4779fffa02c?utm_campaign=1058&utm_source=git)** | Arlington, TX | On Site | Apr 29 |
 | **[Transfinder](http://www.transfinder.com/)** | **[Client Services Intern (Calling '27 \- '28 Grads!)](https://jobright.ai/jobs/info/69f29a32825a315d7ca3d93c?utm_campaign=1058&utm_source=git)** | Schenectady, New York, United States | On Site | Apr 29 |
 | **[Trane Technologies](https://www.tranetechnologies.com)** | **[Service Technician Intern](https://jobright.ai/jobs/info/69f29a31f154d768fbaa803a?utm_campaign=1058&utm_source=git)** | Buffalo, New York, United States of America | On Site | Apr 29 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Trane Technologies](https://www.tranetechnologies.com)** | **[IT Support Partner Intern](https://jobright.ai/jobs/info/69f24603ab4ec4779fff8538?utm_campaign=1058&utm_source=git)** | Columbia, South Carolina, United States of America | On Site | Apr 29 |
 | **[M3 USA](https://www.m3.com/)** | **[Physician Relations Intern (Remote)](https://jobright.ai/jobs/info/69f245ffecbc8c2f73209b67?utm_campaign=1058&utm_source=git)** | Creve Coeur, MO, USA | Remote | Apr 29 |
 | **[Strategic Resources, Inc. (SRI)](http://sri-hq.com)** | **[IT Intern](https://jobright.ai/jobs/info/69f245d1825a315d7ca3ba01?utm_campaign=1058&utm_source=git)** | US | On Site | Apr 29 |
-| **[M3 USA](https://www.m3.com/)** | **[Physician Relations Intern (Remote)](https://jobright.ai/jobs/info/69f2459ff154d768fbaa6318?utm_campaign=1058&utm_source=git)** | Creve Coeur, MO | Remote | Apr 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
