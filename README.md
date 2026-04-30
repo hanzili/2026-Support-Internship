@@ -65,7 +65,6 @@ For a complete list, click the following sortable link below:
 | **[CHRISTUS Health](https://www.christushealth.org/santa-rosa)** | **[Nurse Extern I - Nursing Internship - PRN](https://jobright.ai/jobs/info/69f2ea0aab4ec4779fffda37?utm_campaign=1058&utm_source=git)** | Shreveport, LA | On Site | Apr 29 |
 | **[Mott Corporation](http://mottcorp.com)** | **[Intern / Information Technology](https://jobright.ai/jobs/info/69f2e9c58d8d624381aa47b3?utm_campaign=1058&utm_source=git)** | Farmington, CT | On Site | Apr 29 |
 | **[SSM Health](https://www.ssmhealth.com/)** | **[Radiology Student Intern](https://jobright.ai/jobs/info/69f2e9b4ecbc8c2f7320f18f?utm_campaign=1058&utm_source=git)** | Greater St. Louis | On Site | Apr 29 |
-| **[Leidos](https://www.leidos.com)** | **[IT Asset Management (ITAM) Intern](https://jobright.ai/jobs/info/69f2d866ecbc8c2f7320ee02?utm_campaign=1058&utm_source=git)** | Fort Belvoir, VA | On Site | Apr 29 |
 | **[UNFI](http://unfi.com)** | **[IT Summer Intern - IT Services and Operations - MN](https://jobright.ai/jobs/info/69f2d85dab4ec4779fffd6c4?utm_campaign=1058&utm_source=git)** | Hopkins, MN | Hybrid | Apr 29 |
 | **[Leidos](https://www.leidos.com)** | **[ServiceNow Intern](https://jobright.ai/jobs/info/69f2d7dd8d8d624381aa448f?utm_campaign=1058&utm_source=git)** | United States | Remote | Apr 29 |
 | **[Samaritan Health Services](https://www.samhealth.org/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69f2d7d8825a315d7ca40fc3?utm_campaign=1058&utm_source=git)** | Lincoln City, OR | On Site | Apr 29 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[City of Sarasota](http://www.sarasotafl.gov)** | **[Summer Intern I - Information Technology](https://jobright.ai/jobs/info/69f24d888feca91f14924391?utm_campaign=1058&utm_source=git)** | City Hall Main Building, US | On Site | Apr 29 |
 | **[Strategic Resources, Inc. (SRI)](http://sri-hq.com)** | **[IT Intern](https://jobright.ai/jobs/info/69f24d7fab4ec4779fff8737?utm_campaign=1058&utm_source=git)** | United States | Remote | Apr 29 |
 | **[UAMS - University of Arkansas for Medical Sciences](https://uamshealth.com)** | **[Student Employee- Pharmacy Intern - Cancer Institute Pharmacy](https://jobright.ai/jobs/info/69f279f4f154d768fbaa7216?utm_campaign=1058&utm_source=git)** | Little Rock, AR | On Site | Apr 29 |
+| ↳ | **[Student Employee- Pharmacy Intern - Cancer Institute Pharmacy](https://jobright.ai/jobs/info/69f246c78d8d624381aa02b4?utm_campaign=1058&utm_source=git)** | Little Rock, US | On Site | Apr 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
