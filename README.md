@@ -59,13 +59,13 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[CHRISTUS Health](https://www.christushealth.org/santa-rosa)** | **[Nurse Extern I - Nursing Internship - PRN](https://jobright.ai/jobs/info/69f2ea0aab4ec4779fffda37?utm_campaign=1058&utm_source=git)** | Shreveport, LA | On Site | Apr 29 |
 | **[Mott Corporation](http://mottcorp.com)** | **[Intern / Information Technology](https://jobright.ai/jobs/info/69f2e9c58d8d624381aa47b3?utm_campaign=1058&utm_source=git)** | Farmington, CT | On Site | Apr 29 |
-| **[Atrium Health Wake Forest Baptist](https://www.wakehealth.edu)** | **[Intern, Emergency Medicine](https://jobright.ai/jobs/info/69f2e9b5ecbc8c2f7320f197?utm_campaign=1058&utm_source=git)** | Winston-Salem, NC | On Site | Apr 29 |
 | **[SSM Health](https://www.ssmhealth.com/)** | **[Radiology Student Intern](https://jobright.ai/jobs/info/69f2e9b4ecbc8c2f7320f18f?utm_campaign=1058&utm_source=git)** | Greater St. Louis | On Site | Apr 29 |
 | **[Leidos](https://www.leidos.com)** | **[IT Asset Management (ITAM) Intern](https://jobright.ai/jobs/info/69f2d866ecbc8c2f7320ee02?utm_campaign=1058&utm_source=git)** | Fort Belvoir, VA | On Site | Apr 29 |
 | **[UNFI](http://unfi.com)** | **[IT Summer Intern - IT Services and Operations - MN](https://jobright.ai/jobs/info/69f2d85dab4ec4779fffd6c4?utm_campaign=1058&utm_source=git)** | Hopkins, MN | Hybrid | Apr 29 |
 | **[Leidos](https://www.leidos.com)** | **[ServiceNow Intern](https://jobright.ai/jobs/info/69f2d7dd8d8d624381aa448f?utm_campaign=1058&utm_source=git)** | United States | Remote | Apr 29 |
 | **[Samaritan Health Services](https://www.samhealth.org/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69f2d7d8825a315d7ca40fc3?utm_campaign=1058&utm_source=git)** | Lincoln City, OR | On Site | Apr 29 |
 | **[Videotron](http://videotron.com)** | **[Stagiaire - Soutien informatique](https://jobright.ai/jobs/info/69f2d7cb8feca91f149289b4?utm_campaign=1058&utm_source=git)** | Montreal, Quebec, Canada | Remote | Apr 29 |
+| **[Rhode Island Department of Corrections](https://doc.ri.gov/)** | **[SUMMER INTERN](https://jobright.ai/jobs/info/69f2f96734c4af7a79ab83cc?utm_campaign=1058&utm_source=git)** | Beazley Building, US | On Site | Apr 29 |
 | **[Tucson Medical Center](https://www.tmcaz.com/)** | **[Pharmacy Intern Per Diem](https://jobright.ai/jobs/info/69f2cf80ecbc8c2f7320dc47?utm_campaign=1058&utm_source=git)** | Tucson, AZ | On Site | Apr 29 |
 | **[HCA Florida Kendall Hospital](https://kendallmed.com/)** | **[Pharmacist Intern PRN](https://jobright.ai/jobs/info/69f2ea2834c4af7a79ab7e31?utm_campaign=1058&utm_source=git)** | Miami, FL | On Site | Apr 29 |
 | **[Mat-Su Regional Medical Center](https://www.matsuregional.com/)** | **[Med Surg Nurse Intern PRN](https://jobright.ai/jobs/info/69f2ccc134c4af7a79ab63a2?utm_campaign=1058&utm_source=git)** | Palmer, AK | On Site | Apr 29 |
@@ -116,7 +116,6 @@ For a complete list, click the following sortable link below:
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE - Neonatal Nurse Practitioner Internship (Brandon NICU and Von Voigtlander Women's Hospital)](https://jobright.ai/jobs/info/69f27a2a8feca91f14924f97?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Apr 29 |
 | **[Willkie Farr & Gallagher LLP](http://www.willkie.com)** | **[Practice Support Intern (year-round) - New York](https://jobright.ai/jobs/info/69f27a1a8feca91f14924f4c?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Apr 29 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[Pharmacist Grad Intern](https://jobright.ai/jobs/info/69f279d2825a315d7ca3cbe8?utm_campaign=1058&utm_source=git)** | Coos Bay, OR | On Site | Apr 29 |
-| **[Hard Rock Hotel & Casino Atlantic City](https://hardrockhotelatlanticcity.com/)** | **[Intern - Information Technology](https://jobright.ai/jobs/info/69f2978a8feca91f14925d86?utm_campaign=1058&utm_source=git)** | Atlantic City, NJ | On Site | Apr 29 |
 | **[FreshDirect](http://freshdirect.com)** | **[Summer Internship- Customer Services Intern](https://jobright.ai/jobs/info/69f2796d8d8d624381aa108e?utm_campaign=1058&utm_source=git)** | Bronx, NY | On Site | Apr 29 |
 | **['Alohilani Resort Waikiki Beach](http://www.pacificbeachhotel.com/)** | **[Front Office Highgate Internship](https://jobright.ai/jobs/info/69f279538d8d624381aa0fc8?utm_campaign=1058&utm_source=git)** | US-FL-Key West | On Site | Apr 29 |
 | ↳ | **[Front Office Highgate Internship](https://jobright.ai/jobs/info/69f2794af154d768fbaa7161?utm_campaign=1058&utm_source=git)** | Key West, FL, US | On Site | Apr 29 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Trane Technologies](https://www.tranetechnologies.com)** | **[IT Support Partner Intern](https://jobright.ai/jobs/info/69f24603ab4ec4779fff8538?utm_campaign=1058&utm_source=git)** | Columbia, South Carolina, United States of America | On Site | Apr 29 |
 | **[M3 USA](https://www.m3.com/)** | **[Physician Relations Intern (Remote)](https://jobright.ai/jobs/info/69f245ffecbc8c2f73209b67?utm_campaign=1058&utm_source=git)** | Creve Coeur, MO, USA | Remote | Apr 29 |
 | **[Strategic Resources, Inc. (SRI)](http://sri-hq.com)** | **[IT Intern](https://jobright.ai/jobs/info/69f245d1825a315d7ca3ba01?utm_campaign=1058&utm_source=git)** | US | On Site | Apr 29 |
+| **[M3 USA](https://www.m3.com/)** | **[Physician Relations Intern (Remote)](https://jobright.ai/jobs/info/69f2459ff154d768fbaa6318?utm_campaign=1058&utm_source=git)** | Creve Coeur, MO | Remote | Apr 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
