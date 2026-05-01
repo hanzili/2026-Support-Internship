@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[KIPP Capital Region Public Schools](http://www.kippcapital.org)** | **[Information Technology (IT) Intern](https://jobright.ai/jobs/info/69f4e2e281706a5bd2163b14?utm_campaign=1058&utm_source=git)** | Albany, New York, United States | On Site | May 01 |
+| **[Crescent Hotels & Resorts](https://www.crescenthotels.com)** | **[Front Desk Agent - Internship](https://jobright.ai/jobs/info/69f4e2e181706a5bd2163b12?utm_campaign=1058&utm_source=git)** | Columbus, Ohio, United States | On Site | May 01 |
 | **[Methodist Le Bonheur Healthcare](https://www.methodisthealth.org/)** | **[RESPIRATORY STUDENT INTERN](https://jobright.ai/jobs/info/69f4d5b30b36ff035474f79c?utm_campaign=1058&utm_source=git)** | Methodist Le Bonheur Germantown Hospital, US | On Site | May 01 |
 | **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69f4d574db88714bcdfb0740?utm_campaign=1058&utm_source=git)** | New Bedford, MA | On Site | May 01 |
 | **[ALO](https://www.aloyoga.com/)** | **[Digital Intern - Customer Service](https://jobright.ai/jobs/info/697d77e6727747250d5860a5?utm_campaign=1058&utm_source=git)** | Beverly Hills, California, United States | On Site | May 01 |
@@ -66,11 +68,13 @@ For a complete list, click the following sortable link below:
 | **[Genesis Energy, L.P.](https://www.genesisenergy.com/)** | **[Intern](https://jobright.ai/jobs/info/69f4ccf00b36ff035474f06e?utm_campaign=1058&utm_source=git)** | Houston, TX, USA | On Site | May 01 |
 | **[The Preservation Society of Newport County](https://www.newportmansions.org)** | **[Membership Assistant Summer Intern](https://jobright.ai/jobs/info/69f4ccea0b36ff035474f053?utm_campaign=1058&utm_source=git)** | Newport,RI,US | On Site | May 01 |
 | **[Ruekert & Mielke, Inc.](http://ruekertmielke.com)** | **[IT Internship](https://jobright.ai/jobs/info/69f4cce112f2811ab5a61132?utm_campaign=1058&utm_source=git)** | Waukesha, Wisconsin, United States | On Site | May 01 |
+| **[Charles Schwab](https://www.schwab.com/)** | **[Client Services Part Time Internship](https://jobright.ai/jobs/info/69f4e48f81706a5bd2163bc8?utm_campaign=1058&utm_source=git)** | Westlake, TX | On Site | May 01 |
 | **[ServiceSource](https://www.servicesource.org)** | **[Information Technology Intern](https://jobright.ai/jobs/info/69f4bb4143a25828a8d146c5?utm_campaign=1058&utm_source=git)** | Oakton-VA, US | On Site | May 01 |
 | **[Fortra](https://www.fortra.com)** | **[Technical Support Intern](https://jobright.ai/jobs/info/69d82b48869c7e25d8594354?utm_campaign=1058&utm_source=git)** | United States | Remote | May 01 |
 | **[Edgewater Federal Solutions, Inc.](https://www.edgewaterit.com/)** | **[Help Desk Support Intern](https://jobright.ai/jobs/info/69f3abdf1f90bd6ae23d135a?utm_campaign=1058&utm_source=git)** | Frederick, MD | On Site | May 01 |
 | **[Source Intelligence](http://www.sourceintelligence.com/)** | **[Technical Writer Intern](https://jobright.ai/jobs/info/69f4b1600b36ff035474e8d9?utm_campaign=1058&utm_source=git)** | United States | Remote | May 01 |
 | **[AMERISAFE, Inc.](http://www.amerisafe.com/site.php)** | **[IT Intern](https://jobright.ai/jobs/info/69f4ae14a3d34b4f76f50c23?utm_campaign=1058&utm_source=git)** | DeRidder LA, DeRidder, LA, US | On Site | May 01 |
+| **[Visiting Nurse Association Health Group](http://www.vnahg.org)** | **[Rehab Intern](https://jobright.ai/jobs/info/69f4daef43a25828a8d15814?utm_campaign=1058&utm_source=git)** | Monmouth County, NJ | Remote | May 01 |
 | **[Carboline](https://www.carboline.com)** | **[IT Intern](https://jobright.ai/jobs/info/69bf193a482822729301c2ad?utm_campaign=1058&utm_source=git)** | St Louis, MO | On Site | May 01 |
 | **[Hyatt](http://www.hyatt.com/)** | **[Summer 2026 - College Intern - Front Desk](https://jobright.ai/jobs/info/69679305f25a38006695e855?utm_campaign=1058&utm_source=git)** | San Antonio, TX | On Site | May 01 |
 | **[AMERISAFE, Inc.](http://www.amerisafe.com/site.php)** | **[IT Intern](https://jobright.ai/jobs/info/69f4bb780b36ff035474ea5d?utm_campaign=1058&utm_source=git)** | De Ridder, LA | On Site | May 01 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69f44f5f1f90bd6ae23d439f?utm_campaign=1058&utm_source=git)** | Carrboro, NC | On Site | Apr 30 |
 | **[Fox Pest Control](https://fox-pest.com/)** | **[IT Support Intern (Seasonal)](https://jobright.ai/jobs/info/69f3cbd3343eef4fb0a9e230?utm_campaign=1058&utm_source=git)** | Logan, UT | On Site | Apr 30 |
 | **[Trihydro Corporation](https://www.trihydro.com)** | **[Product Support Intern](https://jobright.ai/jobs/info/69f3a57f343eef4fb0a9c624?utm_campaign=1058&utm_source=git)** | Fort Collins, CO US (Primary) | On Site | Apr 30 |
-| **[Meijer](https://www.meijer.com/)** | **[Intern, Pharmacy Undergrad 1 year](https://jobright.ai/jobs/info/69f3eb406942c746fa695fd6?utm_campaign=1058&utm_source=git)** | Muncie, IN | On Site | Apr 30 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69f3dcd7c78b9e45189585ab?utm_campaign=1058&utm_source=git)** | San Antonio, TX | On Site | Apr 30 |
-| **[IQVIA](https://www.iqvia.com)** | **[Pharmacy Graduate Intern](https://jobright.ai/jobs/info/69f3a11fc78b9e45189566ad?utm_campaign=1058&utm_source=git)** | Irving, TX | On Site | Apr 30 |
-| **[EMPLOYERS](http://www.employers.com)** | **[IT Intern](https://jobright.ai/jobs/info/69f3a0e9c78b9e4518956624?utm_campaign=1058&utm_source=git)** | United States | Remote | Apr 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
