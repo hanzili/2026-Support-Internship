@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NYU Langone Health](https://nyulangone.org/)** | **[Student Intern](https://jobright.ai/jobs/info/69bbcb3fc42b5f0532920330?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | May 01 |
+| **[SAIC](http://www.saic.com)** | **[Site Support Intern](https://jobright.ai/jobs/info/69f48546db88714bcdfad9d4?utm_campaign=1058&utm_source=git)** | Huntsville, AL | On Site | May 01 |
 | **[Providence Health & Services](https://www.providence.org/)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/69f4564b58b23a2329daa40c?utm_campaign=1058&utm_source=git)** | Missoula, MT | On Site | May 01 |
 | **[Smith's Food & Drug Centers](https://www.smithsfoodanddrug.com/)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/69f4782581706a5bd2160708?utm_campaign=1058&utm_source=git)** | Salt Lake City, UT | On Site | Apr 30 |
 | **[Detail Connect](https://www.detailconnect.app/)** | **[Customer Success & Onboarding Intern](https://jobright.ai/jobs/info/69f44682c78b9e4518959ca2?utm_campaign=1058&utm_source=git)** | United States | Remote | Apr 30 |
@@ -119,7 +121,6 @@ For a complete list, click the following sortable link below:
 | **[Taft Stettinius & Hollister LLP](http://www.taftlaw.com)** | **[Client & Innovation Intern](https://jobright.ai/jobs/info/69f3bac4461b9b613a623aff?utm_campaign=1058&utm_source=git)** | Indianapolis, IN | On Site | Apr 30 |
 | **[VCU Health](https://www.vcuhealth.org)** | **[Student Intern - IT](https://jobright.ai/jobs/info/69f3d90258b23a2329da83bd?utm_campaign=1058&utm_source=git)** | Richmond, VA | On Site | Apr 30 |
 | **[AllianceHealth Durant • Madill](https://www.alliancehealthdurant.com/)** | **[Nurse Intern](https://jobright.ai/jobs/info/69f3d94a58b23a2329da84ec?utm_campaign=1058&utm_source=git)** | Durant, OK | On Site | Apr 30 |
-| **[Ring's End, Inc.](https://www.ringsend.com)** | **[Summer Employment](https://jobright.ai/jobs/info/69f3e35a6942c746fa695c0e?utm_campaign=1058&utm_source=git)** | Niantic, CT | On Site | Apr 30 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Student Nurse Intern](https://jobright.ai/jobs/info/69f3d1b26942c746fa694f08?utm_campaign=1058&utm_source=git)** | Panama City, FL | On Site | Apr 30 |
 | **[Beech Acres Parenting Center](https://beechacres.org)** | **[Intern - Information Technology - $15.00 hourly](https://jobright.ai/jobs/info/69f3b4d96942c746fa694a7a?utm_campaign=1058&utm_source=git)** | US-OH-Cincinnati | On Site | Apr 30 |
 | **[PTR Premier Truck Rental](https://rentptr.com)** | **[Intern Service Technician](https://jobright.ai/jobs/info/69b3359ca8ac8e70ff677732?utm_campaign=1058&utm_source=git)** | Fort Wayne, IN | On Site | Apr 30 |
@@ -154,7 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Schweitzer Engineering Laboratories (SEL)](http://www.selinc.com/)** | **[High School Intern](https://jobright.ai/jobs/info/69f3d841461b9b613a624440?utm_campaign=1058&utm_source=git)** | Pullman - 2350, US | On Site | Apr 30 |
 | **[City of Greater Sudbury](https://www.greatersudbury.ca/)** | **[Branch Assistant](https://jobright.ai/jobs/info/69f3a0a558b23a2329da63e0?utm_campaign=1058&utm_source=git)** | Greater Sudbury, Ontario, Canada | On Site | Apr 30 |
 | **[Rogers Electric](https://www.rogerselectric.com)** | **[IT Intern](https://jobright.ai/jobs/info/69d6a481e63cea7a8b66a13c?utm_campaign=1058&utm_source=git)** | Alpharetta, GA | On Site | Apr 30 |
-| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE - CRNA Internship](https://jobright.ai/jobs/info/69f37b306942c746fa6916c7?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Apr 30 |
 | **[City of New Haven](https://www.newhavenct.gov)** | **[Library Technology Supervisor](https://jobright.ai/jobs/info/69f37b116942c746fa691677?utm_campaign=1058&utm_source=git)** | New Haven, CT | On Site | Apr 30 |
-| **[McLaren Health Care](http://www.mclaren.org)** | **[Nurse Intern- 5 West](https://jobright.ai/jobs/info/69f37a5e343eef4fb0a9a7a1?utm_campaign=1058&utm_source=git)** | Bay City, MI | On Site | Apr 30 |
+| **[McLaren Health Care](http://www.mclaren.org)** | **[Nurse Intern- 6 East](https://jobright.ai/jobs/info/69f37a5e461b9b613a62070f?utm_campaign=1058&utm_source=git)** | Bay City, MI | On Site | Apr 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
