@@ -57,8 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Detail Connect](https://www.detailconnect.app/)** | **[Customer Success & Onboarding Intern](https://jobright.ai/jobs/info/69f44682c78b9e4518959ca2?utm_campaign=1058&utm_source=git)** | United States | Remote | Apr 30 |
+| **[BayCare Health System](https://baycare.org/bmg)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69f440e3461b9b613a6261e8?utm_campaign=1058&utm_source=git)** | St Pauls, NC | On Site | Apr 30 |
+| **[NYU Langone Health](https://nyulangone.org/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69f440c4461b9b613a626171?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Apr 30 |
 | **[BayCare Health System](https://baycare.org/bmg)** | **[Registered Nurse RN - Labor & Delivery Internship - Winter Haven Women's Hospital](https://jobright.ai/jobs/info/69f43ada343eef4fb0aa03a8?utm_campaign=1058&utm_source=git)** | Winter Haven, FL | On Site | Apr 30 |
 | ↳ | **[CT Technologist Intern](https://jobright.ai/jobs/info/69f43ad9343eef4fb0aa03a2?utm_campaign=1058&utm_source=git)** | Safety Harbor, FL | On Site | Apr 30 |
+| ↳ | **[CT Technologist Intern](https://jobright.ai/jobs/info/69f449ab58b23a2329daa134?utm_campaign=1058&utm_source=git)** | Tallahassee, FL | On Site | Apr 30 |
 | **[Baptist Health](https://www.baptistjax.com)** | **[FSCJ IT Intern](https://jobright.ai/jobs/info/69f425a0343eef4fb0a9ffdb?utm_campaign=1058&utm_source=git)** | Jacksonville Beach, FL | Hybrid | Apr 30 |
 | **[MountainView Regional Medical Center](https://www.mountainviewregional.com/)** | **[Nurse Intern](https://jobright.ai/jobs/info/69f4240bc78b9e45189596e1?utm_campaign=1058&utm_source=git)** | Las Cruces, NM | On Site | Apr 30 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Imaging Intern](https://jobright.ai/jobs/info/69f4233c461b9b613a625a8a?utm_campaign=1058&utm_source=git)** | Milwaukee, WI | On Site | Apr 30 |
@@ -79,6 +83,7 @@ For a complete list, click the following sortable link below:
 | **[Source Intelligence](http://www.sourceintelligence.com/)** | **[Technical Writer (Paid Summer Intern)](https://jobright.ai/jobs/info/69f420106942c746fa696b02?utm_campaign=1058&utm_source=git)** | United States | Remote | Apr 30 |
 | **[Aflac](http://www.aflac.com)** | **[Operations Support Coordinator](https://jobright.ai/jobs/info/69f423ce1f90bd6ae23d3a67?utm_campaign=1058&utm_source=git)** | Columbus, GA | On Site | Apr 30 |
 | **[SA Hospitality Group](http://www.sahospitalitygroup.com)** | **[FOH - Host Person (New Restaurant Opening - 220 5th Avenue)](https://jobright.ai/jobs/info/69f423aa1f90bd6ae23d39d0?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Apr 30 |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/69f446fa461b9b613a6262ad?utm_campaign=1058&utm_source=git)** | Royersford, PA | On Site | Apr 30 |
 | **[West Virginia University Foundation](https://www.wvuf.org/)** | **[Technical Support Services Intern](https://jobright.ai/jobs/info/69d3eeb454f00230c6d2c8cc?utm_campaign=1058&utm_source=git)** | Morgantown, WV | On Site | Apr 30 |
 | **[Beech Acres Parenting Center](https://beechacres.org)** | **[Intern - Information Technology - $15.00 hourly](https://jobright.ai/jobs/info/69f3f7c36942c746fa696256?utm_campaign=1058&utm_source=git)** | Cincinnati, OH | On Site | Apr 30 |
 | **[Olds College of Agriculture & Technology](https://www.oldscollege.ca/)** | **[Student, Residence Front Desk Assistant](https://jobright.ai/jobs/info/69f423b9343eef4fb0a9fde2?utm_campaign=1058&utm_source=git)** | Olds, Alberta, Canada | On Site | Apr 30 |
@@ -147,14 +152,9 @@ For a complete list, click the following sortable link below:
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE - CRNA Internship](https://jobright.ai/jobs/info/69f37b306942c746fa6916c7?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Apr 30 |
 | **[City of New Haven](https://www.newhavenct.gov)** | **[Library Technology Supervisor](https://jobright.ai/jobs/info/69f37b116942c746fa691677?utm_campaign=1058&utm_source=git)** | New Haven, CT | On Site | Apr 30 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE - Neonatal Nurse Practitioner Internship (Brandon NICU and Von Voigtlander Women's Hospital)](https://jobright.ai/jobs/info/69f37b05c78b9e4518954d60?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Apr 30 |
-| **[McLaren Health Care](http://www.mclaren.org)** | **[Nurse Intern- 5 West](https://jobright.ai/jobs/info/69f37a5e343eef4fb0a9a7a1?utm_campaign=1058&utm_source=git)** | Bay City, MI | On Site | Apr 30 |
-| ↳ | **[Nurse Intern- 6 East](https://jobright.ai/jobs/info/69f37a5e461b9b613a62070f?utm_campaign=1058&utm_source=git)** | Bay City, MI | On Site | Apr 30 |
+| **[McLaren Health Care](http://www.mclaren.org)** | **[Nurse Intern- 6 East](https://jobright.ai/jobs/info/69f37a5e461b9b613a62070f?utm_campaign=1058&utm_source=git)** | Bay City, MI | On Site | Apr 30 |
+| ↳ | **[Nurse Intern- 5 West](https://jobright.ai/jobs/info/69f37a5e343eef4fb0a9a7a1?utm_campaign=1058&utm_source=git)** | Bay City, MI | On Site | Apr 30 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[PHARM INTERN TECH (TEMP)](https://jobright.ai/jobs/info/69f37a58461b9b613a620703?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Apr 30 |
 | **[Fox Pest Control](https://fox-pest.com/)** | **[IT Support Intern (Seasonal)](https://jobright.ai/jobs/info/69f3749a461b9b613a62052f?utm_campaign=1058&utm_source=git)** | Logan, UT, US | On Site | Apr 30 |
 | **[4G Clinical](http://4gclinical.com)** | **[Information Technology Intern (Summer Intern 2026)](https://jobright.ai/jobs/info/69f3b05b461b9b613a622b61?utm_campaign=1058&utm_source=git)** | WELLESLEY, MA 02481, USA | Hybrid | Apr 30 |
-| **[MasTec Communications Group](https://masteccommunicationsgroup.com/)** | **[Intern](https://jobright.ai/jobs/info/69eb25390a6e0955530448a9?utm_campaign=1058&utm_source=git)** | King of Prussia, PA | On Site | Apr 30 |
-| **[Aimbridge Hospitality](http://www.aimbridgehospitality.com/)** | **[Sheraton Grand Nashville - Hospitality Management Intern](https://jobright.ai/jobs/info/69eaa1cc58811370cb134879?utm_campaign=1058&utm_source=git)** | Nashville, TN | On Site | Apr 30 |
-| **[eClerx](https://eclerx.com/)** | **[Analyst Intern](https://jobright.ai/jobs/info/69d04a60cdb525785fba95cc?utm_campaign=1058&utm_source=git)** | Fayetteville, NC | On Site | Apr 30 |
-| **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Information Technology, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69e94a03e0cd471b2f13c556?utm_campaign=1058&utm_source=git)** | Staten Island, NY | On Site | Apr 30 |
-| **[The Kraft Group & Affiliates](http://www.thekraftgroup.com)** | **[Premium Services Intern](https://jobright.ai/jobs/info/69e7934f58811370cb11d6b9?utm_campaign=1058&utm_source=git)** | Foxborough (Foxboro), MA | On Site | Apr 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
