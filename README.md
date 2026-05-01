@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Wonderful Company](http://www.wonderful.com/)** | **[Wonderful Scholar Summer Internship, Community Fitness Center](https://jobright.ai/jobs/info/69f407511f90bd6ae23d3632?utm_campaign=1058&utm_source=git)** | Lost Hills, CA | On Site | Apr 30 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/69f405bf343eef4fb0a9f91a?utm_campaign=1058&utm_source=git)** | Broomall, PA | On Site | Apr 30 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69f405ae343eef4fb0a9f8d7?utm_campaign=1058&utm_source=git)** | Mount Pleasant, SC | On Site | Apr 30 |
 | **[St. Luke's Hospital](https://www.stlukes-stl.com/)** | **[Student Nurse Intern](https://jobright.ai/jobs/info/69f40571c78b9e4518959102?utm_campaign=1058&utm_source=git)** | Chesterfield, MO | On Site | Apr 30 |
@@ -69,6 +70,8 @@ For a complete list, click the following sortable link below:
 | **[Nutrien](https://www.nutrien.com/)** | **[Intern, IT, Technical Writer](https://jobright.ai/jobs/info/69f3e3c058b23a2329da8a7f?utm_campaign=1058&utm_source=git)** | Nutrien Saskatoon Corporate Office | On Site | Apr 30 |
 | **[Highgate](https://www.highgate.com)** | **[Rooms Intern, Summer 2026](https://jobright.ai/jobs/info/69f3e38f1f90bd6ae23d277a?utm_campaign=1058&utm_source=git)** | Boston, MA | On Site | Apr 30 |
 | **[The Junkluggers](http://junkluggers.com)** | **[Summer Lugger/Intern](https://jobright.ai/jobs/info/69f4050e343eef4fb0a9f774?utm_campaign=1058&utm_source=git)** | Sheridan, CO | On Site | Apr 30 |
+| **[Fish Brothers Ltd Swindon](https://www.fish-bros.co.uk/)** | **[Service Technician - Toyota](https://jobright.ai/jobs/info/69f406dd461b9b613a62573d?utm_campaign=1058&utm_source=git)** | Brothers, OR | On Site | Apr 30 |
+| **[UK HealthCare](https://ukhealthcare.uky.edu/)** | **[Pharmacist Intern Senior/OnCall/UKHC - Richmond Retail Pharmacy](https://jobright.ai/jobs/info/69f4085358b23a2329da95b2?utm_campaign=1058&utm_source=git)** | Greater Lexington Area | On Site | Apr 30 |
 | **[Briggs and Morgan, P.A. (now Taft Law)](http://briggs.com)** | **[Client and Innovation Intern](https://jobright.ai/jobs/info/69f3f7c46942c746fa69625f?utm_campaign=1058&utm_source=git)** | DC-Baltimore Area | On Site | Apr 30 |
 | **[Trihydro Corporation](https://www.trihydro.com)** | **[Product Support Intern](https://jobright.ai/jobs/info/69f3f6851f90bd6ae23d2fae?utm_campaign=1058&utm_source=git)** | Fort Collins, CO | On Site | Apr 30 |
 | **[Providence Health & Services](https://www.providence.org/)** | **[Nurse Technician Internship](https://jobright.ai/jobs/info/69f3d8f0c78b9e4518958156?utm_campaign=1058&utm_source=git)** | Lubbock, TX, United States | On Site | Apr 30 |
@@ -127,8 +130,8 @@ For a complete list, click the following sortable link below:
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE - CRNA Internship](https://jobright.ai/jobs/info/69f37b306942c746fa6916c7?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Apr 30 |
 | **[City of New Haven](https://www.newhavenct.gov)** | **[Library Technology Supervisor](https://jobright.ai/jobs/info/69f37b116942c746fa691677?utm_campaign=1058&utm_source=git)** | New Haven, CT | On Site | Apr 30 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE - Neonatal Nurse Practitioner Internship (Brandon NICU and Von Voigtlander Women's Hospital)](https://jobright.ai/jobs/info/69f37b05c78b9e4518954d60?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Apr 30 |
-| **[McLaren Health Care](http://www.mclaren.org)** | **[Nurse Intern- 6 East](https://jobright.ai/jobs/info/69f37a5e461b9b613a62070f?utm_campaign=1058&utm_source=git)** | Bay City, MI | On Site | Apr 30 |
-| ↳ | **[Nurse Intern- 5 West](https://jobright.ai/jobs/info/69f37a5e343eef4fb0a9a7a1?utm_campaign=1058&utm_source=git)** | Bay City, MI | On Site | Apr 30 |
+| **[McLaren Health Care](http://www.mclaren.org)** | **[Nurse Intern- 5 West](https://jobright.ai/jobs/info/69f37a5e343eef4fb0a9a7a1?utm_campaign=1058&utm_source=git)** | Bay City, MI | On Site | Apr 30 |
+| ↳ | **[Nurse Intern- 6 East](https://jobright.ai/jobs/info/69f37a5e461b9b613a62070f?utm_campaign=1058&utm_source=git)** | Bay City, MI | On Site | Apr 30 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[PHARM INTERN TECH (TEMP)](https://jobright.ai/jobs/info/69f37a58461b9b613a620703?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Apr 30 |
 | **[Fox Pest Control](https://fox-pest.com/)** | **[IT Support Intern (Seasonal)](https://jobright.ai/jobs/info/69f3749a461b9b613a62052f?utm_campaign=1058&utm_source=git)** | Logan, UT, US | On Site | Apr 30 |
 | **[4G Clinical](http://4gclinical.com)** | **[Information Technology Intern (Summer Intern 2026)](https://jobright.ai/jobs/info/69f3b05b461b9b613a622b61?utm_campaign=1058&utm_source=git)** | WELLESLEY, MA 02481, USA | Hybrid | Apr 30 |
@@ -150,11 +153,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Nurse Intern- 5 East](https://jobright.ai/jobs/info/69f37b0dc78b9e4518954d6f?utm_campaign=1058&utm_source=git)** | Bay City, MI | On Site | Apr 30 |
 | **[Connection](http://www.pcconnection.com)** | **[Intern Technical- Solution Center](https://jobright.ai/jobs/info/69d6b139e63cea7a8b66b536?utm_campaign=1058&utm_source=git)** | Keene, NH | On Site | Apr 30 |
 | **[Parrish Medical Center](https://www.parrishhealthcare.com)** | **[Information Integrity Specialist- INTERN](https://jobright.ai/jobs/info/69f3669a58b23a2329da41fa?utm_campaign=1058&utm_source=git)** | Titusville, FL | On Site | Apr 30 |
-| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Intern I - High School](https://jobright.ai/jobs/info/69f3669758b23a2329da41e8?utm_campaign=1058&utm_source=git)** | Fresno, CA | On Site | Apr 30 |
+| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Intern I - High School](https://jobright.ai/jobs/info/69f3669fc78b9e4518954825?utm_campaign=1058&utm_source=git)** | Fresno, CA | On Site | Apr 30 |
 | ↳ | **[Intern I - High School](https://jobright.ai/jobs/info/69f366641f90bd6ae23ceb6e?utm_campaign=1058&utm_source=git)** | Modesto, CA | On Site | Apr 30 |
 | **[American Regent, Inc.](http://www.americanregent.com/)** | **[IT Helpdesk Support Intern](https://jobright.ai/jobs/info/69bb23cc3b74eb1e2c899076?utm_campaign=1058&utm_source=git)** | Shirley, NY | On Site | Apr 30 |
 | **[Mosquito Joe](https://mosquitojoefranchise.com/)** | **[Customer Service Intern](https://jobright.ai/jobs/info/69f35965c78b9e4518954545?utm_campaign=1058&utm_source=git)** | Glen Burnie, MD | On Site | Apr 30 |
-| **[Option Care Health](https://optioncarehealth.com)** | **[Intern, Pharmacy - Per Diem](https://jobright.ai/jobs/info/6977e8e788e2b47213bbe7ed?utm_campaign=1058&utm_source=git)** | Charlotte, NC | On Site | Apr 30 |
-| **[Freeman Hospital](https://www.newcastle-hospitals.nhs.uk/consultants/dr-abbas-khushnood/)** | **[Clinical Administrator](https://jobright.ai/jobs/info/69f3669d58b23a2329da4221?utm_campaign=1058&utm_source=git)** | Carthage, MO | On Site | Apr 30 |
-| **[Bonneville International](http://bonneville.com/)** | **[KSL IT Service Desk Internship](https://jobright.ai/jobs/info/69ec03cf16b2612c2a120781?utm_campaign=1058&utm_source=git)** | Salt Lake City, UT | On Site | Apr 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
