@@ -65,7 +65,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[CT Technologist Intern](https://jobright.ai/jobs/info/69f43ad9343eef4fb0aa03a2?utm_campaign=1058&utm_source=git)** | Safety Harbor, FL | On Site | Apr 30 |
 | **[Dartmouth Health](https://www.dartmouth-health.org/)** | **[Intern - Radiology](https://jobright.ai/jobs/info/69f44f451f90bd6ae23d437d?utm_campaign=1058&utm_source=git)** | Lebanon, NH | On Site | Apr 30 |
 | **[Los Angeles Angels](https://www.mlb.com/angels)** | **[Los Angeles Angels-2026 Information Systems Internship](https://jobright.ai/jobs/info/69f45a58db88714bcdfad319?utm_campaign=1058&utm_source=git)** | Anaheim, CA | On Site | Apr 30 |
-| **[SAIC](http://www.saic.com)** | **[Site Support Intern](https://jobright.ai/jobs/info/69f456b96942c746fa697727?utm_campaign=1058&utm_source=git)** | Huntsville, AL | On Site | Apr 30 |
 | **[BayCare Health System](https://baycare.org/bmg)** | **[CT Technologist Intern](https://jobright.ai/jobs/info/69f449ab58b23a2329daa134?utm_campaign=1058&utm_source=git)** | Tallahassee, FL | On Site | Apr 30 |
 | **[Baptist Health](https://www.baptistjax.com)** | **[FSCJ IT Intern](https://jobright.ai/jobs/info/69f425a0343eef4fb0a9ffdb?utm_campaign=1058&utm_source=git)** | Jacksonville Beach, FL | Hybrid | Apr 30 |
 | **[MountainView Regional Medical Center](https://www.mountainviewregional.com/)** | **[Nurse Intern](https://jobright.ai/jobs/info/69f4240bc78b9e45189596e1?utm_campaign=1058&utm_source=git)** | Las Cruces, NM | On Site | Apr 30 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE - CRNA Internship](https://jobright.ai/jobs/info/69f37b306942c746fa6916c7?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Apr 30 |
 | **[City of New Haven](https://www.newhavenct.gov)** | **[Library Technology Supervisor](https://jobright.ai/jobs/info/69f37b116942c746fa691677?utm_campaign=1058&utm_source=git)** | New Haven, CT | On Site | Apr 30 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE - Neonatal Nurse Practitioner Internship (Brandon NICU and Von Voigtlander Women's Hospital)](https://jobright.ai/jobs/info/69f37b05c78b9e4518954d60?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Apr 30 |
+| **[McLaren Health Care](http://www.mclaren.org)** | **[Nurse Intern- 6 East](https://jobright.ai/jobs/info/69f37a5e461b9b613a62070f?utm_campaign=1058&utm_source=git)** | Bay City, MI | On Site | Apr 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
