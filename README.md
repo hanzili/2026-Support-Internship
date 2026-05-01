@@ -57,7 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Allen Lund Company](http://www.allenlund.com/)** | **[Internship](https://jobright.ai/jobs/info/69d8091bb861c42857c47e70?utm_campaign=1058&utm_source=git)** | Orlando, FL | On Site | May 01 |
 | **[NYU Langone Health](https://nyulangone.org/)** | **[Student Intern](https://jobright.ai/jobs/info/69bbcb3fc42b5f0532920330?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | May 01 |
+| **[Wells Fargo](http://www.wellsfargo.com)** | **[Teller 30 hour Indio](https://jobright.ai/jobs/info/69f49c3c43a25828a8d13b01?utm_campaign=1058&utm_source=git)** | Indio, CA | On Site | May 01 |
+| ↳ | **[Teller 20 hour Indio](https://jobright.ai/jobs/info/69f49c5e43a25828a8d13b2b?utm_campaign=1058&utm_source=git)** | Indio, CA | On Site | May 01 |
+| **[UICGS / Bowhead Family of Companies](http://www.bowhead.com)** | **[General Clerk III](https://jobright.ai/jobs/info/69d7d7cc869c7e25d8591dd0?utm_campaign=1058&utm_source=git)** | Newark, NJ | On Site | May 01 |
+| **[Kershaw](https://kershawequipment.com)** | **[Customer Service Representative I (Intern)](https://jobright.ai/jobs/info/69d83393b861c42857c495df?utm_campaign=1058&utm_source=git)** | Montgomery, AL | On Site | May 01 |
 | **[SAIC](http://www.saic.com)** | **[Site Support Intern](https://jobright.ai/jobs/info/69f48546db88714bcdfad9d4?utm_campaign=1058&utm_source=git)** | Huntsville, AL | On Site | May 01 |
 | **[Providence Health & Services](https://www.providence.org/)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/69f4564b58b23a2329daa40c?utm_campaign=1058&utm_source=git)** | Missoula, MT | On Site | May 01 |
 | **[Smith's Food & Drug Centers](https://www.smithsfoodanddrug.com/)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/69f4782581706a5bd2160708?utm_campaign=1058&utm_source=git)** | Salt Lake City, UT | On Site | Apr 30 |
@@ -101,7 +106,6 @@ For a complete list, click the following sortable link below:
 | **[Briggs and Morgan, P.A. (now Taft Law)](http://briggs.com)** | **[Client and Innovation Intern](https://jobright.ai/jobs/info/69f3f7c46942c746fa69625f?utm_campaign=1058&utm_source=git)** | DC-Baltimore Area | On Site | Apr 30 |
 | **[Trihydro Corporation](https://www.trihydro.com)** | **[Product Support Intern](https://jobright.ai/jobs/info/69f3f6851f90bd6ae23d2fae?utm_campaign=1058&utm_source=git)** | Fort Collins, CO | On Site | Apr 30 |
 | **[Providence Health & Services](https://www.providence.org/)** | **[Nurse Technician Internship](https://jobright.ai/jobs/info/69f3d8f0c78b9e4518958156?utm_campaign=1058&utm_source=git)** | Lubbock, TX, United States | On Site | Apr 30 |
-| **[Vorys, Sater, Seymour and Pease LLP](http://www.vorys.com)** | **[Summer Intern](https://jobright.ai/jobs/info/69f3d8e46942c746fa6955c9?utm_campaign=1058&utm_source=git)** | Cincinnati, OH | On Site | Apr 30 |
 | **[Precision eControl](https://www.precisionecontrol.com)** | **[Summer Intern](https://jobright.ai/jobs/info/69f3d888461b9b613a624507?utm_campaign=1058&utm_source=git)** | Cincinnati, OH, US | On Site | Apr 30 |
 | **[Choctaw Global](https://www.choctawglobal.com)** | **[IT Support Specialist Intern Intune and Office 365 Administ](https://jobright.ai/jobs/info/69f3d879343eef4fb0a9e618?utm_campaign=1058&utm_source=git)** | OK, Durant, Durant, OK, US | On Site | Apr 30 |
 | **[Humana](http://www.humana.com)** | **[Home Health Student Nurse Internship - Mansfield/Ontario, OH](https://jobright.ai/jobs/info/69f4252d6942c746fa696d26?utm_campaign=1058&utm_source=git)** | Ontario, OH, US | On Site | Apr 30 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[PTR Premier Truck Rental](https://rentptr.com)** | **[Intern Service Technician](https://jobright.ai/jobs/info/69b330ddae2a534885ea97c1?utm_campaign=1058&utm_source=git)** | Fort Worth, TX | On Site | Apr 30 |
 | **[NewYork-Presbyterian Hospital](http://www.nypventures.org/)** | **[Per Diem Intern](https://jobright.ai/jobs/info/69f3d1ec6942c746fa695000?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Apr 30 |
 | **[Schweitzer Engineering Laboratories (SEL)](http://www.selinc.com/)** | **[High School Intern](https://jobright.ai/jobs/info/69f3d841461b9b613a624440?utm_campaign=1058&utm_source=git)** | Pullman - 2350, US | On Site | Apr 30 |
-| **[City of Greater Sudbury](https://www.greatersudbury.ca/)** | **[Branch Assistant](https://jobright.ai/jobs/info/69f3a0a558b23a2329da63e0?utm_campaign=1058&utm_source=git)** | Greater Sudbury, Ontario, Canada | On Site | Apr 30 |
-| **[Rogers Electric](https://www.rogerselectric.com)** | **[IT Intern](https://jobright.ai/jobs/info/69d6a481e63cea7a8b66a13c?utm_campaign=1058&utm_source=git)** | Alpharetta, GA | On Site | Apr 30 |
-| **[City of New Haven](https://www.newhavenct.gov)** | **[Library Technology Supervisor](https://jobright.ai/jobs/info/69f37b116942c746fa691677?utm_campaign=1058&utm_source=git)** | New Haven, CT | On Site | Apr 30 |
-| **[McLaren Health Care](http://www.mclaren.org)** | **[Nurse Intern- 6 East](https://jobright.ai/jobs/info/69f37a5e461b9b613a62070f?utm_campaign=1058&utm_source=git)** | Bay City, MI | On Site | Apr 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
