@@ -57,8 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Providence Health & Services](https://www.providence.org/)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/69f456a5343eef4fb0aa0961?utm_campaign=1058&utm_source=git)** | Seattle, WA | On Site | May 01 |
-| ↳ | **[Pharmacist Intern](https://jobright.ai/jobs/info/69f4564b58b23a2329daa40c?utm_campaign=1058&utm_source=git)** | Missoula, MT | On Site | May 01 |
+| **[Providence Health & Services](https://www.providence.org/)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/69f4564b58b23a2329daa40c?utm_campaign=1058&utm_source=git)** | Missoula, MT | On Site | May 01 |
 | **[Detail Connect](https://www.detailconnect.app/)** | **[Customer Success & Onboarding Intern](https://jobright.ai/jobs/info/69f44682c78b9e4518959ca2?utm_campaign=1058&utm_source=git)** | United States | Remote | Apr 30 |
 | **[BayCare Health System](https://baycare.org/bmg)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69f440e3461b9b613a6261e8?utm_campaign=1058&utm_source=git)** | St Pauls, NC | On Site | Apr 30 |
 | **[NYU Langone Health](https://nyulangone.org/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69f440c4461b9b613a626171?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Apr 30 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Rogers Electric](https://www.rogerselectric.com)** | **[IT Intern](https://jobright.ai/jobs/info/69d6a481e63cea7a8b66a13c?utm_campaign=1058&utm_source=git)** | Alpharetta, GA | On Site | Apr 30 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE - CRNA Internship](https://jobright.ai/jobs/info/69f37b306942c746fa6916c7?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Apr 30 |
 | **[City of New Haven](https://www.newhavenct.gov)** | **[Library Technology Supervisor](https://jobright.ai/jobs/info/69f37b116942c746fa691677?utm_campaign=1058&utm_source=git)** | New Haven, CT | On Site | Apr 30 |
+| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE - Neonatal Nurse Practitioner Internship (Brandon NICU and Von Voigtlander Women's Hospital)](https://jobright.ai/jobs/info/69f37b05c78b9e4518954d60?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Apr 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
