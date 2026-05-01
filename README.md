@@ -57,14 +57,21 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ServiceSource](https://www.servicesource.org)** | **[Information Technology Intern](https://jobright.ai/jobs/info/69f4bb4143a25828a8d146c5?utm_campaign=1058&utm_source=git)** | Oakton-VA, US | On Site | May 01 |
+| **[Fortra](https://www.fortra.com)** | **[Technical Support Intern](https://jobright.ai/jobs/info/69d82b48869c7e25d8594354?utm_campaign=1058&utm_source=git)** | United States | Remote | May 01 |
+| **[Edgewater Federal Solutions, Inc.](https://www.edgewaterit.com/)** | **[Help Desk Support Intern](https://jobright.ai/jobs/info/69f3abdf1f90bd6ae23d135a?utm_campaign=1058&utm_source=git)** | Frederick, MD | On Site | May 01 |
+| **[Source Intelligence](http://www.sourceintelligence.com/)** | **[Technical Writer Intern](https://jobright.ai/jobs/info/69f4b1600b36ff035474e8d9?utm_campaign=1058&utm_source=git)** | United States | Remote | May 01 |
+| **[AMERISAFE, Inc.](http://www.amerisafe.com/site.php)** | **[IT Intern](https://jobright.ai/jobs/info/69f4ae14a3d34b4f76f50c23?utm_campaign=1058&utm_source=git)** | DeRidder LA, DeRidder, LA, US | On Site | May 01 |
 | **[Carboline](https://www.carboline.com)** | **[IT Intern](https://jobright.ai/jobs/info/69bf193a482822729301c2ad?utm_campaign=1058&utm_source=git)** | St Louis, MO | On Site | May 01 |
 | **[Hyatt](http://www.hyatt.com/)** | **[Summer 2026 - College Intern - Front Desk](https://jobright.ai/jobs/info/69679305f25a38006695e855?utm_campaign=1058&utm_source=git)** | San Antonio, TX | On Site | May 01 |
+| **[AMERISAFE, Inc.](http://www.amerisafe.com/site.php)** | **[IT Intern](https://jobright.ai/jobs/info/69f4bb780b36ff035474ea5d?utm_campaign=1058&utm_source=git)** | De Ridder, LA | On Site | May 01 |
 | **[Allen Lund Company](http://www.allenlund.com/)** | **[Internship](https://jobright.ai/jobs/info/69d8091bb861c42857c47e70?utm_campaign=1058&utm_source=git)** | Orlando, FL | On Site | May 01 |
 | **[NYU Langone Health](https://nyulangone.org/)** | **[Student Intern](https://jobright.ai/jobs/info/69bbcb3fc42b5f0532920330?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | May 01 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[Teller 30 hour Indio](https://jobright.ai/jobs/info/69f49c3c43a25828a8d13b01?utm_campaign=1058&utm_source=git)** | Indio, CA | On Site | May 01 |
 | ↳ | **[Teller 20 hour Indio](https://jobright.ai/jobs/info/69f49c5e43a25828a8d13b2b?utm_campaign=1058&utm_source=git)** | Indio, CA | On Site | May 01 |
 | **[UICGS / Bowhead Family of Companies](http://www.bowhead.com)** | **[General Clerk III](https://jobright.ai/jobs/info/69d7d7cc869c7e25d8591dd0?utm_campaign=1058&utm_source=git)** | Newark, NJ | On Site | May 01 |
 | **[Kershaw](https://kershawequipment.com)** | **[Customer Service Representative I (Intern)](https://jobright.ai/jobs/info/69d83393b861c42857c495df?utm_campaign=1058&utm_source=git)** | Montgomery, AL | On Site | May 01 |
+| **[Cupertino Electric, Inc.](http://www.cei.com)** | **[IT Intern](https://jobright.ai/jobs/info/69f4b77143a25828a8d1442d?utm_campaign=1058&utm_source=git)** | San Jose, CA | On Site | May 01 |
 | **[SAIC](http://www.saic.com)** | **[Site Support Intern](https://jobright.ai/jobs/info/69f48546db88714bcdfad9d4?utm_campaign=1058&utm_source=git)** | Huntsville, AL | On Site | May 01 |
 | **[Providence Health & Services](https://www.providence.org/)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/69f4564b58b23a2329daa40c?utm_campaign=1058&utm_source=git)** | Missoula, MT | On Site | May 01 |
 | **[Smith's Food & Drug Centers](https://www.smithsfoodanddrug.com/)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/69f4782581706a5bd2160708?utm_campaign=1058&utm_source=git)** | Salt Lake City, UT | On Site | Apr 30 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[IWK Health](https://www.iwk.nshealth.ca)** | **[Registration/Scheduling Clerk, Clinical Investigations Unit](https://jobright.ai/jobs/info/69f397a3461b9b613a62206a?utm_campaign=1058&utm_source=git)** | Halifax, Nova Scotia, Canada | On Site | Apr 30 |
 | **[PTR Premier Truck Rental](https://rentptr.com)** | **[Intern Fleet Service](https://jobright.ai/jobs/info/69dd5aad738f2f099e8b5e60?utm_campaign=1058&utm_source=git)** | Fort Wayne, IN | On Site | Apr 30 |
 | **[Orthopaedic Associates of Michigan](http://oamichigan.com)** | **[Medical Records Intern](https://jobright.ai/jobs/info/69f39711461b9b613a621ee7?utm_campaign=1058&utm_source=git)** | Leffingwell, Grand Rapids, MI, US | On Site | Apr 30 |
-| **[Ascension](https://healthcare.ascension.org)** | **[Student Nurse Intern](https://jobright.ai/jobs/info/69f394496942c746fa692ee1?utm_campaign=1058&utm_source=git)** | US-FL-Panama City | On Site | Apr 30 |
-| **[AdvaMed](http://www.advamed.org)** | **[Intern, Business Systems](https://jobright.ai/jobs/info/69f393f2c78b9e4518956401?utm_campaign=1058&utm_source=git)** | Washington, DC | Hybrid | Apr 30 |
-| **[Ascension](https://healthcare.ascension.org)** | **[Student Nurse Intern](https://jobright.ai/jobs/info/69f393ec1f90bd6ae23d0c5e?utm_campaign=1058&utm_source=git)** | Panama City, FL, US | On Site | Apr 30 |
-| **[CarolinaEast Health System](https://www.carolinaeasthealth.com/)** | **[Cath Lab/EP Technology Intern - Paramedic](https://jobright.ai/jobs/info/6975b675206da320f49fbffc?utm_campaign=1058&utm_source=git)** | New Bern-MC Area | On Site | Apr 30 |
-| **[Rollins, Inc.](http://www.rollins.com/)** | **[IT Support Intern (Seasonal)](https://jobright.ai/jobs/info/69f3ad40461b9b613a622776?utm_campaign=1058&utm_source=git)** | Logan, UT | On Site | Apr 30 |
-| **[PTR Premier Truck Rental](https://rentptr.com)** | **[Intern Service Technician](https://jobright.ai/jobs/info/69b330ddae2a534885ea97c1?utm_campaign=1058&utm_source=git)** | Fort Worth, TX | On Site | Apr 30 |
-| **[NewYork-Presbyterian Hospital](http://www.nypventures.org/)** | **[Per Diem Intern](https://jobright.ai/jobs/info/69f3d1ec6942c746fa695000?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Apr 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
