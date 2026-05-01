@@ -71,7 +71,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Teller 20 hour Indio](https://jobright.ai/jobs/info/69f49c5e43a25828a8d13b2b?utm_campaign=1058&utm_source=git)** | Indio, CA | On Site | May 01 |
 | **[UICGS / Bowhead Family of Companies](http://www.bowhead.com)** | **[General Clerk III](https://jobright.ai/jobs/info/69d7d7cc869c7e25d8591dd0?utm_campaign=1058&utm_source=git)** | Newark, NJ | On Site | May 01 |
 | **[Kershaw](https://kershawequipment.com)** | **[Customer Service Representative I (Intern)](https://jobright.ai/jobs/info/69d83393b861c42857c495df?utm_campaign=1058&utm_source=git)** | Montgomery, AL | On Site | May 01 |
-| **[Cupertino Electric, Inc.](http://www.cei.com)** | **[IT Intern](https://jobright.ai/jobs/info/69f4b77143a25828a8d1442d?utm_campaign=1058&utm_source=git)** | San Jose, CA | On Site | May 01 |
 | **[SAIC](http://www.saic.com)** | **[Site Support Intern](https://jobright.ai/jobs/info/69f48546db88714bcdfad9d4?utm_campaign=1058&utm_source=git)** | Huntsville, AL | On Site | May 01 |
 | **[Providence Health & Services](https://www.providence.org/)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/69f4564b58b23a2329daa40c?utm_campaign=1058&utm_source=git)** | Missoula, MT | On Site | May 01 |
 | **[Smith's Food & Drug Centers](https://www.smithsfoodanddrug.com/)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/69f4782581706a5bd2160708?utm_campaign=1058&utm_source=git)** | Salt Lake City, UT | On Site | Apr 30 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[IWK Health](https://www.iwk.nshealth.ca)** | **[Registration/Scheduling Clerk, Clinical Investigations Unit](https://jobright.ai/jobs/info/69f397a3461b9b613a62206a?utm_campaign=1058&utm_source=git)** | Halifax, Nova Scotia, Canada | On Site | Apr 30 |
 | **[PTR Premier Truck Rental](https://rentptr.com)** | **[Intern Fleet Service](https://jobright.ai/jobs/info/69dd5aad738f2f099e8b5e60?utm_campaign=1058&utm_source=git)** | Fort Wayne, IN | On Site | Apr 30 |
 | **[Orthopaedic Associates of Michigan](http://oamichigan.com)** | **[Medical Records Intern](https://jobright.ai/jobs/info/69f39711461b9b613a621ee7?utm_campaign=1058&utm_source=git)** | Leffingwell, Grand Rapids, MI, US | On Site | Apr 30 |
+| **[Ascension](https://healthcare.ascension.org)** | **[Student Nurse Intern](https://jobright.ai/jobs/info/69f394496942c746fa692ee1?utm_campaign=1058&utm_source=git)** | US-FL-Panama City | On Site | Apr 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
