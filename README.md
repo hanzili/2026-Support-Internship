@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/69f41e3cc78b9e4518959473?utm_campaign=1058&utm_source=git)** | Johnson City, TN | On Site | Apr 30 |
 | **[The Wonderful Company](http://www.wonderful.com/)** | **[Wonderful Scholar Summer Internship, Community Fitness Center](https://jobright.ai/jobs/info/69f407511f90bd6ae23d3632?utm_campaign=1058&utm_source=git)** | Lost Hills, CA | On Site | Apr 30 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/69f405bf343eef4fb0a9f91a?utm_campaign=1058&utm_source=git)** | Broomall, PA | On Site | Apr 30 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69f405ae343eef4fb0a9f8d7?utm_campaign=1058&utm_source=git)** | Mount Pleasant, SC | On Site | Apr 30 |
@@ -65,6 +66,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69f400ddc78b9e4518958f4e?utm_campaign=1058&utm_source=git)** | Beachwood, NJ | On Site | Apr 30 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/69f400a9c78b9e4518958f4a?utm_campaign=1058&utm_source=git)** | Wayne, PA | On Site | Apr 30 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/69f4005f58b23a2329da92ed?utm_campaign=1058&utm_source=git)** | Reading, PA | On Site | Apr 30 |
+| **[Source Intelligence](http://www.sourceintelligence.com/)** | **[Technical Writer (Paid Summer Intern)](https://jobright.ai/jobs/info/69f420106942c746fa696b02?utm_campaign=1058&utm_source=git)** | United States | Remote | Apr 30 |
 | **[West Virginia University Foundation](https://www.wvuf.org/)** | **[Technical Support Services Intern](https://jobright.ai/jobs/info/69d3eeb454f00230c6d2c8cc?utm_campaign=1058&utm_source=git)** | Morgantown, WV | On Site | Apr 30 |
 | **[Beech Acres Parenting Center](https://beechacres.org)** | **[Intern - Information Technology - $15.00 hourly](https://jobright.ai/jobs/info/69f3f7c36942c746fa696256?utm_campaign=1058&utm_source=git)** | Cincinnati, OH | On Site | Apr 30 |
 | **[Nutrien](https://www.nutrien.com/)** | **[Intern, IT, Technical Writer](https://jobright.ai/jobs/info/69f3e3c058b23a2329da8a7f?utm_campaign=1058&utm_source=git)** | Nutrien Saskatoon Corporate Office | On Site | Apr 30 |
@@ -153,8 +155,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Nurse Intern- 5 East](https://jobright.ai/jobs/info/69f37b0dc78b9e4518954d6f?utm_campaign=1058&utm_source=git)** | Bay City, MI | On Site | Apr 30 |
 | **[Connection](http://www.pcconnection.com)** | **[Intern Technical- Solution Center](https://jobright.ai/jobs/info/69d6b139e63cea7a8b66b536?utm_campaign=1058&utm_source=git)** | Keene, NH | On Site | Apr 30 |
 | **[Parrish Medical Center](https://www.parrishhealthcare.com)** | **[Information Integrity Specialist- INTERN](https://jobright.ai/jobs/info/69f3669a58b23a2329da41fa?utm_campaign=1058&utm_source=git)** | Titusville, FL | On Site | Apr 30 |
-| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Intern I - High School](https://jobright.ai/jobs/info/69f3669fc78b9e4518954825?utm_campaign=1058&utm_source=git)** | Fresno, CA | On Site | Apr 30 |
+| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Intern I - High School](https://jobright.ai/jobs/info/69f3669758b23a2329da41e8?utm_campaign=1058&utm_source=git)** | Fresno, CA | On Site | Apr 30 |
 | ↳ | **[Intern I - High School](https://jobright.ai/jobs/info/69f366641f90bd6ae23ceb6e?utm_campaign=1058&utm_source=git)** | Modesto, CA | On Site | Apr 30 |
-| **[American Regent, Inc.](http://www.americanregent.com/)** | **[IT Helpdesk Support Intern](https://jobright.ai/jobs/info/69bb23cc3b74eb1e2c899076?utm_campaign=1058&utm_source=git)** | Shirley, NY | On Site | Apr 30 |
-| **[Mosquito Joe](https://mosquitojoefranchise.com/)** | **[Customer Service Intern](https://jobright.ai/jobs/info/69f35965c78b9e4518954545?utm_campaign=1058&utm_source=git)** | Glen Burnie, MD | On Site | Apr 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
