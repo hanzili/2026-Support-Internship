@@ -82,6 +82,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[IT Intern](https://jobright.ai/jobs/info/69f531a012f2811ab5a63c7c?utm_campaign=1058&utm_source=git)** | US-NY-Whitestone | On Site | May 01 |
 | **[Houston City College](http://www.hccs.edu/)** | **[Student Intern, Entrepreneurial Initiatives (Grant Funded) Staff Pool](https://jobright.ai/jobs/info/69f5303d43a25828a8d17b35?utm_campaign=1058&utm_source=git)** | Houston, Texas, System Wide | On Site | May 01 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Customer Feedback Analyst – Bus Location Information, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69f53017db88714bcdfb2a4e?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | May 01 |
+| **[Adolfson & Peterson Construction](http://www.a-p.com)** | **[Intern](https://jobright.ai/jobs/info/69f5d5ea12f2811ab5a6594d?utm_campaign=1058&utm_source=git)** | Fargo, ND | On Site | May 01 |
 | **[Transfinder](http://www.transfinder.com/)** | **[Client Services Intern - Calling '27-'28 grads!](https://jobright.ai/jobs/info/69f522e3db88714bcdfb2342?utm_campaign=1058&utm_source=git)** | Schenectady, NY | On Site | May 01 |
 | **[KIPP Capital Region Public Schools](http://www.kippcapital.org)** | **[Information Technology (IT) Intern](https://jobright.ai/jobs/info/69f55146a3d34b4f76f54b1e?utm_campaign=1058&utm_source=git)** | Albany, NY | On Site | May 01 |
 | **[PACCAR Parts](http://www.paccarparts.com/)** | **[Summer Internship - IT Applications](https://jobright.ai/jobs/info/69f51c6aa3d34b4f76f53ba6?utm_campaign=1058&utm_source=git)** | Renton, WA | On Site | May 01 |
@@ -98,7 +99,6 @@ For a complete list, click the following sortable link below:
 | **[Young Americans for Liberty](https://yaliberty.org/)** | **[Technology & Operations Intern (Volunteer/Scholarship)](https://jobright.ai/jobs/info/69f51e0243a25828a8d17106?utm_campaign=1058&utm_source=git)** | United States | Remote | May 01 |
 | **[Applied Concepts, Inc.](https://www.stalkerradar.com/)** | **[Technical Writer Internship](https://jobright.ai/jobs/info/69f51c51a3d34b4f76f53b37?utm_campaign=1058&utm_source=git)** | Richardson, TX | On Site | May 01 |
 | **[Southworth](http://southworthproducts.com)** | **[IT Intern](https://jobright.ai/jobs/info/69f4fb2143a25828a8d15ee1?utm_campaign=1058&utm_source=git)** | Manila, AR | On Site | May 01 |
-| **[Crescent Hotels & Resorts](https://www.crescenthotels.com)** | **[HOSPITALITY SUMMER INTERN](https://jobright.ai/jobs/info/69f53a34db88714bcdfb2e72?utm_campaign=1058&utm_source=git)** | Tulsa, OK | On Site | May 01 |
 | **[Longevity Holdings, Inc.](https://longevity.inc/)** | **[Technical Documentation Intern](https://jobright.ai/jobs/info/69f4f2af0b36ff035474fdf0?utm_campaign=1058&utm_source=git)** | Minneapolis, MN | Hybrid | May 01 |
 | **[ServiceSource](https://www.servicesource.org)** | **[Information Technology Intern](https://jobright.ai/jobs/info/69f4f2100b36ff035474fdad?utm_campaign=1058&utm_source=git)** | Oakton, VA | On Site | May 01 |
 | **[TotalEnergies](https://ventures.totalenergies.com)** | **[IT Communications and Technical Analyst Intern](https://jobright.ai/jobs/info/69d82ae9b861c42857c492eb?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | May 01 |
@@ -132,9 +132,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69f4fa0481706a5bd2164123?utm_campaign=1058&utm_source=git)** | Palm Beach Gardens, FL | On Site | May 01 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69f4ebab12f2811ab5a61d3a?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | May 01 |
 | **[Charles Schwab](https://www.schwab.com/)** | **[Client Services Part Time Internship](https://jobright.ai/jobs/info/69f4e48f81706a5bd2163bc8?utm_campaign=1058&utm_source=git)** | Westlake, TX | On Site | May 01 |
+| **[Memorial Healthcare System](http://www.memorialregional.com)** | **[Pharmacy Intern - Pharmacy - Per Diem - Flex Shifts - MRHS](https://jobright.ai/jobs/info/69d8308c869c7e25d859442f?utm_campaign=1058&utm_source=git)** | Hollywood, FL | On Site | May 01 |
 | **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/69f58c82a3d34b4f76f55920?utm_campaign=1058&utm_source=git)** | East Riverdale, MD | On Site | May 01 |
-| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69f58c0fdb88714bcdfb3fe1?utm_campaign=1058&utm_source=git)** | Hephzibah, GA | On Site | May 01 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69f58c83a3d34b4f76f55921?utm_campaign=1058&utm_source=git)** | Albert Lea, MN | On Site | May 01 |
+| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69f58c0fdb88714bcdfb3fe1?utm_campaign=1058&utm_source=git)** | Hephzibah, GA | On Site | May 01 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69f58cbf81706a5bd2166a7d?utm_campaign=1058&utm_source=git)** | Charlotte Hall, MD | On Site | May 01 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69f58cbe12f2811ab5a6506c?utm_campaign=1058&utm_source=git)** | Huntersville, NC | On Site | May 01 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69f58cc081706a5bd2166a89?utm_campaign=1058&utm_source=git)** | Hephzibah, GA | On Site | May 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[UICGS / Bowhead Family of Companies](http://www.bowhead.com)** | **[General Clerk III](https://jobright.ai/jobs/info/69d7d7cc869c7e25d8591dd0?utm_campaign=1058&utm_source=git)** | Newark, NJ | On Site | May 01 |
 | **[Kershaw](https://kershawequipment.com)** | **[Customer Service Representative I (Intern)](https://jobright.ai/jobs/info/69d83393b861c42857c495df?utm_campaign=1058&utm_source=git)** | Montgomery, AL | On Site | May 01 |
 | **[SAIC](http://www.saic.com)** | **[Site Support Intern](https://jobright.ai/jobs/info/69f48546db88714bcdfad9d4?utm_campaign=1058&utm_source=git)** | Huntsville, AL | On Site | May 01 |
-| **[Region 8 Education Service Center of Northeast Indiana](https://www.reg8.net/)** | **[Technology Intern Summer (2 Positions)](https://jobright.ai/jobs/info/69f5c6110b36ff0354752eb0?utm_campaign=1058&utm_source=git)** | Huntington, IN | On Site | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
