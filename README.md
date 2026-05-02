@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Priority1](http://priority1inc.com)** | **[Intern](https://jobright.ai/jobs/info/69f57cf981706a5bd2166916?utm_campaign=1058&utm_source=git)** | Little Rock, AR | On Site | May 01 |
+| **[BMO](http://www.bmo.com)** | **[Trade Desk Support Analyst, Fall 2026 (Co-op/Internship) - 8 Months](https://jobright.ai/jobs/info/69f57cb4db88714bcdfb3ec9?utm_campaign=1058&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 01 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY/PHARMACIST-INTERN](https://jobright.ai/jobs/info/69ec32dd0a6e09555304d1b4?utm_campaign=1058&utm_source=git)** | Aurora, CO | On Site | May 01 |
 | **[FlatironDragados](https://www.fdcorp.com)** | **[IT Intern](https://jobright.ai/jobs/info/69f565c881706a5bd21661d6?utm_campaign=1058&utm_source=git)** | Whitestone, NY | On Site | May 01 |
 | **[Xometry](https://www.xometry.com)** | **[Customer Support Intern](https://jobright.ai/jobs/info/695dc344efe5dd5cbd3d9d49?utm_campaign=1058&utm_source=git)** | Lexington, KY | Hybrid | May 01 |
@@ -77,7 +79,6 @@ For a complete list, click the following sortable link below:
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Customer Feedback Analyst – Bus Location Information, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69f53017db88714bcdfb2a4e?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | May 01 |
 | **[Transfinder](http://www.transfinder.com/)** | **[Client Services Intern - Calling '27-'28 grads!](https://jobright.ai/jobs/info/69f522e3db88714bcdfb2342?utm_campaign=1058&utm_source=git)** | Schenectady, NY | On Site | May 01 |
 | **[KIPP Capital Region Public Schools](http://www.kippcapital.org)** | **[Information Technology (IT) Intern](https://jobright.ai/jobs/info/69f55146a3d34b4f76f54b1e?utm_campaign=1058&utm_source=git)** | Albany, NY | On Site | May 01 |
-| **[New Jersey Courts](https://www.njcourts.gov/)** | **[Paid Student Intern (Multiple Divisions)](https://jobright.ai/jobs/info/69f51dffdb88714bcdfb2214?utm_campaign=1058&utm_source=git)** | Freehold, NJ | On Site | May 01 |
 | **[PACCAR Parts](http://www.paccarparts.com/)** | **[Summer Internship - IT Applications](https://jobright.ai/jobs/info/69f51c6aa3d34b4f76f53ba6?utm_campaign=1058&utm_source=git)** | Renton, WA | On Site | May 01 |
 | **[York County, Virginia](http://www.yorkcounty.gov)** | **[Intern (WAR/Part-Time) (Information Technology)](https://jobright.ai/jobs/info/69f54cd6db88714bcdfb3248?utm_campaign=1058&utm_source=git)** | Yorktown, VA | On Site | May 01 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY/PHARMACIST-INTERN](https://jobright.ai/jobs/info/69ebfc0d58811370cb13e074?utm_campaign=1058&utm_source=git)** | Aurora, CO | On Site | May 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BayCare Health System](https://baycare.org/bmg)** | **[CT Technologist Intern](https://jobright.ai/jobs/info/69f449ab58b23a2329daa134?utm_campaign=1058&utm_source=git)** | Tallahassee, FL | On Site | Apr 30 |
 | **[MountainView Regional Medical Center](https://www.mountainviewregional.com/)** | **[Nurse Intern](https://jobright.ai/jobs/info/69f4240bc78b9e45189596e1?utm_campaign=1058&utm_source=git)** | Las Cruces, NM | On Site | Apr 30 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Imaging Intern](https://jobright.ai/jobs/info/69f4233c461b9b613a625a8a?utm_campaign=1058&utm_source=git)** | Milwaukee, WI | On Site | Apr 30 |
-| **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/69f41e3cc78b9e4518959473?utm_campaign=1058&utm_source=git)** | Johnson City, TN | On Site | Apr 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
