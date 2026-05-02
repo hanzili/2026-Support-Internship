@@ -68,6 +68,7 @@ For a complete list, click the following sortable link below:
 | **[Hendrickson](http://www.hendrickson-intl.com/Home.aspx)** | **[IT Applications Intern (Fall 2026)](https://jobright.ai/jobs/info/69d1ee04891d7b11cfce791a?utm_campaign=1058&utm_source=git)** | Canton, OH | On Site | May 02 |
 | **[American Battery Solutions Inc.](https://www.americanbatterysolutions.com/)** | **[IT Co-op](https://jobright.ai/jobs/info/69bd9ede4828227293ffd849?utm_campaign=1058&utm_source=git)** | Springboro, OH | On Site | May 02 |
 | **[Epiroc](https://www.epirocgroup.com/en)** | **[Intern - Technical Information Services](https://jobright.ai/jobs/info/691b8157bcdbf3560c9df7ff?utm_campaign=1058&utm_source=git)** | Garland, TX | On Site | May 02 |
+| **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/69f638b4a3d34b4f76f57d40?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | May 02 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[IS Services & Support Intern (or Co-Op)](https://jobright.ai/jobs/info/69eaa19f4b0fa35a7077589a?utm_campaign=1058&utm_source=git)** | Atlanta, GA | On Site | May 02 |
 | **[Source Intelligence](http://www.sourceintelligence.com/)** | **[Technical Writer Intern](https://jobright.ai/jobs/info/69f60370db88714bcdfb5829?utm_campaign=1058&utm_source=git)** | United States | Remote | May 02 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Intern, Airport Customer Service (ACS) JFK - NYC Above and Below Wing Ambassador (Summer 2026)](https://jobright.ai/jobs/info/69f60236582f810f9c8c7dab?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | May 02 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69f4fa0481706a5bd2164123?utm_campaign=1058&utm_source=git)** | Palm Beach Gardens, FL | On Site | May 01 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69f4ebab12f2811ab5a61d3a?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | May 01 |
 | **[Charles Schwab](https://www.schwab.com/)** | **[Client Services Part Time Internship](https://jobright.ai/jobs/info/69f4e48f81706a5bd2163bc8?utm_campaign=1058&utm_source=git)** | Westlake, TX | On Site | May 01 |
-| **[Memorial Healthcare System](http://www.memorialregional.com)** | **[Pharmacy Intern - Pharmacy - Per Diem - Flex Shifts - MRHS](https://jobright.ai/jobs/info/69d8308c869c7e25d859442f?utm_campaign=1058&utm_source=git)** | Hollywood, FL | On Site | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
