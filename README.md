@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fred Meyer](https://www.fredmeyer.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69f5c845a3d34b4f76f566ee?utm_campaign=1058&utm_source=git)** | Coos Bay, OR | On Site | May 01 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[IT Client Support, Technology & Engineer Fellow (Fall)](https://jobright.ai/jobs/info/69f5a02243a25828a8d19367?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | May 01 |
 | ↳ | **[Customer Feedback Analyst – Bus Location Information, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69f5a0570b36ff035475299e?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | May 01 |
 | **[Priority1](http://priority1inc.com)** | **[Intern](https://jobright.ai/jobs/info/69f57cf981706a5bd2166916?utm_campaign=1058&utm_source=git)** | Little Rock, AR | On Site | May 01 |
@@ -132,8 +133,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69f4ebab12f2811ab5a61d3a?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | May 01 |
 | **[Charles Schwab](https://www.schwab.com/)** | **[Client Services Part Time Internship](https://jobright.ai/jobs/info/69f4e48f81706a5bd2163bc8?utm_campaign=1058&utm_source=git)** | Westlake, TX | On Site | May 01 |
 | **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/69f58c82a3d34b4f76f55920?utm_campaign=1058&utm_source=git)** | East Riverdale, MD | On Site | May 01 |
-| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69f58c83a3d34b4f76f55921?utm_campaign=1058&utm_source=git)** | Albert Lea, MN | On Site | May 01 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69f58c0fdb88714bcdfb3fe1?utm_campaign=1058&utm_source=git)** | Hephzibah, GA | On Site | May 01 |
+| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69f58c83a3d34b4f76f55921?utm_campaign=1058&utm_source=git)** | Albert Lea, MN | On Site | May 01 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69f58cbf81706a5bd2166a7d?utm_campaign=1058&utm_source=git)** | Charlotte Hall, MD | On Site | May 01 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69f58cbe12f2811ab5a6506c?utm_campaign=1058&utm_source=git)** | Huntersville, NC | On Site | May 01 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69f58cc081706a5bd2166a89?utm_campaign=1058&utm_source=git)** | Hephzibah, GA | On Site | May 01 |
@@ -155,6 +156,5 @@ For a complete list, click the following sortable link below:
 | **[UICGS / Bowhead Family of Companies](http://www.bowhead.com)** | **[General Clerk III](https://jobright.ai/jobs/info/69d7d7cc869c7e25d8591dd0?utm_campaign=1058&utm_source=git)** | Newark, NJ | On Site | May 01 |
 | **[Kershaw](https://kershawequipment.com)** | **[Customer Service Representative I (Intern)](https://jobright.ai/jobs/info/69d83393b861c42857c495df?utm_campaign=1058&utm_source=git)** | Montgomery, AL | On Site | May 01 |
 | **[SAIC](http://www.saic.com)** | **[Site Support Intern](https://jobright.ai/jobs/info/69f48546db88714bcdfad9d4?utm_campaign=1058&utm_source=git)** | Huntsville, AL | On Site | May 01 |
-| **[Providence Health & Services](https://www.providence.org/)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/69f4564b58b23a2329daa40c?utm_campaign=1058&utm_source=git)** | Missoula, MT | On Site | May 01 |
-| **[Smith's Food & Drug Centers](https://www.smithsfoodanddrug.com/)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/69f4782581706a5bd2160708?utm_campaign=1058&utm_source=git)** | Salt Lake City, UT | On Site | Apr 30 |
+| **[Region 8 Education Service Center of Northeast Indiana](https://www.reg8.net/)** | **[Technology Intern Summer (2 Positions)](https://jobright.ai/jobs/info/69f5c6110b36ff0354752eb0?utm_campaign=1058&utm_source=git)** | Huntington, IN | On Site | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
