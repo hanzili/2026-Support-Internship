@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Indie Campers](https://indiecampers.com/)** | **[Tourism & Operations Internship](https://jobright.ai/jobs/info/69e652ca3aa0c479643934de?utm_campaign=1058&utm_source=git)** | Palma Depot | On Site | May 02 |
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Enterprise Platforms Intern](https://jobright.ai/jobs/info/69f65391b1fc847fc1ae3048?utm_campaign=1058&utm_source=git)** | United States-Massachusetts-Chelsea-200 Arlington Street | Hybrid | May 02 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Summer Intern - Child Support - Northern Region - Woburn Location](https://jobright.ai/jobs/info/69f65391b1fc847fc1ae3049?utm_campaign=1058&utm_source=git)** | United States-Massachusetts-Woburn-100 Trade Ctr Suite 760 | On Site | May 02 |
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Service Desk Intern](https://jobright.ai/jobs/info/69f6538a81706a5bd2168c07?utm_campaign=1058&utm_source=git)** | United States-Massachusetts-Chelsea-200 Arlington Street | Hybrid | May 02 |
@@ -77,6 +78,7 @@ For a complete list, click the following sortable link below:
 | **[Hendrickson](http://www.hendrickson-intl.com/Home.aspx)** | **[IT Applications Intern (Fall 2026)](https://jobright.ai/jobs/info/69d1ee04891d7b11cfce791a?utm_campaign=1058&utm_source=git)** | Canton, OH | On Site | May 02 |
 | **[American Battery Solutions Inc.](https://www.americanbatterysolutions.com/)** | **[IT Co-op](https://jobright.ai/jobs/info/69bd9ede4828227293ffd849?utm_campaign=1058&utm_source=git)** | Springboro, OH | On Site | May 02 |
 | **[Standish Management, LLC](http://standishmanagement.com/)** | **[IT Internship - Summer 2026](https://jobright.ai/jobs/info/69d9e2e15356a60f40fdd442?utm_campaign=1058&utm_source=git)** | Los Angeles, CA | On Site | May 02 |
+| **[Memorial Healthcare System](http://www.memorialregional.com)** | **[Pharmacy Intern - Outpatient Pharmacy - Per Diem - Days - MHW](https://jobright.ai/jobs/info/6983dea8348f733a5c375fc2?utm_campaign=1058&utm_source=git)** | Pembroke Pines, FL | On Site | May 02 |
 | **[Epiroc](https://www.epirocgroup.com/en)** | **[Intern - Technical Information Services](https://jobright.ai/jobs/info/691b8157bcdbf3560c9df7ff?utm_campaign=1058&utm_source=git)** | Garland, TX | On Site | May 02 |
 | **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/69f63a90582f810f9c8c87d2?utm_campaign=1058&utm_source=git)** | Katy, TX | On Site | May 02 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69f63990b1fc847fc1ae2aa0?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | May 02 |
@@ -124,6 +126,7 @@ For a complete list, click the following sortable link below:
 | **[Transfinder](http://www.transfinder.com/)** | **[Client Services Intern - Calling '27-'28 grads!](https://jobright.ai/jobs/info/69f522e3db88714bcdfb2342?utm_campaign=1058&utm_source=git)** | Schenectady, NY | On Site | May 01 |
 | **[KIPP Capital Region Public Schools](http://www.kippcapital.org)** | **[Information Technology (IT) Intern](https://jobright.ai/jobs/info/69f55146a3d34b4f76f54b1e?utm_campaign=1058&utm_source=git)** | Albany, NY | On Site | May 01 |
 | **[PACCAR Parts](http://www.paccarparts.com/)** | **[Summer Internship - IT Applications](https://jobright.ai/jobs/info/69f51c6aa3d34b4f76f53ba6?utm_campaign=1058&utm_source=git)** | Renton, WA | On Site | May 01 |
+| **[OhioHealth](https://www.ohiohealth.com/)** | **[Pharmacy Intern - Grady](https://jobright.ai/jobs/info/69f14fe6825a315d7ca373d0?utm_campaign=1058&utm_source=git)** | Delaware, OH | On Site | May 01 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY/PHARMACIST-INTERN](https://jobright.ai/jobs/info/69ebfc0d58811370cb13e074?utm_campaign=1058&utm_source=git)** | Aurora, CO | On Site | May 01 |
 | ↳ | **[PHARMACY/PHARMACIST-INTERN](https://jobright.ai/jobs/info/69ec32cd4b0fa35a7078145a?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | May 01 |
 | **[Young Americans for Liberty](https://yaliberty.org/)** | **[Technology & Operations Intern (Volunteer/Scholarship)](https://jobright.ai/jobs/info/69f50f64db88714bcdfb1ce5?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | May 01 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69f4d574db88714bcdfb0740?utm_campaign=1058&utm_source=git)** | New Bedford, MA | On Site | May 01 |
 | **[ALO](https://www.aloyoga.com/)** | **[Digital Intern - Customer Service](https://jobright.ai/jobs/info/697d77e6727747250d5860a5?utm_campaign=1058&utm_source=git)** | Beverly Hills, California, United States | On Site | May 01 |
 | **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69f4d4eb43a25828a8d15425?utm_campaign=1058&utm_source=git)** | Atlanta, GA | On Site | May 01 |
-| **[Global Medical Response](https://www.globalmedicalresponse.com)** | **[IT Field Support Technician](https://jobright.ai/jobs/info/69f4fb8e43a25828a8d15f48?utm_campaign=1058&utm_source=git)** | San Diego, CA | On Site | May 01 |
-| **[Synopsys Inc](http://www.synopsys.com)** | **[Technical Writing Internship](https://jobright.ai/jobs/info/69f4f2ab43a25828a8d15e01?utm_campaign=1058&utm_source=git)** | Canonsburg, PA | On Site | May 01 |
-| **[Genesis Energy, L.P.](https://www.genesisenergy.com/)** | **[Intern](https://jobright.ai/jobs/info/69f4ccf00b36ff035474f06e?utm_campaign=1058&utm_source=git)** | Houston, TX, USA | On Site | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
