@@ -134,12 +134,13 @@ For a complete list, click the following sortable link below:
 | **[Boston Athenaeum](https://www.bostonathenaeum.org/)** | **[Reader Services Intern](https://jobright.ai/jobs/info/69f4e9db43a25828a8d15bb5?utm_campaign=1058&utm_source=git)** | Boston, MA | On Site | May 01 |
 | **[Charles Schwab](https://www.schwab.com/)** | **[Client Services Part Time Internship](https://jobright.ai/jobs/info/69f4e48f81706a5bd2163bc8?utm_campaign=1058&utm_source=git)** | Westlake, TX | On Site | May 01 |
 | **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/69f58c82a3d34b4f76f55920?utm_campaign=1058&utm_source=git)** | East Riverdale, MD | On Site | May 01 |
-| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69f58c83a3d34b4f76f55921?utm_campaign=1058&utm_source=git)** | Albert Lea, MN | On Site | May 01 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69f58c0fdb88714bcdfb3fe1?utm_campaign=1058&utm_source=git)** | Hephzibah, GA | On Site | May 01 |
+| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69f58c83a3d34b4f76f55921?utm_campaign=1058&utm_source=git)** | Albert Lea, MN | On Site | May 01 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69f58cbf81706a5bd2166a7d?utm_campaign=1058&utm_source=git)** | Charlotte Hall, MD | On Site | May 01 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69f58cbe12f2811ab5a6506c?utm_campaign=1058&utm_source=git)** | Huntersville, NC | On Site | May 01 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69f58cc081706a5bd2166a89?utm_campaign=1058&utm_source=git)** | Hephzibah, GA | On Site | May 01 |
-| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69f552430b36ff0354751955?utm_campaign=1058&utm_source=git)** | Needham, MA | On Site | May 01 |
+| **[Menorah Medical Center](http://menorahmedicalcenter.com)** | **[Pharmacist Intern PRN](https://jobright.ai/jobs/info/69d877c1b861c42857c4adec?utm_campaign=1058&utm_source=git)** | Overland Park, KS | On Site | May 01 |
+| **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69f552430b36ff0354751955?utm_campaign=1058&utm_source=git)** | Needham, MA | On Site | May 01 |
 | **[Council Member Mario Castillo](https://www.houstontx.gov/council/h/index.html)** | **[Paid Intern](https://jobright.ai/jobs/info/69f4ec02db88714bcdfb0c16?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | May 01 |
 | **[ServiceSource](https://www.servicesource.org)** | **[Information Technology Intern](https://jobright.ai/jobs/info/69f4bb4143a25828a8d146c5?utm_campaign=1058&utm_source=git)** | Oakton-VA, US | On Site | May 01 |
 | **[Fortra](https://www.fortra.com)** | **[Technical Support Intern](https://jobright.ai/jobs/info/69d82b48869c7e25d8594354?utm_campaign=1058&utm_source=git)** | United States | Remote | May 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kershaw](https://kershawequipment.com)** | **[Customer Service Representative I (Intern)](https://jobright.ai/jobs/info/69d83393b861c42857c495df?utm_campaign=1058&utm_source=git)** | Montgomery, AL | On Site | May 01 |
 | **[SAIC](http://www.saic.com)** | **[Site Support Intern](https://jobright.ai/jobs/info/69f48546db88714bcdfad9d4?utm_campaign=1058&utm_source=git)** | Huntsville, AL | On Site | May 01 |
 | **[Providence Health & Services](https://www.providence.org/)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/69f4564b58b23a2329daa40c?utm_campaign=1058&utm_source=git)** | Missoula, MT | On Site | May 01 |
-| **[Smith's Food & Drug Centers](https://www.smithsfoodanddrug.com/)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/69f4782581706a5bd2160708?utm_campaign=1058&utm_source=git)** | Salt Lake City, UT | On Site | Apr 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
