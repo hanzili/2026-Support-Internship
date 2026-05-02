@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sono Bello](http://sonobello.com)** | **[Intern- IT Helpdesk](https://jobright.ai/jobs/info/69d97c0a738f2f099e8a2258?utm_campaign=1058&utm_source=git)** | Bellevue, WA | Hybrid | May 02 |
+| **[Cloudflare](http://www.cloudflare.com)** | **[Technical Support Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/69bc5d435b89c002acf1f31f?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | May 02 |
 | **[Fred Meyer](https://www.fredmeyer.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69f5c845a3d34b4f76f566ee?utm_campaign=1058&utm_source=git)** | Coos Bay, OR | On Site | May 01 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[IT Client Support, Technology & Engineer Fellow (Fall)](https://jobright.ai/jobs/info/69f5a02243a25828a8d19367?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | May 01 |
 | ↳ | **[Customer Feedback Analyst – Bus Location Information, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69f5a0570b36ff035475299e?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | May 01 |
@@ -104,7 +106,7 @@ For a complete list, click the following sortable link below:
 | **[TotalEnergies](https://ventures.totalenergies.com)** | **[IT Communications and Technical Analyst Intern](https://jobright.ai/jobs/info/69d82ae9b861c42857c492eb?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | May 01 |
 | **[Boldyn Networks](http://www.mobilitie.com)** | **[Convention Center Support Technician Intern](https://jobright.ai/jobs/info/69f4ef520b36ff035474fcfd?utm_campaign=1058&utm_source=git)** | Ohio (Remote), US | Remote | May 01 |
 | **[The Ohio State University Wexner Medical Center](http://wexnermedical.osu.edu/)** | **[Student Intern, Imaging Services](https://jobright.ai/jobs/info/69f51fa143a25828a8d171e0?utm_campaign=1058&utm_source=git)** | Lewis Center, OH | On Site | May 01 |
-| **[Smilow Cancer Hospital](https://www.ynhh.org/smilow.aspx)** | **[Pharmacy Intern Central Operations](https://jobright.ai/jobs/info/69f50f55db88714bcdfb1cb9?utm_campaign=1058&utm_source=git)** | New Haven, CT | On Site | May 01 |
+| **[Smilow Cancer Hospital](https://www.ynhh.org/smilow.aspx)** | **[Pharmacy Intern Central Operations](https://jobright.ai/jobs/info/69f5e418a3d34b4f76f56daa?utm_campaign=1058&utm_source=git)** | New Haven, CT | On Site | May 01 |
 | **[Foreign Policy](http://www.foreignpolicy.com/)** | **[Customer Support Intern](https://jobright.ai/jobs/info/69f506480b36ff035475034d?utm_campaign=1058&utm_source=git)** | United States | Remote | May 01 |
 | **[Fulcrum GT](https://fulcrum-gt.com/)** | **[IT Support Junior Associate 2026](https://jobright.ai/jobs/info/69f500c881706a5bd216430d?utm_campaign=1058&utm_source=git)** | Schaumburg, IL | On Site | May 01 |
 | **[Carcoustics](http://www.carcoustics.com)** | **[IT Internship](https://jobright.ai/jobs/info/69f50c4d12f2811ab5a62ad7?utm_campaign=1058&utm_source=git)** | Howell, MI | On Site | May 01 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[Teller 30 hour Indio](https://jobright.ai/jobs/info/69f49c3c43a25828a8d13b01?utm_campaign=1058&utm_source=git)** | Indio, CA | On Site | May 01 |
 | ↳ | **[Teller 20 hour Indio](https://jobright.ai/jobs/info/69f49c5e43a25828a8d13b2b?utm_campaign=1058&utm_source=git)** | Indio, CA | On Site | May 01 |
 | **[UICGS / Bowhead Family of Companies](http://www.bowhead.com)** | **[General Clerk III](https://jobright.ai/jobs/info/69d7d7cc869c7e25d8591dd0?utm_campaign=1058&utm_source=git)** | Newark, NJ | On Site | May 01 |
-| **[Kershaw](https://kershawequipment.com)** | **[Customer Service Representative I (Intern)](https://jobright.ai/jobs/info/69d83393b861c42857c495df?utm_campaign=1058&utm_source=git)** | Montgomery, AL | On Site | May 01 |
-| **[SAIC](http://www.saic.com)** | **[Site Support Intern](https://jobright.ai/jobs/info/69f48546db88714bcdfad9d4?utm_campaign=1058&utm_source=git)** | Huntsville, AL | On Site | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
