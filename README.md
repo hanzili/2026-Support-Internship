@@ -57,10 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Enterprise Platforms Intern](https://jobright.ai/jobs/info/69f65391b1fc847fc1ae3048?utm_campaign=1058&utm_source=git)** | United States-Massachusetts-Chelsea-200 Arlington Street | Hybrid | May 02 |
+| **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Summer Intern - Child Support - Northern Region - Woburn Location](https://jobright.ai/jobs/info/69f65391b1fc847fc1ae3049?utm_campaign=1058&utm_source=git)** | United States-Massachusetts-Woburn-100 Trade Ctr Suite 760 | On Site | May 02 |
+| **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Service Desk Intern](https://jobright.ai/jobs/info/69f6538a81706a5bd2168c07?utm_campaign=1058&utm_source=git)** | United States-Massachusetts-Chelsea-200 Arlington Street | Hybrid | May 02 |
+| **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[M365 and Directory Services Intern](https://jobright.ai/jobs/info/69f653850b36ff0354754e98?utm_campaign=1058&utm_source=git)** | United States-Massachusetts-Chelsea-200 Arlington Street | Hybrid | May 02 |
+| **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[IT Service Delivery Internship Summer 2026](https://jobright.ai/jobs/info/69f6538481706a5bd2168c03?utm_campaign=1058&utm_source=git)** | United States-Massachusetts-10 Park Plaza | On Site | May 02 |
+| **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Enterprise Platforms Intern](https://jobright.ai/jobs/info/69f65236a3d34b4f76f58344?utm_campaign=1058&utm_source=git)** | United States-Massachusetts-Chelsea-200 Arlington Street | Hybrid | May 02 |
+| **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[M365 and Directory Services Intern](https://jobright.ai/jobs/info/69f65225db88714bcdfb60f1?utm_campaign=1058&utm_source=git)** | United States-Massachusetts-Chelsea-200 Arlington Street | Hybrid | May 02 |
+| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Customer Engagement Advisory](https://jobright.ai/jobs/info/69ea8066dc35f7132c4aaa92?utm_campaign=1058&utm_source=git)** | Newtown Square, PA | On Site | May 02 |
 | **[KW PROPERTY MANAGEMENT AND CONSULTING](https://kwpmc.com/)** | **[Corporate Intern](https://jobright.ai/jobs/info/69bdc56d393a1008f743534f?utm_campaign=1058&utm_source=git)** | Miami, FL | On Site | May 02 |
 | **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69f6202cdb88714bcdfb5b10?utm_campaign=1058&utm_source=git)** | Richmond Hill, GA | On Site | May 02 |
-| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69f6200fdb88714bcdfb5ae5?utm_campaign=1058&utm_source=git)** | Fayetteville, GA | On Site | May 02 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69f6200fdb88714bcdfb5ae4?utm_campaign=1058&utm_source=git)** | Shelby, NC | On Site | May 02 |
+| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69f6200fdb88714bcdfb5ae5?utm_campaign=1058&utm_source=git)** | Fayetteville, GA | On Site | May 02 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69f61f9f0b36ff03547547c2?utm_campaign=1058&utm_source=git)** | Richmond Hill, GA | On Site | May 02 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69f61f820b36ff035475479b?utm_campaign=1058&utm_source=git)** | Norridge, IL | On Site | May 02 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69f61f810b36ff0354754797?utm_campaign=1058&utm_source=git)** | Westland, MI | On Site | May 02 |
@@ -70,10 +78,10 @@ For a complete list, click the following sortable link below:
 | **[American Battery Solutions Inc.](https://www.americanbatterysolutions.com/)** | **[IT Co-op](https://jobright.ai/jobs/info/69bd9ede4828227293ffd849?utm_campaign=1058&utm_source=git)** | Springboro, OH | On Site | May 02 |
 | **[Standish Management, LLC](http://standishmanagement.com/)** | **[IT Internship - Summer 2026](https://jobright.ai/jobs/info/69d9e2e15356a60f40fdd442?utm_campaign=1058&utm_source=git)** | Los Angeles, CA | On Site | May 02 |
 | **[Epiroc](https://www.epirocgroup.com/en)** | **[Intern - Technical Information Services](https://jobright.ai/jobs/info/691b8157bcdbf3560c9df7ff?utm_campaign=1058&utm_source=git)** | Garland, TX | On Site | May 02 |
-| **[Beth Israel Lahey Health](https://www.bilh.org)** | **[Urology Navigator Intern](https://jobright.ai/jobs/info/69f645300b36ff0354754959?utm_campaign=1058&utm_source=git)** | Burlington, MA | On Site | May 02 |
 | **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/69f63a90582f810f9c8c87d2?utm_campaign=1058&utm_source=git)** | Katy, TX | On Site | May 02 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69f63990b1fc847fc1ae2aa0?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | May 02 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69f63a8881706a5bd216854c?utm_campaign=1058&utm_source=git)** | Boca Raton, FL | On Site | May 02 |
+| ↳ | **[Pharmacy Graduate Intern (Non-US Education)](https://jobright.ai/jobs/info/69f6495d0b36ff0354754a00?utm_campaign=1058&utm_source=git)** | Greensboro, NC | On Site | May 02 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[IS Services & Support Intern (or Co-Op)](https://jobright.ai/jobs/info/69eaa19f4b0fa35a7077589a?utm_campaign=1058&utm_source=git)** | Atlanta, GA | On Site | May 02 |
 | **[Source Intelligence](http://www.sourceintelligence.com/)** | **[Technical Writer Intern](https://jobright.ai/jobs/info/69f60370db88714bcdfb5829?utm_campaign=1058&utm_source=git)** | United States | Remote | May 02 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Intern, Airport Customer Service (ACS) JFK - NYC Above and Below Wing Ambassador (Summer 2026)](https://jobright.ai/jobs/info/69f60236582f810f9c8c7dab?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | May 02 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Global Medical Response](https://www.globalmedicalresponse.com)** | **[IT Field Support Technician](https://jobright.ai/jobs/info/69f4fb8e43a25828a8d15f48?utm_campaign=1058&utm_source=git)** | San Diego, CA | On Site | May 01 |
 | **[Synopsys Inc](http://www.synopsys.com)** | **[Technical Writing Internship](https://jobright.ai/jobs/info/69f4f2ab43a25828a8d15e01?utm_campaign=1058&utm_source=git)** | Canonsburg, PA | On Site | May 01 |
 | **[Genesis Energy, L.P.](https://www.genesisenergy.com/)** | **[Intern](https://jobright.ai/jobs/info/69f4ccf00b36ff035474f06e?utm_campaign=1058&utm_source=git)** | Houston, TX, USA | On Site | May 01 |
-| **[The Preservation Society of Newport County](https://www.newportmansions.org)** | **[Membership Assistant Summer Intern](https://jobright.ai/jobs/info/69f4ccea0b36ff035474f053?utm_campaign=1058&utm_source=git)** | Newport,RI,US | On Site | May 01 |
-| **[Ruekert & Mielke, Inc.](http://ruekertmielke.com)** | **[IT Internship](https://jobright.ai/jobs/info/69f4cce112f2811ab5a61132?utm_campaign=1058&utm_source=git)** | Waukesha, Wisconsin, United States | On Site | May 01 |
-| **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69f4fb6943a25828a8d15f15?utm_campaign=1058&utm_source=git)** | Yakima, WA | On Site | May 01 |
-| ↳ | **[Pharmacy Graduate Intern (Non-US Education)](https://jobright.ai/jobs/info/69f5342712f2811ab5a63cd5?utm_campaign=1058&utm_source=git)** | Louisville, KY | On Site | May 01 |
-| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69f4fb360b36ff035474ffc9?utm_campaign=1058&utm_source=git)** | Omaha, NE | On Site | May 01 |
-| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69f4fb010b36ff035474ffa1?utm_campaign=1058&utm_source=git)** | Charlotte, NC | On Site | May 01 |
-| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69f4fb010b36ff035474ff9f?utm_campaign=1058&utm_source=git)** | Eastvale, CA | On Site | May 01 |
-| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69f506c7a3d34b4f76f53484?utm_campaign=1058&utm_source=git)** | Winston-Salem, NC | On Site | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
