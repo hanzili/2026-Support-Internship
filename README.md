@@ -57,8 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[S&P Global](https://www.spglobal.com)** | **[Client Experience Summer Intern (Early Careers)](https://jobright.ai/jobs/info/69bccd274828227293fecd20?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | May 02 |
+| **[Vestas](http://www.vestas.com)** | **[Service Technician Intern](https://jobright.ai/jobs/info/69d95afb869c7e25d859a513?utm_campaign=1058&utm_source=git)** | Pomeroy, IA | On Site | May 02 |
+| **[Sono Bello](http://sonobello.com)** | **[PAC Operations Intern](https://jobright.ai/jobs/info/69d97b4f5356a60f40fda017?utm_campaign=1058&utm_source=git)** | Bellevue, WA | Hybrid | May 02 |
+| **[MVP Health Care](https://www.mvphealthcare.com)** | **[Intern, Customer Experience Research](https://jobright.ai/jobs/info/69bc80905b89c002acf23f2b?utm_campaign=1058&utm_source=git)** | Schenectady, NY | Hybrid | May 02 |
 | **[Sono Bello](http://sonobello.com)** | **[Intern- IT Helpdesk](https://jobright.ai/jobs/info/69d97c0a738f2f099e8a2258?utm_campaign=1058&utm_source=git)** | Bellevue, WA | Hybrid | May 02 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Technical Support Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/69bc5d435b89c002acf1f31f?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | May 02 |
+| **[Ross Video](http://rossvideo.com)** | **[Technical Support Specialist](https://jobright.ai/jobs/info/69d952b9738f2f099e8a0ef9?utm_campaign=1058&utm_source=git)** | Kanata, Ontario, Canada | On Site | May 02 |
 | **[Fred Meyer](https://www.fredmeyer.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69f5c845a3d34b4f76f566ee?utm_campaign=1058&utm_source=git)** | Coos Bay, OR | On Site | May 01 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[IT Client Support, Technology & Engineer Fellow (Fall)](https://jobright.ai/jobs/info/69f5a02243a25828a8d19367?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | May 01 |
 | ↳ | **[Customer Feedback Analyst – Bus Location Information, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69f5a0570b36ff035475299e?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | May 01 |
@@ -108,7 +113,7 @@ For a complete list, click the following sortable link below:
 | **[The Ohio State University Wexner Medical Center](http://wexnermedical.osu.edu/)** | **[Student Intern, Imaging Services](https://jobright.ai/jobs/info/69f51fa143a25828a8d171e0?utm_campaign=1058&utm_source=git)** | Lewis Center, OH | On Site | May 01 |
 | **[Smilow Cancer Hospital](https://www.ynhh.org/smilow.aspx)** | **[Pharmacy Intern Central Operations](https://jobright.ai/jobs/info/69f5e418a3d34b4f76f56daa?utm_campaign=1058&utm_source=git)** | New Haven, CT | On Site | May 01 |
 | **[Foreign Policy](http://www.foreignpolicy.com/)** | **[Customer Support Intern](https://jobright.ai/jobs/info/69f506480b36ff035475034d?utm_campaign=1058&utm_source=git)** | United States | Remote | May 01 |
-| **[Fulcrum GT](https://fulcrum-gt.com/)** | **[IT Support Junior Associate 2026](https://jobright.ai/jobs/info/69f500c881706a5bd216430d?utm_campaign=1058&utm_source=git)** | Schaumburg, IL | On Site | May 01 |
+| **[Fulcrum GT](https://fulcrumgt.com)** | **[IT Support Junior Associate 2026](https://jobright.ai/jobs/info/69f500c881706a5bd216430d?utm_campaign=1058&utm_source=git)** | Schaumburg, IL | On Site | May 01 |
 | **[Carcoustics](http://www.carcoustics.com)** | **[IT Internship](https://jobright.ai/jobs/info/69f50c4d12f2811ab5a62ad7?utm_campaign=1058&utm_source=git)** | Howell, MI | On Site | May 01 |
 | **[KIPP Capital Region Public Schools](http://www.kippcapital.org)** | **[Information Technology (IT) Intern](https://jobright.ai/jobs/info/69f4e2e281706a5bd2163b14?utm_campaign=1058&utm_source=git)** | Albany, New York, United States | On Site | May 01 |
 | **[Crescent Hotels & Resorts](https://www.crescenthotels.com)** | **[Front Desk Agent - Internship](https://jobright.ai/jobs/info/69f4e2e181706a5bd2163b12?utm_campaign=1058&utm_source=git)** | Columbus, Ohio, United States | On Site | May 01 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Carboline](https://www.carboline.com)** | **[IT Intern](https://jobright.ai/jobs/info/69bf193a482822729301c2ad?utm_campaign=1058&utm_source=git)** | St Louis, MO | On Site | May 01 |
 | **[Hyatt](http://www.hyatt.com/)** | **[Summer 2026 - College Intern - Front Desk](https://jobright.ai/jobs/info/69679305f25a38006695e855?utm_campaign=1058&utm_source=git)** | San Antonio, TX | On Site | May 01 |
 | **[AMERISAFE, Inc.](http://www.amerisafe.com/site.php)** | **[IT Intern](https://jobright.ai/jobs/info/69f4bb780b36ff035474ea5d?utm_campaign=1058&utm_source=git)** | De Ridder, LA | On Site | May 01 |
-| **[Allen Lund Company](http://www.allenlund.com/)** | **[Internship](https://jobright.ai/jobs/info/69d8091bb861c42857c47e70?utm_campaign=1058&utm_source=git)** | Orlando, FL | On Site | May 01 |
-| **[NYU Langone Health](https://nyulangone.org/)** | **[Student Intern](https://jobright.ai/jobs/info/69bbcb3fc42b5f0532920330?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | May 01 |
-| **[Wells Fargo](http://www.wellsfargo.com)** | **[Teller 30 hour Indio](https://jobright.ai/jobs/info/69f49c3c43a25828a8d13b01?utm_campaign=1058&utm_source=git)** | Indio, CA | On Site | May 01 |
-| ↳ | **[Teller 20 hour Indio](https://jobright.ai/jobs/info/69f49c5e43a25828a8d13b2b?utm_campaign=1058&utm_source=git)** | Indio, CA | On Site | May 01 |
-| **[UICGS / Bowhead Family of Companies](http://www.bowhead.com)** | **[General Clerk III](https://jobright.ai/jobs/info/69d7d7cc869c7e25d8591dd0?utm_campaign=1058&utm_source=git)** | Newark, NJ | On Site | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
