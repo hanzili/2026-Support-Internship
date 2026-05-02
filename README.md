@@ -63,8 +63,11 @@ For a complete list, click the following sortable link below:
 | **[MVP Health Care](https://www.mvphealthcare.com)** | **[Intern, Customer Experience Research](https://jobright.ai/jobs/info/69bc80905b89c002acf23f2b?utm_campaign=1058&utm_source=git)** | Schenectady, NY | Hybrid | May 02 |
 | **[Sono Bello](http://sonobello.com)** | **[Intern- IT Helpdesk](https://jobright.ai/jobs/info/69d97c0a738f2f099e8a2258?utm_campaign=1058&utm_source=git)** | Bellevue, WA | Hybrid | May 02 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Technical Support Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/69bc5d435b89c002acf1f31f?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | May 02 |
+| **[BCFS Health & Human Services](https://bcfshhs.org)** | **[Program Intern](https://jobright.ai/jobs/info/69d976b5869c7e25d859b0c4?utm_campaign=1058&utm_source=git)** | Tyler, TX | On Site | May 02 |
+| ↳ | **[Program Intern](https://jobright.ai/jobs/info/69d976b75356a60f40fd9ddd?utm_campaign=1058&utm_source=git)** | Lufkin, TX | On Site | May 02 |
 | **[Ross Video](http://rossvideo.com)** | **[Technical Support Specialist](https://jobright.ai/jobs/info/69d952b9738f2f099e8a0ef9?utm_campaign=1058&utm_source=git)** | Kanata, Ontario, Canada | On Site | May 02 |
 | **[Fred Meyer](https://www.fredmeyer.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69f5c845a3d34b4f76f566ee?utm_campaign=1058&utm_source=git)** | Coos Bay, OR | On Site | May 01 |
+| ↳ | **[Pharmacist Intern](https://jobright.ai/jobs/info/69f5fa8e582f810f9c8c7d1c?utm_campaign=1058&utm_source=git)** | Seattle, WA | On Site | May 01 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[IT Client Support, Technology & Engineer Fellow (Fall)](https://jobright.ai/jobs/info/69f5a02243a25828a8d19367?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | May 01 |
 | ↳ | **[Customer Feedback Analyst – Bus Location Information, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69f5a0570b36ff035475299e?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | May 01 |
 | **[Priority1](http://priority1inc.com)** | **[Intern](https://jobright.ai/jobs/info/69f57cf981706a5bd2166916?utm_campaign=1058&utm_source=git)** | Little Rock, AR | On Site | May 01 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Fortra](https://www.fortra.com)** | **[Technical Support Intern](https://jobright.ai/jobs/info/69d82b48869c7e25d8594354?utm_campaign=1058&utm_source=git)** | United States | Remote | May 01 |
 | **[Edgewater Federal Solutions, Inc.](https://www.edgewaterit.com/)** | **[Help Desk Support Intern](https://jobright.ai/jobs/info/69f3abdf1f90bd6ae23d135a?utm_campaign=1058&utm_source=git)** | Frederick, MD | On Site | May 01 |
 | **[AMERISAFE, Inc.](http://www.amerisafe.com/site.php)** | **[IT Intern](https://jobright.ai/jobs/info/69f4ae14a3d34b4f76f50c23?utm_campaign=1058&utm_source=git)** | DeRidder LA, DeRidder, LA, US | On Site | May 01 |
-| **[Carboline](https://www.carboline.com)** | **[IT Intern](https://jobright.ai/jobs/info/69bf193a482822729301c2ad?utm_campaign=1058&utm_source=git)** | St Louis, MO | On Site | May 01 |
-| **[Hyatt](http://www.hyatt.com/)** | **[Summer 2026 - College Intern - Front Desk](https://jobright.ai/jobs/info/69679305f25a38006695e855?utm_campaign=1058&utm_source=git)** | San Antonio, TX | On Site | May 01 |
-| **[AMERISAFE, Inc.](http://www.amerisafe.com/site.php)** | **[IT Intern](https://jobright.ai/jobs/info/69f4bb780b36ff035474ea5d?utm_campaign=1058&utm_source=git)** | De Ridder, LA | On Site | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
