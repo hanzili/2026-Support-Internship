@@ -57,10 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY/PHARMACIST-INTERN](https://jobright.ai/jobs/info/69ec32dd0a6e09555304d1b4?utm_campaign=1058&utm_source=git)** | Aurora, CO | On Site | May 01 |
 | **[FlatironDragados](https://www.fdcorp.com)** | **[IT Intern](https://jobright.ai/jobs/info/69f565c881706a5bd21661d6?utm_campaign=1058&utm_source=git)** | Whitestone, NY | On Site | May 01 |
 | **[Xometry](https://www.xometry.com)** | **[Customer Support Intern](https://jobright.ai/jobs/info/695dc344efe5dd5cbd3d9d49?utm_campaign=1058&utm_source=git)** | Lexington, KY | Hybrid | May 01 |
 | **[Mohegan Sun](http://www.mohegansun.com)** | **[Seasonal Intern](https://jobright.ai/jobs/info/69f556c8db88714bcdfb34fd?utm_campaign=1058&utm_source=git)** | Uncasville, CT | On Site | May 01 |
+| **[SPC Construction](http://www.SPCco.com)** | **[IT Intern](https://jobright.ai/jobs/info/69f56f8281706a5bd2166380?utm_campaign=1058&utm_source=git)** | Whitestone, NY | On Site | May 01 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Intern I - High School](https://jobright.ai/jobs/info/69f55149a3d34b4f76f54b27?utm_campaign=1058&utm_source=git)** | San Jose, CA | On Site | May 01 |
+| **[Newington Public Schools](http://www.npsct.org/)** | **[Information Technology Internship Program](https://jobright.ai/jobs/info/69f572240b36ff03547520c5?utm_campaign=1058&utm_source=git)** | Newington, CT | On Site | May 01 |
 | **[Veolia | North America](http://growingblue.com/)** | **[Customer Service Intern](https://jobright.ai/jobs/info/69f009e54b0fa35a7078d844?utm_campaign=1058&utm_source=git)** | New Rochelle, NY | On Site | May 01 |
 | **[Hartford HealthCare](https://hartfordhealthcare.org)** | **[Student Intern](https://jobright.ai/jobs/info/69f53c6643a25828a8d17ffc?utm_campaign=1058&utm_source=git)** | Farmington, CT | On Site | May 01 |
 | **[City of Greater Sudbury](https://www.greatersudbury.ca/)** | **[Citizen Service Representative (Including Library Services)](https://jobright.ai/jobs/info/69f53c1b0b36ff03547514f0?utm_campaign=1058&utm_source=git)** | Greater Sudbury, Ontario, Canada | On Site | May 01 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[MountainView Regional Medical Center](https://www.mountainviewregional.com/)** | **[Nurse Intern](https://jobright.ai/jobs/info/69f4240bc78b9e45189596e1?utm_campaign=1058&utm_source=git)** | Las Cruces, NM | On Site | Apr 30 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Imaging Intern](https://jobright.ai/jobs/info/69f4233c461b9b613a625a8a?utm_campaign=1058&utm_source=git)** | Milwaukee, WI | On Site | Apr 30 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/69f41e3cc78b9e4518959473?utm_campaign=1058&utm_source=git)** | Johnson City, TN | On Site | Apr 30 |
-| **[Harmony United Psychiatric Care](https://hupcfl.com)** | **[Psychiatric Office Assistant Internship/Outpatient Clinic (Certification Program)/Orlando](https://jobright.ai/jobs/info/69f42a65343eef4fb0aa0107?utm_campaign=1058&utm_source=git)** | Orlando, FL | On Site | Apr 30 |
-| ↳ | **[Psychiatric Office Assistant Internship/Outpatient Clinic (Certification Program)/Coral Gables](https://jobright.ai/jobs/info/69f42a66343eef4fb0aa011e?utm_campaign=1058&utm_source=git)** | Coral Gables, FL | On Site | Apr 30 |
-| **[Central Ohio Urology Group](http://www.centralohiourology.com/)** | **[Clinical Research Assistant - Intern](https://jobright.ai/jobs/info/69f42a10c78b9e45189598ea?utm_campaign=1058&utm_source=git)** | Gahanna, OH | On Site | Apr 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
