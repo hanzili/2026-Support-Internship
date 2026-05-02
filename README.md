@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Xometry](https://www.xometry.com)** | **[Case Management Intern](https://jobright.ai/jobs/info/6943e68d94730b7398771073?utm_campaign=1058&utm_source=git)** | Lexington, KY | Hybrid | May 02 |
 | **[Indie Campers](https://indiecampers.com/)** | **[Tourism & Operations Internship](https://jobright.ai/jobs/info/69e652ca3aa0c479643934de?utm_campaign=1058&utm_source=git)** | Palma Depot | On Site | May 02 |
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Enterprise Platforms Intern](https://jobright.ai/jobs/info/69f65391b1fc847fc1ae3048?utm_campaign=1058&utm_source=git)** | United States-Massachusetts-Chelsea-200 Arlington Street | Hybrid | May 02 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Summer Intern - Child Support - Northern Region - Woburn Location](https://jobright.ai/jobs/info/69f65391b1fc847fc1ae3049?utm_campaign=1058&utm_source=git)** | United States-Massachusetts-Woburn-100 Trade Ctr Suite 760 | On Site | May 02 |
@@ -82,8 +83,8 @@ For a complete list, click the following sortable link below:
 | **[Epiroc](https://www.epirocgroup.com/en)** | **[Intern - Technical Information Services](https://jobright.ai/jobs/info/691b8157bcdbf3560c9df7ff?utm_campaign=1058&utm_source=git)** | Garland, TX | On Site | May 02 |
 | **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/69f63a90582f810f9c8c87d2?utm_campaign=1058&utm_source=git)** | Katy, TX | On Site | May 02 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69f63990b1fc847fc1ae2aa0?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | May 02 |
-| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69f63a8881706a5bd216854c?utm_campaign=1058&utm_source=git)** | Boca Raton, FL | On Site | May 02 |
 | ↳ | **[Pharmacy Graduate Intern (Non-US Education)](https://jobright.ai/jobs/info/69f6495d0b36ff0354754a00?utm_campaign=1058&utm_source=git)** | Greensboro, NC | On Site | May 02 |
+| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69f63a8881706a5bd216854c?utm_campaign=1058&utm_source=git)** | Boca Raton, FL | On Site | May 02 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[IS Services & Support Intern (or Co-Op)](https://jobright.ai/jobs/info/69eaa19f4b0fa35a7077589a?utm_campaign=1058&utm_source=git)** | Atlanta, GA | On Site | May 02 |
 | **[Source Intelligence](http://www.sourceintelligence.com/)** | **[Technical Writer Intern](https://jobright.ai/jobs/info/69f60370db88714bcdfb5829?utm_campaign=1058&utm_source=git)** | United States | Remote | May 02 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Intern, Airport Customer Service (ACS) JFK - NYC Above and Below Wing Ambassador (Summer 2026)](https://jobright.ai/jobs/info/69f60236582f810f9c8c7dab?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | May 02 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Methodist Le Bonheur Healthcare](https://www.methodisthealth.org/)** | **[RESPIRATORY STUDENT INTERN](https://jobright.ai/jobs/info/69f4d5b30b36ff035474f79c?utm_campaign=1058&utm_source=git)** | Methodist Le Bonheur Germantown Hospital, US | On Site | May 01 |
 | **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69f4d574db88714bcdfb0740?utm_campaign=1058&utm_source=git)** | New Bedford, MA | On Site | May 01 |
 | **[ALO](https://www.aloyoga.com/)** | **[Digital Intern - Customer Service](https://jobright.ai/jobs/info/697d77e6727747250d5860a5?utm_campaign=1058&utm_source=git)** | Beverly Hills, California, United States | On Site | May 01 |
-| **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69f4d4eb43a25828a8d15425?utm_campaign=1058&utm_source=git)** | Atlanta, GA | On Site | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
