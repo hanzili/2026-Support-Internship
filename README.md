@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[FlatironDragados](https://www.fdcorp.com)** | **[IT Intern](https://jobright.ai/jobs/info/69f565c881706a5bd21661d6?utm_campaign=1058&utm_source=git)** | Whitestone, NY | On Site | May 01 |
+| **[Xometry](https://www.xometry.com)** | **[Customer Support Intern](https://jobright.ai/jobs/info/695dc344efe5dd5cbd3d9d49?utm_campaign=1058&utm_source=git)** | Lexington, KY | Hybrid | May 01 |
 | **[Mohegan Sun](http://www.mohegansun.com)** | **[Seasonal Intern](https://jobright.ai/jobs/info/69f556c8db88714bcdfb34fd?utm_campaign=1058&utm_source=git)** | Uncasville, CT | On Site | May 01 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Intern I - High School](https://jobright.ai/jobs/info/69f55149a3d34b4f76f54b27?utm_campaign=1058&utm_source=git)** | San Jose, CA | On Site | May 01 |
+| **[Veolia | North America](http://growingblue.com/)** | **[Customer Service Intern](https://jobright.ai/jobs/info/69f009e54b0fa35a7078d844?utm_campaign=1058&utm_source=git)** | New Rochelle, NY | On Site | May 01 |
 | **[Hartford HealthCare](https://hartfordhealthcare.org)** | **[Student Intern](https://jobright.ai/jobs/info/69f53c6643a25828a8d17ffc?utm_campaign=1058&utm_source=git)** | Farmington, CT | On Site | May 01 |
 | **[City of Greater Sudbury](https://www.greatersudbury.ca/)** | **[Citizen Service Representative (Including Library Services)](https://jobright.ai/jobs/info/69f53c1b0b36ff03547514f0?utm_campaign=1058&utm_source=git)** | Greater Sudbury, Ontario, Canada | On Site | May 01 |
 | ↳ | **[Citizen Service Representative (including Library Services)](https://jobright.ai/jobs/info/69f53bc812f2811ab5a63efc?utm_campaign=1058&utm_source=git)** | Greater Sudbury, Ontario, Canada | On Site | May 01 |
@@ -86,8 +89,8 @@ For a complete list, click the following sortable link below:
 | **[Young Americans for Liberty](https://yaliberty.org/)** | **[Technology & Operations Intern (Volunteer/Scholarship)](https://jobright.ai/jobs/info/69f51e0243a25828a8d17106?utm_campaign=1058&utm_source=git)** | United States | Remote | May 01 |
 | **[Applied Concepts, Inc.](https://www.stalkerradar.com/)** | **[Technical Writer Internship](https://jobright.ai/jobs/info/69f51c51a3d34b4f76f53b37?utm_campaign=1058&utm_source=git)** | Richardson, TX | On Site | May 01 |
 | **[Southworth](http://southworthproducts.com)** | **[IT Intern](https://jobright.ai/jobs/info/69f4fb2143a25828a8d15ee1?utm_campaign=1058&utm_source=git)** | Manila, AR | On Site | May 01 |
-| **[Crescent Hotels & Resorts](https://www.crescenthotels.com)** | **[HOSPITALITY SUMMER INTERN](https://jobright.ai/jobs/info/69f53a34db88714bcdfb2e72?utm_campaign=1058&utm_source=git)** | Tulsa, OK | On Site | May 01 |
-| ↳ | **[FRONT DESK AGENT - INTERNSHIP](https://jobright.ai/jobs/info/69f53a3f81706a5bd2165989?utm_campaign=1058&utm_source=git)** | Columbus, OH | On Site | May 01 |
+| **[Crescent Hotels & Resorts](https://www.crescenthotels.com)** | **[FRONT DESK AGENT - INTERNSHIP](https://jobright.ai/jobs/info/69f53a3f81706a5bd2165989?utm_campaign=1058&utm_source=git)** | Columbus, OH | On Site | May 01 |
+| ↳ | **[HOSPITALITY SUMMER INTERN](https://jobright.ai/jobs/info/69f53a34db88714bcdfb2e72?utm_campaign=1058&utm_source=git)** | Tulsa, OK | On Site | May 01 |
 | **[Longevity Holdings, Inc.](https://longevity.inc/)** | **[Technical Documentation Intern](https://jobright.ai/jobs/info/69f4f2af0b36ff035474fdf0?utm_campaign=1058&utm_source=git)** | Minneapolis, MN | Hybrid | May 01 |
 | **[ServiceSource](https://www.servicesource.org)** | **[Information Technology Intern](https://jobright.ai/jobs/info/69f4f2100b36ff035474fdad?utm_campaign=1058&utm_source=git)** | Oakton, VA | On Site | May 01 |
 | **[TotalEnergies](https://ventures.totalenergies.com)** | **[IT Communications and Technical Analyst Intern](https://jobright.ai/jobs/info/69d82ae9b861c42857c492eb?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | May 01 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Harmony United Psychiatric Care](https://hupcfl.com)** | **[Psychiatric Office Assistant Internship/Outpatient Clinic (Certification Program)/Orlando](https://jobright.ai/jobs/info/69f42a65343eef4fb0aa0107?utm_campaign=1058&utm_source=git)** | Orlando, FL | On Site | Apr 30 |
 | ↳ | **[Psychiatric Office Assistant Internship/Outpatient Clinic (Certification Program)/Coral Gables](https://jobright.ai/jobs/info/69f42a66343eef4fb0aa011e?utm_campaign=1058&utm_source=git)** | Coral Gables, FL | On Site | Apr 30 |
 | **[Central Ohio Urology Group](http://www.centralohiourology.com/)** | **[Clinical Research Assistant - Intern](https://jobright.ai/jobs/info/69f42a10c78b9e45189598ea?utm_campaign=1058&utm_source=git)** | Gahanna, OH | On Site | Apr 30 |
-| **[The Wonderful Company](http://www.wonderful.com/)** | **[Wonderful Scholar Summer Internship, Community Fitness Center](https://jobright.ai/jobs/info/69f407511f90bd6ae23d3632?utm_campaign=1058&utm_source=git)** | Lost Hills, CA | On Site | Apr 30 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/69f405bf343eef4fb0a9f91a?utm_campaign=1058&utm_source=git)** | Broomall, PA | On Site | Apr 30 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69f405ae343eef4fb0a9f8d7?utm_campaign=1058&utm_source=git)** | Mount Pleasant, SC | On Site | Apr 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
