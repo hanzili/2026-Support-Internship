@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Atlas Copco](https://www.atlascopcogroup.com)** | **[Customer Service Intern](https://jobright.ai/jobs/info/69f58c8812f2811ab5a65013?utm_campaign=1058&utm_source=git)** | Saginaw-Midland-BC Area | On Site | May 01 |
+| **[Metropolitan Transportation Authority](https:/mta.info/)** | **[IT Client Support, Technology & Engineer Fellow (Fall)](https://jobright.ai/jobs/info/69f5a02243a25828a8d19367?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | May 01 |
+| ↳ | **[Customer Feedback Analyst – Bus Location Information, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69f5a0570b36ff035475299e?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | May 01 |
 | **[Priority1](http://priority1inc.com)** | **[Intern](https://jobright.ai/jobs/info/69f57cf981706a5bd2166916?utm_campaign=1058&utm_source=git)** | Little Rock, AR | On Site | May 01 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY/PHARMACIST-INTERN](https://jobright.ai/jobs/info/69ec32dd0a6e09555304d1b4?utm_campaign=1058&utm_source=git)** | Aurora, CO | On Site | May 01 |
 | **[SiteOne Landscape Supply](http://www.shemin.net)** | **[Intern](https://jobright.ai/jobs/info/69f58cb60b36ff0354752707?utm_campaign=1058&utm_source=git)** | Willow Park, TX | On Site | May 01 |
@@ -97,7 +98,6 @@ For a complete list, click the following sortable link below:
 | **[Applied Concepts, Inc.](https://www.stalkerradar.com/)** | **[Technical Writer Internship](https://jobright.ai/jobs/info/69f51c51a3d34b4f76f53b37?utm_campaign=1058&utm_source=git)** | Richardson, TX | On Site | May 01 |
 | **[Southworth](http://southworthproducts.com)** | **[IT Intern](https://jobright.ai/jobs/info/69f4fb2143a25828a8d15ee1?utm_campaign=1058&utm_source=git)** | Manila, AR | On Site | May 01 |
 | **[Crescent Hotels & Resorts](https://www.crescenthotels.com)** | **[HOSPITALITY SUMMER INTERN](https://jobright.ai/jobs/info/69f53a34db88714bcdfb2e72?utm_campaign=1058&utm_source=git)** | Tulsa, OK | On Site | May 01 |
-| ↳ | **[FRONT DESK AGENT - INTERNSHIP](https://jobright.ai/jobs/info/69f53a3f81706a5bd2165989?utm_campaign=1058&utm_source=git)** | Columbus, OH | On Site | May 01 |
 | **[Longevity Holdings, Inc.](https://longevity.inc/)** | **[Technical Documentation Intern](https://jobright.ai/jobs/info/69f4f2af0b36ff035474fdf0?utm_campaign=1058&utm_source=git)** | Minneapolis, MN | Hybrid | May 01 |
 | **[ServiceSource](https://www.servicesource.org)** | **[Information Technology Intern](https://jobright.ai/jobs/info/69f4f2100b36ff035474fdad?utm_campaign=1058&utm_source=git)** | Oakton, VA | On Site | May 01 |
 | **[TotalEnergies](https://ventures.totalenergies.com)** | **[IT Communications and Technical Analyst Intern](https://jobright.ai/jobs/info/69d82ae9b861c42857c492eb?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | May 01 |
@@ -116,7 +116,6 @@ For a complete list, click the following sortable link below:
 | **[ALO](https://www.aloyoga.com/)** | **[Digital Intern - Customer Service](https://jobright.ai/jobs/info/697d77e6727747250d5860a5?utm_campaign=1058&utm_source=git)** | Beverly Hills, California, United States | On Site | May 01 |
 | **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69f4d4eb43a25828a8d15425?utm_campaign=1058&utm_source=git)** | Atlanta, GA | On Site | May 01 |
 | **[Global Medical Response](https://www.globalmedicalresponse.com)** | **[IT Field Support Technician](https://jobright.ai/jobs/info/69f4fb8e43a25828a8d15f48?utm_campaign=1058&utm_source=git)** | San Diego, CA | On Site | May 01 |
-| **[Boston Athenaeum](https://www.bostonathenaeum.org/)** | **[Reader Services Intern](https://jobright.ai/jobs/info/69f4d437a3d34b4f76f51e72?utm_campaign=1058&utm_source=git)** | Boston, MA, US | On Site | May 01 |
 | **[Synopsys Inc](http://www.synopsys.com)** | **[Technical Writing Internship](https://jobright.ai/jobs/info/69f4f2ab43a25828a8d15e01?utm_campaign=1058&utm_source=git)** | Canonsburg, PA | On Site | May 01 |
 | **[Genesis Energy, L.P.](https://www.genesisenergy.com/)** | **[Intern](https://jobright.ai/jobs/info/69f4ccf00b36ff035474f06e?utm_campaign=1058&utm_source=git)** | Houston, TX, USA | On Site | May 01 |
 | **[The Preservation Society of Newport County](https://www.newportmansions.org)** | **[Membership Assistant Summer Intern](https://jobright.ai/jobs/info/69f4ccea0b36ff035474f053?utm_campaign=1058&utm_source=git)** | Newport,RI,US | On Site | May 01 |
@@ -139,6 +138,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69f58cbf81706a5bd2166a7d?utm_campaign=1058&utm_source=git)** | Charlotte Hall, MD | On Site | May 01 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69f58cbe12f2811ab5a6506c?utm_campaign=1058&utm_source=git)** | Huntersville, NC | On Site | May 01 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69f58cc081706a5bd2166a89?utm_campaign=1058&utm_source=git)** | Hephzibah, GA | On Site | May 01 |
+| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69f5a84d43a25828a8d19541?utm_campaign=1058&utm_source=git)** | Happy Valley, OR | On Site | May 01 |
 | **[Menorah Medical Center](http://menorahmedicalcenter.com)** | **[Pharmacist Intern PRN](https://jobright.ai/jobs/info/69d877c1b861c42857c4adec?utm_campaign=1058&utm_source=git)** | Overland Park, KS | On Site | May 01 |
 | **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69f552430b36ff0354751955?utm_campaign=1058&utm_source=git)** | Needham, MA | On Site | May 01 |
 | **[Council Member Mario Castillo](https://www.houstontx.gov/council/h/index.html)** | **[Paid Intern](https://jobright.ai/jobs/info/69f4ec02db88714bcdfb0c16?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | May 01 |
