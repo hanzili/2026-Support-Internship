@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mohegan Sun](http://www.mohegansun.com)** | **[Seasonal Intern](https://jobright.ai/jobs/info/69f556c8db88714bcdfb34fd?utm_campaign=1058&utm_source=git)** | Uncasville, CT | On Site | May 01 |
+| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Intern I - High School](https://jobright.ai/jobs/info/69f55149a3d34b4f76f54b27?utm_campaign=1058&utm_source=git)** | San Jose, CA | On Site | May 01 |
 | **[Hartford HealthCare](https://hartfordhealthcare.org)** | **[Student Intern](https://jobright.ai/jobs/info/69f53c6643a25828a8d17ffc?utm_campaign=1058&utm_source=git)** | Farmington, CT | On Site | May 01 |
 | **[City of Greater Sudbury](https://www.greatersudbury.ca/)** | **[Citizen Service Representative (Including Library Services)](https://jobright.ai/jobs/info/69f53c1b0b36ff03547514f0?utm_campaign=1058&utm_source=git)** | Greater Sudbury, Ontario, Canada | On Site | May 01 |
 | ↳ | **[Citizen Service Representative (including Library Services)](https://jobright.ai/jobs/info/69f53bc812f2811ab5a63efc?utm_campaign=1058&utm_source=git)** | Greater Sudbury, Ontario, Canada | On Site | May 01 |
@@ -68,8 +70,10 @@ For a complete list, click the following sortable link below:
 | **[Houston City College](http://www.hccs.edu/)** | **[Student Intern, Entrepreneurial Initiatives (Grant Funded) Staff Pool](https://jobright.ai/jobs/info/69f5303d43a25828a8d17b35?utm_campaign=1058&utm_source=git)** | Houston, Texas, System Wide | On Site | May 01 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Customer Feedback Analyst – Bus Location Information, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69f53017db88714bcdfb2a4e?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | May 01 |
 | **[Transfinder](http://www.transfinder.com/)** | **[Client Services Intern - Calling '27-'28 grads!](https://jobright.ai/jobs/info/69f522e3db88714bcdfb2342?utm_campaign=1058&utm_source=git)** | Schenectady, NY | On Site | May 01 |
+| **[KIPP Capital Region Public Schools](http://www.kippcapital.org)** | **[Information Technology (IT) Intern](https://jobright.ai/jobs/info/69f55146a3d34b4f76f54b1e?utm_campaign=1058&utm_source=git)** | Albany, NY | On Site | May 01 |
 | **[New Jersey Courts](https://www.njcourts.gov/)** | **[Paid Student Intern (Multiple Divisions)](https://jobright.ai/jobs/info/69f51dffdb88714bcdfb2214?utm_campaign=1058&utm_source=git)** | Freehold, NJ | On Site | May 01 |
 | **[PACCAR Parts](http://www.paccarparts.com/)** | **[Summer Internship - IT Applications](https://jobright.ai/jobs/info/69f51c6aa3d34b4f76f53ba6?utm_campaign=1058&utm_source=git)** | Renton, WA | On Site | May 01 |
+| **[York County, Virginia](http://www.yorkcounty.gov)** | **[Intern (WAR/Part-Time) (Information Technology)](https://jobright.ai/jobs/info/69f54cd6db88714bcdfb3248?utm_campaign=1058&utm_source=git)** | Yorktown, VA | On Site | May 01 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY/PHARMACIST-INTERN](https://jobright.ai/jobs/info/69ebfc0d58811370cb13e074?utm_campaign=1058&utm_source=git)** | Aurora, CO | On Site | May 01 |
 | ↳ | **[PHARMACY/PHARMACIST-INTERN](https://jobright.ai/jobs/info/69ec32cd4b0fa35a7078145a?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | May 01 |
 | **[Young Americans for Liberty](https://yaliberty.org/)** | **[Technology & Operations Intern (Volunteer/Scholarship)](https://jobright.ai/jobs/info/69f50f64db88714bcdfb1ce5?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | May 01 |
@@ -120,6 +124,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69f4ebab12f2811ab5a61d3a?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | May 01 |
 | **[Boston Athenaeum](https://www.bostonathenaeum.org/)** | **[Reader Services Intern](https://jobright.ai/jobs/info/69f4e9db43a25828a8d15bb5?utm_campaign=1058&utm_source=git)** | Boston, MA | On Site | May 01 |
 | **[Charles Schwab](https://www.schwab.com/)** | **[Client Services Part Time Internship](https://jobright.ai/jobs/info/69f4e48f81706a5bd2163bc8?utm_campaign=1058&utm_source=git)** | Westlake, TX | On Site | May 01 |
+| **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69f552430b36ff0354751955?utm_campaign=1058&utm_source=git)** | Needham, MA | On Site | May 01 |
 | **[Council Member Mario Castillo](https://www.houstontx.gov/council/h/index.html)** | **[Paid Intern](https://jobright.ai/jobs/info/69f4ec02db88714bcdfb0c16?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | May 01 |
 | **[ServiceSource](https://www.servicesource.org)** | **[Information Technology Intern](https://jobright.ai/jobs/info/69f4bb4143a25828a8d146c5?utm_campaign=1058&utm_source=git)** | Oakton-VA, US | On Site | May 01 |
 | **[Fortra](https://www.fortra.com)** | **[Technical Support Intern](https://jobright.ai/jobs/info/69d82b48869c7e25d8594354?utm_campaign=1058&utm_source=git)** | United States | Remote | May 01 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Wonderful Company](http://www.wonderful.com/)** | **[Wonderful Scholar Summer Internship, Community Fitness Center](https://jobright.ai/jobs/info/69f407511f90bd6ae23d3632?utm_campaign=1058&utm_source=git)** | Lost Hills, CA | On Site | Apr 30 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/69f405bf343eef4fb0a9f91a?utm_campaign=1058&utm_source=git)** | Broomall, PA | On Site | Apr 30 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69f405ae343eef4fb0a9f8d7?utm_campaign=1058&utm_source=git)** | Mount Pleasant, SC | On Site | Apr 30 |
-| **[St. Luke's Hospital](https://www.stlukes-stl.com/)** | **[Student Nurse Intern](https://jobright.ai/jobs/info/69f40571c78b9e4518959102?utm_campaign=1058&utm_source=git)** | Chesterfield, MO | On Site | Apr 30 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69f404e86942c746fa69661b?utm_campaign=1058&utm_source=git)** | Toms River, NJ | On Site | Apr 30 |
-| **[BSA Health System](https://bsahs.org/)** | **[Clinical Intern ECHO](https://jobright.ai/jobs/info/69f423fe461b9b613a625be5?utm_campaign=1058&utm_source=git)** | Amarillo, TX | On Site | Apr 30 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69f400ddc78b9e4518958f4e?utm_campaign=1058&utm_source=git)** | Beachwood, NJ | On Site | Apr 30 |
-| ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/69f400a9c78b9e4518958f4a?utm_campaign=1058&utm_source=git)** | Wayne, PA | On Site | Apr 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
