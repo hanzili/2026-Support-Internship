@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CooperSurgical](http://www.coopersurgical.com)** | **[Service & Repair, Fertility Intern](https://jobright.ai/jobs/info/69bdb8b8393a1008f7432bd1?utm_campaign=1058&utm_source=git)** | Livingston, NJ | On Site | May 03 |
+| **[Magna International](http://www.magna.com/)** | **[IT Intern - Summer 2026](https://jobright.ai/jobs/info/696ab548350cf4380311bba2?utm_campaign=1058&utm_source=git)** | Troy, MI | On Site | May 03 |
 | **[Ochsner Health](https://www.ochsner.org/)** | **[Summer Laboratory Intern](https://jobright.ai/jobs/info/69f746850b36ff0354757986?utm_campaign=1058&utm_source=git)** | New Orleans, LA | On Site | May 03 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[IS Services & Support Intern (or Co-Op)](https://jobright.ai/jobs/info/69efe7a4fbe0994a40eb9466?utm_campaign=1058&utm_source=git)** | Reston, VA | On Site | May 03 |
 | **[ETS-Lindgren](http://www.ets-lindgren.com/)** | **[Technical Writer Intern](https://jobright.ai/jobs/info/69c0c9f12c312363dcd33d38?utm_campaign=1058&utm_source=git)** | Greater Chicago Area | On Site | May 03 |
@@ -98,8 +100,8 @@ For a complete list, click the following sortable link below:
 | **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/69f63a90582f810f9c8c87d2?utm_campaign=1058&utm_source=git)** | Katy, TX | On Site | May 02 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69f63990b1fc847fc1ae2aa0?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | May 02 |
 | ↳ | **[Pharmacy Graduate Intern (Non-US Education)](https://jobright.ai/jobs/info/69f678a5a3d34b4f76f588fc?utm_campaign=1058&utm_source=git)** | Nashville, TN | On Site | May 02 |
-| ↳ | **[Pharmacy Graduate Intern (Non-US Education)](https://jobright.ai/jobs/info/69f6495d0b36ff0354754a00?utm_campaign=1058&utm_source=git)** | Greensboro, NC | On Site | May 02 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69f63a8881706a5bd216854c?utm_campaign=1058&utm_source=git)** | Boca Raton, FL | On Site | May 02 |
+| ↳ | **[Pharmacy Graduate Intern (Non-US Education)](https://jobright.ai/jobs/info/69f6495d0b36ff0354754a00?utm_campaign=1058&utm_source=git)** | Greensboro, NC | On Site | May 02 |
 | ↳ | **[Pharmacy Graduate Intern (Non-US Education)](https://jobright.ai/jobs/info/69f6824181706a5bd21696ee?utm_campaign=1058&utm_source=git)** | Morro Bay, CA | On Site | May 02 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[IS Services & Support Intern (or Co-Op)](https://jobright.ai/jobs/info/69eaa19f4b0fa35a7077589a?utm_campaign=1058&utm_source=git)** | Atlanta, GA | On Site | May 02 |
 | **[Promed Management Resources In](http://jobs.promedstaffingresources.com/)** | **[Tech - MRI](https://jobright.ai/jobs/info/69f69047b1fc847fc1ae3f5d?utm_campaign=1058&utm_source=git)** | Rockford, IL | On Site | May 02 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Methodist Le Bonheur Healthcare](https://www.methodisthealth.org/)** | **[RESPIRATORY STUDENT INTERN](https://jobright.ai/jobs/info/69f529ec81706a5bd2165263?utm_campaign=1058&utm_source=git)** | Memphis, TN | On Site | May 01 |
 | **[Boldyn Networks](http://www.mobilitie.com)** | **[Convention Center Support Technician Intern](https://jobright.ai/jobs/info/69f5291981706a5bd2165076?utm_campaign=1058&utm_source=git)** | Greater Cleveland | On Site | May 01 |
 | **[ACERTUS](https://acertusdelivers.com/)** | **[Intern](https://jobright.ai/jobs/info/69f5233912f2811ab5a63353?utm_campaign=1058&utm_source=git)** | Hillside, IL | On Site | May 01 |
-| **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[J1 F&B Internship](https://jobright.ai/jobs/info/69f5012612f2811ab5a62514?utm_campaign=1058&utm_source=git)** | Omni Oklahoma City Hotel, 100 W Oklahoma City Blvd, Oklahoma City, Oklahoma, United States of America | On Site | May 01 |
-| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Intern I - High School](https://jobright.ai/jobs/info/69f5004e43a25828a8d162de?utm_campaign=1058&utm_source=git)** | Oakland, CA | On Site | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
