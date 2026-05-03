@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Schweitzer](http://schweitzer.com)** | **[Host - Sky House *Returning Staff ONLY* 2026 Summer Season](https://jobright.ai/jobs/info/69f6a46ab1fc847fc1ae4338?utm_campaign=1058&utm_source=git)** | Sandpoint, ID | On Site | May 02 |
 | **[Nuvance Health](https://www.nuvancehealth.org)** | **[Medical Assistant Intern - Float Pool Region C](https://jobright.ai/jobs/info/69f69a0e81706a5bd2169f41?utm_campaign=1058&utm_source=git)** | Danbury, CT | On Site | May 02 |
 | **[Fry's Food and Drug](http://www.frysfood.com)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/69f69a04b1fc847fc1ae408c?utm_campaign=1058&utm_source=git)** | Phoenix, AZ | On Site | May 02 |
 | ↳ | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/69f69982a3d34b4f76f5941e?utm_campaign=1058&utm_source=git)** | Goodyear, AZ | On Site | May 02 |
@@ -72,6 +73,7 @@ For a complete list, click the following sortable link below:
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Enterprise Platforms Intern](https://jobright.ai/jobs/info/69f65236a3d34b4f76f58344?utm_campaign=1058&utm_source=git)** | United States-Massachusetts-Chelsea-200 Arlington Street | Hybrid | May 02 |
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[M365 and Directory Services Intern](https://jobright.ai/jobs/info/69f65225db88714bcdfb60f1?utm_campaign=1058&utm_source=git)** | United States-Massachusetts-Chelsea-200 Arlington Street | Hybrid | May 02 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Customer Engagement Advisory](https://jobright.ai/jobs/info/69ea8066dc35f7132c4aaa92?utm_campaign=1058&utm_source=git)** | Newtown Square, PA | On Site | May 02 |
+| **[NAVY EXCHANGE SERVICE COMMAND (NEXCOM)](https://www.mynavyexchange.com)** | **[LEAD CALL CENTER CUSTOMER SERVICE REPRESENTATIVE](https://jobright.ai/jobs/info/69f6a55681706a5bd216a0c0?utm_campaign=1058&utm_source=git)** | Virginia Beach, VA | On Site | May 02 |
 | **[KW PROPERTY MANAGEMENT AND CONSULTING](https://kwpmc.com/)** | **[Corporate Intern](https://jobright.ai/jobs/info/69bdc56d393a1008f743534f?utm_campaign=1058&utm_source=git)** | Miami, FL | On Site | May 02 |
 | **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69f6202cdb88714bcdfb5b10?utm_campaign=1058&utm_source=git)** | Richmond Hill, GA | On Site | May 02 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69f6200fdb88714bcdfb5ae4?utm_campaign=1058&utm_source=git)** | Shelby, NC | On Site | May 02 |
@@ -89,8 +91,8 @@ For a complete list, click the following sortable link below:
 | **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/69f63a90582f810f9c8c87d2?utm_campaign=1058&utm_source=git)** | Katy, TX | On Site | May 02 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69f63990b1fc847fc1ae2aa0?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | May 02 |
 | ↳ | **[Pharmacy Graduate Intern (Non-US Education)](https://jobright.ai/jobs/info/69f678a5a3d34b4f76f588fc?utm_campaign=1058&utm_source=git)** | Nashville, TN | On Site | May 02 |
-| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69f63a8881706a5bd216854c?utm_campaign=1058&utm_source=git)** | Boca Raton, FL | On Site | May 02 |
 | ↳ | **[Pharmacy Graduate Intern (Non-US Education)](https://jobright.ai/jobs/info/69f6495d0b36ff0354754a00?utm_campaign=1058&utm_source=git)** | Greensboro, NC | On Site | May 02 |
+| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69f63a8881706a5bd216854c?utm_campaign=1058&utm_source=git)** | Boca Raton, FL | On Site | May 02 |
 | ↳ | **[Pharmacy Graduate Intern (Non-US Education)](https://jobright.ai/jobs/info/69f6824181706a5bd21696ee?utm_campaign=1058&utm_source=git)** | Morro Bay, CA | On Site | May 02 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[IS Services & Support Intern (or Co-Op)](https://jobright.ai/jobs/info/69eaa19f4b0fa35a7077589a?utm_campaign=1058&utm_source=git)** | Atlanta, GA | On Site | May 02 |
 | **[Promed Management Resources In](http://jobs.promedstaffingresources.com/)** | **[Tech - MRI](https://jobright.ai/jobs/info/69f69047b1fc847fc1ae3f5d?utm_campaign=1058&utm_source=git)** | Rockford, IL | On Site | May 02 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Ohio State University Wexner Medical Center](http://wexnermedical.osu.edu/)** | **[Student Intern, Imaging Services](https://jobright.ai/jobs/info/69f51fa143a25828a8d171e0?utm_campaign=1058&utm_source=git)** | Lewis Center, OH | On Site | May 01 |
 | **[Smilow Cancer Hospital](https://www.ynhh.org/smilow.aspx)** | **[Pharmacy Intern Central Operations](https://jobright.ai/jobs/info/69f5e418a3d34b4f76f56daa?utm_campaign=1058&utm_source=git)** | New Haven, CT | On Site | May 01 |
 | **[Children's Hospital Colorado](https://www.childrenscolorado.org)** | **[Pharmacy Intern North South Float PRN](https://jobright.ai/jobs/info/69d81005738f2f099e89a81e?utm_campaign=1058&utm_source=git)** | Broomfield, CO | On Site | May 01 |
-| **[Foreign Policy](http://www.foreignpolicy.com/)** | **[Customer Support Intern](https://jobright.ai/jobs/info/69f506480b36ff035475034d?utm_campaign=1058&utm_source=git)** | United States | Remote | May 01 |
-| **[Fulcrum GT](https://fulcrumgt.com)** | **[IT Support Junior Associate 2026](https://jobright.ai/jobs/info/69f500c881706a5bd216430d?utm_campaign=1058&utm_source=git)** | Schaumburg, IL | On Site | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
