@@ -96,8 +96,8 @@ For a complete list, click the following sortable link below:
 | **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/69f63a90582f810f9c8c87d2?utm_campaign=1058&utm_source=git)** | Katy, TX | On Site | May 02 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69f63990b1fc847fc1ae2aa0?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | May 02 |
 | ↳ | **[Pharmacy Graduate Intern (Non-US Education)](https://jobright.ai/jobs/info/69f678a5a3d34b4f76f588fc?utm_campaign=1058&utm_source=git)** | Nashville, TN | On Site | May 02 |
-| ↳ | **[Pharmacy Graduate Intern (Non-US Education)](https://jobright.ai/jobs/info/69f6495d0b36ff0354754a00?utm_campaign=1058&utm_source=git)** | Greensboro, NC | On Site | May 02 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69f63a8881706a5bd216854c?utm_campaign=1058&utm_source=git)** | Boca Raton, FL | On Site | May 02 |
+| ↳ | **[Pharmacy Graduate Intern (Non-US Education)](https://jobright.ai/jobs/info/69f6495d0b36ff0354754a00?utm_campaign=1058&utm_source=git)** | Greensboro, NC | On Site | May 02 |
 | ↳ | **[Pharmacy Graduate Intern (Non-US Education)](https://jobright.ai/jobs/info/69f6824181706a5bd21696ee?utm_campaign=1058&utm_source=git)** | Morro Bay, CA | On Site | May 02 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[IS Services & Support Intern (or Co-Op)](https://jobright.ai/jobs/info/69eaa19f4b0fa35a7077589a?utm_campaign=1058&utm_source=git)** | Atlanta, GA | On Site | May 02 |
 | **[Promed Management Resources In](http://jobs.promedstaffingresources.com/)** | **[Tech - MRI](https://jobright.ai/jobs/info/69f69047b1fc847fc1ae3f5d?utm_campaign=1058&utm_source=git)** | Rockford, IL | On Site | May 02 |
@@ -130,7 +130,7 @@ For a complete list, click the following sortable link below:
 | **[Newington Public Schools](http://www.npsct.org/)** | **[Information Technology Internship Program](https://jobright.ai/jobs/info/69f572240b36ff03547520c5?utm_campaign=1058&utm_source=git)** | Newington, CT | On Site | May 01 |
 | **[Waco Tribune-Herald](http://wacotrib.com)** | **[Test Proctor](https://jobright.ai/jobs/info/69f58cf812f2811ab5a65096?utm_campaign=1058&utm_source=git)** | Visalia, CA | On Site | May 01 |
 | **[Axiom Consultants](https://www.axiom-con.com)** | **[IT Internship](https://jobright.ai/jobs/info/69f58c70db88714bcdfb4051?utm_campaign=1058&utm_source=git)** | Waukesha, WI | On Site | May 01 |
-| **[Veolia | North America](http://growingblue.com/)** | **[Customer Service Intern](https://jobright.ai/jobs/info/69f009e54b0fa35a7078d844?utm_campaign=1058&utm_source=git)** | New Rochelle, NY | On Site | May 01 |
+| **[Veolia | North America](http://www.veolianorthamerica.com/)** | **[Customer Service Intern](https://jobright.ai/jobs/info/69f009e54b0fa35a7078d844?utm_campaign=1058&utm_source=git)** | New Rochelle, NY | On Site | May 01 |
 | **[Hartford HealthCare](https://hartfordhealthcare.org)** | **[Student Intern](https://jobright.ai/jobs/info/69f53c6643a25828a8d17ffc?utm_campaign=1058&utm_source=git)** | Farmington, CT | On Site | May 01 |
 | **[City of Greater Sudbury](https://www.greatersudbury.ca/)** | **[Citizen Service Representative (Including Library Services)](https://jobright.ai/jobs/info/69f53c1b0b36ff03547514f0?utm_campaign=1058&utm_source=git)** | Greater Sudbury, Ontario, Canada | On Site | May 01 |
 | ↳ | **[Citizen Service Representative (including Library Services)](https://jobright.ai/jobs/info/69f53bc812f2811ab5a63efc?utm_campaign=1058&utm_source=git)** | Greater Sudbury, Ontario, Canada | On Site | May 01 |
