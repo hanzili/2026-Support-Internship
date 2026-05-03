@@ -79,8 +79,8 @@ For a complete list, click the following sortable link below:
 | **[KW PROPERTY MANAGEMENT AND CONSULTING](https://kwpmc.com/)** | **[Corporate Intern](https://jobright.ai/jobs/info/69bdc56d393a1008f743534f?utm_campaign=1058&utm_source=git)** | Miami, FL | On Site | May 02 |
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Access Your Future Service Intern](https://jobright.ai/jobs/info/68c0740f8e65e77df55c137f?utm_campaign=1058&utm_source=git)** | Cheyenne, WY | On Site | May 02 |
 | **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69f6202cdb88714bcdfb5b10?utm_campaign=1058&utm_source=git)** | Richmond Hill, GA | On Site | May 02 |
-| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69f6200fdb88714bcdfb5ae5?utm_campaign=1058&utm_source=git)** | Fayetteville, GA | On Site | May 02 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69f6200fdb88714bcdfb5ae4?utm_campaign=1058&utm_source=git)** | Shelby, NC | On Site | May 02 |
+| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69f6200fdb88714bcdfb5ae5?utm_campaign=1058&utm_source=git)** | Fayetteville, GA | On Site | May 02 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69f61f9f0b36ff03547547c2?utm_campaign=1058&utm_source=git)** | Richmond Hill, GA | On Site | May 02 |
 | **[Kent Outdoors](https://kentoutdoors.co/)** | **[Customer Service Representative Internship](https://jobright.ai/jobs/info/69d9d5aef748bc5d08a4e87a?utm_campaign=1058&utm_source=git)** | Bend, OR | On Site | May 02 |
 | **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69f61f820b36ff035475479b?utm_campaign=1058&utm_source=git)** | Norridge, IL | On Site | May 02 |
