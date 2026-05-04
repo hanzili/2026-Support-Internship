@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CAVALLO](https://www.cavallo.com/)** | **[IT Technician Intern](https://jobright.ai/jobs/info/69f9142b582f810f9c8d02a1?utm_campaign=1058&utm_source=git)** | Grand Rapids, Michigan, United States | On Site | May 04 |
+| **[JFK International Air Terminal](https://www.jfkt4.nyc)** | **[Intern, IT & Digital](https://jobright.ai/jobs/info/69f90da20b36ff035475cdfa?utm_campaign=1058&utm_source=git)** | Jamaica, NY | On Site | May 04 |
 | **[Goodshuffle](https://pro.goodshuffle.com)** | **[Customer Experience Intern](https://jobright.ai/jobs/info/69f9017c81706a5bd216fda0?utm_campaign=1058&utm_source=git)** | Washington, DC | On Site | May 04 |
 | **[Xometry](https://www.xometry.com)** | **[IT Service Desk Intern](https://jobright.ai/jobs/info/69acaada2747003c3d524801?utm_campaign=1058&utm_source=git)** | North Bethesda, MD | Hybrid | May 04 |
 | **[DVM Power + Control](https://www.dvmpower.com)** | **[Sales Support Intern](https://jobright.ai/jobs/info/69f8f871582f810f9c8cf827?utm_campaign=1058&utm_source=git)** | 800 E Virginia Avenue, Building 5, West Chester, United States | On Site | May 04 |
@@ -75,6 +77,7 @@ For a complete list, click the following sortable link below:
 | **[Northwell Health](https://www.northwell.edu/)** | **[Rehabilitation Services Intern](https://jobright.ai/jobs/info/69f8bd28582f810f9c8ce07b?utm_campaign=1058&utm_source=git)** | 475 Seaview Avenue, Staten Island, NY, 10305, US | On Site | May 04 |
 | **[MANITOU Group](http://www.manitou-group.com)** | **[Technical Writing Intern.](https://jobright.ai/jobs/info/69dbfcab9f97a42dc9c2f9ef?utm_campaign=1058&utm_source=git)** | West Bend, WI | On Site | May 04 |
 | **[Center for Internet Security](http://cisecurity.org/)** | **[IT Intern - Clifton Park, NY](https://jobright.ai/jobs/info/69f8b40c81706a5bd216df9c?utm_campaign=1058&utm_source=git)** | Clifton Park Office, US | On Site | May 04 |
+| **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Rooms / Omni Cares Internship / Summer 2026](https://jobright.ai/jobs/info/69f90d1d81706a5bd2170296?utm_campaign=1058&utm_source=git)** | Omni La Mansión del Rio, 112 College Street, San Antonio, Texas, United States of America | On Site | May 04 |
 | **[Levin Furniture & Mattress](https://www.levinfurniture.com/)** | **[IT Intern](https://jobright.ai/jobs/info/69f8aabc582f810f9c8cdc95?utm_campaign=1058&utm_source=git)** | Smithton, PA | On Site | May 04 |
 | **[Benchmark Hospitality at DU](http://www.benchmarkhoteldfw.com)** | **[Guest Service Agent Internship-1](https://jobright.ai/jobs/info/69f8a5f60b36ff035475a3e8?utm_campaign=1058&utm_source=git)** | The StateView Hotel, US | On Site | May 04 |
 | **[Wayne Metropolitan Community Action Agency](https://www.waynemetro.org/)** | **[Direct Service Specialist Intern- Unpaid](https://jobright.ai/jobs/info/69f8a2e581706a5bd216d5e1?utm_campaign=1058&utm_source=git)** | Lakeshore Office - Detroit, MI 48202 | Hybrid | May 04 |
@@ -118,8 +121,8 @@ For a complete list, click the following sortable link below:
 | **[KW PROPERTY MANAGEMENT AND CONSULTING](https://kwpmc.com/)** | **[Corporate Intern](https://jobright.ai/jobs/info/69bdc56d393a1008f743534f?utm_campaign=1058&utm_source=git)** | Miami, FL | On Site | May 02 |
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Access Your Future Service Intern](https://jobright.ai/jobs/info/68c0740f8e65e77df55c137f?utm_campaign=1058&utm_source=git)** | Cheyenne, WY | On Site | May 02 |
 | **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69f6202cdb88714bcdfb5b10?utm_campaign=1058&utm_source=git)** | Richmond Hill, GA | On Site | May 02 |
-| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69f6200fdb88714bcdfb5ae4?utm_campaign=1058&utm_source=git)** | Shelby, NC | On Site | May 02 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69f6200fdb88714bcdfb5ae5?utm_campaign=1058&utm_source=git)** | Fayetteville, GA | On Site | May 02 |
+| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69f6200fdb88714bcdfb5ae4?utm_campaign=1058&utm_source=git)** | Shelby, NC | On Site | May 02 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69f61f9f0b36ff03547547c2?utm_campaign=1058&utm_source=git)** | Richmond Hill, GA | On Site | May 02 |
 | **[Kent Outdoors](https://kentoutdoors.co/)** | **[Customer Service Representative Internship](https://jobright.ai/jobs/info/69d9d5aef748bc5d08a4e87a?utm_campaign=1058&utm_source=git)** | Bend, OR | On Site | May 02 |
 | **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69f61f820b36ff035475479b?utm_campaign=1058&utm_source=git)** | Norridge, IL | On Site | May 02 |
@@ -135,8 +138,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69f63990b1fc847fc1ae2aa0?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | May 02 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69f826acdb88714bcdfba37b?utm_campaign=1058&utm_source=git)** | Nashville, TN | On Site | May 02 |
 | ↳ | **[Pharmacy Graduate Intern (Non-US Education)](https://jobright.ai/jobs/info/69f678a5a3d34b4f76f588fc?utm_campaign=1058&utm_source=git)** | Nashville, TN | On Site | May 02 |
-| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69f63a8881706a5bd216854c?utm_campaign=1058&utm_source=git)** | Boca Raton, FL | On Site | May 02 |
 | ↳ | **[Pharmacy Graduate Intern (Non-US Education)](https://jobright.ai/jobs/info/69f6495d0b36ff0354754a00?utm_campaign=1058&utm_source=git)** | Greensboro, NC | On Site | May 02 |
+| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69f63a8881706a5bd216854c?utm_campaign=1058&utm_source=git)** | Boca Raton, FL | On Site | May 02 |
 | ↳ | **[Pharmacy Graduate Intern (Non-US Education)](https://jobright.ai/jobs/info/69f6824181706a5bd21696ee?utm_campaign=1058&utm_source=git)** | Morro Bay, CA | On Site | May 02 |
 | **[Promed Management Resources In](http://jobs.promedstaffingresources.com/)** | **[Tech - MRI](https://jobright.ai/jobs/info/69f69047b1fc847fc1ae3f5d?utm_campaign=1058&utm_source=git)** | Rockford, IL | On Site | May 02 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Intern, Airport Customer Service (ACS) JFK - NYC Above and Below Wing Ambassador (Summer 2026)](https://jobright.ai/jobs/info/69f60236582f810f9c8c7dab?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | May 02 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Fred Meyer](https://www.fredmeyer.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69f5c845a3d34b4f76f566ee?utm_campaign=1058&utm_source=git)** | Coos Bay, OR | On Site | May 01 |
 | ↳ | **[Pharmacist Intern](https://jobright.ai/jobs/info/69f5fa8e582f810f9c8c7d1c?utm_campaign=1058&utm_source=git)** | Seattle, WA | On Site | May 01 |
 | **[Trinity Health](http://www.trinity-health.org)** | **[Pharmacy Intern I - Mount Carmel Grove City](https://jobright.ai/jobs/info/69bd522d4828227293ff90f0?utm_campaign=1058&utm_source=git)** | Grove City, OH | On Site | May 01 |
-| **[Kiawah Island Golf Resort](http://www.kiawahresort.com/)** | **[Villa Front Desk Internship - Summer 2026](https://jobright.ai/jobs/info/69f7152e582f810f9c8cac54?utm_campaign=1058&utm_source=git)** | Kiawah Island, SC, USA | On Site | May 01 |
-| **[Metropolitan Transportation Authority](https:/mta.info/)** | **[IT Client Support, Technology & Engineer Fellow (Fall)](https://jobright.ai/jobs/info/69f5a02243a25828a8d19367?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | May 01 |
-| ↳ | **[Customer Feedback Analyst – Bus Location Information, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69f5a0570b36ff035475299e?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
