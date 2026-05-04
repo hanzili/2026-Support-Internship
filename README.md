@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hirani Engineering and Land Surveying, D.P.C.](https://www.hiranigroup.com/)** | **[IT INTERN](https://jobright.ai/jobs/info/69f8e77281706a5bd216ed7c?utm_campaign=1058&utm_source=git)** | Hirani Corporate Office - Hicksville, NY 11801 US (Primary) | On Site | May 04 |
+| **[Qualtrics](http://www.qualtrics.com)** | **[Skillbridge - Enterprise Support Manager Internship](https://jobright.ai/jobs/info/69f8e6e7a3d34b4f76f5e6e2?utm_campaign=1058&utm_source=git)** | United States (Remote) | Remote | May 04 |
+| **[Philadelphia Eagles](http://www.philadelphiaeagles.com)** | **[Ticket & Fan Services Academic Intern – Fall 2026](https://jobright.ai/jobs/info/69f8e60f81706a5bd216eaf1?utm_campaign=1058&utm_source=git)** | Lincoln Financial Field | On Site | May 04 |
+| **[HOLT Group](https://holtgrp.com)** | **[Product Support Intern- College](https://jobright.ai/jobs/info/69f8dd44a3d34b4f76f5e0b3?utm_campaign=1058&utm_source=git)** | Irving-Las Colinas | On Site | May 04 |
 | **[BrokerLink](http://www.brokerlink.ca)** | **[IT Technical Advisor I – 4 Month Internship/Co-op (Fall 2026)](https://jobright.ai/jobs/info/69f8c276b1fc847fc1ae886e?utm_campaign=1058&utm_source=git)** | Toronto, Ontario, CAN, CA | On Site | May 04 |
 | **[Copart](http://www.copart.com)** | **[Corp Support Intern](https://jobright.ai/jobs/info/69f8c238582f810f9c8ce1c8?utm_campaign=1058&utm_source=git)** | Dallas, TX - Headquarters, US | On Site | May 04 |
 | **[BorgWarner](http://www.borgwarner.com)** | **[IT Service Desk Intern (Year-Round) – Corporate](https://jobright.ai/jobs/info/69f8c237582f810f9c8ce1c0?utm_campaign=1058&utm_source=git)** | Auburn Hills PTC - USA, US | On Site | May 04 |
@@ -73,10 +77,8 @@ For a complete list, click the following sortable link below:
 | **[Mohawk Valley Health System](https://www.mvhealthsystem.org)** | **[Imaging Intern - Variable Shifts -Occasional](https://jobright.ai/jobs/info/69becccb393a1008f744a7e6?utm_campaign=1058&utm_source=git)** | Utica, NY | On Site | May 03 |
 | **[Packaging Corporation of America](http://packagingcorp.com)** | **[IT Intern Summer-Fall 2026 Counce Mill](https://jobright.ai/jobs/info/69a243e00da45516f16b8b20?utm_campaign=1058&utm_source=git)** | Counce, TN | On Site | May 03 |
 | **[CooperSurgical](http://www.coopersurgical.com)** | **[Service & Repair, Fertility Intern](https://jobright.ai/jobs/info/69bdb8b8393a1008f7432bd1?utm_campaign=1058&utm_source=git)** | Livingston, NJ | On Site | May 03 |
-| **[Magna International](http://www.magna.com/)** | **[IT Intern - Summer 2026](https://jobright.ai/jobs/info/696ab548350cf4380311bba2?utm_campaign=1058&utm_source=git)** | Troy, MI | On Site | May 03 |
 | **[apexanalytix](https://www.apexanalytix.com)** | **[Support/Implementation Specialist Intern (Summer 2026)](https://jobright.ai/jobs/info/68c027e1702aa35207aaaf88?utm_campaign=1058&utm_source=git)** | Greensboro, NC | On Site | May 03 |
 | **[Ochsner Health](https://www.ochsner.org/)** | **[Summer Laboratory Intern](https://jobright.ai/jobs/info/69f746850b36ff0354757986?utm_campaign=1058&utm_source=git)** | New Orleans, LA | On Site | May 03 |
-| **[Baptist Health](http://careers.baptisthealth.net)** | **[Pharmacy Intern 2, Ambulatory Pharmacy Services, Per Diem, Varies](https://jobright.ai/jobs/info/68dd15bf44d32141e0bf3e3f?utm_campaign=1058&utm_source=git)** | Miami Lakes, FL | On Site | May 03 |
 | **[CHRISTUS Health](https://www.christushealth.org/santa-rosa)** | **[Pharmacist Intern - General Pharmacy - PRN](https://jobright.ai/jobs/info/69daf4d85356a60f40fe446b?utm_campaign=1058&utm_source=git)** | Shreveport, LA | On Site | May 03 |
 | **[ETS-Lindgren](http://www.ets-lindgren.com/)** | **[Technical Writer Intern](https://jobright.ai/jobs/info/69c0c9f12c312363dcd33d38?utm_campaign=1058&utm_source=git)** | Greater Chicago Area | On Site | May 03 |
 | **[Valley Baptist Health System](https://www.valleybaptist.net)** | **[Student Intern Surgery Per Diem Days](https://jobright.ai/jobs/info/69851aba348f733a5c394779?utm_campaign=1058&utm_source=git)** | Brownsville, TX | On Site | May 03 |
@@ -89,9 +91,9 @@ For a complete list, click the following sortable link below:
 | **[Health Connect America](https://healthconnectamerica.com)** | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/69f76457582f810f9c8cbf03?utm_campaign=1058&utm_source=git)** | Dallas, GA | On Site | May 02 |
 | ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/69f76167a3d34b4f76f5b7a0?utm_campaign=1058&utm_source=git)** | Tyrone, GA | On Site | May 02 |
 | ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/69f7645a582f810f9c8cbf05?utm_campaign=1058&utm_source=git)** | Snellville, GA | On Site | May 02 |
-| ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/69f760a0b1fc847fc1ae61e2?utm_campaign=1058&utm_source=git)** | Gainesville, GA | On Site | May 02 |
-| ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/69f7606f0b36ff0354757e2a?utm_campaign=1058&utm_source=git)** | Columbus, GA | On Site | May 02 |
 | ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/69f764760b36ff0354757e8a?utm_campaign=1058&utm_source=git)** | Dalton, GA | On Site | May 02 |
+| ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/69f7606f0b36ff0354757e2a?utm_campaign=1058&utm_source=git)** | Columbus, GA | On Site | May 02 |
+| ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/69f760a0b1fc847fc1ae61e2?utm_campaign=1058&utm_source=git)** | Gainesville, GA | On Site | May 02 |
 | ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/69f7648e0b36ff0354757e9d?utm_campaign=1058&utm_source=git)** | Jesup, GA | On Site | May 02 |
 | ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/69f760d1db88714bcdfb932a?utm_campaign=1058&utm_source=git)** | Statesboro, GA | On Site | May 02 |
 | **[Xometry](https://www.xometry.com)** | **[Case Management Intern](https://jobright.ai/jobs/info/6943e68d94730b7398771073?utm_campaign=1058&utm_source=git)** | Lexington, KY | Hybrid | May 02 |
@@ -136,7 +138,6 @@ For a complete list, click the following sortable link below:
 | **[Vestas](http://www.vestas.com)** | **[Service Technician Intern](https://jobright.ai/jobs/info/69d95afb869c7e25d859a513?utm_campaign=1058&utm_source=git)** | Pomeroy, IA | On Site | May 02 |
 | **[Sono Bello](http://sonobello.com)** | **[PAC Operations Intern](https://jobright.ai/jobs/info/69d97b4f5356a60f40fda017?utm_campaign=1058&utm_source=git)** | Bellevue, WA | Hybrid | May 02 |
 | **[MVP Health Care](https://www.mvphealthcare.com)** | **[Intern, Customer Experience Research](https://jobright.ai/jobs/info/69bc80905b89c002acf23f2b?utm_campaign=1058&utm_source=git)** | Schenectady, NY | Hybrid | May 02 |
-| **[Stop & Shop](http://stopandshop.com)** | **[PT Pharmacy Intern - Pharmacy - 0608](https://jobright.ai/jobs/info/69f8137d81706a5bd216cd9f?utm_campaign=1058&utm_source=git)** | Colchester, CT | On Site | May 02 |
 | **[Sono Bello](http://sonobello.com)** | **[Intern- IT Helpdesk](https://jobright.ai/jobs/info/69d97c0a738f2f099e8a2258?utm_campaign=1058&utm_source=git)** | Bellevue, WA | Hybrid | May 02 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Technical Support Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/69bc5d435b89c002acf1f31f?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | May 02 |
 | **[BCFS Health & Human Services](https://bcfshhs.org)** | **[Program Intern](https://jobright.ai/jobs/info/69d976b5869c7e25d859b0c4?utm_campaign=1058&utm_source=git)** | Tyler, TX | On Site | May 02 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SiteOne Landscape Supply](http://www.shemin.net)** | **[Intern](https://jobright.ai/jobs/info/69f58cb60b36ff0354752707?utm_campaign=1058&utm_source=git)** | Willow Park, TX | On Site | May 01 |
 | **[Carebase](https://carebase.org.uk)** | **[Bistro Assistant](https://jobright.ai/jobs/info/69f768950b36ff0354757f24?utm_campaign=1058&utm_source=git)** | Forest View, IL | On Site | May 01 |
 | **[FlatironDragados](https://www.fdcorp.com)** | **[IT Intern](https://jobright.ai/jobs/info/69f565c881706a5bd21661d6?utm_campaign=1058&utm_source=git)** | Whitestone, NY | On Site | May 01 |
-| **[Xometry](https://www.xometry.com)** | **[Customer Support Intern](https://jobright.ai/jobs/info/695dc344efe5dd5cbd3d9d49?utm_campaign=1058&utm_source=git)** | Lexington, KY | Hybrid | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
