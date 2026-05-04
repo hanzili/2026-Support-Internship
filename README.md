@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Goodshuffle](https://pro.goodshuffle.com)** | **[Customer Experience Intern](https://jobright.ai/jobs/info/69f9017c81706a5bd216fda0?utm_campaign=1058&utm_source=git)** | Washington, DC | On Site | May 04 |
+| **[Xometry](https://www.xometry.com)** | **[IT Service Desk Intern](https://jobright.ai/jobs/info/69acaada2747003c3d524801?utm_campaign=1058&utm_source=git)** | North Bethesda, MD | Hybrid | May 04 |
+| **[DVM Power + Control](https://www.dvmpower.com)** | **[Sales Support Intern](https://jobright.ai/jobs/info/69f8f871582f810f9c8cf827?utm_campaign=1058&utm_source=git)** | 800 E Virginia Avenue, Building 5, West Chester, United States | On Site | May 04 |
+| **[RK&K](https://www.rkk.com/)** | **[High School Intern - IT](https://jobright.ai/jobs/info/69f8f862a3d34b4f76f5f550?utm_campaign=1058&utm_source=git)** | Baltimore, MD, 21202, United States | On Site | May 04 |
+| **[CareCloud](http://www.carecloud.com)** | **[Mailroom Intern](https://jobright.ai/jobs/info/69f8f814db88714bcdfbcd07?utm_campaign=1058&utm_source=git)** | Somerset, NJ 08873, USA | On Site | May 04 |
 | **[CDI Curb Adapters](http://www.cdicurbs.com)** | **[Sales Support Intern](https://jobright.ai/jobs/info/69f8f3060b36ff035475c10a?utm_campaign=1058&utm_source=git)** | Plymouth,MN,US | On Site | May 04 |
 | **[Third Street Family Health Services](https://thirdstreetfamily.org/)** | **[IT Intern [Mansfield, OH]](https://jobright.ai/jobs/info/69f8f2e9b1fc847fc1ae9cb4?utm_campaign=1058&utm_source=git)** | Mansfield,OH,US | On Site | May 04 |
 | **[Eagle Rock Properties](https://www.eaglerockproperties.com/)** | **[IT Intern](https://jobright.ai/jobs/info/69f8f267b1fc847fc1ae9b43?utm_campaign=1058&utm_source=git)** | Plainview, NY, US | On Site | May 04 |
@@ -68,11 +73,11 @@ For a complete list, click the following sortable link below:
 | **[Copart](http://www.copart.com)** | **[Corp Support Intern](https://jobright.ai/jobs/info/69f8c238582f810f9c8ce1c8?utm_campaign=1058&utm_source=git)** | Dallas, TX - Headquarters, US | On Site | May 04 |
 | **[BorgWarner](http://www.borgwarner.com)** | **[IT Service Desk Intern (Year-Round) – Corporate](https://jobright.ai/jobs/info/69f8c237582f810f9c8ce1c0?utm_campaign=1058&utm_source=git)** | Auburn Hills PTC - USA, US | On Site | May 04 |
 | **[Northwell Health](https://www.northwell.edu/)** | **[Rehabilitation Services Intern](https://jobright.ai/jobs/info/69f8bd28582f810f9c8ce07b?utm_campaign=1058&utm_source=git)** | 475 Seaview Avenue, Staten Island, NY, 10305, US | On Site | May 04 |
+| **[MANITOU Group](http://www.manitou-group.com)** | **[Technical Writing Intern.](https://jobright.ai/jobs/info/69dbfcab9f97a42dc9c2f9ef?utm_campaign=1058&utm_source=git)** | West Bend, WI | On Site | May 04 |
 | **[Center for Internet Security](http://cisecurity.org/)** | **[IT Intern - Clifton Park, NY](https://jobright.ai/jobs/info/69f8b40c81706a5bd216df9c?utm_campaign=1058&utm_source=git)** | Clifton Park Office, US | On Site | May 04 |
 | **[Levin Furniture & Mattress](https://www.levinfurniture.com/)** | **[IT Intern](https://jobright.ai/jobs/info/69f8aabc582f810f9c8cdc95?utm_campaign=1058&utm_source=git)** | Smithton, PA | On Site | May 04 |
 | **[Benchmark Hospitality at DU](http://www.benchmarkhoteldfw.com)** | **[Guest Service Agent Internship-1](https://jobright.ai/jobs/info/69f8a5f60b36ff035475a3e8?utm_campaign=1058&utm_source=git)** | The StateView Hotel, US | On Site | May 04 |
 | **[Wayne Metropolitan Community Action Agency](https://www.waynemetro.org/)** | **[Direct Service Specialist Intern- Unpaid](https://jobright.ai/jobs/info/69f8a2e581706a5bd216d5e1?utm_campaign=1058&utm_source=git)** | Lakeshore Office - Detroit, MI 48202 | Hybrid | May 04 |
-| **[SanMar](http://www.sanmar.com)** | **[IT Intern, Operations](https://jobright.ai/jobs/info/69bc62ae45e08b3dc1f90076?utm_campaign=1058&utm_source=git)** | Issaquah, WA | On Site | May 04 |
 | **[Cambium Assessment](https://www.cambiumassessment.com)** | **[Provisioning Technician Intern](https://jobright.ai/jobs/info/69f88a6c582f810f9c8cd4f2?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI, US | On Site | May 04 |
 | **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[Help Desk Intern](https://jobright.ai/jobs/info/6959ef9ff1f8465b79f05970?utm_campaign=1058&utm_source=git)** | Dayton, OH | On Site | May 04 |
 | **[BMO](http://www.bmo.com)** | **[Trade Desk Support Analyst, Fall 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/69f834db81706a5bd216d1ef?utm_campaign=1058&utm_source=git)** | Toronto, ON, CAN, CA | On Site | May 03 |
@@ -93,11 +98,11 @@ For a complete list, click the following sortable link below:
 | **[Nuvance Health](https://www.nuvancehealth.org)** | **[Medical Practice Patient Representative - Intern - Per diem (as needed) Danbury, CT](https://jobright.ai/jobs/info/69f695dd0b36ff0354755e24?utm_campaign=1058&utm_source=git)** | Danbury, CT | On Site | May 02 |
 | **[Health Connect America](https://healthconnectamerica.com)** | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/69f76457582f810f9c8cbf03?utm_campaign=1058&utm_source=git)** | Dallas, GA | On Site | May 02 |
 | ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/69f76167a3d34b4f76f5b7a0?utm_campaign=1058&utm_source=git)** | Tyrone, GA | On Site | May 02 |
-| ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/69f7645a582f810f9c8cbf05?utm_campaign=1058&utm_source=git)** | Snellville, GA | On Site | May 02 |
-| ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/69f760a0b1fc847fc1ae61e2?utm_campaign=1058&utm_source=git)** | Gainesville, GA | On Site | May 02 |
-| ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/69f764760b36ff0354757e8a?utm_campaign=1058&utm_source=git)** | Dalton, GA | On Site | May 02 |
 | ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/69f7648e0b36ff0354757e9d?utm_campaign=1058&utm_source=git)** | Jesup, GA | On Site | May 02 |
+| ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/69f764760b36ff0354757e8a?utm_campaign=1058&utm_source=git)** | Dalton, GA | On Site | May 02 |
+| ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/69f7645a582f810f9c8cbf05?utm_campaign=1058&utm_source=git)** | Snellville, GA | On Site | May 02 |
 | ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/69f7606f0b36ff0354757e2a?utm_campaign=1058&utm_source=git)** | Columbus, GA | On Site | May 02 |
+| ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/69f760a0b1fc847fc1ae61e2?utm_campaign=1058&utm_source=git)** | Gainesville, GA | On Site | May 02 |
 | ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/69f760d1db88714bcdfb932a?utm_campaign=1058&utm_source=git)** | Statesboro, GA | On Site | May 02 |
 | **[Xometry](https://www.xometry.com)** | **[Case Management Intern](https://jobright.ai/jobs/info/6943e68d94730b7398771073?utm_campaign=1058&utm_source=git)** | Lexington, KY | Hybrid | May 02 |
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Enterprise Platforms Intern](https://jobright.ai/jobs/info/69f65391b1fc847fc1ae3048?utm_campaign=1058&utm_source=git)** | United States-Massachusetts-Chelsea-200 Arlington Street | Hybrid | May 02 |
@@ -113,12 +118,11 @@ For a complete list, click the following sortable link below:
 | **[KW PROPERTY MANAGEMENT AND CONSULTING](https://kwpmc.com/)** | **[Corporate Intern](https://jobright.ai/jobs/info/69bdc56d393a1008f743534f?utm_campaign=1058&utm_source=git)** | Miami, FL | On Site | May 02 |
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Access Your Future Service Intern](https://jobright.ai/jobs/info/68c0740f8e65e77df55c137f?utm_campaign=1058&utm_source=git)** | Cheyenne, WY | On Site | May 02 |
 | **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69f6202cdb88714bcdfb5b10?utm_campaign=1058&utm_source=git)** | Richmond Hill, GA | On Site | May 02 |
-| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69f6200fdb88714bcdfb5ae5?utm_campaign=1058&utm_source=git)** | Fayetteville, GA | On Site | May 02 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69f6200fdb88714bcdfb5ae4?utm_campaign=1058&utm_source=git)** | Shelby, NC | On Site | May 02 |
+| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69f6200fdb88714bcdfb5ae5?utm_campaign=1058&utm_source=git)** | Fayetteville, GA | On Site | May 02 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69f61f9f0b36ff03547547c2?utm_campaign=1058&utm_source=git)** | Richmond Hill, GA | On Site | May 02 |
 | **[Kent Outdoors](https://kentoutdoors.co/)** | **[Customer Service Representative Internship](https://jobright.ai/jobs/info/69d9d5aef748bc5d08a4e87a?utm_campaign=1058&utm_source=git)** | Bend, OR | On Site | May 02 |
 | **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69f61f820b36ff035475479b?utm_campaign=1058&utm_source=git)** | Norridge, IL | On Site | May 02 |
-| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69f61f810b36ff0354754797?utm_campaign=1058&utm_source=git)** | Westland, MI | On Site | May 02 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69f61e0181706a5bd2168464?utm_campaign=1058&utm_source=git)** | Columbia, SC | On Site | May 02 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69f61e0081706a5bd216845e?utm_campaign=1058&utm_source=git)** | Lutherville-Timonium, MD | On Site | May 02 |
 | **[Hendrickson](http://www.hendrickson-intl.com/Home.aspx)** | **[IT Applications Intern (Fall 2026)](https://jobright.ai/jobs/info/69d1ee04891d7b11cfce791a?utm_campaign=1058&utm_source=git)** | Canton, OH | On Site | May 02 |
@@ -136,7 +140,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Graduate Intern (Non-US Education)](https://jobright.ai/jobs/info/69f6824181706a5bd21696ee?utm_campaign=1058&utm_source=git)** | Morro Bay, CA | On Site | May 02 |
 | **[Promed Management Resources In](http://jobs.promedstaffingresources.com/)** | **[Tech - MRI](https://jobright.ai/jobs/info/69f69047b1fc847fc1ae3f5d?utm_campaign=1058&utm_source=git)** | Rockford, IL | On Site | May 02 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Intern, Airport Customer Service (ACS) JFK - NYC Above and Below Wing Ambassador (Summer 2026)](https://jobright.ai/jobs/info/69f60236582f810f9c8c7dab?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | May 02 |
-| **[S&P Global](https://www.spglobal.com)** | **[Client Experience Summer Intern (Early Careers)](https://jobright.ai/jobs/info/69bccd274828227293fecd20?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | May 02 |
 | **[Frankenmuth Insurance](https://www.fmins.com)** | **[Student Associate - Mailroom](https://jobright.ai/jobs/info/69d9888b9f97a42dc9c2210f?utm_campaign=1058&utm_source=git)** | Frankenmuth, MI | On Site | May 02 |
 | **[Vestas](http://www.vestas.com)** | **[Service Technician Intern](https://jobright.ai/jobs/info/69d95afb869c7e25d859a513?utm_campaign=1058&utm_source=git)** | Pomeroy, IA | On Site | May 02 |
 | **[Sono Bello](http://sonobello.com)** | **[PAC Operations Intern](https://jobright.ai/jobs/info/69d97b4f5356a60f40fda017?utm_campaign=1058&utm_source=git)** | Bellevue, WA | Hybrid | May 02 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kiawah Island Golf Resort](http://www.kiawahresort.com/)** | **[Villa Front Desk Internship - Summer 2026](https://jobright.ai/jobs/info/69f7152e582f810f9c8cac54?utm_campaign=1058&utm_source=git)** | Kiawah Island, SC, USA | On Site | May 01 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[IT Client Support, Technology & Engineer Fellow (Fall)](https://jobright.ai/jobs/info/69f5a02243a25828a8d19367?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | May 01 |
 | ↳ | **[Customer Feedback Analyst – Bus Location Information, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69f5a0570b36ff035475299e?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | May 01 |
-| **[Yale New Haven Health](https://www.ynhhs.org/)** | **[Pharmacy Intern Central Operations](https://jobright.ai/jobs/info/69f80bdc582f810f9c8cc99a?utm_campaign=1058&utm_source=git)** | New Haven, CT | On Site | May 01 |
-| **[Priority1](http://priority1inc.com)** | **[Intern](https://jobright.ai/jobs/info/69f57cf981706a5bd2166916?utm_campaign=1058&utm_source=git)** | Little Rock, AR | On Site | May 01 |
-| **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY/PHARMACIST-INTERN](https://jobright.ai/jobs/info/69ec32dd0a6e09555304d1b4?utm_campaign=1058&utm_source=git)** | Aurora, CO | On Site | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
