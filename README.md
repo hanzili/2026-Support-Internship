@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CARTI](https://www.carti.com/)** | **[IT Intern](https://jobright.ai/jobs/info/69fa00570b36ff0354760204?utm_campaign=1058&utm_source=git)** | Little Rock, AR 72205, USA | On Site | May 05 |
 | **[Xometry](https://www.xometry.com)** | **[Customer Support Intern](https://jobright.ai/jobs/info/6952e06ef1f8465b79ea28f5?utm_campaign=1058&utm_source=git)** | North Bethesda, MD | On Site | May 05 |
 | ↳ | **[Customer Support Intern](https://jobright.ai/jobs/info/695ab318aa05c26e7ab4364b?utm_campaign=1058&utm_source=git)** | North Bethesda, MD | Hybrid | May 05 |
 | **[Plug and Play Tech Center](https://www.plugandplaytechcenter.com)** | **[IT Intern](https://jobright.ai/jobs/info/69f9e1a8a3d34b4f76f62b16?utm_campaign=1058&utm_source=git)** | Sunnyvale, California, United States | On Site | May 05 |
@@ -71,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[EverTrue](https://www.evertrueliving.org/)** | **[Intern - Information Technology](https://jobright.ai/jobs/info/69f920c8b1fc847fc1aeb13e?utm_campaign=1058&utm_source=git)** | St. Louis, Missouri | On Site | May 04 |
 | **[Access Systems, Inc.](https://www.accesssystems.com)** | **[2026 Summer Operations Support Intern](https://jobright.ai/jobs/info/69f91e250b36ff035475d553?utm_campaign=1058&utm_source=git)** | Waukee, IA | On Site | May 04 |
 | **[CAVALLO](https://www.cavallo.com/)** | **[IT Technician Intern](https://jobright.ai/jobs/info/69f9142b582f810f9c8d02a1?utm_campaign=1058&utm_source=git)** | Grand Rapids, Michigan, United States | On Site | May 04 |
-| **[JFK International Air Terminal](https://www.jfkt4.nyc)** | **[Intern, IT & Digital](https://jobright.ai/jobs/info/69f90da20b36ff035475cdfa?utm_campaign=1058&utm_source=git)** | Jamaica, NY | On Site | May 04 |
 | **[Goodshuffle](https://pro.goodshuffle.com)** | **[Customer Experience Intern](https://jobright.ai/jobs/info/69f9017c81706a5bd216fda0?utm_campaign=1058&utm_source=git)** | Washington, DC | On Site | May 04 |
 | **[Xometry](https://www.xometry.com)** | **[IT Service Desk Intern](https://jobright.ai/jobs/info/69acaada2747003c3d524801?utm_campaign=1058&utm_source=git)** | North Bethesda, MD | Hybrid | May 04 |
 | **[DVM Power + Control](https://www.dvmpower.com)** | **[Sales Support Intern](https://jobright.ai/jobs/info/69f8f871582f810f9c8cf827?utm_campaign=1058&utm_source=git)** | 800 E Virginia Avenue, Building 5, West Chester, United States | On Site | May 04 |
@@ -120,8 +120,8 @@ For a complete list, click the following sortable link below:
 | **[Health Connect America](https://healthconnectamerica.com)** | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/69f76457582f810f9c8cbf03?utm_campaign=1058&utm_source=git)** | Dallas, GA | On Site | May 02 |
 | ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/69f76167a3d34b4f76f5b7a0?utm_campaign=1058&utm_source=git)** | Tyrone, GA | On Site | May 02 |
 | ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/69f760a0b1fc847fc1ae61e2?utm_campaign=1058&utm_source=git)** | Gainesville, GA | On Site | May 02 |
-| ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/69f7645a582f810f9c8cbf05?utm_campaign=1058&utm_source=git)** | Snellville, GA | On Site | May 02 |
 | ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/69f7648e0b36ff0354757e9d?utm_campaign=1058&utm_source=git)** | Jesup, GA | On Site | May 02 |
+| ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/69f7645a582f810f9c8cbf05?utm_campaign=1058&utm_source=git)** | Snellville, GA | On Site | May 02 |
 | ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/69f7606f0b36ff0354757e2a?utm_campaign=1058&utm_source=git)** | Columbus, GA | On Site | May 02 |
 | ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/69f760d1db88714bcdfb932a?utm_campaign=1058&utm_source=git)** | Statesboro, GA | On Site | May 02 |
 | **[Xometry](https://www.xometry.com)** | **[Case Management Intern](https://jobright.ai/jobs/info/6943e68d94730b7398771073?utm_campaign=1058&utm_source=git)** | Lexington, KY | Hybrid | May 02 |
@@ -138,8 +138,8 @@ For a complete list, click the following sortable link below:
 | **[KW PROPERTY MANAGEMENT AND CONSULTING](https://kwpmc.com/)** | **[Corporate Intern](https://jobright.ai/jobs/info/69bdc56d393a1008f743534f?utm_campaign=1058&utm_source=git)** | Miami, FL | On Site | May 02 |
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Access Your Future Service Intern](https://jobright.ai/jobs/info/68c0740f8e65e77df55c137f?utm_campaign=1058&utm_source=git)** | Cheyenne, WY | On Site | May 02 |
 | **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69f6202cdb88714bcdfb5b10?utm_campaign=1058&utm_source=git)** | Richmond Hill, GA | On Site | May 02 |
-| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69f6200fdb88714bcdfb5ae4?utm_campaign=1058&utm_source=git)** | Shelby, NC | On Site | May 02 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69f6200fdb88714bcdfb5ae5?utm_campaign=1058&utm_source=git)** | Fayetteville, GA | On Site | May 02 |
+| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69f6200fdb88714bcdfb5ae4?utm_campaign=1058&utm_source=git)** | Shelby, NC | On Site | May 02 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69f61f9f0b36ff03547547c2?utm_campaign=1058&utm_source=git)** | Richmond Hill, GA | On Site | May 02 |
 | **[Kent Outdoors](https://kentoutdoors.co/)** | **[Customer Service Representative Internship](https://jobright.ai/jobs/info/69d9d5aef748bc5d08a4e87a?utm_campaign=1058&utm_source=git)** | Bend, OR | On Site | May 02 |
 | **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69f61f820b36ff035475479b?utm_campaign=1058&utm_source=git)** | Norridge, IL | On Site | May 02 |
