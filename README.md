@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Providence](http://www.providence.org)** | **[Student Intern](https://jobright.ai/jobs/info/69fa5d33a3d34b4f76f652d5?utm_campaign=1058&utm_source=git)** | Seaside, OR, United States | On Site | May 05 |
 | **[Providence Health & Services](https://www.providence.org/)** | **[Student Intern](https://jobright.ai/jobs/info/69fa5278db88714bcdfc2875?utm_campaign=1058&utm_source=git)** | Seaside, OR, United States | On Site | May 05 |
 | **[Pacific Medical Centers](https://www.pacificmedicalcenters.org/)** | **[Student Intern](https://jobright.ai/jobs/info/69fa52740b36ff0354761e90?utm_campaign=1058&utm_source=git)** | Seaside, OR, United States | On Site | May 05 |
 | **[Inotiv](https://www.inotiv.com/)** | **[Histology Intern](https://jobright.ai/jobs/info/69fa4c1881706a5bd2175248?utm_campaign=1058&utm_source=git)** | St. Louis MO - Worthington, US | On Site | May 05 |
@@ -150,11 +151,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/69f69810db88714bcdfb7209?utm_campaign=1058&utm_source=git)** | Glendale, AZ | On Site | May 02 |
 | **[Nuvance Health](https://www.nuvancehealth.org)** | **[Medical Practice Patient Representative - Intern - Per diem (as needed) Danbury, CT](https://jobright.ai/jobs/info/69f695dd0b36ff0354755e24?utm_campaign=1058&utm_source=git)** | Danbury, CT | On Site | May 02 |
 | **[Health Connect America](https://healthconnectamerica.com)** | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/69f76457582f810f9c8cbf03?utm_campaign=1058&utm_source=git)** | Dallas, GA | On Site | May 02 |
+| ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/69f7648e0b36ff0354757e9d?utm_campaign=1058&utm_source=git)** | Jesup, GA | On Site | May 02 |
 | ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/69f7606f0b36ff0354757e2a?utm_campaign=1058&utm_source=git)** | Columbus, GA | On Site | May 02 |
 | ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/69f7645a582f810f9c8cbf05?utm_campaign=1058&utm_source=git)** | Snellville, GA | On Site | May 02 |
-| ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/69f7648e0b36ff0354757e9d?utm_campaign=1058&utm_source=git)** | Jesup, GA | On Site | May 02 |
 | ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/69f760d1db88714bcdfb932a?utm_campaign=1058&utm_source=git)** | Statesboro, GA | On Site | May 02 |
 | **[Xometry](https://www.xometry.com)** | **[Case Management Intern](https://jobright.ai/jobs/info/6943e68d94730b7398771073?utm_campaign=1058&utm_source=git)** | Lexington, KY | Hybrid | May 02 |
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Enterprise Platforms Intern](https://jobright.ai/jobs/info/69f65391b1fc847fc1ae3048?utm_campaign=1058&utm_source=git)** | United States-Massachusetts-Chelsea-200 Arlington Street | Hybrid | May 02 |
-| **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Summer Intern - Child Support - Northern Region - Woburn Location](https://jobright.ai/jobs/info/69f65391b1fc847fc1ae3049?utm_campaign=1058&utm_source=git)** | United States-Massachusetts-Woburn-100 Trade Ctr Suite 760 | On Site | May 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
