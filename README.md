@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Le Collectionist](http://www.lecollectionist.com)** | **[Onsite Concierge Assistant (H/F/X) - Internship - Paros (Greece)](https://jobright.ai/jobs/info/69f9c326b1fc847fc1aec84b?utm_campaign=1058&utm_source=git)** | Greece, NY | On Site | May 05 |
 | **[QuadReal Property Group](https://www.quadreal.com/)** | **[Enterprise Solutions, Fall 2026 - Toronto or Vancouver (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/69f96feca3d34b4f76f617b7?utm_campaign=1058&utm_source=git)** | Toronto, CA | On Site | May 04 |
 | ↳ | **[Enterprise Solutions, Fall 2026 - Toronto or Vancouver (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/69f96fe50b36ff035475e7c1?utm_campaign=1058&utm_source=git)** | Vancouver, CA | On Site | May 04 |
 | **[American Saddlebred Horse Association](http://www.asha.net)** | **[Registry Intern](https://jobright.ai/jobs/info/69f95391db88714bcdfbe845?utm_campaign=1058&utm_source=git)** | Lexington, KY | On Site | May 04 |
@@ -114,9 +115,9 @@ For a complete list, click the following sortable link below:
 | **[Health Connect America](https://healthconnectamerica.com)** | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/69f76457582f810f9c8cbf03?utm_campaign=1058&utm_source=git)** | Dallas, GA | On Site | May 02 |
 | ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/69f76167a3d34b4f76f5b7a0?utm_campaign=1058&utm_source=git)** | Tyrone, GA | On Site | May 02 |
 | ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/69f7645a582f810f9c8cbf05?utm_campaign=1058&utm_source=git)** | Snellville, GA | On Site | May 02 |
+| ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/69f7606f0b36ff0354757e2a?utm_campaign=1058&utm_source=git)** | Columbus, GA | On Site | May 02 |
 | ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/69f7648e0b36ff0354757e9d?utm_campaign=1058&utm_source=git)** | Jesup, GA | On Site | May 02 |
 | ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/69f760a0b1fc847fc1ae61e2?utm_campaign=1058&utm_source=git)** | Gainesville, GA | On Site | May 02 |
-| ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/69f7606f0b36ff0354757e2a?utm_campaign=1058&utm_source=git)** | Columbus, GA | On Site | May 02 |
 | ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/69f760d1db88714bcdfb932a?utm_campaign=1058&utm_source=git)** | Statesboro, GA | On Site | May 02 |
 | **[Xometry](https://www.xometry.com)** | **[Case Management Intern](https://jobright.ai/jobs/info/6943e68d94730b7398771073?utm_campaign=1058&utm_source=git)** | Lexington, KY | Hybrid | May 02 |
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Enterprise Platforms Intern](https://jobright.ai/jobs/info/69f65391b1fc847fc1ae3048?utm_campaign=1058&utm_source=git)** | United States-Massachusetts-Chelsea-200 Arlington Street | Hybrid | May 02 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Delta Air Lines](https://www.delta.com/)** | **[Intern, Airport Customer Service (ACS) JFK - NYC Above and Below Wing Ambassador (Summer 2026)](https://jobright.ai/jobs/info/69f60236582f810f9c8c7dab?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | May 02 |
 | **[Frankenmuth Insurance](https://www.fmins.com)** | **[Student Associate - Mailroom](https://jobright.ai/jobs/info/69d9888b9f97a42dc9c2210f?utm_campaign=1058&utm_source=git)** | Frankenmuth, MI | On Site | May 02 |
 | **[Vestas](http://www.vestas.com)** | **[Service Technician Intern](https://jobright.ai/jobs/info/69d95afb869c7e25d859a513?utm_campaign=1058&utm_source=git)** | Pomeroy, IA | On Site | May 02 |
-| **[Sono Bello](http://sonobello.com)** | **[PAC Operations Intern](https://jobright.ai/jobs/info/69d97b4f5356a60f40fda017?utm_campaign=1058&utm_source=git)** | Bellevue, WA | Hybrid | May 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
