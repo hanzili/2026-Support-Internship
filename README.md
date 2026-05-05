@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Swanson, Martin & Bell, LLP](http://smbtrials.com)** | **[IT Help desk Internship](https://jobright.ai/jobs/info/69fa2a87b1fc847fc1aee91c?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | May 05 |
+| **[Stratix Corporation](http://www.stratixcorp.com)** | **[College Intern](https://jobright.ai/jobs/info/69fa2f5ca3d34b4f76f64688?utm_campaign=1058&utm_source=git)** | Peachtree Corners, GA | On Site | May 05 |
+| **[City of Lawrence, KS](https://lawrenceks.org)** | **[INTERN/PUBLIC TRANSPORTATION](https://jobright.ai/jobs/info/69fa2ed40b36ff035476101b?utm_campaign=1058&utm_source=git)** | Lawrence, KS, USA | On Site | May 05 |
+| **[Gypsum Management and Supply](http://www.gms.com)** | **[Summer Intern](https://jobright.ai/jobs/info/69fa2c1281706a5bd2174365?utm_campaign=1058&utm_source=git)** | Springdale CBM,Arkansas, US | On Site | May 05 |
 | **[Pyramid Global Hospitality](https://pyramidglobal.com)** | **[Sky Square Intern](https://jobright.ai/jobs/info/69fa2a770b36ff0354760e86?utm_campaign=1058&utm_source=git)** | New York, New York, United States of America | On Site | May 05 |
 | **[RPM Living](https://www.rpmliving.com/)** | **[Intern, Customer Experience](https://jobright.ai/jobs/info/69fa27fd582f810f9c8d4677?utm_campaign=1058&utm_source=git)** | US-AZ-Phoenix | On Site | May 05 |
 | ↳ | **[Intern, Customer Experience](https://jobright.ai/jobs/info/69fa27c481706a5bd21741a8?utm_campaign=1058&utm_source=git)** | Phoenix, AZ, US | On Site | May 05 |
@@ -110,6 +112,7 @@ For a complete list, click the following sortable link below:
 | **[Qualtrics](http://www.qualtrics.com)** | **[Skillbridge - Enterprise Support Manager Internship](https://jobright.ai/jobs/info/69f8e6e7a3d34b4f76f5e6e2?utm_campaign=1058&utm_source=git)** | United States (Remote) | Remote | May 04 |
 | **[Philadelphia Eagles](http://www.philadelphiaeagles.com)** | **[Ticket & Fan Services Academic Intern – Fall 2026](https://jobright.ai/jobs/info/69f8e60f81706a5bd216eaf1?utm_campaign=1058&utm_source=git)** | Lincoln Financial Field | On Site | May 04 |
 | **[HOLT Group](https://holtgrp.com)** | **[Product Support Intern- College](https://jobright.ai/jobs/info/69f8dd44a3d34b4f76f5e0b3?utm_campaign=1058&utm_source=git)** | Irving-Las Colinas | On Site | May 04 |
+| **[Packaging Corporation of America](http://packagingcorp.com)** | **[Summer 2026 Information Systems Intern](https://jobright.ai/jobs/info/691d440fbcdbf3560c9eeff6?utm_campaign=1058&utm_source=git)** | De Ridder, LA | On Site | May 04 |
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Access Your Future Service Intern](https://jobright.ai/jobs/info/68198b4060a1e1b3dc6d01d9?utm_campaign=1058&utm_source=git)** | Hawley, MN | On Site | May 04 |
 | **[Justrite Safety Group](https://www.justrite.com)** | **[Customer Service Intern](https://jobright.ai/jobs/info/69a854ed1dfc787e9aa35583?utm_campaign=1058&utm_source=git)** | Wellsburg, WV | On Site | May 04 |
 | **[BrokerLink](http://www.brokerlink.ca)** | **[IT Technical Advisor I – 4 Month Internship/Co-op (Fall 2026)](https://jobright.ai/jobs/info/69f8c276b1fc847fc1ae886e?utm_campaign=1058&utm_source=git)** | Toronto, Ontario, CAN, CA | On Site | May 04 |
@@ -144,10 +147,9 @@ For a complete list, click the following sortable link below:
 | **[Nuvance Health](https://www.nuvancehealth.org)** | **[Medical Practice Patient Representative - Intern - Per diem (as needed) Danbury, CT](https://jobright.ai/jobs/info/69f695dd0b36ff0354755e24?utm_campaign=1058&utm_source=git)** | Danbury, CT | On Site | May 02 |
 | **[Health Connect America](https://healthconnectamerica.com)** | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/69f76457582f810f9c8cbf03?utm_campaign=1058&utm_source=git)** | Dallas, GA | On Site | May 02 |
 | ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/69f76167a3d34b4f76f5b7a0?utm_campaign=1058&utm_source=git)** | Tyrone, GA | On Site | May 02 |
-| ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/69f760a0b1fc847fc1ae61e2?utm_campaign=1058&utm_source=git)** | Gainesville, GA | On Site | May 02 |
 | ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/69f7648e0b36ff0354757e9d?utm_campaign=1058&utm_source=git)** | Jesup, GA | On Site | May 02 |
-| ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/69f7606f0b36ff0354757e2a?utm_campaign=1058&utm_source=git)** | Columbus, GA | On Site | May 02 |
 | ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/69f7645a582f810f9c8cbf05?utm_campaign=1058&utm_source=git)** | Snellville, GA | On Site | May 02 |
+| ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/69f7606f0b36ff0354757e2a?utm_campaign=1058&utm_source=git)** | Columbus, GA | On Site | May 02 |
 | ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/69f760d1db88714bcdfb932a?utm_campaign=1058&utm_source=git)** | Statesboro, GA | On Site | May 02 |
 | **[Xometry](https://www.xometry.com)** | **[Case Management Intern](https://jobright.ai/jobs/info/6943e68d94730b7398771073?utm_campaign=1058&utm_source=git)** | Lexington, KY | Hybrid | May 02 |
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Enterprise Platforms Intern](https://jobright.ai/jobs/info/69f65391b1fc847fc1ae3048?utm_campaign=1058&utm_source=git)** | United States-Massachusetts-Chelsea-200 Arlington Street | Hybrid | May 02 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Service Desk Intern](https://jobright.ai/jobs/info/69f6538a81706a5bd2168c07?utm_campaign=1058&utm_source=git)** | United States-Massachusetts-Chelsea-200 Arlington Street | Hybrid | May 02 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[M365 and Directory Services Intern](https://jobright.ai/jobs/info/69f653850b36ff0354754e98?utm_campaign=1058&utm_source=git)** | United States-Massachusetts-Chelsea-200 Arlington Street | Hybrid | May 02 |
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[IT Service Delivery Internship Summer 2026](https://jobright.ai/jobs/info/69f6538481706a5bd2168c03?utm_campaign=1058&utm_source=git)** | United States-Massachusetts-10 Park Plaza | On Site | May 02 |
-| **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Enterprise Platforms Intern](https://jobright.ai/jobs/info/69f65236a3d34b4f76f58344?utm_campaign=1058&utm_source=git)** | United States-Massachusetts-Chelsea-200 Arlington Street | Hybrid | May 02 |
-| **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[M365 and Directory Services Intern](https://jobright.ai/jobs/info/69f65225db88714bcdfb60f1?utm_campaign=1058&utm_source=git)** | United States-Massachusetts-Chelsea-200 Arlington Street | Hybrid | May 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
