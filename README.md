@@ -57,13 +57,24 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[arrivia](https://www.arrivia.com/)** | **[IT Operations Intern](https://jobright.ai/jobs/info/69fb643518b94b2515be207e?utm_campaign=1058&utm_source=git)** | Scottsdale, Arizona, United States | On Site | May 06 |
+| **[Formic](https://formic.co)** | **[Summer 2026 Intern](https://jobright.ai/jobs/info/69debca1433ac8430e0dc2a4?utm_campaign=1058&utm_source=git)** | San Francisco Bay Area | On Site | May 06 |
+| **[AlixPartners](http://www.alixpartners.com)** | **[IT Corporate Applications Intern](https://jobright.ai/jobs/info/69fb625d38179b6f1ae77fe3?utm_campaign=1058&utm_source=git)** | Detroit | On Site | May 06 |
+| **[TekSynap](https://www.teksynap.com/)** | **[TekSynap Internship - Inventory Specialist](https://jobright.ai/jobs/info/69fb61f4ffa73664aeaff4a1?utm_campaign=1058&utm_source=git)** | US-MI-Battle Creek | On Site | May 06 |
+| **[Princeton University](http://www.princeton.edu)** | **[Real Estate Records Support Intern - Temporary](https://jobright.ai/jobs/info/69fb61d7ffa73664aeaff488?utm_campaign=1058&utm_source=git)** | Princeton, NJ, US | On Site | May 06 |
+| **[TekSynap](https://www.teksynap.com/)** | **[TekSynap Internship - Inventory Specialist](https://jobright.ai/jobs/info/69fb61d086d5cd46527d52ad?utm_campaign=1058&utm_source=git)** | Columbus, OH, US | On Site | May 06 |
 | **[First American Equipment Finance](http://faef.com)** | **[Sales Support Intern](https://jobright.ai/jobs/info/69fb580918b94b2515be1ab1?utm_campaign=1058&utm_source=git)** | Rochester, NY, US | Hybrid | May 06 |
 | **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Fall 2026 - College Intern - Hilton Head Island, SC (Front Office)](https://jobright.ai/jobs/info/69fb57ceffa73664aeafee3e?utm_campaign=1058&utm_source=git)** | Marriott's Grande Ocean, US | On Site | May 06 |
+| **[Tucson Medical Center](https://www.tmcaz.com/)** | **[Student Intern - IS](https://jobright.ai/jobs/info/69efd6610a6e09555305773e?utm_campaign=1058&utm_source=git)** | Tucson, AZ | On Site | May 06 |
+| **[AlixPartners](http://www.alixpartners.com)** | **[IT Corporate Applications Intern](https://jobright.ai/jobs/info/69fb64c986d5cd46527d556f?utm_campaign=1058&utm_source=git)** | Southfield, MI | On Site | May 06 |
+| **[The Reynolds and Reynolds Company](https://www.reyrey.com)** | **[Cancellations Summer Intern](https://jobright.ai/jobs/info/69fb66ca38179b6f1ae78343?utm_campaign=1058&utm_source=git)** | Warrenville, IL | On Site | May 06 |
+| **[BorgWarner](http://www.borgwarner.com)** | **[Client Technologies Specialist IT Intern (Year-Round)](https://jobright.ai/jobs/info/69c1b1602c312363dcd4da35?utm_campaign=1058&utm_source=git)** | Auburn Hills, MI | On Site | May 06 |
 | **[Golden 1 Credit Union](https://www.golden1.com/)** | **[LA County - Contact Center MSR II - Remote](https://jobright.ai/jobs/info/6933b085764507023d1b8597?utm_campaign=1058&utm_source=git)** | Los Angeles County, CA | Remote | May 06 |
 | **[Therma-Tru Doors](http://www.thermatru.com/)** | **[IT Infrastructure Intern](https://jobright.ai/jobs/info/69de588836823d1b42580821?utm_campaign=1058&utm_source=git)** | Butler, IN | On Site | May 06 |
 | **[Oblak Consulting](https://www.oblakconsulting.com)** | **[Intern](https://jobright.ai/jobs/info/69fb57b986d5cd46527d4fc9?utm_campaign=1058&utm_source=git)** | Location, WV | On Site | May 06 |
 | **[Fred Meyer](https://www.fredmeyer.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69fb561effa73664aeafeaf2?utm_campaign=1058&utm_source=git)** | Coeur d'Alene, ID | On Site | May 05 |
 | **[BrightView Landscapes](https://www.brightview.com)** | **[IT Intern - Summer 2026](https://jobright.ai/jobs/info/69fb4b1b18b94b2515be1347?utm_campaign=1058&utm_source=git)** | Blue Bell, PA | On Site | May 05 |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69fb6651d21cf86d1e3d2d05?utm_campaign=1058&utm_source=git)** | Grosse Ile, MI | On Site | May 05 |
 | **[U.S. Tsubaki Power Transmission, LLC](http://ustsubaki.com)** | **[Intern, Help Desk Tech - WHL](https://jobright.ai/jobs/info/69fb4b1818b94b2515be133c?utm_campaign=1058&utm_source=git)** | Wheeling, IL | On Site | May 05 |
 | ↳ | **[Intern, Help Desk Tech - WHL](https://jobright.ai/jobs/info/69fb17b9d21cf86d1e3cf6b3?utm_campaign=1058&utm_source=git)** | Wheeling, Illinois | On Site | May 05 |
 | **[Tronox](http://www.tronox.com/)** | **[Information Technology (IT) Intern](https://jobright.ai/jobs/info/69fb497d87a4820e6da86f06?utm_campaign=1058&utm_source=git)** | Hamilton, MS | On Site | May 05 |
@@ -146,15 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CBC Real Estate](https://www.cbcrealestate.com/)** | **[Ticketing Box Office Intern](https://jobright.ai/jobs/info/69fa1216582f810f9c8d3eae?utm_campaign=1058&utm_source=git)** | Durham, NC, US | On Site | May 05 |
 | **[CBC New Media Group, LLC](https://www.linkedin.com/company/5866674)** | **[Ticketing Box Office Intern](https://jobright.ai/jobs/info/69fa1216b1fc847fc1aedf7c?utm_campaign=1058&utm_source=git)** | Durham, NC, US | On Site | May 05 |
 | **[BSI Financial Services](https://www.bsifinancial.com)** | **[Licensing & Digital Records Management Intern](https://jobright.ai/jobs/info/69fa1211db88714bcdfc0fec?utm_campaign=1058&utm_source=git)** | Titusville, PA 16354, USA | On Site | May 05 |
-| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69fb4a66d21cf86d1e3d17e9?utm_campaign=1058&utm_source=git)** | Pinole, CA | On Site | May 05 |
-| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69fb1b1187a4820e6da84f38?utm_campaign=1058&utm_source=git)** | West Dundee, IL | On Site | May 05 |
-| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69fb1a9c86d5cd46527d290d?utm_campaign=1058&utm_source=git)** | Richland, WA | On Site | May 05 |
-| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69fb19d818b94b2515bdf27a?utm_campaign=1058&utm_source=git)** | Carrollton, GA | On Site | May 05 |
-| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69fb19c718b94b2515bdf24f?utm_campaign=1058&utm_source=git)** | Belvidere, IL | On Site | May 05 |
-| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69fb1c4ee1560008411565e8?utm_campaign=1058&utm_source=git)** | Freeport, IL | On Site | May 05 |
-| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69fb19d818b94b2515bdf27b?utm_campaign=1058&utm_source=git)** | Foxborough, MA | On Site | May 05 |
-| **[Durham Bulls Baseball Club](http://www.durhambulls.com)** | **[Ticketing Box Office Intern](https://jobright.ai/jobs/info/69fb1896e1560008411562f8?utm_campaign=1058&utm_source=git)** | Triangle Area | On Site | May 05 |
-| **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/69fb200fe156000841156a31?utm_campaign=1058&utm_source=git)** | Powder Springs, GA | On Site | May 05 |
-| **[ReCon Management Services, Inc.](http://recon-group.com)** | **[Intern](https://jobright.ai/jobs/info/69fb18ddd21cf86d1e3cf847?utm_campaign=1058&utm_source=git)** | Sulphur, LA | On Site | May 05 |
-| **[AbelCine](http://abelcine.com)** | **[IT Internship - New York - Summer 2026](https://jobright.ai/jobs/info/69fa097eb1fc847fc1aede68?utm_campaign=1058&utm_source=git)** | Brooklyn, NY | On Site | May 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
