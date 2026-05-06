@@ -146,6 +146,8 @@ For a complete list, click the following sortable link below:
 | **[Trinity Health](http://www.trinity-health.org)** | **[Intern Pharmacist](https://jobright.ai/jobs/info/69a0ba725218a8167671e55e?utm_campaign=1058&utm_source=git)** | Des Moines, IA | On Site | May 03 |
 | **[Mohawk Valley Health System](https://www.mvhealthsystem.org)** | **[Imaging Intern - Variable Shifts -Occasional](https://jobright.ai/jobs/info/69becccb393a1008f744a7e6?utm_campaign=1058&utm_source=git)** | Utica, NY | On Site | May 03 |
 | **[Packaging Corporation of America](http://packagingcorp.com)** | **[IT Intern Summer-Fall 2026 Counce Mill](https://jobright.ai/jobs/info/69a243e00da45516f16b8b20?utm_campaign=1058&utm_source=git)** | Counce, TN | On Site | May 03 |
+| **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/69fa97f1b1fc847fc1af0e42?utm_campaign=1058&utm_source=git)** | Lincolnwood, IL | On Site | May 03 |
+| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69fa9955db88714bcdfc388a?utm_campaign=1058&utm_source=git)** | Lincolnwood, IL | On Site | May 03 |
 | **[apexanalytix](https://www.apexanalytix.com)** | **[Support/Implementation Specialist Intern (Summer 2026)](https://jobright.ai/jobs/info/68c027e1702aa35207aaaf88?utm_campaign=1058&utm_source=git)** | Greensboro, NC | On Site | May 03 |
 | **[Ochsner Health](https://www.ochsner.org/)** | **[Summer Laboratory Intern](https://jobright.ai/jobs/info/69f746850b36ff0354757986?utm_campaign=1058&utm_source=git)** | New Orleans, LA | On Site | May 03 |
 | **[CHRISTUS Health](https://www.christushealth.org/santa-rosa)** | **[Pharmacist Intern - General Pharmacy - PRN](https://jobright.ai/jobs/info/69daf4d85356a60f40fe446b?utm_campaign=1058&utm_source=git)** | Shreveport, LA | On Site | May 03 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CHRISTUS Health](https://www.christushealth.org/santa-rosa)** | **[Pharmacist Intern - General Pharmacy](https://jobright.ai/jobs/info/69d959f4738f2f099e8a13ba?utm_campaign=1058&utm_source=git)** | Corpus Christi, TX | On Site | May 02 |
 | **[Nuvance Health](https://www.nuvancehealth.org)** | **[Medical Assistant Intern - Float Pool Region C](https://jobright.ai/jobs/info/69f69a0e81706a5bd2169f41?utm_campaign=1058&utm_source=git)** | Danbury, CT | On Site | May 02 |
 | **[Fry's Food and Drug](http://www.frysfood.com)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/69f69a04b1fc847fc1ae408c?utm_campaign=1058&utm_source=git)** | Phoenix, AZ | On Site | May 02 |
-| ↳ | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/69f69982a3d34b4f76f5941e?utm_campaign=1058&utm_source=git)** | Goodyear, AZ | On Site | May 02 |
-| ↳ | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/69f69810db88714bcdfb7209?utm_campaign=1058&utm_source=git)** | Glendale, AZ | On Site | May 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
