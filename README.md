@@ -57,13 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Magnet Forensics](http://magnetforensics.com)** | **[Desktop Support Co-op (Fall 2026)](https://jobright.ai/jobs/info/69fbfb7e76c60e7b70af14b4?utm_campaign=1058&utm_source=git)** | Waterloo, Ontario, Canada | Hybrid | May 06 |
+| **[DHL Supply Chain](https://www.dhl.com/gb-en/home/supply-chain.html)** | **[Air Freight Specialist - Summer Internship](https://jobright.ai/jobs/info/69fbfe62c39b9a66c0c55d90?utm_campaign=1058&utm_source=git)** | Minneapolis, Minnesota, United States of America | On Site | May 06 |
+| **[Magnet Forensics](http://magnetforensics.com)** | **[Technical Writer Co-op (Fall 2026)](https://jobright.ai/jobs/info/69fbfbe93802c7621fd8ecd5?utm_campaign=1058&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | May 06 |
+| ↳ | **[Desktop Support Co-op (Fall 2026)](https://jobright.ai/jobs/info/69fbfbd93160b250eb1baf54?utm_campaign=1058&utm_source=git)** | Ontario, Canada | Hybrid | May 06 |
+| ↳ | **[Technical Writer Co-op (Fall 2026)](https://jobright.ai/jobs/info/69fbfbd02f9f6b7cf69105b9?utm_campaign=1058&utm_source=git)** | Waterloo, Ontario, Canada | Hybrid | May 06 |
 | ↳ | **[Technical Writer Co-op (Fall 2026)](https://jobright.ai/jobs/info/69fbfb7e76c60e7b70af14b7?utm_campaign=1058&utm_source=git)** | Ontario, Canada | Hybrid | May 06 |
+| ↳ | **[Desktop Support Co-op (Fall 2026)](https://jobright.ai/jobs/info/69fbfb7e76c60e7b70af14b4?utm_campaign=1058&utm_source=git)** | Waterloo, Ontario, Canada | Hybrid | May 06 |
 | **[Yardi](https://www.yardi.com)** | **[Intern, Associate Technical Account Manager](https://jobright.ai/jobs/info/69fbf73a3802c7621fd8eaea?utm_campaign=1058&utm_source=git)** | New York, NY | Hybrid | May 06 |
 | **[Horizon Hobby](https://www.horizonhobby.com/)** | **[IT Operations Support Intern](https://jobright.ai/jobs/info/69fbf6c2a5949019c55b21fd?utm_campaign=1058&utm_source=git)** | Champaign, IL | On Site | May 06 |
 | **[Freeman Hospital](https://www.newcastle-hospitals.nhs.uk/consultants/dr-abbas-khushnood/)** | **[Clinical Administrator](https://jobright.ai/jobs/info/69fbee843802c7621fd8e12d?utm_campaign=1058&utm_source=git)** | Carthage, MO | On Site | May 06 |
 | ↳ | **[Junior IT Service Desk Analyst](https://jobright.ai/jobs/info/69fbeed476c60e7b70af09b1?utm_campaign=1058&utm_source=git)** | Carthage, MO | On Site | May 06 |
 | **[West Virginia University Foundation](https://www.wvuf.org/)** | **[Office Support Intern](https://jobright.ai/jobs/info/69fbef903160b250eb1ba80c?utm_campaign=1058&utm_source=git)** | Morgantown, WV | Hybrid | May 06 |
+| **[Arkansas Children's](https://www.archildrens.org/locations/arkansas-childrens-nw)** | **[Systems Support Analyst Intern](https://jobright.ai/jobs/info/69fc05df3160b250eb1bb170?utm_campaign=1058&utm_source=git)** | Little Rock, AR | On Site | May 06 |
 | **[DHL Global Forwarding](https://www.fedquestsolutions.com)** | **[Air Freight Specialist - Summer Internship](https://jobright.ai/jobs/info/69fbf7023802c7621fd8e9ff?utm_campaign=1058&utm_source=git)** | Minneapolis, MN | On Site | May 06 |
 | **[First Student](http://www.firststudentinc.com)** | **[Paratransit Fleet Intern](https://jobright.ai/jobs/info/69fbeff82f9f6b7cf690fe96?utm_campaign=1058&utm_source=git)** | Brooklyn, NY | On Site | May 06 |
 | **[New College of Florida](https://www.ncf.edu/)** | **[Student Assistant, Intern, IT](https://jobright.ai/jobs/info/69e7e494f8fa2f3ec32aa38e?utm_campaign=1058&utm_source=git)** | Sarasota, FL | On Site | May 06 |
@@ -76,18 +81,18 @@ For a complete list, click the following sortable link below:
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[J1 Internship / Rooms](https://jobright.ai/jobs/info/69fbeb043160b250eb1b93db?utm_campaign=1058&utm_source=git)** | Omni Mount Washington Resort, 310 Mount Washington Hotel Rd, Bretton Woods, New Hampshire, United States of America | On Site | May 06 |
 | **[Leons](https://www.leonsdigital.com)** | **[IT Technical Support Intern ON](https://jobright.ai/jobs/info/69fbdaafd21cf86d1e3d5472?utm_campaign=1058&utm_source=git)** | Toronto, ON, CA | On Site | May 06 |
 | ↳ | **[IT Technical Support Intern ON](https://jobright.ai/jobs/info/69fbdacdffa73664aeb02574?utm_campaign=1058&utm_source=git)** | CA-ON-Toronto | On Site | May 06 |
-| **[Mariner Finance](http://www.marinerfinance.com)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/69fbda9dd21cf86d1e3d542e?utm_campaign=1058&utm_source=git)** | Onsite | On Site | May 06 |
+| **[Mariner Finance](http://www.marinerfinance.com)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/69fbda9586d5cd46527d84b2?utm_campaign=1058&utm_source=git)** | US-FL-Tampa | On Site | May 06 |
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/69fbda9c87a4820e6da8b019?utm_campaign=1058&utm_source=git)** | Tampa, FL, US | On Site | May 06 |
-| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/69fbda9586d5cd46527d84b2?utm_campaign=1058&utm_source=git)** | US-FL-Tampa | On Site | May 06 |
+| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/69fbda9dd21cf86d1e3d542e?utm_campaign=1058&utm_source=git)** | Onsite | On Site | May 06 |
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/69fbdad2ffa73664aeb0259f?utm_campaign=1058&utm_source=git)** | Baton Rouge, LA, US | On Site | May 06 |
-| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/69fbdadd18b94b2515be51dc?utm_campaign=1058&utm_source=git)** | US-LA-Baton Rouge | On Site | May 06 |
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/69fbdafd38179b6f1ae7b2ef?utm_campaign=1058&utm_source=git)** | Onsite | On Site | May 06 |
+| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/69fbdadd18b94b2515be51dc?utm_campaign=1058&utm_source=git)** | US-LA-Baton Rouge | On Site | May 06 |
 | **[Armada](https://www.armada.ai)** | **[IT Support Intern](https://jobright.ai/jobs/info/69fba9d4ffa73664aeb01940?utm_campaign=1058&utm_source=git)** | Bellevue Office, Sunset Corporate Campus | On Site | May 06 |
 | **[Gen](https://www.gendigital.com)** | **[Sales Enablement Summer Intern](https://jobright.ai/jobs/info/69fba99d18b94b2515be4481?utm_campaign=1058&utm_source=git)** | Tempe, AZ | On Site | May 06 |
 | **[Xometry](https://www.xometry.com)** | **[Case Management Intern](https://jobright.ai/jobs/info/6948ed3863141d1884589708?utm_campaign=1058&utm_source=git)** | Gaithersburg, MD | Hybrid | May 06 |
 | **[Baylor College of Medicine](http://www.bcm.edu/)** | **[Intern/Aide - (Neurology)](https://jobright.ai/jobs/info/69fbee993160b250eb1ba300?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | May 06 |
-| **[TowneBank](https://www.townebank.com/)** | **[Intern -  Greenville, NC](https://jobright.ai/jobs/info/69fbea9dc39b9a66c0c53e62?utm_campaign=1058&utm_source=git)** | Winterville, North Carolina, United States | On Site | May 06 |
-| ↳ | **[Intern -  Fayetteville, NC](https://jobright.ai/jobs/info/69fbeaf43160b250eb1b92e4?utm_campaign=1058&utm_source=git)** | Fayetteville, North Carolina, United States | On Site | May 06 |
+| **[TowneBank](https://www.townebank.com/)** | **[Intern -  Fayetteville, NC](https://jobright.ai/jobs/info/69fbeaf43160b250eb1b92e4?utm_campaign=1058&utm_source=git)** | Fayetteville, North Carolina, United States | On Site | May 06 |
+| ↳ | **[Intern -  Greenville, NC](https://jobright.ai/jobs/info/69fbea9dc39b9a66c0c53e62?utm_campaign=1058&utm_source=git)** | Winterville, North Carolina, United States | On Site | May 06 |
 | **[West Virginia University Foundation](https://www.wvuf.org/)** | **[Office Support Intern](https://jobright.ai/jobs/info/69fbeab6c39b9a66c0c53ed1?utm_campaign=1058&utm_source=git)** | Morgantown, WV 26507 | Hybrid | May 06 |
 | **[Armada](https://www.armada.ai)** | **[IT Support Intern (Unpaid)](https://jobright.ai/jobs/info/69fbf0313802c7621fd8e635?utm_campaign=1058&utm_source=git)** | Bellevue, WA | On Site | May 06 |
 | **[Harmony United Psychiatric Care](https://hupcfl.com)** | **[Psychiatric Office Assistant Internship/Outpatient Clinic (Certification Program)/Oviedo](https://jobright.ai/jobs/info/69fbeb3d76c60e7b70aef9ac?utm_campaign=1058&utm_source=git)** | Oviedo, FL | On Site | May 06 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Help Desk Tech - WHL](https://jobright.ai/jobs/info/69fb17b9d21cf86d1e3cf6b3?utm_campaign=1058&utm_source=git)** | Wheeling, Illinois | On Site | May 05 |
 | **[Tronox](http://www.tronox.com/)** | **[Information Technology (IT) Intern](https://jobright.ai/jobs/info/69fb497d87a4820e6da86f06?utm_campaign=1058&utm_source=git)** | Hamilton, MS | On Site | May 05 |
 | **[Coastal Carolina University](http://www.coastal.edu/)** | **[Pantry Assistant (Student Assistant)](https://jobright.ai/jobs/info/69f26956825a315d7ca3c6b7?utm_campaign=1058&utm_source=git)** | Conway, SC | On Site | May 05 |
-| **[Mount Sinai Health System](https://www.mountsinai.org)** | **[Student Nurse Intern (TEMP) - Mount Sinai Brooklyn - Full-time - Day](https://jobright.ai/jobs/info/69f3d8f3461b9b613a624627?utm_campaign=1058&utm_source=git)** | Brooklyn, NY | On Site | May 05 |
-| **[Parker Hannifin](http://www.parker.com)** | **[Intern IT](https://jobright.ai/jobs/info/69fb4b57d21cf86d1e3d1a03?utm_campaign=1058&utm_source=git)** | Manhattan, KS | On Site | May 05 |
-| **[Palmetto](http://www.palmetto.com)** | **[Customer Experience Data & Operations Intern](https://jobright.ai/jobs/info/69fb4b08d21cf86d1e3d1940?utm_campaign=1058&utm_source=git)** | Charlotte, NC | On Site | May 05 |
-| **[CHRISTUS Health](https://www.christushealth.org/santa-rosa)** | **[Student Intern - Identity Management](https://jobright.ai/jobs/info/69fb3a9b18b94b2515be0856?utm_campaign=1058&utm_source=git)** | San Antonio, TX | On Site | May 05 |
-| **[McLaren Health Care](http://www.mclaren.org)** | **[Intern- Cardiac Cath Lab](https://jobright.ai/jobs/info/69fb3d7818b94b2515be0c4c?utm_campaign=1058&utm_source=git)** | Petoskey, MI | On Site | May 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
