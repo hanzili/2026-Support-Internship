@@ -61,9 +61,10 @@ For a complete list, click the following sortable link below:
 | **[Magnet Forensics](http://magnetforensics.com)** | **[Technical Writer Co-op (Fall 2026)](https://jobright.ai/jobs/info/69fbfbe93802c7621fd8ecd5?utm_campaign=1058&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | May 06 |
 | ↳ | **[Desktop Support Co-op (Fall 2026)](https://jobright.ai/jobs/info/69fbfbd93160b250eb1baf54?utm_campaign=1058&utm_source=git)** | Ontario, Canada | Hybrid | May 06 |
 | ↳ | **[Technical Writer Co-op (Fall 2026)](https://jobright.ai/jobs/info/69fbfbd02f9f6b7cf69105b9?utm_campaign=1058&utm_source=git)** | Waterloo, Ontario, Canada | Hybrid | May 06 |
-| ↳ | **[Technical Writer Co-op (Fall 2026)](https://jobright.ai/jobs/info/69fbfb7e76c60e7b70af14b7?utm_campaign=1058&utm_source=git)** | Ontario, Canada | Hybrid | May 06 |
 | ↳ | **[Desktop Support Co-op (Fall 2026)](https://jobright.ai/jobs/info/69fbfb7e76c60e7b70af14b4?utm_campaign=1058&utm_source=git)** | Waterloo, Ontario, Canada | Hybrid | May 06 |
+| ↳ | **[Technical Writer Co-op (Fall 2026)](https://jobright.ai/jobs/info/69fbfb7e76c60e7b70af14b7?utm_campaign=1058&utm_source=git)** | Ontario, Canada | Hybrid | May 06 |
 | **[Yardi](https://www.yardi.com)** | **[Intern, Associate Technical Account Manager](https://jobright.ai/jobs/info/69fbf73a3802c7621fd8eaea?utm_campaign=1058&utm_source=git)** | New York, NY | Hybrid | May 06 |
+| **[arrivia](https://www.arrivia.com/)** | **[IT Operations Intern](https://jobright.ai/jobs/info/69fc0d55a5949019c55b2cb6?utm_campaign=1058&utm_source=git)** | Scottsdale, AZ | On Site | May 06 |
 | **[Horizon Hobby](https://www.horizonhobby.com/)** | **[IT Operations Support Intern](https://jobright.ai/jobs/info/69fbf6c2a5949019c55b21fd?utm_campaign=1058&utm_source=git)** | Champaign, IL | On Site | May 06 |
 | **[Freeman Hospital](https://www.newcastle-hospitals.nhs.uk/consultants/dr-abbas-khushnood/)** | **[Clinical Administrator](https://jobright.ai/jobs/info/69fbee843802c7621fd8e12d?utm_campaign=1058&utm_source=git)** | Carthage, MO | On Site | May 06 |
 | ↳ | **[Junior IT Service Desk Analyst](https://jobright.ai/jobs/info/69fbeed476c60e7b70af09b1?utm_campaign=1058&utm_source=git)** | Carthage, MO | On Site | May 06 |
@@ -81,11 +82,11 @@ For a complete list, click the following sortable link below:
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[J1 Internship / Rooms](https://jobright.ai/jobs/info/69fbeb043160b250eb1b93db?utm_campaign=1058&utm_source=git)** | Omni Mount Washington Resort, 310 Mount Washington Hotel Rd, Bretton Woods, New Hampshire, United States of America | On Site | May 06 |
 | **[Leons](https://www.leonsdigital.com)** | **[IT Technical Support Intern ON](https://jobright.ai/jobs/info/69fbdaafd21cf86d1e3d5472?utm_campaign=1058&utm_source=git)** | Toronto, ON, CA | On Site | May 06 |
 | ↳ | **[IT Technical Support Intern ON](https://jobright.ai/jobs/info/69fbdacdffa73664aeb02574?utm_campaign=1058&utm_source=git)** | CA-ON-Toronto | On Site | May 06 |
-| **[Mariner Finance](http://www.marinerfinance.com)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/69fbda9586d5cd46527d84b2?utm_campaign=1058&utm_source=git)** | US-FL-Tampa | On Site | May 06 |
+| **[Mariner Finance](http://www.marinerfinance.com)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/69fbda9dd21cf86d1e3d542e?utm_campaign=1058&utm_source=git)** | Onsite | On Site | May 06 |
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/69fbda9c87a4820e6da8b019?utm_campaign=1058&utm_source=git)** | Tampa, FL, US | On Site | May 06 |
-| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/69fbda9dd21cf86d1e3d542e?utm_campaign=1058&utm_source=git)** | Onsite | On Site | May 06 |
-| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/69fbdad2ffa73664aeb0259f?utm_campaign=1058&utm_source=git)** | Baton Rouge, LA, US | On Site | May 06 |
+| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/69fbda9586d5cd46527d84b2?utm_campaign=1058&utm_source=git)** | US-FL-Tampa | On Site | May 06 |
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/69fbdafd38179b6f1ae7b2ef?utm_campaign=1058&utm_source=git)** | Onsite | On Site | May 06 |
+| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/69fbdad2ffa73664aeb0259f?utm_campaign=1058&utm_source=git)** | Baton Rouge, LA, US | On Site | May 06 |
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/69fbdadd18b94b2515be51dc?utm_campaign=1058&utm_source=git)** | US-LA-Baton Rouge | On Site | May 06 |
 | **[Armada](https://www.armada.ai)** | **[IT Support Intern](https://jobright.ai/jobs/info/69fba9d4ffa73664aeb01940?utm_campaign=1058&utm_source=git)** | Bellevue Office, Sunset Corporate Campus | On Site | May 06 |
 | **[Gen](https://www.gendigital.com)** | **[Sales Enablement Summer Intern](https://jobright.ai/jobs/info/69fba99d18b94b2515be4481?utm_campaign=1058&utm_source=git)** | Tempe, AZ | On Site | May 06 |
@@ -110,7 +111,6 @@ For a complete list, click the following sortable link below:
 | **[PM Hotel Group](https://pmhotelgroup.com)** | **[Guest Services Intern / The Windsor Suites Philadelphia / Modus by PM Hotel Group](https://jobright.ai/jobs/info/69fb984186d5cd46527d6b01?utm_campaign=1058&utm_source=git)** | Philadelphia, Pennsylvania, United States | On Site | May 06 |
 | **[Horizon Hobby](https://www.horizonhobby.com/)** | **[IT Operations Support Intern](https://jobright.ai/jobs/info/69fb983938179b6f1ae79917?utm_campaign=1058&utm_source=git)** | Champaign, Illinois, United States | On Site | May 06 |
 | **[The Home Depot](https://www.homedepot.com)** | **[IT Support Intern](https://jobright.ai/jobs/info/69fb96be87a4820e6da8907c?utm_campaign=1058&utm_source=git)** | Pomona, CA | On Site | May 06 |
-| **[Symphony Financial, Ltd. Co. A Registered Investment Advisor](https://4-sf.com)** | **[2026 Summer Intern](https://jobright.ai/jobs/info/69fb95ad86d5cd46527d67cd?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | May 06 |
 | **[PM Hotel Group](https://pmhotelgroup.com)** | **[Guest Services Intern / The Windsor Suites Philadelphia / Modus by PM Hotel Group](https://jobright.ai/jobs/info/69fbee2976c60e7b70af06c7?utm_campaign=1058&utm_source=git)** | Philadelphia, PA | On Site | May 06 |
 | **[Princeton University](http://www.princeton.edu)** | **[Real Estate Records Support Intern - Temporary](https://jobright.ai/jobs/info/69fbf6f53802c7621fd8e9c5?utm_campaign=1058&utm_source=git)** | Princeton, NJ | On Site | May 06 |
 | **[Quincy Medical Group](https://quincymedgroup.com/)** | **[Patient Access Representative Intern (Summer)](https://jobright.ai/jobs/info/69fbda8887a4820e6da8afda?utm_campaign=1058&utm_source=git)** | Quincy, IL, US | On Site | May 06 |
