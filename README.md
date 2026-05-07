@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[East Texas A&M University](https://www.etamu.edu)** | **[Intern- Information Technology (OIT-SIS)](https://jobright.ai/jobs/info/69fceaaf5cff890b03f34b12?utm_campaign=1058&utm_source=git)** | Laredo, TX, US | On Site | May 07 |
+| **[Milton Gottesman Jewish Day School](www.miltongottesman.org)** | **[IT Summer Support Intern](https://jobright.ai/jobs/info/69fce8c56b788e7e7a5c3957?utm_campaign=1058&utm_source=git)** | Washington,DC,US | On Site | May 07 |
+| **[Point Blank Enterprises, Inc.](http://www.pointblankenterprises.com/)** | **[Internship  - IT](https://jobright.ai/jobs/info/69fce810432a3c4da8dfff52?utm_campaign=1058&utm_source=git)** | Pompano Beach, Florida, United States | On Site | May 07 |
+| **[Kessler Collection](http://www.kesslercollection.com)** | **[Rooms Internship](https://jobright.ai/jobs/info/69fce08d938a651755f974f4?utm_campaign=1058&utm_source=git)** | Greenville, SC, US | On Site | May 07 |
+| ↳ | **[Rooms Internship](https://jobright.ai/jobs/info/69fce0865cff890b03f343e8?utm_campaign=1058&utm_source=git)** | US-SC-Greenville | On Site | May 07 |
 | **[Sandestin Golf and Beach Resort®](http://www.sandestin.com)** | **[Internship](https://jobright.ai/jobs/info/69fcda995cff890b03f33fea?utm_campaign=1058&utm_source=git)** | Sandestin Golf and Beach Resort, Miramar Beach, FL, US | On Site | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[IT Summer Intern / June 2026 / $16.60/hour](https://jobright.ai/jobs/info/69fcda865cff890b03f33fb9?utm_campaign=1058&utm_source=git)** | Chicago, IL, US | On Site | May 07 |
 | ↳ | **[IT Internship -Part-Time](https://jobright.ai/jobs/info/69fcda045cff890b03f33f2b?utm_campaign=1058&utm_source=git)** | NY, US | On Site | May 07 |
@@ -144,17 +149,12 @@ For a complete list, click the following sortable link below:
 | **[Nationwide Children's Hospital](http://www.nationwidechildrens.org)** | **[Intern-IS Desktop Services](https://jobright.ai/jobs/info/69fbf6cd76c60e7b70af1286?utm_campaign=1058&utm_source=git)** | Columbus, OH | On Site | May 06 |
 | **[Second Harvest](https://secondharvest.ca)** | **[Dispatch Assistant (Summer Intern)](https://jobright.ai/jobs/info/69fbab9c38179b6f1ae7ab72?utm_campaign=1058&utm_source=git)** | Etobicoke | On Site | May 06 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[J1 Internship / Rooms](https://jobright.ai/jobs/info/69fbeb043160b250eb1b93db?utm_campaign=1058&utm_source=git)** | Omni Mount Washington Resort, 310 Mount Washington Hotel Rd, Bretton Woods, New Hampshire, United States of America | On Site | May 06 |
-| **[Leons](https://www.leonsdigital.com)** | **[IT Technical Support Intern ON](https://jobright.ai/jobs/info/69fbdacdffa73664aeb02574?utm_campaign=1058&utm_source=git)** | CA-ON-Toronto | On Site | May 06 |
-| ↳ | **[IT Technical Support Intern ON](https://jobright.ai/jobs/info/69fbdaafd21cf86d1e3d5472?utm_campaign=1058&utm_source=git)** | Toronto, ON, CA | On Site | May 06 |
-| **[Mariner Finance](http://www.marinerfinance.com)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/69fbda9586d5cd46527d84b2?utm_campaign=1058&utm_source=git)** | US-FL-Tampa | On Site | May 06 |
-| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/69fbda9c87a4820e6da8b019?utm_campaign=1058&utm_source=git)** | Tampa, FL, US | On Site | May 06 |
+| **[Leons](https://www.leonsdigital.com)** | **[IT Technical Support Intern ON](https://jobright.ai/jobs/info/69fbdaafd21cf86d1e3d5472?utm_campaign=1058&utm_source=git)** | Toronto, ON, CA | On Site | May 06 |
+| ↳ | **[IT Technical Support Intern ON](https://jobright.ai/jobs/info/69fbdacdffa73664aeb02574?utm_campaign=1058&utm_source=git)** | CA-ON-Toronto | On Site | May 06 |
+| **[Mariner Finance](http://www.marinerfinance.com)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/69fbda9c87a4820e6da8b019?utm_campaign=1058&utm_source=git)** | Tampa, FL, US | On Site | May 06 |
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/69fbda9dd21cf86d1e3d542e?utm_campaign=1058&utm_source=git)** | Onsite | On Site | May 06 |
-| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/69fbdafd38179b6f1ae7b2ef?utm_campaign=1058&utm_source=git)** | Onsite | On Site | May 06 |
+| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/69fbda9586d5cd46527d84b2?utm_campaign=1058&utm_source=git)** | US-FL-Tampa | On Site | May 06 |
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/69fbdadd18b94b2515be51dc?utm_campaign=1058&utm_source=git)** | US-LA-Baton Rouge | On Site | May 06 |
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/69fbdad2ffa73664aeb0259f?utm_campaign=1058&utm_source=git)** | Baton Rouge, LA, US | On Site | May 06 |
-| **[Armada](https://www.armada.ai)** | **[IT Support Intern](https://jobright.ai/jobs/info/69fba9d4ffa73664aeb01940?utm_campaign=1058&utm_source=git)** | Bellevue Office, Sunset Corporate Campus | On Site | May 06 |
-| **[Gen](https://www.gendigital.com)** | **[Sales Enablement Summer Intern](https://jobright.ai/jobs/info/69fba99d18b94b2515be4481?utm_campaign=1058&utm_source=git)** | Tempe, AZ | On Site | May 06 |
-| **[Xometry](https://www.xometry.com)** | **[Case Management Intern](https://jobright.ai/jobs/info/6948ed3863141d1884589708?utm_campaign=1058&utm_source=git)** | Gaithersburg, MD | Hybrid | May 06 |
-| **[Baylor College of Medicine](http://www.bcm.edu/)** | **[Intern/Aide - (Neurology)](https://jobright.ai/jobs/info/69fbee993160b250eb1ba300?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | May 06 |
-| **[TowneBank](https://www.townebank.com/)** | **[Intern -  Fayetteville, NC](https://jobright.ai/jobs/info/69fbeaf43160b250eb1b92e4?utm_campaign=1058&utm_source=git)** | Fayetteville, North Carolina, United States | On Site | May 06 |
+| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/69fbdafd38179b6f1ae7b2ef?utm_campaign=1058&utm_source=git)** | Onsite | On Site | May 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
