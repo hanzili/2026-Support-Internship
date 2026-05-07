@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[OneSpan](https://www.onespan.com)** | **[stagiaire d’été – Plateforme Salesforce - Salesforce Platform Summer Intern](https://jobright.ai/jobs/info/69fcf5355cff890b03f34e8a?utm_campaign=1058&utm_source=git)** | Montréal, Quebec, Canada | Hybrid | May 07 |
+| **[District Offices](https://districtoffices.net/capitol-hill/)** | **[Summer Intern](https://jobright.ai/jobs/info/69fceea76b788e7e7a5c3c6f?utm_campaign=1058&utm_source=git)** | Washington, DC | On Site | May 07 |
 | **[East Texas A&M University](https://www.etamu.edu)** | **[Intern- Information Technology (OIT-SIS)](https://jobright.ai/jobs/info/69fceaaf5cff890b03f34b12?utm_campaign=1058&utm_source=git)** | Laredo, TX, US | On Site | May 07 |
 | **[Milton Gottesman Jewish Day School](www.miltongottesman.org)** | **[IT Summer Support Intern](https://jobright.ai/jobs/info/69fce8c56b788e7e7a5c3957?utm_campaign=1058&utm_source=git)** | Washington,DC,US | On Site | May 07 |
 | **[Point Blank Enterprises, Inc.](http://www.pointblankenterprises.com/)** | **[Internship  - IT](https://jobright.ai/jobs/info/69fce810432a3c4da8dfff52?utm_campaign=1058&utm_source=git)** | Pompano Beach, Florida, United States | On Site | May 07 |
@@ -68,6 +70,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Technology](https://jobright.ai/jobs/info/69fcd8b7666f063d3d6d11d1?utm_campaign=1058&utm_source=git)** | Las Vegas, NV, US | On Site | May 07 |
 | **[American Express Global Business Travel](https://www.amexglobalbusinesstravel.com)** | **[IT Billing Intern](https://jobright.ai/jobs/info/69fcd297b113035a9f8ebee3?utm_campaign=1058&utm_source=git)** | Maine, United States, US | On Site | May 07 |
 | **[Graham Manufacturing](http://graham-mfg.com)** | **[IT/Helpdesk Internship](https://jobright.ai/jobs/info/69fcd1f3432a3c4da8dff399?utm_campaign=1058&utm_source=git)** | Batavia,NY,US | On Site | May 07 |
+| **[eClerx](https://eclerx.com/)** | **[IT Intern](https://jobright.ai/jobs/info/69a7842d2672cb0acb4bfbe9?utm_campaign=1058&utm_source=git)** | Fayetteville, NC | On Site | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Desktop Support Intern](https://jobright.ai/jobs/info/69fcbe19938a651755f96311?utm_campaign=1058&utm_source=git)** | Arlington, TX, US | Hybrid | May 07 |
 | ↳ | **[Field Intern-ANN](https://jobright.ai/jobs/info/69fcbdea666f063d3d6d04e2?utm_campaign=1058&utm_source=git)** | Central Valley, NY, US | On Site | May 07 |
 | **[CarepathRx](https://carepathrxllc.com/)** | **[Intern - IT Operations](https://jobright.ai/jobs/info/69fcdc7a6b788e7e7a5c32c8?utm_campaign=1058&utm_source=git)** | OH - Remote, US | Remote | May 07 |
@@ -79,6 +82,7 @@ For a complete list, click the following sortable link below:
 | **[City Utilities of Springfield](https://www.cityutilities.net)** | **[GIS Technician Intern](https://jobright.ai/jobs/info/69fcc341666f063d3d6d08cf?utm_campaign=1058&utm_source=git)** | Springfield, MO, US | On Site | May 07 |
 | **[InterWorks](http://www.interworks.com)** | **[IT Intern](https://jobright.ai/jobs/info/68596a3df7e1d7c7ec214cfc?utm_campaign=1058&utm_source=git)** | Stillwater, Oklahoma, United States | On Site | May 07 |
 | **[KnitWell Group](https://www.knitwellgroup.com)** | **[Field Intern-ANN](https://jobright.ai/jobs/info/69fcc3a16b788e7e7a5c261d?utm_campaign=1058&utm_source=git)** | Store 2991-Woodbury Common Premium-ANN-Central Valley, NY 10917, US | On Site | May 07 |
+| **[Texas Rangers Baseball Club](http://www.texasrangers.com)** | **[Desktop Support Intern](https://jobright.ai/jobs/info/69fceed3b113035a9f8ecfd6?utm_campaign=1058&utm_source=git)** | Arlington, TX, US | On Site | May 07 |
 | **[Xometry](https://www.xometry.com)** | **[Customer Support Intern](https://jobright.ai/jobs/info/6952e5fa935649778e20a49f?utm_campaign=1058&utm_source=git)** | Waltham, MA | On Site | May 07 |
 | **[TLD](https://www.tld-group.com)** | **[Intern - Warehouse](https://jobright.ai/jobs/info/69fc9080666f063d3d6cf025?utm_campaign=1058&utm_source=git)** | Windsor, CT, US | On Site | May 07 |
 | **[TRM](https://www.trmmicrowave.com)** | **[Intern Shipping and Receiving](https://jobright.ai/jobs/info/69fcc2776b788e7e7a5c24ff?utm_campaign=1058&utm_source=git)** | Bedford,NH,US | On Site | May 07 |
@@ -149,12 +153,8 @@ For a complete list, click the following sortable link below:
 | **[Nationwide Children's Hospital](http://www.nationwidechildrens.org)** | **[Intern-IS Desktop Services](https://jobright.ai/jobs/info/69fbf6cd76c60e7b70af1286?utm_campaign=1058&utm_source=git)** | Columbus, OH | On Site | May 06 |
 | **[Second Harvest](https://secondharvest.ca)** | **[Dispatch Assistant (Summer Intern)](https://jobright.ai/jobs/info/69fbab9c38179b6f1ae7ab72?utm_campaign=1058&utm_source=git)** | Etobicoke | On Site | May 06 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[J1 Internship / Rooms](https://jobright.ai/jobs/info/69fbeb043160b250eb1b93db?utm_campaign=1058&utm_source=git)** | Omni Mount Washington Resort, 310 Mount Washington Hotel Rd, Bretton Woods, New Hampshire, United States of America | On Site | May 06 |
-| **[Leons](https://www.leonsdigital.com)** | **[IT Technical Support Intern ON](https://jobright.ai/jobs/info/69fbdaafd21cf86d1e3d5472?utm_campaign=1058&utm_source=git)** | Toronto, ON, CA | On Site | May 06 |
-| ↳ | **[IT Technical Support Intern ON](https://jobright.ai/jobs/info/69fbdacdffa73664aeb02574?utm_campaign=1058&utm_source=git)** | CA-ON-Toronto | On Site | May 06 |
-| **[Mariner Finance](http://www.marinerfinance.com)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/69fbda9c87a4820e6da8b019?utm_campaign=1058&utm_source=git)** | Tampa, FL, US | On Site | May 06 |
-| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/69fbda9dd21cf86d1e3d542e?utm_campaign=1058&utm_source=git)** | Onsite | On Site | May 06 |
-| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/69fbda9586d5cd46527d84b2?utm_campaign=1058&utm_source=git)** | US-FL-Tampa | On Site | May 06 |
-| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/69fbdadd18b94b2515be51dc?utm_campaign=1058&utm_source=git)** | US-LA-Baton Rouge | On Site | May 06 |
-| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/69fbdad2ffa73664aeb0259f?utm_campaign=1058&utm_source=git)** | Baton Rouge, LA, US | On Site | May 06 |
-| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/69fbdafd38179b6f1ae7b2ef?utm_campaign=1058&utm_source=git)** | Onsite | On Site | May 06 |
+| **[Leons](https://www.leonsdigital.com)** | **[IT Technical Support Intern ON](https://jobright.ai/jobs/info/69fbdacdffa73664aeb02574?utm_campaign=1058&utm_source=git)** | CA-ON-Toronto | On Site | May 06 |
+| ↳ | **[IT Technical Support Intern ON](https://jobright.ai/jobs/info/69fbdaafd21cf86d1e3d5472?utm_campaign=1058&utm_source=git)** | Toronto, ON, CA | On Site | May 06 |
+| **[Mariner Finance](http://www.marinerfinance.com)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/69fbda9dd21cf86d1e3d542e?utm_campaign=1058&utm_source=git)** | Onsite | On Site | May 06 |
+| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/69fbda9c87a4820e6da8b019?utm_campaign=1058&utm_source=git)** | Tampa, FL, US | On Site | May 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
