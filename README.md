@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CTI Foods](http://www.ctifoods.com/)** | **[Intern, IT](https://jobright.ai/jobs/info/69fd02306b788e7e7a5c464b?utm_campaign=1058&utm_source=git)** | US-TX-Southlake | On Site | May 07 |
+| **[Northside Hospital](http://www.northside.com)** | **[Anesthesia Technician Intern, Surgical Services](https://jobright.ai/jobs/info/69fd0213432a3c4da8e00ea6?utm_campaign=1058&utm_source=git)** | US-GA-Canton | On Site | May 07 |
+| **[Cardinal Health](https://www.cardinalhealth.com)** | **[Intern, Nuclear Pharmacy](https://jobright.ai/jobs/info/69fd0202666f063d3d6d2854?utm_campaign=1058&utm_source=git)** | IL-Glendale Heights Nucl Pharm, US | On Site | May 07 |
+| **[Penn State University](http://psu.edu)** | **[Part-Time IT Summer Intern Position](https://jobright.ai/jobs/info/69fd01f86b788e7e7a5c44f6?utm_campaign=1058&utm_source=git)** | Penn State University Park, US | Hybrid | May 07 |
+| **[Maricopa County](http://www.maricopa.gov)** | **[IT Intern](https://jobright.ai/jobs/info/69fd01e8938a651755f98558?utm_campaign=1058&utm_source=git)** | 301 W Jefferson St, Phoenix, AZ 85003, US | Hybrid | May 07 |
+| **[Capitol Imaging Services](https://capitolimagingservices.com)** | **[Patient Coordinator - Intern (49921)](https://jobright.ai/jobs/info/69fcfa026b788e7e7a5c438f?utm_campaign=1058&utm_source=git)** | Houston - Alliance MRI Woodforest - Montgomery, TX 77316 | On Site | May 07 |
 | **[OneSpan](https://www.onespan.com)** | **[stagiaire d’été – Plateforme Salesforce - Salesforce Platform Summer Intern](https://jobright.ai/jobs/info/69fcf5355cff890b03f34e8a?utm_campaign=1058&utm_source=git)** | Montréal, Quebec, Canada | Hybrid | May 07 |
 | **[District Offices](https://districtoffices.net/capitol-hill/)** | **[Summer Intern](https://jobright.ai/jobs/info/69fceea76b788e7e7a5c3c6f?utm_campaign=1058&utm_source=git)** | Washington, DC | On Site | May 07 |
 | **[East Texas A&M University](https://www.etamu.edu)** | **[Intern- Information Technology (OIT-SIS)](https://jobright.ai/jobs/info/69fceaaf5cff890b03f34b12?utm_campaign=1058&utm_source=git)** | Laredo, TX, US | On Site | May 07 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SAP](https://www.sap.com)** | **[SAP Customer Success iXp Intern - SAP Experience Center Showcase Support](https://jobright.ai/jobs/info/69fbef0b2f9f6b7cf690f93b?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | May 06 |
 | **[Nusenda Credit Union](https://www.nusenda.org/)** | **[Fall 2026 Interns](https://jobright.ai/jobs/info/69fbeeae76c60e7b70af08ec?utm_campaign=1058&utm_source=git)** | Albuquerque, NM | On Site | May 06 |
 | **[Nationwide Children's Hospital](http://www.nationwidechildrens.org)** | **[Intern-IS Desktop Services](https://jobright.ai/jobs/info/69fbf6cd76c60e7b70af1286?utm_campaign=1058&utm_source=git)** | Columbus, OH | On Site | May 06 |
-| **[Second Harvest](https://secondharvest.ca)** | **[Dispatch Assistant (Summer Intern)](https://jobright.ai/jobs/info/69fbab9c38179b6f1ae7ab72?utm_campaign=1058&utm_source=git)** | Etobicoke | On Site | May 06 |
-| **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[J1 Internship / Rooms](https://jobright.ai/jobs/info/69fbeb043160b250eb1b93db?utm_campaign=1058&utm_source=git)** | Omni Mount Washington Resort, 310 Mount Washington Hotel Rd, Bretton Woods, New Hampshire, United States of America | On Site | May 06 |
-| **[Leons](https://www.leonsdigital.com)** | **[IT Technical Support Intern ON](https://jobright.ai/jobs/info/69fbdacdffa73664aeb02574?utm_campaign=1058&utm_source=git)** | CA-ON-Toronto | On Site | May 06 |
-| ↳ | **[IT Technical Support Intern ON](https://jobright.ai/jobs/info/69fbdaafd21cf86d1e3d5472?utm_campaign=1058&utm_source=git)** | Toronto, ON, CA | On Site | May 06 |
-| **[Mariner Finance](http://www.marinerfinance.com)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/69fbda9dd21cf86d1e3d542e?utm_campaign=1058&utm_source=git)** | Onsite | On Site | May 06 |
-| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/69fbda9c87a4820e6da8b019?utm_campaign=1058&utm_source=git)** | Tampa, FL, US | On Site | May 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
