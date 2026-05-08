@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pavement Recycling Systems](http://pavementrecycling.com)** | **[Intern](https://jobright.ai/jobs/info/69fd222c5cff890b03f363c8?utm_campaign=1058&utm_source=git)** | Sacramento, CA, US | On Site | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Part-Time IT Summer Intern Position](https://jobright.ai/jobs/info/69fd139fb113035a9f8ee540?utm_campaign=1058&utm_source=git)** | University Park, IL, US | Hybrid | May 07 |
 | ↳ | **[Intern- Information Technology (OIT-SIS)](https://jobright.ai/jobs/info/69fd13365cff890b03f35fa9?utm_campaign=1058&utm_source=git)** | Laredo, TX, US | On Site | May 07 |
 | ↳ | **[ECHO Internship - Year Round](https://jobright.ai/jobs/info/69fd132ab113035a9f8ee4f8?utm_campaign=1058&utm_source=git)** | Aurora, CO, US | On Site | May 07 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Horizon Hobby](https://www.horizonhobby.com/)** | **[IT Operations Support Intern](https://jobright.ai/jobs/info/69fbf6c2a5949019c55b21fd?utm_campaign=1058&utm_source=git)** | Champaign, IL | On Site | May 06 |
 | **[Freeman Hospital](https://www.newcastle-hospitals.nhs.uk/consultants/dr-abbas-khushnood/)** | **[Clinical Administrator](https://jobright.ai/jobs/info/69fbee843802c7621fd8e12d?utm_campaign=1058&utm_source=git)** | Carthage, MO | On Site | May 06 |
 | ↳ | **[Junior IT Service Desk Analyst](https://jobright.ai/jobs/info/69fbeed476c60e7b70af09b1?utm_campaign=1058&utm_source=git)** | Carthage, MO | On Site | May 06 |
-| **[West Virginia University Foundation](https://www.wvuf.org/)** | **[Office Support Intern](https://jobright.ai/jobs/info/69fbef903160b250eb1ba80c?utm_campaign=1058&utm_source=git)** | Morgantown, WV | Hybrid | May 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
