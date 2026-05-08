@@ -57,10 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[American Business Bank](https://americanbb.bank)** | **[Client Experience Intern](https://jobright.ai/jobs/info/69fd3750938a651755f998cd?utm_campaign=1058&utm_source=git)** | Client Experience, Los Angeles, CA, US | On Site | May 07 |
+| **[DaZZee I.T.](https://dazzee.com)** | **[Technical Intern - Must Be Local To Branson or Kansas City](https://jobright.ai/jobs/info/69fd349db113035a9f8eeefb?utm_campaign=1058&utm_source=git)** | KC Metro Area | On Site | May 07 |
+| **[DHL Supply Chain](https://www.dhl.com/gb-en/home/supply-chain.html)** | **[Internship - Air Freight Specialist](https://jobright.ai/jobs/info/69fd333f938a651755f99865?utm_campaign=1058&utm_source=git)** | Atlanta, Georgia, United States of America | On Site | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Summer 2026 IT Intern](https://jobright.ai/jobs/info/69fd2fdf666f063d3d6d39f0?utm_campaign=1058&utm_source=git)** | US | On Site | May 07 |
 | ↳ | **[Intern – Summer 2026 – Customer Experience & Events](https://jobright.ai/jobs/info/69fd2e1e666f063d3d6d3944?utm_campaign=1058&utm_source=git)** | NJ, US | On Site | May 07 |
-| ↳ | **[IT Helpdesk Summer Intern](https://jobright.ai/jobs/info/69fd2d6d432a3c4da8e020f5?utm_campaign=1058&utm_source=git)** | NY, US | Hybrid | May 07 |
 | ↳ | **[Client Services Associate - Intern](https://jobright.ai/jobs/info/69fd2d6d666f063d3d6d38d9?utm_campaign=1058&utm_source=git)** | Deridder, LA, US | On Site | May 07 |
+| ↳ | **[IT Helpdesk Summer Intern](https://jobright.ai/jobs/info/69fd2d6d432a3c4da8e020f5?utm_campaign=1058&utm_source=git)** | NY, US | Hybrid | May 07 |
 | **[Syska Hennessy Group](http://www.syska.com)** | **[IT Helpdesk Summer Intern](https://jobright.ai/jobs/info/69fd26356b788e7e7a5c53e5?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | May 07 |
 | **[Pavement Recycling Systems](http://pavementrecycling.com)** | **[Intern](https://jobright.ai/jobs/info/69fd22e36b788e7e7a5c537f?utm_campaign=1058&utm_source=git)** | US-CA-Sacramento | On Site | May 07 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/69fd222c5cff890b03f363c8?utm_campaign=1058&utm_source=git)** | Sacramento, CA, US | On Site | May 07 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Desktop Support Co-op (Fall 2026)](https://jobright.ai/jobs/info/69fbfb7e76c60e7b70af14b4?utm_campaign=1058&utm_source=git)** | Waterloo, Ontario, Canada | Hybrid | May 06 |
 | **[University of Massachusetts](https://www.youtube.com/channel/UCH_NUbvxPedsdb5jq98Atig)** | **[Intern - IT Finance Applications](https://jobright.ai/jobs/info/69fc1dc8c39b9a66c0c565d0?utm_campaign=1058&utm_source=git)** | Shrewsbury, MA | Hybrid | May 06 |
 | **[Yardi](https://www.yardi.com)** | **[Intern, Associate Technical Account Manager](https://jobright.ai/jobs/info/69fbf73a3802c7621fd8eaea?utm_campaign=1058&utm_source=git)** | New York, NY | Hybrid | May 06 |
-| **[Harmony United Psychiatric Care](https://hupcfl.com)** | **[Psychiatric Office Assistant Internship/Outpatient Clinic (Certification Program)/Oviedo](https://jobright.ai/jobs/info/69fc314aa5949019c55b380d?utm_campaign=1058&utm_source=git)** | Oviedo, FL | On Site | May 06 |
-| **[Children's Wisconsin](https://childrenswi.org/)** | **[Grateful Family and System Liaison Intern](https://jobright.ai/jobs/info/69fc21842f9f6b7cf69114f7?utm_campaign=1058&utm_source=git)** | Milwaukee, WI | On Site | May 06 |
-| **[Mariner Finance](http://www.marinerfinance.com)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/69fc43c7633e68586cd30152?utm_campaign=1058&utm_source=git)** | Baton Rouge, LA | On Site | May 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
