@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AMD](http://www.amd.com)** | **[Technical Writer Intern / Co-op](https://jobright.ai/jobs/info/69fe53724b9bbf21744b0af2?utm_campaign=1058&utm_source=git)** | MARKHAM, ON, CA | Hybrid | May 08 |
+| **[Fair Rite Products Corp.](https://www.fair-rite.com/)** | **[IT Support Intern](https://jobright.ai/jobs/info/69fe53714b9bbf21744b0aed?utm_campaign=1058&utm_source=git)** | US-NY-Wallkill | On Site | May 08 |
+| **[Circuit of The Americas](http://circuitoftheamericas.com/)** | **[COTA Fall Internship 2026 Ticketing (Full-Time)](https://jobright.ai/jobs/info/69fe4eac7714cd50b910047c?utm_campaign=1058&utm_source=git)** | Del Valle,TX,US | On Site | May 08 |
 | **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/69fe4a327714cd50b9100256?utm_campaign=1058&utm_source=git)** | 1630 TREMONT ST,ROXBURY CROSSING,MA,02120 | On Site | May 08 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69fe4a317714cd50b9100255?utm_campaign=1058&utm_source=git)** | 24 SCHOOL ST,BOSTON,MA,02108-05113-15390-S | On Site | May 08 |
 | **[DHL Supply Chain](https://www.dhl.com/gb-en/home/supply-chain.html)** | **[Summer Internship - Ocean Freight Specialist](https://jobright.ai/jobs/info/69fe495cad691a11f34ecf41?utm_campaign=1058&utm_source=git)** | Peoria, Illinois, United States of America | On Site | May 08 |
@@ -117,8 +120,8 @@ For a complete list, click the following sortable link below:
 | **[DHL Supply Chain](https://www.dhl.com/gb-en/home/supply-chain.html)** | **[Internship - Air Freight Specialist](https://jobright.ai/jobs/info/69fd333f938a651755f99865?utm_campaign=1058&utm_source=git)** | Atlanta, Georgia, United States of America | On Site | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Summer 2026 IT Intern](https://jobright.ai/jobs/info/69fd2fdf666f063d3d6d39f0?utm_campaign=1058&utm_source=git)** | US | On Site | May 07 |
 | ↳ | **[Intern – Summer 2026 – Customer Experience & Events](https://jobright.ai/jobs/info/69fd2e1e666f063d3d6d3944?utm_campaign=1058&utm_source=git)** | NJ, US | On Site | May 07 |
-| ↳ | **[Client Services Associate - Intern](https://jobright.ai/jobs/info/69fd2d6d666f063d3d6d38d9?utm_campaign=1058&utm_source=git)** | Deridder, LA, US | On Site | May 07 |
 | ↳ | **[IT Helpdesk Summer Intern](https://jobright.ai/jobs/info/69fd2d6d432a3c4da8e020f5?utm_campaign=1058&utm_source=git)** | NY, US | Hybrid | May 07 |
+| ↳ | **[Client Services Associate - Intern](https://jobright.ai/jobs/info/69fd2d6d666f063d3d6d38d9?utm_campaign=1058&utm_source=git)** | Deridder, LA, US | On Site | May 07 |
 | **[Syska Hennessy Group](http://www.syska.com)** | **[IT Helpdesk Summer Intern](https://jobright.ai/jobs/info/69fd26356b788e7e7a5c53e5?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | May 07 |
 | **[Pavement Recycling Systems](http://pavementrecycling.com)** | **[Intern](https://jobright.ai/jobs/info/69fd22e36b788e7e7a5c537f?utm_campaign=1058&utm_source=git)** | US-CA-Sacramento | On Site | May 07 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/69fd222c5cff890b03f363c8?utm_campaign=1058&utm_source=git)** | Sacramento, CA, US | On Site | May 07 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[eClerx](https://eclerx.com/)** | **[IT Intern](https://jobright.ai/jobs/info/69a7842d2672cb0acb4bfbe9?utm_campaign=1058&utm_source=git)** | Fayetteville, NC | On Site | May 07 |
 | **[Tucson Medical Center](https://www.tmcaz.com/)** | **[Pharmacy Intern Per Diem](https://jobright.ai/jobs/info/69f02884b27fee43e8cd256a?utm_campaign=1058&utm_source=git)** | Tucson, AZ | On Site | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Desktop Support Intern](https://jobright.ai/jobs/info/69fcbe19938a651755f96311?utm_campaign=1058&utm_source=git)** | Arlington, TX, US | Hybrid | May 07 |
-| ↳ | **[Field Intern-ANN](https://jobright.ai/jobs/info/69fcbdea666f063d3d6d04e2?utm_campaign=1058&utm_source=git)** | Central Valley, NY, US | On Site | May 07 |
-| **[CarepathRx](https://carepathrxllc.com/)** | **[Intern - IT Operations](https://jobright.ai/jobs/info/69fcdc7a6b788e7e7a5c32c8?utm_campaign=1058&utm_source=git)** | OH - Remote, US | Remote | May 07 |
-| **[RemoteHunter](https://remotehunter.com/)** | **[Customer Support Intern](https://jobright.ai/jobs/info/69fcbd015cff890b03f3311a?utm_campaign=1058&utm_source=git)** | Valparaiso, IN, US | On Site | May 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
