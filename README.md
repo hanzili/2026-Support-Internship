@@ -57,11 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69fe115052e2b44f558ae43e?utm_campaign=1058&utm_source=git)** | 355 N MAIN ST,BARRE,VT,05641-04106-17518-S | On Site | May 08 |
+| **[RemoteHunter](https://remotehunter.com/)** | **[Support Center Seasonal Intern](https://jobright.ai/jobs/info/69fe107f7714cd50b90fdf6f?utm_campaign=1058&utm_source=git)** | Phoenix, AZ, US | On Site | May 08 |
+| **[Brindley Engineering Corporation](https://www.brindleyengineering.com)** | **[IT Intern](https://jobright.ai/jobs/info/69fe0dd46bcf315dc8f5461d?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | May 08 |
 | **[JustPark](https://www.justpark.com)** | **[FIFA Client Success Intern](https://jobright.ai/jobs/info/69fe0226f363bc4dc339b067?utm_campaign=1058&utm_source=git)** | New York, New York, United States | Hybrid | May 08 |
 | **['Alohilani Resort Waikiki Beach](http://www.pacificbeachhotel.com/)** | **[F&B Summer Intern](https://jobright.ai/jobs/info/69fdff31f363bc4dc339afd9?utm_campaign=1058&utm_source=git)** | Key West, FL, US | On Site | May 08 |
 | **[Associated Medical Professionals of NY, PLLC](https://www.ampofny.com/)** | **[Clinical Research Assistant Intern](https://jobright.ai/jobs/info/69fdfec04b9bbf21744adb29?utm_campaign=1058&utm_source=git)** | US IN Bridges Office Carmel, US | On Site | May 08 |
 | **[BKF Engineers](http://www.bkf.com)** | **[2026 IT Intern](https://jobright.ai/jobs/info/69fad40638179b6f1ae72542?utm_campaign=1058&utm_source=git)** | Pleasanton, CA | Hybrid | May 08 |
+| **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Fall Intern 2026 – Client Experience (CX) Department](https://jobright.ai/jobs/info/69c56905e565c26a7000f44b?utm_campaign=1058&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | May 08 |
 | **[Xometry](https://www.xometry.com)** | **[Customer Support Intern](https://jobright.ai/jobs/info/6952df915bb7de448ef5f0b8?utm_campaign=1058&utm_source=git)** | Lexington, KY | On Site | May 08 |
+| **[KPH HEALTHCARE SERVICES, INC](https://www.kphhealthcareservices.com/en/)** | **[Pharmacy Intern P4](https://jobright.ai/jobs/info/6959e379aa05c26e7ab383eb?utm_campaign=1058&utm_source=git)** | Ithaca, NY | On Site | May 08 |
 | **[Indie Campers](https://indiecampers.com/)** | **[Tourism & Operations Internship](https://jobright.ai/jobs/info/69fdbedf4b9bbf21744ac307?utm_campaign=1058&utm_source=git)** | Palma Depot | On Site | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[School IT Support Summer Intern](https://jobright.ai/jobs/info/69fdbe144b9bbf21744ac25e?utm_campaign=1058&utm_source=git)** | Chicago, IL, US | On Site | May 08 |
 | **[DoubleTree by Hilton London Ontario](https://www.hilton.com/en/hotels/yxuksdt-doubletree-london-ontario/)** | **[Information Technology Intern - The Waldorf Astoria New York](https://jobright.ai/jobs/info/69fda60ef363bc4dc3399271?utm_campaign=1058&utm_source=git)** | The Waldorf Astoria - New York301 Park Avenue | On Site | May 08 |
@@ -86,8 +91,8 @@ For a complete list, click the following sortable link below:
 | **[DHL Supply Chain](https://www.dhl.com/gb-en/home/supply-chain.html)** | **[Internship - Air Freight Specialist](https://jobright.ai/jobs/info/69fd333f938a651755f99865?utm_campaign=1058&utm_source=git)** | Atlanta, Georgia, United States of America | On Site | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Summer 2026 IT Intern](https://jobright.ai/jobs/info/69fd2fdf666f063d3d6d39f0?utm_campaign=1058&utm_source=git)** | US | On Site | May 07 |
 | ↳ | **[Intern – Summer 2026 – Customer Experience & Events](https://jobright.ai/jobs/info/69fd2e1e666f063d3d6d3944?utm_campaign=1058&utm_source=git)** | NJ, US | On Site | May 07 |
-| ↳ | **[Client Services Associate - Intern](https://jobright.ai/jobs/info/69fd2d6d666f063d3d6d38d9?utm_campaign=1058&utm_source=git)** | Deridder, LA, US | On Site | May 07 |
 | ↳ | **[IT Helpdesk Summer Intern](https://jobright.ai/jobs/info/69fd2d6d432a3c4da8e020f5?utm_campaign=1058&utm_source=git)** | NY, US | Hybrid | May 07 |
+| ↳ | **[Client Services Associate - Intern](https://jobright.ai/jobs/info/69fd2d6d666f063d3d6d38d9?utm_campaign=1058&utm_source=git)** | Deridder, LA, US | On Site | May 07 |
 | **[Syska Hennessy Group](http://www.syska.com)** | **[IT Helpdesk Summer Intern](https://jobright.ai/jobs/info/69fd26356b788e7e7a5c53e5?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | May 07 |
 | **[Pavement Recycling Systems](http://pavementrecycling.com)** | **[Intern](https://jobright.ai/jobs/info/69fd22e36b788e7e7a5c537f?utm_campaign=1058&utm_source=git)** | US-CA-Sacramento | On Site | May 07 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/69fd222c5cff890b03f363c8?utm_campaign=1058&utm_source=git)** | Sacramento, CA, US | On Site | May 07 |
@@ -99,7 +104,6 @@ For a complete list, click the following sortable link below:
 | **[RemoteHunter](https://remotehunter.com/)** | **[Internship - Patient Access & Performance Analytics](https://jobright.ai/jobs/info/69fd11515cff890b03f35f1c?utm_campaign=1058&utm_source=git)** | Dallas, TX, US | On Site | May 07 |
 | **[Waste Connections](http://www.wasteconnections.com/)** | **[Summer 2026 IT Intern](https://jobright.ai/jobs/info/69fd10195cff890b03f35e85?utm_campaign=1058&utm_source=git)** | 2111-Murreys Disposal, US | On Site | May 07 |
 | **[Syska Hennessy Group](http://www.syska.com)** | **[IT Helpdesk Summer Intern](https://jobright.ai/jobs/info/69fd0fd35cff890b03f35e37?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | May 07 |
-| **[Waste Connections](http://www.wasteconnections.com/)** | **[Summer 2026 IT Intern](https://jobright.ai/jobs/info/69fd0fcd6b788e7e7a5c4db3?utm_campaign=1058&utm_source=git)** | 2010-Vancouver Hauling, US | On Site | May 07 |
 | **[CTI Foods](http://www.ctifoods.com/)** | **[Intern, IT](https://jobright.ai/jobs/info/69fd02306b788e7e7a5c464b?utm_campaign=1058&utm_source=git)** | US-TX-Southlake | On Site | May 07 |
 | **[AAA Northeast](http://www.aaa.com)** | **[IT Help Desk Internship (58809)](https://jobright.ai/jobs/info/69fb29edd21cf86d1e3d076c?utm_campaign=1058&utm_source=git)** | Providence, RI | On Site | May 07 |
 | **[Northside Hospital](http://www.northside.com)** | **[Anesthesia Technician Intern, Surgical Services](https://jobright.ai/jobs/info/69fd0213432a3c4da8e00ea6?utm_campaign=1058&utm_source=git)** | US-GA-Canton | On Site | May 07 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Technical Support Intern (Unpaid)](https://jobright.ai/jobs/info/69fc67abab1b7e27b9fa3c5c?utm_campaign=1058&utm_source=git)** | NY, US | On Site | May 06 |
 | **[Young Americans for Liberty](https://yaliberty.org/)** | **[Technology & Operations Intern (Volunteer/Scholarship)](https://jobright.ai/jobs/info/69fc343f4ab6391714fd4268?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | May 06 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Systems Support Analyst Intern](https://jobright.ai/jobs/info/69fc65ccab1b7e27b9fa3bba?utm_campaign=1058&utm_source=git)** | Little Rock, AR, US | On Site | May 06 |
-| ↳ | **[Grateful Family and System Liaison Intern](https://jobright.ai/jobs/info/69fc64c848d4483e4b63959f?utm_campaign=1058&utm_source=git)** | Milwaukee, WI, US | On Site | May 06 |
-| ↳ | **[Office Support Intern](https://jobright.ai/jobs/info/69fc635548ae180867213688?utm_campaign=1058&utm_source=git)** | Morgantown, WV, US | Hybrid | May 06 |
-| **[The Samaritans on Cape Cod and the Islands](https://capesamaritans.org/)** | **[Crisis Line Intern](https://jobright.ai/jobs/info/69fc343a4ab6391714fd423f?utm_campaign=1058&utm_source=git)** | Remote, OR | Remote | May 06 |
-| **[RemoteHunter](https://remotehunter.com/)** | **[Intern, IT](https://jobright.ai/jobs/info/69fc601c48d4483e4b63942e?utm_campaign=1058&utm_source=git)** | NJ, US | On Site | May 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
