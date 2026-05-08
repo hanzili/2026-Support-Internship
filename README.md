@@ -57,15 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[RemoteHunter](https://remotehunter.com/)** | **[Student Intern](https://jobright.ai/jobs/info/69fd49567824dc6135bee9ae?utm_campaign=1058&utm_source=git)** | NY, US | On Site | May 07 |
+| **[RemoteHunter](https://remotehunter.com/)** | **[Intern Shipping and Receiving](https://jobright.ai/jobs/info/69fd65ed52e2b44f558ab370?utm_campaign=1058&utm_source=git)** | Bedford, NH, US | On Site | May 07 |
+| ↳ | **[IT/Helpdesk Internship](https://jobright.ai/jobs/info/69fd65e47f9567150fa35d1b?utm_campaign=1058&utm_source=git)** | NY, US | On Site | May 07 |
+| ↳ | **[IT Summer Support Intern](https://jobright.ai/jobs/info/69fd655b6bcf315dc8f516f2?utm_campaign=1058&utm_source=git)** | Washington, DC, US | On Site | May 07 |
+| ↳ | **[Student Intern](https://jobright.ai/jobs/info/69fd49567824dc6135bee9ae?utm_campaign=1058&utm_source=git)** | NY, US | On Site | May 07 |
 | ↳ | **[Client Experience Intern](https://jobright.ai/jobs/info/69fd49436b5b765031e82085?utm_campaign=1058&utm_source=git)** | Los Angeles, CA, US | On Site | May 07 |
 | **[American Business Bank](https://americanbb.bank)** | **[Client Experience Intern](https://jobright.ai/jobs/info/69fd3750938a651755f998cd?utm_campaign=1058&utm_source=git)** | Client Experience, Los Angeles, CA, US | On Site | May 07 |
 | **[DaZZee I.T.](https://dazzee.com)** | **[Technical Intern - Must Be Local To Branson or Kansas City](https://jobright.ai/jobs/info/69fd349db113035a9f8eeefb?utm_campaign=1058&utm_source=git)** | KC Metro Area | On Site | May 07 |
 | **[DHL Supply Chain](https://www.dhl.com/gb-en/home/supply-chain.html)** | **[Internship - Air Freight Specialist](https://jobright.ai/jobs/info/69fd333f938a651755f99865?utm_campaign=1058&utm_source=git)** | Atlanta, Georgia, United States of America | On Site | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Summer 2026 IT Intern](https://jobright.ai/jobs/info/69fd2fdf666f063d3d6d39f0?utm_campaign=1058&utm_source=git)** | US | On Site | May 07 |
 | ↳ | **[Intern – Summer 2026 – Customer Experience & Events](https://jobright.ai/jobs/info/69fd2e1e666f063d3d6d3944?utm_campaign=1058&utm_source=git)** | NJ, US | On Site | May 07 |
-| ↳ | **[IT Helpdesk Summer Intern](https://jobright.ai/jobs/info/69fd2d6d432a3c4da8e020f5?utm_campaign=1058&utm_source=git)** | NY, US | Hybrid | May 07 |
 | ↳ | **[Client Services Associate - Intern](https://jobright.ai/jobs/info/69fd2d6d666f063d3d6d38d9?utm_campaign=1058&utm_source=git)** | Deridder, LA, US | On Site | May 07 |
+| ↳ | **[IT Helpdesk Summer Intern](https://jobright.ai/jobs/info/69fd2d6d432a3c4da8e020f5?utm_campaign=1058&utm_source=git)** | NY, US | Hybrid | May 07 |
 | **[Syska Hennessy Group](http://www.syska.com)** | **[IT Helpdesk Summer Intern](https://jobright.ai/jobs/info/69fd26356b788e7e7a5c53e5?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | May 07 |
 | **[Pavement Recycling Systems](http://pavementrecycling.com)** | **[Intern](https://jobright.ai/jobs/info/69fd22e36b788e7e7a5c537f?utm_campaign=1058&utm_source=git)** | US-CA-Sacramento | On Site | May 07 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/69fd222c5cff890b03f363c8?utm_campaign=1058&utm_source=git)** | Sacramento, CA, US | On Site | May 07 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[IT Support Intern (Unpaid)](https://jobright.ai/jobs/info/69fc32dc4ab6391714fd3dc8?utm_campaign=1058&utm_source=git)** | Bellevue, WA, US | On Site | May 06 |
 | **[Ferrum College](http://www.ferrum.edu/)** | **[Summer Library Intern/Assistant](https://jobright.ai/jobs/info/69fc34c00940765d3b501846?utm_campaign=1058&utm_source=git)** | Ferrum, VA | On Site | May 06 |
 | **[DHL Supply Chain](https://www.dhl.com/gb-en/home/supply-chain.html)** | **[Air Freight Specialist - Summer Internship](https://jobright.ai/jobs/info/69fbfe62c39b9a66c0c55d90?utm_campaign=1058&utm_source=git)** | Minneapolis, Minnesota, United States of America | On Site | May 06 |
-| **[Magnet Forensics](http://magnetforensics.com)** | **[Technical Writer Co-op (Fall 2026)](https://jobright.ai/jobs/info/69fbfbe93802c7621fd8ecd5?utm_campaign=1058&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | May 06 |
-| **[Tucson Medical Center](https://www.tmcaz.com/)** | **[Pharmacy Intern Per Diem](https://jobright.ai/jobs/info/69f2cf80ecbc8c2f7320dc47?utm_campaign=1058&utm_source=git)** | Tucson, AZ | On Site | May 06 |
-| **[Magnet Forensics](http://magnetforensics.com)** | **[Technical Writer Co-op (Fall 2026)](https://jobright.ai/jobs/info/69fbfbd02f9f6b7cf69105b9?utm_campaign=1058&utm_source=git)** | Waterloo, Ontario, Canada | Hybrid | May 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
