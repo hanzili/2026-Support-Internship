@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BKF Engineers](http://www.bkf.com)** | **[2026 IT Intern](https://jobright.ai/jobs/info/69fad40638179b6f1ae72542?utm_campaign=1058&utm_source=git)** | Pleasanton, CA | Hybrid | May 08 |
 | **[Xometry](https://www.xometry.com)** | **[Customer Support Intern](https://jobright.ai/jobs/info/6952df915bb7de448ef5f0b8?utm_campaign=1058&utm_source=git)** | Lexington, KY | On Site | May 08 |
 | **[Indie Campers](https://indiecampers.com/)** | **[Tourism & Operations Internship](https://jobright.ai/jobs/info/69fdbedf4b9bbf21744ac307?utm_campaign=1058&utm_source=git)** | Palma Depot | On Site | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[School IT Support Summer Intern](https://jobright.ai/jobs/info/69fdbe144b9bbf21744ac25e?utm_campaign=1058&utm_source=git)** | Chicago, IL, US | On Site | May 08 |
@@ -82,11 +83,12 @@ For a complete list, click the following sortable link below:
 | **[DHL Supply Chain](https://www.dhl.com/gb-en/home/supply-chain.html)** | **[Internship - Air Freight Specialist](https://jobright.ai/jobs/info/69fd333f938a651755f99865?utm_campaign=1058&utm_source=git)** | Atlanta, Georgia, United States of America | On Site | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Summer 2026 IT Intern](https://jobright.ai/jobs/info/69fd2fdf666f063d3d6d39f0?utm_campaign=1058&utm_source=git)** | US | On Site | May 07 |
 | ↳ | **[Intern – Summer 2026 – Customer Experience & Events](https://jobright.ai/jobs/info/69fd2e1e666f063d3d6d3944?utm_campaign=1058&utm_source=git)** | NJ, US | On Site | May 07 |
-| ↳ | **[Client Services Associate - Intern](https://jobright.ai/jobs/info/69fd2d6d666f063d3d6d38d9?utm_campaign=1058&utm_source=git)** | Deridder, LA, US | On Site | May 07 |
 | ↳ | **[IT Helpdesk Summer Intern](https://jobright.ai/jobs/info/69fd2d6d432a3c4da8e020f5?utm_campaign=1058&utm_source=git)** | NY, US | Hybrid | May 07 |
+| ↳ | **[Client Services Associate - Intern](https://jobright.ai/jobs/info/69fd2d6d666f063d3d6d38d9?utm_campaign=1058&utm_source=git)** | Deridder, LA, US | On Site | May 07 |
 | **[Syska Hennessy Group](http://www.syska.com)** | **[IT Helpdesk Summer Intern](https://jobright.ai/jobs/info/69fd26356b788e7e7a5c53e5?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | May 07 |
 | **[Pavement Recycling Systems](http://pavementrecycling.com)** | **[Intern](https://jobright.ai/jobs/info/69fd22e36b788e7e7a5c537f?utm_campaign=1058&utm_source=git)** | US-CA-Sacramento | On Site | May 07 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/69fd222c5cff890b03f363c8?utm_campaign=1058&utm_source=git)** | Sacramento, CA, US | On Site | May 07 |
+| **[Uplift Education](http://www.uplifteducation.org)** | **[IT Summer Internship](https://jobright.ai/jobs/info/69ef9e924b0fa35a7078a8df?utm_campaign=1058&utm_source=git)** | Dallas, TX | On Site | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Part-Time IT Summer Intern Position](https://jobright.ai/jobs/info/69fd139fb113035a9f8ee540?utm_campaign=1058&utm_source=git)** | University Park, IL, US | Hybrid | May 07 |
 | ↳ | **[Intern- Information Technology (OIT-SIS)](https://jobright.ai/jobs/info/69fd13365cff890b03f35fa9?utm_campaign=1058&utm_source=git)** | Laredo, TX, US | On Site | May 07 |
 | ↳ | **[ECHO Internship - Year Round](https://jobright.ai/jobs/info/69fd132ab113035a9f8ee4f8?utm_campaign=1058&utm_source=git)** | Aurora, CO, US | On Site | May 07 |
@@ -136,7 +138,6 @@ For a complete list, click the following sortable link below:
 | **[TLD](https://www.tld-group.com)** | **[Intern - Warehouse](https://jobright.ai/jobs/info/69fc9080666f063d3d6cf025?utm_campaign=1058&utm_source=git)** | Windsor, CT, US | On Site | May 07 |
 | **[TRM](https://www.trmmicrowave.com)** | **[Intern Shipping and Receiving](https://jobright.ai/jobs/info/69fcc2776b788e7e7a5c24ff?utm_campaign=1058&utm_source=git)** | Bedford,NH,US | On Site | May 07 |
 | **[Hyatt](http://www.hyatt.com/)** | **[Summer 2026 - College Intern - Sedona, AZ (Front Office & Recreation)](https://jobright.ai/jobs/info/68fca19ae04ac838fb5ab30d?utm_campaign=1058&utm_source=git)** | Sedona, AZ | On Site | May 07 |
-| **[Vertiv](https://www.Vertiv.com)** | **[Field Service Intern - New York, New York](https://jobright.ai/jobs/info/69d817b1b861c42857c48a67?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | May 07 |
 | **[American Food & Vending](https://www.afvusa.com/)** | **[IT Intern - Network Technical Support](https://jobright.ai/jobs/info/69e073f6c17d1d5254334ac0?utm_campaign=1058&utm_source=git)** | Syracuse-Auburn Area | On Site | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Welcome Center Graduate Intern](https://jobright.ai/jobs/info/69fc71a4938a651755f93e3a?utm_campaign=1058&utm_source=git)** | Virginia Beach, VA, US | On Site | May 07 |
 | **[St. Elizabeth Healthcare](http://www.stelizabeth.com/)** | **[Intern Pharmacy - Retail Outpatient](https://jobright.ai/jobs/info/69c52c355a5e774c16b0cbf0?utm_campaign=1058&utm_source=git)** | Edgewood, KY | On Site | May 07 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Intern - Tallgrass Title](https://jobright.ai/jobs/info/69fc5f7c2e6c421278ddbc5a?utm_campaign=1058&utm_source=git)** | Manhattan, KS, US | On Site | May 06 |
 | ↳ | **[Customer Quality Intern](https://jobright.ai/jobs/info/69fc5c9a2e6c421278ddbb1c?utm_campaign=1058&utm_source=git)** | IL, US | On Site | May 06 |
 | ↳ | **[IT Application Specialist - Intern](https://jobright.ai/jobs/info/69fc57abcf5c6d3100697506?utm_campaign=1058&utm_source=git)** | New Baltimore, NY, US | On Site | May 06 |
-| ↳ | **[GSMR Special Events Intern](https://jobright.ai/jobs/info/69fc5bd3ab1b7e27b9fa36eb?utm_campaign=1058&utm_source=git)** | Bryson City, NC, US | On Site | May 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
