@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dayton T. Brown, Inc.](http://www.dtb.com)** | **[IT Internship -Part-Time](https://jobright.ai/jobs/info/69fd83d252e2b44f558aba19?utm_campaign=1058&utm_source=git)** | Bohemia,NY,US | On Site | May 07 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69fd6a517f9567150fa35f92?utm_campaign=1058&utm_source=git)** | 6300 HIXSON PIKE,CHATTANOOGA,TN,37343 | On Site | May 07 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69fd69e2f363bc4dc3398554?utm_campaign=1058&utm_source=git)** | 33670 US HIGHWAY 19 N,PALM HARBOR,FL,34684-02640-04124-S | On Site | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Intern - IT Operations](https://jobright.ai/jobs/info/69fd6964f363bc4dc33984f1?utm_campaign=1058&utm_source=git)** | United States | Remote | May 07 |
@@ -126,6 +127,7 @@ For a complete list, click the following sortable link below:
 | **[American Food & Vending](https://www.afvusa.com/)** | **[IT Intern - Network Technical Support](https://jobright.ai/jobs/info/69e073f6c17d1d5254334ac0?utm_campaign=1058&utm_source=git)** | Syracuse-Auburn Area | On Site | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Welcome Center Graduate Intern](https://jobright.ai/jobs/info/69fc71a4938a651755f93e3a?utm_campaign=1058&utm_source=git)** | Virginia Beach, VA, US | On Site | May 07 |
 | **[St. Elizabeth Healthcare](http://www.stelizabeth.com/)** | **[Intern Pharmacy - Retail Outpatient](https://jobright.ai/jobs/info/69c52c355a5e774c16b0cbf0?utm_campaign=1058&utm_source=git)** | Edgewood, KY | On Site | May 07 |
+| **[Aman](https://www.aman.com/)** | **[Summer F&B Internship - Amangiri](https://jobright.ai/jobs/info/69a602b70da45516f16ed88d?utm_campaign=1058&utm_source=git)** | Page, AZ | On Site | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[IT Desktop Intern](https://jobright.ai/jobs/info/69fc6b30666f063d3d6ccf5d?utm_campaign=1058&utm_source=git)** | Omaha, NE, US | On Site | May 06 |
 | ↳ | **[IT Student Intern](https://jobright.ai/jobs/info/69fc67b5cf5c6d3100697aea?utm_campaign=1058&utm_source=git)** | Milwaukee, WI, US | On Site | May 06 |
 | ↳ | **[Intern, Help Desk Tech - WHL](https://jobright.ai/jobs/info/69fc66a4cf5c6d3100697a94?utm_campaign=1058&utm_source=git)** | Wheeling, IL, US | On Site | May 06 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Real Estate Records Support Intern - Temporary](https://jobright.ai/jobs/info/69fc46cdd6f1e3068d8f013f?utm_campaign=1058&utm_source=git)** | Princeton, NJ, US | On Site | May 06 |
 | ↳ | **[Omni Care Internship Food & Beverage / Fall](https://jobright.ai/jobs/info/69fc4a45ab1b7e27b9fa3145?utm_campaign=1058&utm_source=git)** | Bretton Woods, NH, US | On Site | May 06 |
 | ↳ | **[IT Intern (2026 Semester 2) – Generation H](https://jobright.ai/jobs/info/69fc42beae09801097afaa61?utm_campaign=1058&utm_source=git)** | NY, US | On Site | May 06 |
-| ↳ | **[IT Support Intern](https://jobright.ai/jobs/info/69fc3b302275c9640f52cc8f?utm_campaign=1058&utm_source=git)** | Louisville, KY, US | On Site | May 06 |
-| ↳ | **[Guest Services Intern / The Windsor Suites Philadelphia / Modus by PM Hotel Group](https://jobright.ai/jobs/info/69fc3b31cbdf932e930a1bee?utm_campaign=1058&utm_source=git)** | Philadelphia, PA, US | On Site | May 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
