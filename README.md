@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[RemoteHunter](https://remotehunter.com/)** | **[Intern Shipping and Receiving](https://jobright.ai/jobs/info/69fd65ed52e2b44f558ab370?utm_campaign=1058&utm_source=git)** | Bedford, NH, US | On Site | May 07 |
+| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69fd6a517f9567150fa35f92?utm_campaign=1058&utm_source=git)** | 6300 HIXSON PIKE,CHATTANOOGA,TN,37343 | On Site | May 07 |
+| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69fd69e2f363bc4dc3398554?utm_campaign=1058&utm_source=git)** | 33670 US HIGHWAY 19 N,PALM HARBOR,FL,34684-02640-04124-S | On Site | May 07 |
+| **[RemoteHunter](https://remotehunter.com/)** | **[Intern - IT Operations](https://jobright.ai/jobs/info/69fd6964f363bc4dc33984f1?utm_campaign=1058&utm_source=git)** | United States | Remote | May 07 |
+| ↳ | **[Yankee Stadium Intern](https://jobright.ai/jobs/info/69fd695b6bcf315dc8f5189d?utm_campaign=1058&utm_source=git)** | NY, US | On Site | May 07 |
+| ↳ | **[Intern Shipping and Receiving](https://jobright.ai/jobs/info/69fd65ed52e2b44f558ab370?utm_campaign=1058&utm_source=git)** | Bedford, NH, US | On Site | May 07 |
 | ↳ | **[IT/Helpdesk Internship](https://jobright.ai/jobs/info/69fd65e47f9567150fa35d1b?utm_campaign=1058&utm_source=git)** | NY, US | On Site | May 07 |
 | ↳ | **[IT Summer Support Intern](https://jobright.ai/jobs/info/69fd655b6bcf315dc8f516f2?utm_campaign=1058&utm_source=git)** | Washington, DC, US | On Site | May 07 |
 | ↳ | **[Student Intern](https://jobright.ai/jobs/info/69fd49567824dc6135bee9ae?utm_campaign=1058&utm_source=git)** | NY, US | On Site | May 07 |
@@ -111,7 +115,6 @@ For a complete list, click the following sortable link below:
 | **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Warehouse Associate](https://jobright.ai/jobs/info/69dfc8b55913ad3398145b65?utm_campaign=1058&utm_source=git)** | Greater Columbia, Missouri Area | On Site | May 07 |
 | **[Adient](https://www.adient.com)** | **[Intern IT](https://jobright.ai/jobs/info/69fcc9ec6b788e7e7a5c2883?utm_campaign=1058&utm_source=git)** | Eastaboga, AL, US | On Site | May 07 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY/PHARMACIST-INTERN](https://jobright.ai/jobs/info/69f179df8feca91f1492027a?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | May 07 |
-| **[Dayton T. Brown, Inc.](http://www.dtb.com)** | **[IT Internship -Part-Time](https://jobright.ai/jobs/info/69fcc8ba666f063d3d6d093e?utm_campaign=1058&utm_source=git)** | Bohemia,NY,US | On Site | May 07 |
 | **[City Utilities of Springfield](https://www.cityutilities.net)** | **[GIS Technician Intern](https://jobright.ai/jobs/info/69fcc341666f063d3d6d08cf?utm_campaign=1058&utm_source=git)** | Springfield, MO, US | On Site | May 07 |
 | **[InterWorks](http://www.interworks.com)** | **[IT Intern](https://jobright.ai/jobs/info/68596a3df7e1d7c7ec214cfc?utm_campaign=1058&utm_source=git)** | Stillwater, Oklahoma, United States | On Site | May 07 |
 | **[KnitWell Group](https://www.knitwellgroup.com)** | **[Field Intern-ANN](https://jobright.ai/jobs/info/69fcc3a16b788e7e7a5c261d?utm_campaign=1058&utm_source=git)** | Store 2991-Woodbury Common Premium-ANN-Central Valley, NY 10917, US | On Site | May 07 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[IT Intern (2026 Semester 2) – Generation H](https://jobright.ai/jobs/info/69fc42beae09801097afaa61?utm_campaign=1058&utm_source=git)** | NY, US | On Site | May 06 |
 | ↳ | **[IT Support Intern](https://jobright.ai/jobs/info/69fc3b302275c9640f52cc8f?utm_campaign=1058&utm_source=git)** | Louisville, KY, US | On Site | May 06 |
 | ↳ | **[Guest Services Intern / The Windsor Suites Philadelphia / Modus by PM Hotel Group](https://jobright.ai/jobs/info/69fc3b31cbdf932e930a1bee?utm_campaign=1058&utm_source=git)** | Philadelphia, PA, US | On Site | May 06 |
-| ↳ | **[IT Support Intern (Unpaid)](https://jobright.ai/jobs/info/69fc32dc4ab6391714fd3dc8?utm_campaign=1058&utm_source=git)** | Bellevue, WA, US | On Site | May 06 |
-| **[Ferrum College](http://www.ferrum.edu/)** | **[Summer Library Intern/Assistant](https://jobright.ai/jobs/info/69fc34c00940765d3b501846?utm_campaign=1058&utm_source=git)** | Ferrum, VA | On Site | May 06 |
-| **[DHL Supply Chain](https://www.dhl.com/gb-en/home/supply-chain.html)** | **[Air Freight Specialist - Summer Internship](https://jobright.ai/jobs/info/69fbfe62c39b9a66c0c55d90?utm_campaign=1058&utm_source=git)** | Minneapolis, Minnesota, United States of America | On Site | May 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
