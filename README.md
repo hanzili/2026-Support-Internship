@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69fda0c2ad691a11f34ea221?utm_campaign=1058&utm_source=git)** | 905 NEW DURHAM RD,EDISON,NJ,08817-02253-04876-S | On Site | May 08 |
+| **[DoubleTree by Hilton London Ontario](https://www.hilton.com/en/hotels/yxuksdt-doubletree-london-ontario/)** | **[Information Technology Intern - The Waldorf Astoria New York](https://jobright.ai/jobs/info/69fda60ef363bc4dc3399271?utm_campaign=1058&utm_source=git)** | The Waldorf Astoria - New York301 Park Avenue | On Site | May 08 |
+| **[Cloud Counselage Pvt. Ltd.](https://www.cloudcounselage.com)** | **[IT Operations Intern](https://jobright.ai/jobs/info/69fda608f363bc4dc3399270?utm_campaign=1058&utm_source=git)** | United States | Remote | May 08 |
+| **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/69fda170ad691a11f34ea286?utm_campaign=1058&utm_source=git)** | 467 SALEM ST,MEDFORD,MA,02155 | On Site | May 08 |
+| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69fda16fad691a11f34ea285?utm_campaign=1058&utm_source=git)** | 185 CENTRE ST,MALDEN,MA,02148-05522-03130-S | On Site | May 08 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69fda0c2ad691a11f34ea221?utm_campaign=1058&utm_source=git)** | 905 NEW DURHAM RD,EDISON,NJ,08817-02253-04876-S | On Site | May 08 |
 | **[Dayton T. Brown, Inc.](http://www.dtb.com)** | **[IT Internship -Part-Time](https://jobright.ai/jobs/info/69fd83d252e2b44f558aba19?utm_campaign=1058&utm_source=git)** | Bohemia,NY,US | On Site | May 07 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69fd6a517f9567150fa35f92?utm_campaign=1058&utm_source=git)** | 6300 HIXSON PIKE,CHATTANOOGA,TN,37343 | On Site | May 07 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69fd69e2f363bc4dc3398554?utm_campaign=1058&utm_source=git)** | 33670 US HIGHWAY 19 N,PALM HARBOR,FL,34684-02640-04124-S | On Site | May 07 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[IT Intern - Part Time](https://jobright.ai/jobs/info/69fc554c48ae180867213099?utm_campaign=1058&utm_source=git)** | Amarillo, TX, US | On Site | May 06 |
 | ↳ | **[Customer Experience Operations Intern](https://jobright.ai/jobs/info/69fc55ecab1b7e27b9fa35b8?utm_campaign=1058&utm_source=git)** | United States | Remote | May 06 |
 | **[Tombras](http://tombras.com)** | **[IT Help Desk Intern](https://jobright.ai/jobs/info/69fc341f4ab6391714fd41ba?utm_campaign=1058&utm_source=git)** | Knoxville, TN | On Site | May 06 |
-| **[RemoteHunter](https://remotehunter.com/)** | **[Sales Support Intern](https://jobright.ai/jobs/info/69fc53f1ab1b7e27b9fa34c1?utm_campaign=1058&utm_source=git)** | Rochester, NY, US | Hybrid | May 06 |
-| ↳ | **[Fall 2026 - College Intern - Hilton Head Island, SC (Front Office)](https://jobright.ai/jobs/info/69fc4ef6cf5c6d310069725c?utm_campaign=1058&utm_source=git)** | Hilton Head Island, SC, US | On Site | May 06 |
-| ↳ | **[Golf, Intern](https://jobright.ai/jobs/info/69fc491dcf5c6d3100697051?utm_campaign=1058&utm_source=git)** | GA, US | On Site | May 06 |
-| ↳ | **[Customer Experience Data & Operations Intern](https://jobright.ai/jobs/info/69fc4bf12e6c421278ddb195?utm_campaign=1058&utm_source=git)** | Charlotte, NC, US | On Site | May 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
