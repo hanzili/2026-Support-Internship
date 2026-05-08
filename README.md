@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Information Technology Intern](https://jobright.ai/jobs/info/69fe1b9752e2b44f558ae7bc?utm_campaign=1058&utm_source=git)** | Greenwood Village, CO, US | On Site | May 08 |
+| **[Founders 3 Real Estate Services](https://founders3.com/)** | **[Information Systems Intern](https://jobright.ai/jobs/info/69fe15a34b9bbf21744ae55f?utm_campaign=1058&utm_source=git)** | Brookfield,WI,US | On Site | May 08 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69fe115052e2b44f558ae43e?utm_campaign=1058&utm_source=git)** | 355 N MAIN ST,BARRE,VT,05641-04106-17518-S | On Site | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Support Center Seasonal Intern](https://jobright.ai/jobs/info/69fe107f7714cd50b90fdf6f?utm_campaign=1058&utm_source=git)** | Phoenix, AZ, US | On Site | May 08 |
 | **[Brindley Engineering Corporation](https://www.brindleyengineering.com)** | **[IT Intern](https://jobright.ai/jobs/info/69fe0dd46bcf315dc8f5461d?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | May 08 |
@@ -91,8 +93,8 @@ For a complete list, click the following sortable link below:
 | **[DHL Supply Chain](https://www.dhl.com/gb-en/home/supply-chain.html)** | **[Internship - Air Freight Specialist](https://jobright.ai/jobs/info/69fd333f938a651755f99865?utm_campaign=1058&utm_source=git)** | Atlanta, Georgia, United States of America | On Site | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Summer 2026 IT Intern](https://jobright.ai/jobs/info/69fd2fdf666f063d3d6d39f0?utm_campaign=1058&utm_source=git)** | US | On Site | May 07 |
 | ↳ | **[Intern – Summer 2026 – Customer Experience & Events](https://jobright.ai/jobs/info/69fd2e1e666f063d3d6d3944?utm_campaign=1058&utm_source=git)** | NJ, US | On Site | May 07 |
-| ↳ | **[IT Helpdesk Summer Intern](https://jobright.ai/jobs/info/69fd2d6d432a3c4da8e020f5?utm_campaign=1058&utm_source=git)** | NY, US | Hybrid | May 07 |
 | ↳ | **[Client Services Associate - Intern](https://jobright.ai/jobs/info/69fd2d6d666f063d3d6d38d9?utm_campaign=1058&utm_source=git)** | Deridder, LA, US | On Site | May 07 |
+| ↳ | **[IT Helpdesk Summer Intern](https://jobright.ai/jobs/info/69fd2d6d432a3c4da8e020f5?utm_campaign=1058&utm_source=git)** | NY, US | Hybrid | May 07 |
 | **[Syska Hennessy Group](http://www.syska.com)** | **[IT Helpdesk Summer Intern](https://jobright.ai/jobs/info/69fd26356b788e7e7a5c53e5?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | May 07 |
 | **[Pavement Recycling Systems](http://pavementrecycling.com)** | **[Intern](https://jobright.ai/jobs/info/69fd22e36b788e7e7a5c537f?utm_campaign=1058&utm_source=git)** | US-CA-Sacramento | On Site | May 07 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/69fd222c5cff890b03f363c8?utm_campaign=1058&utm_source=git)** | Sacramento, CA, US | On Site | May 07 |
@@ -106,7 +108,6 @@ For a complete list, click the following sortable link below:
 | **[Syska Hennessy Group](http://www.syska.com)** | **[IT Helpdesk Summer Intern](https://jobright.ai/jobs/info/69fd0fd35cff890b03f35e37?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | May 07 |
 | **[CTI Foods](http://www.ctifoods.com/)** | **[Intern, IT](https://jobright.ai/jobs/info/69fd02306b788e7e7a5c464b?utm_campaign=1058&utm_source=git)** | US-TX-Southlake | On Site | May 07 |
 | **[AAA Northeast](http://www.aaa.com)** | **[IT Help Desk Internship (58809)](https://jobright.ai/jobs/info/69fb29edd21cf86d1e3d076c?utm_campaign=1058&utm_source=git)** | Providence, RI | On Site | May 07 |
-| **[Northside Hospital](http://www.northside.com)** | **[Anesthesia Technician Intern, Surgical Services](https://jobright.ai/jobs/info/69fd0213432a3c4da8e00ea6?utm_campaign=1058&utm_source=git)** | US-GA-Canton | On Site | May 07 |
 | **[Cardinal Health](https://www.cardinalhealth.com)** | **[Intern, Nuclear Pharmacy](https://jobright.ai/jobs/info/69fd0202666f063d3d6d2854?utm_campaign=1058&utm_source=git)** | IL-Glendale Heights Nucl Pharm, US | On Site | May 07 |
 | **[Penn State University](http://psu.edu)** | **[Part-Time IT Summer Intern Position](https://jobright.ai/jobs/info/69fd01f86b788e7e7a5c44f6?utm_campaign=1058&utm_source=git)** | Penn State University Park, US | Hybrid | May 07 |
 | **[Maricopa County](http://www.maricopa.gov)** | **[IT Intern](https://jobright.ai/jobs/info/69fd01e8938a651755f98558?utm_campaign=1058&utm_source=git)** | 301 W Jefferson St, Phoenix, AZ 85003, US | Hybrid | May 07 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Information Technology (IT) Intern](https://jobright.ai/jobs/info/69fc6431cf5c6d31006979f5?utm_campaign=1058&utm_source=git)** | TX, US | On Site | May 06 |
 | ↳ | **[Technical Support Intern (Unpaid)](https://jobright.ai/jobs/info/69fc67abab1b7e27b9fa3c5c?utm_campaign=1058&utm_source=git)** | NY, US | On Site | May 06 |
 | **[Young Americans for Liberty](https://yaliberty.org/)** | **[Technology & Operations Intern (Volunteer/Scholarship)](https://jobright.ai/jobs/info/69fc343f4ab6391714fd4268?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | May 06 |
-| **[RemoteHunter](https://remotehunter.com/)** | **[Systems Support Analyst Intern](https://jobright.ai/jobs/info/69fc65ccab1b7e27b9fa3bba?utm_campaign=1058&utm_source=git)** | Little Rock, AR, US | On Site | May 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
