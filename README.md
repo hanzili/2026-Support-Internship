@@ -57,8 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/69fe4a327714cd50b9100256?utm_campaign=1058&utm_source=git)** | 1630 TREMONT ST,ROXBURY CROSSING,MA,02120 | On Site | May 08 |
+| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69fe4a317714cd50b9100255?utm_campaign=1058&utm_source=git)** | 24 SCHOOL ST,BOSTON,MA,02108-05113-15390-S | On Site | May 08 |
+| **[DHL Supply Chain](https://www.dhl.com/gb-en/home/supply-chain.html)** | **[Summer Internship - Ocean Freight Specialist](https://jobright.ai/jobs/info/69fe495cad691a11f34ecf41?utm_campaign=1058&utm_source=git)** | Peoria, Illinois, United States of America | On Site | May 08 |
+| **[Xometry](https://www.xometry.com)** | **[Case Management Intern](https://jobright.ai/jobs/info/6943a5e5dd382f5f5669c041?utm_campaign=1058&utm_source=git)** | North Bethesda, MD | Hybrid | May 08 |
+| **[RemoteHunter](https://remotehunter.com/)** | **[Southwest Intern](https://jobright.ai/jobs/info/69fe48777714cd50b90fffe2?utm_campaign=1058&utm_source=git)** | Baton Rouge, LA, US | Hybrid | May 08 |
+| ↳ | **[Intern, Digital (Hourly)](https://jobright.ai/jobs/info/69fe484b7714cd50b90fff8f?utm_campaign=1058&utm_source=git)** | Austin, TX, US | On Site | May 08 |
+| **[American Bankruptcy Institute](https://abi.org/)** | **[Administrative & Membership Intern](https://jobright.ai/jobs/info/69fe47246bcf315dc8f5651c?utm_campaign=1058&utm_source=git)** | Alexandria, VA | On Site | May 08 |
+| **[RemoteHunter](https://remotehunter.com/)** | **[IT Intern - Erie, PA](https://jobright.ai/jobs/info/69fe46fa4b9bbf21744b0221?utm_campaign=1058&utm_source=git)** | Erie, PA, US | On Site | May 08 |
+| ↳ | **[Sales Support Internship 2026](https://jobright.ai/jobs/info/69fe4689f363bc4dc339d682?utm_campaign=1058&utm_source=git)** | Kennewick, WA, US | Hybrid | May 08 |
+| **[Cross Insurance](https://www.crossagency.com/)** | **[Personal Lines Intern](https://jobright.ai/jobs/info/69fe3f1952e2b44f558afdf0?utm_campaign=1058&utm_source=git)** | US - MA - Beverly, US | On Site | May 08 |
 | **[Shady Grove Fertility](http://ShadyGroveFertility.com)** | **[Intern - Medical Records](https://jobright.ai/jobs/info/69fe39646bcf315dc8f556b0?utm_campaign=1058&utm_source=git)** | ROCKVILLE, Maryland, United States | On Site | May 08 |
-| **[Westminster-Canterbury on Chesapeake Bay & Senior Options, LLC](https://www.wcbay.com/)** | **[Intern (Health Information)](https://jobright.ai/jobs/info/69fe3963f363bc4dc339c4d6?utm_campaign=1058&utm_source=git)** | Virginia Beach, Virginia, United States | On Site | May 08 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69fe2e8f7714cd50b90feb65?utm_campaign=1058&utm_source=git)** | 2105 E WELLESLEY AVE,SPOKANE,WA,99207 | On Site | May 08 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69fe2e2b52e2b44f558aef77?utm_campaign=1058&utm_source=git)** | 30283 TRIANGLE DR,CHARLOTTE HALL,MD,20622-03125-17672-S | On Site | May 08 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69fe2e2a52e2b44f558aef76?utm_campaign=1058&utm_source=git)** | 9530 CRAIN HWY,UPPER MARLBORO,MD,20772 | On Site | May 08 |
@@ -74,6 +83,8 @@ For a complete list, click the following sortable link below:
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69fe115052e2b44f558ae43e?utm_campaign=1058&utm_source=git)** | 355 N MAIN ST,BARRE,VT,05641-04106-17518-S | On Site | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Support Center Seasonal Intern](https://jobright.ai/jobs/info/69fe107f7714cd50b90fdf6f?utm_campaign=1058&utm_source=git)** | Phoenix, AZ, US | On Site | May 08 |
 | **[Brindley Engineering Corporation](https://www.brindleyengineering.com)** | **[IT Intern](https://jobright.ai/jobs/info/69fe0dd46bcf315dc8f5461d?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | May 08 |
+| **[American Battery Solutions Inc.](https://www.americanbatterysolutions.com/)** | **[IT Co-op](https://jobright.ai/jobs/info/69bd9ede4828227293ffd849?utm_campaign=1058&utm_source=git)** | Springboro, OH | On Site | May 08 |
+| **[Mount Carmel Health System](https://www.mountcarmelhealth.com/)** | **[Pharmacy Intern - Contingent](https://jobright.ai/jobs/info/69c4276533eecf31079445ab?utm_campaign=1058&utm_source=git)** | Westerville, OH | On Site | May 08 |
 | **[JustPark](https://www.justpark.com)** | **[FIFA Client Success Intern](https://jobright.ai/jobs/info/69fe28d37714cd50b90fe71c?utm_campaign=1058&utm_source=git)** | New York, NY | Hybrid | May 08 |
 | ↳ | **[FIFA Client Success Intern](https://jobright.ai/jobs/info/69fe0226f363bc4dc339b067?utm_campaign=1058&utm_source=git)** | New York, New York, United States | Hybrid | May 08 |
 | **['Alohilani Resort Waikiki Beach](http://www.pacificbeachhotel.com/)** | **[F&B Summer Intern](https://jobright.ai/jobs/info/69fdff31f363bc4dc339afd9?utm_campaign=1058&utm_source=git)** | Key West, FL, US | On Site | May 08 |
@@ -106,8 +117,8 @@ For a complete list, click the following sortable link below:
 | **[DHL Supply Chain](https://www.dhl.com/gb-en/home/supply-chain.html)** | **[Internship - Air Freight Specialist](https://jobright.ai/jobs/info/69fd333f938a651755f99865?utm_campaign=1058&utm_source=git)** | Atlanta, Georgia, United States of America | On Site | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Summer 2026 IT Intern](https://jobright.ai/jobs/info/69fd2fdf666f063d3d6d39f0?utm_campaign=1058&utm_source=git)** | US | On Site | May 07 |
 | ↳ | **[Intern – Summer 2026 – Customer Experience & Events](https://jobright.ai/jobs/info/69fd2e1e666f063d3d6d3944?utm_campaign=1058&utm_source=git)** | NJ, US | On Site | May 07 |
-| ↳ | **[IT Helpdesk Summer Intern](https://jobright.ai/jobs/info/69fd2d6d432a3c4da8e020f5?utm_campaign=1058&utm_source=git)** | NY, US | Hybrid | May 07 |
 | ↳ | **[Client Services Associate - Intern](https://jobright.ai/jobs/info/69fd2d6d666f063d3d6d38d9?utm_campaign=1058&utm_source=git)** | Deridder, LA, US | On Site | May 07 |
+| ↳ | **[IT Helpdesk Summer Intern](https://jobright.ai/jobs/info/69fd2d6d432a3c4da8e020f5?utm_campaign=1058&utm_source=git)** | NY, US | Hybrid | May 07 |
 | **[Syska Hennessy Group](http://www.syska.com)** | **[IT Helpdesk Summer Intern](https://jobright.ai/jobs/info/69fd26356b788e7e7a5c53e5?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | May 07 |
 | **[Pavement Recycling Systems](http://pavementrecycling.com)** | **[Intern](https://jobright.ai/jobs/info/69fd22e36b788e7e7a5c537f?utm_campaign=1058&utm_source=git)** | US-CA-Sacramento | On Site | May 07 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/69fd222c5cff890b03f363c8?utm_campaign=1058&utm_source=git)** | Sacramento, CA, US | On Site | May 07 |
@@ -146,15 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Field Intern-ANN](https://jobright.ai/jobs/info/69fcbdea666f063d3d6d04e2?utm_campaign=1058&utm_source=git)** | Central Valley, NY, US | On Site | May 07 |
 | **[CarepathRx](https://carepathrxllc.com/)** | **[Intern - IT Operations](https://jobright.ai/jobs/info/69fcdc7a6b788e7e7a5c32c8?utm_campaign=1058&utm_source=git)** | OH - Remote, US | Remote | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Customer Support Intern](https://jobright.ai/jobs/info/69fcbd015cff890b03f3311a?utm_campaign=1058&utm_source=git)** | Valparaiso, IN, US | On Site | May 07 |
-| **[Southern Industrial Constructors, Inc.](https://www.southernindustrial.com/)** | **[IT Technical Writer Intern (Summer 2026)](https://jobright.ai/jobs/info/69acf1522747003c3d527f56?utm_campaign=1058&utm_source=git)** | Raleigh, NC | On Site | May 07 |
-| **[PGA TOUR](http://www.pgatour.com)** | **[Golf Shop Coordinator- Intern](https://jobright.ai/jobs/info/69fcca026b788e7e7a5c28dd?utm_campaign=1058&utm_source=git)** | Las Vegas, NV, US | On Site | May 07 |
-| **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Warehouse Associate](https://jobright.ai/jobs/info/69dfc8b55913ad3398145b65?utm_campaign=1058&utm_source=git)** | Greater Columbia, Missouri Area | On Site | May 07 |
-| **[Adient](https://www.adient.com)** | **[Intern IT](https://jobright.ai/jobs/info/69fcc9ec6b788e7e7a5c2883?utm_campaign=1058&utm_source=git)** | Eastaboga, AL, US | On Site | May 07 |
-| **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY/PHARMACIST-INTERN](https://jobright.ai/jobs/info/69f179df8feca91f1492027a?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | May 07 |
-| **[City Utilities of Springfield](https://www.cityutilities.net)** | **[GIS Technician Intern](https://jobright.ai/jobs/info/69fcc341666f063d3d6d08cf?utm_campaign=1058&utm_source=git)** | Springfield, MO, US | On Site | May 07 |
-| **[InterWorks](http://www.interworks.com)** | **[IT Intern](https://jobright.ai/jobs/info/68596a3df7e1d7c7ec214cfc?utm_campaign=1058&utm_source=git)** | Stillwater, Oklahoma, United States | On Site | May 07 |
-| **[KnitWell Group](https://www.knitwellgroup.com)** | **[Field Intern-ANN](https://jobright.ai/jobs/info/69fcc3a16b788e7e7a5c261d?utm_campaign=1058&utm_source=git)** | Store 2991-Woodbury Common Premium-ANN-Central Valley, NY 10917, US | On Site | May 07 |
-| **[Texas Rangers Baseball Club](http://www.texasrangers.com)** | **[Desktop Support Intern](https://jobright.ai/jobs/info/69fceed3b113035a9f8ecfd6?utm_campaign=1058&utm_source=git)** | Arlington, TX, US | On Site | May 07 |
-| **[Xometry](https://www.xometry.com)** | **[Customer Support Intern](https://jobright.ai/jobs/info/6952e5fa935649778e20a49f?utm_campaign=1058&utm_source=git)** | Waltham, MA | On Site | May 07 |
-| **[Ascension](https://healthcare.ascension.org)** | **[Radiology Student Intern](https://jobright.ai/jobs/info/69dff60de34484770f1abaaa?utm_campaign=1058&utm_source=git)** | Brookfield, WI | On Site | May 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
