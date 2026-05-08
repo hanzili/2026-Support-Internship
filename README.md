@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RemoteHunter](https://remotehunter.com/)** | **[Student Intern](https://jobright.ai/jobs/info/69fd49567824dc6135bee9ae?utm_campaign=1058&utm_source=git)** | NY, US | On Site | May 07 |
+| ↳ | **[Client Experience Intern](https://jobright.ai/jobs/info/69fd49436b5b765031e82085?utm_campaign=1058&utm_source=git)** | Los Angeles, CA, US | On Site | May 07 |
 | **[American Business Bank](https://americanbb.bank)** | **[Client Experience Intern](https://jobright.ai/jobs/info/69fd3750938a651755f998cd?utm_campaign=1058&utm_source=git)** | Client Experience, Los Angeles, CA, US | On Site | May 07 |
 | **[DaZZee I.T.](https://dazzee.com)** | **[Technical Intern - Must Be Local To Branson or Kansas City](https://jobright.ai/jobs/info/69fd349db113035a9f8eeefb?utm_campaign=1058&utm_source=git)** | KC Metro Area | On Site | May 07 |
 | **[DHL Supply Chain](https://www.dhl.com/gb-en/home/supply-chain.html)** | **[Internship - Air Freight Specialist](https://jobright.ai/jobs/info/69fd333f938a651755f99865?utm_campaign=1058&utm_source=git)** | Atlanta, Georgia, United States of America | On Site | May 07 |
@@ -101,6 +103,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Field Intern-ANN](https://jobright.ai/jobs/info/69fcbdea666f063d3d6d04e2?utm_campaign=1058&utm_source=git)** | Central Valley, NY, US | On Site | May 07 |
 | **[CarepathRx](https://carepathrxllc.com/)** | **[Intern - IT Operations](https://jobright.ai/jobs/info/69fcdc7a6b788e7e7a5c32c8?utm_campaign=1058&utm_source=git)** | OH - Remote, US | Remote | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Customer Support Intern](https://jobright.ai/jobs/info/69fcbd015cff890b03f3311a?utm_campaign=1058&utm_source=git)** | Valparaiso, IN, US | On Site | May 07 |
+| **[Southern Industrial Constructors, Inc.](https://www.southernindustrial.com/)** | **[IT Technical Writer Intern (Summer 2026)](https://jobright.ai/jobs/info/69acf1522747003c3d527f56?utm_campaign=1058&utm_source=git)** | Raleigh, NC | On Site | May 07 |
 | **[PGA TOUR](http://www.pgatour.com)** | **[Golf Shop Coordinator- Intern](https://jobright.ai/jobs/info/69fcca026b788e7e7a5c28dd?utm_campaign=1058&utm_source=git)** | Las Vegas, NV, US | On Site | May 07 |
 | **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Warehouse Associate](https://jobright.ai/jobs/info/69dfc8b55913ad3398145b65?utm_campaign=1058&utm_source=git)** | Greater Columbia, Missouri Area | On Site | May 07 |
 | **[Adient](https://www.adient.com)** | **[Intern IT](https://jobright.ai/jobs/info/69fcc9ec6b788e7e7a5c2883?utm_campaign=1058&utm_source=git)** | Eastaboga, AL, US | On Site | May 07 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Magnet Forensics](http://magnetforensics.com)** | **[Technical Writer Co-op (Fall 2026)](https://jobright.ai/jobs/info/69fbfbe93802c7621fd8ecd5?utm_campaign=1058&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | May 06 |
 | **[Tucson Medical Center](https://www.tmcaz.com/)** | **[Pharmacy Intern Per Diem](https://jobright.ai/jobs/info/69f2cf80ecbc8c2f7320dc47?utm_campaign=1058&utm_source=git)** | Tucson, AZ | On Site | May 06 |
 | **[Magnet Forensics](http://magnetforensics.com)** | **[Technical Writer Co-op (Fall 2026)](https://jobright.ai/jobs/info/69fbfbd02f9f6b7cf69105b9?utm_campaign=1058&utm_source=git)** | Waterloo, Ontario, Canada | Hybrid | May 06 |
-| ↳ | **[Desktop Support Co-op (Fall 2026)](https://jobright.ai/jobs/info/69fbfb7e76c60e7b70af14b4?utm_campaign=1058&utm_source=git)** | Waterloo, Ontario, Canada | Hybrid | May 06 |
-| **[University of Massachusetts](https://www.youtube.com/channel/UCH_NUbvxPedsdb5jq98Atig)** | **[Intern - IT Finance Applications](https://jobright.ai/jobs/info/69fc1dc8c39b9a66c0c565d0?utm_campaign=1058&utm_source=git)** | Shrewsbury, MA | Hybrid | May 06 |
-| **[Yardi](https://www.yardi.com)** | **[Intern, Associate Technical Account Manager](https://jobright.ai/jobs/info/69fbf73a3802c7621fd8eaea?utm_campaign=1058&utm_source=git)** | New York, NY | Hybrid | May 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
