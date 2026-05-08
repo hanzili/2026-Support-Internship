@@ -57,11 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Indie Campers](https://indiecampers.com/)** | **[Tourism & Operations Internship](https://jobright.ai/jobs/info/69fdbedf4b9bbf21744ac307?utm_campaign=1058&utm_source=git)** | Palma Depot | On Site | May 08 |
+| **[RemoteHunter](https://remotehunter.com/)** | **[School IT Support Summer Intern](https://jobright.ai/jobs/info/69fdbe144b9bbf21744ac25e?utm_campaign=1058&utm_source=git)** | Chicago, IL, US | On Site | May 08 |
 | **[DoubleTree by Hilton London Ontario](https://www.hilton.com/en/hotels/yxuksdt-doubletree-london-ontario/)** | **[Information Technology Intern - The Waldorf Astoria New York](https://jobright.ai/jobs/info/69fda60ef363bc4dc3399271?utm_campaign=1058&utm_source=git)** | The Waldorf Astoria - New York301 Park Avenue | On Site | May 08 |
 | **[Cloud Counselage Pvt. Ltd.](https://www.cloudcounselage.com)** | **[IT Operations Intern](https://jobright.ai/jobs/info/69fda608f363bc4dc3399270?utm_campaign=1058&utm_source=git)** | United States | Remote | May 08 |
 | **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/69fda170ad691a11f34ea286?utm_campaign=1058&utm_source=git)** | 467 SALEM ST,MEDFORD,MA,02155 | On Site | May 08 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69fda16fad691a11f34ea285?utm_campaign=1058&utm_source=git)** | 185 CENTRE ST,MALDEN,MA,02148-05522-03130-S | On Site | May 08 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69fda0c2ad691a11f34ea221?utm_campaign=1058&utm_source=git)** | 905 NEW DURHAM RD,EDISON,NJ,08817-02253-04876-S | On Site | May 08 |
+| **[McLaren Health Care](http://www.mclaren.org)** | **[Intern- Patient Access](https://jobright.ai/jobs/info/69fb3d6b86d5cd46527d428b?utm_campaign=1058&utm_source=git)** | Petoskey, MI | On Site | May 08 |
 | **[Dayton T. Brown, Inc.](http://www.dtb.com)** | **[IT Internship -Part-Time](https://jobright.ai/jobs/info/69fd83d252e2b44f558aba19?utm_campaign=1058&utm_source=git)** | Bohemia,NY,US | On Site | May 07 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69fd6a517f9567150fa35f92?utm_campaign=1058&utm_source=git)** | 6300 HIXSON PIKE,CHATTANOOGA,TN,37343 | On Site | May 07 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69fd69e2f363bc4dc3398554?utm_campaign=1058&utm_source=git)** | 33670 US HIGHWAY 19 N,PALM HARBOR,FL,34684-02640-04124-S | On Site | May 07 |
@@ -128,6 +131,7 @@ For a complete list, click the following sortable link below:
 | **[KnitWell Group](https://www.knitwellgroup.com)** | **[Field Intern-ANN](https://jobright.ai/jobs/info/69fcc3a16b788e7e7a5c261d?utm_campaign=1058&utm_source=git)** | Store 2991-Woodbury Common Premium-ANN-Central Valley, NY 10917, US | On Site | May 07 |
 | **[Texas Rangers Baseball Club](http://www.texasrangers.com)** | **[Desktop Support Intern](https://jobright.ai/jobs/info/69fceed3b113035a9f8ecfd6?utm_campaign=1058&utm_source=git)** | Arlington, TX, US | On Site | May 07 |
 | **[Xometry](https://www.xometry.com)** | **[Customer Support Intern](https://jobright.ai/jobs/info/6952e5fa935649778e20a49f?utm_campaign=1058&utm_source=git)** | Waltham, MA | On Site | May 07 |
+| **[Ascension](https://healthcare.ascension.org)** | **[Radiology Student Intern](https://jobright.ai/jobs/info/69dff60de34484770f1abaaa?utm_campaign=1058&utm_source=git)** | Brookfield, WI | On Site | May 07 |
 | **[TLD](https://www.tld-group.com)** | **[Intern - Warehouse](https://jobright.ai/jobs/info/69fc9080666f063d3d6cf025?utm_campaign=1058&utm_source=git)** | Windsor, CT, US | On Site | May 07 |
 | **[TRM](https://www.trmmicrowave.com)** | **[Intern Shipping and Receiving](https://jobright.ai/jobs/info/69fcc2776b788e7e7a5c24ff?utm_campaign=1058&utm_source=git)** | Bedford,NH,US | On Site | May 07 |
 | **[Hyatt](http://www.hyatt.com/)** | **[Summer 2026 - College Intern - Sedona, AZ (Front Office & Recreation)](https://jobright.ai/jobs/info/68fca19ae04ac838fb5ab30d?utm_campaign=1058&utm_source=git)** | Sedona, AZ | On Site | May 07 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[IT Application Specialist - Intern](https://jobright.ai/jobs/info/69fc57abcf5c6d3100697506?utm_campaign=1058&utm_source=git)** | New Baltimore, NY, US | On Site | May 06 |
 | ↳ | **[GSMR Special Events Intern](https://jobright.ai/jobs/info/69fc5bd3ab1b7e27b9fa36eb?utm_campaign=1058&utm_source=git)** | Bryson City, NC, US | On Site | May 06 |
 | ↳ | **[SAP Customer Success iXp Intern - SAP Experience Center Showcase Support](https://jobright.ai/jobs/info/69fc5a63ab1b7e27b9fa36a4?utm_campaign=1058&utm_source=git)** | Chicago, IL, US | On Site | May 06 |
-| ↳ | **[Summer 2026 IT Operations Intern](https://jobright.ai/jobs/info/69fc58f0ab1b7e27b9fa365d?utm_campaign=1058&utm_source=git)** | Knoxville, TN, US | On Site | May 06 |
-| ↳ | **[IT Intern - Part Time](https://jobright.ai/jobs/info/69fc554c48ae180867213099?utm_campaign=1058&utm_source=git)** | Amarillo, TX, US | On Site | May 06 |
-| ↳ | **[Customer Experience Operations Intern](https://jobright.ai/jobs/info/69fc55ecab1b7e27b9fa35b8?utm_campaign=1058&utm_source=git)** | United States | Remote | May 06 |
-| **[Tombras](http://tombras.com)** | **[IT Help Desk Intern](https://jobright.ai/jobs/info/69fc341f4ab6391714fd41ba?utm_campaign=1058&utm_source=git)** | Knoxville, TN | On Site | May 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
