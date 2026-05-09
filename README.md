@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Zuora](https://www.zuora.com)** | **[Intern, Customer](https://jobright.ai/jobs/info/69fed425d0dc596b8d11a368?utm_campaign=1058&utm_source=git)** | Remote - United States | Remote | May 08 |
 | **[iPower Technologies](http://www.goipower.com/)** | **[Helpdesk Intern](https://jobright.ai/jobs/info/69febc6f1161630dd3b03fb9?utm_campaign=1058&utm_source=git)** | West Caldwell, NJ 07006 | On Site | May 08 |
 | **[Great Smoky Mountains Railroad](https://gsmr.com)** | **[GSMR Special Events Intern](https://jobright.ai/jobs/info/69febc631161630dd3b03f50?utm_campaign=1058&utm_source=git)** | BRYSON CITY, NC 28713 | On Site | May 08 |
 | **[Allen Lund Company](http://www.allenlund.com/)** | **[Intern](https://jobright.ai/jobs/info/69feb81251699d6e54ef3cd7?utm_campaign=1058&utm_source=git)** | Charlotte, NC | On Site | May 08 |
@@ -67,14 +68,16 @@ For a complete list, click the following sortable link below:
 | **[BAE Systems](http://www.baesystems.com)** | **[IT Internship- Spring/Summer 2026](https://jobright.ai/jobs/info/69feac0a52e2b44f558b2b54?utm_campaign=1058&utm_source=git)** | Falls Church Virginia | Hybrid | May 08 |
 | **[Habitat for Humanity International](https://www.habitat.org/ap)** | **[Data Management Support Intern](https://jobright.ai/jobs/info/69fe9ea552e2b44f558b2986?utm_campaign=1058&utm_source=git)** | Remotely based in the United States | Remote | May 08 |
 | **[United States Steel Corporation](http://www.ussteel.com)** | **[Customer Experience Internship](https://jobright.ai/jobs/info/69fe9e6352e2b44f558b292a?utm_campaign=1058&utm_source=git)** | Troy | Hybrid | May 08 |
+| **[International Rescue Committee](http://www.rescue.org)** | **[Intensive Service Intern](https://jobright.ai/jobs/info/69fad3a186d5cd46527d004a?utm_campaign=1058&utm_source=git)** | Baltimore, MD | Hybrid | May 08 |
 | **[NYC Department of Health and Mental Hygiene](https://www.nyc.gov/site/doh/index.page)** | **[College Intern](https://jobright.ai/jobs/info/69fe96f86bcf315dc8f58454?utm_campaign=1058&utm_source=git)** | NYC-ALL BOROS | On Site | May 08 |
-| **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/69fe816c4b9bbf21744b1e99?utm_campaign=1058&utm_source=git)** | 934 N HACIENDA BLVD,LA PUENTE,CA,91744 | On Site | May 08 |
-| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69fe816c4b9bbf21744b1e98?utm_campaign=1058&utm_source=git)** | 2453 S AZUSA AVE,WEST COVINA,CA,91792-01536-09560-S | On Site | May 08 |
+| **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/69fe816c4b9bbf21744b1e98?utm_campaign=1058&utm_source=git)** | 2453 S AZUSA AVE,WEST COVINA,CA,91792-01536-09560-S | On Site | May 08 |
+| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69fe816c4b9bbf21744b1e99?utm_campaign=1058&utm_source=git)** | 934 N HACIENDA BLVD,LA PUENTE,CA,91744 | On Site | May 08 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69fe81616bcf315dc8f580a6?utm_campaign=1058&utm_source=git)** | 934 N HACIENDA BLVD,LA PUENTE,CA,91744 | On Site | May 08 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69fe81616bcf315dc8f580a5?utm_campaign=1058&utm_source=git)** | 1086 W ARROW HWY,SAN DIMAS,CA,91773-02492-05797-S | On Site | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Customer Experience Ops Intern](https://jobright.ai/jobs/info/69fe7eaf52e2b44f558b20ba?utm_campaign=1058&utm_source=git)** | San Francisco, CA, US | Hybrid | May 08 |
 | ↳ | **[Hourly Pooled - COMPASS Office Student Intern](https://jobright.ai/jobs/info/69fe7e816bcf315dc8f57f26?utm_campaign=1058&utm_source=git)** | Laramie, WY, US | On Site | May 08 |
-| ↳ | **[Technical Writing Internship](https://jobright.ai/jobs/info/69fe65a1f363bc4dc339e797?utm_campaign=1058&utm_source=git)** | Longwood, FL, US | Hybrid | May 08 |
+| **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Fall 2026 - College Intern - Hilton Head Island, SC (Front Office)](https://jobright.ai/jobs/info/69fb704586d5cd46527d5c3d?utm_campaign=1058&utm_source=git)** | Hilton Head Island, SC | On Site | May 08 |
+| **[RemoteHunter](https://remotehunter.com/)** | **[Technical Writing Internship](https://jobright.ai/jobs/info/69fe65a1f363bc4dc339e797?utm_campaign=1058&utm_source=git)** | Longwood, FL, US | Hybrid | May 08 |
 | **[Cribl](https://www.cribl.io)** | **[Customer Experience Ops Intern](https://jobright.ai/jobs/info/69fe6596ad691a11f34ed8b9?utm_campaign=1058&utm_source=git)** | Remote - San Francisco, California | Remote | May 08 |
 | **[Aerospike](http://www.aerospike.com)** | **[IT Intern](https://jobright.ai/jobs/info/69fe648a52e2b44f558b16f7?utm_campaign=1058&utm_source=git)** | Mountain View | On Site | May 08 |
 | **[L'Arche Ottawa](http://www.larcheottawa.org/)** | **[Student or Intern](https://jobright.ai/jobs/info/69fe641ef363bc4dc339e5f1?utm_campaign=1058&utm_source=git)** | Hamilton, ON, CA | On Site | May 08 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[RemoteHunter](https://remotehunter.com/)** | **[Summer 2026 IT Intern](https://jobright.ai/jobs/info/69fd2fdf666f063d3d6d39f0?utm_campaign=1058&utm_source=git)** | US | On Site | May 07 |
 | ↳ | **[Intern – Summer 2026 – Customer Experience & Events](https://jobright.ai/jobs/info/69fd2e1e666f063d3d6d3944?utm_campaign=1058&utm_source=git)** | NJ, US | On Site | May 07 |
 | ↳ | **[Client Services Associate - Intern](https://jobright.ai/jobs/info/69fd2d6d666f063d3d6d38d9?utm_campaign=1058&utm_source=git)** | Deridder, LA, US | On Site | May 07 |
-| ↳ | **[IT Helpdesk Summer Intern](https://jobright.ai/jobs/info/69fd2d6d432a3c4da8e020f5?utm_campaign=1058&utm_source=git)** | NY, US | Hybrid | May 07 |
-| **[Syska Hennessy Group](http://www.syska.com)** | **[IT Helpdesk Summer Intern](https://jobright.ai/jobs/info/69fd26356b788e7e7a5c53e5?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | May 07 |
-| **[Pavement Recycling Systems](http://pavementrecycling.com)** | **[Intern](https://jobright.ai/jobs/info/69fd22e36b788e7e7a5c537f?utm_campaign=1058&utm_source=git)** | US-CA-Sacramento | On Site | May 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
