@@ -70,8 +70,8 @@ For a complete list, click the following sortable link below:
 | **[NYC Department of Health and Mental Hygiene](https://www.nyc.gov/site/doh/index.page)** | **[College Intern](https://jobright.ai/jobs/info/69fe96f86bcf315dc8f58454?utm_campaign=1058&utm_source=git)** | NYC-ALL BOROS | On Site | May 08 |
 | **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/69fe816c4b9bbf21744b1e99?utm_campaign=1058&utm_source=git)** | 934 N HACIENDA BLVD,LA PUENTE,CA,91744 | On Site | May 08 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69fe816c4b9bbf21744b1e98?utm_campaign=1058&utm_source=git)** | 2453 S AZUSA AVE,WEST COVINA,CA,91792-01536-09560-S | On Site | May 08 |
-| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69fe81616bcf315dc8f580a5?utm_campaign=1058&utm_source=git)** | 1086 W ARROW HWY,SAN DIMAS,CA,91773-02492-05797-S | On Site | May 08 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69fe81616bcf315dc8f580a6?utm_campaign=1058&utm_source=git)** | 934 N HACIENDA BLVD,LA PUENTE,CA,91744 | On Site | May 08 |
+| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69fe81616bcf315dc8f580a5?utm_campaign=1058&utm_source=git)** | 1086 W ARROW HWY,SAN DIMAS,CA,91773-02492-05797-S | On Site | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Customer Experience Ops Intern](https://jobright.ai/jobs/info/69fe7eaf52e2b44f558b20ba?utm_campaign=1058&utm_source=git)** | San Francisco, CA, US | Hybrid | May 08 |
 | ↳ | **[Hourly Pooled - COMPASS Office Student Intern](https://jobright.ai/jobs/info/69fe7e816bcf315dc8f57f26?utm_campaign=1058&utm_source=git)** | Laramie, WY, US | On Site | May 08 |
 | ↳ | **[Technical Writing Internship](https://jobright.ai/jobs/info/69fe65a1f363bc4dc339e797?utm_campaign=1058&utm_source=git)** | Longwood, FL, US | Hybrid | May 08 |
