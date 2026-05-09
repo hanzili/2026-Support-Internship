@@ -58,7 +58,10 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad - Sign-On Bonus Available](https://jobright.ai/jobs/info/69ff65cd238f143e835256fb?utm_campaign=1058&utm_source=git)** | 51 DIXIE DR,CLUTE,TX,77531-05147-04100-S | On Site | May 09 |
-| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69ff48c9c4b08448a0b17910?utm_campaign=1058&utm_source=git)** | 617 HIGHLAND ST,MOUNT HOLLY,NC,28120 | On Site | May 09 |
+| **[New College of Florida](https://www.ncf.edu/)** | **[Student Assistant, Intern, IT](https://jobright.ai/jobs/info/69e7e494f8fa2f3ec32aa38e?utm_campaign=1058&utm_source=git)** | Sarasota, FL | On Site | May 09 |
+| **[Prosperity Life](https://prosperitylife.com)** | **[Enterprise Applications Intern](https://jobright.ai/jobs/info/69c6de211b5ad02887387abb?utm_campaign=1058&utm_source=git)** | Austin, TX | Hybrid | May 09 |
+| **[Hendrickson](http://www.hendrickson-intl.com/Home.aspx)** | **[IT Applications Intern (Summer 2026)](https://jobright.ai/jobs/info/69d1d1440b098b7a67084966?utm_campaign=1058&utm_source=git)** | Canton, OH | On Site | May 09 |
+| **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69ff48c9c4b08448a0b17910?utm_campaign=1058&utm_source=git)** | 617 HIGHLAND ST,MOUNT HOLLY,NC,28120 | On Site | May 09 |
 | **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Warehouse Associate](https://jobright.ai/jobs/info/69e2c6b3be46fa3a4ef58c2e?utm_campaign=1058&utm_source=git)** | Greater Columbia, Missouri Area | On Site | May 09 |
 | **[Allen Lund Company](http://www.allenlund.com/)** | **[Intern](https://jobright.ai/jobs/info/69ff32d0238f143e835243c1?utm_campaign=1058&utm_source=git)** | Charlotte, NC | On Site | May 09 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69ff2cd274b5407dd4673db2?utm_campaign=1058&utm_source=git)** | 905 NEW DURHAM RD,EDISON,NJ,08817-02253-04876-S | On Site | May 09 |
@@ -112,6 +115,7 @@ For a complete list, click the following sortable link below:
 | **[Shady Grove Fertility](http://ShadyGroveFertility.com)** | **[Intern - Medical Records](https://jobright.ai/jobs/info/69fe39646bcf315dc8f556b0?utm_campaign=1058&utm_source=git)** | ROCKVILLE, Maryland, United States | On Site | May 08 |
 | **[UPMC](https://www.upmc.com/)** | **[Audiologist Intern-Hanover](https://jobright.ai/jobs/info/69ccac72cdb525785fb8135e?utm_campaign=1058&utm_source=git)** | Hanover, PA | On Site | May 08 |
 | **[IDEX Corporation](http://www.idexcorp.com)** | **[Technical Writing Internship](https://jobright.ai/jobs/info/69feb2981161630dd3b01a79?utm_campaign=1058&utm_source=git)** | Longwood, Florida, US | Hybrid | May 08 |
+| **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[Intern, Technical Support (R&D Engineer)](https://jobright.ai/jobs/info/69e15e7fff71e82d604b68e5?utm_campaign=1058&utm_source=git)** | Lincoln, NE | On Site | May 08 |
 | **[US Fertility](https://www.usfertility.com/)** | **[Intern - Medical Records](https://jobright.ai/jobs/info/69feb5a21161630dd3b023c1?utm_campaign=1058&utm_source=git)** | ROCKVILLE, Maryland, United States | On Site | May 08 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69fe2e8f7714cd50b90feb65?utm_campaign=1058&utm_source=git)** | 2105 E WELLESLEY AVE,SPOKANE,WA,99207 | On Site | May 08 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69fe2e2b52e2b44f558aef77?utm_campaign=1058&utm_source=git)** | 30283 TRIANGLE DR,CHARLOTTE HALL,MD,20622-03125-17672-S | On Site | May 08 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69fda16fad691a11f34ea285?utm_campaign=1058&utm_source=git)** | 185 CENTRE ST,MALDEN,MA,02148-05522-03130-S | On Site | May 08 |
 | **[CONVERGIX Automation Solutions](https://convergixautomation.com)** | **[IT Systems & Support Intern](https://jobright.ai/jobs/info/69c45c04d5a1016e98db925e?utm_campaign=1058&utm_source=git)** | Bridgman, MI | On Site | May 08 |
 | **[McLaren Health Care](http://www.mclaren.org)** | **[Intern- Patient Access](https://jobright.ai/jobs/info/69fb3d6b86d5cd46527d428b?utm_campaign=1058&utm_source=git)** | Petoskey, MI | On Site | May 08 |
-| **[Dayton T. Brown, Inc.](http://www.dtb.com)** | **[IT Internship -Part-Time](https://jobright.ai/jobs/info/69fd83d252e2b44f558aba19?utm_campaign=1058&utm_source=git)** | Bohemia,NY,US | On Site | May 07 |
-| **[Boise Cascade Company](http://www.bc.com/index.html)** | **[Intern - Junior](https://jobright.ai/jobs/info/69ff4a7a74b5407dd4674b47?utm_campaign=1058&utm_source=git)** | Phoenix, AZ, US | On Site | May 07 |
-| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69fd6a517f9567150fa35f92?utm_campaign=1058&utm_source=git)** | 6300 HIXSON PIKE,CHATTANOOGA,TN,37343 | On Site | May 07 |
-| **[RemoteHunter](https://remotehunter.com/)** | **[Intern - IT Operations](https://jobright.ai/jobs/info/69fd6964f363bc4dc33984f1?utm_campaign=1058&utm_source=git)** | United States | Remote | May 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
