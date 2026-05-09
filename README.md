@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69fef458fa1aa73213d8a0ae?utm_campaign=1058&utm_source=git)** | 2105 E WELLESLEY AVE,SPOKANE,WA,99207 | On Site | May 09 |
 | **[Zuora](https://www.zuora.com)** | **[Intern, Customer](https://jobright.ai/jobs/info/69fed425d0dc596b8d11a368?utm_campaign=1058&utm_source=git)** | Remote - United States | Remote | May 08 |
 | **[iPower Technologies](http://www.goipower.com/)** | **[Helpdesk Intern](https://jobright.ai/jobs/info/69febc6f1161630dd3b03fb9?utm_campaign=1058&utm_source=git)** | West Caldwell, NJ 07006 | On Site | May 08 |
 | **[Great Smoky Mountains Railroad](https://gsmr.com)** | **[GSMR Special Events Intern](https://jobright.ai/jobs/info/69febc631161630dd3b03f50?utm_campaign=1058&utm_source=git)** | BRYSON CITY, NC 28713 | On Site | May 08 |
@@ -70,8 +71,8 @@ For a complete list, click the following sortable link below:
 | **[United States Steel Corporation](http://www.ussteel.com)** | **[Customer Experience Internship](https://jobright.ai/jobs/info/69fe9e6352e2b44f558b292a?utm_campaign=1058&utm_source=git)** | Troy | Hybrid | May 08 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Intensive Service Intern](https://jobright.ai/jobs/info/69fad3a186d5cd46527d004a?utm_campaign=1058&utm_source=git)** | Baltimore, MD | Hybrid | May 08 |
 | **[NYC Department of Health and Mental Hygiene](https://www.nyc.gov/site/doh/index.page)** | **[College Intern](https://jobright.ai/jobs/info/69fe96f86bcf315dc8f58454?utm_campaign=1058&utm_source=git)** | NYC-ALL BOROS | On Site | May 08 |
-| **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/69fe816c4b9bbf21744b1e99?utm_campaign=1058&utm_source=git)** | 934 N HACIENDA BLVD,LA PUENTE,CA,91744 | On Site | May 08 |
-| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69fe816c4b9bbf21744b1e98?utm_campaign=1058&utm_source=git)** | 2453 S AZUSA AVE,WEST COVINA,CA,91792-01536-09560-S | On Site | May 08 |
+| **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/69fe816c4b9bbf21744b1e98?utm_campaign=1058&utm_source=git)** | 2453 S AZUSA AVE,WEST COVINA,CA,91792-01536-09560-S | On Site | May 08 |
+| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69fe816c4b9bbf21744b1e99?utm_campaign=1058&utm_source=git)** | 934 N HACIENDA BLVD,LA PUENTE,CA,91744 | On Site | May 08 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69fe81616bcf315dc8f580a6?utm_campaign=1058&utm_source=git)** | 934 N HACIENDA BLVD,LA PUENTE,CA,91744 | On Site | May 08 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69fe81616bcf315dc8f580a5?utm_campaign=1058&utm_source=git)** | 1086 W ARROW HWY,SAN DIMAS,CA,91773-02492-05797-S | On Site | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Customer Experience Ops Intern](https://jobright.ai/jobs/info/69fe7eaf52e2b44f558b20ba?utm_campaign=1058&utm_source=git)** | San Francisco, CA, US | Hybrid | May 08 |
@@ -137,6 +138,7 @@ For a complete list, click the following sortable link below:
 | **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/69fda170ad691a11f34ea286?utm_campaign=1058&utm_source=git)** | 467 SALEM ST,MEDFORD,MA,02155 | On Site | May 08 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69fda16fad691a11f34ea285?utm_campaign=1058&utm_source=git)** | 185 CENTRE ST,MALDEN,MA,02148-05522-03130-S | On Site | May 08 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69fda0c2ad691a11f34ea221?utm_campaign=1058&utm_source=git)** | 905 NEW DURHAM RD,EDISON,NJ,08817-02253-04876-S | On Site | May 08 |
+| **[CONVERGIX Automation Solutions](https://convergixautomation.com)** | **[IT Systems & Support Intern](https://jobright.ai/jobs/info/69c45c04d5a1016e98db925e?utm_campaign=1058&utm_source=git)** | Bridgman, MI | On Site | May 08 |
 | **[McLaren Health Care](http://www.mclaren.org)** | **[Intern- Patient Access](https://jobright.ai/jobs/info/69fb3d6b86d5cd46527d428b?utm_campaign=1058&utm_source=git)** | Petoskey, MI | On Site | May 08 |
 | **[Dayton T. Brown, Inc.](http://www.dtb.com)** | **[IT Internship -Part-Time](https://jobright.ai/jobs/info/69fd83d252e2b44f558aba19?utm_campaign=1058&utm_source=git)** | Bohemia,NY,US | On Site | May 07 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69fd6a517f9567150fa35f92?utm_campaign=1058&utm_source=git)** | 6300 HIXSON PIKE,CHATTANOOGA,TN,37343 | On Site | May 07 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[DaZZee I.T.](https://dazzee.com)** | **[Technical Intern - Must Be Local To Branson or Kansas City](https://jobright.ai/jobs/info/69fd349db113035a9f8eeefb?utm_campaign=1058&utm_source=git)** | KC Metro Area | On Site | May 07 |
 | **[DHL Supply Chain](https://www.dhl.com/gb-en/home/supply-chain.html)** | **[Internship - Air Freight Specialist](https://jobright.ai/jobs/info/69fd333f938a651755f99865?utm_campaign=1058&utm_source=git)** | Atlanta, Georgia, United States of America | On Site | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Summer 2026 IT Intern](https://jobright.ai/jobs/info/69fd2fdf666f063d3d6d39f0?utm_campaign=1058&utm_source=git)** | US | On Site | May 07 |
-| ↳ | **[Intern – Summer 2026 – Customer Experience & Events](https://jobright.ai/jobs/info/69fd2e1e666f063d3d6d3944?utm_campaign=1058&utm_source=git)** | NJ, US | On Site | May 07 |
-| ↳ | **[Client Services Associate - Intern](https://jobright.ai/jobs/info/69fd2d6d666f063d3d6d38d9?utm_campaign=1058&utm_source=git)** | Deridder, LA, US | On Site | May 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
