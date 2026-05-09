@@ -57,10 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/69fe816c4b9bbf21744b1e98?utm_campaign=1058&utm_source=git)** | 2453 S AZUSA AVE,WEST COVINA,CA,91792-01536-09560-S | On Site | May 08 |
-| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69fe816c4b9bbf21744b1e99?utm_campaign=1058&utm_source=git)** | 934 N HACIENDA BLVD,LA PUENTE,CA,91744 | On Site | May 08 |
-| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69fe81616bcf315dc8f580a6?utm_campaign=1058&utm_source=git)** | 934 N HACIENDA BLVD,LA PUENTE,CA,91744 | On Site | May 08 |
+| **[Habitat for Humanity International](https://www.habitat.org/ap)** | **[Data Management Support Intern](https://jobright.ai/jobs/info/69fe9ea552e2b44f558b2986?utm_campaign=1058&utm_source=git)** | Remotely based in the United States | Remote | May 08 |
+| **[United States Steel Corporation](http://www.ussteel.com)** | **[Customer Experience Internship](https://jobright.ai/jobs/info/69fe9e6352e2b44f558b292a?utm_campaign=1058&utm_source=git)** | Troy | Hybrid | May 08 |
+| **[NYC Department of Health and Mental Hygiene](https://www.nyc.gov/site/doh/index.page)** | **[College Intern](https://jobright.ai/jobs/info/69fe96f86bcf315dc8f58454?utm_campaign=1058&utm_source=git)** | NYC-ALL BOROS | On Site | May 08 |
+| **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/69fe816c4b9bbf21744b1e99?utm_campaign=1058&utm_source=git)** | 934 N HACIENDA BLVD,LA PUENTE,CA,91744 | On Site | May 08 |
+| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69fe816c4b9bbf21744b1e98?utm_campaign=1058&utm_source=git)** | 2453 S AZUSA AVE,WEST COVINA,CA,91792-01536-09560-S | On Site | May 08 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69fe81616bcf315dc8f580a5?utm_campaign=1058&utm_source=git)** | 1086 W ARROW HWY,SAN DIMAS,CA,91773-02492-05797-S | On Site | May 08 |
+| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69fe81616bcf315dc8f580a6?utm_campaign=1058&utm_source=git)** | 934 N HACIENDA BLVD,LA PUENTE,CA,91744 | On Site | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Customer Experience Ops Intern](https://jobright.ai/jobs/info/69fe7eaf52e2b44f558b20ba?utm_campaign=1058&utm_source=git)** | San Francisco, CA, US | Hybrid | May 08 |
 | ↳ | **[Hourly Pooled - COMPASS Office Student Intern](https://jobright.ai/jobs/info/69fe7e816bcf315dc8f57f26?utm_campaign=1058&utm_source=git)** | Laramie, WY, US | On Site | May 08 |
 | ↳ | **[Technical Writing Internship](https://jobright.ai/jobs/info/69fe65a1f363bc4dc339e797?utm_campaign=1058&utm_source=git)** | Longwood, FL, US | Hybrid | May 08 |
@@ -107,7 +110,8 @@ For a complete list, click the following sortable link below:
 | **[Associated Medical Professionals of NY, PLLC](https://www.ampofny.com/)** | **[Clinical Research Assistant Intern](https://jobright.ai/jobs/info/69fdfec04b9bbf21744adb29?utm_campaign=1058&utm_source=git)** | US IN Bridges Office Carmel, US | On Site | May 08 |
 | **[BKF Engineers](http://www.bkf.com)** | **[2026 IT Intern](https://jobright.ai/jobs/info/69fad40638179b6f1ae72542?utm_campaign=1058&utm_source=git)** | Pleasanton, CA | Hybrid | May 08 |
 | **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Fall Intern 2026 – Client Experience (CX) Department](https://jobright.ai/jobs/info/69c56905e565c26a7000f44b?utm_campaign=1058&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | May 08 |
-| **[Hannaford Supermarkets](https://www.hannaford.com/)** | **[P4 Rx Intern ($26/ hr)](https://jobright.ai/jobs/info/69c67865aa3c2c1995e100a9?utm_campaign=1058&utm_source=git)** | Williston, VT | On Site | May 08 |
+| **[Hannaford Supermarkets](https://www.hannaford.com/)** | **[P4 Rx Intern ($26/ hr)](https://jobright.ai/jobs/info/69c6782b83ea553769fdb410?utm_campaign=1058&utm_source=git)** | Ellsworth, ME | On Site | May 08 |
+| ↳ | **[P4 Rx Intern ($26/ hr)](https://jobright.ai/jobs/info/69c67865aa3c2c1995e100a9?utm_campaign=1058&utm_source=git)** | Williston, VT | On Site | May 08 |
 | **[Xometry](https://www.xometry.com)** | **[Customer Support Intern](https://jobright.ai/jobs/info/6952df915bb7de448ef5f0b8?utm_campaign=1058&utm_source=git)** | Lexington, KY | On Site | May 08 |
 | **[KPH HEALTHCARE SERVICES, INC](https://www.kphhealthcareservices.com/en/)** | **[Pharmacy Intern P4](https://jobright.ai/jobs/info/6959e379aa05c26e7ab383eb?utm_campaign=1058&utm_source=git)** | Ithaca, NY | On Site | May 08 |
 | **[Kinney Drugs](http://www.kinneydrugs.com)** | **[Pharmacy Intern P3](https://jobright.ai/jobs/info/691e2866a49a885af9a259ed?utm_campaign=1058&utm_source=git)** | Seneca Falls, NY | On Site | May 08 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cardinal Health](https://www.cardinalhealth.com)** | **[Intern, Nuclear Pharmacy](https://jobright.ai/jobs/info/69fd0202666f063d3d6d2854?utm_campaign=1058&utm_source=git)** | IL-Glendale Heights Nucl Pharm, US | On Site | May 07 |
 | **[Penn State University](http://psu.edu)** | **[Part-Time IT Summer Intern Position](https://jobright.ai/jobs/info/69fd01f86b788e7e7a5c44f6?utm_campaign=1058&utm_source=git)** | Penn State University Park, US | Hybrid | May 07 |
 | **[Maricopa County](http://www.maricopa.gov)** | **[IT Intern](https://jobright.ai/jobs/info/69fd01e8938a651755f98558?utm_campaign=1058&utm_source=git)** | 301 W Jefferson St, Phoenix, AZ 85003, US | Hybrid | May 07 |
-| **[Capitol Imaging Services](https://capitolimagingservices.com)** | **[Patient Coordinator - Intern (49921)](https://jobright.ai/jobs/info/69fcfa026b788e7e7a5c438f?utm_campaign=1058&utm_source=git)** | Houston - Alliance MRI Woodforest - Montgomery, TX 77316 | On Site | May 07 |
-| **[OneSpan](https://www.onespan.com)** | **[stagiaire d’été – Plateforme Salesforce - Salesforce Platform Summer Intern](https://jobright.ai/jobs/info/69fcf5355cff890b03f34e8a?utm_campaign=1058&utm_source=git)** | Montréal, Quebec, Canada | Hybrid | May 07 |
-| **[District Offices](https://districtoffices.net/capitol-hill/)** | **[Summer Intern](https://jobright.ai/jobs/info/69fceea76b788e7e7a5c3c6f?utm_campaign=1058&utm_source=git)** | Washington, DC | On Site | May 07 |
-| **[East Texas A&M University](https://www.etamu.edu)** | **[Intern- Information Technology (OIT-SIS)](https://jobright.ai/jobs/info/69fceaaf5cff890b03f34b12?utm_campaign=1058&utm_source=git)** | Laredo, TX, US | On Site | May 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
