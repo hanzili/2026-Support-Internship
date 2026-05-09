@@ -150,11 +150,11 @@ For a complete list, click the following sortable link below:
 | **[CONVERGIX Automation Solutions](https://convergixautomation.com)** | **[IT Systems & Support Intern](https://jobright.ai/jobs/info/69c45c04d5a1016e98db925e?utm_campaign=1058&utm_source=git)** | Bridgman, MI | On Site | May 08 |
 | **[McLaren Health Care](http://www.mclaren.org)** | **[Intern- Patient Access](https://jobright.ai/jobs/info/69fb3d6b86d5cd46527d428b?utm_campaign=1058&utm_source=git)** | Petoskey, MI | On Site | May 08 |
 | **[Dayton T. Brown, Inc.](http://www.dtb.com)** | **[IT Internship -Part-Time](https://jobright.ai/jobs/info/69fd83d252e2b44f558aba19?utm_campaign=1058&utm_source=git)** | Bohemia,NY,US | On Site | May 07 |
+| **[Boise Cascade Company](http://www.bc.com/index.html)** | **[Intern - Junior](https://jobright.ai/jobs/info/69ff4a7a74b5407dd4674b47?utm_campaign=1058&utm_source=git)** | Phoenix, AZ, US | On Site | May 07 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69fd6a517f9567150fa35f92?utm_campaign=1058&utm_source=git)** | 6300 HIXSON PIKE,CHATTANOOGA,TN,37343 | On Site | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Intern - IT Operations](https://jobright.ai/jobs/info/69fd6964f363bc4dc33984f1?utm_campaign=1058&utm_source=git)** | United States | Remote | May 07 |
 | ↳ | **[Yankee Stadium Intern](https://jobright.ai/jobs/info/69fd695b6bcf315dc8f5189d?utm_campaign=1058&utm_source=git)** | NY, US | On Site | May 07 |
 | **[Tri Counties Bank](http://tcbk.com)** | **[College Intern - IT Operations & Infrastructure](https://jobright.ai/jobs/info/69fb29dfd21cf86d1e3d0736?utm_campaign=1058&utm_source=git)** | Chico, CA | On Site | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Intern Shipping and Receiving](https://jobright.ai/jobs/info/69fd65ed52e2b44f558ab370?utm_campaign=1058&utm_source=git)** | Bedford, NH, US | On Site | May 07 |
 | ↳ | **[IT/Helpdesk Internship](https://jobright.ai/jobs/info/69fd65e47f9567150fa35d1b?utm_campaign=1058&utm_source=git)** | NY, US | On Site | May 07 |
-| ↳ | **[IT Summer Support Intern](https://jobright.ai/jobs/info/69fd655b6bcf315dc8f516f2?utm_campaign=1058&utm_source=git)** | Washington, DC, US | On Site | May 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
