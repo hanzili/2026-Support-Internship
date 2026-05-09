@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Germain Hôtels](https://www.germainhotels.com/)** | **[Intern, Guest Service - Fall 2026](https://jobright.ai/jobs/info/69fef684238f143e83523642?utm_campaign=1058&utm_source=git)** | Montréal, Quebec, Canada | On Site | May 09 |
+| ↳ | **[Intern, Guest Services Supervisor - Fall 2026](https://jobright.ai/jobs/info/69fef678c4b08448a0b16528?utm_campaign=1058&utm_source=git)** | Montréal, Quebec, Canada | On Site | May 09 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69fef458fa1aa73213d8a0ae?utm_campaign=1058&utm_source=git)** | 2105 E WELLESLEY AVE,SPOKANE,WA,99207 | On Site | May 09 |
 | **[Zuora](https://www.zuora.com)** | **[Intern, Customer](https://jobright.ai/jobs/info/69fed425d0dc596b8d11a368?utm_campaign=1058&utm_source=git)** | Remote - United States | Remote | May 08 |
 | **[iPower Technologies](http://www.goipower.com/)** | **[Helpdesk Intern](https://jobright.ai/jobs/info/69febc6f1161630dd3b03fb9?utm_campaign=1058&utm_source=git)** | West Caldwell, NJ 07006 | On Site | May 08 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Client Experience Intern](https://jobright.ai/jobs/info/69fd49436b5b765031e82085?utm_campaign=1058&utm_source=git)** | Los Angeles, CA, US | On Site | May 07 |
 | **[American Business Bank](https://americanbb.bank)** | **[Client Experience Intern](https://jobright.ai/jobs/info/69fd3750938a651755f998cd?utm_campaign=1058&utm_source=git)** | Client Experience, Los Angeles, CA, US | On Site | May 07 |
 | **[DaZZee I.T.](https://dazzee.com)** | **[Technical Intern - Must Be Local To Branson or Kansas City](https://jobright.ai/jobs/info/69fd349db113035a9f8eeefb?utm_campaign=1058&utm_source=git)** | KC Metro Area | On Site | May 07 |
-| **[DHL Supply Chain](https://www.dhl.com/gb-en/home/supply-chain.html)** | **[Internship - Air Freight Specialist](https://jobright.ai/jobs/info/69fd333f938a651755f99865?utm_campaign=1058&utm_source=git)** | Atlanta, Georgia, United States of America | On Site | May 07 |
-| **[RemoteHunter](https://remotehunter.com/)** | **[Summer 2026 IT Intern](https://jobright.ai/jobs/info/69fd2fdf666f063d3d6d39f0?utm_campaign=1058&utm_source=git)** | US | On Site | May 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
