@@ -60,6 +60,7 @@ For a complete list, click the following sortable link below:
 | **[Germain Hôtels](https://www.germainhotels.com/)** | **[Intern, Guest Service - Fall 2026](https://jobright.ai/jobs/info/69fef684238f143e83523642?utm_campaign=1058&utm_source=git)** | Montréal, Quebec, Canada | On Site | May 09 |
 | ↳ | **[Intern, Guest Services Supervisor - Fall 2026](https://jobright.ai/jobs/info/69fef678c4b08448a0b16528?utm_campaign=1058&utm_source=git)** | Montréal, Quebec, Canada | On Site | May 09 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69fef458fa1aa73213d8a0ae?utm_campaign=1058&utm_source=git)** | 2105 E WELLESLEY AVE,SPOKANE,WA,99207 | On Site | May 09 |
+| **[NewYork-Presbyterian Hospital](http://www.nypventures.org/)** | **[Per Diem Intern](https://jobright.ai/jobs/info/69f3d1ec6942c746fa695000?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | May 09 |
 | **[Zuora](https://www.zuora.com)** | **[Intern, Customer](https://jobright.ai/jobs/info/69fed425d0dc596b8d11a368?utm_campaign=1058&utm_source=git)** | Remote - United States | Remote | May 08 |
 | **[iPower Technologies](http://www.goipower.com/)** | **[Helpdesk Intern](https://jobright.ai/jobs/info/69febc6f1161630dd3b03fb9?utm_campaign=1058&utm_source=git)** | West Caldwell, NJ 07006 | On Site | May 08 |
 | **[Great Smoky Mountains Railroad](https://gsmr.com)** | **[GSMR Special Events Intern](https://jobright.ai/jobs/info/69febc631161630dd3b03f50?utm_campaign=1058&utm_source=git)** | BRYSON CITY, NC 28713 | On Site | May 08 |
@@ -75,8 +76,8 @@ For a complete list, click the following sortable link below:
 | **[NYC Department of Health and Mental Hygiene](https://www.nyc.gov/site/doh/index.page)** | **[College Intern](https://jobright.ai/jobs/info/69fe96f86bcf315dc8f58454?utm_campaign=1058&utm_source=git)** | NYC-ALL BOROS | On Site | May 08 |
 | **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/69fe816c4b9bbf21744b1e98?utm_campaign=1058&utm_source=git)** | 2453 S AZUSA AVE,WEST COVINA,CA,91792-01536-09560-S | On Site | May 08 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69fe816c4b9bbf21744b1e99?utm_campaign=1058&utm_source=git)** | 934 N HACIENDA BLVD,LA PUENTE,CA,91744 | On Site | May 08 |
-| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69fe81616bcf315dc8f580a6?utm_campaign=1058&utm_source=git)** | 934 N HACIENDA BLVD,LA PUENTE,CA,91744 | On Site | May 08 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69fe81616bcf315dc8f580a5?utm_campaign=1058&utm_source=git)** | 1086 W ARROW HWY,SAN DIMAS,CA,91773-02492-05797-S | On Site | May 08 |
+| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69fe81616bcf315dc8f580a6?utm_campaign=1058&utm_source=git)** | 934 N HACIENDA BLVD,LA PUENTE,CA,91744 | On Site | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Customer Experience Ops Intern](https://jobright.ai/jobs/info/69fe7eaf52e2b44f558b20ba?utm_campaign=1058&utm_source=git)** | San Francisco, CA, US | Hybrid | May 08 |
 | ↳ | **[Hourly Pooled - COMPASS Office Student Intern](https://jobright.ai/jobs/info/69fe7e816bcf315dc8f57f26?utm_campaign=1058&utm_source=git)** | Laramie, WY, US | On Site | May 08 |
 | **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Fall 2026 - College Intern - Hilton Head Island, SC (Front Office)](https://jobright.ai/jobs/info/69fb704586d5cd46527d5c3d?utm_campaign=1058&utm_source=git)** | Hilton Head Island, SC | On Site | May 08 |
@@ -101,6 +102,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Support Internship 2026](https://jobright.ai/jobs/info/69fe4689f363bc4dc339d682?utm_campaign=1058&utm_source=git)** | Kennewick, WA, US | Hybrid | May 08 |
 | **[Cross Insurance](https://www.crossagency.com/)** | **[Personal Lines Intern](https://jobright.ai/jobs/info/69fe3f1952e2b44f558afdf0?utm_campaign=1058&utm_source=git)** | US - MA - Beverly, US | On Site | May 08 |
 | **[Shady Grove Fertility](http://ShadyGroveFertility.com)** | **[Intern - Medical Records](https://jobright.ai/jobs/info/69fe39646bcf315dc8f556b0?utm_campaign=1058&utm_source=git)** | ROCKVILLE, Maryland, United States | On Site | May 08 |
+| **[UPMC](https://www.upmc.com/)** | **[Audiologist Intern-Hanover](https://jobright.ai/jobs/info/69ccac72cdb525785fb8135e?utm_campaign=1058&utm_source=git)** | Hanover, PA | On Site | May 08 |
 | **[IDEX Corporation](http://www.idexcorp.com)** | **[Technical Writing Internship](https://jobright.ai/jobs/info/69feb2981161630dd3b01a79?utm_campaign=1058&utm_source=git)** | Longwood, Florida, US | Hybrid | May 08 |
 | **[US Fertility](https://www.usfertility.com/)** | **[Intern - Medical Records](https://jobright.ai/jobs/info/69feb5a21161630dd3b023c1?utm_campaign=1058&utm_source=git)** | ROCKVILLE, Maryland, United States | On Site | May 08 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69fe2e8f7714cd50b90feb65?utm_campaign=1058&utm_source=git)** | 2105 E WELLESLEY AVE,SPOKANE,WA,99207 | On Site | May 08 |
@@ -130,7 +132,8 @@ For a complete list, click the following sortable link below:
 | **[BKF Engineers](http://www.bkf.com)** | **[2026 IT Intern](https://jobright.ai/jobs/info/69fad40638179b6f1ae72542?utm_campaign=1058&utm_source=git)** | Pleasanton, CA | Hybrid | May 08 |
 | **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Fall Intern 2026 – Client Experience (CX) Department](https://jobright.ai/jobs/info/69c56905e565c26a7000f44b?utm_campaign=1058&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | May 08 |
 | **[Hannaford Supermarkets](https://www.hannaford.com/)** | **[P4 Rx Intern ($26/ hr)](https://jobright.ai/jobs/info/69c6782b83ea553769fdb410?utm_campaign=1058&utm_source=git)** | Ellsworth, ME | On Site | May 08 |
-| ↳ | **[P4 Rx Intern ($26/ hr)](https://jobright.ai/jobs/info/69c67865aa3c2c1995e100a9?utm_campaign=1058&utm_source=git)** | Williston, VT | On Site | May 08 |
+| **[McLaren Health Care](http://www.mclaren.org)** | **[Intern- Cardiac Cath Lab](https://jobright.ai/jobs/info/69fb3d7818b94b2515be0c4c?utm_campaign=1058&utm_source=git)** | Petoskey, MI | On Site | May 08 |
+| **[Hannaford Supermarkets](https://www.hannaford.com/)** | **[P4 Rx Intern ($26/ hr)](https://jobright.ai/jobs/info/69c67865aa3c2c1995e100a9?utm_campaign=1058&utm_source=git)** | Williston, VT | On Site | May 08 |
 | **[Xometry](https://www.xometry.com)** | **[Customer Support Intern](https://jobright.ai/jobs/info/6952df915bb7de448ef5f0b8?utm_campaign=1058&utm_source=git)** | Lexington, KY | On Site | May 08 |
 | **[KPH HEALTHCARE SERVICES, INC](https://www.kphhealthcareservices.com/en/)** | **[Pharmacy Intern P4](https://jobright.ai/jobs/info/6959e379aa05c26e7ab383eb?utm_campaign=1058&utm_source=git)** | Ithaca, NY | On Site | May 08 |
 | **[Kinney Drugs](http://www.kinneydrugs.com)** | **[Pharmacy Intern P3](https://jobright.ai/jobs/info/691e2866a49a885af9a259ed?utm_campaign=1058&utm_source=git)** | Seneca Falls, NY | On Site | May 08 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Acuity Insurance](http://www.acuity.com)** | **[Insurance Customer Service Intern](https://jobright.ai/jobs/info/69c33922097a024c43d93967?utm_campaign=1058&utm_source=git)** | Sheboygan, WI | Remote | May 07 |
 | **[St. Joseph's Health](https://www.sjhsyr.org)** | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/69a5fc9f359fe034b1d0c1f2?utm_campaign=1058&utm_source=git)** | Syracuse, NY | On Site | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Student Intern](https://jobright.ai/jobs/info/69fd49567824dc6135bee9ae?utm_campaign=1058&utm_source=git)** | NY, US | On Site | May 07 |
-| ↳ | **[Client Experience Intern](https://jobright.ai/jobs/info/69fd49436b5b765031e82085?utm_campaign=1058&utm_source=git)** | Los Angeles, CA, US | On Site | May 07 |
-| **[American Business Bank](https://americanbb.bank)** | **[Client Experience Intern](https://jobright.ai/jobs/info/69fd3750938a651755f998cd?utm_campaign=1058&utm_source=git)** | Client Experience, Los Angeles, CA, US | On Site | May 07 |
-| **[DaZZee I.T.](https://dazzee.com)** | **[Technical Intern - Must Be Local To Branson or Kansas City](https://jobright.ai/jobs/info/69fd349db113035a9f8eeefb?utm_campaign=1058&utm_source=git)** | KC Metro Area | On Site | May 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
