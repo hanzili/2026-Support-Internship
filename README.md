@@ -69,13 +69,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Information Systems Intern](https://jobright.ai/jobs/info/69feb6f515859e57591cf276?utm_campaign=1058&utm_source=git)** | Brookfield, WI, US | On Site | May 08 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Graduate Intern (Non-US Education)](https://jobright.ai/jobs/info/69feaf20373fc1347f2d0572?utm_campaign=1058&utm_source=git)** | 9616 HARFORD RD,BALTIMORE,MD,21234-02104-06779-S | On Site | May 08 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69feae4cd0dc596b8d1199b9?utm_campaign=1058&utm_source=git)** | 225 STATE HIGHWAY 30 W,NEW ALBANY,MS,38652 | On Site | May 08 |
-| **[BAE Systems](http://www.baesystems.com)** | **[IT Internship- Spring/Summer 2026](https://jobright.ai/jobs/info/69feac0a52e2b44f558b2b54?utm_campaign=1058&utm_source=git)** | Falls Church Virginia | Hybrid | May 08 |
-| **[Habitat for Humanity International](https://www.habitat.org/ap)** | **[Data Management Support Intern](https://jobright.ai/jobs/info/69fe9ea552e2b44f558b2986?utm_campaign=1058&utm_source=git)** | Remotely based in the United States | Remote | May 08 |
-| **[United States Steel Corporation](http://www.ussteel.com)** | **[Customer Experience Internship](https://jobright.ai/jobs/info/69fe9e6352e2b44f558b292a?utm_campaign=1058&utm_source=git)** | Troy | Hybrid | May 08 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Intensive Service Intern](https://jobright.ai/jobs/info/69fad3a186d5cd46527d004a?utm_campaign=1058&utm_source=git)** | Baltimore, MD | Hybrid | May 08 |
 | **[NYC Department of Health and Mental Hygiene](https://www.nyc.gov/site/doh/index.page)** | **[College Intern](https://jobright.ai/jobs/info/69fe96f86bcf315dc8f58454?utm_campaign=1058&utm_source=git)** | NYC-ALL BOROS | On Site | May 08 |
-| **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/69fe816c4b9bbf21744b1e98?utm_campaign=1058&utm_source=git)** | 2453 S AZUSA AVE,WEST COVINA,CA,91792-01536-09560-S | On Site | May 08 |
-| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69fe816c4b9bbf21744b1e99?utm_campaign=1058&utm_source=git)** | 934 N HACIENDA BLVD,LA PUENTE,CA,91744 | On Site | May 08 |
+| **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/69fe816c4b9bbf21744b1e99?utm_campaign=1058&utm_source=git)** | 934 N HACIENDA BLVD,LA PUENTE,CA,91744 | On Site | May 08 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69fe81616bcf315dc8f580a5?utm_campaign=1058&utm_source=git)** | 1086 W ARROW HWY,SAN DIMAS,CA,91773-02492-05797-S | On Site | May 08 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69fe81616bcf315dc8f580a6?utm_campaign=1058&utm_source=git)** | 934 N HACIENDA BLVD,LA PUENTE,CA,91744 | On Site | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Customer Experience Ops Intern](https://jobright.ai/jobs/info/69fe7eaf52e2b44f558b20ba?utm_campaign=1058&utm_source=git)** | San Francisco, CA, US | Hybrid | May 08 |
@@ -147,7 +143,6 @@ For a complete list, click the following sortable link below:
 | **[McLaren Health Care](http://www.mclaren.org)** | **[Intern- Patient Access](https://jobright.ai/jobs/info/69fb3d6b86d5cd46527d428b?utm_campaign=1058&utm_source=git)** | Petoskey, MI | On Site | May 08 |
 | **[Dayton T. Brown, Inc.](http://www.dtb.com)** | **[IT Internship -Part-Time](https://jobright.ai/jobs/info/69fd83d252e2b44f558aba19?utm_campaign=1058&utm_source=git)** | Bohemia,NY,US | On Site | May 07 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69fd6a517f9567150fa35f92?utm_campaign=1058&utm_source=git)** | 6300 HIXSON PIKE,CHATTANOOGA,TN,37343 | On Site | May 07 |
-| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69fd69e2f363bc4dc3398554?utm_campaign=1058&utm_source=git)** | 33670 US HIGHWAY 19 N,PALM HARBOR,FL,34684-02640-04124-S | On Site | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Intern - IT Operations](https://jobright.ai/jobs/info/69fd6964f363bc4dc33984f1?utm_campaign=1058&utm_source=git)** | United States | Remote | May 07 |
 | ↳ | **[Yankee Stadium Intern](https://jobright.ai/jobs/info/69fd695b6bcf315dc8f5189d?utm_campaign=1058&utm_source=git)** | NY, US | On Site | May 07 |
 | **[Tri Counties Bank](http://tcbk.com)** | **[College Intern - IT Operations & Infrastructure](https://jobright.ai/jobs/info/69fb29dfd21cf86d1e3d0736?utm_campaign=1058&utm_source=git)** | Chico, CA | On Site | May 07 |
@@ -157,4 +152,9 @@ For a complete list, click the following sortable link below:
 | **[Acuity Insurance](http://www.acuity.com)** | **[Insurance Customer Service Intern](https://jobright.ai/jobs/info/69c33922097a024c43d93967?utm_campaign=1058&utm_source=git)** | Sheboygan, WI | Remote | May 07 |
 | **[St. Joseph's Health](https://www.sjhsyr.org)** | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/69a5fc9f359fe034b1d0c1f2?utm_campaign=1058&utm_source=git)** | Syracuse, NY | On Site | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Student Intern](https://jobright.ai/jobs/info/69fd49567824dc6135bee9ae?utm_campaign=1058&utm_source=git)** | NY, US | On Site | May 07 |
+| ↳ | **[Client Experience Intern](https://jobright.ai/jobs/info/69fd49436b5b765031e82085?utm_campaign=1058&utm_source=git)** | Los Angeles, CA, US | On Site | May 07 |
+| **[American Business Bank](https://americanbb.bank)** | **[Client Experience Intern](https://jobright.ai/jobs/info/69fd3750938a651755f998cd?utm_campaign=1058&utm_source=git)** | Client Experience, Los Angeles, CA, US | On Site | May 07 |
+| **[DaZZee I.T.](https://dazzee.com)** | **[Technical Intern - Must Be Local To Branson or Kansas City](https://jobright.ai/jobs/info/69fd349db113035a9f8eeefb?utm_campaign=1058&utm_source=git)** | KC Metro Area | On Site | May 07 |
+| **[DHL Supply Chain](https://www.dhl.com/gb-en/home/supply-chain.html)** | **[Internship - Air Freight Specialist](https://jobright.ai/jobs/info/69fd333f938a651755f99865?utm_campaign=1058&utm_source=git)** | Atlanta, Georgia, United States of America | On Site | May 07 |
+| **[RemoteHunter](https://remotehunter.com/)** | **[Summer 2026 IT Intern](https://jobright.ai/jobs/info/69fd2fdf666f063d3d6d39f0?utm_campaign=1058&utm_source=git)** | US | On Site | May 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
