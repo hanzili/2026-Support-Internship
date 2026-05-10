@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Office Depot](http://officedepot.com)** | **[Summer 2026 Intern: Customer Service Operations Strategy](https://jobright.ai/jobs/info/6a000fd7238f143e83527a7d?utm_campaign=1058&utm_source=git)** | Fresno, CA, United States | On Site | May 09 |
+| **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a000f30fa1aa73213d8e1e7?utm_campaign=1058&utm_source=git)** | 500 SETTLERS LANDING RD,HAMPTON,VA,23669-04031-11572-S | On Site | May 09 |
 | **[R.M. Chin & Associates, Inc.](http://rmchin.com)** | **[IT Help Desk Intern](https://jobright.ai/jobs/info/69fff35574b5407dd4676c08?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | May 09 |
 | **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/69fff27ac2ffb31f45360bcd?utm_campaign=1058&utm_source=git)** | 3000 N ALAFAYA TRL,ORLANDO,FL,32826-03206-07090-S | On Site | May 09 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69fff279c2ffb31f45360bcc?utm_campaign=1058&utm_source=git)** | 2050 E OSCEOLA PKWY,KISSIMMEE,FL,34743 | On Site | May 09 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Mount Carmel Health System](https://www.mountcarmelhealth.com/)** | **[Pharmacy Intern - Contingent](https://jobright.ai/jobs/info/69c4276533eecf31079445ab?utm_campaign=1058&utm_source=git)** | Westerville, OH | On Site | May 08 |
 | **[JustPark](https://www.justpark.com)** | **[FIFA Client Success Intern](https://jobright.ai/jobs/info/69fe28d37714cd50b90fe71c?utm_campaign=1058&utm_source=git)** | New York, NY | Hybrid | May 08 |
 | ↳ | **[FIFA Client Success Intern](https://jobright.ai/jobs/info/69fe0226f363bc4dc339b067?utm_campaign=1058&utm_source=git)** | New York, New York, United States | Hybrid | May 08 |
-| **[ALKEGEN](https://alkegen.com/)** | **[IT Internship](https://jobright.ai/jobs/info/69feb2191161630dd3b0180e?utm_campaign=1058&utm_source=git)** | Buffalo, NY, US | On Site | May 08 |
-| **['Alohilani Resort Waikiki Beach](http://www.pacificbeachhotel.com/)** | **[F&B Summer Intern](https://jobright.ai/jobs/info/69fdff31f363bc4dc339afd9?utm_campaign=1058&utm_source=git)** | Key West, FL, US | On Site | May 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
