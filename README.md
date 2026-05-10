@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Parsons Corporation](http://www.parsons.com)** | **[IT Intern - Summer 2026](https://jobright.ai/jobs/info/6a00da19c2ffb31f45363c44?utm_campaign=1058&utm_source=git)** | US - NJ, Newark, US | On Site | May 10 |
 | **[Auctane](https://auctane.com/)** | **[Salesforce Administrator Intern](https://jobright.ai/jobs/info/69ff4fd1238f143e835252d8?utm_campaign=1058&utm_source=git)** | Austin, TX | Hybrid | May 10 |
 | **[Giesecke+Devrient](https://www.gi-de.com/en/)** | **[IT Support Intern](https://jobright.ai/jobs/info/69c6a92fb773006330b71d85?utm_campaign=1058&utm_source=git)** | Bolingbrook, IL | On Site | May 10 |
 | ↳ | **[IT Support Intern](https://jobright.ai/jobs/info/69c6b51d1b5ad028873862dd?utm_campaign=1058&utm_source=git)** | Dulles, VA | On Site | May 10 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[RemoteHunter](https://remotehunter.com/)** | **[IT Internship](https://jobright.ai/jobs/info/69fe2b60ad691a11f34ec0a5?utm_campaign=1058&utm_source=git)** | Tonawanda, NY, US | On Site | May 08 |
 | ↳ | **[Helpdesk Intern](https://jobright.ai/jobs/info/69fe2b446bcf315dc8f5517b?utm_campaign=1058&utm_source=git)** | NJ, US | On Site | May 08 |
 | ↳ | **[FIFA Client Success Intern](https://jobright.ai/jobs/info/69fe2a356bcf315dc8f55080?utm_campaign=1058&utm_source=git)** | NY, US | Hybrid | May 08 |
-| ↳ | **[Universal Banker Internship](https://jobright.ai/jobs/info/69fe2a24f363bc4dc339bee0?utm_campaign=1058&utm_source=git)** | Hinesville, GA, US | On Site | May 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
