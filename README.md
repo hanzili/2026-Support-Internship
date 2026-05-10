@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a00620ba0eddc08c239bf64?utm_campaign=1058&utm_source=git)** | 750 MAIN ST,PATERSON,NJ,07503 | On Site | May 10 |
+| **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a006407fa1aa73213d8f25e?utm_campaign=1058&utm_source=git)** | 2824 SCOTTSVILLE RD,BOWLING GREEN,KY,42104-06343-13815-S | On Site | May 10 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a00620ba0eddc08c239bf64?utm_campaign=1058&utm_source=git)** | 750 MAIN ST,PATERSON,NJ,07503 | On Site | May 10 |
 | **[ALO](https://www.aloyoga.com/)** | **[Digital Intern - Customer Service](https://jobright.ai/jobs/info/697d77e6727747250d5860a5?utm_campaign=1058&utm_source=git)** | Beverly Hills, California, United States | On Site | May 10 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Customer Solutions Intern (ERP Software)](https://jobright.ai/jobs/info/6a00605674b5407dd46785d5?utm_campaign=1058&utm_source=git)** | Lansing, MI, US | On Site | May 10 |
 | **[Office Depot](http://officedepot.com)** | **[Summer 2026 Intern: Customer Service Operations Strategy](https://jobright.ai/jobs/info/6a000fd7238f143e83527a7d?utm_campaign=1058&utm_source=git)** | Fresno, CA, United States | On Site | May 09 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Information Technology Intern](https://jobright.ai/jobs/info/69fe1b9752e2b44f558ae7bc?utm_campaign=1058&utm_source=git)** | Greenwood Village, CO, US | On Site | May 08 |
 | **[Nemours Children's Health](http://www.nemours.org)** | **[Pharmacy Student Intern (Second-Year Rising)](https://jobright.ai/jobs/info/69c42f6633eecf31079456e0?utm_campaign=1058&utm_source=git)** | Orlando, FL | On Site | May 08 |
 | **[Founders 3 Real Estate Services](https://founders3.com/)** | **[Information Systems Intern](https://jobright.ai/jobs/info/69fe15a34b9bbf21744ae55f?utm_campaign=1058&utm_source=git)** | Brookfield,WI,US | On Site | May 08 |
-| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69fe115052e2b44f558ae43e?utm_campaign=1058&utm_source=git)** | 355 N MAIN ST,BARRE,VT,05641-04106-17518-S | On Site | May 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
