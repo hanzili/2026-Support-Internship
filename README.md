@@ -60,6 +60,7 @@ For a complete list, click the following sortable link below:
 | **[RemoteHunter](https://remotehunter.com/)** | **[Technology Support Intern](https://jobright.ai/jobs/info/69ffb3dac2ffb31f45360308?utm_campaign=1058&utm_source=git)** | Los Angeles, CA, US | On Site | May 09 |
 | **[Houchens Insurance Group](https://www.higusa.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/69c47c0933eecf310794d30a?utm_campaign=1058&utm_source=git)** | Bowling Green, KY | On Site | May 09 |
 | **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Technology Support Intern](https://jobright.ai/jobs/info/69ffa6b8c4b08448a0b19217?utm_campaign=1058&utm_source=git)** | Los Angeles, CA, USA | Remote | May 09 |
+| **[St. Jude Children's Research Hospital - ALSAC](https://www.stjude.org)** | **[Intern-University of Memphis Call Center (Spring/Summer 2026)](https://jobright.ai/jobs/info/69d5f2de706f771673ba80aa?utm_campaign=1058&utm_source=git)** | Memphis, TN | On Site | May 09 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad - Sign-On Bonus Available](https://jobright.ai/jobs/info/69ff65cd238f143e835256fb?utm_campaign=1058&utm_source=git)** | 51 DIXIE DR,CLUTE,TX,77531-05147-04100-S | On Site | May 09 |
 | **[New College of Florida](https://www.ncf.edu/)** | **[Student Assistant, Intern, IT](https://jobright.ai/jobs/info/69e7e494f8fa2f3ec32aa38e?utm_campaign=1058&utm_source=git)** | Sarasota, FL | On Site | May 09 |
 | **[Prosperity Life](https://prosperitylife.com)** | **[Enterprise Applications Intern](https://jobright.ai/jobs/info/69c6de211b5ad02887387abb?utm_campaign=1058&utm_source=git)** | Austin, TX | Hybrid | May 09 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kinney Drugs](http://www.kinneydrugs.com)** | **[Pharmacy Intern P3](https://jobright.ai/jobs/info/691e2866a49a885af9a259ed?utm_campaign=1058&utm_source=git)** | Seneca Falls, NY | On Site | May 08 |
 | **[Indie Campers](https://indiecampers.com/)** | **[Tourism & Operations Internship](https://jobright.ai/jobs/info/69fdbedf4b9bbf21744ac307?utm_campaign=1058&utm_source=git)** | Palma Depot | On Site | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[School IT Support Summer Intern](https://jobright.ai/jobs/info/69fdbe144b9bbf21744ac25e?utm_campaign=1058&utm_source=git)** | Chicago, IL, US | On Site | May 08 |
-| **[Cloud Counselage Pvt. Ltd.](https://www.cloudcounselage.com)** | **[IT Operations Intern](https://jobright.ai/jobs/info/69fda608f363bc4dc3399270?utm_campaign=1058&utm_source=git)** | United States | Remote | May 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
