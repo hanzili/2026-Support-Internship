@@ -91,6 +91,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Guest Services Supervisor - Fall 2026](https://jobright.ai/jobs/info/69fef678c4b08448a0b16528?utm_campaign=1058&utm_source=git)** | Montréal, Quebec, Canada | On Site | May 09 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69fef458fa1aa73213d8a0ae?utm_campaign=1058&utm_source=git)** | 2105 E WELLESLEY AVE,SPOKANE,WA,99207 | On Site | May 09 |
 | **[NewYork-Presbyterian Hospital](http://www.nypventures.org/)** | **[Per Diem Intern](https://jobright.ai/jobs/info/69f3d1ec6942c746fa695000?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | May 09 |
+| **[Meijer](https://www.meijer.com/)** | **[Intern, Pharmacy Undergrad 1 year](https://jobright.ai/jobs/info/69f3eb406942c746fa695fd6?utm_campaign=1058&utm_source=git)** | Muncie, IN | On Site | May 08 |
 | **[Zuora](https://www.zuora.com)** | **[Intern, Customer](https://jobright.ai/jobs/info/69fed425d0dc596b8d11a368?utm_campaign=1058&utm_source=git)** | Remote - United States | Remote | May 08 |
 | **[iPower Technologies](http://www.goipower.com/)** | **[Helpdesk Intern](https://jobright.ai/jobs/info/69febc6f1161630dd3b03fb9?utm_campaign=1058&utm_source=git)** | West Caldwell, NJ 07006 | On Site | May 08 |
 | **[Great Smoky Mountains Railroad](https://gsmr.com)** | **[GSMR Special Events Intern](https://jobright.ai/jobs/info/69febc631161630dd3b03f50?utm_campaign=1058&utm_source=git)** | BRYSON CITY, NC 28713 | On Site | May 08 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[American Battery Solutions Inc.](https://www.americanbatterysolutions.com/)** | **[IT Co-op](https://jobright.ai/jobs/info/69bd9ede4828227293ffd849?utm_campaign=1058&utm_source=git)** | Springboro, OH | On Site | May 08 |
 | **[Mount Carmel Health System](https://www.mountcarmelhealth.com/)** | **[Pharmacy Intern - Contingent](https://jobright.ai/jobs/info/69c4276533eecf31079445ab?utm_campaign=1058&utm_source=git)** | Westerville, OH | On Site | May 08 |
 | **[JustPark](https://www.justpark.com)** | **[FIFA Client Success Intern](https://jobright.ai/jobs/info/69fe28d37714cd50b90fe71c?utm_campaign=1058&utm_source=git)** | New York, NY | Hybrid | May 08 |
-| ↳ | **[FIFA Client Success Intern](https://jobright.ai/jobs/info/69fe0226f363bc4dc339b067?utm_campaign=1058&utm_source=git)** | New York, New York, United States | Hybrid | May 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
