@@ -57,11 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Auctane](https://auctane.com/)** | **[Salesforce Administrator Intern](https://jobright.ai/jobs/info/69ff4fd1238f143e835252d8?utm_campaign=1058&utm_source=git)** | Austin, TX | Hybrid | May 10 |
 | **[Giesecke+Devrient](https://www.gi-de.com/en/)** | **[IT Support Intern](https://jobright.ai/jobs/info/69c6a92fb773006330b71d85?utm_campaign=1058&utm_source=git)** | Bolingbrook, IL | On Site | May 10 |
 | **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a006407fa1aa73213d8f25e?utm_campaign=1058&utm_source=git)** | 2824 SCOTTSVILLE RD,BOWLING GREEN,KY,42104-06343-13815-S | On Site | May 10 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a00620ba0eddc08c239bf64?utm_campaign=1058&utm_source=git)** | 750 MAIN ST,PATERSON,NJ,07503 | On Site | May 10 |
 | **[ALO](https://www.aloyoga.com/)** | **[Digital Intern - Customer Service](https://jobright.ai/jobs/info/697d77e6727747250d5860a5?utm_campaign=1058&utm_source=git)** | Beverly Hills, California, United States | On Site | May 10 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Customer Solutions Intern (ERP Software)](https://jobright.ai/jobs/info/6a00605674b5407dd46785d5?utm_campaign=1058&utm_source=git)** | Lansing, MI, US | On Site | May 10 |
+| **[Uplift Education](http://www.uplifteducation.org)** | **[IT Summer Internship](https://jobright.ai/jobs/info/69ef9e924b0fa35a7078a8df?utm_campaign=1058&utm_source=git)** | Dallas, TX | On Site | May 10 |
 | **[Office Depot](http://officedepot.com)** | **[Summer 2026 Intern: Customer Service Operations Strategy](https://jobright.ai/jobs/info/6a000fd7238f143e83527a7d?utm_campaign=1058&utm_source=git)** | Fresno, CA, United States | On Site | May 09 |
 | **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a000f30fa1aa73213d8e1e7?utm_campaign=1058&utm_source=git)** | 500 SETTLERS LANDING RD,HAMPTON,VA,23669-04031-11572-S | On Site | May 09 |
 | **[R.M. Chin & Associates, Inc.](http://rmchin.com)** | **[IT Help Desk Intern](https://jobright.ai/jobs/info/69fff35574b5407dd4676c08?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | May 09 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cadwell](https://www.cadwell.com)** | **[Sales Support Internship 2026](https://jobright.ai/jobs/info/69fe29314b9bbf21744aead3?utm_campaign=1058&utm_source=git)** | Kennewick, WA | Hybrid | May 08 |
 | **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Southwest Intern](https://jobright.ai/jobs/info/69feb25a1161630dd3b01970?utm_campaign=1058&utm_source=git)** | Baton Rouge, LA (USA), US | Hybrid | May 08 |
 | **[Gerdau North America](http://www.gerdau.com)** | **[Intern - IT Operations](https://jobright.ai/jobs/info/69c4f5bd33eecf3107957424?utm_campaign=1058&utm_source=git)** | Whitby, Ontario, Canada | On Site | May 08 |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Information Technology Intern](https://jobright.ai/jobs/info/69fe1b9752e2b44f558ae7bc?utm_campaign=1058&utm_source=git)** | Greenwood Village, CO, US | On Site | May 08 |
-| **[Nemours Children's Health](http://www.nemours.org)** | **[Pharmacy Student Intern (Second-Year Rising)](https://jobright.ai/jobs/info/69c42f6633eecf31079456e0?utm_campaign=1058&utm_source=git)** | Orlando, FL | On Site | May 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
