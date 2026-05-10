@@ -68,6 +68,7 @@ For a complete list, click the following sortable link below:
 | **[ALO](https://www.aloyoga.com/)** | **[Digital Intern - Customer Service](https://jobright.ai/jobs/info/697d77e6727747250d5860a5?utm_campaign=1058&utm_source=git)** | Beverly Hills, California, United States | On Site | May 10 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Customer Solutions Intern (ERP Software)](https://jobright.ai/jobs/info/6a00605674b5407dd46785d5?utm_campaign=1058&utm_source=git)** | Lansing, MI, US | On Site | May 10 |
 | **[Uplift Education](http://www.uplifteducation.org)** | **[IT Summer Internship](https://jobright.ai/jobs/info/69ef9e924b0fa35a7078a8df?utm_campaign=1058&utm_source=git)** | Dallas, TX | On Site | May 10 |
+| **[Mount Sinai Health System](https://www.mountsinai.org)** | **[Student Nurse Intern (TEMP) - Mount Sinai Brooklyn - Full-time - Day](https://jobright.ai/jobs/info/69f3d8f3461b9b613a624627?utm_campaign=1058&utm_source=git)** | Brooklyn, NY | On Site | May 09 |
 | **[Office Depot](http://officedepot.com)** | **[Summer 2026 Intern: Customer Service Operations Strategy](https://jobright.ai/jobs/info/6a000fd7238f143e83527a7d?utm_campaign=1058&utm_source=git)** | Fresno, CA, United States | On Site | May 09 |
 | **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a000f30fa1aa73213d8e1e7?utm_campaign=1058&utm_source=git)** | 500 SETTLERS LANDING RD,HAMPTON,VA,23669-04031-11572-S | On Site | May 09 |
 | **[R.M. Chin & Associates, Inc.](http://rmchin.com)** | **[IT Help Desk Intern](https://jobright.ai/jobs/info/69fff35574b5407dd4676c08?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | May 09 |
@@ -135,6 +136,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - IT/Support](https://jobright.ai/jobs/info/69fe62b6f363bc4dc339e54c?utm_campaign=1058&utm_source=git)** | MO, US | On Site | May 08 |
 | **[AMD](http://www.amd.com)** | **[Technical Writer Intern / Co-op](https://jobright.ai/jobs/info/69fe53724b9bbf21744b0af2?utm_campaign=1058&utm_source=git)** | MARKHAM, ON, CA | Hybrid | May 08 |
 | **[Fair Rite Products Corp.](https://www.fair-rite.com/)** | **[IT Support Intern](https://jobright.ai/jobs/info/69fe53714b9bbf21744b0aed?utm_campaign=1058&utm_source=git)** | US-NY-Wallkill | On Site | May 08 |
+| **[KPH HEALTHCARE SERVICES, INC](https://www.kphhealthcareservices.com/en/)** | **[Pharmacy Intern P2](https://jobright.ai/jobs/info/69327a2ff131d96e4845c89a?utm_campaign=1058&utm_source=git)** | Seneca Falls, NY | On Site | May 08 |
 | **[Circuit of The Americas](http://circuitoftheamericas.com/)** | **[COTA Fall Internship 2026 Ticketing (Full-Time)](https://jobright.ai/jobs/info/69fe4eac7714cd50b910047c?utm_campaign=1058&utm_source=git)** | Del Valle,TX,US | On Site | May 08 |
 | **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/69fe4a327714cd50b9100256?utm_campaign=1058&utm_source=git)** | 1630 TREMONT ST,ROXBURY CROSSING,MA,02120 | On Site | May 08 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69fe4a317714cd50b9100255?utm_campaign=1058&utm_source=git)** | 24 SCHOOL ST,BOSTON,MA,02108-05113-15390-S | On Site | May 08 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[US Fertility](https://www.usfertility.com/)** | **[Intern - Medical Records](https://jobright.ai/jobs/info/69feb5a21161630dd3b023c1?utm_campaign=1058&utm_source=git)** | ROCKVILLE, Maryland, United States | On Site | May 08 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69fe2e8f7714cd50b90feb65?utm_campaign=1058&utm_source=git)** | 2105 E WELLESLEY AVE,SPOKANE,WA,99207 | On Site | May 08 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69fe2e2b52e2b44f558aef77?utm_campaign=1058&utm_source=git)** | 30283 TRIANGLE DR,CHARLOTTE HALL,MD,20622-03125-17672-S | On Site | May 08 |
-| **[Cabrini Green Legal Aid](https://www.cgla.net/)** | **[IT Intern](https://jobright.ai/jobs/info/69fe2c0b4b9bbf21744aed6f?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | May 08 |
-| **[The CAR Group (Norm Reeves Dealerships)](https://www.normreeves.com)** | **[IT Intern](https://jobright.ai/jobs/info/69fe2b81f363bc4dc339c0a4?utm_campaign=1058&utm_source=git)** | Cerritos, CA 90703, USA | On Site | May 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
