@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a00620ba0eddc08c239bf64?utm_campaign=1058&utm_source=git)** | 750 MAIN ST,PATERSON,NJ,07503 | On Site | May 10 |
+| **[ALO](https://www.aloyoga.com/)** | **[Digital Intern - Customer Service](https://jobright.ai/jobs/info/697d77e6727747250d5860a5?utm_campaign=1058&utm_source=git)** | Beverly Hills, California, United States | On Site | May 10 |
+| **[RemoteHunter](https://remotehunter.com/)** | **[Customer Solutions Intern (ERP Software)](https://jobright.ai/jobs/info/6a00605674b5407dd46785d5?utm_campaign=1058&utm_source=git)** | Lansing, MI, US | On Site | May 10 |
 | **[Office Depot](http://officedepot.com)** | **[Summer 2026 Intern: Customer Service Operations Strategy](https://jobright.ai/jobs/info/6a000fd7238f143e83527a7d?utm_campaign=1058&utm_source=git)** | Fresno, CA, United States | On Site | May 09 |
 | **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a000f30fa1aa73213d8e1e7?utm_campaign=1058&utm_source=git)** | 500 SETTLERS LANDING RD,HAMPTON,VA,23669-04031-11572-S | On Site | May 09 |
 | **[R.M. Chin & Associates, Inc.](http://rmchin.com)** | **[IT Help Desk Intern](https://jobright.ai/jobs/info/69fff35574b5407dd4676c08?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | May 09 |
@@ -87,9 +90,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Service Operation Summer Intern](https://jobright.ai/jobs/info/69ff2380c4b08448a0b169ff?utm_campaign=1058&utm_source=git)** | MANHATTAN | On Site | May 09 |
 | **[KPH HEALTHCARE SERVICES, INC](https://www.kphhealthcareservices.com/en/)** | **[Pharmacy Intern P1](https://jobright.ai/jobs/info/6932b97df131d96e4845dc15?utm_campaign=1058&utm_source=git)** | Seneca Falls, NY | On Site | May 09 |
 | **[UICGS / Bowhead Family of Companies](http://www.bowhead.com)** | **[General Clerk III](https://jobright.ai/jobs/info/69e2793bfcfcbd43860a318c?utm_campaign=1058&utm_source=git)** | Chaparral, NM | On Site | May 09 |
+| **[Crown Equipment Corporation](https://303crownmaids.com/)** | **[Service Technician Intern](https://jobright.ai/jobs/info/69e14f92d612782e61147fb7?utm_campaign=1058&utm_source=git)** | Schaumburg, IL | On Site | May 09 |
+| **[Getinge](https://www.getinge.com)** | **[Intern, Global Customer Delivery](https://jobright.ai/jobs/info/69e27150fcfcbd43860a2d86?utm_campaign=1058&utm_source=git)** | Streetsboro, OH | On Site | May 09 |
 | **[Germain Hôtels](https://www.germainhotels.com/)** | **[Intern, Guest Service - Fall 2026](https://jobright.ai/jobs/info/69fef684238f143e83523642?utm_campaign=1058&utm_source=git)** | Montréal, Quebec, Canada | On Site | May 09 |
 | ↳ | **[Intern, Guest Services Supervisor - Fall 2026](https://jobright.ai/jobs/info/69fef678c4b08448a0b16528?utm_campaign=1058&utm_source=git)** | Montréal, Quebec, Canada | On Site | May 09 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69fef458fa1aa73213d8a0ae?utm_campaign=1058&utm_source=git)** | 2105 E WELLESLEY AVE,SPOKANE,WA,99207 | On Site | May 09 |
+| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Service Delivery Excellence](https://jobright.ai/jobs/info/69e158f3acc736112f5c3350?utm_campaign=1058&utm_source=git)** | Newtown Square, PA | On Site | May 09 |
 | **[NewYork-Presbyterian Hospital](http://www.nypventures.org/)** | **[Per Diem Intern](https://jobright.ai/jobs/info/69f3d1ec6942c746fa695000?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | May 09 |
 | **[Meijer](https://www.meijer.com/)** | **[Intern, Pharmacy Undergrad 1 year](https://jobright.ai/jobs/info/69f3eb406942c746fa695fd6?utm_campaign=1058&utm_source=git)** | Muncie, IN | On Site | May 08 |
 | **[Zuora](https://www.zuora.com)** | **[Intern, Customer](https://jobright.ai/jobs/info/69fed425d0dc596b8d11a368?utm_campaign=1058&utm_source=git)** | Remote - United States | Remote | May 08 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Nemours Children's Health](http://www.nemours.org)** | **[Pharmacy Student Intern (Second-Year Rising)](https://jobright.ai/jobs/info/69c42f6633eecf31079456e0?utm_campaign=1058&utm_source=git)** | Orlando, FL | On Site | May 08 |
 | **[Founders 3 Real Estate Services](https://founders3.com/)** | **[Information Systems Intern](https://jobright.ai/jobs/info/69fe15a34b9bbf21744ae55f?utm_campaign=1058&utm_source=git)** | Brookfield,WI,US | On Site | May 08 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69fe115052e2b44f558ae43e?utm_campaign=1058&utm_source=git)** | 355 N MAIN ST,BARRE,VT,05641-04106-17518-S | On Site | May 08 |
-| **[RemoteHunter](https://remotehunter.com/)** | **[Support Center Seasonal Intern](https://jobright.ai/jobs/info/69fe107f7714cd50b90fdf6f?utm_campaign=1058&utm_source=git)** | Phoenix, AZ, US | On Site | May 08 |
-| **[Brindley Engineering Corporation](https://www.brindleyengineering.com)** | **[IT Intern](https://jobright.ai/jobs/info/69fe0dd46bcf315dc8f5461d?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | May 08 |
-| **[Kroger](https://www.thekrogerco.com/)** | **[Pharmacist Grad Intern](https://jobright.ai/jobs/info/69f279d2825a315d7ca3cbe8?utm_campaign=1058&utm_source=git)** | Coos Bay, OR | On Site | May 08 |
-| **[American Battery Solutions Inc.](https://www.americanbatterysolutions.com/)** | **[IT Co-op](https://jobright.ai/jobs/info/69bd9ede4828227293ffd849?utm_campaign=1058&utm_source=git)** | Springboro, OH | On Site | May 08 |
-| **[Mount Carmel Health System](https://www.mountcarmelhealth.com/)** | **[Pharmacy Intern - Contingent](https://jobright.ai/jobs/info/69c4276533eecf31079445ab?utm_campaign=1058&utm_source=git)** | Westerville, OH | On Site | May 08 |
-| **[JustPark](https://www.justpark.com)** | **[FIFA Client Success Intern](https://jobright.ai/jobs/info/69fe28d37714cd50b90fe71c?utm_campaign=1058&utm_source=git)** | New York, NY | Hybrid | May 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
