@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a00f0cfc4b08448a0b1d2b4?utm_campaign=1058&utm_source=git)** | 1000 SAGAMORE PKWY W,WEST LAFAYETTE,IN,47906-01446-06456-S | On Site | May 10 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[IT Intern - Summer 2026](https://jobright.ai/jobs/info/6a00e985a0eddc08c239dacd?utm_campaign=1058&utm_source=git)** | Newark, NJ, US | On Site | May 10 |
 | **[Parsons Corporation](http://www.parsons.com)** | **[IT Intern - Summer 2026](https://jobright.ai/jobs/info/6a00da19c2ffb31f45363c44?utm_campaign=1058&utm_source=git)** | US - NJ, Newark, US | On Site | May 10 |
 | **[Auctane](https://auctane.com/)** | **[Salesforce Administrator Intern](https://jobright.ai/jobs/info/69ff4fd1238f143e835252d8?utm_campaign=1058&utm_source=git)** | Austin, TX | Hybrid | May 10 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69fe2e2b52e2b44f558aef77?utm_campaign=1058&utm_source=git)** | 30283 TRIANGLE DR,CHARLOTTE HALL,MD,20622-03125-17672-S | On Site | May 08 |
 | **[Cabrini Green Legal Aid](https://www.cgla.net/)** | **[IT Intern](https://jobright.ai/jobs/info/69fe2c0b4b9bbf21744aed6f?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | May 08 |
 | **[The CAR Group (Norm Reeves Dealerships)](https://www.normreeves.com)** | **[IT Intern](https://jobright.ai/jobs/info/69fe2b81f363bc4dc339c0a4?utm_campaign=1058&utm_source=git)** | Cerritos, CA 90703, USA | On Site | May 08 |
-| **[RemoteHunter](https://remotehunter.com/)** | **[IT Internship](https://jobright.ai/jobs/info/69fe2b60ad691a11f34ec0a5?utm_campaign=1058&utm_source=git)** | Tonawanda, NY, US | On Site | May 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
