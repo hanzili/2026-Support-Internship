@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RemoteHunter](https://remotehunter.com/)** | **[IT Intern - Summer 2026](https://jobright.ai/jobs/info/6a00e985a0eddc08c239dacd?utm_campaign=1058&utm_source=git)** | Newark, NJ, US | On Site | May 10 |
 | **[Parsons Corporation](http://www.parsons.com)** | **[IT Intern - Summer 2026](https://jobright.ai/jobs/info/6a00da19c2ffb31f45363c44?utm_campaign=1058&utm_source=git)** | US - NJ, Newark, US | On Site | May 10 |
 | **[Auctane](https://auctane.com/)** | **[Salesforce Administrator Intern](https://jobright.ai/jobs/info/69ff4fd1238f143e835252d8?utm_campaign=1058&utm_source=git)** | Austin, TX | Hybrid | May 10 |
 | **[Giesecke+Devrient](https://www.gi-de.com/en/)** | **[IT Support Intern](https://jobright.ai/jobs/info/69c6a92fb773006330b71d85?utm_campaign=1058&utm_source=git)** | Bolingbrook, IL | On Site | May 10 |
@@ -147,6 +148,7 @@ For a complete list, click the following sortable link below:
 | **[Cross Insurance](https://www.crossagency.com/)** | **[Personal Lines Intern](https://jobright.ai/jobs/info/69fe3f1952e2b44f558afdf0?utm_campaign=1058&utm_source=git)** | US - MA - Beverly, US | On Site | May 08 |
 | **[Shady Grove Fertility](http://ShadyGroveFertility.com)** | **[Intern - Medical Records](https://jobright.ai/jobs/info/69fe39646bcf315dc8f556b0?utm_campaign=1058&utm_source=git)** | ROCKVILLE, Maryland, United States | On Site | May 08 |
 | **[UPMC](https://www.upmc.com/)** | **[Audiologist Intern-Hanover](https://jobright.ai/jobs/info/69ccac72cdb525785fb8135e?utm_campaign=1058&utm_source=git)** | Hanover, PA | On Site | May 08 |
+| **[DSV - Global Transport and Logistics](http://www.dsv.com)** | **[Intern, Warehouse, Road Transport US](https://jobright.ai/jobs/info/69aa43922ebd316bece20750?utm_campaign=1058&utm_source=git)** | Lancaster, TX | On Site | May 08 |
 | **[IDEX Corporation](http://www.idexcorp.com)** | **[Technical Writing Internship](https://jobright.ai/jobs/info/69feb2981161630dd3b01a79?utm_campaign=1058&utm_source=git)** | Longwood, Florida, US | Hybrid | May 08 |
 | **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[Intern, Technical Support (R&D Engineer)](https://jobright.ai/jobs/info/69e15e7fff71e82d604b68e5?utm_campaign=1058&utm_source=git)** | Lincoln, NE | On Site | May 08 |
 | **[US Fertility](https://www.usfertility.com/)** | **[Intern - Medical Records](https://jobright.ai/jobs/info/69feb5a21161630dd3b023c1?utm_campaign=1058&utm_source=git)** | ROCKVILLE, Maryland, United States | On Site | May 08 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cabrini Green Legal Aid](https://www.cgla.net/)** | **[IT Intern](https://jobright.ai/jobs/info/69fe2c0b4b9bbf21744aed6f?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | May 08 |
 | **[The CAR Group (Norm Reeves Dealerships)](https://www.normreeves.com)** | **[IT Intern](https://jobright.ai/jobs/info/69fe2b81f363bc4dc339c0a4?utm_campaign=1058&utm_source=git)** | Cerritos, CA 90703, USA | On Site | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[IT Internship](https://jobright.ai/jobs/info/69fe2b60ad691a11f34ec0a5?utm_campaign=1058&utm_source=git)** | Tonawanda, NY, US | On Site | May 08 |
-| ↳ | **[Helpdesk Intern](https://jobright.ai/jobs/info/69fe2b446bcf315dc8f5517b?utm_campaign=1058&utm_source=git)** | NJ, US | On Site | May 08 |
-| ↳ | **[FIFA Client Success Intern](https://jobright.ai/jobs/info/69fe2a356bcf315dc8f55080?utm_campaign=1058&utm_source=git)** | NY, US | Hybrid | May 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
