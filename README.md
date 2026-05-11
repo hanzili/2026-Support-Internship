@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/6a019f3fc2ffb31f45366732?utm_campaign=1058&utm_source=git)** | 827 E. MILAM ST., Mexia, Texas,United States | On Site | May 11 |
 | **[BSI Financial Services](https://www.bsifinancial.com)** | **[Licensing & Digital Records Management Intern](https://jobright.ai/jobs/info/69fa1211db88714bcdfc0fec?utm_campaign=1058&utm_source=git)** | Titusville, PA 16354, USA | On Site | May 10 |
 | **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a017cdbdf52f1450d843d7d?utm_campaign=1058&utm_source=git)** | 1251 DUTCH FORK RD,IRMO,SC,29063 | On Site | May 10 |
 | **[NUECES COUNTY](http://nuecesco.com)** | **[Internship - Medical Examiner's Office - J88860 - 38900](https://jobright.ai/jobs/info/6a016976238f143e8352ca10?utm_campaign=1058&utm_source=git)** | Medical Examiner Building, US | On Site | May 10 |
@@ -111,8 +112,8 @@ For a complete list, click the following sortable link below:
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[IS Services & Support Intern (or Co-Op)](https://jobright.ai/jobs/info/69fb0ecbe156000841155c3a?utm_campaign=1058&utm_source=git)** | San Antonio, TX | On Site | May 09 |
 | **[Habitat for Humanity International](https://www.habitat.org/ap)** | **[Data Management Support Intern](https://jobright.ai/jobs/info/69ff2980a0eddc08c23979d4?utm_campaign=1058&utm_source=git)** | Remotely based in the United States | Remote | May 09 |
 | **[United States Steel Corporation](http://www.ussteel.com)** | **[Customer Experience Internship](https://jobright.ai/jobs/info/69ff2954a0eddc08c239799c?utm_campaign=1058&utm_source=git)** | Troy | Hybrid | May 09 |
-| **[NYC Department of Health and Mental Hygiene](https://www.nyc.gov/site/doh/index.page)** | **[Service Operation Summer Intern](https://jobright.ai/jobs/info/69ff2380c4b08448a0b169ff?utm_campaign=1058&utm_source=git)** | MANHATTAN | On Site | May 09 |
-| ↳ | **[Summer Intern (Records Management)](https://jobright.ai/jobs/info/69ff2380c4b08448a0b169fc?utm_campaign=1058&utm_source=git)** | MANHATTAN | On Site | May 09 |
+| **[NYC Department of Health and Mental Hygiene](https://www.nyc.gov/site/doh/index.page)** | **[Summer Intern (Records Management)](https://jobright.ai/jobs/info/69ff2380c4b08448a0b169fc?utm_campaign=1058&utm_source=git)** | MANHATTAN | On Site | May 09 |
+| ↳ | **[Service Operation Summer Intern](https://jobright.ai/jobs/info/69ff2380c4b08448a0b169ff?utm_campaign=1058&utm_source=git)** | MANHATTAN | On Site | May 09 |
 | **[KPH HEALTHCARE SERVICES, INC](https://www.kphhealthcareservices.com/en/)** | **[Pharmacy Intern P1](https://jobright.ai/jobs/info/6932b97df131d96e4845dc15?utm_campaign=1058&utm_source=git)** | Seneca Falls, NY | On Site | May 09 |
 | **[UICGS / Bowhead Family of Companies](http://www.bowhead.com)** | **[General Clerk III](https://jobright.ai/jobs/info/69e2793bfcfcbd43860a318c?utm_campaign=1058&utm_source=git)** | Chaparral, NM | On Site | May 09 |
 | **[Crown Equipment Corporation](https://303crownmaids.com/)** | **[Service Technician Intern](https://jobright.ai/jobs/info/69e14f92d612782e61147fb7?utm_campaign=1058&utm_source=git)** | Schaumburg, IL | On Site | May 09 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Circuit of The Americas](http://circuitoftheamericas.com/)** | **[COTA Fall Internship 2026 Ticketing (Full-Time)](https://jobright.ai/jobs/info/69fe4eac7714cd50b910047c?utm_campaign=1058&utm_source=git)** | Del Valle,TX,US | On Site | May 08 |
 | **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/69fe4a327714cd50b9100256?utm_campaign=1058&utm_source=git)** | 1630 TREMONT ST,ROXBURY CROSSING,MA,02120 | On Site | May 08 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69fe4a317714cd50b9100255?utm_campaign=1058&utm_source=git)** | 24 SCHOOL ST,BOSTON,MA,02108-05113-15390-S | On Site | May 08 |
-| **[Definity](https://www.definityfinancial.com/)** | **[Technical Associate, Deskside Support - Fall 2026 Co-op/Intern](https://jobright.ai/jobs/info/69feb6701161630dd3b0278c?utm_campaign=1058&utm_source=git)** | Waterloo, ONT, Canada | Hybrid | May 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
