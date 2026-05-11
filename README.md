@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BAE Systems](http://www.baesystems.com)** | **[Technical Intern 2](https://jobright.ai/jobs/info/6a012620c2ffb31f45364b76?utm_campaign=1058&utm_source=git)** | Arlington Virginia | On Site | May 10 |
+| **[Xometry](https://www.xometry.com)** | **[Customer Support Intern](https://jobright.ai/jobs/info/6952d982f1f8465b79ea22d4?utm_campaign=1058&utm_source=git)** | Waltham, MA | Hybrid | May 10 |
 | **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a00f0cfc4b08448a0b1d2b4?utm_campaign=1058&utm_source=git)** | 1000 SAGAMORE PKWY W,WEST LAFAYETTE,IN,47906-01446-06456-S | On Site | May 10 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[IT Intern - Summer 2026](https://jobright.ai/jobs/info/6a00e985a0eddc08c239dacd?utm_campaign=1058&utm_source=git)** | Newark, NJ, US | On Site | May 10 |
 | **[Parsons Corporation](http://www.parsons.com)** | **[IT Intern - Summer 2026](https://jobright.ai/jobs/info/6a00da19c2ffb31f45363c44?utm_campaign=1058&utm_source=git)** | US - NJ, Newark, US | On Site | May 10 |
@@ -75,9 +77,10 @@ For a complete list, click the following sortable link below:
 | **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/69fff27ac2ffb31f45360bcd?utm_campaign=1058&utm_source=git)** | 3000 N ALAFAYA TRL,ORLANDO,FL,32826-03206-07090-S | On Site | May 09 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69fff279c2ffb31f45360bcc?utm_campaign=1058&utm_source=git)** | 2050 E OSCEOLA PKWY,KISSIMMEE,FL,34743 | On Site | May 09 |
 | **[Sunbird Software](http://sunbirddcim.com/)** | **[Technical Support Analyst Intern](https://jobright.ai/jobs/info/69ffe8c8238f143e835270ea?utm_campaign=1058&utm_source=git)** | Sioux Falls, SD | On Site | May 09 |
+| **[Golden 1 Credit Union](https://www.golden1.com/)** | **[Member Care Support and Asset Management - Member Care Support II](https://jobright.ai/jobs/info/69e6514af8fa2f3ec32a0e35?utm_campaign=1058&utm_source=git)** | Sacramento, CA | On Site | May 09 |
+| **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[Intern, Technical Support (Design Engineer)](https://jobright.ai/jobs/info/69e2b1d42f28653593077b5e?utm_campaign=1058&utm_source=git)** | Lincoln, NE | On Site | May 09 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Technology Support Intern](https://jobright.ai/jobs/info/69ffb3dac2ffb31f45360308?utm_campaign=1058&utm_source=git)** | Los Angeles, CA, US | On Site | May 09 |
 | **[Houchens Insurance Group](https://www.higusa.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/69c47c0933eecf310794d30a?utm_campaign=1058&utm_source=git)** | Bowling Green, KY | On Site | May 09 |
-| **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Technology Support Intern](https://jobright.ai/jobs/info/69ffa6b8c4b08448a0b19217?utm_campaign=1058&utm_source=git)** | Los Angeles, CA, USA | Remote | May 09 |
 | **[Children's Wisconsin](https://childrenswi.org/)** | **[Grateful Family and System Liaison Intern](https://jobright.ai/jobs/info/69fc21842f9f6b7cf69114f7?utm_campaign=1058&utm_source=git)** | Milwaukee, WI | On Site | May 09 |
 | **[UPMC](https://www.upmc.com/)** | **[Pharmacy Intern, Chartwell](https://jobright.ai/jobs/info/693a905c383bf9631983aaa4?utm_campaign=1058&utm_source=git)** | Oakdale, PA | On Site | May 09 |
 | **[St. Jude Children's Research Hospital - ALSAC](https://www.stjude.org)** | **[Intern-University of Memphis Call Center (Spring/Summer 2026)](https://jobright.ai/jobs/info/69d5f2de706f771673ba80aa?utm_campaign=1058&utm_source=git)** | Memphis, TN | On Site | May 09 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[DSV - Global Transport and Logistics](http://www.dsv.com)** | **[Intern, Warehouse, Road Transport US](https://jobright.ai/jobs/info/69aa43922ebd316bece20750?utm_campaign=1058&utm_source=git)** | Lancaster, TX | On Site | May 08 |
 | **[IDEX Corporation](http://www.idexcorp.com)** | **[Technical Writing Internship](https://jobright.ai/jobs/info/69feb2981161630dd3b01a79?utm_campaign=1058&utm_source=git)** | Longwood, Florida, US | Hybrid | May 08 |
 | **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[Intern, Technical Support (R&D Engineer)](https://jobright.ai/jobs/info/69e15e7fff71e82d604b68e5?utm_campaign=1058&utm_source=git)** | Lincoln, NE | On Site | May 08 |
-| **[US Fertility](https://www.usfertility.com/)** | **[Intern - Medical Records](https://jobright.ai/jobs/info/69feb5a21161630dd3b023c1?utm_campaign=1058&utm_source=git)** | ROCKVILLE, Maryland, United States | On Site | May 08 |
-| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69fe2e8f7714cd50b90feb65?utm_campaign=1058&utm_source=git)** | 2105 E WELLESLEY AVE,SPOKANE,WA,99207 | On Site | May 08 |
-| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69fe2e2b52e2b44f558aef77?utm_campaign=1058&utm_source=git)** | 30283 TRIANGLE DR,CHARLOTTE HALL,MD,20622-03125-17672-S | On Site | May 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
