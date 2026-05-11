@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/6a01baecc4b08448a0b1fd18?utm_campaign=1058&utm_source=git)** | 12691 ANTIOCH, Overland Park, Kansas,United States | On Site | May 11 |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/6a01db62fa1aa73213d9482d?utm_campaign=1058&utm_source=git)** | 5184 STOCKDALE HWY., Bakersfield, California,United States | On Site | May 11 |
+| ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/6a01d725df52f1450d84533d?utm_campaign=1058&utm_source=git)** | 1749 W. WALNUT ST., Rogers, Arkansas,United States | On Site | May 11 |
+| ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/6a01baecc4b08448a0b1fd18?utm_campaign=1058&utm_source=git)** | 12691 ANTIOCH, Overland Park, Kansas,United States | On Site | May 11 |
 | ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/6a019f3fc2ffb31f45366732?utm_campaign=1058&utm_source=git)** | 827 E. MILAM ST., Mexia, Texas,United States | On Site | May 11 |
 | **[BSI Financial Services](https://www.bsifinancial.com)** | **[Licensing & Digital Records Management Intern](https://jobright.ai/jobs/info/69fa1211db88714bcdfc0fec?utm_campaign=1058&utm_source=git)** | Titusville, PA 16354, USA | On Site | May 10 |
 | **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a017cdbdf52f1450d843d7d?utm_campaign=1058&utm_source=git)** | 1251 DUTCH FORK RD,IRMO,SC,29063 | On Site | May 10 |
@@ -117,8 +119,8 @@ For a complete list, click the following sortable link below:
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[IS Services & Support Intern (or Co-Op)](https://jobright.ai/jobs/info/69fb0ecbe156000841155c3a?utm_campaign=1058&utm_source=git)** | San Antonio, TX | On Site | May 09 |
 | **[Habitat for Humanity International](https://www.habitat.org/ap)** | **[Data Management Support Intern](https://jobright.ai/jobs/info/69ff2980a0eddc08c23979d4?utm_campaign=1058&utm_source=git)** | Remotely based in the United States | Remote | May 09 |
 | **[United States Steel Corporation](http://www.ussteel.com)** | **[Customer Experience Internship](https://jobright.ai/jobs/info/69ff2954a0eddc08c239799c?utm_campaign=1058&utm_source=git)** | Troy | Hybrid | May 09 |
-| **[NYC Department of Health and Mental Hygiene](https://www.nyc.gov/site/doh/index.page)** | **[Summer Intern (Records Management)](https://jobright.ai/jobs/info/69ff2380c4b08448a0b169fc?utm_campaign=1058&utm_source=git)** | MANHATTAN | On Site | May 09 |
-| ↳ | **[Service Operation Summer Intern](https://jobright.ai/jobs/info/69ff2380c4b08448a0b169ff?utm_campaign=1058&utm_source=git)** | MANHATTAN | On Site | May 09 |
+| **[NYC Department of Health and Mental Hygiene](https://www.nyc.gov/site/doh/index.page)** | **[Service Operation Summer Intern](https://jobright.ai/jobs/info/69ff2380c4b08448a0b169ff?utm_campaign=1058&utm_source=git)** | MANHATTAN | On Site | May 09 |
+| ↳ | **[Summer Intern (Records Management)](https://jobright.ai/jobs/info/69ff2380c4b08448a0b169fc?utm_campaign=1058&utm_source=git)** | MANHATTAN | On Site | May 09 |
 | **[KPH HEALTHCARE SERVICES, INC](https://www.kphhealthcareservices.com/en/)** | **[Pharmacy Intern P1](https://jobright.ai/jobs/info/6932b97df131d96e4845dc15?utm_campaign=1058&utm_source=git)** | Seneca Falls, NY | On Site | May 09 |
 | **[UICGS / Bowhead Family of Companies](http://www.bowhead.com)** | **[General Clerk III](https://jobright.ai/jobs/info/69e2793bfcfcbd43860a318c?utm_campaign=1058&utm_source=git)** | Chaparral, NM | On Site | May 09 |
 | **[Crown Equipment Corporation](https://303crownmaids.com/)** | **[Service Technician Intern](https://jobright.ai/jobs/info/69e14f92d612782e61147fb7?utm_campaign=1058&utm_source=git)** | Schaumburg, IL | On Site | May 09 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Aerospike](http://www.aerospike.com)** | **[IT Intern](https://jobright.ai/jobs/info/69fe648a52e2b44f558b16f7?utm_campaign=1058&utm_source=git)** | Mountain View | On Site | May 08 |
 | **[L'Arche Ottawa](http://www.larcheottawa.org/)** | **[Student or Intern](https://jobright.ai/jobs/info/69fe641ef363bc4dc339e5f1?utm_campaign=1058&utm_source=git)** | Hamilton, ON, CA | On Site | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Intern - Medical Records](https://jobright.ai/jobs/info/69fe62c14b9bbf21744b120d?utm_campaign=1058&utm_source=git)** | Rockville, MD, US | On Site | May 08 |
-| ↳ | **[Intern - IT/Support](https://jobright.ai/jobs/info/69fe62b6f363bc4dc339e54c?utm_campaign=1058&utm_source=git)** | MO, US | On Site | May 08 |
-| **[AMD](http://www.amd.com)** | **[Technical Writer Intern / Co-op](https://jobright.ai/jobs/info/69fe53724b9bbf21744b0af2?utm_campaign=1058&utm_source=git)** | MARKHAM, ON, CA | Hybrid | May 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
