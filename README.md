@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pennant](https://birdeye.link/pennant)** | **[PRN Intern / Office Support Assistant / River Valley Home Health & Hospice / Kingman, AZ](https://jobright.ai/jobs/info/6a0201dafa1aa73213d95f7b?utm_campaign=1058&utm_source=git)** | Kingman, Arizona, US | On Site | May 11 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/6a01f6cedf52f1450d846685?utm_campaign=1058&utm_source=git)** | 8100 E BROAD ST, Reynoldsburg, Ohio,United States | On Site | May 11 |
 | **[Nokia](http://www.nokia.com)** | **[Customer Technical Support Co-op/Intern](https://jobright.ai/jobs/info/6a01f4e0c4b08448a0b21c72?utm_campaign=1058&utm_source=git)** | Canada | Remote | May 11 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/6a01f427238f143e8352f5e8?utm_campaign=1058&utm_source=git)** | 1220 N. COMMERCE ST., Ardmore, Oklahoma,United States | On Site | May 11 |
@@ -119,7 +120,6 @@ For a complete list, click the following sortable link below:
 | **[UPMC](https://www.upmc.com/)** | **[Pharmacy Intern, Chartwell](https://jobright.ai/jobs/info/693a905c383bf9631983aaa4?utm_campaign=1058&utm_source=git)** | Oakdale, PA | On Site | May 09 |
 | **[St. Jude Children's Research Hospital - ALSAC](https://www.stjude.org)** | **[Intern-University of Memphis Call Center (Spring/Summer 2026)](https://jobright.ai/jobs/info/69d5f2de706f771673ba80aa?utm_campaign=1058&utm_source=git)** | Memphis, TN | On Site | May 09 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad - Sign-On Bonus Available](https://jobright.ai/jobs/info/69ff65cd238f143e835256fb?utm_campaign=1058&utm_source=git)** | 51 DIXIE DR,CLUTE,TX,77531-05147-04100-S | On Site | May 09 |
-| **[Tanium](http://www.tanium.com)** | **[Technical Support Engineer Intern](https://jobright.ai/jobs/info/69a972d0f2055e05d1719dfe?utm_campaign=1058&utm_source=git)** | Emeryville, CA | Hybrid | May 09 |
 | **[New College of Florida](https://www.ncf.edu/)** | **[Student Assistant, Intern, IT](https://jobright.ai/jobs/info/69e7e494f8fa2f3ec32aa38e?utm_campaign=1058&utm_source=git)** | Sarasota, FL | On Site | May 09 |
 | **[Hannaford Supermarkets](https://www.hannaford.com/)** | **[P4 Rx Intern ($26/ hr)](https://jobright.ai/jobs/info/69c678611b5ad02887384b99?utm_campaign=1058&utm_source=git)** | Farmington, ME | On Site | May 09 |
 | **[Prosperity Life](https://prosperitylife.com)** | **[Enterprise Applications Intern](https://jobright.ai/jobs/info/69c6de211b5ad02887387abb?utm_campaign=1058&utm_source=git)** | Austin, TX | Hybrid | May 09 |
@@ -135,8 +135,8 @@ For a complete list, click the following sortable link below:
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[IS Services & Support Intern (or Co-Op)](https://jobright.ai/jobs/info/69fb0ecbe156000841155c3a?utm_campaign=1058&utm_source=git)** | San Antonio, TX | On Site | May 09 |
 | **[Habitat for Humanity International](https://www.habitat.org/ap)** | **[Data Management Support Intern](https://jobright.ai/jobs/info/69ff2980a0eddc08c23979d4?utm_campaign=1058&utm_source=git)** | Remotely based in the United States | Remote | May 09 |
 | **[United States Steel Corporation](http://www.ussteel.com)** | **[Customer Experience Internship](https://jobright.ai/jobs/info/69ff2954a0eddc08c239799c?utm_campaign=1058&utm_source=git)** | Troy | Hybrid | May 09 |
-| **[NYC Department of Health and Mental Hygiene](https://www.nyc.gov/site/doh/index.page)** | **[Summer Intern (Records Management)](https://jobright.ai/jobs/info/69ff2380c4b08448a0b169fc?utm_campaign=1058&utm_source=git)** | MANHATTAN | On Site | May 09 |
-| ↳ | **[Service Operation Summer Intern](https://jobright.ai/jobs/info/69ff2380c4b08448a0b169ff?utm_campaign=1058&utm_source=git)** | MANHATTAN | On Site | May 09 |
+| **[NYC Department of Health and Mental Hygiene](https://www.nyc.gov/site/doh/index.page)** | **[Service Operation Summer Intern](https://jobright.ai/jobs/info/69ff2380c4b08448a0b169ff?utm_campaign=1058&utm_source=git)** | MANHATTAN | On Site | May 09 |
+| ↳ | **[Summer Intern (Records Management)](https://jobright.ai/jobs/info/69ff2380c4b08448a0b169fc?utm_campaign=1058&utm_source=git)** | MANHATTAN | On Site | May 09 |
 | **[KPH HEALTHCARE SERVICES, INC](https://www.kphhealthcareservices.com/en/)** | **[Pharmacy Intern P1](https://jobright.ai/jobs/info/6932b97df131d96e4845dc15?utm_campaign=1058&utm_source=git)** | Seneca Falls, NY | On Site | May 09 |
 | **[UICGS / Bowhead Family of Companies](http://www.bowhead.com)** | **[General Clerk III](https://jobright.ai/jobs/info/69e2793bfcfcbd43860a318c?utm_campaign=1058&utm_source=git)** | Chaparral, NM | On Site | May 09 |
 | **[Crown Equipment Corporation](https://303crownmaids.com/)** | **[Service Technician Intern](https://jobright.ai/jobs/info/69e14f92d612782e61147fb7?utm_campaign=1058&utm_source=git)** | Schaumburg, IL | On Site | May 09 |
