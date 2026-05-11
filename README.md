@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Xometry](https://www.xometry.com)** | **[Case Management Intern](https://jobright.ai/jobs/info/6943a5e5dd382f5f5669c041?utm_campaign=1058&utm_source=git)** | North Bethesda, MD | Hybrid | May 10 |
 | **[Amgen](http://www.amgen.com)** | **[Grad Intern - Patient Services](https://jobright.ai/jobs/info/6a013480a0eddc08c239e953?utm_campaign=1058&utm_source=git)** | Canada - Mississauga, CA | Hybrid | May 10 |
 | **[BAE Systems](http://www.baesystems.com)** | **[Technical Intern 2](https://jobright.ai/jobs/info/6a012620c2ffb31f45364b76?utm_campaign=1058&utm_source=git)** | Arlington Virginia | On Site | May 10 |
 | **[Xometry](https://www.xometry.com)** | **[Customer Support Intern](https://jobright.ai/jobs/info/6952d982f1f8465b79ea22d4?utm_campaign=1058&utm_source=git)** | Waltham, MA | Hybrid | May 10 |
@@ -64,6 +65,7 @@ For a complete list, click the following sortable link below:
 | **[RemoteHunter](https://remotehunter.com/)** | **[IT Intern - Summer 2026](https://jobright.ai/jobs/info/6a00e985a0eddc08c239dacd?utm_campaign=1058&utm_source=git)** | Newark, NJ, US | On Site | May 10 |
 | **[Parsons Corporation](http://www.parsons.com)** | **[IT Intern - Summer 2026](https://jobright.ai/jobs/info/6a00da19c2ffb31f45363c44?utm_campaign=1058&utm_source=git)** | US - NJ, Newark, US | On Site | May 10 |
 | **[Auctane](https://auctane.com/)** | **[Salesforce Administrator Intern](https://jobright.ai/jobs/info/69ff4fd1238f143e835252d8?utm_campaign=1058&utm_source=git)** | Austin, TX | Hybrid | May 10 |
+| **[Ascension](https://healthcare.ascension.org)** | **[CV Tech Intern Cath Lab](https://jobright.ai/jobs/info/692e4dcafa28370be26a3598?utm_campaign=1058&utm_source=git)** | Tulsa, OK | On Site | May 10 |
 | **[Giesecke+Devrient](https://www.gi-de.com/en/)** | **[IT Support Intern](https://jobright.ai/jobs/info/69c6a92fb773006330b71d85?utm_campaign=1058&utm_source=git)** | Bolingbrook, IL | On Site | May 10 |
 | ↳ | **[IT Support Intern](https://jobright.ai/jobs/info/69c6b51d1b5ad028873862dd?utm_campaign=1058&utm_source=git)** | Dulles, VA | On Site | May 10 |
 | **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a006407fa1aa73213d8f25e?utm_campaign=1058&utm_source=git)** | 2824 SCOTTSVILLE RD,BOWLING GREEN,KY,42104-06343-13815-S | On Site | May 10 |
@@ -101,8 +103,8 @@ For a complete list, click the following sortable link below:
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[IS Services & Support Intern (or Co-Op)](https://jobright.ai/jobs/info/69fb0ecbe156000841155c3a?utm_campaign=1058&utm_source=git)** | San Antonio, TX | On Site | May 09 |
 | **[Habitat for Humanity International](https://www.habitat.org/ap)** | **[Data Management Support Intern](https://jobright.ai/jobs/info/69ff2980a0eddc08c23979d4?utm_campaign=1058&utm_source=git)** | Remotely based in the United States | Remote | May 09 |
 | **[United States Steel Corporation](http://www.ussteel.com)** | **[Customer Experience Internship](https://jobright.ai/jobs/info/69ff2954a0eddc08c239799c?utm_campaign=1058&utm_source=git)** | Troy | Hybrid | May 09 |
-| **[NYC Department of Health and Mental Hygiene](https://www.nyc.gov/site/doh/index.page)** | **[Summer Intern (Records Management)](https://jobright.ai/jobs/info/69ff2380c4b08448a0b169fc?utm_campaign=1058&utm_source=git)** | MANHATTAN | On Site | May 09 |
-| ↳ | **[Service Operation Summer Intern](https://jobright.ai/jobs/info/69ff2380c4b08448a0b169ff?utm_campaign=1058&utm_source=git)** | MANHATTAN | On Site | May 09 |
+| **[NYC Department of Health and Mental Hygiene](https://www.nyc.gov/site/doh/index.page)** | **[Service Operation Summer Intern](https://jobright.ai/jobs/info/69ff2380c4b08448a0b169ff?utm_campaign=1058&utm_source=git)** | MANHATTAN | On Site | May 09 |
+| ↳ | **[Summer Intern (Records Management)](https://jobright.ai/jobs/info/69ff2380c4b08448a0b169fc?utm_campaign=1058&utm_source=git)** | MANHATTAN | On Site | May 09 |
 | **[KPH HEALTHCARE SERVICES, INC](https://www.kphhealthcareservices.com/en/)** | **[Pharmacy Intern P1](https://jobright.ai/jobs/info/6932b97df131d96e4845dc15?utm_campaign=1058&utm_source=git)** | Seneca Falls, NY | On Site | May 09 |
 | **[UICGS / Bowhead Family of Companies](http://www.bowhead.com)** | **[General Clerk III](https://jobright.ai/jobs/info/69e2793bfcfcbd43860a318c?utm_campaign=1058&utm_source=git)** | Chaparral, NM | On Site | May 09 |
 | **[Crown Equipment Corporation](https://303crownmaids.com/)** | **[Service Technician Intern](https://jobright.ai/jobs/info/69e14f92d612782e61147fb7?utm_campaign=1058&utm_source=git)** | Schaumburg, IL | On Site | May 09 |
@@ -132,6 +134,8 @@ For a complete list, click the following sortable link below:
 | **[RemoteHunter](https://remotehunter.com/)** | **[Customer Experience Ops Intern](https://jobright.ai/jobs/info/69fe7eaf52e2b44f558b20ba?utm_campaign=1058&utm_source=git)** | San Francisco, CA, US | Hybrid | May 08 |
 | ↳ | **[Hourly Pooled - COMPASS Office Student Intern](https://jobright.ai/jobs/info/69fe7e816bcf315dc8f57f26?utm_campaign=1058&utm_source=git)** | Laramie, WY, US | On Site | May 08 |
 | **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Fall 2026 - College Intern - Hilton Head Island, SC (Front Office)](https://jobright.ai/jobs/info/69fb704586d5cd46527d5c3d?utm_campaign=1058&utm_source=git)** | Hilton Head Island, SC | On Site | May 08 |
+| **[KPH HEALTHCARE SERVICES, INC](https://www.kphhealthcareservices.com/en/)** | **[Pharmacy Intern P2](https://jobright.ai/jobs/info/6960728c7ebc25398eb668d6?utm_campaign=1058&utm_source=git)** | Ithaca, NY | On Site | May 08 |
+| **[DHL Global Forwarding](https://www.fedquestsolutions.com)** | **[Air Freight Specialist - Summer Internship](https://jobright.ai/jobs/info/69fbf7023802c7621fd8e9ff?utm_campaign=1058&utm_source=git)** | Minneapolis, MN | On Site | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Technical Writing Internship](https://jobright.ai/jobs/info/69fe65a1f363bc4dc339e797?utm_campaign=1058&utm_source=git)** | Longwood, FL, US | Hybrid | May 08 |
 | **[Cribl](https://www.cribl.io)** | **[Customer Experience Ops Intern](https://jobright.ai/jobs/info/69fe6596ad691a11f34ed8b9?utm_campaign=1058&utm_source=git)** | Remote - San Francisco, California | Remote | May 08 |
 | **[Aerospike](http://www.aerospike.com)** | **[IT Intern](https://jobright.ai/jobs/info/69fe648a52e2b44f558b16f7?utm_campaign=1058&utm_source=git)** | Mountain View | On Site | May 08 |
@@ -146,7 +150,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69fe4a317714cd50b9100255?utm_campaign=1058&utm_source=git)** | 24 SCHOOL ST,BOSTON,MA,02108-05113-15390-S | On Site | May 08 |
 | **[Definity](https://www.definityfinancial.com/)** | **[Technical Associate, Deskside Support - Fall 2026 Co-op/Intern](https://jobright.ai/jobs/info/69feb6701161630dd3b0278c?utm_campaign=1058&utm_source=git)** | Waterloo, ONT, Canada | Hybrid | May 08 |
 | **[DHL Supply Chain](https://www.dhl.com/gb-en/home/supply-chain.html)** | **[Summer Internship - Ocean Freight Specialist](https://jobright.ai/jobs/info/69fe495cad691a11f34ecf41?utm_campaign=1058&utm_source=git)** | Peoria, Illinois, United States of America | On Site | May 08 |
-| **[Xometry](https://www.xometry.com)** | **[Case Management Intern](https://jobright.ai/jobs/info/6943a5e5dd382f5f5669c041?utm_campaign=1058&utm_source=git)** | North Bethesda, MD | Hybrid | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Southwest Intern](https://jobright.ai/jobs/info/69fe48777714cd50b90fffe2?utm_campaign=1058&utm_source=git)** | Baton Rouge, LA, US | Hybrid | May 08 |
 | ↳ | **[Intern, Digital (Hourly)](https://jobright.ai/jobs/info/69fe484b7714cd50b90fff8f?utm_campaign=1058&utm_source=git)** | Austin, TX, US | On Site | May 08 |
 | **[American Bankruptcy Institute](https://abi.org/)** | **[Administrative & Membership Intern](https://jobright.ai/jobs/info/69fe47246bcf315dc8f5651c?utm_campaign=1058&utm_source=git)** | Alexandria, VA | On Site | May 08 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Support Internship 2026](https://jobright.ai/jobs/info/69fe4689f363bc4dc339d682?utm_campaign=1058&utm_source=git)** | Kennewick, WA, US | Hybrid | May 08 |
 | **[Cross Insurance](https://www.crossagency.com/)** | **[Personal Lines Intern](https://jobright.ai/jobs/info/69fe3f1952e2b44f558afdf0?utm_campaign=1058&utm_source=git)** | US - MA - Beverly, US | On Site | May 08 |
 | **[Shady Grove Fertility](http://ShadyGroveFertility.com)** | **[Intern - Medical Records](https://jobright.ai/jobs/info/69fe39646bcf315dc8f556b0?utm_campaign=1058&utm_source=git)** | ROCKVILLE, Maryland, United States | On Site | May 08 |
-| **[UPMC](https://www.upmc.com/)** | **[Audiologist Intern-Hanover](https://jobright.ai/jobs/info/69ccac72cdb525785fb8135e?utm_campaign=1058&utm_source=git)** | Hanover, PA | On Site | May 08 |
-| **[DSV - Global Transport and Logistics](http://www.dsv.com)** | **[Intern, Warehouse, Road Transport US](https://jobright.ai/jobs/info/69aa43922ebd316bece20750?utm_campaign=1058&utm_source=git)** | Lancaster, TX | On Site | May 08 |
-| **[IDEX Corporation](http://www.idexcorp.com)** | **[Technical Writing Internship](https://jobright.ai/jobs/info/69feb2981161630dd3b01a79?utm_campaign=1058&utm_source=git)** | Longwood, Florida, US | Hybrid | May 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
