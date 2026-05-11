@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Livingston International](http://www.livingstonintl.com)** | **[Intern](https://jobright.ai/jobs/info/6a0230df238f143e835317e9?utm_campaign=1058&utm_source=git)** | Niagara-on-the-Lake, ON, CA | Remote | May 11 |
+| **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[Intern, Business Support](https://jobright.ai/jobs/info/6a0230cec2ffb31f4536ac80?utm_campaign=1058&utm_source=git)** | US-OH-Springboro | On Site | May 11 |
+| **[Hotel Zephyr Fisherman's Wharf, San Francisco](https://www.hotelzephyrsf.com/)** | **[J1 Intern - Front Desk](https://jobright.ai/jobs/info/6a023045fa1aa73213d97af3?utm_campaign=1058&utm_source=git)** | Chicago, IL, US | On Site | May 11 |
+| **[Davidson Hospitality Group](https://davidsonhospitality.com/)** | **[J1 Intern - Front Desk](https://jobright.ai/jobs/info/6a022f9cdf52f1450d8484c0?utm_campaign=1058&utm_source=git)** | Chicago, IL, US | On Site | May 11 |
+| **[Cureiosity](https://www.cureiosity.org)** | **[Patient Community & Research Intern](https://jobright.ai/jobs/info/6a022e13238f143e835310d9?utm_campaign=1058&utm_source=git)** | Washington, DC | Remote | May 11 |
+| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/6a02268bdf52f1450d847c7b?utm_campaign=1058&utm_source=git)** | 8730 E BROADWAY BLVD,TUCSON,AZ,85710 | On Site | May 11 |
+| **[BAE Systems](http://www.baesystems.com)** | **[NonTechnical Intern 4](https://jobright.ai/jobs/info/6a0226443053db70a1174c67?utm_campaign=1058&utm_source=git)** | Radford Virginia | On Site | May 11 |
 | **[Armada](https://www.armada.ai)** | **[IT Support Intern (Unpaid)](https://jobright.ai/jobs/info/69fba9d4ffa73664aeb01940?utm_campaign=1058&utm_source=git)** | Bellevue Office, Sunset Corporate Campus | On Site | May 11 |
 | **[Hype Events](hypevents.ca)** | **[Client Services Internship](https://jobright.ai/jobs/info/6a021e62238f143e835307e5?utm_campaign=1058&utm_source=git)** | Greater Toronto Area, Canada | On Site | May 11 |
 | **[Sunbird Software](http://sunbirddcim.com/)** | **[Technical Support Analyst Intern](https://jobright.ai/jobs/info/6a021b93c2ffb31f45369a26?utm_campaign=1058&utm_source=git)** | Sioux Falls, SD | On Site | May 11 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NYC Department of Health and Mental Hygiene](https://www.nyc.gov/site/doh/index.page)** | **[Summer Intern (Records Management)](https://jobright.ai/jobs/info/69ff2380c4b08448a0b169fc?utm_campaign=1058&utm_source=git)** | MANHATTAN | On Site | May 09 |
 | ↳ | **[Service Operation Summer Intern](https://jobright.ai/jobs/info/69ff2380c4b08448a0b169ff?utm_campaign=1058&utm_source=git)** | MANHATTAN | On Site | May 09 |
 | **[KPH HEALTHCARE SERVICES, INC](https://www.kphhealthcareservices.com/en/)** | **[Pharmacy Intern P1](https://jobright.ai/jobs/info/6932b97df131d96e4845dc15?utm_campaign=1058&utm_source=git)** | Seneca Falls, NY | On Site | May 09 |
-| **[UICGS / Bowhead Family of Companies](http://www.bowhead.com)** | **[General Clerk III](https://jobright.ai/jobs/info/69e2793bfcfcbd43860a318c?utm_campaign=1058&utm_source=git)** | Chaparral, NM | On Site | May 09 |
-| **[Crown Equipment Corporation](https://303crownmaids.com/)** | **[Service Technician Intern](https://jobright.ai/jobs/info/69e14f92d612782e61147fb7?utm_campaign=1058&utm_source=git)** | Schaumburg, IL | On Site | May 09 |
-| **[Getinge](https://www.getinge.com)** | **[Intern, Global Customer Delivery](https://jobright.ai/jobs/info/69e27150fcfcbd43860a2d86?utm_campaign=1058&utm_source=git)** | Streetsboro, OH | On Site | May 09 |
-| **[Germain Hôtels](https://www.germainhotels.com/)** | **[Intern, Guest Service - Fall 2026](https://jobright.ai/jobs/info/69fef684238f143e83523642?utm_campaign=1058&utm_source=git)** | Montréal, Quebec, Canada | On Site | May 09 |
-| ↳ | **[Intern, Guest Services Supervisor - Fall 2026](https://jobright.ai/jobs/info/69fef678c4b08448a0b16528?utm_campaign=1058&utm_source=git)** | Montréal, Quebec, Canada | On Site | May 09 |
-| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69fef458fa1aa73213d8a0ae?utm_campaign=1058&utm_source=git)** | 2105 E WELLESLEY AVE,SPOKANE,WA,99207 | On Site | May 09 |
-| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Service Delivery Excellence](https://jobright.ai/jobs/info/69e158f3acc736112f5c3350?utm_campaign=1058&utm_source=git)** | Newtown Square, PA | On Site | May 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
