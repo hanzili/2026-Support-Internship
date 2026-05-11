@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/6a019f3fc2ffb31f45366732?utm_campaign=1058&utm_source=git)** | 827 E. MILAM ST., Mexia, Texas,United States | On Site | May 11 |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/6a01baecc4b08448a0b1fd18?utm_campaign=1058&utm_source=git)** | 12691 ANTIOCH, Overland Park, Kansas,United States | On Site | May 11 |
+| ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/6a019f3fc2ffb31f45366732?utm_campaign=1058&utm_source=git)** | 827 E. MILAM ST., Mexia, Texas,United States | On Site | May 11 |
 | **[BSI Financial Services](https://www.bsifinancial.com)** | **[Licensing & Digital Records Management Intern](https://jobright.ai/jobs/info/69fa1211db88714bcdfc0fec?utm_campaign=1058&utm_source=git)** | Titusville, PA 16354, USA | On Site | May 10 |
 | **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a017cdbdf52f1450d843d7d?utm_campaign=1058&utm_source=git)** | 1251 DUTCH FORK RD,IRMO,SC,29063 | On Site | May 10 |
 | **[Mariner Finance](http://www.marinerfinance.com)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/69fc43c7633e68586cd30152?utm_campaign=1058&utm_source=git)** | Baton Rouge, LA | On Site | May 10 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Fair Rite Products Corp.](https://www.fair-rite.com/)** | **[IT Support Intern](https://jobright.ai/jobs/info/69fe53714b9bbf21744b0aed?utm_campaign=1058&utm_source=git)** | US-NY-Wallkill | On Site | May 08 |
 | **[KPH HEALTHCARE SERVICES, INC](https://www.kphhealthcareservices.com/en/)** | **[Pharmacy Intern P2](https://jobright.ai/jobs/info/69327a2ff131d96e4845c89a?utm_campaign=1058&utm_source=git)** | Seneca Falls, NY | On Site | May 08 |
 | **[Circuit of The Americas](http://circuitoftheamericas.com/)** | **[COTA Fall Internship 2026 Ticketing (Full-Time)](https://jobright.ai/jobs/info/69fe4eac7714cd50b910047c?utm_campaign=1058&utm_source=git)** | Del Valle,TX,US | On Site | May 08 |
-| **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/69fe4a327714cd50b9100256?utm_campaign=1058&utm_source=git)** | 1630 TREMONT ST,ROXBURY CROSSING,MA,02120 | On Site | May 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
