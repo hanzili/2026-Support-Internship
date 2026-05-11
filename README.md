@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[Intern, Business Support](https://jobright.ai/jobs/info/6a02313ec4b08448a0b23e2a?utm_campaign=1058&utm_source=git)** | Springboro, OH, US | On Site | May 11 |
+| **[Hotel Zephyr Fisherman's Wharf, San Francisco](https://www.hotelzephyrsf.com/)** | **[J1 Intern - Front Desk](https://jobright.ai/jobs/info/6a023133238f143e8353182e?utm_campaign=1058&utm_source=git)** | US-IL-Chicago | On Site | May 11 |
+| **[Davidson Hospitality Group](https://davidsonhospitality.com/)** | **[J1 Intern - Front Desk](https://jobright.ai/jobs/info/6a023114c4b08448a0b23e10?utm_campaign=1058&utm_source=git)** | US-IL-Chicago | On Site | May 11 |
 | **[Livingston International](http://www.livingstonintl.com)** | **[Intern](https://jobright.ai/jobs/info/6a0230df238f143e835317e9?utm_campaign=1058&utm_source=git)** | Niagara-on-the-Lake, ON, CA | Remote | May 11 |
 | **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[Intern, Business Support](https://jobright.ai/jobs/info/6a0230cec2ffb31f4536ac80?utm_campaign=1058&utm_source=git)** | US-OH-Springboro | On Site | May 11 |
 | **[Hotel Zephyr Fisherman's Wharf, San Francisco](https://www.hotelzephyrsf.com/)** | **[J1 Intern - Front Desk](https://jobright.ai/jobs/info/6a023045fa1aa73213d97af3?utm_campaign=1058&utm_source=git)** | Chicago, IL, US | On Site | May 11 |
@@ -112,6 +115,7 @@ For a complete list, click the following sortable link below:
 | **[Driscoll's](http://www.driscolls.com)** | **[Sales Support Intern](https://jobright.ai/jobs/info/69d8310bb67cec4f9b09b40a?utm_campaign=1058&utm_source=git)** | Watsonville, CA | On Site | May 10 |
 | **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a00f0cfc4b08448a0b1d2b4?utm_campaign=1058&utm_source=git)** | 1000 SAGAMORE PKWY W,WEST LAFAYETTE,IN,47906-01446-06456-S | On Site | May 10 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[IT Intern - Summer 2026](https://jobright.ai/jobs/info/6a00e985a0eddc08c239dacd?utm_campaign=1058&utm_source=git)** | Newark, NJ, US | On Site | May 10 |
+| **[St. Elizabeth Healthcare](http://www.stelizabeth.com/)** | **[Intern Pharmacy Inpatient](https://jobright.ai/jobs/info/69c21e7e75f7ff1cd810df3f?utm_campaign=1058&utm_source=git)** | Florence, KY | On Site | May 10 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Extended Services Intern](https://jobright.ai/jobs/info/69e6ec68f8fa2f3ec32a3fd4?utm_campaign=1058&utm_source=git)** | Baltimore, MD | Hybrid | May 10 |
 | **[Auctane](https://auctane.com/)** | **[Salesforce Administrator Intern](https://jobright.ai/jobs/info/69ff4fd1238f143e835252d8?utm_campaign=1058&utm_source=git)** | Austin, TX | Hybrid | May 10 |
 | **[Ascension](https://healthcare.ascension.org)** | **[CV Tech Intern Cath Lab](https://jobright.ai/jobs/info/692e4dcafa28370be26a3598?utm_campaign=1058&utm_source=git)** | Tulsa, OK | On Site | May 10 |
@@ -136,6 +140,7 @@ For a complete list, click the following sortable link below:
 | **[Houchens Insurance Group](https://www.higusa.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/69c47c0933eecf310794d30a?utm_campaign=1058&utm_source=git)** | Bowling Green, KY | On Site | May 09 |
 | **[Children's Wisconsin](https://childrenswi.org/)** | **[Grateful Family and System Liaison Intern](https://jobright.ai/jobs/info/69fc21842f9f6b7cf69114f7?utm_campaign=1058&utm_source=git)** | Milwaukee, WI | On Site | May 09 |
 | **[UPMC](https://www.upmc.com/)** | **[Pharmacy Intern, Chartwell](https://jobright.ai/jobs/info/693a905c383bf9631983aaa4?utm_campaign=1058&utm_source=git)** | Oakdale, PA | On Site | May 09 |
+| **[Hannaford Supermarkets](https://www.hannaford.com/)** | **[P4 Rx Intern ($26/ hr)](https://jobright.ai/jobs/info/69c678601b5ad02887384b98?utm_campaign=1058&utm_source=git)** | Auburn, ME | On Site | May 09 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Respiratory Therapy Intern](https://jobright.ai/jobs/info/69c5c67483ea553769fcf89c?utm_campaign=1058&utm_source=git)** | Kokomo, IN | On Site | May 09 |
 | **[St. Jude Children's Research Hospital - ALSAC](https://www.stjude.org)** | **[Intern-University of Memphis Call Center (Spring/Summer 2026)](https://jobright.ai/jobs/info/69d5f2de706f771673ba80aa?utm_campaign=1058&utm_source=git)** | Memphis, TN | On Site | May 09 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad - Sign-On Bonus Available](https://jobright.ai/jobs/info/69ff65cd238f143e835256fb?utm_campaign=1058&utm_source=git)** | 51 DIXIE DR,CLUTE,TX,77531-05147-04100-S | On Site | May 09 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69ff2c60c2ffb31f4535d9b7?utm_campaign=1058&utm_source=git)** | 1086 W ARROW HWY,SAN DIMAS,CA,91773-02492-05797-S | On Site | May 09 |
 | **[BAE Systems](http://www.baesystems.com)** | **[Tech Intern HS &amp; Seasonal](https://jobright.ai/jobs/info/69ff2bdcc4b08448a0b16c8b?utm_campaign=1058&utm_source=git)** | Endicott New York | On Site | May 09 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[IS Services & Support Intern (or Co-Op)](https://jobright.ai/jobs/info/69fb0ecbe156000841155c3a?utm_campaign=1058&utm_source=git)** | San Antonio, TX | On Site | May 09 |
-| **[Habitat for Humanity International](https://www.habitat.org/ap)** | **[Data Management Support Intern](https://jobright.ai/jobs/info/69ff2980a0eddc08c23979d4?utm_campaign=1058&utm_source=git)** | Remotely based in the United States | Remote | May 09 |
-| **[United States Steel Corporation](http://www.ussteel.com)** | **[Customer Experience Internship](https://jobright.ai/jobs/info/69ff2954a0eddc08c239799c?utm_campaign=1058&utm_source=git)** | Troy | Hybrid | May 09 |
-| **[NYC Department of Health and Mental Hygiene](https://www.nyc.gov/site/doh/index.page)** | **[Summer Intern (Records Management)](https://jobright.ai/jobs/info/69ff2380c4b08448a0b169fc?utm_campaign=1058&utm_source=git)** | MANHATTAN | On Site | May 09 |
-| ↳ | **[Service Operation Summer Intern](https://jobright.ai/jobs/info/69ff2380c4b08448a0b169ff?utm_campaign=1058&utm_source=git)** | MANHATTAN | On Site | May 09 |
-| **[KPH HEALTHCARE SERVICES, INC](https://www.kphhealthcareservices.com/en/)** | **[Pharmacy Intern P1](https://jobright.ai/jobs/info/6932b97df131d96e4845dc15?utm_campaign=1058&utm_source=git)** | Seneca Falls, NY | On Site | May 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
