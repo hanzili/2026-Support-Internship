@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Amgen](http://www.amgen.com)** | **[Grad Intern - Patient Services](https://jobright.ai/jobs/info/6a013480a0eddc08c239e953?utm_campaign=1058&utm_source=git)** | Canada - Mississauga, CA | Hybrid | May 10 |
 | **[BAE Systems](http://www.baesystems.com)** | **[Technical Intern 2](https://jobright.ai/jobs/info/6a012620c2ffb31f45364b76?utm_campaign=1058&utm_source=git)** | Arlington Virginia | On Site | May 10 |
 | **[Xometry](https://www.xometry.com)** | **[Customer Support Intern](https://jobright.ai/jobs/info/6952d982f1f8465b79ea22d4?utm_campaign=1058&utm_source=git)** | Waltham, MA | Hybrid | May 10 |
 | **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a00f0cfc4b08448a0b1d2b4?utm_campaign=1058&utm_source=git)** | 1000 SAGAMORE PKWY W,WEST LAFAYETTE,IN,47906-01446-06456-S | On Site | May 10 |
@@ -100,8 +101,8 @@ For a complete list, click the following sortable link below:
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[IS Services & Support Intern (or Co-Op)](https://jobright.ai/jobs/info/69fb0ecbe156000841155c3a?utm_campaign=1058&utm_source=git)** | San Antonio, TX | On Site | May 09 |
 | **[Habitat for Humanity International](https://www.habitat.org/ap)** | **[Data Management Support Intern](https://jobright.ai/jobs/info/69ff2980a0eddc08c23979d4?utm_campaign=1058&utm_source=git)** | Remotely based in the United States | Remote | May 09 |
 | **[United States Steel Corporation](http://www.ussteel.com)** | **[Customer Experience Internship](https://jobright.ai/jobs/info/69ff2954a0eddc08c239799c?utm_campaign=1058&utm_source=git)** | Troy | Hybrid | May 09 |
-| **[NYC Department of Health and Mental Hygiene](https://www.nyc.gov/site/doh/index.page)** | **[Service Operation Summer Intern](https://jobright.ai/jobs/info/69ff2380c4b08448a0b169ff?utm_campaign=1058&utm_source=git)** | MANHATTAN | On Site | May 09 |
-| ↳ | **[Summer Intern (Records Management)](https://jobright.ai/jobs/info/69ff2380c4b08448a0b169fc?utm_campaign=1058&utm_source=git)** | MANHATTAN | On Site | May 09 |
+| **[NYC Department of Health and Mental Hygiene](https://www.nyc.gov/site/doh/index.page)** | **[Summer Intern (Records Management)](https://jobright.ai/jobs/info/69ff2380c4b08448a0b169fc?utm_campaign=1058&utm_source=git)** | MANHATTAN | On Site | May 09 |
+| ↳ | **[Service Operation Summer Intern](https://jobright.ai/jobs/info/69ff2380c4b08448a0b169ff?utm_campaign=1058&utm_source=git)** | MANHATTAN | On Site | May 09 |
 | **[KPH HEALTHCARE SERVICES, INC](https://www.kphhealthcareservices.com/en/)** | **[Pharmacy Intern P1](https://jobright.ai/jobs/info/6932b97df131d96e4845dc15?utm_campaign=1058&utm_source=git)** | Seneca Falls, NY | On Site | May 09 |
 | **[UICGS / Bowhead Family of Companies](http://www.bowhead.com)** | **[General Clerk III](https://jobright.ai/jobs/info/69e2793bfcfcbd43860a318c?utm_campaign=1058&utm_source=git)** | Chaparral, NM | On Site | May 09 |
 | **[Crown Equipment Corporation](https://303crownmaids.com/)** | **[Service Technician Intern](https://jobright.ai/jobs/info/69e14f92d612782e61147fb7?utm_campaign=1058&utm_source=git)** | Schaumburg, IL | On Site | May 09 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[UPMC](https://www.upmc.com/)** | **[Audiologist Intern-Hanover](https://jobright.ai/jobs/info/69ccac72cdb525785fb8135e?utm_campaign=1058&utm_source=git)** | Hanover, PA | On Site | May 08 |
 | **[DSV - Global Transport and Logistics](http://www.dsv.com)** | **[Intern, Warehouse, Road Transport US](https://jobright.ai/jobs/info/69aa43922ebd316bece20750?utm_campaign=1058&utm_source=git)** | Lancaster, TX | On Site | May 08 |
 | **[IDEX Corporation](http://www.idexcorp.com)** | **[Technical Writing Internship](https://jobright.ai/jobs/info/69feb2981161630dd3b01a79?utm_campaign=1058&utm_source=git)** | Longwood, Florida, US | Hybrid | May 08 |
-| **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[Intern, Technical Support (R&D Engineer)](https://jobright.ai/jobs/info/69e15e7fff71e82d604b68e5?utm_campaign=1058&utm_source=git)** | Lincoln, NE | On Site | May 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
