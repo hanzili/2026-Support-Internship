@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Capital Oral & Facial Surgery Center](http://www.docvlee.com/)** | **[Internship - Patient Access & Performance Analytics](https://jobright.ai/jobs/info/6a027a1bfa1aa73213d9a6be?utm_campaign=1058&utm_source=git)** | Corporate: 12770 Merit Dr. Suite 800 Dallas, TX 75251, Dallas, TX | On Site | May 11 |
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[High School Student Intern 2027 - Orlando, Florida](https://jobright.ai/jobs/info/6a027537c2ffb31f4536d552?utm_campaign=1058&utm_source=git)** | Florida | On Site | May 11 |
 | **[Cloudify Fast Solutions](https://cloudifyfast.com/)** | **[IT Intern (MS 365 & Cloud Support)](https://jobright.ai/jobs/info/6a02711a3053db70a1177e50?utm_campaign=1058&utm_source=git)** | DC-Baltimore Area | Hybrid | May 11 |
 | **[Definity](https://www.definityfinancial.com/)** | **[Digital Contact Center (Personal Insurance) - Fall 2026 - Co-op/Intern](https://jobright.ai/jobs/info/6a025e71fa1aa73213d99e2b?utm_campaign=1058&utm_source=git)** | Toronto, ONT, Canada | Hybrid | May 11 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Middleby Marshall](https://www.middlebymarshall.com)** | **[IT Internship](https://jobright.ai/jobs/info/6a0267ad238f143e83533d50?utm_campaign=1058&utm_source=git)** | Elgin, IL | Hybrid | May 09 |
 | **[UPMC](https://www.upmc.com/)** | **[Pharmacy Intern, Chartwell](https://jobright.ai/jobs/info/693a905c383bf9631983aaa4?utm_campaign=1058&utm_source=git)** | Oakdale, PA | On Site | May 09 |
 | **[Hannaford Supermarkets](https://www.hannaford.com/)** | **[P4 Rx Intern ($26/ hr)](https://jobright.ai/jobs/info/69c678601b5ad02887384b98?utm_campaign=1058&utm_source=git)** | Auburn, ME | On Site | May 09 |
-| **[Ascension](https://healthcare.ascension.org)** | **[Respiratory Therapy Intern](https://jobright.ai/jobs/info/69c5c67483ea553769fcf89c?utm_campaign=1058&utm_source=git)** | Kokomo, IN | On Site | May 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
