@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ATC](http://atcdrivetrain.com)** | **[IT Applications Intern](https://jobright.ai/jobs/info/6a0355e8ed6a637463f4ed88?utm_campaign=1058&utm_source=git)** | Farmington Hills, MI | Hybrid | May 12 |
+| **[CPPI](https://cppi.com/)** | **[IT Intern (Gainesville)](https://jobright.ai/jobs/info/6a035554f3d6cc51d637590f?utm_campaign=1058&utm_source=git)** | Gainesville, FL | On Site | May 12 |
+| **[Data Device Corporation](https://www.ddc-web.com/en/power/powersupplies)** | **[IT Intern](https://jobright.ai/jobs/info/6a0354696c07461fe1702d69?utm_campaign=1058&utm_source=git)** | Bohemia, NY | On Site | May 12 |
+| **[InterWorks](http://www.interworks.com)** | **[IT Intern](https://jobright.ai/jobs/info/68596a3df7e1d7c7ec214cfc?utm_campaign=1058&utm_source=git)** | Stillwater, Oklahoma, United States | On Site | May 12 |
+| **[NYC Department of Health and Mental Hygiene](https://www.nyc.gov/site/doh/index.page)** | **[IT OPS Intern](https://jobright.ai/jobs/info/6a035047f3d6cc51d63755f4?utm_campaign=1058&utm_source=git)** | NYC-ALL BOROS | On Site | May 12 |
+| **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a034fd622395b6dc6d9320a?utm_campaign=1058&utm_source=git)** | Vails Gate, NY | On Site | May 12 |
+| **[Richland County Government](https://www.richlandcountysc.gov)** | **[Intern](https://jobright.ai/jobs/info/6a034a1e7c753c287f6e58ea?utm_campaign=1058&utm_source=git)** | Judicial Center, US | On Site | May 12 |
 | **[New York City Department of Consumer and Worker Protection](http://www.nyc.gov/dcwp)** | **[IT OPS Intern](https://jobright.ai/jobs/info/6a03495a7c753c287f6e5877?utm_campaign=1058&utm_source=git)** | Manhattan, NY | On Site | May 12 |
 | **[ofi](https://www.ofi.com)** | **[Summer 2026 Intern: Customer Service Operations Strategy](https://jobright.ai/jobs/info/6a03493cbc4184089f230fb1?utm_campaign=1058&utm_source=git)** | Oxnard, CA | On Site | May 12 |
 | **[Sulzer](http://www.sulzer.com)** | **[Intern Information Technology](https://jobright.ai/jobs/info/69e6c0d43cfd986aa6f8770c?utm_campaign=1058&utm_source=git)** | La Porte, TX | On Site | May 12 |
@@ -65,7 +72,7 @@ For a complete list, click the following sortable link below:
 | **[Rightworks](https://www.rightworks.com/)** | **[IT Services Intern](https://jobright.ai/jobs/info/69cd8e1b54f00230c6cf3ab5?utm_campaign=1058&utm_source=git)** | Nashua, NH | On Site | May 12 |
 | **[Alta Equipment Company](https://www.altaequipment.com/)** | **[Warehouse Intern - Part Time](https://jobright.ai/jobs/info/6a0340e922395b6dc6d92c04?utm_campaign=1058&utm_source=git)** | Batavia, NY 14020, USA | On Site | May 12 |
 | **[Arclin](http://arclin.com)** | **[Corporate Intern](https://jobright.ai/jobs/info/6a033eceed6a637463f4e1e2?utm_campaign=1058&utm_source=git)** | Alpharetta, Georgia, United States | On Site | May 12 |
-| **[BMO](http://www.bmo.com)** | **[Junior Salesforce Administrator, Fall 2026 (Co-op/Internship) - 12 months](https://jobright.ai/jobs/info/6a033ecdbc4184089f230925?utm_campaign=1058&utm_source=git)** | Toronto, ON, CAN, CA | On Site | May 12 |
+| **[BMO](http://www.bmo.com)** | **[Junior Salesforce Administrator, Fall 2026 (Co-op/Internship) - 12 months](https://jobright.ai/jobs/info/6a033ecdbc4184089f230924?utm_campaign=1058&utm_source=git)** | Toronto, ON, CAN, CA | On Site | May 12 |
 | **[Agrace](https://www.agrace.org/)** | **[Health Info Mgmt Specialist (HIM) - Summer Intern](https://jobright.ai/jobs/info/6a033de5ed6a637463f4dfcb?utm_campaign=1058&utm_source=git)** | Madison, WI - Madison, WI 53711 | On Site | May 12 |
 | **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/6a033cb76c07461fe1701e6a?utm_campaign=1058&utm_source=git)** | 3001 ELDORADO PKWY,MCKINNEY,TX,75070-04207-04663-S | On Site | May 12 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a033cb66c07461fe1701e69?utm_campaign=1058&utm_source=git)** | 500 E STACY RD,ALLEN,TX,75002 | On Site | May 12 |
@@ -119,7 +126,6 @@ For a complete list, click the following sortable link below:
 | **[Mitsubishi Power Americas](https://power.mhi.com/regions/amer/)** | **[Document Control Intern](https://jobright.ai/jobs/info/6a030bd9bc4184089f22e5e0?utm_campaign=1058&utm_source=git)** | Pooler, GA | On Site | May 11 |
 | **[Videotron](http://videotron.com)** | **[Stagiaire - Soutien informatique](https://jobright.ai/jobs/info/6a0311916c07461fe17005a2?utm_campaign=1058&utm_source=git)** | Montreal, Quebec, Canada | Remote | May 11 |
 | **[Texas Department of Transportation](https://www.txdot.gov)** | **[ROW Administration and Technical Support Intern](https://jobright.ai/jobs/info/6a030bab22395b6dc6d90597?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | May 11 |
-| **[Ogletree Deakins](http://www.ogletreedeakins.com)** | **[Summer Intern](https://jobright.ai/jobs/info/6a030c3122395b6dc6d9084a?utm_campaign=1058&utm_source=git)** | Kansas City, MO | On Site | May 11 |
 | **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[Intern, Business Support](https://jobright.ai/jobs/info/6a02313ec4b08448a0b23e2a?utm_campaign=1058&utm_source=git)** | Springboro, OH, US | On Site | May 11 |
 | **[Hotel Zephyr Fisherman's Wharf, San Francisco](https://www.hotelzephyrsf.com/)** | **[J1 Intern - Front Desk](https://jobright.ai/jobs/info/6a023133238f143e8353182e?utm_campaign=1058&utm_source=git)** | US-IL-Chicago | On Site | May 11 |
 | **[Davidson Hospitality Group](https://davidsonhospitality.com/)** | **[J1 Intern - Front Desk](https://jobright.ai/jobs/info/6a023114c4b08448a0b23e10?utm_campaign=1058&utm_source=git)** | US-IL-Chicago | On Site | May 11 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Justrite Safety Group](https://www.justrite.com)** | **[IT Support Analyst Intern](https://jobright.ai/jobs/info/69ca82caaa3c2c1995e2d632?utm_campaign=1058&utm_source=git)** | Brooksville, FL | On Site | May 11 |
 | ↳ | **[IT Support Analyst Intern](https://jobright.ai/jobs/info/69ca843d8fc6090c5d44e55f?utm_campaign=1058&utm_source=git)** | Deerfield, IL | On Site | May 11 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/6a01f6cedf52f1450d846685?utm_campaign=1058&utm_source=git)** | 8100 E BROAD ST, Reynoldsburg, Ohio,United States | On Site | May 11 |
-| **[Nokia](http://www.nokia.com)** | **[Customer Technical Support Co-op/Intern](https://jobright.ai/jobs/info/6a01f4e0c4b08448a0b21c72?utm_campaign=1058&utm_source=git)** | Canada | Remote | May 11 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/6a01f427238f143e8352f5e8?utm_campaign=1058&utm_source=git)** | 1220 N. COMMERCE ST., Ardmore, Oklahoma,United States | On Site | May 11 |
-| **[CommuniCare](https://www.communicaresa.org/)** | **[Student Internship (SI2603 - NIC)](https://jobright.ai/jobs/info/6a01f3cc3053db70a11735dd?utm_campaign=1058&utm_source=git)** | San Antonio, Texas, United States | On Site | May 11 |
-| **[OCHIN, Inc.](https://ochin.org)** | **[HCAI - HEALTH INFORMATION AND ELECTRONIC RECORDS ANALYST TRAINING PROGRAM (EHR SUPPORT INTERNSHIP)](https://jobright.ai/jobs/info/6a01f1623053db70a11735aa?utm_campaign=1058&utm_source=git)** | Remote N/A | Remote | May 11 |
-| ↳ | **[HCAI - HEALTH INFORMATION AND ELECTRONIC RECORDS ANALYST TRAINING PROGRAM (EHR SUPPORT INTERNSHIP)](https://jobright.ai/jobs/info/6a01f15b3053db70a11735a9?utm_campaign=1058&utm_source=git)** | Fully Remote | Remote | May 11 |
-| **[AbelCine](http://abelcine.com)** | **[IT Internship - New York - Summer 2026](https://jobright.ai/jobs/info/6a02f5237c753c287f6e205e?utm_campaign=1058&utm_source=git)** | Brooklyn, NY | On Site | May 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
