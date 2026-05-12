@@ -79,6 +79,7 @@ For a complete list, click the following sortable link below:
 | **[Hotel Zephyr Fisherman's Wharf, San Francisco](https://www.hotelzephyrsf.com/)** | **[J1 Intern - Front Desk](https://jobright.ai/jobs/info/6a023045fa1aa73213d97af3?utm_campaign=1058&utm_source=git)** | Chicago, IL, US | On Site | May 11 |
 | **[Davidson Hospitality Group](https://davidsonhospitality.com/)** | **[J1 Intern - Front Desk](https://jobright.ai/jobs/info/6a022f9cdf52f1450d8484c0?utm_campaign=1058&utm_source=git)** | Chicago, IL, US | On Site | May 11 |
 | **[BAE Systems](http://www.baesystems.com)** | **[NonTechnical Intern 4](https://jobright.ai/jobs/info/6a0226443053db70a1174c67?utm_campaign=1058&utm_source=git)** | Radford Virginia | On Site | May 11 |
+| **[American Battery Solutions Inc.](https://www.americanbatterysolutions.com/)** | **[IT Co-op](https://jobright.ai/jobs/info/69bd9ede4828227293ffd849?utm_campaign=1058&utm_source=git)** | Springboro, OH | On Site | May 11 |
 | **[Armada](https://www.armada.ai)** | **[IT Support Intern (Unpaid)](https://jobright.ai/jobs/info/69fba9d4ffa73664aeb01940?utm_campaign=1058&utm_source=git)** | Bellevue Office, Sunset Corporate Campus | On Site | May 11 |
 | **[Hype Events](hypevents.ca)** | **[Client Services Internship](https://jobright.ai/jobs/info/6a021e62238f143e835307e5?utm_campaign=1058&utm_source=git)** | Greater Toronto Area, Canada | On Site | May 11 |
 | **[Sunbird Software](http://sunbirddcim.com/)** | **[Technical Support Analyst Intern](https://jobright.ai/jobs/info/6a021b93c2ffb31f45369a26?utm_campaign=1058&utm_source=git)** | Sioux Falls, SD | On Site | May 11 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[RemoteHunter](https://remotehunter.com/)** | **[Technology Support Intern](https://jobright.ai/jobs/info/69ffb3dac2ffb31f45360308?utm_campaign=1058&utm_source=git)** | Los Angeles, CA, US | On Site | May 09 |
 | **[New Jersey Courts](https://www.njcourts.gov/)** | **[Paid Intern](https://jobright.ai/jobs/info/6a026bdafa1aa73213d9a051?utm_campaign=1058&utm_source=git)** | Paterson, NJ | On Site | May 09 |
 | **[Aimbridge Hospitality](http://www.aimbridgehospitality.com/)** | **[Wyndham Grand Pittsburgh Downtown - Hospitality Management Intern](https://jobright.ai/jobs/info/69c682b2e565c26a70020e42?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | On Site | May 09 |
-| **[Houchens Insurance Group](https://www.higusa.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/69c47c0933eecf310794d30a?utm_campaign=1058&utm_source=git)** | Bowling Green, KY | On Site | May 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
