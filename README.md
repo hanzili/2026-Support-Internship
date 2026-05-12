@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Definity](https://www.definityfinancial.com/)** | **[Digital Contact Center (Personal Insurance) - Fall 2026 - Co-op/Intern](https://jobright.ai/jobs/info/6a025e71fa1aa73213d99e2b?utm_campaign=1058&utm_source=git)** | Toronto, ONT, Canada | Hybrid | May 11 |
 | **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a025cd1c4b08448a0b25f5c?utm_campaign=1058&utm_source=git)** | 131 VALLEY MILL RD,WINCHESTER,VA,22602-06252-12802-S | On Site | May 11 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a025bfdc4b08448a0b25dc4?utm_campaign=1058&utm_source=git)** | 105 HIGHWAY 51 N,BATESVILLE,MS,38606-02351-11289-S | On Site | May 11 |
 | **[Cavender's](https://www.cavenders.com/)** | **[IT Intern](https://jobright.ai/jobs/info/6a024f59238f143e8353303f?utm_campaign=1058&utm_source=git)** | Tyler, TX 75703, USA | On Site | May 11 |
@@ -147,6 +148,7 @@ For a complete list, click the following sortable link below:
 | **[RemoteHunter](https://remotehunter.com/)** | **[Technology Support Intern](https://jobright.ai/jobs/info/69ffb3dac2ffb31f45360308?utm_campaign=1058&utm_source=git)** | Los Angeles, CA, US | On Site | May 09 |
 | **[Houchens Insurance Group](https://www.higusa.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/69c47c0933eecf310794d30a?utm_campaign=1058&utm_source=git)** | Bowling Green, KY | On Site | May 09 |
 | **[Children's Wisconsin](https://childrenswi.org/)** | **[Grateful Family and System Liaison Intern](https://jobright.ai/jobs/info/69fc21842f9f6b7cf69114f7?utm_campaign=1058&utm_source=git)** | Milwaukee, WI | On Site | May 09 |
+| **[Middleby Marshall](https://www.middlebymarshall.com)** | **[IT Internship](https://jobright.ai/jobs/info/6a0267ad238f143e83533d50?utm_campaign=1058&utm_source=git)** | Elgin, IL | Hybrid | May 09 |
 | **[UPMC](https://www.upmc.com/)** | **[Pharmacy Intern, Chartwell](https://jobright.ai/jobs/info/693a905c383bf9631983aaa4?utm_campaign=1058&utm_source=git)** | Oakdale, PA | On Site | May 09 |
 | **[Hannaford Supermarkets](https://www.hannaford.com/)** | **[P4 Rx Intern ($26/ hr)](https://jobright.ai/jobs/info/69c678601b5ad02887384b98?utm_campaign=1058&utm_source=git)** | Auburn, ME | On Site | May 09 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Respiratory Therapy Intern](https://jobright.ai/jobs/info/69c5c67483ea553769fcf89c?utm_campaign=1058&utm_source=git)** | Kokomo, IN | On Site | May 09 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[New College of Florida](https://www.ncf.edu/)** | **[Student Assistant, Intern, IT](https://jobright.ai/jobs/info/69e7e494f8fa2f3ec32aa38e?utm_campaign=1058&utm_source=git)** | Sarasota, FL | On Site | May 09 |
 | **[Hannaford Supermarkets](https://www.hannaford.com/)** | **[P4 Rx Intern ($26/ hr)](https://jobright.ai/jobs/info/69c678611b5ad02887384b99?utm_campaign=1058&utm_source=git)** | Farmington, ME | On Site | May 09 |
 | **[Prosperity Life](https://prosperitylife.com)** | **[Enterprise Applications Intern](https://jobright.ai/jobs/info/69c6de211b5ad02887387abb?utm_campaign=1058&utm_source=git)** | Austin, TX | Hybrid | May 09 |
-| **[Hendrickson](http://www.hendrickson-intl.com/Home.aspx)** | **[IT Applications Intern (Summer 2026)](https://jobright.ai/jobs/info/69d1d1440b098b7a67084966?utm_campaign=1058&utm_source=git)** | Canton, OH | On Site | May 09 |
-| **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69ff48c9c4b08448a0b17910?utm_campaign=1058&utm_source=git)** | 617 HIGHLAND ST,MOUNT HOLLY,NC,28120 | On Site | May 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
