@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Capitol Imaging Services](https://capitolimagingservices.com)** | **[Intern (49956)](https://jobright.ai/jobs/info/6a0375edbc4184089f2329fa?utm_campaign=1058&utm_source=git)** | CIS Houston Corporate - Houston, TX 77024 | On Site | May 12 |
+| **[Xometry](https://www.xometry.com)** | **[Customer Support Intern](https://jobright.ai/jobs/info/695dc344efe5dd5cbd3d9d49?utm_campaign=1058&utm_source=git)** | Lexington, KY | Hybrid | May 12 |
+| **[The Social Hub (B Corp™)](https://www.thesocialhub.co/)** | **[Service Communications Intern](https://jobright.ai/jobs/info/69f0df43b27fee43e8cd5e02?utm_campaign=1058&utm_source=git)** | NL-Hub | On Site | May 12 |
+| **[New York City Department of Consumer and Worker Protection](http://www.nyc.gov/dcwp)** | **[IT OPS Intern](https://jobright.ai/jobs/info/6a036af26c07461fe17038fb?utm_campaign=1058&utm_source=git)** | NYC Metro Area | On Site | May 12 |
+| **[Jacobs](http://www.jacobs.com)** | **[Equipment and Field Support Intern – Summer 2026 Calgary (AB)](https://jobright.ai/jobs/info/6a0369cabc4184089f2320a6?utm_campaign=1058&utm_source=git)** | Calgary, Alberta, Canada | Hybrid | May 12 |
 | **[Trane Technologies](https://www.tranetechnologies.com)** | **[IT Operational Execution Intern](https://jobright.ai/jobs/info/6a036036ed6a637463f4f530?utm_campaign=1058&utm_source=git)** | La Crosse, Wisconsin, United States of America | Hybrid | May 12 |
 | **[Heart City Health](https://www.heartcityhealth.org)** | **[Front Desk Assistant - Intern](https://jobright.ai/jobs/info/6a035f05f3d6cc51d637609b?utm_campaign=1058&utm_source=git)** | Elkhart, IN, US | On Site | May 12 |
 | ↳ | **[Referral Assistant - Intern](https://jobright.ai/jobs/info/6a035ef522395b6dc6d93e76?utm_campaign=1058&utm_source=git)** | Elkhart, IN, US | On Site | May 12 |
@@ -115,6 +120,7 @@ For a complete list, click the following sortable link below:
 | **[Huntington Technology](https://huntingtontechnology.com)** | **[Entry Level Service Team Triage or Internship](https://jobright.ai/jobs/info/6a028ed4f3d6cc51d636eec1?utm_campaign=1058&utm_source=git)** | Bingham Farms, MI, US | On Site | May 11 |
 | **[Capital Oral & Facial Surgery Center](http://www.docvlee.com/)** | **[Internship - Patient Access & Performance Analytics](https://jobright.ai/jobs/info/6a027a1bfa1aa73213d9a6be?utm_campaign=1058&utm_source=git)** | Corporate: 12770 Merit Dr. Suite 800 Dallas, TX 75251, Dallas, TX | On Site | May 11 |
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[High School Student Intern 2027 - Orlando, Florida](https://jobright.ai/jobs/info/6a027537c2ffb31f4536d552?utm_campaign=1058&utm_source=git)** | Florida | On Site | May 11 |
+| **[Data Device Corporation](https://www.ddc-web.com/en/power/powersupplies)** | **[IT Intern](https://jobright.ai/jobs/info/6a0369e0bc4184089f2320d5?utm_campaign=1058&utm_source=git)** | Bohemia, NY | On Site | May 11 |
 | **[NAVWAR](https://www.navwar.navy.mil/)** | **[STUDENT INTERN (INFORMATION TECHNOLOGY)](https://jobright.ai/jobs/info/6a0329dd22395b6dc6d91938?utm_campaign=1058&utm_source=git)** | Town Center, MD | On Site | May 11 |
 | **[Definity](https://www.definityfinancial.com/)** | **[Digital Contact Center (Personal Insurance) - Fall 2026 - Co-op/Intern](https://jobright.ai/jobs/info/6a025e71fa1aa73213d99e2b?utm_campaign=1058&utm_source=git)** | Toronto, ONT, Canada | Hybrid | May 11 |
 | **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a025cd1c4b08448a0b25f5c?utm_campaign=1058&utm_source=git)** | 131 VALLEY MILL RD,WINCHESTER,VA,22602-06252-12802-S | On Site | May 11 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sunbird Software](http://sunbirddcim.com/)** | **[Technical Support Analyst Intern](https://jobright.ai/jobs/info/6a021b93c2ffb31f45369a26?utm_campaign=1058&utm_source=git)** | Sioux Falls, SD | On Site | May 11 |
 | **[Packaging Corporation of America](http://packagingcorp.com)** | **[2026 Fall Information Systems Intern/Co-Op](https://jobright.ai/jobs/info/698fe0406ea51a7610f245a0?utm_campaign=1058&utm_source=git)** | De Ridder, LA | On Site | May 11 |
 | **[AARP](http://www.aarp.org)** | **[Library and Research Intern (Graduate Student)](https://jobright.ai/jobs/info/6a02fc6d6c07461fe16ff036?utm_campaign=1058&utm_source=git)** | Washington, DC | Hybrid | May 11 |
-| **[CRH](http://crh.com)** | **[Sales Support Intern](https://jobright.ai/jobs/info/6a030396f3d6cc51d6372592?utm_campaign=1058&utm_source=git)** | Atlanta, GA | Remote | May 11 |
-| **[Herc Rentals](http://www.HercRentals.com)** | **[ProSales Intern (Gainesville, VA)](https://jobright.ai/jobs/info/6a03039ff3d6cc51d63725b9?utm_campaign=1058&utm_source=git)** | Gainesville, VA | On Site | May 11 |
-| **[City of Olathe](https://www.olatheks.org/)** | **[IT Service Desk Intern](https://jobright.ai/jobs/info/6a0213e1df52f1450d84734f?utm_campaign=1058&utm_source=git)** | Renner Building, US | On Site | May 11 |
-| **[OCHIN, Inc.](https://ochin.org)** | **[HCAI - HEALTH INFORMATION AND ELECTRONIC RECORDS ANALYST TRAINING PROGRAM (EHR SUPPORT INTERNSHIP)](https://jobright.ai/jobs/info/6a0303aef3d6cc51d63725fe?utm_campaign=1058&utm_source=git)** | California, United States | Remote | May 11 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/6a02120dc4b08448a0b22920?utm_campaign=1058&utm_source=git)** | 760 MILES RD., West Chester, Pennsylvania,United States | On Site | May 11 |
-| ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/6a02119efa1aa73213d96762?utm_campaign=1058&utm_source=git)** | 1021 NECK ROAD, Burlington Township, New Jersey,United States | On Site | May 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
