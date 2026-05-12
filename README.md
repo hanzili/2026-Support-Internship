@@ -57,9 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Agrace](https://www.agrace.org/)** | **[Health Info Mgmt Specialist (HIM) - Summer Intern](https://jobright.ai/jobs/info/6a033de5ed6a637463f4dfcb?utm_campaign=1058&utm_source=git)** | Madison, WI - Madison, WI 53711 | On Site | May 12 |
+| **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/6a033cb76c07461fe1701e6a?utm_campaign=1058&utm_source=git)** | 3001 ELDORADO PKWY,MCKINNEY,TX,75070-04207-04663-S | On Site | May 12 |
+| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a033cb66c07461fe1701e69?utm_campaign=1058&utm_source=git)** | 500 E STACY RD,ALLEN,TX,75002 | On Site | May 12 |
 | **[CPPI](https://cppi.com/)** | **[IT Intern (Gainesville)](https://jobright.ai/jobs/info/6a03213a22395b6dc6d91728?utm_campaign=1058&utm_source=git)** | Gainesville, Florida, United States | On Site | May 12 |
+| **[BlinkRx](https://blinkhealth.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69e67ba87820c036924d0abc?utm_campaign=1058&utm_source=git)** | Chesterfield, MO | On Site | May 12 |
+| **[Huntington Technology](https://huntingtontechnology.com)** | **[Entry Level Service Team Triage or Internship](https://jobright.ai/jobs/info/6a03386ced6a637463f4d9ab?utm_campaign=1058&utm_source=git)** | Franklin, MI | On Site | May 12 |
 | **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/6a030620f3d6cc51d63727ad?utm_campaign=1058&utm_source=git)** | 10951 S JOG RD,BOYNTON BEACH,FL,33437 | On Site | May 12 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a0305ff7c753c287f6e2b51?utm_campaign=1058&utm_source=git)** | 2417 SYCAMORE DR,SIMI VALLEY,CA,93065 | On Site | May 12 |
+| **[GXA](https://gxait.com/)** | **[Provisioning Technician (Intern)](https://jobright.ai/jobs/info/6a0338167c753c287f6e4c2a?utm_campaign=1058&utm_source=git)** | Richardson, TX | On Site | May 12 |
+| **[Datadog](https://www.datadoghq.com)** | **[IT Support Technician Intern](https://jobright.ai/jobs/info/69e6c6e77820c036924d2382?utm_campaign=1058&utm_source=git)** | Boston, MA | On Site | May 12 |
 | **[Guthrie](http://www.guthrie.org)** | **[Pharmacy Intern - Retail Pharmacy - Per Diem](https://jobright.ai/jobs/info/69e687df7820c036924d0fa5?utm_campaign=1058&utm_source=git)** | Vestal, NY | On Site | May 12 |
 | **[Egan Company](https://www.eganco.com/)** | **[IT Systems and Support Intern - Summer 2026](https://jobright.ai/jobs/info/69f21cd18d8d624381a9f45e?utm_campaign=1058&utm_source=git)** | Champlin, MN | On Site | May 12 |
 | **[Advanced Electric Systems](https://advancedelectricsystems.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/6a02eb8c22395b6dc6d8f50f?utm_campaign=1058&utm_source=git)** | Birmingham, AL, US | On Site | May 12 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Contracted Student Intern - Clinical Professional Services](https://jobright.ai/jobs/info/6a01ea613053db70a11732e8?utm_campaign=1058&utm_source=git)** | United States-Massachusetts-Boston-25 Staniford Street | On Site | May 11 |
 | **[Vera French Community Mental Health Center](https://www.verafrenchmhc.org)** | **[Information Technology (IT) Support Internship](https://jobright.ai/jobs/info/6a01e9a0fa1aa73213d955d2?utm_campaign=1058&utm_source=git)** | Davenport, IA 52804, USA | On Site | May 11 |
 | **[Texas Department of Transportation](https://www.txdot.gov)** | **[Year-Round Intern Support Technician - STR Division - Austin, TX](https://jobright.ai/jobs/info/6a02ec4d7c753c287f6e1e86?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | May 11 |
-| **[Yale University](https://www.yale.edu)** | **[Non-Yale Student Intern, Paid](https://jobright.ai/jobs/info/6a01dca9fa1aa73213d948f2?utm_campaign=1058&utm_source=git)** | College St, 135 (127-153), US | On Site | May 11 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/6a01db62fa1aa73213d9482d?utm_campaign=1058&utm_source=git)** | 5184 STOCKDALE HWY., Bakersfield, California,United States | On Site | May 11 |
-| ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/6a0329f57c753c287f6e4243?utm_campaign=1058&utm_source=git)** | Charleston, SC | On Site | May 11 |
-| ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/6a01d725df52f1450d84533d?utm_campaign=1058&utm_source=git)** | 1749 W. WALNUT ST., Rogers, Arkansas,United States | On Site | May 11 |
-| **[Methodist Le Bonheur Healthcare](https://www.methodisthealth.org/)** | **[Pharmacy Intern - PRN - University Hospital](https://jobright.ai/jobs/info/68c86b9495f5211cd2ce4db9?utm_campaign=1058&utm_source=git)** | Memphis, TN | On Site | May 11 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/6a02e4246c07461fe16fe7a9?utm_campaign=1058&utm_source=git)** | Wilkes-Barre, PA | On Site | May 11 |
-| ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/6a02e3aef3d6cc51d6371560?utm_campaign=1058&utm_source=git)** | Lindale, TX | On Site | May 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
