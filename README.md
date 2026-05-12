@@ -57,11 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[UW Credit Union](http://uwcu.org/)** | **[IT Infrastructure Intern](https://jobright.ai/jobs/info/6a0395bc8ecfd93cd9c0ff30?utm_campaign=1058&utm_source=git)** | Madison, WI | Hybrid | May 12 |
+| **[Borusan Pipe US](https://www.borusanpipeusa.com/)** | **[IT Intern](https://jobright.ai/jobs/info/6a0393a5bc4184089f233f5a?utm_campaign=1058&utm_source=git)** | Baytown, Texas, United States | On Site | May 12 |
+| **[Kansas City Board of Public Utilities (BPU)](https://www.bpu.com/)** | **[Intern - Customer Care](https://jobright.ai/jobs/info/6a0392328ecfd93cd9c0fc91?utm_campaign=1058&utm_source=git)** | Kansas City, KS | On Site | May 12 |
+| **[IPG Photonics](http://www.ipgphotonics.com)** | **[IT Intern](https://jobright.ai/jobs/info/6a0392296c07461fe170590a?utm_campaign=1058&utm_source=git)** | Oxford, MA, 01540, United States | On Site | May 12 |
+| **[Capitol Imaging Services](https://capitolimagingservices.com)** | **[Intern (49957)](https://jobright.ai/jobs/info/6a039208f3d6cc51d63782ba?utm_campaign=1058&utm_source=git)** | CIS Houston Corporate - Houston, TX 77024 | On Site | May 12 |
+| **[Lee's Air, Plumbing, Heating, & Roofing](http://www.leesair.com/)** | **[Customer Care Summer Internship](https://jobright.ai/jobs/info/6a039176f3d6cc51d6378228?utm_campaign=1058&utm_source=git)** | Fresno, CA | On Site | May 12 |
 | **[Quanex](http://www.quanex.com/)** | **[Technical Writer Intern](https://jobright.ai/jobs/info/6a038ece7c753c287f6e84ac?utm_campaign=1058&utm_source=git)** | Rice Lake, Wisconsin, United States | On Site | May 12 |
 | **[Parkview Health](http://www.parkview.com)** | **[IT Service Management (ITSM) Non-Clinical Intern](https://jobright.ai/jobs/info/6a038956f3d6cc51d63778cf?utm_campaign=1058&utm_source=git)** | Greater Fort Wayne | On Site | May 12 |
 | **[The Marine Mammal Center](https://www.marinemammalcenter.org/)** | **[Response Dispatch Intern](https://jobright.ai/jobs/info/6a037d046c07461fe1704651?utm_campaign=1058&utm_source=git)** | Sausalito,CA,US | On Site | May 12 |
-| **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[IT Support Desk Intern- Fall 2026](https://jobright.ai/jobs/info/6a037afebc4184089f232dbd?utm_campaign=1058&utm_source=git)** | US-FL-Tampa | On Site | May 12 |
-| ↳ | **[IT Support Desk Intern- Fall 2026](https://jobright.ai/jobs/info/6a037afebc4184089f232dbc?utm_campaign=1058&utm_source=git)** | Tampa, FL, US | On Site | May 12 |
+| **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[IT Support Desk Intern- Fall 2026](https://jobright.ai/jobs/info/6a037afebc4184089f232dbc?utm_campaign=1058&utm_source=git)** | Tampa, FL, US | On Site | May 12 |
+| ↳ | **[IT Support Desk Intern- Fall 2026](https://jobright.ai/jobs/info/6a037afebc4184089f232dbd?utm_campaign=1058&utm_source=git)** | US-FL-Tampa | On Site | May 12 |
 | **[The Energy Authority](https://www3.teainc.org)** | **[Trading Intern, West](https://jobright.ai/jobs/info/6a0377c26c07461fe17043b3?utm_campaign=1058&utm_source=git)** | Washington, Bellevue, WA, US | On Site | May 12 |
 | **[VelocityEHS](https://www.ehs.com/)** | **[Customer Experience Intern (Fall 2026)](https://jobright.ai/jobs/info/6a0377946c07461fe17043a4?utm_campaign=1058&utm_source=git)** | Canada | Remote | May 12 |
 | ↳ | **[Customer Experience Intern (Fall 2026)](https://jobright.ai/jobs/info/6a0377936c07461fe17043a3?utm_campaign=1058&utm_source=git)** | United States | Remote | May 12 |
@@ -104,7 +110,7 @@ For a complete list, click the following sortable link below:
 | **[Rightworks](https://www.rightworks.com/)** | **[IT Services Intern](https://jobright.ai/jobs/info/69cd8e1b54f00230c6cf3ab5?utm_campaign=1058&utm_source=git)** | Nashua, NH | On Site | May 12 |
 | **[Alta Equipment Company](https://www.altaequipment.com/)** | **[Warehouse Intern - Part Time](https://jobright.ai/jobs/info/6a0340e922395b6dc6d92c04?utm_campaign=1058&utm_source=git)** | Batavia, NY 14020, USA | On Site | May 12 |
 | **[Arclin](http://arclin.com)** | **[Corporate Intern](https://jobright.ai/jobs/info/6a033eceed6a637463f4e1e2?utm_campaign=1058&utm_source=git)** | Alpharetta, Georgia, United States | On Site | May 12 |
-| **[BMO](http://www.bmo.com)** | **[Junior Salesforce Administrator, Fall 2026 (Co-op/Internship) - 12 months](https://jobright.ai/jobs/info/6a033ecdbc4184089f230925?utm_campaign=1058&utm_source=git)** | Toronto, ON, CAN, CA | On Site | May 12 |
+| **[BMO](http://www.bmo.com)** | **[Junior Salesforce Administrator, Fall 2026 (Co-op/Internship) - 12 months](https://jobright.ai/jobs/info/6a033ecdbc4184089f230924?utm_campaign=1058&utm_source=git)** | Toronto, ON, CAN, CA | On Site | May 12 |
 | **[Agrace](https://www.agrace.org/)** | **[Health Info Mgmt Specialist (HIM) - Summer Intern](https://jobright.ai/jobs/info/6a033de5ed6a637463f4dfcb?utm_campaign=1058&utm_source=git)** | Madison, WI - Madison, WI 53711 | On Site | May 12 |
 | **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/6a033cb76c07461fe1701e6a?utm_campaign=1058&utm_source=git)** | 3001 ELDORADO PKWY,MCKINNEY,TX,75070-04207-04663-S | On Site | May 12 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a033cb66c07461fe1701e69?utm_campaign=1058&utm_source=git)** | 500 E STACY RD,ALLEN,TX,75002 | On Site | May 12 |
@@ -136,6 +142,7 @@ For a complete list, click the following sortable link below:
 | **[Huntington Technology](https://huntingtontechnology.com)** | **[Entry Level Service Team Triage or Internship](https://jobright.ai/jobs/info/6a028ed4f3d6cc51d636eec1?utm_campaign=1058&utm_source=git)** | Bingham Farms, MI, US | On Site | May 11 |
 | **[Capital Oral & Facial Surgery Center](http://www.docvlee.com/)** | **[Internship - Patient Access & Performance Analytics](https://jobright.ai/jobs/info/6a027a1bfa1aa73213d9a6be?utm_campaign=1058&utm_source=git)** | Corporate: 12770 Merit Dr. Suite 800 Dallas, TX 75251, Dallas, TX | On Site | May 11 |
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[High School Student Intern 2027 - Orlando, Florida](https://jobright.ai/jobs/info/6a027537c2ffb31f4536d552?utm_campaign=1058&utm_source=git)** | Florida | On Site | May 11 |
+| **[Arclin](http://arclin.com)** | **[Corporate Intern](https://jobright.ai/jobs/info/6a0395e68ecfd93cd9c0ffcc?utm_campaign=1058&utm_source=git)** | Alpharetta, GA | On Site | May 11 |
 | **[Data Device Corporation](https://www.ddc-web.com/en/power/powersupplies)** | **[IT Intern](https://jobright.ai/jobs/info/6a0369e0bc4184089f2320d5?utm_campaign=1058&utm_source=git)** | Bohemia, NY | On Site | May 11 |
 | **[NAVWAR](https://www.navwar.navy.mil/)** | **[STUDENT INTERN (INFORMATION TECHNOLOGY)](https://jobright.ai/jobs/info/6a0329dd22395b6dc6d91938?utm_campaign=1058&utm_source=git)** | Town Center, MD | On Site | May 11 |
 | **[Definity](https://www.definityfinancial.com/)** | **[Digital Contact Center (Personal Insurance) - Fall 2026 - Co-op/Intern](https://jobright.ai/jobs/info/6a025e71fa1aa73213d99e2b?utm_campaign=1058&utm_source=git)** | Toronto, ONT, Canada | Hybrid | May 11 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[American Food & Vending](https://www.afvusa.com/)** | **[IT Intern - Network Technical Support](https://jobright.ai/jobs/info/6a0311b66c07461fe1700663?utm_campaign=1058&utm_source=git)** | Syracuse-Auburn Area | On Site | May 11 |
 | **[Nokia](http://www.nokia.com)** | **[Customer Technical Support Co-op/Intern](https://jobright.ai/jobs/info/6a0311a9f3d6cc51d63732dd?utm_campaign=1058&utm_source=git)** | Kanata, Ontario, Canada | On Site | May 11 |
 | **[American Institute for Economic Research - AIER](http://www.aier.org)** | **[IT Intern](https://jobright.ai/jobs/info/6a024588c4b08448a0b24d06?utm_campaign=1058&utm_source=git)** | REMOTE-United States | Remote | May 11 |
-| **[Ottenweller Company, Inc.](http://www.ottenweller.com/)** | **[IT Intern (Fort Wayne, IN)](https://jobright.ai/jobs/info/6a030bcdbc4184089f22e5c3?utm_campaign=1058&utm_source=git)** | Fort Wayne, IN | On Site | May 11 |
-| **[Cencora](http://www.cencora.com)** | **[Intern](https://jobright.ai/jobs/info/6a030c5322395b6dc6d90924?utm_campaign=1058&utm_source=git)** | Columbus, OH | On Site | May 11 |
-| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a0242533053db70a11763ae?utm_campaign=1058&utm_source=git)** | 9810 S MASON RD,RICHMOND,TX,77406-05708-11970-S | On Site | May 11 |
-| **[S3 AeroDefense](https://s3aerodefense.com/company/)** | **[Warehouse Intern](https://jobright.ai/jobs/info/6a024243df52f1450d8491c8?utm_campaign=1058&utm_source=git)** | Milwaukee,WI,US | On Site | May 11 |
-| **[HMT LLC](http://hmttank.com)** | **[Intern](https://jobright.ai/jobs/info/6a030bf1bc4184089f22e663?utm_campaign=1058&utm_source=git)** | Tomball, TX | On Site | May 11 |
-| **[Mitsubishi Power Americas](https://power.mhi.com/regions/amer/)** | **[Document Control Intern](https://jobright.ai/jobs/info/6a030bd9bc4184089f22e5e0?utm_campaign=1058&utm_source=git)** | Pooler, GA | On Site | May 11 |
-| **[Videotron](http://videotron.com)** | **[Stagiaire - Soutien informatique](https://jobright.ai/jobs/info/6a0311916c07461fe17005a2?utm_campaign=1058&utm_source=git)** | Montreal, Quebec, Canada | Remote | May 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
