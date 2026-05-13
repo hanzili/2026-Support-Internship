@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Yaskawa America, Inc. -  Drives & Motion Division](https://www.yaskawa.com/)** | **[IT Help Desk Intern](https://jobright.ai/jobs/info/69aef53cdfaeda6ff596f974?utm_campaign=1058&utm_source=git)** | Waukegan, IL | On Site | May 13 |
+| **[Xometry](https://www.xometry.com)** | **[Case Management Intern](https://jobright.ai/jobs/info/69e8c2b6e0cd471b2f137e71?utm_campaign=1058&utm_source=git)** | Lexington, KY | On Site | May 13 |
 | **[Nasuni](https://www.nasuni.com)** | **[Customer Support Operations Intern](https://jobright.ai/jobs/info/69e84fab0a6e09555302ff80?utm_campaign=1058&utm_source=git)** | Cary, NC | Hybrid | May 13 |
 | **[Snowflake](https://www.snowflake.com)** | **[Account Engineer Intern - Summer 2026](https://jobright.ai/jobs/info/6a0455bdbc4184089f239b52?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | May 13 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/6a0457a1bc4184089f239c9d?utm_campaign=1058&utm_source=git)** | 5815 GULL RD,KALAMAZOO,MI,49048 | On Site | May 13 |
@@ -99,8 +101,8 @@ For a complete list, click the following sortable link below:
 | **[Parkview Health](http://www.parkview.com)** | **[IT Service Management (ITSM) Non-Clinical Intern](https://jobright.ai/jobs/info/6a038956f3d6cc51d63778cf?utm_campaign=1058&utm_source=git)** | Greater Fort Wayne | On Site | May 12 |
 | **[New Jersey Courts](https://www.njcourts.gov/)** | **[Paid Student Intern (Multiple Divisions)](https://jobright.ai/jobs/info/6a03a7f56c07461fe17063a2?utm_campaign=1058&utm_source=git)** | Freehold, NJ | On Site | May 12 |
 | **[The Marine Mammal Center](https://www.marinemammalcenter.org/)** | **[Response Dispatch Intern](https://jobright.ai/jobs/info/6a037d046c07461fe1704651?utm_campaign=1058&utm_source=git)** | Sausalito,CA,US | On Site | May 12 |
-| **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[IT Support Desk Intern- Fall 2026](https://jobright.ai/jobs/info/6a037afebc4184089f232dbc?utm_campaign=1058&utm_source=git)** | Tampa, FL, US | On Site | May 12 |
-| ↳ | **[IT Support Desk Intern- Fall 2026](https://jobright.ai/jobs/info/6a037afebc4184089f232dbd?utm_campaign=1058&utm_source=git)** | US-FL-Tampa | On Site | May 12 |
+| **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[IT Support Desk Intern- Fall 2026](https://jobright.ai/jobs/info/6a037afebc4184089f232dbd?utm_campaign=1058&utm_source=git)** | US-FL-Tampa | On Site | May 12 |
+| ↳ | **[IT Support Desk Intern- Fall 2026](https://jobright.ai/jobs/info/6a037afebc4184089f232dbc?utm_campaign=1058&utm_source=git)** | Tampa, FL, US | On Site | May 12 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a042065bc4184089f238ab2?utm_campaign=1058&utm_source=git)** | Galesburg, IL | On Site | May 12 |
 | **[The Energy Authority](https://www3.teainc.org)** | **[Trading Intern, West](https://jobright.ai/jobs/info/6a0377c26c07461fe17043b3?utm_campaign=1058&utm_source=git)** | Washington, Bellevue, WA, US | On Site | May 12 |
 | **[VelocityEHS](https://www.ehs.com/)** | **[Customer Experience Intern (Fall 2026)](https://jobright.ai/jobs/info/6a0377946c07461fe17043a4?utm_campaign=1058&utm_source=git)** | Canada | Remote | May 12 |
@@ -122,7 +124,6 @@ For a complete list, click the following sortable link below:
 | **[UW Credit Union](http://uwcu.org/)** | **[IT Infrastructure Intern](https://jobright.ai/jobs/info/6a035db322395b6dc6d93e15?utm_campaign=1058&utm_source=git)** | Madison, WI, US | Hybrid | May 12 |
 | ↳ | **[IT Infrastructure Intern](https://jobright.ai/jobs/info/6a035db122395b6dc6d93e11?utm_campaign=1058&utm_source=git)** | Madison | Hybrid | May 12 |
 | **[SAP](https://www.sap.com)** | **[SAP NS2 Customer Services & Delivery Intern](https://jobright.ai/jobs/info/6a035a97ed6a637463f4f34a?utm_campaign=1058&utm_source=git)** | Herndon, VA | Hybrid | May 12 |
-| **[UFP Industries](https://www.ufpi.com/)** | **[M&A Intern](https://jobright.ai/jobs/info/6a035a53ed6a637463f4f238?utm_campaign=1058&utm_source=git)** | Grand Rapids, MI | On Site | May 12 |
 | **[Schurz Communications](https://www.schurz.com)** | **[Customer Experience Rep Intern](https://jobright.ai/jobs/info/6a035a4ef3d6cc51d6375e2e?utm_campaign=1058&utm_source=git)** | Burlington, VT | On Site | May 12 |
 | **[Mimaki USA, Inc.](http://mimakiusa.com)** | **[Field Service Technician Trainee/Intern/I](https://jobright.ai/jobs/info/6a03595422395b6dc6d9398a?utm_campaign=1058&utm_source=git)** | Los Angeles - Gardena, CA 90248 | On Site | May 12 |
 | **[ATC](http://atcdrivetrain.com)** | **[IT Applications Intern](https://jobright.ai/jobs/info/6a0355e8ed6a637463f4ed88?utm_campaign=1058&utm_source=git)** | Farmington Hills, MI | Hybrid | May 12 |
@@ -135,7 +136,6 @@ For a complete list, click the following sortable link below:
 | **[ofi](https://www.ofi.com)** | **[Summer 2026 Intern: Customer Service Operations Strategy](https://jobright.ai/jobs/info/6a03493cbc4184089f230fb1?utm_campaign=1058&utm_source=git)** | Oxnard, CA | On Site | May 12 |
 | **[Sulzer](http://www.sulzer.com)** | **[Intern Information Technology](https://jobright.ai/jobs/info/69e6c0d43cfd986aa6f8770c?utm_campaign=1058&utm_source=git)** | La Porte, TX | On Site | May 12 |
 | **[BMO](http://www.bmo.com)** | **[Junior Salesforce Administrator, Fall 2026 (Co-op/Internship) - 12 months](https://jobright.ai/jobs/info/6a041c37bc4184089f238844?utm_campaign=1058&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 12 |
-| **[UFP Site Built](https://www.ufpsitebuilt.com)** | **[M&A Intern](https://jobright.ai/jobs/info/6a03454a7c753c287f6e558a?utm_campaign=1058&utm_source=git)** | Grand Rapids, MI, US | On Site | May 12 |
 | **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/6a03786dbc4184089f232c36?utm_campaign=1058&utm_source=git)** | Council Bluffs, IA | On Site | May 12 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a03786dbc4184089f232c32?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | May 12 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a03782822395b6dc6d94c65?utm_campaign=1058&utm_source=git)** | Jacksonville, FL | On Site | May 12 |
@@ -149,7 +149,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a04208e22395b6dc6d9ae47?utm_campaign=1058&utm_source=git)** | Forney, TX | On Site | May 12 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a042061bc4184089f238a9f?utm_campaign=1058&utm_source=git)** | Coralville, IA | On Site | May 12 |
 | **[Arclin](http://arclin.com)** | **[Corporate Intern](https://jobright.ai/jobs/info/6a033eceed6a637463f4e1e2?utm_campaign=1058&utm_source=git)** | Alpharetta, Georgia, United States | On Site | May 12 |
-| **[BMO](http://www.bmo.com)** | **[Junior Salesforce Administrator, Fall 2026 (Co-op/Internship) - 12 months](https://jobright.ai/jobs/info/6a033ecdbc4184089f230925?utm_campaign=1058&utm_source=git)** | Toronto, ON, CAN, CA | On Site | May 12 |
+| **[BMO](http://www.bmo.com)** | **[Junior Salesforce Administrator, Fall 2026 (Co-op/Internship) - 12 months](https://jobright.ai/jobs/info/6a033ecdbc4184089f230924?utm_campaign=1058&utm_source=git)** | Toronto, ON, CAN, CA | On Site | May 12 |
 | **[Agrace](https://www.agrace.org/)** | **[Health Info Mgmt Specialist (HIM) - Summer Intern](https://jobright.ai/jobs/info/6a033de5ed6a637463f4dfcb?utm_campaign=1058&utm_source=git)** | Madison, WI - Madison, WI 53711 | On Site | May 12 |
 | **[Jamestown](http://www.jamestownlp.com/)** | **[Valet - Greater Atlanta](https://jobright.ai/jobs/info/69caab60466f1e133aac5a78?utm_campaign=1058&utm_source=git)** | Atlanta, GA | On Site | May 12 |
 | **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/6a033cb76c07461fe1701e6a?utm_campaign=1058&utm_source=git)** | 3001 ELDORADO PKWY,MCKINNEY,TX,75070-04207-04663-S | On Site | May 12 |
