@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Borusan Pipe US](https://www.borusanpipeusa.com/)** | **[IT Intern](https://jobright.ai/jobs/info/6a043c7c6c07461fe170af43?utm_campaign=1058&utm_source=git)** | Baytown, TX | On Site | May 13 |
+| **[Xometry](https://www.xometry.com)** | **[Customer Support Intern](https://jobright.ai/jobs/info/695ab318aa05c26e7ab4364b?utm_campaign=1058&utm_source=git)** | North Bethesda, MD | Hybrid | May 13 |
 | **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a041dc622395b6dc6d9acfb?utm_campaign=1058&utm_source=git)** | 280 MAIN ST,COLORADO SPRINGS,CO,80911 | On Site | May 12 |
 | **[Evolution Well Services](https://evolutionws.com/)** | **[Operations Support Center Technician Intern](https://jobright.ai/jobs/info/6a040238f3d6cc51d637b787?utm_campaign=1058&utm_source=git)** | EWSO The Woodlands Corporate Office - The Woodlands, TX 77380 | On Site | May 12 |
 | **[Quanex](http://www.quanex.com/)** | **[Technical Writer Intern](https://jobright.ai/jobs/info/6a03ef1ff811a0436960683e?utm_campaign=1058&utm_source=git)** | Rice Lake, WI | On Site | May 12 |
@@ -144,7 +146,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a04208e22395b6dc6d9ae47?utm_campaign=1058&utm_source=git)** | Forney, TX | On Site | May 12 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a042061bc4184089f238a9f?utm_campaign=1058&utm_source=git)** | Coralville, IA | On Site | May 12 |
 | **[Arclin](http://arclin.com)** | **[Corporate Intern](https://jobright.ai/jobs/info/6a033eceed6a637463f4e1e2?utm_campaign=1058&utm_source=git)** | Alpharetta, Georgia, United States | On Site | May 12 |
-| **[BMO](http://www.bmo.com)** | **[Junior Salesforce Administrator, Fall 2026 (Co-op/Internship) - 12 months](https://jobright.ai/jobs/info/6a033ecdbc4184089f230924?utm_campaign=1058&utm_source=git)** | Toronto, ON, CAN, CA | On Site | May 12 |
+| **[BMO](http://www.bmo.com)** | **[Junior Salesforce Administrator, Fall 2026 (Co-op/Internship) - 12 months](https://jobright.ai/jobs/info/6a033ecdbc4184089f230925?utm_campaign=1058&utm_source=git)** | Toronto, ON, CAN, CA | On Site | May 12 |
 | **[Agrace](https://www.agrace.org/)** | **[Health Info Mgmt Specialist (HIM) - Summer Intern](https://jobright.ai/jobs/info/6a033de5ed6a637463f4dfcb?utm_campaign=1058&utm_source=git)** | Madison, WI - Madison, WI 53711 | On Site | May 12 |
 | **[Jamestown](http://www.jamestownlp.com/)** | **[Valet - Greater Atlanta](https://jobright.ai/jobs/info/69caab60466f1e133aac5a78?utm_campaign=1058&utm_source=git)** | Atlanta, GA | On Site | May 12 |
 | **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/6a033cb76c07461fe1701e6a?utm_campaign=1058&utm_source=git)** | 3001 ELDORADO PKWY,MCKINNEY,TX,75070-04207-04663-S | On Site | May 12 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Huntington Technology](https://huntingtontechnology.com)** | **[Entry Level Service Team Triage or Internship](https://jobright.ai/jobs/info/6a03386ced6a637463f4d9ab?utm_campaign=1058&utm_source=git)** | Franklin, MI | On Site | May 12 |
 | **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/6a030620f3d6cc51d63727ad?utm_campaign=1058&utm_source=git)** | 10951 S JOG RD,BOYNTON BEACH,FL,33437 | On Site | May 12 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a0305ff7c753c287f6e2b51?utm_campaign=1058&utm_source=git)** | 2417 SYCAMORE DR,SIMI VALLEY,CA,93065 | On Site | May 12 |
-| **[GXA](https://gxait.com/)** | **[Provisioning Technician (Intern)](https://jobright.ai/jobs/info/6a0338167c753c287f6e4c2a?utm_campaign=1058&utm_source=git)** | Richardson, TX | On Site | May 12 |
-| **[Datadog](https://www.datadoghq.com)** | **[IT Support Technician Intern](https://jobright.ai/jobs/info/69e6c6e77820c036924d2382?utm_campaign=1058&utm_source=git)** | Boston, MA | On Site | May 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
