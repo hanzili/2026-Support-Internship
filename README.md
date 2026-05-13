@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Quanex](http://www.quanex.com/)** | **[Technical Writer Intern](https://jobright.ai/jobs/info/6a03ef1ff811a0436960683e?utm_campaign=1058&utm_source=git)** | Rice Lake, WI | On Site | May 12 |
+| **[University of Massachusetts](https://www.youtube.com/channel/UCH_NUbvxPedsdb5jq98Atig)** | **[Intern - Business Associate Team](https://jobright.ai/jobs/info/6a03ee58f3d6cc51d637aa30?utm_campaign=1058&utm_source=git)** | Shrewsbury, MA | Hybrid | May 12 |
+| **[Toyon Research Corporation](http://toyon.com)** | **[Intern](https://jobright.ai/jobs/info/6a03e8f922395b6dc6d98b76?utm_campaign=1058&utm_source=git)** | Ashburn, VA | On Site | May 12 |
+| **[Texas Department of Transportation](https://www.txdot.gov)** | **[Intern Support Technician - San Antonio](https://jobright.ai/jobs/info/6a03e88df3d6cc51d637a939?utm_campaign=1058&utm_source=git)** | San Antonio, Texas Metropolitan Area | On Site | May 12 |
 | **[PARKVIEW HEALTH SYSTEM INC](https://www.parkview.com/)** | **[IT Service Management (ITSM) Non-Clinical Intern](https://jobright.ai/jobs/info/6a03dbe4f3d6cc51d637a2f7?utm_campaign=1058&utm_source=git)** | Fort Wayne, IN | On Site | May 12 |
 | **[arrivia](https://www.arrivia.com/)** | **[Information Technology Intern](https://jobright.ai/jobs/info/6a03d1e27c753c287f6ea9bd?utm_campaign=1058&utm_source=git)** | Scottsdale, AZ | On Site | May 12 |
 | **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/6a03cb8622395b6dc6d980ce?utm_campaign=1058&utm_source=git)** | 621 N MAGUIRE ST,WARRENSBURG,MO,64093-01419-01235-S | On Site | May 12 |
@@ -148,13 +152,9 @@ For a complete list, click the following sortable link below:
 | **[Egan Company](https://www.eganco.com/)** | **[IT Systems and Support Intern - Summer 2026](https://jobright.ai/jobs/info/69f21cd18d8d624381a9f45e?utm_campaign=1058&utm_source=git)** | Champlin, MN | On Site | May 12 |
 | **[Advanced Electric Systems](https://advancedelectricsystems.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/6a02eb8c22395b6dc6d8f50f?utm_campaign=1058&utm_source=git)** | Birmingham, AL, US | On Site | May 12 |
 | ↳ | **[Information Technology Intern](https://jobright.ai/jobs/info/6a02eb8b22395b6dc6d8f50d?utm_campaign=1058&utm_source=git)** | US-AL-Birmingham | On Site | May 12 |
-| **[RPM Living](https://www.rpmliving.com/)** | **[Intern, Customer Experience](https://jobright.ai/jobs/info/6a02eb1b7c753c287f6e1d54?utm_campaign=1058&utm_source=git)** | Phoenix, AZ, US | On Site | May 12 |
-| ↳ | **[Intern, Customer Experience](https://jobright.ai/jobs/info/6a02eb1b7c753c287f6e1d56?utm_campaign=1058&utm_source=git)** | US-AZ-Phoenix | On Site | May 12 |
+| **[RPM Living](https://www.rpmliving.com/)** | **[Intern, Customer Experience](https://jobright.ai/jobs/info/6a02eb1b7c753c287f6e1d56?utm_campaign=1058&utm_source=git)** | US-AZ-Phoenix | On Site | May 12 |
+| ↳ | **[Intern, Customer Experience](https://jobright.ai/jobs/info/6a02eb1b7c753c287f6e1d54?utm_campaign=1058&utm_source=git)** | Phoenix, AZ, US | On Site | May 12 |
 | **[THE KESSLER COLLECTION](https://www.linkedin.com/company/6150025)** | **[Rooms Internship](https://jobright.ai/jobs/info/6a02eafb6c07461fe16feb05?utm_campaign=1058&utm_source=git)** | US-SC-Greenville | On Site | May 12 |
 | ↳ | **[J1 Visa - Guest Services Internship](https://jobright.ai/jobs/info/6a02ea90f3d6cc51d63718d4?utm_campaign=1058&utm_source=git)** | Savannah, GA, US | On Site | May 12 |
 | ↳ | **[J1 Visa - Guest Services Internship](https://jobright.ai/jobs/info/6a02ea8df3d6cc51d63718cd?utm_campaign=1058&utm_source=git)** | US-GA-Savannah | On Site | May 12 |
-| **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a02ea1b22395b6dc6d8f3af?utm_campaign=1058&utm_source=git)** | 6558 LANTANA RD,LAKE WORTH,FL,33467-06508-03713-S | On Site | May 12 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a02e9b1ed6a637463f4ab46?utm_campaign=1058&utm_source=git)** | 1029 S M 37,TRAVERSE CITY,MI,49685 | On Site | May 12 |
-| **[Frederick County Public Schools](http://www.fcps.org)** | **[Warehouse Summer Internship (Previous applicants need not reapply)](https://jobright.ai/jobs/info/6a02e8a06c07461fe16fe9f1?utm_campaign=1058&utm_source=git)** | Central Office located at 191 S. East Street, Frederick, Maryland 21701 | On Site | May 12 |
-| **[Poughkeepsie City School District](http://www.poughkeepsieschools.org)** | **[College Computer Technician Intern](https://jobright.ai/jobs/info/6a02e6ad6c07461fe16fe997?utm_campaign=1058&utm_source=git)** | Poughkeepsie City School District | On Site | May 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
