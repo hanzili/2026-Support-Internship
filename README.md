@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Thomas Jefferson University](http://www.jefferson.edu/)** | **[Student PDC Intern](https://jobright.ai/jobs/info/6a0486a07c753c287f6f04ea?utm_campaign=1058&utm_source=git)** | Philadelphia, PA, US | On Site | May 13 |
+| **[TD](https://www.td.com)** | **[Intern](https://jobright.ai/jobs/info/6a0484f8bc4184089f23bd15?utm_campaign=1058&utm_source=git)** | New York, New York, US | Hybrid | May 13 |
 | **[Yaskawa America, Inc. -  Drives & Motion Division](https://www.yaskawa.com/)** | **[IT Help Desk Intern](https://jobright.ai/jobs/info/69aef53cdfaeda6ff596f974?utm_campaign=1058&utm_source=git)** | Waukegan, IL | On Site | May 13 |
 | **[Xometry](https://www.xometry.com)** | **[Case Management Intern](https://jobright.ai/jobs/info/69e8c2b6e0cd471b2f137e71?utm_campaign=1058&utm_source=git)** | Lexington, KY | On Site | May 13 |
 | **[Nasuni](https://www.nasuni.com)** | **[Customer Support Operations Intern](https://jobright.ai/jobs/info/69e84fab0a6e09555302ff80?utm_campaign=1058&utm_source=git)** | Cary, NC | Hybrid | May 13 |
@@ -72,8 +74,8 @@ For a complete list, click the following sortable link below:
 | **[Texas Department of Transportation](https://www.txdot.gov)** | **[Intern Support Technician - San Antonio](https://jobright.ai/jobs/info/6a03e88df3d6cc51d637a939?utm_campaign=1058&utm_source=git)** | San Antonio, Texas Metropolitan Area | On Site | May 12 |
 | **[PARKVIEW HEALTH SYSTEM INC](https://www.parkview.com/)** | **[IT Service Management (ITSM) Non-Clinical Intern](https://jobright.ai/jobs/info/6a03dbe4f3d6cc51d637a2f7?utm_campaign=1058&utm_source=git)** | Fort Wayne, IN | On Site | May 12 |
 | **[arrivia](https://www.arrivia.com/)** | **[Information Technology Intern](https://jobright.ai/jobs/info/6a03d1e27c753c287f6ea9bd?utm_campaign=1058&utm_source=git)** | Scottsdale, AZ | On Site | May 12 |
-| **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/6a03cb8622395b6dc6d980ce?utm_campaign=1058&utm_source=git)** | 621 N MAGUIRE ST,WARRENSBURG,MO,64093-01419-01235-S | On Site | May 12 |
-| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a03cb8622395b6dc6d980cd?utm_campaign=1058&utm_source=git)** | 4701 TOWN CENTER DR,LEAWOOD,KS,66211 | On Site | May 12 |
+| **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/6a03cb8622395b6dc6d980cd?utm_campaign=1058&utm_source=git)** | 4701 TOWN CENTER DR,LEAWOOD,KS,66211 | On Site | May 12 |
+| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a03cb8622395b6dc6d980ce?utm_campaign=1058&utm_source=git)** | 621 N MAGUIRE ST,WARRENSBURG,MO,64093-01419-01235-S | On Site | May 12 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a03c9e1f3d6cc51d6379e1d?utm_campaign=1058&utm_source=git)** | 2586 WOODRUFF RD,SIMPSONVILLE,SC,29681 | On Site | May 12 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a03c9d9f3d6cc51d6379e12?utm_campaign=1058&utm_source=git)** | 2008 LAURENS RD,GREENVILLE,SC,29607-02915-12164-S | On Site | May 12 |
 | **[Young Life](https://sworlando.younglife.org)** | **[AWR Summer Intern - Guest Services](https://jobright.ai/jobs/info/6a03c6a88ecfd93cd9c119aa?utm_campaign=1058&utm_source=git)** | Mount Nebo, WV | On Site | May 12 |
@@ -149,12 +151,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a04208e22395b6dc6d9ae47?utm_campaign=1058&utm_source=git)** | Forney, TX | On Site | May 12 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a042061bc4184089f238a9f?utm_campaign=1058&utm_source=git)** | Coralville, IA | On Site | May 12 |
 | **[Arclin](http://arclin.com)** | **[Corporate Intern](https://jobright.ai/jobs/info/6a033eceed6a637463f4e1e2?utm_campaign=1058&utm_source=git)** | Alpharetta, Georgia, United States | On Site | May 12 |
-| **[BMO](http://www.bmo.com)** | **[Junior Salesforce Administrator, Fall 2026 (Co-op/Internship) - 12 months](https://jobright.ai/jobs/info/6a033ecdbc4184089f230924?utm_campaign=1058&utm_source=git)** | Toronto, ON, CAN, CA | On Site | May 12 |
+| **[BMO](http://www.bmo.com)** | **[Junior Salesforce Administrator, Fall 2026 (Co-op/Internship) - 12 months](https://jobright.ai/jobs/info/6a033ecdbc4184089f230925?utm_campaign=1058&utm_source=git)** | Toronto, ON, CAN, CA | On Site | May 12 |
 | **[Agrace](https://www.agrace.org/)** | **[Health Info Mgmt Specialist (HIM) - Summer Intern](https://jobright.ai/jobs/info/6a033de5ed6a637463f4dfcb?utm_campaign=1058&utm_source=git)** | Madison, WI - Madison, WI 53711 | On Site | May 12 |
 | **[Jamestown](http://www.jamestownlp.com/)** | **[Valet - Greater Atlanta](https://jobright.ai/jobs/info/69caab60466f1e133aac5a78?utm_campaign=1058&utm_source=git)** | Atlanta, GA | On Site | May 12 |
 | **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/6a033cb76c07461fe1701e6a?utm_campaign=1058&utm_source=git)** | 3001 ELDORADO PKWY,MCKINNEY,TX,75070-04207-04663-S | On Site | May 12 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a033cb66c07461fe1701e69?utm_campaign=1058&utm_source=git)** | 500 E STACY RD,ALLEN,TX,75002 | On Site | May 12 |
-| **[CPPI](https://cppi.com/)** | **[IT Intern (Gainesville)](https://jobright.ai/jobs/info/6a03213a22395b6dc6d91728?utm_campaign=1058&utm_source=git)** | Gainesville, Florida, United States | On Site | May 12 |
-| **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Digital Support & Voice](https://jobright.ai/jobs/info/6a033eb5f3d6cc51d6374d53?utm_campaign=1058&utm_source=git)** | Tempe, AZ | Hybrid | May 12 |
-| **[BlinkRx](https://blinkhealth.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69e67ba87820c036924d0abc?utm_campaign=1058&utm_source=git)** | Chesterfield, MO | On Site | May 12 |
+| **[Saint Luke's](https://www.saintlukeskc.org)** | **[Pharmacy Intern Year 1](https://jobright.ai/jobs/info/69cba024cdb525785fb77a92?utm_campaign=1058&utm_source=git)** | Kansas City, MO | On Site | May 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
