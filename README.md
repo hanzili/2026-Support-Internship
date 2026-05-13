@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Frederick County Public Schools](http://www.fcps.org)** | **[Student Information System Support Technician](https://jobright.ai/jobs/info/6a03b5f8f3d6cc51d637959b?utm_campaign=1058&utm_source=git)** | Frederick, MD | On Site | May 12 |
+| **[MasTec Communications Group](https://masteccommunicationsgroup.com/)** | **[Intern](https://jobright.ai/jobs/info/6a03b5b37c753c287f6e9c8f?utm_campaign=1058&utm_source=git)** | Coral Gables, FL | Remote | May 12 |
+| **[Augusta University](http://www.augusta.edu)** | **[GCITC Intern](https://jobright.ai/jobs/info/6a03b5a522395b6dc6d976b2?utm_campaign=1058&utm_source=git)** | Augusta, GA | On Site | May 12 |
+| **[Toyon Research Corporation](http://toyon.com)** | **[Intern](https://jobright.ai/jobs/info/6a03b1b08ecfd93cd9c110f9?utm_campaign=1058&utm_source=git)** | Ashburn,VA,US | On Site | May 12 |
 | **[Kelli's](https://www.kellisgifts.com)** | **[IT Summer Intern](https://jobright.ai/jobs/info/6a03adbd8ecfd93cd9c10d0f?utm_campaign=1058&utm_source=git)** | Coppell,TX,US | On Site | May 12 |
-| **[Trane Technologies](https://www.tranetechnologies.com)** | **[IT Operational Execution Intern](https://jobright.ai/jobs/info/6a03ac6c6c07461fe170697d?utm_campaign=1058&utm_source=git)** | La Crosse, WI | Hybrid | May 12 |
 | **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[ServiceNow Intern- Fall 2026](https://jobright.ai/jobs/info/6a03ac376c07461fe170689b?utm_campaign=1058&utm_source=git)** | Tampa, FL | Remote | May 12 |
 | ↳ | **[IT Support Desk Intern- Fall 2026](https://jobright.ai/jobs/info/6a03ac2122395b6dc6d9710f?utm_campaign=1058&utm_source=git)** | Tampa, FL | On Site | May 12 |
 | **[Nationwide Children's Hospital](http://www.nationwidechildrens.org)** | **[IS Epic Services Intern](https://jobright.ai/jobs/info/6a03a8346c07461fe17064e4?utm_campaign=1058&utm_source=git)** | Columbus, OH | Hybrid | May 12 |
@@ -75,8 +78,8 @@ For a complete list, click the following sortable link below:
 | **[Parkview Health](http://www.parkview.com)** | **[IT Service Management (ITSM) Non-Clinical Intern](https://jobright.ai/jobs/info/6a038956f3d6cc51d63778cf?utm_campaign=1058&utm_source=git)** | Greater Fort Wayne | On Site | May 12 |
 | **[New Jersey Courts](https://www.njcourts.gov/)** | **[Paid Student Intern (Multiple Divisions)](https://jobright.ai/jobs/info/6a03a7f56c07461fe17063a2?utm_campaign=1058&utm_source=git)** | Freehold, NJ | On Site | May 12 |
 | **[The Marine Mammal Center](https://www.marinemammalcenter.org/)** | **[Response Dispatch Intern](https://jobright.ai/jobs/info/6a037d046c07461fe1704651?utm_campaign=1058&utm_source=git)** | Sausalito,CA,US | On Site | May 12 |
-| **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[IT Support Desk Intern- Fall 2026](https://jobright.ai/jobs/info/6a037afebc4184089f232dbd?utm_campaign=1058&utm_source=git)** | US-FL-Tampa | On Site | May 12 |
-| ↳ | **[IT Support Desk Intern- Fall 2026](https://jobright.ai/jobs/info/6a037afebc4184089f232dbc?utm_campaign=1058&utm_source=git)** | Tampa, FL, US | On Site | May 12 |
+| **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[IT Support Desk Intern- Fall 2026](https://jobright.ai/jobs/info/6a037afebc4184089f232dbc?utm_campaign=1058&utm_source=git)** | Tampa, FL, US | On Site | May 12 |
+| ↳ | **[IT Support Desk Intern- Fall 2026](https://jobright.ai/jobs/info/6a037afebc4184089f232dbd?utm_campaign=1058&utm_source=git)** | US-FL-Tampa | On Site | May 12 |
 | **[The Energy Authority](https://www3.teainc.org)** | **[Trading Intern, West](https://jobright.ai/jobs/info/6a0377c26c07461fe17043b3?utm_campaign=1058&utm_source=git)** | Washington, Bellevue, WA, US | On Site | May 12 |
 | **[VelocityEHS](https://www.ehs.com/)** | **[Customer Experience Intern (Fall 2026)](https://jobright.ai/jobs/info/6a0377946c07461fe17043a4?utm_campaign=1058&utm_source=git)** | Canada | Remote | May 12 |
 | ↳ | **[Customer Experience Intern (Fall 2026)](https://jobright.ai/jobs/info/6a0377936c07461fe17043a3?utm_campaign=1058&utm_source=git)** | United States | Remote | May 12 |
@@ -113,13 +116,13 @@ For a complete list, click the following sortable link below:
 | **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/6a03786dbc4184089f232c36?utm_campaign=1058&utm_source=git)** | Council Bluffs, IA | On Site | May 12 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a03786dbc4184089f232c32?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | May 12 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a03782822395b6dc6d94c65?utm_campaign=1058&utm_source=git)** | Jacksonville, FL | On Site | May 12 |
-| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a037898ed6a637463f5030c?utm_campaign=1058&utm_source=git)** | Jacksonville, FL | On Site | May 12 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a0378227c753c287f6e73bb?utm_campaign=1058&utm_source=git)** | Tampa, FL | On Site | May 12 |
+| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a037898ed6a637463f5030c?utm_campaign=1058&utm_source=git)** | Jacksonville, FL | On Site | May 12 |
 | **[Agrace](https://www.agrace.org/)** | **[Health Info Mgmt Specialist (HIM) - Summer Intern](https://jobright.ai/jobs/info/6a03426b6c07461fe17024cc?utm_campaign=1058&utm_source=git)** | Madison, WI | On Site | May 12 |
 | **[Rightworks](https://www.rightworks.com/)** | **[IT Services Intern](https://jobright.ai/jobs/info/69cd8e1b54f00230c6cf3ab5?utm_campaign=1058&utm_source=git)** | Nashua, NH | On Site | May 12 |
 | **[Alta Equipment Company](https://www.altaequipment.com/)** | **[Warehouse Intern - Part Time](https://jobright.ai/jobs/info/6a0340e922395b6dc6d92c04?utm_campaign=1058&utm_source=git)** | Batavia, NY 14020, USA | On Site | May 12 |
 | **[Arclin](http://arclin.com)** | **[Corporate Intern](https://jobright.ai/jobs/info/6a033eceed6a637463f4e1e2?utm_campaign=1058&utm_source=git)** | Alpharetta, Georgia, United States | On Site | May 12 |
-| **[BMO](http://www.bmo.com)** | **[Junior Salesforce Administrator, Fall 2026 (Co-op/Internship) - 12 months](https://jobright.ai/jobs/info/6a033ecdbc4184089f230925?utm_campaign=1058&utm_source=git)** | Toronto, ON, CAN, CA | On Site | May 12 |
+| **[BMO](http://www.bmo.com)** | **[Junior Salesforce Administrator, Fall 2026 (Co-op/Internship) - 12 months](https://jobright.ai/jobs/info/6a033ecdbc4184089f230924?utm_campaign=1058&utm_source=git)** | Toronto, ON, CAN, CA | On Site | May 12 |
 | **[Agrace](https://www.agrace.org/)** | **[Health Info Mgmt Specialist (HIM) - Summer Intern](https://jobright.ai/jobs/info/6a033de5ed6a637463f4dfcb?utm_campaign=1058&utm_source=git)** | Madison, WI - Madison, WI 53711 | On Site | May 12 |
 | **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/6a033cb76c07461fe1701e6a?utm_campaign=1058&utm_source=git)** | 3001 ELDORADO PKWY,MCKINNEY,TX,75070-04207-04663-S | On Site | May 12 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a033cb66c07461fe1701e69?utm_campaign=1058&utm_source=git)** | 500 E STACY RD,ALLEN,TX,75002 | On Site | May 12 |
@@ -135,8 +138,8 @@ For a complete list, click the following sortable link below:
 | **[Egan Company](https://www.eganco.com/)** | **[IT Systems and Support Intern - Summer 2026](https://jobright.ai/jobs/info/69f21cd18d8d624381a9f45e?utm_campaign=1058&utm_source=git)** | Champlin, MN | On Site | May 12 |
 | **[Advanced Electric Systems](https://advancedelectricsystems.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/6a02eb8c22395b6dc6d8f50f?utm_campaign=1058&utm_source=git)** | Birmingham, AL, US | On Site | May 12 |
 | ↳ | **[Information Technology Intern](https://jobright.ai/jobs/info/6a02eb8b22395b6dc6d8f50d?utm_campaign=1058&utm_source=git)** | US-AL-Birmingham | On Site | May 12 |
-| **[RPM Living](https://www.rpmliving.com/)** | **[Intern, Customer Experience](https://jobright.ai/jobs/info/6a02eb1b7c753c287f6e1d54?utm_campaign=1058&utm_source=git)** | Phoenix, AZ, US | On Site | May 12 |
-| ↳ | **[Intern, Customer Experience](https://jobright.ai/jobs/info/6a02eb1b7c753c287f6e1d56?utm_campaign=1058&utm_source=git)** | US-AZ-Phoenix | On Site | May 12 |
+| **[RPM Living](https://www.rpmliving.com/)** | **[Intern, Customer Experience](https://jobright.ai/jobs/info/6a02eb1b7c753c287f6e1d56?utm_campaign=1058&utm_source=git)** | US-AZ-Phoenix | On Site | May 12 |
+| ↳ | **[Intern, Customer Experience](https://jobright.ai/jobs/info/6a02eb1b7c753c287f6e1d54?utm_campaign=1058&utm_source=git)** | Phoenix, AZ, US | On Site | May 12 |
 | **[THE KESSLER COLLECTION](https://www.linkedin.com/company/6150025)** | **[Rooms Internship](https://jobright.ai/jobs/info/6a02eafb6c07461fe16feb05?utm_campaign=1058&utm_source=git)** | US-SC-Greenville | On Site | May 12 |
 | ↳ | **[J1 Visa - Guest Services Internship](https://jobright.ai/jobs/info/6a02ea90f3d6cc51d63718d4?utm_campaign=1058&utm_source=git)** | Savannah, GA, US | On Site | May 12 |
 | ↳ | **[J1 Visa - Guest Services Internship](https://jobright.ai/jobs/info/6a02ea8df3d6cc51d63718cd?utm_campaign=1058&utm_source=git)** | US-GA-Savannah | On Site | May 12 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Arclin](http://arclin.com)** | **[Corporate Intern](https://jobright.ai/jobs/info/6a0395e68ecfd93cd9c0ffcc?utm_campaign=1058&utm_source=git)** | Alpharetta, GA | On Site | May 11 |
 | **[Data Device Corporation](https://www.ddc-web.com/en/power/powersupplies)** | **[IT Intern](https://jobright.ai/jobs/info/6a0369e0bc4184089f2320d5?utm_campaign=1058&utm_source=git)** | Bohemia, NY | On Site | May 11 |
 | **[NAVWAR](https://www.navwar.navy.mil/)** | **[STUDENT INTERN (INFORMATION TECHNOLOGY)](https://jobright.ai/jobs/info/6a0329dd22395b6dc6d91938?utm_campaign=1058&utm_source=git)** | Town Center, MD | On Site | May 11 |
-| **[Definity](https://www.definityfinancial.com/)** | **[Digital Contact Center (Personal Insurance) - Fall 2026 - Co-op/Intern](https://jobright.ai/jobs/info/6a025e71fa1aa73213d99e2b?utm_campaign=1058&utm_source=git)** | Toronto, ONT, Canada | Hybrid | May 11 |
-| **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a025cd1c4b08448a0b25f5c?utm_campaign=1058&utm_source=git)** | 131 VALLEY MILL RD,WINCHESTER,VA,22602-06252-12802-S | On Site | May 11 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a025bfdc4b08448a0b25dc4?utm_campaign=1058&utm_source=git)** | 105 HIGHWAY 51 N,BATESVILLE,MS,38606-02351-11289-S | On Site | May 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
