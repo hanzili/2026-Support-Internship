@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Precision Medicine Group](https://www.precisionmedicinegrp.com/pfm/)** | **[IT Operations Intern](https://jobright.ai/jobs/info/69e901644b0fa35a7076ad17?utm_campaign=1058&utm_source=git)** | New York, NY | Remote | May 14 |
-| ↳ | **[IT Operations Intern](https://jobright.ai/jobs/info/69e8ecbae0cd471b2f138eb7?utm_campaign=1058&utm_source=git)** | United States | Remote | May 14 |
+| **[Archer Hotel](http://www.archerhotel.com)** | **[Hospitality Intern](https://jobright.ai/jobs/info/6a05dc65f3d6cc51d638c002?utm_campaign=1058&utm_source=git)** | Salt Lake City, UT, 84101, US | On Site | May 14 |
+| **[Precision Medicine Group](https://www.precisionmedicinegrp.com/pfm/)** | **[IT Operations Intern](https://jobright.ai/jobs/info/69e8ec9658811370cb1290d3?utm_campaign=1058&utm_source=git)** | United States | Remote | May 14 |
+| ↳ | **[IT Operations Intern](https://jobright.ai/jobs/info/69e901644b0fa35a7076ad17?utm_campaign=1058&utm_source=git)** | New York, NY | Remote | May 14 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/6a05c841320bff2205ea47a2?utm_campaign=1058&utm_source=git)** | Mankato, MN | On Site | May 14 |
 | **[Xometry](https://www.xometry.com)** | **[Case Management Intern](https://jobright.ai/jobs/info/6940779349a7695fbd05f6a3?utm_campaign=1058&utm_source=git)** | Gaithersburg, MD | On Site | May 14 |
 | **[Parts Town](https://www.partstown.com)** | **[Customer Service Analyst Intern](https://jobright.ai/jobs/info/69e94e5a4b0fa35a7076d74e?utm_campaign=1058&utm_source=git)** | DuPage County, IL | Hybrid | May 14 |
@@ -81,8 +82,8 @@ For a complete list, click the following sortable link below:
 | **[HOPE Incorporated](https://hopearizona.org/)** | **[Warm Line Intern (Volunteer)](https://jobright.ai/jobs/info/6a056d8ebc4184089f24519e?utm_campaign=1058&utm_source=git)** | Tucson,AZ,US | On Site | May 13 |
 | **[City of Hoover](http://www.hooveral.org)** | **[Student Intern](https://jobright.ai/jobs/info/6a05605df3d6cc51d6388a43?utm_campaign=1058&utm_source=git)** | Birmingham, AL | On Site | May 13 |
 | **[Empower AI](https://www.empower.ai/)** | **[EUD Desktop Support Technician (Intern)](https://jobright.ai/jobs/info/6a0559247c753c287f6f8b37?utm_campaign=1058&utm_source=git)** | Alexandria, VA, US | On Site | May 13 |
-| ↳ | **[EUD Desktop Support Technician (Intern)](https://jobright.ai/jobs/info/6a05591b7c753c287f6f8b35?utm_campaign=1058&utm_source=git)** | US-VA-Arlington | On Site | May 13 |
 | ↳ | **[EUD Desktop Support Technician (Intern)](https://jobright.ai/jobs/info/6a05591b7c753c287f6f8b36?utm_campaign=1058&utm_source=git)** | Arlington, VA, US | On Site | May 13 |
+| ↳ | **[EUD Desktop Support Technician (Intern)](https://jobright.ai/jobs/info/6a05591b7c753c287f6f8b35?utm_campaign=1058&utm_source=git)** | US-VA-Arlington | On Site | May 13 |
 | ↳ | **[EUD Desktop Support Technician (Intern)](https://jobright.ai/jobs/info/6a05591a7c753c287f6f8b34?utm_campaign=1058&utm_source=git)** | US-VA-Alexandria | On Site | May 13 |
 | **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[IT Support Desk Intern- Fall 2026](https://jobright.ai/jobs/info/6a05585dbc4184089f2449e0?utm_campaign=1058&utm_source=git)** | Tampa, FL, US | On Site | May 13 |
 | ↳ | **[IT Support Desk Intern- Fall 2026](https://jobright.ai/jobs/info/6a05585abc4184089f2449de?utm_campaign=1058&utm_source=git)** | US-FL-Tampa | On Site | May 13 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[RÖDL USA](http://www.roedl.us)** | **[Praktikant (w/m/d)](https://jobright.ai/jobs/info/682977756dd7e5f8b5d79e42?utm_campaign=1058&utm_source=git)** | Greenville, SC | On Site | May 13 |
 | **[Achievement First](https://www.achievementfirst.org/)** | **[IT Intern, Rhode Island](https://jobright.ai/jobs/info/69caf434466f1e133aac93a8?utm_campaign=1058&utm_source=git)** | Rhode Island, United States | On Site | May 13 |
 | **[MyMichigan Health](https://www.mymichigan.org)** | **[Pharmacist Intern - Saginaw](https://jobright.ai/jobs/info/69b105afdfaeda6ff59be1a6?utm_campaign=1058&utm_source=git)** | Saginaw, MI | On Site | May 13 |
-| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/6a057d5d6c07461fe1716a0a?utm_campaign=1058&utm_source=git)** | Belleville, NJ | On Site | May 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
