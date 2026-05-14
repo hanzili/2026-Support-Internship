@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HOPE Incorporated](https://hopearizona.org/)** | **[Warm Line Intern (Volunteer)](https://jobright.ai/jobs/info/6a056d8ebc4184089f24519e?utm_campaign=1058&utm_source=git)** | Tucson,AZ,US | On Site | May 13 |
+| **[City of Hoover](http://www.hooveral.org)** | **[Student Intern](https://jobright.ai/jobs/info/6a05605df3d6cc51d6388a43?utm_campaign=1058&utm_source=git)** | Birmingham, AL | On Site | May 13 |
 | **[Empower AI](https://www.empower.ai/)** | **[EUD Desktop Support Technician (Intern)](https://jobright.ai/jobs/info/6a0559247c753c287f6f8b37?utm_campaign=1058&utm_source=git)** | Alexandria, VA, US | On Site | May 13 |
-| ↳ | **[EUD Desktop Support Technician (Intern)](https://jobright.ai/jobs/info/6a05591b7c753c287f6f8b35?utm_campaign=1058&utm_source=git)** | US-VA-Arlington | On Site | May 13 |
 | ↳ | **[EUD Desktop Support Technician (Intern)](https://jobright.ai/jobs/info/6a05591b7c753c287f6f8b36?utm_campaign=1058&utm_source=git)** | Arlington, VA, US | On Site | May 13 |
+| ↳ | **[EUD Desktop Support Technician (Intern)](https://jobright.ai/jobs/info/6a05591b7c753c287f6f8b35?utm_campaign=1058&utm_source=git)** | US-VA-Arlington | On Site | May 13 |
 | ↳ | **[EUD Desktop Support Technician (Intern)](https://jobright.ai/jobs/info/6a05591a7c753c287f6f8b34?utm_campaign=1058&utm_source=git)** | US-VA-Alexandria | On Site | May 13 |
 | **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[IT Support Desk Intern- Fall 2026](https://jobright.ai/jobs/info/6a05585dbc4184089f2449e0?utm_campaign=1058&utm_source=git)** | Tampa, FL, US | On Site | May 13 |
 | ↳ | **[IT Support Desk Intern- Fall 2026](https://jobright.ai/jobs/info/6a05585abc4184089f2449de?utm_campaign=1058&utm_source=git)** | US-FL-Tampa | On Site | May 13 |
@@ -102,8 +104,8 @@ For a complete list, click the following sortable link below:
 | **[Matic Robots](https://maticrobots.com)** | **[Customer Support Intern](https://jobright.ai/jobs/info/6a04e4086c07461fe1711a2d?utm_campaign=1058&utm_source=git)** | Mountain View, CA | On Site | May 13 |
 | **[BioWave Corporation](http://www.biowave.com)** | **[Customer Service Internship](https://jobright.ai/jobs/info/6a04e3bff3d6cc51d63843da?utm_campaign=1058&utm_source=git)** | Westport, CT | On Site | May 13 |
 | **[DOCUmation](https://mation.com)** | **[Inventory Handler Intern](https://jobright.ai/jobs/info/6a04e3be22395b6dc6da1bde?utm_campaign=1058&utm_source=git)** | Arlington, Texas, United States | On Site | May 13 |
-| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a04e3574373b07358a37ce4?utm_campaign=1058&utm_source=git)** | 1180 S ROSELLE RD,SCHAUMBURG,IL,60193 | On Site | May 13 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a04e3574373b07358a37ce5?utm_campaign=1058&utm_source=git)** | 899 S IL ROUTE 59,BARTLETT,IL,60103-01703-15482-S | On Site | May 13 |
+| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a04e3574373b07358a37ce5?utm_campaign=1058&utm_source=git)** | 899 S IL ROUTE 59,BARTLETT,IL,60103-01703-15482-S | On Site | May 13 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a04e3574373b07358a37ce4?utm_campaign=1058&utm_source=git)** | 1180 S ROSELLE RD,SCHAUMBURG,IL,60193 | On Site | May 13 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a04e3574373b07358a37ce0?utm_campaign=1058&utm_source=git)** | 361 BERGEN ST,NEWARK,NJ,07103-02201-12064-S | On Site | May 13 |
 | **[Alkeus Pharmaceuticals, Inc.](http://www.alkeuspharma.com)** | **[Intern - Information Technology (IT)](https://jobright.ai/jobs/info/6a04e1ecf3d6cc51d6384180?utm_campaign=1058&utm_source=git)** | Cambridge, MA | On Site | May 13 |
 | **[Perdue Brandon Fielder Collins & Mott, LLP](https://www.pbfcm.com/)** | **[Intern](https://jobright.ai/jobs/info/6a04de7abc4184089f240409?utm_campaign=1058&utm_source=git)** | Houston,TX,US | On Site | May 13 |
@@ -111,8 +113,8 @@ For a complete list, click the following sortable link below:
 | **[Cohesity](https://www.cohesity.com/)** | **[Technical Support Intern - Summer 2026](https://jobright.ai/jobs/info/6a04d7f1bc4184089f23fdb5?utm_campaign=1058&utm_source=git)** | Santa Clara, CA | Hybrid | May 13 |
 | **[Princeton Day School](https://www.pds.org)** | **[Temporary Summer IT Assistant](https://jobright.ai/jobs/info/6a04f2a97c753c287f6f4ee2?utm_campaign=1058&utm_source=git)** | Princeton, NJ | On Site | May 13 |
 | **[Intermountain Health](https://intermountainhealthcare.org)** | **[Student Intern I-NonClinical](https://jobright.ai/jobs/info/6a04cd844373b07358a37010?utm_campaign=1058&utm_source=git)** | Intermountain Health Intermountain Medical Center, US | On Site | May 13 |
-| **[McLaren Health Care](http://www.mclaren.org)** | **[Intern- Sterile Processing](https://jobright.ai/jobs/info/69fb4aebd21cf86d1e3d18f9?utm_campaign=1058&utm_source=git)** | Petoskey, MI | On Site | May 13 |
-| ↳ | **[Intern- Patient Access](https://jobright.ai/jobs/info/6a04f245f3d6cc51d6384883?utm_campaign=1058&utm_source=git)** | Petoskey, MI | On Site | May 13 |
+| **[McLaren Health Care](http://www.mclaren.org)** | **[Intern- Patient Access](https://jobright.ai/jobs/info/6a04f245f3d6cc51d6384883?utm_campaign=1058&utm_source=git)** | Petoskey, MI | On Site | May 13 |
+| ↳ | **[Intern- Sterile Processing](https://jobright.ai/jobs/info/69fb4aebd21cf86d1e3d18f9?utm_campaign=1058&utm_source=git)** | Petoskey, MI | On Site | May 13 |
 | **[Medical University of South Carolina](http://www.musc.edu)** | **[Intern-PhD](https://jobright.ai/jobs/info/6a04ccd44373b07358a36e61?utm_campaign=1058&utm_source=git)** | Charleston, US | On Site | May 13 |
 | **[Rackspace Technology](https://www.rackspace.com)** | **[Cyber + IT Intern I - US](https://jobright.ai/jobs/info/6a04cc26f3d6cc51d6382e18?utm_campaign=1058&utm_source=git)** | US-TX-San Antonio-SAT8, US | Hybrid | May 13 |
 | **[Wonderful Pistachios & Almonds](https://www.wonderfulpistachiosandalmonds.com/#ourdifference)** | **[Wonderful Scholar Summer Internship, IT](https://jobright.ai/jobs/info/69af6b2b749500645093e020?utm_campaign=1058&utm_source=git)** | Lost Hills, CA | On Site | May 13 |
@@ -136,6 +138,7 @@ For a complete list, click the following sortable link below:
 | **[SchoolSpring](http://www.schoolspring.com)** | **[Summer IT Intern](https://jobright.ai/jobs/info/6a04a8f16c07461fe170f7a8?utm_campaign=1058&utm_source=git)** | BHRSD District Office - Stockbridge, Massachusetts | On Site | May 13 |
 | **[RÖDL USA](http://www.roedl.us)** | **[Praktikant (w/m/d)](https://jobright.ai/jobs/info/682977756dd7e5f8b5d79e42?utm_campaign=1058&utm_source=git)** | Greenville, SC | On Site | May 13 |
 | **[Achievement First](https://www.achievementfirst.org/)** | **[IT Intern, Rhode Island](https://jobright.ai/jobs/info/69caf434466f1e133aac93a8?utm_campaign=1058&utm_source=git)** | Rhode Island, United States | On Site | May 13 |
+| **[MyMichigan Health](https://www.mymichigan.org)** | **[Pharmacist Intern - Saginaw](https://jobright.ai/jobs/info/69b105afdfaeda6ff59be1a6?utm_campaign=1058&utm_source=git)** | Saginaw, MI | On Site | May 13 |
 | **[Koya Medical, Inc.](http://www.koyamedical.com)** | **[IT Intern](https://jobright.ai/jobs/info/6a049cc57c753c287f6f1918?utm_campaign=1058&utm_source=git)** | Dallas, TX | On Site | May 13 |
 | **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/6a049cbcf811a0436960cf5e?utm_campaign=1058&utm_source=git)** | McKinney, TX | On Site | May 13 |
 | ↳ | **[Pharmacy Graduate Intern (Non-US Education)](https://jobright.ai/jobs/info/6a049ca0f811a0436960cf0a?utm_campaign=1058&utm_source=git)** | Anacortes, WA | On Site | May 13 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/6a048e626c07461fe170e401?utm_campaign=1058&utm_source=git)** | 6906 UNIVERSITY BLVD,MOON TOWNSHIP,PA,15108-04248-10917-S | On Site | May 13 |
 | **[Koya Medical, Inc.](http://www.koyamedical.com)** | **[IT Intern](https://jobright.ai/jobs/info/6a048c596c07461fe170e266?utm_campaign=1058&utm_source=git)** | Dallas, TX | On Site | May 13 |
 | **[Universal Scientific Industrial Co., Ltd.](https://www.usiglobal.com)** | **[IT Intern](https://jobright.ai/jobs/info/69cc5759891d7b11cfcabec1?utm_campaign=1058&utm_source=git)** | Milpitas, CA | On Site | May 13 |
-| **[Thomas Jefferson University](http://www.jefferson.edu/)** | **[Student PDC Intern](https://jobright.ai/jobs/info/6a0486a07c753c287f6f04ea?utm_campaign=1058&utm_source=git)** | Philadelphia, PA, US | On Site | May 13 |
-| **[TD](https://www.td.com)** | **[Intern](https://jobright.ai/jobs/info/6a0484f8bc4184089f23bd15?utm_campaign=1058&utm_source=git)** | New York, New York, US | Hybrid | May 13 |
-| **[Children's Hospital of The King's Daughters](https://www.chkd.org/)** | **[Respiratory Student Aide](https://jobright.ai/jobs/info/69af6821749500645093de7f?utm_campaign=1058&utm_source=git)** | Norfolk, VA | On Site | May 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
