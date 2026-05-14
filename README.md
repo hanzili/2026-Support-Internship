@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wipfli](http://www.wipfli.com)** | **[IT Helpdesk Internship](https://jobright.ai/jobs/info/6a0523f26c07461fe17143a5?utm_campaign=1058&utm_source=git)** | Eau Claire, WI | Hybrid | May 13 |
+| **[Adient](https://www.adient.com)** | **[Intern IT](https://jobright.ai/jobs/info/6a052122bc4184089f2430f5?utm_campaign=1058&utm_source=git)** | Eastaboga, AL | On Site | May 13 |
+| **[Kessler Collection](http://www.kesslercollection.com)** | **[J1 Visa - Guest Services Internship](https://jobright.ai/jobs/info/6a051cdabc4184089f242f89?utm_campaign=1058&utm_source=git)** | US-GA-Savannah | On Site | May 13 |
+| ↳ | **[J1 Visa - Guest Services Internship](https://jobright.ai/jobs/info/6a051cd8bc4184089f242f88?utm_campaign=1058&utm_source=git)** | Savannah, GA, US | On Site | May 13 |
+| **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/6a051be6bc4184089f242f5a?utm_campaign=1058&utm_source=git)** | 801 7TH ST NW, WASHINGTON, DC, 20001 | On Site | May 13 |
+| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a051bd6bc4184089f242f56?utm_campaign=1058&utm_source=git)** | 9530 CRAIN HWY,UPPER MARLBORO,MD,20772 | On Site | May 13 |
+| **[Rackspace Technology](https://www.rackspace.com)** | **[Cyber + IT Intern I - US](https://jobright.ai/jobs/info/6a051afcbc4184089f242ea7?utm_campaign=1058&utm_source=git)** | San Antonio, TX | Hybrid | May 13 |
 | **[Bloom Energy](http://www.bloomenergy.com)** | **[IT Helpdesk Intern](https://jobright.ai/jobs/info/6a050dd56c07461fe171361d?utm_campaign=1058&utm_source=git)** | Fremont, CA | On Site | May 13 |
 | **[Wounded Warrior Project](https://www.woundedwarriorproject.org)** | **[Intern - IT Service Desk](https://jobright.ai/jobs/info/6a0507824373b07358a397f3?utm_campaign=1058&utm_source=git)** | Jacksonville, FL | Hybrid | May 13 |
 | **[Alera Group, Inc.](http://aleragroup.com)** | **[Intern](https://jobright.ai/jobs/info/6a0500b1f3d6cc51d6385ce7?utm_campaign=1058&utm_source=git)** | US-NC-Raleigh | On Site | May 13 |
@@ -65,13 +72,14 @@ For a complete list, click the following sortable link below:
 | **[Bloom Energy](http://www.bloomenergy.com)** | **[IT Helpdesk Intern](https://jobright.ai/jobs/info/6a04fb397c753c287f6f56d3?utm_campaign=1058&utm_source=git)** | Fremont, California, US | On Site | May 13 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[IS Services & Support Intern (or Co-Op)](https://jobright.ai/jobs/info/6a04f28d4373b07358a38455?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | May 13 |
 | **[Hyatt Regency](http://www.regency.hyatt.com/)** | **[Front Office Host Internship](https://jobright.ai/jobs/info/6a04f2796c07461fe1712152?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | May 13 |
-| **[Ohio Gastroenterology Group, Inc.](https://ohiogastro.com)** | **[Summer Internship Opportunity- Endoscopy Technician](https://jobright.ai/jobs/info/6a04ebf44373b07358a3808b?utm_campaign=1058&utm_source=git)** | Pickerington, OH 43147, USA | On Site | May 13 |
-| ↳ | **[Summer Internship Opportunity- Endoscopy Technician](https://jobright.ai/jobs/info/6a04ebf44373b07358a3808c?utm_campaign=1058&utm_source=git)** | Columbus, OH 43202, USA | On Site | May 13 |
+| **[Ohio Gastroenterology Group, Inc.](https://ohiogastro.com)** | **[Summer Internship Opportunity- Endoscopy Technician](https://jobright.ai/jobs/info/6a04ebf44373b07358a3808c?utm_campaign=1058&utm_source=git)** | Columbus, OH 43202, USA | On Site | May 13 |
+| ↳ | **[Summer Internship Opportunity- Endoscopy Technician](https://jobright.ai/jobs/info/6a04ebf44373b07358a3808b?utm_campaign=1058&utm_source=git)** | Pickerington, OH 43147, USA | On Site | May 13 |
 | ↳ | **[Summer Internship Opportunity- Endoscopy Technician](https://jobright.ai/jobs/info/6a04ebf34373b07358a3808a?utm_campaign=1058&utm_source=git)** | Dublin, OH 43016, USA | On Site | May 13 |
 | **[Kalahari Resorts & Conventions](http://www.kalahariresorts.com)** | **[Guest Services Internship Program](https://jobright.ai/jobs/info/6a04ea67bc4184089f240a60?utm_campaign=1058&utm_source=git)** | Wisconsin Dells, WI, 53965, United States | On Site | May 13 |
 | **[Hotwire Communications Ltd](http://hotwirecommunications.com)** | **[Intern Level 1](https://jobright.ai/jobs/info/6a04e90522395b6dc6da1d8f?utm_campaign=1058&utm_source=git)** | Fort Lauderdale, Florida, United States | On Site | May 13 |
 | **[Wounded Warrior Project](https://www.woundedwarriorproject.org)** | **[Intern - IT Service Desk](https://jobright.ai/jobs/info/6a04e7214373b07358a37ebc?utm_campaign=1058&utm_source=git)** | Jacksonville, FL, US | Hybrid | May 13 |
 | **[Cranemasters](https://www.cranemasters.com)** | **[IT Intern](https://jobright.ai/jobs/info/6a04e61c4373b07358a37e5b?utm_campaign=1058&utm_source=git)** | North Chesterfield, VA 23237, USA | Hybrid | May 13 |
+| **[BNP Paribas](https://group.bnpparibas)** | **[Functional Support Analyst Intern – Fall 2026](https://jobright.ai/jobs/info/6a051a37f3d6cc51d63869c8?utm_campaign=1058&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | May 13 |
 | **[City of Hoover](http://www.hooveral.org)** | **[Student Intern](https://jobright.ai/jobs/info/6a04e53a7c753c287f6f489c?utm_campaign=1058&utm_source=git)** | Hoover, AL, US | On Site | May 13 |
 | **[Matic Robots](https://maticrobots.com)** | **[Customer Support Intern](https://jobright.ai/jobs/info/6a04e4086c07461fe1711a2d?utm_campaign=1058&utm_source=git)** | Mountain View, CA | On Site | May 13 |
 | **[BioWave Corporation](http://www.biowave.com)** | **[Customer Service Internship](https://jobright.ai/jobs/info/6a04e3bff3d6cc51d63843da?utm_campaign=1058&utm_source=git)** | Westport, CT | On Site | May 13 |
@@ -85,8 +93,8 @@ For a complete list, click the following sortable link below:
 | **[Cohesity](https://www.cohesity.com/)** | **[Technical Support Intern - Summer 2026](https://jobright.ai/jobs/info/6a04d7f1bc4184089f23fdb5?utm_campaign=1058&utm_source=git)** | Santa Clara, CA | Hybrid | May 13 |
 | **[Princeton Day School](https://www.pds.org)** | **[Temporary Summer IT Assistant](https://jobright.ai/jobs/info/6a04f2a97c753c287f6f4ee2?utm_campaign=1058&utm_source=git)** | Princeton, NJ | On Site | May 13 |
 | **[Intermountain Health](https://intermountainhealthcare.org)** | **[Student Intern I-NonClinical](https://jobright.ai/jobs/info/6a04cd844373b07358a37010?utm_campaign=1058&utm_source=git)** | Intermountain Health Intermountain Medical Center, US | On Site | May 13 |
-| **[McLaren Health Care](http://www.mclaren.org)** | **[Intern- Sterile Processing](https://jobright.ai/jobs/info/69fb4aebd21cf86d1e3d18f9?utm_campaign=1058&utm_source=git)** | Petoskey, MI | On Site | May 13 |
-| ↳ | **[Intern- Patient Access](https://jobright.ai/jobs/info/6a04f245f3d6cc51d6384883?utm_campaign=1058&utm_source=git)** | Petoskey, MI | On Site | May 13 |
+| **[McLaren Health Care](http://www.mclaren.org)** | **[Intern- Patient Access](https://jobright.ai/jobs/info/6a04f245f3d6cc51d6384883?utm_campaign=1058&utm_source=git)** | Petoskey, MI | On Site | May 13 |
+| ↳ | **[Intern- Sterile Processing](https://jobright.ai/jobs/info/69fb4aebd21cf86d1e3d18f9?utm_campaign=1058&utm_source=git)** | Petoskey, MI | On Site | May 13 |
 | **[Medical University of South Carolina](http://www.musc.edu)** | **[Intern-PhD](https://jobright.ai/jobs/info/6a04ccd44373b07358a36e61?utm_campaign=1058&utm_source=git)** | Charleston, US | On Site | May 13 |
 | **[Rackspace Technology](https://www.rackspace.com)** | **[Cyber + IT Intern I - US](https://jobright.ai/jobs/info/6a04cc26f3d6cc51d6382e18?utm_campaign=1058&utm_source=git)** | US-TX-San Antonio-SAT8, US | Hybrid | May 13 |
 | **[Wonderful Pistachios & Almonds](https://www.wonderfulpistachiosandalmonds.com/#ourdifference)** | **[Wonderful Scholar Summer Internship, IT](https://jobright.ai/jobs/info/69af6b2b749500645093e020?utm_campaign=1058&utm_source=git)** | Lost Hills, CA | On Site | May 13 |
@@ -146,15 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Texas Department of Transportation](https://www.txdot.gov)** | **[Intern Support Technician - San Antonio](https://jobright.ai/jobs/info/6a03e88df3d6cc51d637a939?utm_campaign=1058&utm_source=git)** | San Antonio, Texas Metropolitan Area | On Site | May 12 |
 | **[PARKVIEW HEALTH SYSTEM INC](https://www.parkview.com/)** | **[IT Service Management (ITSM) Non-Clinical Intern](https://jobright.ai/jobs/info/6a03dbe4f3d6cc51d637a2f7?utm_campaign=1058&utm_source=git)** | Fort Wayne, IN | On Site | May 12 |
 | **[arrivia](https://www.arrivia.com/)** | **[Information Technology Intern](https://jobright.ai/jobs/info/6a03d1e27c753c287f6ea9bd?utm_campaign=1058&utm_source=git)** | Scottsdale, AZ | On Site | May 12 |
-| **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/6a03cb8622395b6dc6d980cd?utm_campaign=1058&utm_source=git)** | 4701 TOWN CENTER DR,LEAWOOD,KS,66211 | On Site | May 12 |
-| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a03cb8622395b6dc6d980ce?utm_campaign=1058&utm_source=git)** | 621 N MAGUIRE ST,WARRENSBURG,MO,64093-01419-01235-S | On Site | May 12 |
+| **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/6a03cb8622395b6dc6d980ce?utm_campaign=1058&utm_source=git)** | 621 N MAGUIRE ST,WARRENSBURG,MO,64093-01419-01235-S | On Site | May 12 |
+| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a03cb8622395b6dc6d980cd?utm_campaign=1058&utm_source=git)** | 4701 TOWN CENTER DR,LEAWOOD,KS,66211 | On Site | May 12 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a03c9e1f3d6cc51d6379e1d?utm_campaign=1058&utm_source=git)** | 2586 WOODRUFF RD,SIMPSONVILLE,SC,29681 | On Site | May 12 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a03c9d9f3d6cc51d6379e12?utm_campaign=1058&utm_source=git)** | 2008 LAURENS RD,GREENVILLE,SC,29607-02915-12164-S | On Site | May 12 |
-| **[Young Life](https://sworlando.younglife.org)** | **[AWR Summer Intern - Guest Services](https://jobright.ai/jobs/info/6a03c6a88ecfd93cd9c119aa?utm_campaign=1058&utm_source=git)** | Mount Nebo, WV | On Site | May 12 |
-| **[VelocityEHS](https://www.ehs.com/)** | **[Customer Experience Intern (Fall 2026)](https://jobright.ai/jobs/info/6a03c6a06c07461fe17075b0?utm_campaign=1058&utm_source=git)** | Little Canada, MN | Hybrid | May 12 |
-| **[NKU Graduate Education](https://www.nku.edu/admissions/graduate.html)** | **[Student Technology Support Specialist (NKU Students)](https://jobright.ai/jobs/info/6a03c6836c07461fe1707520?utm_campaign=1058&utm_source=git)** | Newport, KY | On Site | May 12 |
-| **[The Marine Mammal Center](https://www.marinemammalcenter.org/)** | **[Response Dispatch Intern](https://jobright.ai/jobs/info/6a03c5847c753c287f6ea235?utm_campaign=1058&utm_source=git)** | Sausalito, CA | On Site | May 12 |
-| **[Stop & Shop](http://stopandshop.com)** | **[PT Pharmacy Intern - Pharmacy - 0726](https://jobright.ai/jobs/info/69cbd771cfdc6132f940939c?utm_campaign=1058&utm_source=git)** | Warwick, RI | On Site | May 12 |
-| **[Frederick County Public Schools](http://www.fcps.org)** | **[Student Information System Support Technician](https://jobright.ai/jobs/info/6a03b5f8f3d6cc51d637959b?utm_campaign=1058&utm_source=git)** | Frederick, MD | On Site | May 12 |
-| **[Augusta University](http://www.augusta.edu)** | **[GCITC Intern](https://jobright.ai/jobs/info/6a03b5a522395b6dc6d976b2?utm_campaign=1058&utm_source=git)** | Augusta, GA | On Site | May 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
