@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SHINE Technologies](https://www.shinefusion.com)** | **[IT Intern](https://jobright.ai/jobs/info/6a0588d5f3d6cc51d6389aea?utm_campaign=1058&utm_source=git)** | Janesville, WI | On Site | May 14 |
 | **[BCI](https://www.bci.ca/)** | **[Technology Specialist Co-op/Internship (Fall 2026)](https://jobright.ai/jobs/info/6a05779afbf3d169d3c5f3b0?utm_campaign=1058&utm_source=git)** | Victoria, BC, CA | Hybrid | May 14 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/6a0573cefbf3d169d3c5f289?utm_campaign=1058&utm_source=git)** | Vevay, IN | On Site | May 14 |
 | **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/6a056fcbfbf3d169d3c5f043?utm_campaign=1058&utm_source=git)** | 1015 N TOWN EAST BLVD,MESQUITE,TX,75150 | On Site | May 13 |
@@ -88,7 +89,6 @@ For a complete list, click the following sortable link below:
 | **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/6a051be6bc4184089f242f5a?utm_campaign=1058&utm_source=git)** | 801 7TH ST NW, WASHINGTON, DC, 20001 | On Site | May 13 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a051bd6bc4184089f242f56?utm_campaign=1058&utm_source=git)** | 9530 CRAIN HWY,UPPER MARLBORO,MD,20772 | On Site | May 13 |
 | **[Rackspace Technology](https://www.rackspace.com)** | **[Cyber + IT Intern I - US](https://jobright.ai/jobs/info/6a051afcbc4184089f242ea7?utm_campaign=1058&utm_source=git)** | San Antonio, TX | Hybrid | May 13 |
-| **[Bloom Energy](http://www.bloomenergy.com)** | **[IT Helpdesk Intern](https://jobright.ai/jobs/info/6a050dd56c07461fe171361d?utm_campaign=1058&utm_source=git)** | Fremont, CA | On Site | May 13 |
 | **[Wounded Warrior Project](https://www.woundedwarriorproject.org)** | **[Intern - IT Service Desk](https://jobright.ai/jobs/info/6a0507824373b07358a397f3?utm_campaign=1058&utm_source=git)** | Jacksonville, FL | Hybrid | May 13 |
 | **[Alera Group, Inc.](http://aleragroup.com)** | **[Intern](https://jobright.ai/jobs/info/6a0500b1f3d6cc51d6385ce7?utm_campaign=1058&utm_source=git)** | US-NC-Raleigh | On Site | May 13 |
 | **[SHINE Technologies](https://www.shinefusion.com)** | **[IT Intern](https://jobright.ai/jobs/info/6a05000f7c753c287f6f5dbf?utm_campaign=1058&utm_source=git)** | Janesville, WI | On Site | May 13 |
@@ -107,8 +107,8 @@ For a complete list, click the following sortable link below:
 | **[Matic Robots](https://maticrobots.com)** | **[Customer Support Intern](https://jobright.ai/jobs/info/6a04e4086c07461fe1711a2d?utm_campaign=1058&utm_source=git)** | Mountain View, CA | On Site | May 13 |
 | **[BioWave Corporation](http://www.biowave.com)** | **[Customer Service Internship](https://jobright.ai/jobs/info/6a04e3bff3d6cc51d63843da?utm_campaign=1058&utm_source=git)** | Westport, CT | On Site | May 13 |
 | **[DOCUmation](https://mation.com)** | **[Inventory Handler Intern](https://jobright.ai/jobs/info/6a04e3be22395b6dc6da1bde?utm_campaign=1058&utm_source=git)** | Arlington, Texas, United States | On Site | May 13 |
-| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a04e3574373b07358a37ce5?utm_campaign=1058&utm_source=git)** | 899 S IL ROUTE 59,BARTLETT,IL,60103-01703-15482-S | On Site | May 13 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a04e3574373b07358a37ce4?utm_campaign=1058&utm_source=git)** | 1180 S ROSELLE RD,SCHAUMBURG,IL,60193 | On Site | May 13 |
+| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a04e3574373b07358a37ce4?utm_campaign=1058&utm_source=git)** | 1180 S ROSELLE RD,SCHAUMBURG,IL,60193 | On Site | May 13 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a04e3574373b07358a37ce5?utm_campaign=1058&utm_source=git)** | 899 S IL ROUTE 59,BARTLETT,IL,60103-01703-15482-S | On Site | May 13 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a04e3574373b07358a37ce0?utm_campaign=1058&utm_source=git)** | 361 BERGEN ST,NEWARK,NJ,07103-02201-12064-S | On Site | May 13 |
 | **[Alkeus Pharmaceuticals, Inc.](http://www.alkeuspharma.com)** | **[Intern - Information Technology (IT)](https://jobright.ai/jobs/info/6a04e1ecf3d6cc51d6384180?utm_campaign=1058&utm_source=git)** | Cambridge, MA | On Site | May 13 |
 | **[Perdue Brandon Fielder Collins & Mott, LLP](https://www.pbfcm.com/)** | **[Intern](https://jobright.ai/jobs/info/6a04de7abc4184089f240409?utm_campaign=1058&utm_source=git)** | Houston,TX,US | On Site | May 13 |
