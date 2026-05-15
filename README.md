@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/6a06a55bbc4184089f250d66?utm_campaign=1058&utm_source=git)** | 501 PLAINFIELD RD,WILLOWBROOK,IL,60527-05341-04572-S | On Site | May 14 |
 | **[EnergyHub](http://www.energyhub.com)** | **[Technical Writing Intern](https://jobright.ai/jobs/info/6a0699d6f3d6cc51d6394980?utm_campaign=1058&utm_source=git)** | United States | Remote | May 14 |
 | **[City of Durango](https://www.durangoco.gov)** | **[911 Emergency Communications Intern](https://jobright.ai/jobs/info/6a0694e17c753c287f704607?utm_campaign=1058&utm_source=git)** | Durango, CO | On Site | May 14 |
 | **[EnergyHub](http://www.energyhub.com)** | **[Technical Writing Intern](https://jobright.ai/jobs/info/6a068f227c753c287f704242?utm_campaign=1058&utm_source=git)** | New York, NY | Hybrid | May 14 |
@@ -69,8 +70,8 @@ For a complete list, click the following sortable link below:
 | **[Stillwater Insurance Group](http://stillwaterinsurance.com)** | **[Summer Claims Intern - Claims Department - Omaha, NE Office](https://jobright.ai/jobs/info/6a066d80320bff2205eac999?utm_campaign=1058&utm_source=git)** | Omaha, NE | On Site | May 14 |
 | **[International Foundation of Employee Benefit Plans (IFEBP)](http://www.ifebp.org/)** | **[Fall 2026 Internship: Information Technologies (Onsite)](https://jobright.ai/jobs/info/6a065ac8320bff2205eabf8a?utm_campaign=1058&utm_source=git)** | Brookfield, WI | On Site | May 14 |
 | **[IHG Hotels & Resorts](https://www.ihgplc.com/)** | **[Front Office & Guest Relations Intern](https://jobright.ai/jobs/info/6a065a516c07461fe171fb37?utm_campaign=1058&utm_source=git)** | Atlanta, GA | On Site | May 14 |
-| **[Omni Fort Worth Hotel](https://www.omnihotels.com/)** | **[Omni Cares Internship - Rooms (Summer 2026)](https://jobright.ai/jobs/info/6a0653eef3d6cc51d63927f3?utm_campaign=1058&utm_source=git)** | Hot Springs, VA, US | On Site | May 14 |
-| ↳ | **[Omni Cares Internship - Rooms (Summer 2026)](https://jobright.ai/jobs/info/6a0653eef3d6cc51d63927f2?utm_campaign=1058&utm_source=git)** | US-VA-Hot Springs | On Site | May 14 |
+| **[Omni Fort Worth Hotel](https://www.omnihotels.com/)** | **[Omni Cares Internship - Rooms (Summer 2026)](https://jobright.ai/jobs/info/6a0653eef3d6cc51d63927f2?utm_campaign=1058&utm_source=git)** | US-VA-Hot Springs | On Site | May 14 |
+| ↳ | **[Omni Cares Internship - Rooms (Summer 2026)](https://jobright.ai/jobs/info/6a0653eef3d6cc51d63927f3?utm_campaign=1058&utm_source=git)** | Hot Springs, VA, US | On Site | May 14 |
 | **[Pansophic Learning](https://pansophiclearning.com/)** | **[Summer IT Intern](https://jobright.ai/jobs/info/6a0652416c07461fe171f5c9?utm_campaign=1058&utm_source=git)** | Parma, OH | On Site | May 14 |
 | **[Inotiv](https://www.inotiv.com/)** | **[Histology Intern](https://jobright.ai/jobs/info/6a0651c46c07461fe171f397?utm_campaign=1058&utm_source=git)** | St Louis, MO | On Site | May 14 |
 | **[InterContinental Chicago Magnificent Mile](https://www.icchicagohotel.com/)** | **[F&B Intern](https://jobright.ai/jobs/info/6a065153f3d6cc51d6392515?utm_campaign=1058&utm_source=git)** | 3315 Peachtree Rd NE, Atlanta, GA, 30326, US | On Site | May 14 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a06164a320bff2205ea7e5c?utm_campaign=1058&utm_source=git)** | Pasco, WA | On Site | May 14 |
 | **[Orrick, Herrington & Sutcliffe LLP](https://www.orrick.com)** | **[IT Service Operations Intern](https://jobright.ai/jobs/info/69e99df558811370cb12e71b?utm_campaign=1058&utm_source=git)** | Wheeling, WV | Hybrid | May 14 |
 | **[Heart City Health](https://www.heartcityhealth.org)** | **[Managed Care Coord. Assistant - Intern](https://jobright.ai/jobs/info/6a05e619bc4184089f248a50?utm_campaign=1058&utm_source=git)** | Elkhart, IN, US | On Site | May 14 |
-| ↳ | **[Medical Records Assistant - Intern](https://jobright.ai/jobs/info/6a05e613f3d6cc51d638c792?utm_campaign=1058&utm_source=git)** | Elkhart, IN, US | On Site | May 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
