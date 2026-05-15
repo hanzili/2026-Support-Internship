@@ -57,6 +57,24 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Xometry](https://www.xometry.com)** | **[Customer Support Intern](https://jobright.ai/jobs/info/695dc344efe5dd5cbd3d9d49?utm_campaign=1058&utm_source=git)** | Lexington, KY | Hybrid | May 15 |
+| ↳ | **[Customer Support Intern](https://jobright.ai/jobs/info/6a06eab14b07a86277877c2a?utm_campaign=1058&utm_source=git)** | Waltham, MA | Hybrid | May 15 |
+| ↳ | **[Customer Support Intern](https://jobright.ai/jobs/info/6a06eab14b07a86277877c29?utm_campaign=1058&utm_source=git)** | North Bethesda, MD | Hybrid | May 15 |
+| ↳ | **[Customer Support Intern](https://jobright.ai/jobs/info/6a06eaa54f290f7450ea40bd?utm_campaign=1058&utm_source=git)** | North Bethesda, MD | Hybrid | May 15 |
+| ↳ | **[Customer Support Intern](https://jobright.ai/jobs/info/6952d982f1f8465b79ea22d4?utm_campaign=1058&utm_source=git)** | Waltham, MA | Hybrid | May 15 |
+| ↳ | **[Customer Support Intern](https://jobright.ai/jobs/info/6a06eaa54f290f7450ea40bc?utm_campaign=1058&utm_source=git)** | Lexington, KY | Hybrid | May 15 |
+| ↳ | **[Case Management Intern](https://jobright.ai/jobs/info/6a06ea9d4f290f7450ea40a3?utm_campaign=1058&utm_source=git)** | Gaithersburg, MD | Hybrid | May 15 |
+| ↳ | **[Case Management Intern](https://jobright.ai/jobs/info/6a06ea9d4f290f7450ea40a5?utm_campaign=1058&utm_source=git)** | North Bethesda, MD | Hybrid | May 15 |
+| ↳ | **[Case Management Intern](https://jobright.ai/jobs/info/6a06ea9b33c2ed3770bca085?utm_campaign=1058&utm_source=git)** | Gaithersburg, MD | Hybrid | May 15 |
+| ↳ | **[Case Management Intern](https://jobright.ai/jobs/info/6a06ea9b33c2ed3770bca086?utm_campaign=1058&utm_source=git)** | Lexington, KY | Hybrid | May 15 |
+| ↳ | **[Case Management Intern](https://jobright.ai/jobs/info/6943a5e5dd382f5f5669c041?utm_campaign=1058&utm_source=git)** | North Bethesda, MD | Hybrid | May 15 |
+| ↳ | **[Case Management Intern](https://jobright.ai/jobs/info/6a06ea9a4f290f7450ea40a1?utm_campaign=1058&utm_source=git)** | Lexington, KY | Hybrid | May 15 |
+| ↳ | **[Customer Support Intern](https://jobright.ai/jobs/info/695ab318aa05c26e7ab4364b?utm_campaign=1058&utm_source=git)** | North Bethesda, MD | Hybrid | May 15 |
+| ↳ | **[Customer Support Intern](https://jobright.ai/jobs/info/6a06ea99b897ee41d28314d6?utm_campaign=1058&utm_source=git)** | Lexington, KY | Hybrid | May 15 |
+| ↳ | **[Case Management Intern](https://jobright.ai/jobs/info/6a06ea944f290f7450ea409b?utm_campaign=1058&utm_source=git)** | Waltham, MA | Hybrid | May 15 |
+| ↳ | **[Case Management Intern](https://jobright.ai/jobs/info/6a06ea934f290f7450ea4099?utm_campaign=1058&utm_source=git)** | Lexington, KY | Hybrid | May 15 |
+| **[Zuora](https://www.zuora.com)** | **[Intern, Customer](https://jobright.ai/jobs/info/69fed425d0dc596b8d11a368?utm_campaign=1058&utm_source=git)** | Remote - United States | Remote | May 15 |
+| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a06dfbeb897ee41d28311c7?utm_campaign=1058&utm_source=git)** | 5917 BASELINE RD,LITTLE ROCK,AR,72209 | On Site | May 15 |
 | **[Naperville Community Unit School District 203](https://www.naperville203.org/)** | **[Student Intern - Technology Department](https://jobright.ai/jobs/info/6a06c71438dbee7915cf6b87?utm_campaign=1058&utm_source=git)** | Naperville, IL | On Site | May 15 |
 | **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/6a06c262b897ee41d2830756?utm_campaign=1058&utm_source=git)** | 1 E OGDEN AVE,WESTMONT,IL,60559 | On Site | May 14 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a06c261b897ee41d2830754?utm_campaign=1058&utm_source=git)** | 7516 S CASS AVE,STE 1,DARIEN,IL,60561-04457-09033-S | On Site | May 14 |
@@ -110,7 +128,6 @@ For a complete list, click the following sortable link below:
 | **[Texas Department of Transportation](https://www.txdot.gov)** | **[Intern Support Technician - Mail Room](https://jobright.ai/jobs/info/6a065abe320bff2205eabf5e?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | May 14 |
 | **[Children's Wisconsin](https://childrenswi.org/)** | **[Grateful Family and System Liaison Intern](https://jobright.ai/jobs/info/6a0632babc4184089f24cb53?utm_campaign=1058&utm_source=git)** | Milwaukee, WI | On Site | May 14 |
 | **[De Havilland Aircraft of Canada Limited](https://dehavilland.com/en)** | **[IT Service Center Analyst - Summer Student](https://jobright.ai/jobs/info/6a06573d7c753c287f702769?utm_campaign=1058&utm_source=git)** | Calgary, Alberta, Canada | Hybrid | May 14 |
-| **[Xometry](https://www.xometry.com)** | **[Customer Support Intern](https://jobright.ai/jobs/info/695dc344efe5dd5cbd3d9d49?utm_campaign=1058&utm_source=git)** | Lexington, KY | Hybrid | May 14 |
 | **[Cohesity](https://www.cohesity.com/)** | **[Technical Support Intern - Summer 2026](https://jobright.ai/jobs/info/6a062f6bf3d6cc51d6390754?utm_campaign=1058&utm_source=git)** | Santa Clara, CA | Hybrid | May 14 |
 | **[Accuray](http://www.accuray.com)** | **[Service Strategy and Vendor Support Intern](https://jobright.ai/jobs/info/6a062e356c07461fe171d470?utm_campaign=1058&utm_source=git)** | Madison, WI | On Site | May 14 |
 | **[Dream](http://www.dream.ca/)** | **[Intern, Enterprise Applications Support Analyst](https://jobright.ai/jobs/info/6a0657167c753c287f70267e?utm_campaign=1058&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 14 |
@@ -140,21 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Simpson Strong-Tie](https://www.strongtie.com)** | **[Digital Support Services Intern](https://jobright.ai/jobs/info/6a060bbd7c753c287f6fe678?utm_campaign=1058&utm_source=git)** | Plano, TX | On Site | May 14 |
 | **[Mount Carmel Health System](https://www.mountcarmelhealth.com/)** | **[Pharmacy Intern Mount Carmel Dublin](https://jobright.ai/jobs/info/6994d243ce78e77b4fd8e0b1?utm_campaign=1058&utm_source=git)** | Dublin, OH | On Site | May 14 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Information Technology Analyst Intern - GIS, Power](https://jobright.ai/jobs/info/6a0607f87c753c287f6fe4e1?utm_campaign=1058&utm_source=git)** | Tacoma, WA | Hybrid | May 14 |
-| **[Jefferson Health](http://JeffersonHealth.org)** | **[Student PDC Intern](https://jobright.ai/jobs/info/6a0607bfbc4184089f24a2fe?utm_campaign=1058&utm_source=git)** | Philadelphia, PA | On Site | May 14 |
-| **[Formic](https://formic.co)** | **[Summer 2026 Intern](https://jobright.ai/jobs/info/6994d5f1e0bddb6acac352a3?utm_campaign=1058&utm_source=git)** | Bolingbrook, IL | On Site | May 14 |
-| **[Marriott International](https://www.marriott.com/hotels/travel/mkeak-hotel-metro-autograph-collection/)** | **[Front Desk Intern](https://jobright.ai/jobs/info/6a06015a320bff2205ea6ef6?utm_campaign=1058&utm_source=git)** | 3300 Newport Blvd, Newport Beach, CA, 92663, US | On Site | May 14 |
-| **[Beckman Coulter Life Sciences](https://www.mybeckman.uk/)** | **[Intern, IT Analyst](https://jobright.ai/jobs/info/6a0600346c07461fe171b305?utm_campaign=1058&utm_source=git)** | London, Ontario, Canada | Remote | May 14 |
-| **[Jade Global](https://www.jadeglobal.com)** | **[Functional Intern](https://jobright.ai/jobs/info/6a062409bc4184089f24bee7?utm_campaign=1058&utm_source=git)** | Ogden, UT | On Site | May 14 |
-| **[Hitachi Rail](http://www.hitachirail.com/)** | **[Service Delivery Intern - Spares & Repairs (Fall 2026, 8 or 12 months)](https://jobright.ai/jobs/info/6a05fc79320bff2205ea6bcf?utm_campaign=1058&utm_source=git)** | 100 Consilium Place, Scarborough, ON M1H 3E3 | Hybrid | May 14 |
-| **[Geotab](http://www.geotab.com/)** | **[Support Operations Intern (Fall/ September 2026, 4 - 12 Months)](https://jobright.ai/jobs/info/6a05f9877c753c287f6fda0d?utm_campaign=1058&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | May 14 |
-| **[The Seaboard Transport Group](https://seaboardtransportgroup.com/)** | **[IT Co-op Student](https://jobright.ai/jobs/info/6a05f985320bff2205ea68c7?utm_campaign=1058&utm_source=git)** | Dartmouth, Nova Scotia, Canada | On Site | May 14 |
-| **[FreshDirect](http://freshdirect.com)** | **[Customer Experience Analytics Intern](https://jobright.ai/jobs/info/69cc5107cfdc6132f940ba11?utm_campaign=1058&utm_source=git)** | Bronx, NY | On Site | May 14 |
-| **[Chubb](https://www.chubb.com/us-en)** | **[Property Intern](https://jobright.ai/jobs/info/6a05f793a88ea73abf7f5a2a?utm_campaign=1058&utm_source=git)** | 9130 S. Dadeland Blvd, Miami, FL, 33156, US | On Site | May 14 |
-| **[Danaher Corporation](https://www.danaher.com/)** | **[Intern, IT Analyst](https://jobright.ai/jobs/info/6a05f6296c07461fe171a94a?utm_campaign=1058&utm_source=git)** | CAN - Remote, CA | Remote | May 14 |
-| **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a05f5b9bc4184089f249531?utm_campaign=1058&utm_source=git)** | Adel, GA | On Site | May 14 |
-| **[Gypsum Management and Supply](http://www.gms.com)** | **[Document Clerk (Internship)](https://jobright.ai/jobs/info/6a05f2a1a88ea73abf7f5536?utm_campaign=1058&utm_source=git)** | Peachtree Corners, Georgia, US | On Site | May 14 |
-| **[Paradies Lagardère](https://www.paradieslagardere.com/)** | **[IT Intern](https://jobright.ai/jobs/info/6a05f0c7bc4184089f249094?utm_campaign=1058&utm_source=git)** | Atlanta Metro | On Site | May 14 |
-| **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/6a0630d7a88ea73abf7f8c3e?utm_campaign=1058&utm_source=git)** | Pinecrest, FL | On Site | May 14 |
-| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a05ef31a88ea73abf7f4fad?utm_campaign=1058&utm_source=git)** | Fountain, CO | On Site | May 14 |
-| **[City of Hoover](http://www.hooveral.org)** | **[Student Intern](https://jobright.ai/jobs/info/6a061601f3d6cc51d638ed0e?utm_campaign=1058&utm_source=git)** | Greater Birmingham, Alabama Area | On Site | May 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
