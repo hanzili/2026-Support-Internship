@@ -59,8 +59,8 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[International Foundation of Employee Benefit Plans (IFEBP)](http://www.ifebp.org/)** | **[Fall 2026 Internship: Information Technologies (Onsite)](https://jobright.ai/jobs/info/6a065ac8320bff2205eabf8a?utm_campaign=1058&utm_source=git)** | Brookfield, WI | On Site | May 14 |
 | **[IHG Hotels & Resorts](https://www.ihgplc.com/)** | **[Front Office & Guest Relations Intern](https://jobright.ai/jobs/info/6a065a516c07461fe171fb37?utm_campaign=1058&utm_source=git)** | Atlanta, GA | On Site | May 14 |
-| **[Omni Fort Worth Hotel](https://www.omnihotels.com/)** | **[Omni Cares Internship - Rooms (Summer 2026)](https://jobright.ai/jobs/info/6a0653eef3d6cc51d63927f2?utm_campaign=1058&utm_source=git)** | US-VA-Hot Springs | On Site | May 14 |
-| ↳ | **[Omni Cares Internship - Rooms (Summer 2026)](https://jobright.ai/jobs/info/6a0653eef3d6cc51d63927f3?utm_campaign=1058&utm_source=git)** | Hot Springs, VA, US | On Site | May 14 |
+| **[Omni Fort Worth Hotel](https://www.omnihotels.com/)** | **[Omni Cares Internship - Rooms (Summer 2026)](https://jobright.ai/jobs/info/6a0653eef3d6cc51d63927f3?utm_campaign=1058&utm_source=git)** | Hot Springs, VA, US | On Site | May 14 |
+| ↳ | **[Omni Cares Internship - Rooms (Summer 2026)](https://jobright.ai/jobs/info/6a0653eef3d6cc51d63927f2?utm_campaign=1058&utm_source=git)** | US-VA-Hot Springs | On Site | May 14 |
 | **[Pansophic Learning](https://pansophiclearning.com/)** | **[Summer IT Intern](https://jobright.ai/jobs/info/6a0652416c07461fe171f5c9?utm_campaign=1058&utm_source=git)** | Parma, OH | On Site | May 14 |
 | **[Inotiv](https://www.inotiv.com/)** | **[Histology Intern](https://jobright.ai/jobs/info/6a0651c46c07461fe171f397?utm_campaign=1058&utm_source=git)** | St Louis, MO | On Site | May 14 |
 | **[InterContinental Chicago Magnificent Mile](https://www.icchicagohotel.com/)** | **[F&B Intern](https://jobright.ai/jobs/info/6a065153f3d6cc51d6392515?utm_campaign=1058&utm_source=git)** | 3315 Peachtree Rd NE, Atlanta, GA, 30326, US | On Site | May 14 |
@@ -74,6 +74,7 @@ For a complete list, click the following sortable link below:
 | **[Videotron](http://videotron.com)** | **[Stagiaire - Soutien informatique](https://jobright.ai/jobs/info/6a06447a6c07461fe171e65c?utm_campaign=1058&utm_source=git)** | Montreal, Quebec, Canada | Remote | May 14 |
 | **[Dream](http://www.dream.ca/)** | **[Intern, Technical Support](https://jobright.ai/jobs/info/6a0641847c753c287f701377?utm_campaign=1058&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 14 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Intern IT](https://jobright.ai/jobs/info/6a06411fbc4184089f24d84f?utm_campaign=1058&utm_source=git)** | Manhattan, KS | On Site | May 14 |
+| **[Nationwide Children's Hospital](http://www.nationwidechildrens.org)** | **[Intern-IS Desktop Services](https://jobright.ai/jobs/info/6a0666547c753c287f702f5e?utm_campaign=1058&utm_source=git)** | Columbus, OH | On Site | May 14 |
 | **[Trane Technologies](https://www.tranetechnologies.com)** | **[IT Operational Execution Intern](https://jobright.ai/jobs/info/6a063b9c320bff2205eaa4e6?utm_campaign=1058&utm_source=git)** | La Crosse, Wisconsin, United States of America | On Site | May 14 |
 | **[Cudd Energy Services](http://www.cudd.com)** | **[CPC-Shop Intern](https://jobright.ai/jobs/info/6a0639ce6c07461fe171e05a?utm_campaign=1058&utm_source=git)** | Odessa, TX, US | On Site | May 14 |
 | **[Stillwater Insurance Group](http://stillwaterinsurance.com)** | **[Summer Claims Intern - Claims Department - Omaha, NE Office](https://jobright.ai/jobs/info/6a0637e9f3d6cc51d6391018?utm_campaign=1058&utm_source=git)** | Omaha, NE, US | On Site | May 14 |
@@ -101,6 +102,7 @@ For a complete list, click the following sortable link below:
 | **[Houchens Insurance Group](https://www.higusa.com)** | **[IT Applications Intern](https://jobright.ai/jobs/info/6a061e24a88ea73abf7f7755?utm_campaign=1058&utm_source=git)** | Bowling Green, KY | On Site | May 14 |
 | **[Five Star Credit Union](https://www.fivestarcu.com/)** | **[IT Internship](https://jobright.ai/jobs/info/6a061c2e6c07461fe171c741?utm_campaign=1058&utm_source=git)** | Dothan HQ, Dothan, AL, US | On Site | May 14 |
 | **[Lynden](https://www.lynden.com)** | **[Intern](https://jobright.ai/jobs/info/6a061aacbc4184089f24b2c4?utm_campaign=1058&utm_source=git)** | 5615 W Marginal Wy SW, Seattle, WA 98106, USA | On Site | May 14 |
+| **[Valley Medical Center](http://www.valleymed.org)** | **[Inpatient Pharmacy Intern - 1st year (2026-0390)](https://jobright.ai/jobs/info/69e9b26f4b0fa35a7076fb06?utm_campaign=1058&utm_source=git)** | Renton, WA | On Site | May 14 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a0618f7bc4184089f24b14f?utm_campaign=1058&utm_source=git)** | 1941 BLOSSOM ST,COLUMBIA,SC,29205-02217-11433-S | On Site | May 14 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/6a061828f3d6cc51d638ef78?utm_campaign=1058&utm_source=git)** | 2000 HIGHWAY 35,OAKHURST,NJ,07755 | On Site | May 14 |
 | **[Hitachi Rail](http://www.hitachirail.com/)** | **[Service Delivery Intern - Spares & Repairs (Fall 2026, 8 or 12 months)](https://jobright.ai/jobs/info/6a064481f3d6cc51d6391797?utm_campaign=1058&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 14 |
@@ -148,13 +150,11 @@ For a complete list, click the following sortable link below:
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/6a05c841320bff2205ea47a2?utm_campaign=1058&utm_source=git)** | Mankato, MN | On Site | May 14 |
 | **[Xometry](https://www.xometry.com)** | **[Case Management Intern](https://jobright.ai/jobs/info/6940779349a7695fbd05f6a3?utm_campaign=1058&utm_source=git)** | Gaithersburg, MD | On Site | May 14 |
 | **[Parts Town](https://www.partstown.com)** | **[Customer Service Analyst Intern](https://jobright.ai/jobs/info/69e94e5a4b0fa35a7076d74e?utm_campaign=1058&utm_source=git)** | DuPage County, IL | Hybrid | May 14 |
-| **[Tronox](http://www.tronox.com/)** | **[Information Technology (IT) Intern](https://jobright.ai/jobs/info/6a0623ed6c07461fe171cc79?utm_campaign=1058&utm_source=git)** | Hamilton, MS | On Site | May 14 |
-| ↳ | **[IT Intern](https://jobright.ai/jobs/info/6a0623eebc4184089f24be73?utm_campaign=1058&utm_source=git)** | Oklahoma City, OK | On Site | May 14 |
+| **[Tronox](http://www.tronox.com/)** | **[IT Intern](https://jobright.ai/jobs/info/6a0623eebc4184089f24be73?utm_campaign=1058&utm_source=git)** | Oklahoma City, OK | On Site | May 14 |
+| ↳ | **[Information Technology (IT) Intern](https://jobright.ai/jobs/info/6a0623ed6c07461fe171cc79?utm_campaign=1058&utm_source=git)** | Hamilton, MS | On Site | May 14 |
 | **[Xometry](https://www.xometry.com)** | **[Case Management Intern](https://jobright.ai/jobs/info/69407a6150bbaf7650527a7a?utm_campaign=1058&utm_source=git)** | North Bethesda, MD | On Site | May 14 |
 | **[Vera Bradley](http://www.verabradley.com/)** | **[Service Desk Intern - Retail](https://jobright.ai/jobs/info/69e971973aa0c479643a9f00?utm_campaign=1058&utm_source=git)** | Roanoke, IN | On Site | May 14 |
 | **[Franklin Templeton](http://www.franklintempleton.com)** | **[Undergrad Intern – Client Representative: Global Shareholder Services](https://jobright.ai/jobs/info/69e9186d58811370cb12a3d5?utm_campaign=1058&utm_source=git)** | Rancho Cordova, CA | Hybrid | May 14 |
 | **[Mariner Finance](http://www.marinerfinance.com)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a05a9d87c753c287f6fa848?utm_campaign=1058&utm_source=git)** | US-MD-Baltimore | On Site | May 14 |
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a05a9d77c753c287f6fa847?utm_campaign=1058&utm_source=git)** | Baltimore, MD, US | On Site | May 14 |
-| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a05a8dba88ea73abf7f26a7?utm_campaign=1058&utm_source=git)** | 54 PLAIN ST,LOWELL,MA,01851-04419-06739-S | On Site | May 14 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a05a8d1f3d6cc51d638a459?utm_campaign=1058&utm_source=git)** | 401 W MAIN ST,WAUNAKEE,WI,53597-01101-05669-S | On Site | May 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
