@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Naperville Community Unit School District 203](https://www.naperville203.org/)** | **[Student Intern - Technology Department](https://jobright.ai/jobs/info/6a06c71438dbee7915cf6b87?utm_campaign=1058&utm_source=git)** | Naperville, IL | On Site | May 15 |
+| **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/6a06c262b897ee41d2830756?utm_campaign=1058&utm_source=git)** | 1 E OGDEN AVE,WESTMONT,IL,60559 | On Site | May 14 |
+| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a06c261b897ee41d2830754?utm_campaign=1058&utm_source=git)** | 7516 S CASS AVE,STE 1,DARIEN,IL,60561-04457-09033-S | On Site | May 14 |
+| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a06c1f14b07a86277876de9?utm_campaign=1058&utm_source=git)** | 2620 S NOVA RD,DAYTONA BEACH,FL,32119 | On Site | May 14 |
+| **[Herc Rentals](http://www.HercRentals.com)** | **[ProSales Intern (Bronx)](https://jobright.ai/jobs/info/6a06bee8f400923a0090a5a3?utm_campaign=1058&utm_source=git)** | Bronx, NY | On Site | May 14 |
+| ↳ | **[ProSales Intern (Frederick, MD)](https://jobright.ai/jobs/info/6a06becab897ee41d28305d3?utm_campaign=1058&utm_source=git)** | Frederick, MD | On Site | May 14 |
+| ↳ | **[ProSales Intern (Astoria)](https://jobright.ai/jobs/info/6a06be9038dbee7915cf6822?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | May 14 |
 | **[Louis Vuitton](http://www.louisvuitton.com)** | **[IT Operations Intern - NEO](https://jobright.ai/jobs/info/6a06b50fa88ea73abf7fd633?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | May 14 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/6a06a55bbc4184089f250d66?utm_campaign=1058&utm_source=git)** | 501 PLAINFIELD RD,WILLOWBROOK,IL,60527-05341-04572-S | On Site | May 14 |
 | **[EnergyHub](http://www.energyhub.com)** | **[Technical Writing Intern](https://jobright.ai/jobs/info/6a0699d6f3d6cc51d6394980?utm_campaign=1058&utm_source=git)** | United States | Remote | May 14 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/6a0630d7a88ea73abf7f8c3e?utm_campaign=1058&utm_source=git)** | Pinecrest, FL | On Site | May 14 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a05ef31a88ea73abf7f4fad?utm_campaign=1058&utm_source=git)** | Fountain, CO | On Site | May 14 |
 | **[City of Hoover](http://www.hooveral.org)** | **[Student Intern](https://jobright.ai/jobs/info/6a061601f3d6cc51d638ed0e?utm_campaign=1058&utm_source=git)** | Greater Birmingham, Alabama Area | On Site | May 14 |
-| **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a06164a320bff2205ea7e5b?utm_campaign=1058&utm_source=git)** | Spartanburg, SC | On Site | May 14 |
-| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a0616077c753c287f6fef7f?utm_campaign=1058&utm_source=git)** | Colorado Springs, CO | On Site | May 14 |
-| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a06164a320bff2205ea7e62?utm_campaign=1058&utm_source=git)** | Washington, DC | On Site | May 14 |
-| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a06164a320bff2205ea7e66?utm_campaign=1058&utm_source=git)** | Miami, FL | On Site | May 14 |
-| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a06164a320bff2205ea7e5c?utm_campaign=1058&utm_source=git)** | Pasco, WA | On Site | May 14 |
-| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a0615fdf3d6cc51d638ecf4?utm_campaign=1058&utm_source=git)** | Independence, MO | On Site | May 14 |
-| **[Orrick, Herrington & Sutcliffe LLP](https://www.orrick.com)** | **[IT Service Operations Intern](https://jobright.ai/jobs/info/69e99df558811370cb12e71b?utm_campaign=1058&utm_source=git)** | Wheeling, WV | Hybrid | May 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
