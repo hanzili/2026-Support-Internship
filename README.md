@@ -57,10 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Guess?, LLC.](http://guess.com/en/)** | **[Summer Intern-BP & PD](https://jobright.ai/jobs/info/6a0671ac6c07461fe17208ac?utm_campaign=1058&utm_source=git)** | LA Metro Area | On Site | May 14 |
+| **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/6a066e08a88ea73abf7fbd3b?utm_campaign=1058&utm_source=git)** | 8900 WASHINGTON BLVD,PICO RIVERA,CA,90660 | On Site | May 14 |
+| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a066e01a88ea73abf7fbd35?utm_campaign=1058&utm_source=git)** | 7155 VAN NUYS BLVD,VAN NUYS,CA,91405 | On Site | May 14 |
+| **[Stillwater Insurance Group](http://stillwaterinsurance.com)** | **[Summer Claims Intern - Claims Department - Omaha, NE Office](https://jobright.ai/jobs/info/6a066d80320bff2205eac999?utm_campaign=1058&utm_source=git)** | Omaha, NE | On Site | May 14 |
 | **[International Foundation of Employee Benefit Plans (IFEBP)](http://www.ifebp.org/)** | **[Fall 2026 Internship: Information Technologies (Onsite)](https://jobright.ai/jobs/info/6a065ac8320bff2205eabf8a?utm_campaign=1058&utm_source=git)** | Brookfield, WI | On Site | May 14 |
 | **[IHG Hotels & Resorts](https://www.ihgplc.com/)** | **[Front Office & Guest Relations Intern](https://jobright.ai/jobs/info/6a065a516c07461fe171fb37?utm_campaign=1058&utm_source=git)** | Atlanta, GA | On Site | May 14 |
-| **[Omni Fort Worth Hotel](https://www.omnihotels.com/)** | **[Omni Cares Internship - Rooms (Summer 2026)](https://jobright.ai/jobs/info/6a0653eef3d6cc51d63927f3?utm_campaign=1058&utm_source=git)** | Hot Springs, VA, US | On Site | May 14 |
-| ↳ | **[Omni Cares Internship - Rooms (Summer 2026)](https://jobright.ai/jobs/info/6a0653eef3d6cc51d63927f2?utm_campaign=1058&utm_source=git)** | US-VA-Hot Springs | On Site | May 14 |
+| **[Omni Fort Worth Hotel](https://www.omnihotels.com/)** | **[Omni Cares Internship - Rooms (Summer 2026)](https://jobright.ai/jobs/info/6a0653eef3d6cc51d63927f2?utm_campaign=1058&utm_source=git)** | US-VA-Hot Springs | On Site | May 14 |
+| ↳ | **[Omni Cares Internship - Rooms (Summer 2026)](https://jobright.ai/jobs/info/6a0653eef3d6cc51d63927f3?utm_campaign=1058&utm_source=git)** | Hot Springs, VA, US | On Site | May 14 |
 | **[Pansophic Learning](https://pansophiclearning.com/)** | **[Summer IT Intern](https://jobright.ai/jobs/info/6a0652416c07461fe171f5c9?utm_campaign=1058&utm_source=git)** | Parma, OH | On Site | May 14 |
 | **[Inotiv](https://www.inotiv.com/)** | **[Histology Intern](https://jobright.ai/jobs/info/6a0651c46c07461fe171f397?utm_campaign=1058&utm_source=git)** | St Louis, MO | On Site | May 14 |
 | **[InterContinental Chicago Magnificent Mile](https://www.icchicagohotel.com/)** | **[F&B Intern](https://jobright.ai/jobs/info/6a065153f3d6cc51d6392515?utm_campaign=1058&utm_source=git)** | 3315 Peachtree Rd NE, Atlanta, GA, 30326, US | On Site | May 14 |
@@ -150,11 +154,7 @@ For a complete list, click the following sortable link below:
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/6a05c841320bff2205ea47a2?utm_campaign=1058&utm_source=git)** | Mankato, MN | On Site | May 14 |
 | **[Xometry](https://www.xometry.com)** | **[Case Management Intern](https://jobright.ai/jobs/info/6940779349a7695fbd05f6a3?utm_campaign=1058&utm_source=git)** | Gaithersburg, MD | On Site | May 14 |
 | **[Parts Town](https://www.partstown.com)** | **[Customer Service Analyst Intern](https://jobright.ai/jobs/info/69e94e5a4b0fa35a7076d74e?utm_campaign=1058&utm_source=git)** | DuPage County, IL | Hybrid | May 14 |
-| **[Tronox](http://www.tronox.com/)** | **[IT Intern](https://jobright.ai/jobs/info/6a0623eebc4184089f24be73?utm_campaign=1058&utm_source=git)** | Oklahoma City, OK | On Site | May 14 |
-| ↳ | **[Information Technology (IT) Intern](https://jobright.ai/jobs/info/6a0623ed6c07461fe171cc79?utm_campaign=1058&utm_source=git)** | Hamilton, MS | On Site | May 14 |
+| **[Tronox](http://www.tronox.com/)** | **[Information Technology (IT) Intern](https://jobright.ai/jobs/info/6a0623ed6c07461fe171cc79?utm_campaign=1058&utm_source=git)** | Hamilton, MS | On Site | May 14 |
+| ↳ | **[IT Intern](https://jobright.ai/jobs/info/6a0623eebc4184089f24be73?utm_campaign=1058&utm_source=git)** | Oklahoma City, OK | On Site | May 14 |
 | **[Xometry](https://www.xometry.com)** | **[Case Management Intern](https://jobright.ai/jobs/info/69407a6150bbaf7650527a7a?utm_campaign=1058&utm_source=git)** | North Bethesda, MD | On Site | May 14 |
-| **[Vera Bradley](http://www.verabradley.com/)** | **[Service Desk Intern - Retail](https://jobright.ai/jobs/info/69e971973aa0c479643a9f00?utm_campaign=1058&utm_source=git)** | Roanoke, IN | On Site | May 14 |
-| **[Franklin Templeton](http://www.franklintempleton.com)** | **[Undergrad Intern – Client Representative: Global Shareholder Services](https://jobright.ai/jobs/info/69e9186d58811370cb12a3d5?utm_campaign=1058&utm_source=git)** | Rancho Cordova, CA | Hybrid | May 14 |
-| **[Mariner Finance](http://www.marinerfinance.com)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a05a9d87c753c287f6fa848?utm_campaign=1058&utm_source=git)** | US-MD-Baltimore | On Site | May 14 |
-| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6a05a9d77c753c287f6fa847?utm_campaign=1058&utm_source=git)** | Baltimore, MD, US | On Site | May 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
