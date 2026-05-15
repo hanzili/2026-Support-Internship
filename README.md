@@ -57,13 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Louis Vuitton](http://www.louisvuitton.com)** | **[IT Operations Intern - NEO](https://jobright.ai/jobs/info/6a06b50fa88ea73abf7fd633?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | May 14 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/6a06a55bbc4184089f250d66?utm_campaign=1058&utm_source=git)** | 501 PLAINFIELD RD,WILLOWBROOK,IL,60527-05341-04572-S | On Site | May 14 |
 | **[EnergyHub](http://www.energyhub.com)** | **[Technical Writing Intern](https://jobright.ai/jobs/info/6a0699d6f3d6cc51d6394980?utm_campaign=1058&utm_source=git)** | United States | Remote | May 14 |
 | **[City of Durango](https://www.durangoco.gov)** | **[911 Emergency Communications Intern](https://jobright.ai/jobs/info/6a0694e17c753c287f704607?utm_campaign=1058&utm_source=git)** | Durango, CO | On Site | May 14 |
 | **[EnergyHub](http://www.energyhub.com)** | **[Technical Writing Intern](https://jobright.ai/jobs/info/6a068f227c753c287f704242?utm_campaign=1058&utm_source=git)** | New York, NY | Hybrid | May 14 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Omni Cares Internship - Rooms (Summer 2026)](https://jobright.ai/jobs/info/6a068884320bff2205ead452?utm_campaign=1058&utm_source=git)** | Hot Springs, VA | On Site | May 14 |
 | **[Intermountain Health](https://intermountainhealthcare.org)** | **[DTS Intern](https://jobright.ai/jobs/info/6a068442320bff2205ead220?utm_campaign=1058&utm_source=git)** | Broomfield, CO | On Site | May 14 |
-| **[Sarasota Memorial Health Care System](https://www.smh.com/)** | **[Intern PRN](https://jobright.ai/jobs/info/6a067eab320bff2205eacf7d?utm_campaign=1058&utm_source=git)** | Sarasota, FL | On Site | May 14 |
+| **[Sarasota Memorial Health Care System](https://www.smh.com/)** | **[Intern PRN](https://jobright.ai/jobs/info/6a06ba616c07461fe1722049?utm_campaign=1058&utm_source=git)** | Sarasota, FL | On Site | May 14 |
 | **[Guess?, LLC.](http://guess.com/en/)** | **[Summer Intern-BP & PD](https://jobright.ai/jobs/info/6a0671ac6c07461fe17208ac?utm_campaign=1058&utm_source=git)** | LA Metro Area | On Site | May 14 |
 | **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/6a066e08a88ea73abf7fbd3b?utm_campaign=1058&utm_source=git)** | 8900 WASHINGTON BLVD,PICO RIVERA,CA,90660 | On Site | May 14 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a066e01a88ea73abf7fbd35?utm_campaign=1058&utm_source=git)** | 7155 VAN NUYS BLVD,VAN NUYS,CA,91405 | On Site | May 14 |
@@ -151,10 +152,9 @@ For a complete list, click the following sortable link below:
 | **[City of Hoover](http://www.hooveral.org)** | **[Student Intern](https://jobright.ai/jobs/info/6a061601f3d6cc51d638ed0e?utm_campaign=1058&utm_source=git)** | Greater Birmingham, Alabama Area | On Site | May 14 |
 | **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a06164a320bff2205ea7e5b?utm_campaign=1058&utm_source=git)** | Spartanburg, SC | On Site | May 14 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a0616077c753c287f6fef7f?utm_campaign=1058&utm_source=git)** | Colorado Springs, CO | On Site | May 14 |
-| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a06164a320bff2205ea7e66?utm_campaign=1058&utm_source=git)** | Miami, FL | On Site | May 14 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a06164a320bff2205ea7e62?utm_campaign=1058&utm_source=git)** | Washington, DC | On Site | May 14 |
-| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a0615fdf3d6cc51d638ecf4?utm_campaign=1058&utm_source=git)** | Independence, MO | On Site | May 14 |
+| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a06164a320bff2205ea7e66?utm_campaign=1058&utm_source=git)** | Miami, FL | On Site | May 14 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a06164a320bff2205ea7e5c?utm_campaign=1058&utm_source=git)** | Pasco, WA | On Site | May 14 |
+| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a0615fdf3d6cc51d638ecf4?utm_campaign=1058&utm_source=git)** | Independence, MO | On Site | May 14 |
 | **[Orrick, Herrington & Sutcliffe LLP](https://www.orrick.com)** | **[IT Service Operations Intern](https://jobright.ai/jobs/info/69e99df558811370cb12e71b?utm_campaign=1058&utm_source=git)** | Wheeling, WV | Hybrid | May 14 |
-| **[Heart City Health](https://www.heartcityhealth.org)** | **[Managed Care Coord. Assistant - Intern](https://jobright.ai/jobs/info/6a05e619bc4184089f248a50?utm_campaign=1058&utm_source=git)** | Elkhart, IN, US | On Site | May 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
