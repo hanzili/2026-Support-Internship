@@ -57,10 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Willkie Farr & Gallagher LLP](http://www.willkie.com)** | **[Practice Support Intern (year-round) - New York](https://jobright.ai/jobs/info/6a07fa0a939a5f01db9553be?utm_campaign=1058&utm_source=git)** | US-NY-New York | On Site | May 15 |
+| ↳ | **[Practice Support Intern (year-round) - New York](https://jobright.ai/jobs/info/6a07fa08939a5f01db9553bc?utm_campaign=1058&utm_source=git)** | New York, NY, US | On Site | May 15 |
+| **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a07f7cf8f3e371eb617be7a?utm_campaign=1058&utm_source=git)** | 934 N HACIENDA BLVD,LA PUENTE,CA,91744 | On Site | May 15 |
+| **[Amery Hospital & Clinic](https://www.amerymedicalcenter.org)** | **[IT Support Center Intern](https://jobright.ai/jobs/info/6a07f7b96186f468598843f3?utm_campaign=1058&utm_source=git)** | Bloomington, MN, United States | Hybrid | May 15 |
 | **[HC3](https://hc3.io)** | **[IT Intern](https://jobright.ai/jobs/info/6a07f667a203b1052e43fe00?utm_campaign=1058&utm_source=git)** | Irondale - IRONDALE, AL 35210 | On Site | May 15 |
 | **[HealthPartners](https://www.healthpartners.com/)** | **[IT Support Center Intern](https://jobright.ai/jobs/info/6a07e03ea203b1052e43f39b?utm_campaign=1058&utm_source=git)** | Bloomington, MN, United States | Hybrid | May 15 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a07dbbba203b1052e43f185?utm_campaign=1058&utm_source=git)** | 461 MAIN ST,SACO,ME,04072 | On Site | May 15 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a07db34403fc339507e887d?utm_campaign=1058&utm_source=git)** | 413 WASHINGTON ST,STOUGHTON,MA,02072-04210-05755-S | On Site | May 15 |
+| **[First Fidelity Bank](https://www.ffb.com)** | **[Intern](https://jobright.ai/jobs/info/6a08019a6186f46859884bdd?utm_campaign=1058&utm_source=git)** | Oklahoma City, OK | On Site | May 15 |
 | **[American Fidelity](http://www.americanfidelity.com)** | **[IT Intern](https://jobright.ai/jobs/info/6a07c9546186f46859882e6a?utm_campaign=1058&utm_source=git)** | Oklahoma City, OK | On Site | May 15 |
 | **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/6a07c06c8f3e371eb617a490?utm_campaign=1058&utm_source=git)** | 1 SE 3RD AVE,STE 100,MIAMI,FL,33131-01700-00669-D | On Site | May 15 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a07c06b8f3e371eb617a48e?utm_campaign=1058&utm_source=git)** | 1695 NW 20TH ST,MIAMI,FL,33142 | On Site | May 15 |
@@ -79,8 +84,8 @@ For a complete list, click the following sortable link below:
 | **[SoFi Stadium and Hollywood Park](https://www.sofistadium.com/)** | **[IT Operations Intern](https://jobright.ai/jobs/info/6a07a459939a5f01db952952?utm_campaign=1058&utm_source=git)** | Inglewood, CA | On Site | May 15 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/6a07a43f3b54ed42d74d0b52?utm_campaign=1058&utm_source=git)** | 1645 CRANIUM DR,ROCK HILL,SC,29732-03509-15274-S | On Site | May 15 |
 | **[First Fidelity Bank](https://www.ffb.com)** | **[Intern](https://jobright.ai/jobs/info/6a07a2a16186f46859881afb?utm_campaign=1058&utm_source=git)** | Corporate Office - Oklahoma City, OK 73118 | On Site | May 15 |
-| **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/6a07a24f6186f46859881a3a?utm_campaign=1058&utm_source=git)** | 52 E PALM DR,FLORIDA CITY,FL,33034 | On Site | May 15 |
-| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a07a24f6186f46859881a38?utm_campaign=1058&utm_source=git)** | 11211 S DIXIE HWY,PINECREST,FL,33156-04441-09572-S | On Site | May 15 |
+| **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/6a07a24f6186f46859881a38?utm_campaign=1058&utm_source=git)** | 11211 S DIXIE HWY,PINECREST,FL,33156-04441-09572-S | On Site | May 15 |
+| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a07a24f6186f46859881a3a?utm_campaign=1058&utm_source=git)** | 52 E PALM DR,FLORIDA CITY,FL,33034 | On Site | May 15 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a07a238939a5f01db9527a7?utm_campaign=1058&utm_source=git)** | 945 STATE ROUTE 34,MATAWAN,NJ,07747-03201-05620-S | On Site | May 15 |
 | **[TetraMem - Accelerate The World](https://www.tetramem.com/)** | **[FAE Intern](https://jobright.ai/jobs/info/6a079f52403fc339507e6b9c?utm_campaign=1058&utm_source=git)** | San Jose, CA | On Site | May 15 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Scanning Intern - Princeton](https://jobright.ai/jobs/info/6a079e9f6186f4685988188d?utm_campaign=1058&utm_source=git)** | Princeton | On Site | May 15 |
@@ -108,7 +113,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Professional Services - SkillBridge Intern](https://jobright.ai/jobs/info/6a077b8c939a5f01db950686?utm_campaign=1058&utm_source=git)** | Remote - Virginia, USA | Remote | May 15 |
 | **[Perdue Brandon Fielder Collins & Mott, LLP](https://www.pbfcm.com/)** | **[Intern](https://jobright.ai/jobs/info/6a077b3d6186f4685987f7c8?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | May 15 |
 | **[Eagle Rock Properties](https://www.eaglerockproperties.com/)** | **[Intern](https://jobright.ai/jobs/info/6a0775c2939a5f01db950414?utm_campaign=1058&utm_source=git)** | Delmar, NY | On Site | May 15 |
-| **[EdgeUno](https://edgeuno.com/)** | **[IT & Office Support Intern](https://jobright.ai/jobs/info/6a07759f939a5f01db9503f0?utm_campaign=1058&utm_source=git)** | Miami, FL | On Site | May 15 |
 | **[Superior](http://superiorgroup.net)** | **[Information Technology (Infrastructure and Service Desk Team) Internship - Summer 2026](https://jobright.ai/jobs/info/6a0773303b54ed42d74cda51?utm_campaign=1058&utm_source=git)** | Columbus, OH | On Site | May 15 |
 | **[Capital Oral & Facial Surgery Center](http://www.docvlee.com/)** | **[Internship - Patient Access & Performance Analytics](https://jobright.ai/jobs/info/6a076f238f3e371eb6176c47?utm_campaign=1058&utm_source=git)** | Corporate: 12770 Merit Dr. Suite 800 Dallas, TX 75251, Dallas, TX | On Site | May 15 |
 | **[R.M. Chin & Associates, Inc.](http://rmchin.com)** | **[IT Help Desk Intern](https://jobright.ai/jobs/info/6a076e85a203b1052e43a96c?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | May 15 |
@@ -132,10 +136,9 @@ For a complete list, click the following sortable link below:
 | **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a0746806186f4685987ca50?utm_campaign=1058&utm_source=git)** | Mentor, OH | On Site | May 15 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a074568403fc339507e2728?utm_campaign=1058&utm_source=git)** | Plymouth, MA | On Site | May 15 |
 | **[United Health Services](http://www.nyuhscareers.org)** | **[Desktop Support Technician Intern](https://jobright.ai/jobs/info/6a07455d3b54ed42d74cbbf3?utm_campaign=1058&utm_source=git)** | Binghamton, NY | On Site | May 15 |
-| **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/6a0745583b54ed42d74cbbc8?utm_campaign=1058&utm_source=git)** | Ypsilanti, MI | On Site | May 15 |
-| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a0745583b54ed42d74cbbcd?utm_campaign=1058&utm_source=git)** | Vero Beach, FL | On Site | May 15 |
+| **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a0745583b54ed42d74cbbcd?utm_campaign=1058&utm_source=git)** | Vero Beach, FL | On Site | May 15 |
+| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a0745583b54ed42d74cbbc8?utm_campaign=1058&utm_source=git)** | Ypsilanti, MI | On Site | May 15 |
 | **[UPMC](https://www.upmc.com/)** | **[Respiratory Care Intern - UPMC Children's Hospital](https://jobright.ai/jobs/info/69eb991adc35f7132c4b1ee4?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | On Site | May 15 |
-| **[Rockland Trust](http://www.rocklandtrust.com)** | **[Retail Banking Intern Franklin East Branch](https://jobright.ai/jobs/info/6a073798939a5f01db94d5fb?utm_campaign=1058&utm_source=git)** | Franklin, MA | On Site | May 15 |
 | **[Delta Capita](http://deltacapita.com/)** | **[FIC Sales Support Analyst](https://jobright.ai/jobs/info/6a075b22a203b1052e439cfa?utm_campaign=1058&utm_source=git)** | New York, NY | Hybrid | May 15 |
 | **[Moore Colson](https://www.moorecolson.com)** | **[IT Help Desk Intern](https://jobright.ai/jobs/info/6a0737206186f4685987c3a2?utm_campaign=1058&utm_source=git)** | Atlanta | On Site | May 15 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Contracted Student Intern - Office Assistant for Service Authorization](https://jobright.ai/jobs/info/6a0734d3a203b1052e438811?utm_campaign=1058&utm_source=git)** | United States-Massachusetts-Worcester - 361 Plantation St | On Site | May 15 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[City of New York](http://www1.nyc.gov)** | **[College Aide/Summer Intern](https://jobright.ai/jobs/info/6a0707c14a0a6a7e7d821eac?utm_campaign=1058&utm_source=git)** | New York City, NY | On Site | May 15 |
 | **[InterWorks](http://www.interworks.com)** | **[IT Intern](https://jobright.ai/jobs/info/6a0706614a0a6a7e7d821739?utm_campaign=1058&utm_source=git)** | Stillwater Oklahoma | On Site | May 15 |
 | **[Indie Campers](https://indiecampers.com/)** | **[Tourism & Operations Intern](https://jobright.ai/jobs/info/6a07057b1f7fa33581c9b530?utm_campaign=1058&utm_source=git)** | LA Depot | On Site | May 15 |
-| ↳ | **[Tourism & Operations Internship](https://jobright.ai/jobs/info/6a0705564a0a6a7e7d82118c?utm_campaign=1058&utm_source=git)** | Inverness Depot, Dalcross | On Site | May 15 |
-| ↳ | **[Tourism & Operations Internship](https://jobright.ai/jobs/info/6a07050a4a0a6a7e7d820f05?utm_campaign=1058&utm_source=git)** | Berlin Depot | On Site | May 15 |
-| **[InterWorks](http://www.interworks.com)** | **[IT Intern](https://jobright.ai/jobs/info/68596a3df7e1d7c7ec214cfc?utm_campaign=1058&utm_source=git)** | Stillwater, Oklahoma, United States | On Site | May 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
