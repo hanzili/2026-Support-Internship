@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a08303f939a5f01db957164?utm_campaign=1058&utm_source=git)** | 921 HENDERSON ST,FORT WORTH,TX,76102-03535-05961-S | On Site | May 16 |
+| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a08300e3b54ed42d74d5377?utm_campaign=1058&utm_source=git)** | 617 HIGHLAND ST,MOUNT HOLLY,NC,28120-02185-17368-S | On Site | May 16 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/6a081444939a5f01db9562cb?utm_campaign=1058&utm_source=git)** | 651 W US HIGHWAY 30,SCHERERVILLE,IN,46375 | On Site | May 15 |
-| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a081327a203b1052e4411bc?utm_campaign=1058&utm_source=git)** | 6400 HAVEN AVE,RANCHO CUCAMONGA,CA,91737-03823-05652-S | On Site | May 15 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a081327a203b1052e4411bd?utm_campaign=1058&utm_source=git)** | 495 E HOLT AVE,POMONA,CA,91767 | On Site | May 15 |
+| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a081327a203b1052e4411bc?utm_campaign=1058&utm_source=git)** | 6400 HAVEN AVE,RANCHO CUCAMONGA,CA,91737-03823-05652-S | On Site | May 15 |
 | **[Willkie Farr & Gallagher LLP](http://www.willkie.com)** | **[Practice Support Intern (year-round) - New York](https://jobright.ai/jobs/info/6a07fa0a939a5f01db9553be?utm_campaign=1058&utm_source=git)** | US-NY-New York | On Site | May 15 |
 | ↳ | **[Practice Support Intern (year-round) - New York](https://jobright.ai/jobs/info/6a07fa08939a5f01db9553bc?utm_campaign=1058&utm_source=git)** | New York, NY, US | On Site | May 15 |
 | **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a07f7cf8f3e371eb617be7a?utm_campaign=1058&utm_source=git)** | 934 N HACIENDA BLVD,LA PUENTE,CA,91744 | On Site | May 15 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TDS Telecommunications LLC](http://www.tdstelecom.com)** | **[Right-of-Entry (ROE) Specialist Intern](https://jobright.ai/jobs/info/69b1d9a965de58104c710668?utm_campaign=1058&utm_source=git)** | United States | Remote | May 15 |
 | **[ofi North America (Olam Food Ingredients)](http://www.ofi.com)** | **[Summer 2026 Intern: Customer Service Operations Strategy](https://jobright.ai/jobs/info/69eb80137820c036924f4001?utm_campaign=1058&utm_source=git)** | Fresno, CA | On Site | May 15 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (OT/OTA Hospital Inpatient) Winter 2026 OT Fieldwork](https://jobright.ai/jobs/info/689441eaa9199876488e403f?utm_campaign=1058&utm_source=git)** | Elkridge, MD | On Site | May 15 |
-| **[Mayo Clinic Healthcare London](https://mayoclinichealthcare.co.uk)** | **[Intern - Information Technology](https://jobright.ai/jobs/info/6a0711e6078fec52738a867e?utm_campaign=1058&utm_source=git)** | Rochester, MN, United States | Hybrid | May 15 |
-| **[Mayo Clinic Rochester](http://www.mayoclinichealthsystem.org)** | **[Intern - Information Technology](https://jobright.ai/jobs/info/6a0711ac9f57175bd581f9e7?utm_campaign=1058&utm_source=git)** | Rochester, MN, United States | Hybrid | May 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
