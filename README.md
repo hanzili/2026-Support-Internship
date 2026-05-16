@@ -57,10 +57,24 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Podium](https://www.podium.com)** | **[IT Helpdesk Intern](https://jobright.ai/jobs/info/6a07add46186f4685988204e?utm_campaign=1058&utm_source=git)** | Lehi, UT | On Site | May 15 |
+| **[Naval Intelligence Activity](www.NIA.navy.mil)** | **[STUDENT INTERN (INFORMATION TECHNOLOGY).](https://jobright.ai/jobs/info/6a07ab966186f46859881fd1?utm_campaign=1058&utm_source=git)** | Town Center, MD | On Site | May 15 |
+| **[Oak Hammock at the University of Florida](https://www.oakhammock.org/)** | **[IT Intern](https://jobright.ai/jobs/info/6a07a5f9a203b1052e43d92c?utm_campaign=1058&utm_source=git)** | Gainesville, FL | On Site | May 15 |
+| **[Steele Memorial Medical Center](https://www.steelemh.org/)** | **[Medical Records Scanner- Summer Intern](https://jobright.ai/jobs/info/6a07a4f46186f46859881c13?utm_campaign=1058&utm_source=git)** | Salmon, ID 83467, USA | On Site | May 15 |
+| **[Cadence](https://www.cadence.com)** | **[IT Internship (Techstop Support)](https://jobright.ai/jobs/info/6a07a4f4a203b1052e43d82b?utm_campaign=1058&utm_source=git)** | San Jose, CA | On Site | May 15 |
+| **[SoFi Stadium and Hollywood Park](https://www.sofistadium.com/)** | **[IT Operations Intern](https://jobright.ai/jobs/info/6a07a459939a5f01db952952?utm_campaign=1058&utm_source=git)** | Inglewood, CA | On Site | May 15 |
+| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/6a07a43f3b54ed42d74d0b52?utm_campaign=1058&utm_source=git)** | 1645 CRANIUM DR,ROCK HILL,SC,29732-03509-15274-S | On Site | May 15 |
+| **[First Fidelity Bank](https://www.ffb.com)** | **[Intern](https://jobright.ai/jobs/info/6a07a2a16186f46859881afb?utm_campaign=1058&utm_source=git)** | Corporate Office - Oklahoma City, OK 73118 | On Site | May 15 |
+| **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/6a07a24f6186f46859881a3a?utm_campaign=1058&utm_source=git)** | 52 E PALM DR,FLORIDA CITY,FL,33034 | On Site | May 15 |
+| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a07a24f6186f46859881a38?utm_campaign=1058&utm_source=git)** | 11211 S DIXIE HWY,PINECREST,FL,33156-04441-09572-S | On Site | May 15 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a07a238939a5f01db9527a7?utm_campaign=1058&utm_source=git)** | 945 STATE ROUTE 34,MATAWAN,NJ,07747-03201-05620-S | On Site | May 15 |
+| **[TetraMem - Accelerate The World](https://www.tetramem.com/)** | **[FAE Intern](https://jobright.ai/jobs/info/6a079f52403fc339507e6b9c?utm_campaign=1058&utm_source=git)** | San Jose, CA | On Site | May 15 |
+| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Scanning Intern - Princeton](https://jobright.ai/jobs/info/6a079e9f6186f4685988188d?utm_campaign=1058&utm_source=git)** | Princeton | On Site | May 15 |
+| ↳ | **[Information Technology (IT) Intern](https://jobright.ai/jobs/info/6a079e988f3e371eb6179258?utm_campaign=1058&utm_source=git)** | Chaska City Hall, MN | On Site | May 15 |
+| **[Burger Boat Company](http://burgerboat.com)** | **[IT Cybersecurity and Support Intern](https://jobright.ai/jobs/info/6a079e30403fc339507e6ac8?utm_campaign=1058&utm_source=git)** | Manitowoc, WI, US | On Site | May 15 |
 | **[Cadence](https://www.cadence.com)** | **[IT Internship (Techstop Support)](https://jobright.ai/jobs/info/6a079c588f3e371eb61790cd?utm_campaign=1058&utm_source=git)** | SAN JOSE, US | On Site | May 15 |
 | **[Mainstay Technologies](http://mstech.com)** | **[Summer Internship - Helpdesk Technician](https://jobright.ai/jobs/info/6a079c2d3b54ed42d74d05cc?utm_campaign=1058&utm_source=git)** | Manchester, NH | On Site | May 15 |
 | **[HealthPartners](https://www.healthpartners.com/)** | **[IT Support Center Intern](https://jobright.ai/jobs/info/6a0799e7939a5f01db9521a1?utm_campaign=1058&utm_source=git)** | Bloomington, MN | On Site | May 15 |
-| **[Vertiv](https://www.Vertiv.com)** | **[IT Intern Coordinator I](https://jobright.ai/jobs/info/6a0799ce8f3e371eb6178dd5?utm_campaign=1058&utm_source=git)** | United States | Remote | May 15 |
 | **[Podium](https://www.podium.com)** | **[IT Helpdesk Intern](https://jobright.ai/jobs/info/6a07994d6186f468598813ef?utm_campaign=1058&utm_source=git)** | Lehi, Utah | On Site | May 15 |
 | ↳ | **[IT Helpdesk Intern](https://jobright.ai/jobs/info/6a07994c6186f468598813ee?utm_campaign=1058&utm_source=git)** | Lehi | On Site | May 15 |
 | **[The Awty International School](http://www.awty.org)** | **[Summer Internship (Temporary - Part-Time)-Information Technology Technician Summer Intern (Temporary/Part-Time)](https://jobright.ai/jobs/info/6a07895ba203b1052e43c069?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | May 15 |
@@ -134,27 +148,13 @@ For a complete list, click the following sortable link below:
 | **[InterWorks](http://www.interworks.com)** | **[IT Intern](https://jobright.ai/jobs/info/68596a3df7e1d7c7ec214cfc?utm_campaign=1058&utm_source=git)** | Stillwater, Oklahoma, United States | On Site | May 15 |
 | **[Qualtrics](http://www.qualtrics.com)** | **[Skillbridge - Enterprise Support Manager Internship](https://jobright.ai/jobs/info/6a0704c24a0a6a7e7d820c8f?utm_campaign=1058&utm_source=git)** | United States (Remote) | Remote | May 15 |
 | ↳ | **[Skillbridge - Enterprise Support Manager Internship](https://jobright.ai/jobs/info/6a0704bf4a0a6a7e7d820c74?utm_campaign=1058&utm_source=git)** | Remote - US | Remote | May 15 |
-| **[HBK Capital Management](https://www.hbk.com/users/sign_in)** | **[Part Time End User Support Intern](https://jobright.ai/jobs/info/6a0704b91f7fa33581c9afea?utm_campaign=1058&utm_source=git)** | Dallas | On Site | May 15 |
-| ↳ | **[Part Time End User Support Intern](https://jobright.ai/jobs/info/6a0704b91f7fa33581c9afe9?utm_campaign=1058&utm_source=git)** | Dallas, TX | On Site | May 15 |
-| **[Formic](https://formic.co)** | **[Summer 2026 Intern](https://jobright.ai/jobs/info/6a0704b3078fec52738a6955?utm_campaign=1058&utm_source=git)** | Oakland, CA | On Site | May 15 |
-| ↳ | **[Summer 2026 Intern](https://jobright.ai/jobs/info/6a0704b3078fec52738a6954?utm_campaign=1058&utm_source=git)** | San Francisco, CA | On Site | May 15 |
-| **[Indie Campers](https://indiecampers.com/)** | **[Tourism & Operations Internship](https://jobright.ai/jobs/info/6a07047d24dcb03739f1e3e9?utm_campaign=1058&utm_source=git)** | London Depot | On Site | May 15 |
-| ↳ | **[Tourism & Operations Intern](https://jobright.ai/jobs/info/6a07047d1f7fa33581c9adc0?utm_campaign=1058&utm_source=git)** | Seattle Depot | On Site | May 15 |
+| **[HBK Capital Management](https://www.hbk.com/users/sign_in)** | **[Part Time End User Support Intern](https://jobright.ai/jobs/info/6a0704b91f7fa33581c9afe9?utm_campaign=1058&utm_source=git)** | Dallas, TX | On Site | May 15 |
+| ↳ | **[Part Time End User Support Intern](https://jobright.ai/jobs/info/6a0704b91f7fa33581c9afea?utm_campaign=1058&utm_source=git)** | Dallas | On Site | May 15 |
+| **[Formic](https://formic.co)** | **[Summer 2026 Intern](https://jobright.ai/jobs/info/6a0704b3078fec52738a6954?utm_campaign=1058&utm_source=git)** | San Francisco, CA | On Site | May 15 |
+| ↳ | **[Summer 2026 Intern](https://jobright.ai/jobs/info/6a0704b3078fec52738a6955?utm_campaign=1058&utm_source=git)** | Oakland, CA | On Site | May 15 |
+| **[Indie Campers](https://indiecampers.com/)** | **[Tourism & Operations Intern](https://jobright.ai/jobs/info/6a07047d1f7fa33581c9adc0?utm_campaign=1058&utm_source=git)** | Seattle Depot | On Site | May 15 |
 | ↳ | **[Tourism & Operations Intern](https://jobright.ai/jobs/info/6a07047d1f7fa33581c9adbf?utm_campaign=1058&utm_source=git)** | San Diego Depot | On Site | May 15 |
+| ↳ | **[Tourism & Operations Internship](https://jobright.ai/jobs/info/6a07047d24dcb03739f1e3e9?utm_campaign=1058&utm_source=git)** | London Depot | On Site | May 15 |
 | ↳ | **[Tourism & Operations Intern](https://jobright.ai/jobs/info/69ab209c142d5b4265fc594a?utm_campaign=1058&utm_source=git)** | Los Angeles, California, United States | On Site | May 15 |
 | ↳ | **[Tourism & Operations Intern](https://jobright.ai/jobs/info/6a0704781f7fa33581c9ada1?utm_campaign=1058&utm_source=git)** | Los Angeles Depot | On Site | May 15 |
-| ↳ | **[Tourism & Operations Intern](https://jobright.ai/jobs/info/6a0704781f7fa33581c9ad9b?utm_campaign=1058&utm_source=git)** | Salt Lake City Depot | On Site | May 15 |
-| ↳ | **[Tourism & Operations Intern](https://jobright.ai/jobs/info/6a0704781f7fa33581c9ad9f?utm_campaign=1058&utm_source=git)** | New York Depot | On Site | May 15 |
-| ↳ | **[Tourism & Operations Intern](https://jobright.ai/jobs/info/6a0704761f7fa33581c9ad73?utm_campaign=1058&utm_source=git)** | New Orleans Depot | On Site | May 15 |
-| ↳ | **[Tourism & Operations Intern](https://jobright.ai/jobs/info/6a0704761f7fa33581c9ad8d?utm_campaign=1058&utm_source=git)** | Chicago Depot | On Site | May 15 |
-| ↳ | **[Tourism & Operations Intern](https://jobright.ai/jobs/info/6a0704761f7fa33581c9ad90?utm_campaign=1058&utm_source=git)** | Nashville Depot | On Site | May 15 |
-| ↳ | **[Tourism & Operations Intern](https://jobright.ai/jobs/info/6a0704761f7fa33581c9ad76?utm_campaign=1058&utm_source=git)** | Atlanta Depot | On Site | May 15 |
-| ↳ | **[Tourism & Operations Internship](https://jobright.ai/jobs/info/6a0704759f57175bd581ef06?utm_campaign=1058&utm_source=git)** | Bristol Depot located in Sussex | On Site | May 15 |
-| **[Geotab](http://www.geotab.com/)** | **[Support Operations Intern (Fall/ September 2026, 4 - 12 Months)](https://jobright.ai/jobs/info/6a07044d24dcb03739f1e20b?utm_campaign=1058&utm_source=git)** | Oakville | Hybrid | May 15 |
-| ↳ | **[Support Operations Intern (Fall/ September 2026, 4 - 12 Months)](https://jobright.ai/jobs/info/6a05f9877c753c287f6fda0d?utm_campaign=1058&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | May 15 |
-| **[Indie Campers](https://indiecampers.com/)** | **[Tourism & Operations internship](https://jobright.ai/jobs/info/6a07040b24dcb03739f1e07d?utm_campaign=1058&utm_source=git)** | Florence Depot located in Signa | On Site | May 15 |
-| **[Formic](https://formic.co)** | **[Summer 2026 Intern](https://jobright.ai/jobs/info/6a0703ea078fec52738a61c0?utm_campaign=1058&utm_source=git)** | Remote US | Remote | May 15 |
-| **[Virgo Health](http://www.virgohealth.com/)** | **[Client Services Intern](https://jobright.ai/jobs/info/6a07023b1f7fa33581c99ffb?utm_campaign=1058&utm_source=git)** | NYC office | Hybrid | May 15 |
-| **[Alkeus Pharmaceuticals, Inc.](http://www.alkeuspharma.com)** | **[Intern - Information Technology (IT)](https://jobright.ai/jobs/info/6a04e1ecf3d6cc51d6384180?utm_campaign=1058&utm_source=git)** | Cambridge, MA | On Site | May 15 |
-| **[Shift4](https://www.shift4.com/)** | **[DoW SkillBridge Internship - Customer Support](https://jobright.ai/jobs/info/69dfca3c433ac8430e0e23dd?utm_campaign=1058&utm_source=git)** | Las Vegas, NV | On Site | May 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
