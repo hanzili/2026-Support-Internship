@@ -142,8 +142,8 @@ For a complete list, click the following sortable link below:
 | **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a0746806186f4685987ca50?utm_campaign=1058&utm_source=git)** | Mentor, OH | On Site | May 15 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a074568403fc339507e2728?utm_campaign=1058&utm_source=git)** | Plymouth, MA | On Site | May 15 |
 | **[United Health Services](https://www.nyuhs.org/)** | **[Desktop Support Technician Intern](https://jobright.ai/jobs/info/6a07455d3b54ed42d74cbbf3?utm_campaign=1058&utm_source=git)** | Binghamton, NY | On Site | May 15 |
-| **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a0745583b54ed42d74cbbcd?utm_campaign=1058&utm_source=git)** | Vero Beach, FL | On Site | May 15 |
-| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a0745583b54ed42d74cbbc8?utm_campaign=1058&utm_source=git)** | Ypsilanti, MI | On Site | May 15 |
+| **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/6a0745583b54ed42d74cbbc8?utm_campaign=1058&utm_source=git)** | Ypsilanti, MI | On Site | May 15 |
+| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a0745583b54ed42d74cbbcd?utm_campaign=1058&utm_source=git)** | Vero Beach, FL | On Site | May 15 |
 | **[UPMC](https://www.upmc.com/)** | **[Respiratory Care Intern - UPMC Children's Hospital](https://jobright.ai/jobs/info/69eb991adc35f7132c4b1ee4?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | On Site | May 15 |
 | **[Delta Capita](http://deltacapita.com/)** | **[FIC Sales Support Analyst](https://jobright.ai/jobs/info/6a075b22a203b1052e439cfa?utm_campaign=1058&utm_source=git)** | New York, NY | Hybrid | May 15 |
 | **[Moore Colson](https://www.moorecolson.com)** | **[IT Help Desk Intern](https://jobright.ai/jobs/info/6a0737206186f4685987c3a2?utm_campaign=1058&utm_source=git)** | Atlanta | On Site | May 15 |
