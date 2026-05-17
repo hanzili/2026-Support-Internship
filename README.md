@@ -57,13 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Xometry](https://www.xometry.com)** | **[Case Management Intern](https://jobright.ai/jobs/info/6945afbd951654073537ca12?utm_campaign=1058&utm_source=git)** | Waltham, MA | On Site | May 17 |
 | **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/6a099d378f3e371eb6185372?utm_campaign=1058&utm_source=git)** | 1532 LAKE MURRAY BLVD,COLUMBIA,SC,29212-08622-11851-S | On Site | May 17 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a099d368f3e371eb6185371?utm_campaign=1058&utm_source=git)** | 1251 DUTCH FORK RD,IRMO,SC,29063 | On Site | May 17 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a098170939a5f01db95e8ee?utm_campaign=1058&utm_source=git)** | 6300 HIXSON PIKE,CHATTANOOGA,TN,37343 | On Site | May 17 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a0980b23b54ed42d74dc848?utm_campaign=1058&utm_source=git)** | 3495 BAYSIDE LAKES BLVD SE,PALM BAY,FL,32909 | On Site | May 17 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/6a0965eea203b1052e449145?utm_campaign=1058&utm_source=git)** | 3232 FOOTHILL BLVD,OAKLAND,CA,94601 | On Site | May 16 |
-| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a096548a203b1052e449103?utm_campaign=1058&utm_source=git)** | 5038 CENTER ST,OMAHA,NE,68106-03111-04974-S | On Site | May 16 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a096548a203b1052e449104?utm_campaign=1058&utm_source=git)** | 7120 W 41ST ST,SIOUX FALLS,SD,57106 | On Site | May 16 |
+| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a096548a203b1052e449103?utm_campaign=1058&utm_source=git)** | 5038 CENTER ST,OMAHA,NE,68106-03111-04974-S | On Site | May 16 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a0963ef6186f4685988cc5e?utm_campaign=1058&utm_source=git)** | Jackson, NJ | On Site | May 16 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a09497d403fc339507f2097?utm_campaign=1058&utm_source=git)** | 2105 E WELLESLEY AVE,SPOKANE,WA,99207 | On Site | May 16 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/6a094788403fc339507f1f80?utm_campaign=1058&utm_source=git)** | 3402 N CENTRAL AVE,PHOENIX,AZ,85012-02202-03464-S | On Site | May 16 |
@@ -108,8 +109,8 @@ For a complete list, click the following sortable link below:
 | **[VytlOne](https://www.vytlone.com)** | **[IT Intern - Part Time](https://jobright.ai/jobs/info/6a0851906186f46859887b7b?utm_campaign=1058&utm_source=git)** | US-TX-Amarillo | On Site | May 16 |
 | ↳ | **[IT Intern - Part Time](https://jobright.ai/jobs/info/6a08518f6186f46859887b68?utm_campaign=1058&utm_source=git)** | Amarillo, TX, US | On Site | May 16 |
 | **[Acadia Insurance (a Berkley Company)](https://www.acadiainsurance.com/)** | **[Associate Support Analyst Intern](https://jobright.ai/jobs/info/6a085172403fc339507ed247?utm_campaign=1058&utm_source=git)** | US-DE-Wilmington | On Site | May 16 |
-| ↳ | **[Associate Support Analyst Intern](https://jobright.ai/jobs/info/6a085170403fc339507ed232?utm_campaign=1058&utm_source=git)** | DE, Wilmington | On Site | May 16 |
 | ↳ | **[Associate Support Analyst Intern](https://jobright.ai/jobs/info/6a085170403fc339507ed236?utm_campaign=1058&utm_source=git)** | Wilmington, DE, US | On Site | May 16 |
+| ↳ | **[Associate Support Analyst Intern](https://jobright.ai/jobs/info/6a085170403fc339507ed232?utm_campaign=1058&utm_source=git)** | DE, Wilmington | On Site | May 16 |
 | **['Alohilani Resort Waikiki Beach](http://www.pacificbeachhotel.com/)** | **[Operations Intern, Summer 2026](https://jobright.ai/jobs/info/6a084f2d8f3e371eb617f298?utm_campaign=1058&utm_source=git)** | Boston, MA, US | On Site | May 16 |
 | ↳ | **[Operations Intern, Summer 2026](https://jobright.ai/jobs/info/6a084f2d8f3e371eb617f297?utm_campaign=1058&utm_source=git)** | US-MA-Boston | On Site | May 16 |
 | **[Wipfli](http://www.wipfli.com)** | **[IT Helpdesk Internship](https://jobright.ai/jobs/info/6a084e223b54ed42d74d613a?utm_campaign=1058&utm_source=git)** | US | Remote | May 16 |
@@ -155,6 +156,5 @@ For a complete list, click the following sortable link below:
 | **[SoFi Stadium and Hollywood Park](https://www.sofistadium.com/)** | **[IT Operations Intern](https://jobright.ai/jobs/info/6a07a459939a5f01db952952?utm_campaign=1058&utm_source=git)** | Inglewood, CA | On Site | May 15 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/6a07a43f3b54ed42d74d0b52?utm_campaign=1058&utm_source=git)** | 1645 CRANIUM DR,ROCK HILL,SC,29732-03509-15274-S | On Site | May 15 |
 | **[First Fidelity Bank](https://www.ffb.com)** | **[Intern](https://jobright.ai/jobs/info/6a07a2a16186f46859881afb?utm_campaign=1058&utm_source=git)** | Corporate Office - Oklahoma City, OK 73118 | On Site | May 15 |
-| **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/6a07a24f6186f46859881a3a?utm_campaign=1058&utm_source=git)** | 52 E PALM DR,FLORIDA CITY,FL,33034 | On Site | May 15 |
-| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a07a24f6186f46859881a38?utm_campaign=1058&utm_source=git)** | 11211 S DIXIE HWY,PINECREST,FL,33156-04441-09572-S | On Site | May 15 |
+| **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/6a07a24f6186f46859881a38?utm_campaign=1058&utm_source=git)** | 11211 S DIXIE HWY,PINECREST,FL,33156-04441-09572-S | On Site | May 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
