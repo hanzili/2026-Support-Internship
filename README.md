@@ -128,8 +128,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[IT Helpdesk Internship](https://jobright.ai/jobs/info/6a084e203b54ed42d74d612c?utm_campaign=1058&utm_source=git)** | Eau Claire, WI, US | Hybrid | May 16 |
 | ↳ | **[IT Helpdesk Internship](https://jobright.ai/jobs/info/6a04910c22395b6dc6d9e82a?utm_campaign=1058&utm_source=git)** | US-WI-Eau Claire | Remote | May 16 |
 | **[AMD](http://www.amd.com)** | **[Technical Writer Intern / Co-op](https://jobright.ai/jobs/info/6a084dfb8f3e371eb617ed60?utm_campaign=1058&utm_source=git)** | MARKHAM, ON, CA | Hybrid | May 16 |
-| **[Amivero](https://amivero.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/6a084df73b54ed42d74d6057?utm_campaign=1058&utm_source=git)** | Reston, VA, US | On Site | May 16 |
-| ↳ | **[Information Technology Intern](https://jobright.ai/jobs/info/6a0555c1bc4184089f244902?utm_campaign=1058&utm_source=git)** | US-VA-Reston | On Site | May 16 |
+| **[Amivero](https://amivero.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/6a0555c1bc4184089f244902?utm_campaign=1058&utm_source=git)** | US-VA-Reston | On Site | May 16 |
+| ↳ | **[Information Technology Intern](https://jobright.ai/jobs/info/6a084df73b54ed42d74d6057?utm_campaign=1058&utm_source=git)** | Reston, VA, US | On Site | May 16 |
 | **[Leons](https://www.leonsdigital.com)** | **[IT Technical Support Intern ON](https://jobright.ai/jobs/info/6a084df46186f46859887020?utm_campaign=1058&utm_source=git)** | Toronto, ON, CA | On Site | May 16 |
 | ↳ | **[IT Technical Support Intern ON](https://jobright.ai/jobs/info/69fbdacdffa73664aeb02574?utm_campaign=1058&utm_source=git)** | CA-ON-Toronto | On Site | May 16 |
 | **[Tenet Healthcare](http://tenethealth.com)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/6922ebeec0cefa13343d9df2?utm_campaign=1058&utm_source=git)** | Memphis, TN | On Site | May 16 |
