@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/6a09e355939a5f01db9602db?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | May 17 |
+| **[Yardi](https://www.yardi.com)** | **[Intern, Associate Technical Account Manager](https://jobright.ai/jobs/info/695f0609a1bbea1d9a79d11e?utm_campaign=1058&utm_source=git)** | Santa Barbara, CA | Hybrid | May 17 |
+| **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/6a09e22a6186f4685988ea41?utm_campaign=1058&utm_source=git)** | Frankfort, IL | On Site | May 17 |
+| **[Yardi](https://www.yardi.com)** | **[Intern, Associate Technical Account Manager](https://jobright.ai/jobs/info/69ab93d1142d5b4265fcaef5?utm_campaign=1058&utm_source=git)** | Santa Ana, CA | Hybrid | May 17 |
+| **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Access Your Future Service Intern](https://jobright.ai/jobs/info/67f01f3d19a1c5e776705edf?utm_campaign=1058&utm_source=git)** | Minot, ND | On Site | May 17 |
+| **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a09d665a203b1052e44aeea?utm_campaign=1058&utm_source=git)** | 423 W MAIN ST,LEXINGTON,SC,29072-02637-07399-S | On Site | May 17 |
+| **[Verkada](https://www.verkada.com)** | **[Technical Support Engineering Intern - Fall 2026](https://jobright.ai/jobs/info/69618b4ba112b4026610251d?utm_campaign=1058&utm_source=git)** | San Mateo, CA | On Site | May 17 |
 | **[Xometry](https://www.xometry.com)** | **[Case Management Intern](https://jobright.ai/jobs/info/6945afbd951654073537ca12?utm_campaign=1058&utm_source=git)** | Waltham, MA | On Site | May 17 |
 | **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/6a099d378f3e371eb6185372?utm_campaign=1058&utm_source=git)** | 1532 LAKE MURRAY BLVD,COLUMBIA,SC,29212-08622-11851-S | On Site | May 17 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a099d368f3e371eb6185371?utm_campaign=1058&utm_source=git)** | 1251 DUTCH FORK RD,IRMO,SC,29063 | On Site | May 17 |
@@ -112,8 +119,8 @@ For a complete list, click the following sortable link below:
 | **[VytlOne](https://www.vytlone.com)** | **[IT Intern - Part Time](https://jobright.ai/jobs/info/6a0851906186f46859887b7b?utm_campaign=1058&utm_source=git)** | US-TX-Amarillo | On Site | May 16 |
 | ↳ | **[IT Intern - Part Time](https://jobright.ai/jobs/info/6a08518f6186f46859887b68?utm_campaign=1058&utm_source=git)** | Amarillo, TX, US | On Site | May 16 |
 | **[Acadia Insurance (a Berkley Company)](https://www.acadiainsurance.com/)** | **[Associate Support Analyst Intern](https://jobright.ai/jobs/info/6a085172403fc339507ed247?utm_campaign=1058&utm_source=git)** | US-DE-Wilmington | On Site | May 16 |
-| ↳ | **[Associate Support Analyst Intern](https://jobright.ai/jobs/info/6a085170403fc339507ed232?utm_campaign=1058&utm_source=git)** | DE, Wilmington | On Site | May 16 |
 | ↳ | **[Associate Support Analyst Intern](https://jobright.ai/jobs/info/6a085170403fc339507ed236?utm_campaign=1058&utm_source=git)** | Wilmington, DE, US | On Site | May 16 |
+| ↳ | **[Associate Support Analyst Intern](https://jobright.ai/jobs/info/6a085170403fc339507ed232?utm_campaign=1058&utm_source=git)** | DE, Wilmington | On Site | May 16 |
 | **['Alohilani Resort Waikiki Beach](http://www.pacificbeachhotel.com/)** | **[Operations Intern, Summer 2026](https://jobright.ai/jobs/info/6a084f2d8f3e371eb617f298?utm_campaign=1058&utm_source=git)** | Boston, MA, US | On Site | May 16 |
 | ↳ | **[Operations Intern, Summer 2026](https://jobright.ai/jobs/info/6a084f2d8f3e371eb617f297?utm_campaign=1058&utm_source=git)** | US-MA-Boston | On Site | May 16 |
 | **[Wipfli](http://www.wipfli.com)** | **[IT Helpdesk Internship](https://jobright.ai/jobs/info/6a084e223b54ed42d74d613a?utm_campaign=1058&utm_source=git)** | US | Remote | May 16 |
@@ -121,8 +128,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[IT Helpdesk Internship](https://jobright.ai/jobs/info/6a084e203b54ed42d74d612c?utm_campaign=1058&utm_source=git)** | Eau Claire, WI, US | Hybrid | May 16 |
 | ↳ | **[IT Helpdesk Internship](https://jobright.ai/jobs/info/6a04910c22395b6dc6d9e82a?utm_campaign=1058&utm_source=git)** | US-WI-Eau Claire | Remote | May 16 |
 | **[AMD](http://www.amd.com)** | **[Technical Writer Intern / Co-op](https://jobright.ai/jobs/info/6a084dfb8f3e371eb617ed60?utm_campaign=1058&utm_source=git)** | MARKHAM, ON, CA | Hybrid | May 16 |
-| **[Amivero](https://amivero.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/6a0555c1bc4184089f244902?utm_campaign=1058&utm_source=git)** | US-VA-Reston | On Site | May 16 |
-| ↳ | **[Information Technology Intern](https://jobright.ai/jobs/info/6a084df73b54ed42d74d6057?utm_campaign=1058&utm_source=git)** | Reston, VA, US | On Site | May 16 |
+| **[Amivero](https://amivero.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/6a084df73b54ed42d74d6057?utm_campaign=1058&utm_source=git)** | Reston, VA, US | On Site | May 16 |
+| ↳ | **[Information Technology Intern](https://jobright.ai/jobs/info/6a0555c1bc4184089f244902?utm_campaign=1058&utm_source=git)** | US-VA-Reston | On Site | May 16 |
 | **[Leons](https://www.leonsdigital.com)** | **[IT Technical Support Intern ON](https://jobright.ai/jobs/info/6a084df46186f46859887020?utm_campaign=1058&utm_source=git)** | Toronto, ON, CA | On Site | May 16 |
 | ↳ | **[IT Technical Support Intern ON](https://jobright.ai/jobs/info/69fbdacdffa73664aeb02574?utm_campaign=1058&utm_source=git)** | CA-ON-Toronto | On Site | May 16 |
 | **[Tenet Healthcare](http://tenethealth.com)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/6922ebeec0cefa13343d9df2?utm_campaign=1058&utm_source=git)** | Memphis, TN | On Site | May 16 |
@@ -131,8 +138,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a08303f939a5f01db957164?utm_campaign=1058&utm_source=git)** | 921 HENDERSON ST,FORT WORTH,TX,76102-03535-05961-S | On Site | May 16 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a08300e3b54ed42d74d5377?utm_campaign=1058&utm_source=git)** | 617 HIGHLAND ST,MOUNT HOLLY,NC,28120-02185-17368-S | On Site | May 16 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/6a081444939a5f01db9562cb?utm_campaign=1058&utm_source=git)** | 651 W US HIGHWAY 30,SCHERERVILLE,IN,46375 | On Site | May 15 |
-| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a081327a203b1052e4411bd?utm_campaign=1058&utm_source=git)** | 495 E HOLT AVE,POMONA,CA,91767 | On Site | May 15 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a081327a203b1052e4411bc?utm_campaign=1058&utm_source=git)** | 6400 HAVEN AVE,RANCHO CUCAMONGA,CA,91737-03823-05652-S | On Site | May 15 |
+| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a081327a203b1052e4411bd?utm_campaign=1058&utm_source=git)** | 495 E HOLT AVE,POMONA,CA,91767 | On Site | May 15 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a07f7cf8f3e371eb617be7a?utm_campaign=1058&utm_source=git)** | 934 N HACIENDA BLVD,LA PUENTE,CA,91744 | On Site | May 15 |
 | **[Amery Hospital & Clinic](https://www.amerymedicalcenter.org)** | **[IT Support Center Intern](https://jobright.ai/jobs/info/6a07f7b96186f468598843f3?utm_campaign=1058&utm_source=git)** | Bloomington, MN, United States | Hybrid | May 15 |
 | **[HC3](https://hc3.io)** | **[IT Intern](https://jobright.ai/jobs/info/6a07f667a203b1052e43fe00?utm_campaign=1058&utm_source=git)** | Irondale - IRONDALE, AL 35210 | On Site | May 15 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[PenFinancial Credit Union](https://www.penfinancial.com)** | **[IT Coordinator (Co-op/Summer Student)](https://jobright.ai/jobs/info/6a07b336403fc339507e73e9?utm_campaign=1058&utm_source=git)** | Welland, Ontario, Canada | On Site | May 15 |
 | **[Agiliti](https://www.agilitihealth.com/)** | **[Service Representative - Intern](https://jobright.ai/jobs/info/6a07b31e403fc339507e7374?utm_campaign=1058&utm_source=git)** | Alabama, United States | On Site | May 15 |
 | **[The Cincinnati Insurance Companies](http://www.cinfin.com)** | **[Student Opportunities - IT / Desktop Support Internships - Fall 2026 (Onsite)](https://jobright.ai/jobs/info/6a07b306a203b1052e43dce4?utm_campaign=1058&utm_source=git)** | Fairfield, OH | On Site | May 15 |
-| **[America First Credit Union](http://www.americafirst.com)** | **[Student Trainee - Teller](https://jobright.ai/jobs/info/6a07b2d28f3e371eb6179ad3?utm_campaign=1058&utm_source=git)** | Utah, United States | On Site | May 15 |
-| **[Podium](https://www.podium.com)** | **[IT Helpdesk Intern](https://jobright.ai/jobs/info/6a07add46186f4685988204e?utm_campaign=1058&utm_source=git)** | Lehi, UT | On Site | May 15 |
-| **[Naval Intelligence Activity](www.NIA.navy.mil)** | **[STUDENT INTERN (INFORMATION TECHNOLOGY).](https://jobright.ai/jobs/info/6a07ab966186f46859881fd1?utm_campaign=1058&utm_source=git)** | Town Center, MD | On Site | May 15 |
-| **[Oak Hammock at the University of Florida](https://www.oakhammock.org/)** | **[IT Intern](https://jobright.ai/jobs/info/6a07a5f9a203b1052e43d92c?utm_campaign=1058&utm_source=git)** | Gainesville, FL | On Site | May 15 |
-| **[Steele Memorial Medical Center](https://www.steelemh.org/)** | **[Medical Records Scanner- Summer Intern](https://jobright.ai/jobs/info/6a07a4f46186f46859881c13?utm_campaign=1058&utm_source=git)** | Salmon, ID 83467, USA | On Site | May 15 |
-| **[Cadence](https://www.cadence.com)** | **[IT Internship (Techstop Support)](https://jobright.ai/jobs/info/6a07a4f4a203b1052e43d82b?utm_campaign=1058&utm_source=git)** | San Jose, CA | On Site | May 15 |
-| **[SoFi Stadium and Hollywood Park](https://www.sofistadium.com/)** | **[IT Operations Intern](https://jobright.ai/jobs/info/6a07a459939a5f01db952952?utm_campaign=1058&utm_source=git)** | Inglewood, CA | On Site | May 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
