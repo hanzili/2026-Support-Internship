@@ -57,17 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/6a0b14014d9320363686cdcf?utm_campaign=1058&utm_source=git)** | 813 COLLEGE AVE., Jackson, Alabama,United States | On Site | May 18 |
+| **[Sparton](http://www.sparton.com)** | **[IT Internship](https://jobright.ai/jobs/info/6a0b0aeb22d0d34036c8820f?utm_campaign=1058&utm_source=git)** | 5612 Johnson Lake Rd., De Leon Springs, FL | On Site | May 18 |
 | **[ProcessBarron](http://www.processbarron.com)** | **[IT Intern](https://jobright.ai/jobs/info/6a0b0a164d9320363686ca46?utm_campaign=1058&utm_source=git)** | Corporate - Pelham, AL 35124 | On Site | May 18 |
 | **[Air Force One](https://airforceone.com/)** | **[Seasonal IT Intern](https://jobright.ai/jobs/info/6a0b0644a235d749afa80eae?utm_campaign=1058&utm_source=git)** | United States | On Site | May 18 |
 | **[ChenMed](http://www.chenmed.com/)** | **[Intern (Paid)](https://jobright.ai/jobs/info/6a0b044b538d03366dc80e8a?utm_campaign=1058&utm_source=git)** | Tampa, FL | On Site | May 18 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/6a0b033a0411d7417a1ac503?utm_campaign=1058&utm_source=git)** | TX - Kyle, US | On Site | May 18 |
-| ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/6a0b033a538d03366dc80d87?utm_campaign=1058&utm_source=git)** | TX - Del Rio, US | On Site | May 18 |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/6a0b033a538d03366dc80d87?utm_campaign=1058&utm_source=git)** | TX - Del Rio, US | On Site | May 18 |
 | ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/6a0b033a538d03366dc80d85?utm_campaign=1058&utm_source=git)** | TX - Marble Falls, US | On Site | May 18 |
+| ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/6a0b033a0411d7417a1ac503?utm_campaign=1058&utm_source=git)** | TX - Kyle, US | On Site | May 18 |
 | ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/6a0b03390411d7417a1ac502?utm_campaign=1058&utm_source=git)** | CA - Hesperia, US | On Site | May 18 |
 | ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/6a0b0339963f7a67d95cb28c?utm_campaign=1058&utm_source=git)** | TX - Nacogdoches, US | On Site | May 18 |
 | ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/6a0b0338538d03366dc80d82?utm_campaign=1058&utm_source=git)** | TX - Waxahachie, US | On Site | May 18 |
-| ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/6a0b03370411d7417a1ac500?utm_campaign=1058&utm_source=git)** | CA - Fairfield, US | On Site | May 18 |
 | ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/6a0b0337538d03366dc80d80?utm_campaign=1058&utm_source=git)** | TX - Cameron, US | On Site | May 18 |
+| ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/6a0b03370411d7417a1ac500?utm_campaign=1058&utm_source=git)** | CA - Fairfield, US | On Site | May 18 |
 | **[United Health Services](https://www.nyuhs.org/)** | **[Desktop Support Technician Intern](https://jobright.ai/jobs/info/6a0afa0d0411d7417a1ac29f?utm_campaign=1058&utm_source=git)** | Binghamton, NY | On Site | May 18 |
 | **[Gen](https://www.gendigital.com)** | **[IT Support Intern](https://jobright.ai/jobs/info/69ef147f7820c03692500074?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | May 18 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a0aeee7a235d749afa80698?utm_campaign=1058&utm_source=git)** | 828 ROYAL PKWY,STE 101,NASHVILLE,TN,37214 | On Site | May 18 |
@@ -91,8 +93,8 @@ For a complete list, click the following sortable link below:
 | **[Advanced Technology Systems Company](https://www.atscva.com/)** | **[Intern - Engineering / IT](https://jobright.ai/jobs/info/6a0a2db7403fc339507f5850?utm_campaign=1058&utm_source=git)** | McLean, VA | On Site | May 17 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a0a295aa203b1052e44c0d6?utm_campaign=1058&utm_source=git)** | 4993 MAIN ST,STE A,MANCHESTER CENTER,VT,05255 | On Site | May 17 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a0a0d13403fc339507f5026?utm_campaign=1058&utm_source=git)** | 2 N STATE ST # 1,CHICAGO,IL,60602 | On Site | May 17 |
-| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a0a0cdb403fc339507f5007?utm_campaign=1058&utm_source=git)** | 82 N BROAD ST,NORWICH,NY,13815 | On Site | May 17 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a0a0cdb403fc339507f5008?utm_campaign=1058&utm_source=git)** | 85 ROBINSON ST,BINGHAMTON,NY,13901-02521-18984-S | On Site | May 17 |
+| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a0a0cdb403fc339507f5007?utm_campaign=1058&utm_source=git)** | 82 N BROAD ST,NORWICH,NY,13815 | On Site | May 17 |
 | **[Leviton](https://www.leviton.com)** | **[Intern, IT Support Services (Summer)](https://jobright.ai/jobs/info/698a3dd80f6f7e7a2ce54ee3?utm_campaign=1058&utm_source=git)** | Melville, NY | On Site | May 17 |
 | **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[Radiology Student Intern](https://jobright.ai/jobs/info/69d16924cdb525785fbb2650?utm_campaign=1058&utm_source=git)** | Fort Smith, AR | On Site | May 17 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Graduate Intern (Non-US Education)](https://jobright.ai/jobs/info/6a09f0288f3e371eb6186910?utm_campaign=1058&utm_source=git)** | 108 COTTAGE GROVE RD,MADISON,WI,53716 | On Site | May 17 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a0868533b54ed42d74d7717?utm_campaign=1058&utm_source=git)** | 1606 S PARK AVE,HERRIN,IL,62948-04169-12089-S | On Site | May 16 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a086850a203b1052e44454b?utm_campaign=1058&utm_source=git)** | 100 CAVASINA DR,CANONSBURG,PA,15317 | On Site | May 16 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a08681f3b54ed42d74d7702?utm_campaign=1058&utm_source=git)** | 1310 S CANNON BLVD,KANNAPOLIS,NC,28083-06233-04871-S | On Site | May 16 |
-| **[Naval Intelligence Activity](www.NIA.navy.mil)** | **[STUDENT INTERN (INFORMATION TECHNOLOGY).](https://jobright.ai/jobs/info/6a085a3a403fc339507ed8d6?utm_campaign=1058&utm_source=git)** | Town Center, MD | On Site | May 16 |
-| **[VytlOne](https://www.vytlone.com)** | **[IT Intern - Part Time](https://jobright.ai/jobs/info/6a0851906186f46859887b7b?utm_campaign=1058&utm_source=git)** | US-TX-Amarillo | On Site | May 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
