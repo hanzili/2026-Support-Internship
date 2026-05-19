@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a0c087c4d93203636875768?utm_campaign=1058&utm_source=git)** | 2350 E MARKET ST,YORK,PA,17402-02859-09591-S | On Site | May 18 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a0c087b4d93203636875767?utm_campaign=1058&utm_source=git)** | 6201 SALTSBURG RD,PITTSBURGH,PA,15235 | On Site | May 18 |
+| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a0c08330411d7417a1b56de?utm_campaign=1058&utm_source=git)** | 1280 WALTON BLVD,ROCHESTER HILLS,MI,48307-06900-09125-S | On Site | May 18 |
+| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a0c08300411d7417a1b56cf?utm_campaign=1058&utm_source=git)** | 47100 HAYES RD,MACOMB,MI,48044 | On Site | May 18 |
+| **[ROCKAWAY TOWNSHIP SCHOOL DISTRICT](https://www.linkedin.com/company/55602180)** | **[Three (3) Summer Help Information Technology Assistant](https://jobright.ai/jobs/info/6a0c087f0411d7417a1b57d8?utm_campaign=1058&utm_source=git)** | Rockaway, NJ | On Site | May 18 |
 | **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Fall 2026 - College Internship - Park City, UT (Front Desk & Housekeeping)](https://jobright.ai/jobs/info/6a0bddbf0411d7417a1b4b5e?utm_campaign=1058&utm_source=git)** | Park City, UT | On Site | May 18 |
 | ↳ | **[Fall 2026 - Front Desk College Intern - South Lake Tahoe, CA](https://jobright.ai/jobs/info/6a0bdd74538d03366dc895a4?utm_campaign=1058&utm_source=git)** | South Lake Tahoe, CA | On Site | May 18 |
 | **[Ascend Technologies](https://teamascend.com/)** | **[IT Operations Intern](https://jobright.ai/jobs/info/6a0bdd5e538d03366dc8953c?utm_campaign=1058&utm_source=git)** | Little Rock, AR | On Site | May 18 |
@@ -131,9 +136,9 @@ For a complete list, click the following sortable link below:
 | **[ProcessBarron](http://www.processbarron.com)** | **[IT Intern](https://jobright.ai/jobs/info/6a0b0a164d9320363686ca46?utm_campaign=1058&utm_source=git)** | Corporate - Pelham, AL 35124 | On Site | May 18 |
 | **[Air Force One](https://airforceone.com/)** | **[Seasonal IT Intern](https://jobright.ai/jobs/info/6a0b0644a235d749afa80eae?utm_campaign=1058&utm_source=git)** | United States | On Site | May 18 |
 | **[ChenMed](http://www.chenmed.com/)** | **[Intern (Paid)](https://jobright.ai/jobs/info/6a0b044b538d03366dc80e8a?utm_campaign=1058&utm_source=git)** | Tampa, FL | On Site | May 18 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/6a0b033a0411d7417a1ac503?utm_campaign=1058&utm_source=git)** | TX - Kyle, US | On Site | May 18 |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/6a0b033a538d03366dc80d87?utm_campaign=1058&utm_source=git)** | TX - Del Rio, US | On Site | May 18 |
+| ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/6a0b033a0411d7417a1ac503?utm_campaign=1058&utm_source=git)** | TX - Kyle, US | On Site | May 18 |
 | ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/6a0b033a538d03366dc80d85?utm_campaign=1058&utm_source=git)** | TX - Marble Falls, US | On Site | May 18 |
-| ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/6a0b033a538d03366dc80d87?utm_campaign=1058&utm_source=git)** | TX - Del Rio, US | On Site | May 18 |
 | ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/6a0b03390411d7417a1ac502?utm_campaign=1058&utm_source=git)** | CA - Hesperia, US | On Site | May 18 |
 | ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/6a0b0339963f7a67d95cb28c?utm_campaign=1058&utm_source=git)** | TX - Nacogdoches, US | On Site | May 18 |
 | ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/6a0b0338538d03366dc80d82?utm_campaign=1058&utm_source=git)** | TX - Waxahachie, US | On Site | May 18 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[ROE Obtainment Specialist Intern](https://jobright.ai/jobs/info/6a0ad3af6186f46859892b7b?utm_campaign=1058&utm_source=git)** | US-Remote Location | Remote | May 18 |
 | **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a0ab6c66186f46859892438?utm_campaign=1058&utm_source=git)** | 1000 DALLAS CHERRYVILLE HWY,DALLAS,NC,28034-09221-10608-S | On Site | May 17 |
 | **[TexasBank](http://www.texasbank.com)** | **[Intern - Teller & Lobby Support](https://jobright.ai/jobs/info/6a0ab6193b54ed42d74e15a9?utm_campaign=1058&utm_source=git)** | Comanche - Comanche, TX 76442 | On Site | May 17 |
-| **[Tombras](http://tombras.com)** | **[IT Help Desk Intern](https://jobright.ai/jobs/info/6a0ab16f403fc339507f8009?utm_campaign=1058&utm_source=git)** | Knoxville, TN | On Site | May 17 |
-| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a0a98cd403fc339507f789d?utm_campaign=1058&utm_source=git)** | 6690 W UNION HILLS DR,GLENDALE,AZ,85308-01011-03003-S | On Site | May 17 |
-| **[Tuckahoe Holdings, LLC](https://www.tuckahoeholdings.com)** | **[IT Summer Intern](https://jobright.ai/jobs/info/6a0a8f8c3b54ed42d74e07f9?utm_campaign=1058&utm_source=git)** | DuBois, PA, US | On Site | May 17 |
-| **[Elbit Systems of America](https://www.elbitamerica.com/)** | **[IT Internship](https://jobright.ai/jobs/info/6a0b2f3f4d9320363686e1fa?utm_campaign=1058&utm_source=git)** | De Leon Springs, FL | On Site | May 17 |
-| **[Fathom Digital Manufacturing](https://www.fathommfg.com/)** | **[IT Help Desk Specialist](https://jobright.ai/jobs/info/6a0badef963f7a67d95d245b?utm_campaign=1058&utm_source=git)** | Hartland, WI | On Site | May 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
