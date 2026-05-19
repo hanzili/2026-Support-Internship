@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hospital for Special Care](https://hfsc.org)** | **[Respiratory Intern](https://jobright.ai/jobs/info/6a0ce0eda235d749afa915e8?utm_campaign=1058&utm_source=git)** | New Britain, CT, US | On Site | May 19 |
+| **[CEVA Logistics](https://www.cevalogistics.com/en)** | **[Air & Ocean Intern - Los Angeles, CA](https://jobright.ai/jobs/info/6a0cdc21a235d749afa91336?utm_campaign=1058&utm_source=git)** | Los Angeles. Ca, US | On Site | May 19 |
+| **[River City Bank](https://www.rivercitybank.com)** | **[Student Intern](https://jobright.ai/jobs/info/6a0cdb4da235d749afa912d2?utm_campaign=1058&utm_source=git)** | Sacramento, CA | On Site | May 19 |
+| **[Resonetics](http://www.resonetics.com)** | **[IT Intern](https://jobright.ai/jobs/info/6a0cd7d2963f7a67d95dc208?utm_campaign=1058&utm_source=git)** | Nashua, NH | On Site | May 19 |
 | **[Schulte Group](https://www.schultegroup.com/)** | **[Part Time - Guest Services Associate Intern](https://jobright.ai/jobs/info/6a0cd54ba235d749afa90fcd?utm_campaign=1058&utm_source=git)** | Plymouth, MI, 48170, United States | On Site | May 19 |
 | **[Resonetics](http://www.resonetics.com)** | **[IT Intern](https://jobright.ai/jobs/info/6a0cd44f538d03366dc91ad2?utm_campaign=1058&utm_source=git)** | Bethel, CT | On Site | May 19 |
 | **[Edconic](https://branded-edu.com)** | **[IT Support Intern](https://jobright.ai/jobs/info/6a0cd2a64d9320363687c81c?utm_campaign=1058&utm_source=git)** | New York, NY, US | On Site | May 19 |
@@ -71,7 +75,6 @@ For a complete list, click the following sortable link below:
 | **[Brown Gibbons Lang & Company (BGL)](http://www.bglco.com/)** | **[Information Technology Intern (2026 Summer)](https://jobright.ai/jobs/info/6a0cc4e6a235d749afa902b6?utm_campaign=1058&utm_source=git)** | Cleveland, OH | On Site | May 19 |
 | **[JSW Steel USA](http://jswsteel.us)** | **[Information Technology Intern](https://jobright.ai/jobs/info/6a0cbe55963f7a67d95db0ea?utm_campaign=1058&utm_source=git)** | Baytown, TX | On Site | May 19 |
 | **[ARCO a Family of Construction Companies](https://thearcoway.com)** | **[IT Intern/Co-op](https://jobright.ai/jobs/info/69ba897006c1ba00c54c9795?utm_campaign=1058&utm_source=git)** | Brentwood, MO | On Site | May 19 |
-| **[Global Partners LP](http://www.globalp.com)** | **[Oracle Support Intern](https://jobright.ai/jobs/info/6a0cb5cd538d03366dc902fd?utm_campaign=1058&utm_source=git)** | Waltham, MA | On Site | May 19 |
 | **[Easterseals Rehabilitation Center- Evansville, IN](http://bit.ly/HomePageESRC)** | **[IT Intern](https://jobright.ai/jobs/info/6a0cb249a235d749afa8f698?utm_campaign=1058&utm_source=git)** | Evansville, IN | On Site | May 19 |
 | **[Hornblower Group](https://www.hornblowercorp.com/)** | **[Hospitality Internship- City Cruises Chicago](https://jobright.ai/jobs/info/6a0cb232a235d749afa8f68f?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | May 19 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/6a0cb138538d03366dc90063?utm_campaign=1058&utm_source=git)** | 1559 FLATBUSH AVE,BROOKLYN,NY,11210 | On Site | May 19 |
@@ -82,6 +85,7 @@ For a complete list, click the following sortable link below:
 | **[Dematic](http://www.dematic.com)** | **[IT Intern](https://jobright.ai/jobs/info/6a0cabf0963f7a67d95da4d7?utm_campaign=1058&utm_source=git)** | Grand Rapids, MI | On Site | May 19 |
 | **[Ciena](http://www.ciena.com)** | **[Resourcing and Enablement Intern](https://jobright.ai/jobs/info/6a0caae4a235d749afa8efed?utm_campaign=1058&utm_source=git)** | Ottawa, CA | Hybrid | May 19 |
 | **[Lucid Software](https://lucid.co)** | **[Customer Operations Intern - Part-time Fall 2026](https://jobright.ai/jobs/info/6a0ca73b963f7a67d95d9f31?utm_campaign=1058&utm_source=git)** | Raleigh office | Hybrid | May 19 |
+| **[Overlake Medical Center & Clinics](https://www.overlakehospital.org/)** | **[Pharmacy Intern (per diem)](https://jobright.ai/jobs/info/69d3dab3cfdc6132f945501d?utm_campaign=1058&utm_source=git)** | Bellevue, WA | On Site | May 19 |
 | **[BrightBridge Credit Union](https://www.brightbridge.com)** | **[Intern](https://jobright.ai/jobs/info/6a0ca51c22d0d34036c96949?utm_campaign=1058&utm_source=git)** | Lawrence, MA, US | On Site | May 19 |
 | **[Bray International, Inc.](https://www.bray.com)** | **[IT Intern](https://jobright.ai/jobs/info/6a0ca0fa963f7a67d95d9d2e?utm_campaign=1058&utm_source=git)** | Greater Houston | On Site | May 19 |
 | **[Bangor Savings Bank](http://www.bangor.com/)** | **[Summer Float Teller](https://jobright.ai/jobs/info/6a0ca0f3538d03366dc8f4a8?utm_campaign=1058&utm_source=git)** | Farmington, ME | On Site | May 19 |
@@ -97,8 +101,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a0c8e5d538d03366dc8e8a2?utm_campaign=1058&utm_source=git)** | St Augustine, FL | On Site | May 19 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a0c8e3b4d932036368796b0?utm_campaign=1058&utm_source=git)** | Grand Junction, CO | On Site | May 19 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a0c8e2f963f7a67d95d8e56?utm_campaign=1058&utm_source=git)** | Sarasota, FL | On Site | May 19 |
-| **[Hornblower Group](https://www.hornblowercorp.com/)** | **[Hospitality Internship-  City Cruises Chicago](https://jobright.ai/jobs/info/6a0c85fd0411d7417a1b973f?utm_campaign=1058&utm_source=git)** | 600 E Grand Ave, Chicago, IL 60611, USA | On Site | May 19 |
-| ↳ | **[Hospitality Internship-  City Cruises Chicago](https://jobright.ai/jobs/info/6a0c85fd0411d7417a1b973e?utm_campaign=1058&utm_source=git)** | Chicago, IL, USA | On Site | May 19 |
+| **[Hornblower Group](https://www.hornblowercorp.com/)** | **[Hospitality Internship-  City Cruises Chicago](https://jobright.ai/jobs/info/6a0c85fd0411d7417a1b973e?utm_campaign=1058&utm_source=git)** | Chicago, IL, USA | On Site | May 19 |
+| ↳ | **[Hospitality Internship-  City Cruises Chicago](https://jobright.ai/jobs/info/6a0c85fd0411d7417a1b973f?utm_campaign=1058&utm_source=git)** | 600 E Grand Ave, Chicago, IL 60611, USA | On Site | May 19 |
 | **[Economical Insurance](https://www.economical.com/)** | **[Insurance Representative - Fall 2026 Co-op/Intern](https://jobright.ai/jobs/info/6a0c85af22d0d34036c95273?utm_campaign=1058&utm_source=git)** | Waterloo, Ontario, Canada | Hybrid | May 19 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Operations Support, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69effc4ae624fe645d534905?utm_campaign=1058&utm_source=git)** | Jamaica, NY | On Site | May 19 |
 | **[BMW Group](http://www.bmwgroup.com)** | **[Customer Experience Intern (12 Months)](https://jobright.ai/jobs/info/69efd5240a6e09555305753b?utm_campaign=1058&utm_source=git)** | Richmond Hill, Ontario, Canada | On Site | May 19 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Zion Elementary School District 6](http://zion6.org/)** | **[Summer Technology Assistant-multiple positions](https://jobright.ai/jobs/info/6a0b8b7f0411d7417a1b21e3?utm_campaign=1058&utm_source=git)** | Zion, IL | On Site | May 18 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/6a0b82fd22d0d34036c8d3a6?utm_campaign=1058&utm_source=git)** | 19244 MCDONALD ST., Lytle, Texas,United States | On Site | May 18 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[IT Intern- Infrastructure and Operations](https://jobright.ai/jobs/info/6a0b8135963f7a67d95d09c8?utm_campaign=1058&utm_source=git)** | Tysons Corner, VA | On Site | May 18 |
-| **[Atlas Real Estate](http://www.RealAtlas.com)** | **[Summer Intern — Receptionist & Administrative Support](https://jobright.ai/jobs/info/6a0b7af6963f7a67d95d05a8?utm_campaign=1058&utm_source=git)** | Denver,CO,US | On Site | May 18 |
-| **[Hilton Rosemont/Chicago O'Hare](https://www.hilton.com/en/hotels/ordhrhh-hilton-rosemont-chicago-ohare/)** | **[Seasonal Front Desk Intern (May – August)](https://jobright.ai/jobs/info/6a0b7ac6a235d749afa85d65?utm_campaign=1058&utm_source=git)** | Rosemont,IL,US | On Site | May 18 |
-| **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[Item Inventory Renaming Intern](https://jobright.ai/jobs/info/6a0b749a4d932036368712e0?utm_campaign=1058&utm_source=git)** | La Crosse, WI | On Site | May 18 |
-| **[YMCA of Metropolitan Atlanta](https://www.ymcaatlanta.org/)** | **[Tech Support Intern](https://jobright.ai/jobs/info/6a0b715d963f7a67d95cfbc6?utm_campaign=1058&utm_source=git)** | Atlanta, GA | On Site | May 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
