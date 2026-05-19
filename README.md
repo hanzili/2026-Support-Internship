@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a0c3fc9963f7a67d95d596d?utm_campaign=1058&utm_source=git)** | 1606 S PARK AVE,HERRIN,IL,62948-04169-12089-S | On Site | May 19 |
+| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a0c3ef8538d03366dc8b43f?utm_campaign=1058&utm_source=git)** | 901 S STATE RD,DAVISON,MI,48423-01721-10953-S | On Site | May 19 |
+| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a0c3ef6538d03366dc8b43e?utm_campaign=1058&utm_source=git)** | 4800 DIXIE HWY,WATERFORD,MI,48329 | On Site | May 19 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a0c087c4d93203636875768?utm_campaign=1058&utm_source=git)** | 2350 E MARKET ST,YORK,PA,17402-02859-09591-S | On Site | May 18 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a0c087b4d93203636875767?utm_campaign=1058&utm_source=git)** | 6201 SALTSBURG RD,PITTSBURGH,PA,15235 | On Site | May 18 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a0c08330411d7417a1b56de?utm_campaign=1058&utm_source=git)** | 1280 WALTON BLVD,ROCHESTER HILLS,MI,48307-06900-09125-S | On Site | May 18 |
@@ -139,11 +142,11 @@ For a complete list, click the following sortable link below:
 | **[CVS Health](https://www.cvshealth.com/)** | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/6a0b033a538d03366dc80d87?utm_campaign=1058&utm_source=git)** | TX - Del Rio, US | On Site | May 18 |
 | ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/6a0b033a0411d7417a1ac503?utm_campaign=1058&utm_source=git)** | TX - Kyle, US | On Site | May 18 |
 | ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/6a0b033a538d03366dc80d85?utm_campaign=1058&utm_source=git)** | TX - Marble Falls, US | On Site | May 18 |
-| ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/6a0b03390411d7417a1ac502?utm_campaign=1058&utm_source=git)** | CA - Hesperia, US | On Site | May 18 |
 | ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/6a0b0339963f7a67d95cb28c?utm_campaign=1058&utm_source=git)** | TX - Nacogdoches, US | On Site | May 18 |
+| ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/6a0b03390411d7417a1ac502?utm_campaign=1058&utm_source=git)** | CA - Hesperia, US | On Site | May 18 |
 | ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/6a0b0338538d03366dc80d82?utm_campaign=1058&utm_source=git)** | TX - Waxahachie, US | On Site | May 18 |
-| ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/6a0b03370411d7417a1ac500?utm_campaign=1058&utm_source=git)** | CA - Fairfield, US | On Site | May 18 |
 | ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/6a0b0337538d03366dc80d80?utm_campaign=1058&utm_source=git)** | TX - Cameron, US | On Site | May 18 |
+| ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/6a0b03370411d7417a1ac500?utm_campaign=1058&utm_source=git)** | CA - Fairfield, US | On Site | May 18 |
 | **[United Health Services](https://www.nyuhs.org/)** | **[Desktop Support Technician Intern](https://jobright.ai/jobs/info/6a0afa0d0411d7417a1ac29f?utm_campaign=1058&utm_source=git)** | Binghamton, NY | On Site | May 18 |
 | **[Gen](https://www.gendigital.com)** | **[IT Support Intern](https://jobright.ai/jobs/info/69ef147f7820c03692500074?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | May 18 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a0aeee7a235d749afa80698?utm_campaign=1058&utm_source=git)** | 828 ROYAL PKWY,STE 101,NASHVILLE,TN,37214 | On Site | May 18 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Tourism & Operations Internship](https://jobright.ai/jobs/info/6a0ae5c722d0d34036c86efc?utm_campaign=1058&utm_source=git)** | Bristol Depot located in Sussex | On Site | May 18 |
 | **[ChenMed](http://www.chenmed.com/)** | **[Intern (Paid)](https://jobright.ai/jobs/info/6a0ada038f3e371eb618aae7?utm_campaign=1058&utm_source=git)** | North Tampa, US | On Site | May 18 |
 | **[Legacy.com](https://www.legacy.com/)** | **[ROE Obtainment Specialist Intern](https://jobright.ai/jobs/info/6a0ad3b36186f46859892b80?utm_campaign=1058&utm_source=git)** | UNAVAILABLE, Remote Location, US | Remote | May 18 |
-| ↳ | **[ROE Obtainment Specialist Intern](https://jobright.ai/jobs/info/6a0ad3af6186f46859892b7b?utm_campaign=1058&utm_source=git)** | US-Remote Location | Remote | May 18 |
-| **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a0ab6c66186f46859892438?utm_campaign=1058&utm_source=git)** | 1000 DALLAS CHERRYVILLE HWY,DALLAS,NC,28034-09221-10608-S | On Site | May 17 |
-| **[TexasBank](http://www.texasbank.com)** | **[Intern - Teller & Lobby Support](https://jobright.ai/jobs/info/6a0ab6193b54ed42d74e15a9?utm_campaign=1058&utm_source=git)** | Comanche - Comanche, TX 76442 | On Site | May 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
