@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[WATCHUNG BOROUGH PUBLIC SCHOOL DISTRICT](https://www.linkedin.com/company/55782491)** | **[Summer 2026 Technology Assistant](https://jobright.ai/jobs/info/6a0baf55963f7a67d95d2514?utm_campaign=1058&utm_source=git)** | Watchung, NJ | On Site | May 18 |
+| **[America First Credit Union](http://www.americafirst.com)** | **[Student Trainee - Teller](https://jobright.ai/jobs/info/6a0bad7222d0d34036c8ee18?utm_campaign=1058&utm_source=git)** | Utah, United States | On Site | May 18 |
+| **[Salvus TG now known as The Purple Guys, an Ntiva Company](https://salvustg.com/)** | **[Service Desk Intern](https://jobright.ai/jobs/info/6a0ba4f0a235d749afa87769?utm_campaign=1058&utm_source=git)** | Huntington, WV | On Site | May 18 |
 | **[Four Seasons](http://www.fourseasons.com)** | **[Food & Beverage Intern](https://jobright.ai/jobs/info/6a0ba09b0411d7417a1b2f64?utm_campaign=1058&utm_source=git)** | Fort Lauderdale, FL | On Site | May 18 |
 | **[Cadence](https://www.cadence.com)** | **[IT Internship (Techstop Support)](https://jobright.ai/jobs/info/6a0b9fb3963f7a67d95d1caf?utm_campaign=1058&utm_source=git)** | SAN JOSE, US | On Site | May 18 |
 | **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Fall 2026 - College Internship - Park City, UT (Front Desk & Housekeeping)](https://jobright.ai/jobs/info/6a0b9d2d538d03366dc8761e?utm_campaign=1058&utm_source=git)** | Marriott's Summit Watch, US | On Site | May 18 |
@@ -66,7 +69,6 @@ For a complete list, click the following sortable link below:
 | **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a0b97e0a235d749afa87339?utm_campaign=1058&utm_source=git)** | 4932 MAIN ST,SPRING HILL,TN,37174 | On Site | May 18 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a0b965d22d0d34036c8e282?utm_campaign=1058&utm_source=git)** | 5445 STATE ROAD 16,SAINT AUGUSTINE,FL,32092-01350-11165-S | On Site | May 18 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a0b965722d0d34036c8e273?utm_campaign=1058&utm_source=git)** | 14405 BEACH BLVD,JACKSONVILLE,FL,32250 | On Site | May 18 |
-| **[Salvus TG now known as The Purple Guys, an Ntiva Company](https://salvustg.com/)** | **[Service Desk Intern](https://jobright.ai/jobs/info/6a0b9447538d03366dc870b1?utm_campaign=1058&utm_source=git)** | Huntington, WV | On Site | May 18 |
 | **[Medartis Inc. - United States](https://www.medartisusa.com)** | **[IT Project Intern](https://jobright.ai/jobs/info/6a0b92b022d0d34036c8df2f?utm_campaign=1058&utm_source=git)** | Warsaw, IN | On Site | May 18 |
 | **[Ntiva, Inc.](http://www.ntiva.com)** | **[Service Desk Intern](https://jobright.ai/jobs/info/6a0b92aaa235d749afa86eab?utm_campaign=1058&utm_source=git)** | Huntington, WV | On Site | May 18 |
 | **[Betenbough Companies](https://betenboughcompanies.com/)** | **[Banquet Intern](https://jobright.ai/jobs/info/6a0b8ef3963f7a67d95d113e?utm_campaign=1058&utm_source=git)** | Lubbock, TX | On Site | May 18 |
@@ -102,8 +104,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[PC Support Specialist Intern](https://jobright.ai/jobs/info/6a0b49a54d9320363686f32e?utm_campaign=1058&utm_source=git)** | US-WI-Madison | On Site | May 18 |
 | **[Children's Hospital Colorado](https://www.childrenscolorado.org)** | **[Pharmacy Intern PRN](https://jobright.ai/jobs/info/69ef395a58811370cb145309?utm_campaign=1058&utm_source=git)** | Aurora, CO | On Site | May 18 |
 | **[Tecnica Group North America](http://www.tecnicagroup.com)** | **[IT Help Desk - Summer Internship Opportunity](https://jobright.ai/jobs/info/6a0b4382538d03366dc83653?utm_campaign=1058&utm_source=git)** | West Lebanon, NH | Hybrid | May 18 |
-| **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/6a0b42d8963f7a67d95cdc1e?utm_campaign=1058&utm_source=git)** | 100 W GRAND RIVER AVE,EAST LANSING,MI,48823-04325-21313-S | On Site | May 18 |
-| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a0b42d8963f7a67d95cdc1f?utm_campaign=1058&utm_source=git)** | 3915 W SAGINAW HWY,LANSING,MI,48917 | On Site | May 18 |
+| **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/6a0b42d8963f7a67d95cdc1f?utm_campaign=1058&utm_source=git)** | 3915 W SAGINAW HWY,LANSING,MI,48917 | On Site | May 18 |
+| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a0b42d8963f7a67d95cdc1e?utm_campaign=1058&utm_source=git)** | 100 W GRAND RIVER AVE,EAST LANSING,MI,48823-04325-21313-S | On Site | May 18 |
 | **[Ntiva, Inc.](http://www.ntiva.com)** | **[Service Desk Intern](https://jobright.ai/jobs/info/6a0b421f0411d7417a1aeb25?utm_campaign=1058&utm_source=git)** | Huntington, West Virginia, United States | On Site | May 18 |
 | **[Sparton](http://www.sparton.com)** | **[IT Internship](https://jobright.ai/jobs/info/6a0b3b650411d7417a1ae4b5?utm_campaign=1058&utm_source=git)** | De Leon Springs, FL | On Site | May 18 |
 | **[Loenbro](http://loenbro.com)** | **[IT Transformation Intern](https://jobright.ai/jobs/info/6a0b3a18a235d749afa829e0?utm_campaign=1058&utm_source=git)** | Westminster, CO | On Site | May 18 |
@@ -145,6 +147,7 @@ For a complete list, click the following sortable link below:
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a0a98cd403fc339507f789d?utm_campaign=1058&utm_source=git)** | 6690 W UNION HILLS DR,GLENDALE,AZ,85308-01011-03003-S | On Site | May 17 |
 | **[Tuckahoe Holdings, LLC](https://www.tuckahoeholdings.com)** | **[IT Summer Intern](https://jobright.ai/jobs/info/6a0a8f8c3b54ed42d74e07f9?utm_campaign=1058&utm_source=git)** | DuBois, PA, US | On Site | May 17 |
 | **[Elbit Systems of America](https://www.elbitamerica.com/)** | **[IT Internship](https://jobright.ai/jobs/info/6a0b2f3f4d9320363686e1fa?utm_campaign=1058&utm_source=git)** | De Leon Springs, FL | On Site | May 17 |
+| **[Fathom Digital Manufacturing](https://www.fathommfg.com/)** | **[IT Help Desk Specialist](https://jobright.ai/jobs/info/6a0badef963f7a67d95d245b?utm_campaign=1058&utm_source=git)** | Hartland, WI | On Site | May 17 |
 | **[Aramark Student Nutrition](http://www.aramarkeducation.com)** | **[IT Intern - Univ. of Minnesota - Athletics Combined](https://jobright.ai/jobs/info/6a0ac423403fc339507f837e?utm_campaign=1058&utm_source=git)** | Minneapolis, MN | On Site | May 17 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/6a0a46c9a203b1052e44ca42?utm_campaign=1058&utm_source=git)** | 104 N MAIN ST,VERONA,WI,53593-01160-01159-S | On Site | May 17 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a0a460e403fc339507f6224?utm_campaign=1058&utm_source=git)** | 3595 CORAL WAY,MIAMI,FL,33145 | On Site | May 17 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a0a0d13403fc339507f5026?utm_campaign=1058&utm_source=git)** | 2 N STATE ST # 1,CHICAGO,IL,60602 | On Site | May 17 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a0a0cdb403fc339507f5008?utm_campaign=1058&utm_source=git)** | 85 ROBINSON ST,BINGHAMTON,NY,13901-02521-18984-S | On Site | May 17 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a0a0cdb403fc339507f5007?utm_campaign=1058&utm_source=git)** | 82 N BROAD ST,NORWICH,NY,13815 | On Site | May 17 |
-| **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[Respiratory Intern (Non-Exempt) (22072N)](https://jobright.ai/jobs/info/69d16906891d7b11cfce3709?utm_campaign=1058&utm_source=git)** | Springfield, MO | On Site | May 17 |
-| **[Leviton](https://www.leviton.com)** | **[Intern, IT Support Services (Summer)](https://jobright.ai/jobs/info/698a3dd80f6f7e7a2ce54ee3?utm_campaign=1058&utm_source=git)** | Melville, NY | On Site | May 17 |
-| **[Trinity Health](http://www.trinity-health.org)** | **[Pharmacy Intern, Per Diem - Sunnyview Hospital](https://jobright.ai/jobs/info/6997cfcc81476f6176b000ba?utm_campaign=1058&utm_source=git)** | Schenectady, NY | On Site | May 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
