@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Blue Diamond Growers](https://bluediamondgrowers.com/)** | **[IT Intern](https://jobright.ai/jobs/info/6a0cc74c0411d7417a1bc673?utm_campaign=1058&utm_source=git)** | Sacramento, CA, US | On Site | May 19 |
+| **[Brown Gibbons Lang & Company (BGL)](http://www.bglco.com/)** | **[Information Technology Intern (2026 Summer)](https://jobright.ai/jobs/info/6a0cc4e6a235d749afa902b6?utm_campaign=1058&utm_source=git)** | Cleveland, OH | On Site | May 19 |
+| **[Burgi Technologies](https://www.ldsi.com)** | **[Part-Time IT Technician (Internship with a Path to Full-Time)](https://jobright.ai/jobs/info/6a0cc061538d03366dc90a71?utm_campaign=1058&utm_source=git)** | LA Metro Area | On Site | May 19 |
+| **[JSW Steel USA](http://jswsteel.us)** | **[Information Technology Intern](https://jobright.ai/jobs/info/6a0cbe55963f7a67d95db0ea?utm_campaign=1058&utm_source=git)** | Baytown, TX | On Site | May 19 |
 | **[ARCO a Family of Construction Companies](https://thearcoway.com)** | **[IT Intern/Co-op](https://jobright.ai/jobs/info/69ba897006c1ba00c54c9795?utm_campaign=1058&utm_source=git)** | Brentwood, MO | On Site | May 19 |
 | **[Global Partners LP](http://www.globalp.com)** | **[Oracle Support Intern](https://jobright.ai/jobs/info/6a0cb5cd538d03366dc902fd?utm_campaign=1058&utm_source=git)** | Waltham, MA | On Site | May 19 |
 | **[Easterseals Rehabilitation Center- Evansville, IN](http://bit.ly/HomePageESRC)** | **[IT Intern](https://jobright.ai/jobs/info/6a0cb249a235d749afa8f698?utm_campaign=1058&utm_source=git)** | Evansville, IN | On Site | May 19 |
@@ -89,12 +93,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Hospitality Internship-  City Cruises Chicago](https://jobright.ai/jobs/info/6a0c85fd0411d7417a1b973f?utm_campaign=1058&utm_source=git)** | 600 E Grand Ave, Chicago, IL 60611, USA | On Site | May 19 |
 | **[Economical Insurance](https://www.economical.com/)** | **[Insurance Representative - Fall 2026 Co-op/Intern](https://jobright.ai/jobs/info/6a0c85af22d0d34036c95273?utm_campaign=1058&utm_source=git)** | Waterloo, Ontario, Canada | Hybrid | May 19 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Operations Support, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69effc4ae624fe645d534905?utm_campaign=1058&utm_source=git)** | Jamaica, NY | On Site | May 19 |
+| **[BMW Group](http://www.bmwgroup.com)** | **[Customer Experience Intern (12 Months)](https://jobright.ai/jobs/info/69efd5240a6e09555305753b?utm_campaign=1058&utm_source=git)** | Richmond Hill, Ontario, Canada | On Site | May 19 |
 | **[Crownstone Equipment](http://www.crownstoneeq.com)** | **[Summer IT Intern](https://jobright.ai/jobs/info/6a0c7edf4d93203636878db5?utm_campaign=1058&utm_source=git)** | 148 Penn St, Hanover, PA | On Site | May 19 |
 | **[Cardiovascular Institute of the South](http://cardio.com)** | **[IT Intern](https://jobright.ai/jobs/info/6a0c784e0411d7417a1b8e9e?utm_campaign=1058&utm_source=git)** | Houma, Louisiana, United States | On Site | May 19 |
 | **[Catawba Nation](https://www.catawba.com/)** | **[IT Help Desk Intern](https://jobright.ai/jobs/info/6a0c777222d0d34036c9489b?utm_campaign=1058&utm_source=git)** | Rock Hill, SC 29730 | On Site | May 19 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a0c776b4d932036368787c9?utm_campaign=1058&utm_source=git)** | 461 MAIN ST,SACO,ME,04072-01528-18004-S | On Site | May 19 |
 | **[Catawba Nation](https://www.catawba.com/)** | **[Transit Intern](https://jobright.ai/jobs/info/6a0c772f4d93203636878789?utm_campaign=1058&utm_source=git)** | Rock Hill, SC 29730 | On Site | May 19 |
-| **[Global Partners LP](http://www.globalp.com)** | **[Oracle Support Intern](https://jobright.ai/jobs/info/6a0c62fc963f7a67d95d7332?utm_campaign=1058&utm_source=git)** | Waltham, MA - Corporate Headquarters, US | On Site | May 19 |
 | **[Bay State Bank](http://www.baystatesavingsbank.com)** | **[Records Digitization Intern](https://jobright.ai/jobs/info/6a0c62ba538d03366dc8cc1b?utm_campaign=1058&utm_source=git)** | Worcester, MA | On Site | May 19 |
 | **[Definity](https://www.definityfinancial.com/)** | **[Insurance Representative - Fall 2026 Co-op/Intern](https://jobright.ai/jobs/info/6a0c5a08538d03366dc8c3c8?utm_campaign=1058&utm_source=git)** | Waterloo, ONT, Canada | Hybrid | May 19 |
 | **[Purpose Financial](https://havepurpose.com/)** | **[Telephony & Conversational AI Analyst Intern](https://jobright.ai/jobs/info/6a0c4e8622d0d34036c92fda?utm_campaign=1058&utm_source=git)** | Greenville, SC | On Site | May 19 |
@@ -120,6 +124,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a0bb43422d0d34036c8f30a?utm_campaign=1058&utm_source=git)** | 121 N NORTHSHORE DR,KNOXVILLE,TN,37919 | On Site | May 18 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a0bb308a235d749afa880c2?utm_campaign=1058&utm_source=git)** | 2041 GEORGIA AVE NW FIRST FL,STE 1-J10,WASHINGTON,DC,20060-00001-16049-S | On Site | May 18 |
 | **[Cambium Learning Group](http://cambiumlearning.com)** | **[Provisioning Technician Intern](https://jobright.ai/jobs/info/6a062143f3d6cc51d638f6c2?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | May 18 |
+| **[BrightBridge Credit Union](https://www.brightbridge.com)** | **[Intern](https://jobright.ai/jobs/info/6a0cc60aa235d749afa90481?utm_campaign=1058&utm_source=git)** | Lawrence, MA | On Site | May 18 |
 | **[WATCHUNG BOROUGH PUBLIC SCHOOL DISTRICT](https://www.linkedin.com/company/55782491)** | **[Summer 2026 Technology Assistant](https://jobright.ai/jobs/info/6a0baf55963f7a67d95d2514?utm_campaign=1058&utm_source=git)** | Watchung, NJ | On Site | May 18 |
 | **[CommonBond Communities](https://commonbond.org)** | **[IT Intern](https://jobright.ai/jobs/info/6a0cb63e22d0d34036c976f4?utm_campaign=1058&utm_source=git)** | St Paul, MN | On Site | May 18 |
 | **[Crownstone Equipment](http://www.crownstoneeq.com)** | **[Summer IT Intern](https://jobright.ai/jobs/info/6a0cb63b22d0d34036c976d5?utm_campaign=1058&utm_source=git)** | Hanover, PA | On Site | May 18 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/6a0b65cf4d93203636870951?utm_campaign=1058&utm_source=git)** | Cameron, TX | On Site | May 18 |
 | ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/6a0b65c14d93203636870915?utm_campaign=1058&utm_source=git)** | Midlothian, TX | On Site | May 18 |
 | ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/6a0b658fa235d749afa84f02?utm_campaign=1058&utm_source=git)** | Indianapolis, IN | On Site | May 18 |
-| **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[IT Support Intern](https://jobright.ai/jobs/info/6a0b62104d9320363687065b?utm_campaign=1058&utm_source=git)** | Cincinnati, OH (USA), US | On Site | May 18 |
-| **[M&F Bank NC](https://www.mfbonline.com/)** | **[Internship - Branch Operations](https://jobright.ai/jobs/info/6a0b6045538d03366dc84c66?utm_campaign=1058&utm_source=git)** | Charlotte, NC | On Site | May 18 |
-| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/6a0b5dd8963f7a67d95cefe3?utm_campaign=1058&utm_source=git)** | 13800 PINES BLVD,PEMBROKE PINES,FL,33027-01508-04143-S | On Site | May 18 |
-| **[SchoolSpring](http://www.schoolspring.com)** | **[Technology Intern, High School, Classified](https://jobright.ai/jobs/info/6a0b5c964d932036368702ec?utm_campaign=1058&utm_source=git)** | LICKING HEIGHTS HIGH SCHOOL - Pataskala, Ohio | On Site | May 18 |
-| **[DeBra-Kuempel](https://dkemcor.com/)** | **[IT Helpdesk Co-op - Fall 2026](https://jobright.ai/jobs/info/6a0b58420411d7417a1afc9d?utm_campaign=1058&utm_source=git)** | Cincinnati, OH | On Site | May 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
