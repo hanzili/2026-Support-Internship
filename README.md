@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bluu, Inc.](https://www.ebluu.com/)** | **[Summer IT Support Intern - Korean Bilingual](https://jobright.ai/jobs/info/6a0d16104d9320363687eb9b?utm_campaign=1058&utm_source=git)** | Hackensack, NJ | On Site | May 19 |
 | **[Loma Linda University Health](https://lluh.org/)** | **[Intern-EHR Business](https://jobright.ai/jobs/info/6a0d10b74d9320363687ead4?utm_campaign=1058&utm_source=git)** | Loma Linda, CA | On Site | May 19 |
 | ↳ | **[Intern-EHR Business](https://jobright.ai/jobs/info/6a0d0882963f7a67d95de15a?utm_campaign=1058&utm_source=git)** | 197 E Caroline St, San Bernardino, CA, 92408, US | On Site | May 19 |
 | **[CrewBoss™](https://crewbossppe.com/)** | **[IT Help Desk Intern](https://jobright.ai/jobs/info/6a0d04daa235d749afa92d7d?utm_campaign=1058&utm_source=git)** | CRESCENT SSE - Eugene, OR 97401 | On Site | May 19 |
@@ -80,9 +81,9 @@ For a complete list, click the following sortable link below:
 | **[Schulte Group](https://www.schultegroup.com/)** | **[Part Time - Guest Services Associate Intern](https://jobright.ai/jobs/info/6a0cd54ba235d749afa90fcd?utm_campaign=1058&utm_source=git)** | Plymouth, MI, 48170, United States | On Site | May 19 |
 | **[Resonetics](http://www.resonetics.com)** | **[IT Intern](https://jobright.ai/jobs/info/6a0cd44f538d03366dc91ad2?utm_campaign=1058&utm_source=git)** | Bethel, CT | On Site | May 19 |
 | **[Edconic](https://branded-edu.com)** | **[IT Support Intern](https://jobright.ai/jobs/info/6a0cd2a64d9320363687c81c?utm_campaign=1058&utm_source=git)** | New York, NY, US | On Site | May 19 |
-| **[Resonetics](http://www.resonetics.com)** | **[IT Intern](https://jobright.ai/jobs/info/6a0cd0f7a235d749afa90dce?utm_campaign=1058&utm_source=git)** | Bethel, CT, US | On Site | May 19 |
+| **[Resonetics](http://www.resonetics.com)** | **[IT Intern](https://jobright.ai/jobs/info/6a0cd0f7a235d749afa90dcb?utm_campaign=1058&utm_source=git)** | Nashua, NH, US | On Site | May 19 |
 | ↳ | **[IT Intern](https://jobright.ai/jobs/info/6a0cd0f7a235d749afa90dcd?utm_campaign=1058&utm_source=git)** | US-NH-Nashua | On Site | May 19 |
-| ↳ | **[IT Intern](https://jobright.ai/jobs/info/6a0cd0f7a235d749afa90dcb?utm_campaign=1058&utm_source=git)** | Nashua, NH, US | On Site | May 19 |
+| ↳ | **[IT Intern](https://jobright.ai/jobs/info/6a0cd0f7a235d749afa90dce?utm_campaign=1058&utm_source=git)** | Bethel, CT, US | On Site | May 19 |
 | ↳ | **[IT Intern](https://jobright.ai/jobs/info/6a0cd0f6a235d749afa90dca?utm_campaign=1058&utm_source=git)** | US-CT-Bethel | On Site | May 19 |
 | **[Lucid Software](https://lucid.co)** | **[Customer Operations Intern - Part-time Fall 2026](https://jobright.ai/jobs/info/6a0cd03a4d9320363687c67c?utm_campaign=1058&utm_source=git)** | Raleigh, NC | Hybrid | May 19 |
 | **[Sotheby's Institute of Art](http://www.sothebysinstitute.com)** | **[IT Support Intern](https://jobright.ai/jobs/info/6a0ccf79a235d749afa90c52?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | May 19 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[WATCHUNG BOROUGH PUBLIC SCHOOL DISTRICT](https://www.linkedin.com/company/55782491)** | **[Summer 2026 Technology Assistant](https://jobright.ai/jobs/info/6a0baf55963f7a67d95d2514?utm_campaign=1058&utm_source=git)** | Watchung, NJ | On Site | May 18 |
 | **[CommonBond Communities](https://commonbond.org)** | **[IT Intern](https://jobright.ai/jobs/info/6a0cb63e22d0d34036c976f4?utm_campaign=1058&utm_source=git)** | St Paul, MN | On Site | May 18 |
 | **[Crownstone Equipment](http://www.crownstoneeq.com)** | **[Summer IT Intern](https://jobright.ai/jobs/info/6a0cb63b22d0d34036c976d5?utm_campaign=1058&utm_source=git)** | Hanover, PA | On Site | May 18 |
-| **[Salvus TG now known as The Purple Guys, an Ntiva Company](https://salvustg.com/)** | **[Service Desk Intern](https://jobright.ai/jobs/info/6a0ba4f0a235d749afa87769?utm_campaign=1058&utm_source=git)** | Huntington, WV | On Site | May 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
