@@ -119,8 +119,8 @@ For a complete list, click the following sortable link below:
 | **[NETSYNC](https://www.netsync.com/)** | **[Computer Technician Intern (paid internship)](https://jobright.ai/jobs/info/6a0c9501538d03366dc8ee9b?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | May 19 |
 | **[Bray International, Inc.](https://www.bray.com)** | **[IT Intern](https://jobright.ai/jobs/info/6a0c91ff538d03366dc8ebf2?utm_campaign=1058&utm_source=git)** | Houston, Texas, United States | On Site | May 19 |
 | **[1st Security Bank of Washington](https://www.fsbwa.com/)** | **[Customer Service Representative Intern](https://jobright.ai/jobs/info/6a06113bf3d6cc51d638e67b?utm_campaign=1058&utm_source=git)** | Olympia, WA | On Site | May 19 |
-| **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/6a0c8e6e538d03366dc8e8d9?utm_campaign=1058&utm_source=git)** | Frankfort, IL | On Site | May 19 |
-| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a0c8e6e538d03366dc8e8db?utm_campaign=1058&utm_source=git)** | El Dorado Hills, CA | On Site | May 19 |
+| **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/6a0c8e6e538d03366dc8e8db?utm_campaign=1058&utm_source=git)** | El Dorado Hills, CA | On Site | May 19 |
+| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a0c8e6e538d03366dc8e8d9?utm_campaign=1058&utm_source=git)** | Frankfort, IL | On Site | May 19 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a0c8e5f538d03366dc8e8a6?utm_campaign=1058&utm_source=git)** | Tampa, FL | On Site | May 19 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a0c8e5d538d03366dc8e8a2?utm_campaign=1058&utm_source=git)** | St Augustine, FL | On Site | May 19 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a0c8e3b4d932036368796b0?utm_campaign=1058&utm_source=git)** | Grand Junction, CO | On Site | May 19 |
