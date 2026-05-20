@@ -58,8 +58,8 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Jabil](https://www.jabil.com)** | **[Information Systems Summer Intern](https://jobright.ai/jobs/info/6a0d97a880bf0430c762466b?utm_campaign=1058&utm_source=git)** | Clinton, MA, US | On Site | May 20 |
-| **[Beech Acres Parenting Center](https://beechacres.org)** | **[Intern - Information Technology - $15.00 hourly](https://jobright.ai/jobs/info/6a0d978780bf0430c7624668?utm_campaign=1058&utm_source=git)** | US-OH-Cincinnati | On Site | May 20 |
-| ↳ | **[Intern - Information Technology - $15.00 hourly](https://jobright.ai/jobs/info/6a0d978780bf0430c7624667?utm_campaign=1058&utm_source=git)** | Cincinnati, OH, US | On Site | May 20 |
+| **[Beech Acres Parenting Center](https://beechacres.org)** | **[Intern - Information Technology - $15.00 hourly](https://jobright.ai/jobs/info/6a0d978780bf0430c7624667?utm_campaign=1058&utm_source=git)** | Cincinnati, OH, US | On Site | May 20 |
+| ↳ | **[Intern - Information Technology - $15.00 hourly](https://jobright.ai/jobs/info/6a0d978780bf0430c7624668?utm_campaign=1058&utm_source=git)** | US-OH-Cincinnati | On Site | May 20 |
 | **[Mednevo](https://mednevo.com)** | **[Medical Doctor Intern kk](https://jobright.ai/jobs/info/6a0d934b80bf0430c76245a2?utm_campaign=1058&utm_source=git)** | Texas, United States | Remote | May 20 |
 | **[First Horizon Bank](https://www.firsthorizon.com/pmc)** | **[Intern - Digital Banking Support](https://jobright.ai/jobs/info/698e2cc90f6f7e7a2cea3bdf?utm_campaign=1058&utm_source=git)** | Knoxville, TN | On Site | May 20 |
 | **[Kaplan](http://www.kaplan.com)** | **[Desktop Operations, Intern](https://jobright.ai/jobs/info/69bb8a1d56973837414193be?utm_campaign=1058&utm_source=git)** | Fort Lauderdale, FL | On Site | May 20 |
@@ -67,6 +67,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Customer Support Intern](https://jobright.ai/jobs/info/6952df915bb7de448ef5f0b8?utm_campaign=1058&utm_source=git)** | Lexington, KY | Hybrid | May 20 |
 | ↳ | **[Customer Support Intern](https://jobright.ai/jobs/info/6952e06ef1f8465b79ea28f5?utm_campaign=1058&utm_source=git)** | North Bethesda, MD | On Site | May 20 |
 | ↳ | **[Case Management Intern](https://jobright.ai/jobs/info/69e8c2b6e0cd471b2f137e71?utm_campaign=1058&utm_source=git)** | Lexington, KY | On Site | May 20 |
+| ↳ | **[Case Management Intern](https://jobright.ai/jobs/info/6940779349a7695fbd05f6a3?utm_campaign=1058&utm_source=git)** | Gaithersburg, MD | On Site | May 20 |
 | ↳ | **[Case Management Intern](https://jobright.ai/jobs/info/6943a5e5dd382f5f5669c041?utm_campaign=1058&utm_source=git)** | North Bethesda, MD | Hybrid | May 20 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a0d591f0411d7417a1c176f?utm_campaign=1058&utm_source=git)** | 2220 S INTERSTATE 35,ROUND ROCK,TX,78681 | On Site | May 19 |
 | **[Del Mar College - Corporate Services](https://www.delmar.edu/continuing-education/corporate-services/)** | **[FOREIGN LANGUAGES LAB ASSISTANT POOL](https://jobright.ai/jobs/info/6a0d7551d516b5204a376e83?utm_campaign=1058&utm_source=git)** | Corpus Christi, TX | On Site | May 19 |
@@ -90,8 +91,8 @@ For a complete list, click the following sortable link below:
 | **[Excelitas Technologies Corp.](http://www.excelitas.com)** | **[Technical Writer Intern](https://jobright.ai/jobs/info/6a0cecfba235d749afa9201b?utm_campaign=1058&utm_source=git)** | Boulder, CO | On Site | May 19 |
 | **[Blue Diamond Growers](https://bluediamondgrowers.com/)** | **[IT Intern](https://jobright.ai/jobs/info/6a0cece2a235d749afa91fd8?utm_campaign=1058&utm_source=git)** | Sacramento, CA | On Site | May 19 |
 | **[Blackburn, Childers & Steagall, PLC](https://www.bcscpa.com/)** | **[IT Intern](https://jobright.ai/jobs/info/6a0ce9590411d7417a1bdd9f?utm_campaign=1058&utm_source=git)** | Johnson City, TN | On Site | May 19 |
-| **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/6a0ce917a235d749afa91e41?utm_campaign=1058&utm_source=git)** | 2 W BROADWAY,LINCOLN,ME,04457 | On Site | May 19 |
-| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a0ce917a235d749afa91e40?utm_campaign=1058&utm_source=git)** | 112 BENNETT DR,CARIBOU,ME,04736-02022-18248-S | On Site | May 19 |
+| **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/6a0ce917a235d749afa91e40?utm_campaign=1058&utm_source=git)** | 112 BENNETT DR,CARIBOU,ME,04736-02022-18248-S | On Site | May 19 |
+| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a0ce917a235d749afa91e41?utm_campaign=1058&utm_source=git)** | 2 W BROADWAY,LINCOLN,ME,04457 | On Site | May 19 |
 | **[Boston Medical Center (BMC)](http://www.bmc.org/)** | **[Cardiology Summer Intern](https://jobright.ai/jobs/info/6a0ce8d14d9320363687d730?utm_campaign=1058&utm_source=git)** | Boston, MA | On Site | May 19 |
 | **[Brown Gibbons Lang & Company (BGL)](http://www.bglco.com/)** | **[Information Technology Intern (2026 Summer)](https://jobright.ai/jobs/info/6a0ce7004d9320363687d509?utm_campaign=1058&utm_source=git)** | Cleveland, OH | On Site | May 19 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Student Intern](https://jobright.ai/jobs/info/6a0ce48fa235d749afa919a9?utm_campaign=1058&utm_source=git)** | Elk Grove City Hall, CA | On Site | May 19 |
@@ -151,7 +152,6 @@ For a complete list, click the following sortable link below:
 | **[Catawba Nation](https://www.catawba.com/)** | **[Transit Intern](https://jobright.ai/jobs/info/6a0c772f4d93203636878789?utm_campaign=1058&utm_source=git)** | Rock Hill, SC 29730 | On Site | May 19 |
 | **[Bay State Bank](http://www.baystatesavingsbank.com)** | **[Records Digitization Intern](https://jobright.ai/jobs/info/6a0c62ba538d03366dc8cc1b?utm_campaign=1058&utm_source=git)** | Worcester, MA | On Site | May 19 |
 | **[Definity](https://www.definityfinancial.com/)** | **[Insurance Representative - Fall 2026 Co-op/Intern](https://jobright.ai/jobs/info/6a0c5a08538d03366dc8c3c8?utm_campaign=1058&utm_source=git)** | Waterloo, ONT, Canada | Hybrid | May 19 |
-| **[Purpose Financial](https://havepurpose.com/)** | **[Telephony & Conversational AI Analyst Intern](https://jobright.ai/jobs/info/6a0c4e8622d0d34036c92fda?utm_campaign=1058&utm_source=git)** | Greenville, SC | On Site | May 19 |
 | **[Tucson Electric Power](https://www.tep.com/)** | **[Student Intern, Customer Applications](https://jobright.ai/jobs/info/69eff3634b0fa35a7078d2d3?utm_campaign=1058&utm_source=git)** | Tucson, AZ | On Site | May 19 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/6a0c40984d93203636876b02?utm_campaign=1058&utm_source=git)** | 168 1ST ST W.,HUMBLE,TX,77338 | On Site | May 19 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a0c3fc9963f7a67d95d596d?utm_campaign=1058&utm_source=git)** | 1606 S PARK AVE,HERRIN,IL,62948-04169-12089-S | On Site | May 19 |
