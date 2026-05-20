@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CRH](http://crh.com)** | **[IT Service Desk Intern](https://jobright.ai/jobs/info/6a0d0062a235d749afa92a63?utm_campaign=1058&utm_source=git)** | Atlanta, GA | On Site | May 19 |
+| **[Butcher Power Products](https://www.bppmfg.com)** | **[IT, Accounting & Operations Intern](https://jobright.ai/jobs/info/6a0cfbb80411d7417a1be564?utm_campaign=1058&utm_source=git)** | Rancho Cordova | On Site | May 19 |
 | **[Bluu, Inc.](https://www.ebluu.com/)** | **[Summer IT Support Intern - Korean Bilingual](https://jobright.ai/jobs/info/6a0cef844d9320363687da95?utm_campaign=1058&utm_source=git)** | Hackensack, NJ, US | On Site | May 19 |
 | **[Bosch](http://www.bosch.com)** | **[Customer Experience Intern - Bilingual (French & English)](https://jobright.ai/jobs/info/6a0ceec14d9320363687da7d?utm_campaign=1058&utm_source=git)** | 490 Prince Charles Dr S, Welland, ON L3B 5X7, Canada | On Site | May 19 |
 | **[Twin City Fan & Blower](https://www.tcf.com/)** | **[IT Technical Writer Intern](https://jobright.ai/jobs/info/6a0ced0e0411d7417a1bdf1e?utm_campaign=1058&utm_source=git)** | Plymouth, MN | On Site | May 19 |
@@ -106,14 +108,14 @@ For a complete list, click the following sortable link below:
 | **[NETSYNC](https://www.netsync.com/)** | **[Computer Technician Intern (paid internship)](https://jobright.ai/jobs/info/6a0c9501538d03366dc8ee9b?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | May 19 |
 | **[Bray International, Inc.](https://www.bray.com)** | **[IT Intern](https://jobright.ai/jobs/info/6a0c91ff538d03366dc8ebf2?utm_campaign=1058&utm_source=git)** | Houston, Texas, United States | On Site | May 19 |
 | **[1st Security Bank of Washington](https://www.fsbwa.com/)** | **[Customer Service Representative Intern](https://jobright.ai/jobs/info/6a06113bf3d6cc51d638e67b?utm_campaign=1058&utm_source=git)** | Olympia, WA | On Site | May 19 |
-| **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/6a0c8e6e538d03366dc8e8d9?utm_campaign=1058&utm_source=git)** | Frankfort, IL | On Site | May 19 |
-| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a0c8e6e538d03366dc8e8db?utm_campaign=1058&utm_source=git)** | El Dorado Hills, CA | On Site | May 19 |
+| **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/6a0c8e6e538d03366dc8e8db?utm_campaign=1058&utm_source=git)** | El Dorado Hills, CA | On Site | May 19 |
+| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a0c8e6e538d03366dc8e8d9?utm_campaign=1058&utm_source=git)** | Frankfort, IL | On Site | May 19 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a0c8e5f538d03366dc8e8a6?utm_campaign=1058&utm_source=git)** | Tampa, FL | On Site | May 19 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a0c8e5d538d03366dc8e8a2?utm_campaign=1058&utm_source=git)** | St Augustine, FL | On Site | May 19 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a0c8e3b4d932036368796b0?utm_campaign=1058&utm_source=git)** | Grand Junction, CO | On Site | May 19 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a0c8e2f963f7a67d95d8e56?utm_campaign=1058&utm_source=git)** | Sarasota, FL | On Site | May 19 |
-| **[Hornblower Group](https://www.hornblowercorp.com/)** | **[Hospitality Internship-  City Cruises Chicago](https://jobright.ai/jobs/info/6a0c85fd0411d7417a1b973f?utm_campaign=1058&utm_source=git)** | 600 E Grand Ave, Chicago, IL 60611, USA | On Site | May 19 |
-| ↳ | **[Hospitality Internship-  City Cruises Chicago](https://jobright.ai/jobs/info/6a0c85fd0411d7417a1b973e?utm_campaign=1058&utm_source=git)** | Chicago, IL, USA | On Site | May 19 |
+| **[Hornblower Group](https://www.hornblowercorp.com/)** | **[Hospitality Internship-  City Cruises Chicago](https://jobright.ai/jobs/info/6a0c85fd0411d7417a1b973e?utm_campaign=1058&utm_source=git)** | Chicago, IL, USA | On Site | May 19 |
+| ↳ | **[Hospitality Internship-  City Cruises Chicago](https://jobright.ai/jobs/info/6a0c85fd0411d7417a1b973f?utm_campaign=1058&utm_source=git)** | 600 E Grand Ave, Chicago, IL 60611, USA | On Site | May 19 |
 | **[Economical Insurance](https://www.economical.com/)** | **[Insurance Representative - Fall 2026 Co-op/Intern](https://jobright.ai/jobs/info/6a0c85af22d0d34036c95273?utm_campaign=1058&utm_source=git)** | Waterloo, Ontario, Canada | Hybrid | May 19 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Operations Support, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69effc4ae624fe645d534905?utm_campaign=1058&utm_source=git)** | Jamaica, NY | On Site | May 19 |
 | **[BMW Group](http://www.bmwgroup.com)** | **[Customer Experience Intern (12 Months)](https://jobright.ai/jobs/info/69efd5240a6e09555305753b?utm_campaign=1058&utm_source=git)** | Richmond Hill, Ontario, Canada | On Site | May 19 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Four Seasons](http://www.fourseasons.com)** | **[Food & Beverage Intern](https://jobright.ai/jobs/info/6a0ba09b0411d7417a1b2f64?utm_campaign=1058&utm_source=git)** | Fort Lauderdale, FL | On Site | May 18 |
 | **[Cadence](https://www.cadence.com)** | **[IT Internship (Techstop Support)](https://jobright.ai/jobs/info/6a0b9fb3963f7a67d95d1caf?utm_campaign=1058&utm_source=git)** | SAN JOSE, US | On Site | May 18 |
 | **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Fall 2026 - College Internship - Park City, UT (Front Desk & Housekeeping)](https://jobright.ai/jobs/info/6a0b9d2d538d03366dc8761e?utm_campaign=1058&utm_source=git)** | Marriott's Summit Watch, US | On Site | May 18 |
-| ↳ | **[Fall 2026 - Front Desk College Intern - South Lake Tahoe, CA](https://jobright.ai/jobs/info/6a0b9d2c963f7a67d95d1c35?utm_campaign=1058&utm_source=git)** | Marriott's Timber Lodge, US | On Site | May 18 |
-| **[Market Performance Group](https://www.marketperformancegroup.com/)** | **[Junior IT Analyst - Intern](https://jobright.ai/jobs/info/6a0b99f60411d7417a1b2d5a?utm_campaign=1058&utm_source=git)** | United States | Remote | May 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
