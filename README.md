@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Joliet Junior College](http://www.jjc.edu/)** | **[Intern/Assistant, Technology Support and Media Services](https://jobright.ai/jobs/info/6a0db4e383d7144289811a5e?utm_campaign=1058&utm_source=git)** | Main Campus, Joliet, IL, US | On Site | May 20 |
+| **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/6a0dae6dc152ac782447ea1b?utm_campaign=1058&utm_source=git)** | 27951 BASELINE ST,HIGHLAND,CA,92346-03346-05300-S | On Site | May 20 |
+| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a0dae6cc152ac782447ea1a?utm_campaign=1058&utm_source=git)** | 42010 WASHINGTON ST,BERMUDA DUNES,CA,92203 | On Site | May 20 |
 | **[Jabil](https://www.jabil.com)** | **[Information Systems Summer Intern](https://jobright.ai/jobs/info/6a0d97a880bf0430c762466b?utm_campaign=1058&utm_source=git)** | Clinton, MA, US | On Site | May 20 |
 | **[Beech Acres Parenting Center](https://beechacres.org)** | **[Intern - Information Technology - $15.00 hourly](https://jobright.ai/jobs/info/6a0d978780bf0430c7624667?utm_campaign=1058&utm_source=git)** | Cincinnati, OH, US | On Site | May 20 |
 | ↳ | **[Intern - Information Technology - $15.00 hourly](https://jobright.ai/jobs/info/6a0d978780bf0430c7624668?utm_campaign=1058&utm_source=git)** | US-OH-Cincinnati | On Site | May 20 |
@@ -66,8 +69,8 @@ For a complete list, click the following sortable link below:
 | **[Xometry](https://www.xometry.com)** | **[Customer Support Intern](https://jobright.ai/jobs/info/6952e5fa935649778e20a49f?utm_campaign=1058&utm_source=git)** | Waltham, MA | On Site | May 20 |
 | ↳ | **[Customer Support Intern](https://jobright.ai/jobs/info/6952df915bb7de448ef5f0b8?utm_campaign=1058&utm_source=git)** | Lexington, KY | Hybrid | May 20 |
 | ↳ | **[Customer Support Intern](https://jobright.ai/jobs/info/6952e06ef1f8465b79ea28f5?utm_campaign=1058&utm_source=git)** | North Bethesda, MD | On Site | May 20 |
-| ↳ | **[Case Management Intern](https://jobright.ai/jobs/info/69e8c2b6e0cd471b2f137e71?utm_campaign=1058&utm_source=git)** | Lexington, KY | On Site | May 20 |
 | ↳ | **[Case Management Intern](https://jobright.ai/jobs/info/6940779349a7695fbd05f6a3?utm_campaign=1058&utm_source=git)** | Gaithersburg, MD | On Site | May 20 |
+| ↳ | **[Case Management Intern](https://jobright.ai/jobs/info/69e8c2b6e0cd471b2f137e71?utm_campaign=1058&utm_source=git)** | Lexington, KY | On Site | May 20 |
 | ↳ | **[Case Management Intern](https://jobright.ai/jobs/info/6943a5e5dd382f5f5669c041?utm_campaign=1058&utm_source=git)** | North Bethesda, MD | Hybrid | May 20 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a0d591f0411d7417a1c176f?utm_campaign=1058&utm_source=git)** | 2220 S INTERSTATE 35,ROUND ROCK,TX,78681 | On Site | May 19 |
 | **[Del Mar College - Corporate Services](https://www.delmar.edu/continuing-education/corporate-services/)** | **[FOREIGN LANGUAGES LAB ASSISTANT POOL](https://jobright.ai/jobs/info/6a0d7551d516b5204a376e83?utm_campaign=1058&utm_source=git)** | Corpus Christi, TX | On Site | May 19 |
@@ -102,9 +105,9 @@ For a complete list, click the following sortable link below:
 | **[Schulte Group](https://www.schultegroup.com/)** | **[Part Time - Guest Services Associate Intern](https://jobright.ai/jobs/info/6a0cd54ba235d749afa90fcd?utm_campaign=1058&utm_source=git)** | Plymouth, MI, 48170, United States | On Site | May 19 |
 | **[Resonetics](http://www.resonetics.com)** | **[IT Intern](https://jobright.ai/jobs/info/6a0cd44f538d03366dc91ad2?utm_campaign=1058&utm_source=git)** | Bethel, CT | On Site | May 19 |
 | **[Edconic](https://branded-edu.com)** | **[IT Support Intern](https://jobright.ai/jobs/info/6a0cd2a64d9320363687c81c?utm_campaign=1058&utm_source=git)** | New York, NY, US | On Site | May 19 |
-| **[Resonetics](http://www.resonetics.com)** | **[IT Intern](https://jobright.ai/jobs/info/6a0cd0f7a235d749afa90dcd?utm_campaign=1058&utm_source=git)** | US-NH-Nashua | On Site | May 19 |
+| **[Resonetics](http://www.resonetics.com)** | **[IT Intern](https://jobright.ai/jobs/info/6a0cd0f7a235d749afa90dce?utm_campaign=1058&utm_source=git)** | Bethel, CT, US | On Site | May 19 |
 | ↳ | **[IT Intern](https://jobright.ai/jobs/info/6a0cd0f7a235d749afa90dcb?utm_campaign=1058&utm_source=git)** | Nashua, NH, US | On Site | May 19 |
-| ↳ | **[IT Intern](https://jobright.ai/jobs/info/6a0cd0f7a235d749afa90dce?utm_campaign=1058&utm_source=git)** | Bethel, CT, US | On Site | May 19 |
+| ↳ | **[IT Intern](https://jobright.ai/jobs/info/6a0cd0f7a235d749afa90dcd?utm_campaign=1058&utm_source=git)** | US-NH-Nashua | On Site | May 19 |
 | ↳ | **[IT Intern](https://jobright.ai/jobs/info/6a0cd0f6a235d749afa90dca?utm_campaign=1058&utm_source=git)** | US-CT-Bethel | On Site | May 19 |
 | **[Lucid Software](https://lucid.co)** | **[Customer Operations Intern - Part-time Fall 2026](https://jobright.ai/jobs/info/6a0cd03a4d9320363687c67c?utm_campaign=1058&utm_source=git)** | Raleigh, NC | Hybrid | May 19 |
 | **[Sotheby's Institute of Art](http://www.sothebysinstitute.com)** | **[IT Support Intern](https://jobright.ai/jobs/info/6a0ccf79a235d749afa90c52?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | May 19 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Definity](https://www.definityfinancial.com/)** | **[Insurance Representative - Fall 2026 Co-op/Intern](https://jobright.ai/jobs/info/6a0c5a08538d03366dc8c3c8?utm_campaign=1058&utm_source=git)** | Waterloo, ONT, Canada | Hybrid | May 19 |
 | **[Tucson Electric Power](https://www.tep.com/)** | **[Student Intern, Customer Applications](https://jobright.ai/jobs/info/69eff3634b0fa35a7078d2d3?utm_campaign=1058&utm_source=git)** | Tucson, AZ | On Site | May 19 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/6a0c40984d93203636876b02?utm_campaign=1058&utm_source=git)** | 168 1ST ST W.,HUMBLE,TX,77338 | On Site | May 19 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a0c3fc9963f7a67d95d596d?utm_campaign=1058&utm_source=git)** | 1606 S PARK AVE,HERRIN,IL,62948-04169-12089-S | On Site | May 19 |
-| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a0c3ef8538d03366dc8b43f?utm_campaign=1058&utm_source=git)** | 901 S STATE RD,DAVISON,MI,48423-01721-10953-S | On Site | May 19 |
-| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a0c3ef6538d03366dc8b43e?utm_campaign=1058&utm_source=git)** | 4800 DIXIE HWY,WATERFORD,MI,48329 | On Site | May 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
