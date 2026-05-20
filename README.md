@@ -86,8 +86,8 @@ For a complete list, click the following sortable link below:
 | **[South Platte Renew](https://southplatterenewco.gov/)** | **[Intern - Information Technology](https://jobright.ai/jobs/info/6a0de3af83d7144289813938?utm_campaign=1058&utm_source=git)** | Englewood, Colorado, United States | On Site | May 20 |
 | **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/6a0de379c152ac7824480e44?utm_campaign=1058&utm_source=git)** | Pensacola, FL | On Site | May 20 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a0de379c152ac7824480e41?utm_campaign=1058&utm_source=git)** | Elgin, IL | On Site | May 20 |
-| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a0de35d83d714428981383f?utm_campaign=1058&utm_source=git)** | Elk Grove Village, IL | On Site | May 20 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a0de35d83d714428981383c?utm_campaign=1058&utm_source=git)** | Elgin, IL | On Site | May 20 |
+| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a0de35d83d714428981383f?utm_campaign=1058&utm_source=git)** | Elk Grove Village, IL | On Site | May 20 |
 | **[SchoolSpring](http://www.schoolspring.com)** | **[Summer 2026 IT Intern](https://jobright.ai/jobs/info/6a0de35809ecfd704b3e3bdd?utm_campaign=1058&utm_source=git)** | District Wide - Lincoln, Massachusetts | On Site | May 20 |
 | **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a0de34e47fea1610bca4d96?utm_campaign=1058&utm_source=git)** | Gainesville, FL | On Site | May 20 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a0de34e47fea1610bca4d97?utm_campaign=1058&utm_source=git)** | McKinney, TX | On Site | May 20 |
@@ -105,9 +105,11 @@ For a complete list, click the following sortable link below:
 | **[Midas Hospitality](http://www.midashospitality.com/)** | **[Summer Intern - Front Desk Agent - Courtyard: St. Peters, MO](https://jobright.ai/jobs/info/6a0dc55780bf0430c7625fa3?utm_campaign=1058&utm_source=git)** | St Peters,MO,US | On Site | May 20 |
 | **[SS&C Technologies](http://www.ssctech.com)** | **[Technical Writing & Research Analyst Intern](https://jobright.ai/jobs/info/69f0f4f9825a315d7ca35434?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | May 20 |
 | **[SailPoint](http://www.sailpoint.com)** | **[Financial Systems IT Intern](https://jobright.ai/jobs/info/6a0dc03d09ecfd704b3e2421?utm_campaign=1058&utm_source=git)** | United States, US | On Site | May 20 |
+| **[Capital Health (US)](http://www.capitalhealth.org)** | **[Patient Care Intern II - Central Resource Office - PER DIEM](https://jobright.ai/jobs/info/69f1418c8feca91f1491f5f1?utm_campaign=1058&utm_source=git)** | Pennington, NJ | On Site | May 20 |
 | **[Joliet Junior College](http://www.jjc.edu/)** | **[Intern/Assistant, Technology Support and Media Services](https://jobright.ai/jobs/info/6a0db4e383d7144289811a5e?utm_campaign=1058&utm_source=git)** | Main Campus, Joliet, IL, US | On Site | May 20 |
 | **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/6a0dae6dc152ac782447ea1b?utm_campaign=1058&utm_source=git)** | 27951 BASELINE ST,HIGHLAND,CA,92346-03346-05300-S | On Site | May 20 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a0dae6cc152ac782447ea1a?utm_campaign=1058&utm_source=git)** | 42010 WASHINGTON ST,BERMUDA DUNES,CA,92203 | On Site | May 20 |
+| **[Kinney Drugs](http://www.kinneydrugs.com)** | **[Pharmacy Intern P4](https://jobright.ai/jobs/info/69d581ce891d7b11cfd028af?utm_campaign=1058&utm_source=git)** | Baldwinsville, NY | On Site | May 20 |
 | **[Jabil](https://www.jabil.com)** | **[Information Systems Summer Intern](https://jobright.ai/jobs/info/6a0d97a880bf0430c762466b?utm_campaign=1058&utm_source=git)** | Clinton, MA, US | On Site | May 20 |
 | **[Beech Acres Parenting Center](https://beechacres.org)** | **[Intern - Information Technology - $15.00 hourly](https://jobright.ai/jobs/info/6a0d978780bf0430c7624667?utm_campaign=1058&utm_source=git)** | Cincinnati, OH, US | On Site | May 20 |
 | ↳ | **[Intern - Information Technology - $15.00 hourly](https://jobright.ai/jobs/info/6a0d978780bf0430c7624668?utm_campaign=1058&utm_source=git)** | US-OH-Cincinnati | On Site | May 20 |
@@ -145,8 +147,8 @@ For a complete list, click the following sortable link below:
 | **[Excelitas Technologies Corp.](http://www.excelitas.com)** | **[Technical Writer Intern](https://jobright.ai/jobs/info/6a0cecfba235d749afa9201b?utm_campaign=1058&utm_source=git)** | Boulder, CO | On Site | May 19 |
 | **[Blue Diamond Growers](https://bluediamondgrowers.com/)** | **[IT Intern](https://jobright.ai/jobs/info/6a0cece2a235d749afa91fd8?utm_campaign=1058&utm_source=git)** | Sacramento, CA | On Site | May 19 |
 | **[Blackburn, Childers & Steagall, PLC](https://www.bcscpa.com/)** | **[IT Intern](https://jobright.ai/jobs/info/6a0ce9590411d7417a1bdd9f?utm_campaign=1058&utm_source=git)** | Johnson City, TN | On Site | May 19 |
-| **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/6a0ce917a235d749afa91e40?utm_campaign=1058&utm_source=git)** | 112 BENNETT DR,CARIBOU,ME,04736-02022-18248-S | On Site | May 19 |
-| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a0ce917a235d749afa91e41?utm_campaign=1058&utm_source=git)** | 2 W BROADWAY,LINCOLN,ME,04457 | On Site | May 19 |
+| **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/6a0ce917a235d749afa91e41?utm_campaign=1058&utm_source=git)** | 2 W BROADWAY,LINCOLN,ME,04457 | On Site | May 19 |
+| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a0ce917a235d749afa91e40?utm_campaign=1058&utm_source=git)** | 112 BENNETT DR,CARIBOU,ME,04736-02022-18248-S | On Site | May 19 |
 | **[Brown Gibbons Lang & Company (BGL)](http://www.bglco.com/)** | **[Information Technology Intern (2026 Summer)](https://jobright.ai/jobs/info/6a0ce7004d9320363687d509?utm_campaign=1058&utm_source=git)** | Cleveland, OH | On Site | May 19 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Student Intern](https://jobright.ai/jobs/info/6a0ce48fa235d749afa919a9?utm_campaign=1058&utm_source=git)** | Elk Grove City Hall, CA | On Site | May 19 |
 | **[Hospital for Special Care](https://hfsc.org)** | **[Respiratory Intern](https://jobright.ai/jobs/info/6a0ce0eda235d749afa915e8?utm_campaign=1058&utm_source=git)** | New Britain, CT, US | On Site | May 19 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Schulte Group](https://www.schultegroup.com/)** | **[Part Time - Guest Services Associate Intern](https://jobright.ai/jobs/info/6a0cd54ba235d749afa90fcd?utm_campaign=1058&utm_source=git)** | Plymouth, MI, 48170, United States | On Site | May 19 |
 | **[Resonetics](http://www.resonetics.com)** | **[IT Intern](https://jobright.ai/jobs/info/6a0cd44f538d03366dc91ad2?utm_campaign=1058&utm_source=git)** | Bethel, CT | On Site | May 19 |
 | **[Edconic](https://branded-edu.com)** | **[IT Support Intern](https://jobright.ai/jobs/info/6a0cd2a64d9320363687c81c?utm_campaign=1058&utm_source=git)** | New York, NY, US | On Site | May 19 |
-| **[Resonetics](http://www.resonetics.com)** | **[IT Intern](https://jobright.ai/jobs/info/6a0cd0f7a235d749afa90dcd?utm_campaign=1058&utm_source=git)** | US-NH-Nashua | On Site | May 19 |
-| ↳ | **[IT Intern](https://jobright.ai/jobs/info/6a0cd0f7a235d749afa90dce?utm_campaign=1058&utm_source=git)** | Bethel, CT, US | On Site | May 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
