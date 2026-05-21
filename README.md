@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pine Street Inn](https://www.pinestreetinn.org)** | **[IT Support Intern](https://jobright.ai/jobs/info/6a0e71fd12f8b43cf3977908?utm_campaign=1058&utm_source=git)** | Boston, MA | On Site | May 20 |
+| **[DAR PRO Solutions](https://www.darpro-solutions.com/)** | **[Intern, IT Deployment Specialist](https://jobright.ai/jobs/info/6a0e6e8c80bf0430c762cbd4?utm_campaign=1058&utm_source=git)** | Irving,TX,US | On Site | May 20 |
+| **[Fenwick & West](http://fenwick.com)** | **[Business Center Intern](https://jobright.ai/jobs/info/6a0e67e947fea1610bca9f4f?utm_campaign=1058&utm_source=git)** | Washington, D.C., US | Hybrid | May 20 |
 | **[Relais & Châteaux](https://www.relaischateaux.com)** | **[Intern - Twin Farms](https://jobright.ai/jobs/info/6a0e5fe7beb4d73cb6231dff?utm_campaign=1058&utm_source=git)** | Barnard, VT | On Site | May 20 |
 | **[Coweta Public Schools](https://www.cowetaps.org)** | **[IT Summer Intern 26-27 (1 Position)](https://jobright.ai/jobs/info/6a0e567409ecfd704b3e84ec?utm_campaign=1058&utm_source=git)** | Coweta, OK | On Site | May 20 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a0e558009ecfd704b3e8441?utm_campaign=1058&utm_source=git)** | 2021 NOTTINGHAM WAY,HAMILTON,NJ,08619 | On Site | May 20 |
@@ -102,8 +105,8 @@ For a complete list, click the following sortable link below:
 | **[Tabs](https://www.tabs.com/)** | **[Technology Services Intern](https://jobright.ai/jobs/info/6a0de3bebeb4d73cb622caf7?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | May 20 |
 | **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/6a0de3babeb4d73cb622cae1?utm_campaign=1058&utm_source=git)** | Elk Grove Village, IL | On Site | May 20 |
 | **[South Platte Renew](https://southplatterenewco.gov/)** | **[Intern - Information Technology](https://jobright.ai/jobs/info/6a0de3af83d7144289813938?utm_campaign=1058&utm_source=git)** | Englewood, Colorado, United States | On Site | May 20 |
-| **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/6a0de379c152ac7824480e41?utm_campaign=1058&utm_source=git)** | Elgin, IL | On Site | May 20 |
-| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a0de379c152ac7824480e44?utm_campaign=1058&utm_source=git)** | Pensacola, FL | On Site | May 20 |
+| **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/6a0de379c152ac7824480e44?utm_campaign=1058&utm_source=git)** | Pensacola, FL | On Site | May 20 |
+| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a0de379c152ac7824480e41?utm_campaign=1058&utm_source=git)** | Elgin, IL | On Site | May 20 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a0de35d83d714428981383c?utm_campaign=1058&utm_source=git)** | Elgin, IL | On Site | May 20 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a0de35d83d714428981383f?utm_campaign=1058&utm_source=git)** | Elk Grove Village, IL | On Site | May 20 |
 | **[SchoolSpring](http://www.schoolspring.com)** | **[Summer 2026 IT Intern](https://jobright.ai/jobs/info/6a0de35809ecfd704b3e3bdd?utm_campaign=1058&utm_source=git)** | District Wide - Lincoln, Massachusetts | On Site | May 20 |
@@ -152,9 +155,6 @@ For a complete list, click the following sortable link below:
 | **[NETSYNC](https://www.netsync.com/)** | **[Computer Technician Intern (paid internship)](https://jobright.ai/jobs/info/6a0d1cf84d9320363687f05c?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | May 19 |
 | **[Bluu, Inc.](https://www.ebluu.com/)** | **[Summer IT Support Intern - Korean Bilingual](https://jobright.ai/jobs/info/6a0d16104d9320363687eb9b?utm_campaign=1058&utm_source=git)** | Hackensack, NJ | On Site | May 19 |
 | **[Loma Linda University Health](https://lluh.org/)** | **[Intern-EHR Business](https://jobright.ai/jobs/info/6a0d10b74d9320363687ead4?utm_campaign=1058&utm_source=git)** | Loma Linda, CA | On Site | May 19 |
+| **[LASIK MD](https://www.lasikmd.com/)** | **[Ophthalmic Technician Internship - Summer 2026](https://jobright.ai/jobs/info/6986fc038ca8121a3a698151?utm_campaign=1058&utm_source=git)** | Montreal, Quebec, Canada | On Site | May 19 |
 | **[Superior](http://superiorgroup.net)** | **[Information Technology (Infrastructure and Service Desk Team) Internship - Summer 2026](https://jobright.ai/jobs/info/6a0d3a6f538d03366dc94fa2?utm_campaign=1058&utm_source=git)** | Columbus, OH | On Site | May 19 |
-| **[Loma Linda University Health](https://lluh.org/)** | **[Intern-EHR Business](https://jobright.ai/jobs/info/6a0d0882963f7a67d95de15a?utm_campaign=1058&utm_source=git)** | 197 E Caroline St, San Bernardino, CA, 92408, US | On Site | May 19 |
-| **[Hilton Rosemont/Chicago O'Hare](https://www.hilton.com/en/hotels/ordhrhh-hilton-rosemont-chicago-ohare/)** | **[Seasonal Front Desk Intern (May – August)](https://jobright.ai/jobs/info/6a0e593bbeb4d73cb6231bdc?utm_campaign=1058&utm_source=git)** | Des Plaines, IL | On Site | May 19 |
-| **[CrewBoss™](https://crewbossppe.com/)** | **[IT Help Desk Intern](https://jobright.ai/jobs/info/6a0d04daa235d749afa92d7d?utm_campaign=1058&utm_source=git)** | CRESCENT SSE - Eugene, OR 97401 | On Site | May 19 |
-| **[The Hotel at Auburn University & Dixon Conference Center](https://www.auhcc.com/careers)** | **[Rooms - International Rooms Intern](https://jobright.ai/jobs/info/6a0d02d8a235d749afa92bf2?utm_campaign=1058&utm_source=git)** | Auburn, AL | On Site | May 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
