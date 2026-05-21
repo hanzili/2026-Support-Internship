@@ -57,13 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nokia](http://www.nokia.com)** | **[Software Support Co-op/Intern](https://jobright.ai/jobs/info/69f2ec37ecbc8c2f7320f235?utm_campaign=1058&utm_source=git)** | Kanata, Ontario, Canada | On Site | May 21 |
+| **[Willkie Farr & Gallagher LLP](http://www.willkie.com)** | **[Practice Support Intern (year-round) - New York](https://jobright.ai/jobs/info/6a0f006e83d714428981c3e1?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | May 21 |
 | **[M3 USA](https://www.m3.com/)** | **[Physician Relations Intern (Remote)](https://jobright.ai/jobs/info/69f2459ff154d768fbaa6318?utm_campaign=1058&utm_source=git)** | Creve Coeur, MO | Remote | May 21 |
 | **[Le Collectionist](http://www.lecollectionist.com)** | **[Onsite Concierge Assistant (H/F/X) - Internship - Paros (Greece)](https://jobright.ai/jobs/info/6a0eee3272b52f7225f3a0b2?utm_campaign=1058&utm_source=git)** | Greece, NY | On Site | May 21 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/6a0eeb5583d714428981bf4f?utm_campaign=1058&utm_source=git)** | Hatfield, Pennsylvania, United States | On Site | May 21 |
 | **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/6a0ee2f112f8b43cf397a1ee?utm_campaign=1058&utm_source=git)** | 24900 SCHOENHERR RD,WARREN,MI,48089 | On Site | May 21 |
 | **[Sprinklr](http://www.sprinklr.com)** | **[Professional Services Intern](https://jobright.ai/jobs/info/699e3ceae0bddb6acacd99b6?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | May 21 |
-| **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/6a0eac1612f8b43cf3979026?utm_campaign=1058&utm_source=git)** | 1900 CAMERON ST,RALEIGH,NC,27605-01307-17919-S | On Site | May 20 |
-| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a0eac1612f8b43cf3979028?utm_campaign=1058&utm_source=git)** | 111 ADVENT CT,STE 100,CARY,NC,27518 | On Site | May 20 |
+| **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/6a0eac1612f8b43cf3979028?utm_campaign=1058&utm_source=git)** | 111 ADVENT CT,STE 100,CARY,NC,27518 | On Site | May 20 |
+| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a0eac1612f8b43cf3979026?utm_campaign=1058&utm_source=git)** | 1900 CAMERON ST,RALEIGH,NC,27605-01307-17919-S | On Site | May 20 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a0eaade9f654b3359ce0514?utm_campaign=1058&utm_source=git)** | 617 HIGHLAND ST,MOUNT HOLLY,NC,28120 | On Site | May 20 |
 | **[Oracle](https://www.oracle.com/)** | **[DRC Customer Success Intern - OVIP](https://jobright.ai/jobs/info/6a0e9d9880bf0430c762ddcd?utm_campaign=1058&utm_source=git)** | Colorado Springs, CO | Hybrid | May 20 |
 | ↳ | **[M&D Customer Solutions Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a0e9a5f12f8b43cf3978961?utm_campaign=1058&utm_source=git)** | United States | Remote | May 20 |
@@ -121,10 +123,10 @@ For a complete list, click the following sortable link below:
 | **[Tabs](https://www.tabs.com/)** | **[Technology Services Intern](https://jobright.ai/jobs/info/6a0de3bebeb4d73cb622caf7?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | May 20 |
 | **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/6a0de3babeb4d73cb622cae1?utm_campaign=1058&utm_source=git)** | Elk Grove Village, IL | On Site | May 20 |
 | **[South Platte Renew](https://southplatterenewco.gov/)** | **[Intern - Information Technology](https://jobright.ai/jobs/info/6a0de3af83d7144289813938?utm_campaign=1058&utm_source=git)** | Englewood, Colorado, United States | On Site | May 20 |
-| **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/6a0de379c152ac7824480e41?utm_campaign=1058&utm_source=git)** | Elgin, IL | On Site | May 20 |
-| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a0de379c152ac7824480e44?utm_campaign=1058&utm_source=git)** | Pensacola, FL | On Site | May 20 |
-| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a0de35d83d714428981383c?utm_campaign=1058&utm_source=git)** | Elgin, IL | On Site | May 20 |
+| **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/6a0de379c152ac7824480e44?utm_campaign=1058&utm_source=git)** | Pensacola, FL | On Site | May 20 |
+| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a0de379c152ac7824480e41?utm_campaign=1058&utm_source=git)** | Elgin, IL | On Site | May 20 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a0de35d83d714428981383f?utm_campaign=1058&utm_source=git)** | Elk Grove Village, IL | On Site | May 20 |
+| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a0de35d83d714428981383c?utm_campaign=1058&utm_source=git)** | Elgin, IL | On Site | May 20 |
 | **[SchoolSpring](http://www.schoolspring.com)** | **[Summer 2026 IT Intern](https://jobright.ai/jobs/info/6a0de35809ecfd704b3e3bdd?utm_campaign=1058&utm_source=git)** | District Wide - Lincoln, Massachusetts | On Site | May 20 |
 | **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a0de34e47fea1610bca4d96?utm_campaign=1058&utm_source=git)** | Gainesville, FL | On Site | May 20 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a0de34e47fea1610bca4d97?utm_campaign=1058&utm_source=git)** | McKinney, TX | On Site | May 20 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Case Management Intern](https://jobright.ai/jobs/info/69407a6150bbaf7650527a7a?utm_campaign=1058&utm_source=git)** | North Bethesda, MD | On Site | May 20 |
 | ↳ | **[Customer Support Intern](https://jobright.ai/jobs/info/6952e5fa935649778e20a49f?utm_campaign=1058&utm_source=git)** | Waltham, MA | On Site | May 20 |
 | ↳ | **[Customer Support Intern](https://jobright.ai/jobs/info/6952df915bb7de448ef5f0b8?utm_campaign=1058&utm_source=git)** | Lexington, KY | Hybrid | May 20 |
-| ↳ | **[Customer Support Intern](https://jobright.ai/jobs/info/6952e06ef1f8465b79ea28f5?utm_campaign=1058&utm_source=git)** | North Bethesda, MD | On Site | May 20 |
-| ↳ | **[Case Management Intern](https://jobright.ai/jobs/info/6940779349a7695fbd05f6a3?utm_campaign=1058&utm_source=git)** | Gaithersburg, MD | On Site | May 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
