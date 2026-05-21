@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Relais & Châteaux](https://www.relaischateaux.com)** | **[Intern - Twin Farms](https://jobright.ai/jobs/info/6a0e5fe7beb4d73cb6231dff?utm_campaign=1058&utm_source=git)** | Barnard, VT | On Site | May 20 |
+| **[Coweta Public Schools](https://www.cowetaps.org)** | **[IT Summer Intern 26-27 (1 Position)](https://jobright.ai/jobs/info/6a0e567409ecfd704b3e84ec?utm_campaign=1058&utm_source=git)** | Coweta, OK | On Site | May 20 |
+| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a0e558009ecfd704b3e8441?utm_campaign=1058&utm_source=git)** | 2021 NOTTINGHAM WAY,HAMILTON,NJ,08619 | On Site | May 20 |
+| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a0e557cc152ac7824485f23?utm_campaign=1058&utm_source=git)** | 12700 W 32ND AVE,WHEAT RIDGE,CO,80033-05251-06883-S | On Site | May 20 |
 | **[Mimecast](http://www.mimecast.com)** | **[IT Intern](https://jobright.ai/jobs/info/6a0e54a380bf0430c762c071?utm_campaign=1058&utm_source=git)** | Massachusetts, United States | Hybrid | May 20 |
 | **[Oracle](https://www.oracle.com/)** | **[DRC Customer Success Intern - OVIP](https://jobright.ai/jobs/info/6a0e492183d7144289817a40?utm_campaign=1058&utm_source=git)** | United States | Remote | May 20 |
 | **[Accel Entertainment](http://accelentertainment.com)** | **[IT Intern](https://jobright.ai/jobs/info/6a04b9baf811a0436960de67?utm_campaign=1058&utm_source=git)** | Burr Ridge, IL | On Site | May 20 |
@@ -70,7 +74,7 @@ For a complete list, click the following sortable link below:
 | **[RMW ACCOUNTING](https://www.rmwaccounting.com)** | **[Intern](https://jobright.ai/jobs/info/6a0e3a3280bf0430c762af6a?utm_campaign=1058&utm_source=git)** | Miami, Florida, United States | Hybrid | May 20 |
 | **[Mississippi Votes](msvotes.org)** | **[2026 Summer Internship Application](https://jobright.ai/jobs/info/6a0e3978c152ac7824484be5?utm_campaign=1058&utm_source=git)** | Jackson, Mississippi, United States | On Site | May 20 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/6a0e3968beb4d73cb6230677?utm_campaign=1058&utm_source=git)** | 2301 HOLMES ST,KANSAS CITY,MO,64108-02640-10845-S | On Site | May 20 |
-| **[DAR PRO Solutions](https://www.darpro-solutions.com/)** | **[Intern, IT Deployment Specialist](https://jobright.ai/jobs/info/6a0e35e780bf0430c762ac65?utm_campaign=1058&utm_source=git)** | Irving,TX,US | On Site | May 20 |
+| **[Hope Network](http://hopenetwork.org/)** | **[IT Technical Support Assistant Intern](https://jobright.ai/jobs/info/6a0e5ac180bf0430c762c420?utm_campaign=1058&utm_source=git)** | Flint, MI | On Site | May 20 |
 | **[Tepper Sports & Entertainment](https://teppersportsentertainment.com)** | **[Intern - Technology](https://jobright.ai/jobs/info/6a0e251c09ecfd704b3e6732?utm_campaign=1058&utm_source=git)** | 800 S Mint St, Charlotte, NC 28202, USA | On Site | May 20 |
 | ↳ | **[Intern - Ticket Operations & Services - Panthers](https://jobright.ai/jobs/info/6a0e250e47fea1610bca7942?utm_campaign=1058&utm_source=git)** | 800 S Mint St, Charlotte, NC 28202, USA | On Site | May 20 |
 | **[Oldcastle Infrastructure](https://www.oldcastleprecast.com)** | **[IT Service Desk Intern](https://jobright.ai/jobs/info/6a0e246409ecfd704b3e6608?utm_campaign=1058&utm_source=git)** | Atlanta, GA | On Site | May 20 |
@@ -103,8 +107,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a0de35d83d714428981383c?utm_campaign=1058&utm_source=git)** | Elgin, IL | On Site | May 20 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a0de35d83d714428981383f?utm_campaign=1058&utm_source=git)** | Elk Grove Village, IL | On Site | May 20 |
 | **[SchoolSpring](http://www.schoolspring.com)** | **[Summer 2026 IT Intern](https://jobright.ai/jobs/info/6a0de35809ecfd704b3e3bdd?utm_campaign=1058&utm_source=git)** | District Wide - Lincoln, Massachusetts | On Site | May 20 |
-| **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a0de34e47fea1610bca4d96?utm_campaign=1058&utm_source=git)** | Gainesville, FL | On Site | May 20 |
-| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a0de34e47fea1610bca4d97?utm_campaign=1058&utm_source=git)** | McKinney, TX | On Site | May 20 |
+| **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a0de34e47fea1610bca4d97?utm_campaign=1058&utm_source=git)** | McKinney, TX | On Site | May 20 |
+| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a0de34e47fea1610bca4d96?utm_campaign=1058&utm_source=git)** | Gainesville, FL | On Site | May 20 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a0de33747fea1610bca4d5f?utm_campaign=1058&utm_source=git)** | Davison, MI | On Site | May 20 |
 | **[Yardi](https://www.yardi.com)** | **[Intern, Associate Technical Account Manager](https://jobright.ai/jobs/info/69d5567a706f771673ba24b0?utm_campaign=1058&utm_source=git)** | Raleigh, NC | Hybrid | May 20 |
 | **[Tabs](https://www.tabs.com/)** | **[Technology Services Intern](https://jobright.ai/jobs/info/6a0ddf1080bf0430c7626ba6?utm_campaign=1058&utm_source=git)** | New York City, NY | On Site | May 20 |
@@ -141,6 +145,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Case Management Intern](https://jobright.ai/jobs/info/6943a5e5dd382f5f5669c041?utm_campaign=1058&utm_source=git)** | North Bethesda, MD | Hybrid | May 20 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a0d591f0411d7417a1c176f?utm_campaign=1058&utm_source=git)** | 2220 S INTERSTATE 35,ROUND ROCK,TX,78681 | On Site | May 19 |
 | **[Del Mar College - Corporate Services](https://www.delmar.edu/continuing-education/corporate-services/)** | **[FOREIGN LANGUAGES LAB ASSISTANT POOL](https://jobright.ai/jobs/info/6a0d7551d516b5204a376e83?utm_campaign=1058&utm_source=git)** | Corpus Christi, TX | On Site | May 19 |
+| **[Dieterich Bank](https://www.dieterichbank.com)** | **[Customer Care Representative Summer Intern](https://jobright.ai/jobs/info/6a0e577583d7144289818629?utm_campaign=1058&utm_source=git)** | Effingham, IL | On Site | May 19 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a0d2bf322d0d34036c9c33f?utm_campaign=1058&utm_source=git)** | Salem, OR | On Site | May 19 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a0d21de4d9320363687f45e?utm_campaign=1058&utm_source=git)** | 635 S DIXIE BLVD, RADCLIFF, KY | On Site | May 19 |
 | **[Western Protective Solutions](https://www.westernprotectivesolutions.com)** | **[IT Help Desk Intern](https://jobright.ai/jobs/info/6a0d206922d0d34036c9bd85?utm_campaign=1058&utm_source=git)** | Eugene, OR 97401 | On Site | May 19 |
@@ -149,12 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Loma Linda University Health](https://lluh.org/)** | **[Intern-EHR Business](https://jobright.ai/jobs/info/6a0d10b74d9320363687ead4?utm_campaign=1058&utm_source=git)** | Loma Linda, CA | On Site | May 19 |
 | **[Superior](http://superiorgroup.net)** | **[Information Technology (Infrastructure and Service Desk Team) Internship - Summer 2026](https://jobright.ai/jobs/info/6a0d3a6f538d03366dc94fa2?utm_campaign=1058&utm_source=git)** | Columbus, OH | On Site | May 19 |
 | **[Loma Linda University Health](https://lluh.org/)** | **[Intern-EHR Business](https://jobright.ai/jobs/info/6a0d0882963f7a67d95de15a?utm_campaign=1058&utm_source=git)** | 197 E Caroline St, San Bernardino, CA, 92408, US | On Site | May 19 |
+| **[Hilton Rosemont/Chicago O'Hare](https://www.hilton.com/en/hotels/ordhrhh-hilton-rosemont-chicago-ohare/)** | **[Seasonal Front Desk Intern (May – August)](https://jobright.ai/jobs/info/6a0e593bbeb4d73cb6231bdc?utm_campaign=1058&utm_source=git)** | Des Plaines, IL | On Site | May 19 |
 | **[CrewBoss™](https://crewbossppe.com/)** | **[IT Help Desk Intern](https://jobright.ai/jobs/info/6a0d04daa235d749afa92d7d?utm_campaign=1058&utm_source=git)** | CRESCENT SSE - Eugene, OR 97401 | On Site | May 19 |
 | **[The Hotel at Auburn University & Dixon Conference Center](https://www.auhcc.com/careers)** | **[Rooms - International Rooms Intern](https://jobright.ai/jobs/info/6a0d02d8a235d749afa92bf2?utm_campaign=1058&utm_source=git)** | Auburn, AL | On Site | May 19 |
-| **[Ciena](http://www.ciena.com)** | **[Resourcing and Enablement Intern](https://jobright.ai/jobs/info/6a0d2c32538d03366dc94b1f?utm_campaign=1058&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | May 19 |
-| **[CRH](http://crh.com)** | **[IT Service Desk Intern](https://jobright.ai/jobs/info/6a0d0062a235d749afa92a63?utm_campaign=1058&utm_source=git)** | Atlanta, GA | On Site | May 19 |
-| **[Butcher Power Products](https://www.bppmfg.com)** | **[IT, Accounting & Operations Intern](https://jobright.ai/jobs/info/6a0cfbb80411d7417a1be564?utm_campaign=1058&utm_source=git)** | Rancho Cordova | On Site | May 19 |
-| **[CRH](http://crh.com)** | **[IT Service Desk Intern](https://jobright.ai/jobs/info/6a0d1d5d963f7a67d95dea78?utm_campaign=1058&utm_source=git)** | Atlanta, GA | On Site | May 19 |
-| **[Bluu, Inc.](https://www.ebluu.com/)** | **[Summer IT Support Intern - Korean Bilingual](https://jobright.ai/jobs/info/6a0cef844d9320363687da95?utm_campaign=1058&utm_source=git)** | Hackensack, NJ, US | On Site | May 19 |
-| **[Bosch](http://www.bosch.com)** | **[Customer Experience Intern - Bilingual (French & English)](https://jobright.ai/jobs/info/6a0ceec14d9320363687da7d?utm_campaign=1058&utm_source=git)** | 490 Prince Charles Dr S, Welland, ON L3B 5X7, Canada | On Site | May 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
