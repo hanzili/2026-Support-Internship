@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Midas Hospitality](http://www.midashospitality.com/)** | **[Summer Intern - Front Desk Agent - Courtyard: St. Peters, MO](https://jobright.ai/jobs/info/6a0e8aab80bf0430c762d895?utm_campaign=1058&utm_source=git)** | St Peters,MO,US | On Site | May 20 |
+| **[Armada](https://www.armada.ai)** | **[IT Support Intern (Unpaid)](https://jobright.ai/jobs/info/69fba9d4ffa73664aeb01940?utm_campaign=1058&utm_source=git)** | Bellevue Office, Sunset Corporate Campus | On Site | May 20 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a0e73dd80bf0430c762ced3?utm_campaign=1058&utm_source=git)** | 5230 POPLAR TENT RD,CONCORD,NC,28027-07757-07767-S | On Site | May 20 |
 | **[Pine Street Inn](https://www.pinestreetinn.org)** | **[IT Support Intern](https://jobright.ai/jobs/info/6a0e71fd12f8b43cf3977908?utm_campaign=1058&utm_source=git)** | Boston, MA | On Site | May 20 |
 | **[DAR PRO Solutions](https://www.darpro-solutions.com/)** | **[Intern, IT Deployment Specialist](https://jobright.ai/jobs/info/6a0e6e8c80bf0430c762cbd4?utm_campaign=1058&utm_source=git)** | Irving,TX,US | On Site | May 20 |
@@ -108,11 +110,11 @@ For a complete list, click the following sortable link below:
 | **[South Platte Renew](https://southplatterenewco.gov/)** | **[Intern - Information Technology](https://jobright.ai/jobs/info/6a0de3af83d7144289813938?utm_campaign=1058&utm_source=git)** | Englewood, Colorado, United States | On Site | May 20 |
 | **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/6a0de379c152ac7824480e41?utm_campaign=1058&utm_source=git)** | Elgin, IL | On Site | May 20 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a0de379c152ac7824480e44?utm_campaign=1058&utm_source=git)** | Pensacola, FL | On Site | May 20 |
-| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a0de35d83d714428981383c?utm_campaign=1058&utm_source=git)** | Elgin, IL | On Site | May 20 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a0de35d83d714428981383f?utm_campaign=1058&utm_source=git)** | Elk Grove Village, IL | On Site | May 20 |
+| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a0de35d83d714428981383c?utm_campaign=1058&utm_source=git)** | Elgin, IL | On Site | May 20 |
 | **[SchoolSpring](http://www.schoolspring.com)** | **[Summer 2026 IT Intern](https://jobright.ai/jobs/info/6a0de35809ecfd704b3e3bdd?utm_campaign=1058&utm_source=git)** | District Wide - Lincoln, Massachusetts | On Site | May 20 |
-| **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a0de34e47fea1610bca4d96?utm_campaign=1058&utm_source=git)** | Gainesville, FL | On Site | May 20 |
-| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a0de34e47fea1610bca4d97?utm_campaign=1058&utm_source=git)** | McKinney, TX | On Site | May 20 |
+| **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a0de34e47fea1610bca4d97?utm_campaign=1058&utm_source=git)** | McKinney, TX | On Site | May 20 |
+| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a0de34e47fea1610bca4d96?utm_campaign=1058&utm_source=git)** | Gainesville, FL | On Site | May 20 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a0de33747fea1610bca4d5f?utm_campaign=1058&utm_source=git)** | Davison, MI | On Site | May 20 |
 | **[Yardi](https://www.yardi.com)** | **[Intern, Associate Technical Account Manager](https://jobright.ai/jobs/info/69d5567a706f771673ba24b0?utm_campaign=1058&utm_source=git)** | Raleigh, NC | Hybrid | May 20 |
 | **[Tabs](https://www.tabs.com/)** | **[Technology Services Intern](https://jobright.ai/jobs/info/6a0ddf1080bf0430c7626ba6?utm_campaign=1058&utm_source=git)** | New York City, NY | On Site | May 20 |
@@ -120,7 +122,6 @@ For a complete list, click the following sortable link below:
 | **[SailPoint](http://www.sailpoint.com)** | **[Financial Systems IT Intern](https://jobright.ai/jobs/info/6a0dce4c09ecfd704b3e2e7b?utm_campaign=1058&utm_source=git)** | United States | Remote | May 20 |
 | **[Atkins & Pearce, Inc.](http://www.atkinsandpearce.com/)** | **[INTERN](https://jobright.ai/jobs/info/6a0dce2209ecfd704b3e2e3f?utm_campaign=1058&utm_source=git)** | Covington, KY | On Site | May 20 |
 | **[Pine Street Inn](https://www.pinestreetinn.org)** | **[IT Support Intern](https://jobright.ai/jobs/info/6a0dcd7b47fea1610bca3ef7?utm_campaign=1058&utm_source=git)** | Boston,MA,US | On Site | May 20 |
-| **[Jabil](https://www.jabil.com)** | **[Information Systems Summer Intern](https://jobright.ai/jobs/info/6a0dcb4ac152ac782447fed0?utm_campaign=1058&utm_source=git)** | Clinton, MA | On Site | May 20 |
 | **[Hope Network](http://hopenetwork.org/)** | **[IT Technical Support Assistant Intern](https://jobright.ai/jobs/info/6a0dcac409ecfd704b3e2c3b?utm_campaign=1058&utm_source=git)** | Flint, Michigan, United States | On Site | May 20 |
 | **[Texas Department of Transportation](https://www.txdot.gov)** | **[Intern Support Technician](https://jobright.ai/jobs/info/6a0dca7580bf0430c762625f?utm_campaign=1058&utm_source=git)** | Greenville-Washington, North Carolina Area | On Site | May 20 |
 | **[Capital Health (US)](http://www.capitalhealth.org)** | **[Patient Care Intern I - Central Resource Office - PER DIEM](https://jobright.ai/jobs/info/69f12cfc825a315d7ca3627b?utm_campaign=1058&utm_source=git)** | Pennington, NJ | On Site | May 20 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Loma Linda University Health](https://lluh.org/)** | **[Intern-EHR Business](https://jobright.ai/jobs/info/6a0d10b74d9320363687ead4?utm_campaign=1058&utm_source=git)** | Loma Linda, CA | On Site | May 19 |
 | **[LASIK MD](https://www.lasikmd.com/)** | **[Ophthalmic Technician Internship - Summer 2026](https://jobright.ai/jobs/info/6986fc038ca8121a3a698151?utm_campaign=1058&utm_source=git)** | Montreal, Quebec, Canada | On Site | May 19 |
 | **[Superior](http://superiorgroup.net)** | **[Information Technology (Infrastructure and Service Desk Team) Internship - Summer 2026](https://jobright.ai/jobs/info/6a0d3a6f538d03366dc94fa2?utm_campaign=1058&utm_source=git)** | Columbus, OH | On Site | May 19 |
-| **[Loma Linda University Health](https://lluh.org/)** | **[Intern-EHR Business](https://jobright.ai/jobs/info/6a0d0882963f7a67d95de15a?utm_campaign=1058&utm_source=git)** | 197 E Caroline St, San Bernardino, CA, 92408, US | On Site | May 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
