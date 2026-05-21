@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mimecast](http://www.mimecast.com)** | **[IT Intern](https://jobright.ai/jobs/info/6a0e54a380bf0430c762c071?utm_campaign=1058&utm_source=git)** | Massachusetts, United States | Hybrid | May 20 |
+| **[Oracle](https://www.oracle.com/)** | **[DRC Customer Success Intern - OVIP](https://jobright.ai/jobs/info/6a0e492183d7144289817a40?utm_campaign=1058&utm_source=git)** | United States | Remote | May 20 |
+| **[Accel Entertainment](http://accelentertainment.com)** | **[IT Intern](https://jobright.ai/jobs/info/6a04b9baf811a0436960de67?utm_campaign=1058&utm_source=git)** | Burr Ridge, IL | On Site | May 20 |
 | **[Sabert Corporation](https://sabert.com/)** | **[IT Help Desk Intern](https://jobright.ai/jobs/info/6a0e43d783d7144289817970?utm_campaign=1058&utm_source=git)** | Sayreville, NJ | Hybrid | May 20 |
 | **[D2L](http://www.d2l.com)** | **[Product Support Analyst - Fall 2026 Co-op](https://jobright.ai/jobs/info/6a0e43c580bf0430c762b52c?utm_campaign=1058&utm_source=git)** | Kitchener, Ontario, Canada | On Site | May 20 |
 | **[Oracle](https://www.oracle.com/)** | **[DRC Customer Success Intern - OVIP](https://jobright.ai/jobs/info/6a0e436783d7144289817905?utm_campaign=1058&utm_source=git)** | Colorado Springs, CO | Hybrid | May 20 |
@@ -100,8 +103,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a0de35d83d714428981383c?utm_campaign=1058&utm_source=git)** | Elgin, IL | On Site | May 20 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a0de35d83d714428981383f?utm_campaign=1058&utm_source=git)** | Elk Grove Village, IL | On Site | May 20 |
 | **[SchoolSpring](http://www.schoolspring.com)** | **[Summer 2026 IT Intern](https://jobright.ai/jobs/info/6a0de35809ecfd704b3e3bdd?utm_campaign=1058&utm_source=git)** | District Wide - Lincoln, Massachusetts | On Site | May 20 |
-| **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a0de34e47fea1610bca4d97?utm_campaign=1058&utm_source=git)** | McKinney, TX | On Site | May 20 |
-| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a0de34e47fea1610bca4d96?utm_campaign=1058&utm_source=git)** | Gainesville, FL | On Site | May 20 |
+| **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a0de34e47fea1610bca4d96?utm_campaign=1058&utm_source=git)** | Gainesville, FL | On Site | May 20 |
+| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a0de34e47fea1610bca4d97?utm_campaign=1058&utm_source=git)** | McKinney, TX | On Site | May 20 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a0de33747fea1610bca4d5f?utm_campaign=1058&utm_source=git)** | Davison, MI | On Site | May 20 |
 | **[Yardi](https://www.yardi.com)** | **[Intern, Associate Technical Account Manager](https://jobright.ai/jobs/info/69d5567a706f771673ba24b0?utm_campaign=1058&utm_source=git)** | Raleigh, NC | Hybrid | May 20 |
 | **[Tabs](https://www.tabs.com/)** | **[Technology Services Intern](https://jobright.ai/jobs/info/6a0ddf1080bf0430c7626ba6?utm_campaign=1058&utm_source=git)** | New York City, NY | On Site | May 20 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CRH](http://crh.com)** | **[IT Service Desk Intern](https://jobright.ai/jobs/info/6a0d1d5d963f7a67d95dea78?utm_campaign=1058&utm_source=git)** | Atlanta, GA | On Site | May 19 |
 | **[Bluu, Inc.](https://www.ebluu.com/)** | **[Summer IT Support Intern - Korean Bilingual](https://jobright.ai/jobs/info/6a0cef844d9320363687da95?utm_campaign=1058&utm_source=git)** | Hackensack, NJ, US | On Site | May 19 |
 | **[Bosch](http://www.bosch.com)** | **[Customer Experience Intern - Bilingual (French & English)](https://jobright.ai/jobs/info/6a0ceec14d9320363687da7d?utm_campaign=1058&utm_source=git)** | 490 Prince Charles Dr S, Welland, ON L3B 5X7, Canada | On Site | May 19 |
-| **[Twin City Fan & Blower](https://www.tcf.com/)** | **[IT Technical Writer Intern](https://jobright.ai/jobs/info/6a0ced0e0411d7417a1bdf1e?utm_campaign=1058&utm_source=git)** | Plymouth, MN | On Site | May 19 |
-| **[Excelitas Technologies Corp.](http://www.excelitas.com)** | **[Technical Writer Intern](https://jobright.ai/jobs/info/6a0cecfba235d749afa9201b?utm_campaign=1058&utm_source=git)** | Boulder, CO | On Site | May 19 |
-| **[Blackburn, Childers & Steagall, PLC](https://www.bcscpa.com/)** | **[IT Intern](https://jobright.ai/jobs/info/6a0ce9590411d7417a1bdd9f?utm_campaign=1058&utm_source=git)** | Johnson City, TN | On Site | May 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
