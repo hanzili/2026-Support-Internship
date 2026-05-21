@@ -57,7 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Nokia](http://www.nokia.com)** | **[Software Support Co-op/Intern](https://jobright.ai/jobs/info/69f2ec37ecbc8c2f7320f235?utm_campaign=1058&utm_source=git)** | Kanata, Ontario, Canada | On Site | May 21 |
+| **[Tronox](http://www.tronox.com/)** | **[Information Technology (IT) Intern](https://jobright.ai/jobs/info/6a0f1bb083d714428981ce61?utm_campaign=1058&utm_source=git)** | USA - Hamilton, MS | On Site | May 21 |
+| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a0f1ba572b52f7225f3af79?utm_campaign=1058&utm_source=git)** | 3605 BRAINERD RD,CHATTANOOGA,TN,37411 | On Site | May 21 |
+| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/6a0f19ed80bf0430c7630dcb?utm_campaign=1058&utm_source=git)** | 129 SOMERSET ST,SOMERVILLE,NJ,08876-02814-07347-S | On Site | May 21 |
+| **[Germain Hôtels](https://www.germainhotels.com/)** | **[Intern, Guest Service](https://jobright.ai/jobs/info/6a0f1817619335383fb2919a?utm_campaign=1058&utm_source=git)** | Baie-Saint-Paul, Quebec, Canada | On Site | May 21 |
+| **[DSI Tech](http://dsitech.com/)** | **[Summer Intern - Field Technician (Baltimore)](https://jobright.ai/jobs/info/6a0f164b619335383fb2911e?utm_campaign=1058&utm_source=git)** | Ashburn, VA | On Site | May 21 |
+| **[BMO](http://www.bmo.com)** | **[IT Support - Database,  Fall 2026 (Co-op/Internship) -4 Months](https://jobright.ai/jobs/info/6a0f15e180bf0430c7630c39?utm_campaign=1058&utm_source=git)** | Toronto, ON, CAN, CA | On Site | May 21 |
+| **[NRI North America](http://www.nri-na.com)** | **[Internship IT Department](https://jobright.ai/jobs/info/699d1835ce78e77b4fe1ea5f?utm_campaign=1058&utm_source=git)** | Cooperstown, NY | On Site | May 21 |
+| **[Indie Campers](https://indiecampers.com/)** | **[Tourism & Operations Intern](https://jobright.ai/jobs/info/6a0f12bf83d714428981ca87?utm_campaign=1058&utm_source=git)** | San Francisco Depot | On Site | May 21 |
 | **[Willkie Farr & Gallagher LLP](http://www.willkie.com)** | **[Practice Support Intern (year-round) - New York](https://jobright.ai/jobs/info/6a0f006e83d714428981c3e1?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | May 21 |
 | **[M3 USA](https://www.m3.com/)** | **[Physician Relations Intern (Remote)](https://jobright.ai/jobs/info/69f2459ff154d768fbaa6318?utm_campaign=1058&utm_source=git)** | Creve Coeur, MO | Remote | May 21 |
 | **[Le Collectionist](http://www.lecollectionist.com)** | **[Onsite Concierge Assistant (H/F/X) - Internship - Paros (Greece)](https://jobright.ai/jobs/info/6a0eee3272b52f7225f3a0b2?utm_campaign=1058&utm_source=git)** | Greece, NY | On Site | May 21 |
@@ -123,10 +130,10 @@ For a complete list, click the following sortable link below:
 | **[Tabs](https://www.tabs.com/)** | **[Technology Services Intern](https://jobright.ai/jobs/info/6a0de3bebeb4d73cb622caf7?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | May 20 |
 | **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/6a0de3babeb4d73cb622cae1?utm_campaign=1058&utm_source=git)** | Elk Grove Village, IL | On Site | May 20 |
 | **[South Platte Renew](https://southplatterenewco.gov/)** | **[Intern - Information Technology](https://jobright.ai/jobs/info/6a0de3af83d7144289813938?utm_campaign=1058&utm_source=git)** | Englewood, Colorado, United States | On Site | May 20 |
-| **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/6a0de379c152ac7824480e44?utm_campaign=1058&utm_source=git)** | Pensacola, FL | On Site | May 20 |
-| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a0de379c152ac7824480e41?utm_campaign=1058&utm_source=git)** | Elgin, IL | On Site | May 20 |
-| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a0de35d83d714428981383f?utm_campaign=1058&utm_source=git)** | Elk Grove Village, IL | On Site | May 20 |
+| **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/6a0de379c152ac7824480e41?utm_campaign=1058&utm_source=git)** | Elgin, IL | On Site | May 20 |
+| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a0de379c152ac7824480e44?utm_campaign=1058&utm_source=git)** | Pensacola, FL | On Site | May 20 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a0de35d83d714428981383c?utm_campaign=1058&utm_source=git)** | Elgin, IL | On Site | May 20 |
+| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a0de35d83d714428981383f?utm_campaign=1058&utm_source=git)** | Elk Grove Village, IL | On Site | May 20 |
 | **[SchoolSpring](http://www.schoolspring.com)** | **[Summer 2026 IT Intern](https://jobright.ai/jobs/info/6a0de35809ecfd704b3e3bdd?utm_campaign=1058&utm_source=git)** | District Wide - Lincoln, Massachusetts | On Site | May 20 |
 | **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a0de34e47fea1610bca4d96?utm_campaign=1058&utm_source=git)** | Gainesville, FL | On Site | May 20 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a0de34e47fea1610bca4d97?utm_campaign=1058&utm_source=git)** | McKinney, TX | On Site | May 20 |
@@ -148,13 +155,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a0dae6cc152ac782447ea1a?utm_campaign=1058&utm_source=git)** | 42010 WASHINGTON ST,BERMUDA DUNES,CA,92203 | On Site | May 20 |
 | **[Kinney Drugs](http://www.kinneydrugs.com)** | **[Pharmacy Intern P4](https://jobright.ai/jobs/info/69d581ce891d7b11cfd028af?utm_campaign=1058&utm_source=git)** | Baldwinsville, NY | On Site | May 20 |
 | **[Jabil](https://www.jabil.com)** | **[Information Systems Summer Intern](https://jobright.ai/jobs/info/6a0d97a880bf0430c762466b?utm_campaign=1058&utm_source=git)** | Clinton, MA, US | On Site | May 20 |
-| **[Beech Acres Parenting Center](https://beechacres.org)** | **[Intern - Information Technology - $15.00 hourly](https://jobright.ai/jobs/info/6a0d978780bf0430c7624667?utm_campaign=1058&utm_source=git)** | Cincinnati, OH, US | On Site | May 20 |
-| ↳ | **[Intern - Information Technology - $15.00 hourly](https://jobright.ai/jobs/info/6a0d978780bf0430c7624668?utm_campaign=1058&utm_source=git)** | US-OH-Cincinnati | On Site | May 20 |
-| **[First Horizon Bank](https://www.firsthorizon.com/pmc)** | **[Intern - Digital Banking Support](https://jobright.ai/jobs/info/698e2cc90f6f7e7a2cea3bdf?utm_campaign=1058&utm_source=git)** | Knoxville, TN | On Site | May 20 |
-| **[Emory Healthcare](http://www.emoryhealthcare.org/)** | **[Clinical Dietitian II / Intern Prg](https://jobright.ai/jobs/info/69f103a88feca91f1491df30?utm_campaign=1058&utm_source=git)** | Atlanta, GA | On Site | May 20 |
-| **[Kaplan](http://www.kaplan.com)** | **[Desktop Operations, Intern](https://jobright.ai/jobs/info/69bb8a1d56973837414193be?utm_campaign=1058&utm_source=git)** | Fort Lauderdale, FL | On Site | May 20 |
-| **[Xometry](https://www.xometry.com)** | **[Case Management Intern](https://jobright.ai/jobs/info/6945afbd951654073537ca12?utm_campaign=1058&utm_source=git)** | Waltham, MA | On Site | May 20 |
-| ↳ | **[Case Management Intern](https://jobright.ai/jobs/info/69407a6150bbaf7650527a7a?utm_campaign=1058&utm_source=git)** | North Bethesda, MD | On Site | May 20 |
-| ↳ | **[Customer Support Intern](https://jobright.ai/jobs/info/6952e5fa935649778e20a49f?utm_campaign=1058&utm_source=git)** | Waltham, MA | On Site | May 20 |
-| ↳ | **[Customer Support Intern](https://jobright.ai/jobs/info/6952df915bb7de448ef5f0b8?utm_campaign=1058&utm_source=git)** | Lexington, KY | Hybrid | May 20 |
+| **[Beech Acres Parenting Center](https://beechacres.org)** | **[Intern - Information Technology - $15.00 hourly](https://jobright.ai/jobs/info/6a0d978780bf0430c7624668?utm_campaign=1058&utm_source=git)** | US-OH-Cincinnati | On Site | May 20 |
+| ↳ | **[Intern - Information Technology - $15.00 hourly](https://jobright.ai/jobs/info/6a0d978780bf0430c7624667?utm_campaign=1058&utm_source=git)** | Cincinnati, OH, US | On Site | May 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
