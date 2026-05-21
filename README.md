@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Oracle](https://www.oracle.com/)** | **[M&D Customer Solutions Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a0e9a5f12f8b43cf3978961?utm_campaign=1058&utm_source=git)** | United States | Remote | May 20 |
-| ↳ | **[DRC Customer Success Intern - OVIP](https://jobright.ai/jobs/info/6a0e9a4283d714428981a275?utm_campaign=1058&utm_source=git)** | Colorado Springs, CO | Hybrid | May 20 |
+| **[Oracle](https://www.oracle.com/)** | **[DRC Customer Success Intern - OVIP](https://jobright.ai/jobs/info/6a0e9d9880bf0430c762ddcd?utm_campaign=1058&utm_source=git)** | Colorado Springs, CO | Hybrid | May 20 |
+| ↳ | **[M&D Customer Solutions Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a0e9a5f12f8b43cf3978961?utm_campaign=1058&utm_source=git)** | United States | Remote | May 20 |
 | **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/6a0e8ff380bf0430c762da80?utm_campaign=1058&utm_source=git)** | 3801 MACCORKLE AVE SE,CHARLESTON,WV,25304 | On Site | May 20 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a0e8fef80bf0430c762da7d?utm_campaign=1058&utm_source=git)** | 6414 US ROUTE 60 E,BARBOURSVILLE,WV,25504-01240-11977-S | On Site | May 20 |
 | **[Jabil](https://www.jabil.com)** | **[Information Systems Summer Intern](https://jobright.ai/jobs/info/6a0e8d7d83d7144289819ea5?utm_campaign=1058&utm_source=git)** | Clinton, MA | Hybrid | May 20 |
@@ -113,13 +113,13 @@ For a complete list, click the following sortable link below:
 | **[Tabs](https://www.tabs.com/)** | **[Technology Services Intern](https://jobright.ai/jobs/info/6a0de3bebeb4d73cb622caf7?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | May 20 |
 | **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/6a0de3babeb4d73cb622cae1?utm_campaign=1058&utm_source=git)** | Elk Grove Village, IL | On Site | May 20 |
 | **[South Platte Renew](https://southplatterenewco.gov/)** | **[Intern - Information Technology](https://jobright.ai/jobs/info/6a0de3af83d7144289813938?utm_campaign=1058&utm_source=git)** | Englewood, Colorado, United States | On Site | May 20 |
-| **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/6a0de379c152ac7824480e41?utm_campaign=1058&utm_source=git)** | Elgin, IL | On Site | May 20 |
-| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a0de379c152ac7824480e44?utm_campaign=1058&utm_source=git)** | Pensacola, FL | On Site | May 20 |
+| **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/6a0de379c152ac7824480e44?utm_campaign=1058&utm_source=git)** | Pensacola, FL | On Site | May 20 |
+| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a0de379c152ac7824480e41?utm_campaign=1058&utm_source=git)** | Elgin, IL | On Site | May 20 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a0de35d83d714428981383f?utm_campaign=1058&utm_source=git)** | Elk Grove Village, IL | On Site | May 20 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a0de35d83d714428981383c?utm_campaign=1058&utm_source=git)** | Elgin, IL | On Site | May 20 |
 | **[SchoolSpring](http://www.schoolspring.com)** | **[Summer 2026 IT Intern](https://jobright.ai/jobs/info/6a0de35809ecfd704b3e3bdd?utm_campaign=1058&utm_source=git)** | District Wide - Lincoln, Massachusetts | On Site | May 20 |
-| **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a0de34e47fea1610bca4d97?utm_campaign=1058&utm_source=git)** | McKinney, TX | On Site | May 20 |
-| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a0de34e47fea1610bca4d96?utm_campaign=1058&utm_source=git)** | Gainesville, FL | On Site | May 20 |
+| **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a0de34e47fea1610bca4d96?utm_campaign=1058&utm_source=git)** | Gainesville, FL | On Site | May 20 |
+| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a0de34e47fea1610bca4d97?utm_campaign=1058&utm_source=git)** | McKinney, TX | On Site | May 20 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a0de33747fea1610bca4d5f?utm_campaign=1058&utm_source=git)** | Davison, MI | On Site | May 20 |
 | **[Yardi](https://www.yardi.com)** | **[Intern, Associate Technical Account Manager](https://jobright.ai/jobs/info/69d5567a706f771673ba24b0?utm_campaign=1058&utm_source=git)** | Raleigh, NC | Hybrid | May 20 |
 | **[Tabs](https://www.tabs.com/)** | **[Technology Services Intern](https://jobright.ai/jobs/info/6a0ddf1080bf0430c7626ba6?utm_campaign=1058&utm_source=git)** | New York City, NY | On Site | May 20 |
