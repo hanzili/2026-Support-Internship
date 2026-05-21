@@ -98,7 +98,6 @@ For a complete list, click the following sortable link below:
 | **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/6a0e1f0480bf0430c7629bce?utm_campaign=1058&utm_source=git)** | 8052 WESTMINSTER BLVD,WESTMINSTER,CA,92683 | On Site | May 20 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a0e1d9c47fea1610bca733b?utm_campaign=1058&utm_source=git)** | 26288 KUYKENDAHL RD,TOMBALL,TX,77375-02657-15638-S | On Site | May 20 |
 | **[Revvity](https://www.revvity.com/)** | **[Clerical Intern](https://jobright.ai/jobs/info/6a0e155883d71442898155ec?utm_campaign=1058&utm_source=git)** | Boston, US | On Site | May 20 |
-| **[Midas Hospitality](http://www.midashospitality.com/)** | **[Summer Intern - Front Desk Agent - Courtyard: St. Peters, MO](https://jobright.ai/jobs/info/6a0e0dd980bf0430c7628e6d?utm_campaign=1058&utm_source=git)** | St Peters, MO | On Site | May 20 |
 | **[Tao Group Hospitality](http://taogroup.com)** | **[Intern, IT - Las Vegas](https://jobright.ai/jobs/info/6a0e09a947fea1610bca653d?utm_campaign=1058&utm_source=git)** | 5655 Badura Ave Ste 100, Las Vegas, NV, 89118, US | On Site | May 20 |
 | **[Herc Rentals](http://www.HercRentals.com)** | **[ProSales Intern (Gainesville, VA)](https://jobright.ai/jobs/info/6a03039ff3d6cc51d63725b9?utm_campaign=1058&utm_source=git)** | Gainesville, VA | On Site | May 20 |
 | **[Mimecast](http://www.mimecast.com)** | **[IT Intern](https://jobright.ai/jobs/info/6a0e080280bf0430c762896e?utm_campaign=1058&utm_source=git)** | United States of America - Massachusetts - Lexington, US | Hybrid | May 20 |
@@ -118,8 +117,8 @@ For a complete list, click the following sortable link below:
 | **[South Platte Renew](https://southplatterenewco.gov/)** | **[Intern - Information Technology](https://jobright.ai/jobs/info/6a0de3af83d7144289813938?utm_campaign=1058&utm_source=git)** | Englewood, Colorado, United States | On Site | May 20 |
 | **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/6a0de379c152ac7824480e44?utm_campaign=1058&utm_source=git)** | Pensacola, FL | On Site | May 20 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a0de379c152ac7824480e41?utm_campaign=1058&utm_source=git)** | Elgin, IL | On Site | May 20 |
-| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a0de35d83d714428981383f?utm_campaign=1058&utm_source=git)** | Elk Grove Village, IL | On Site | May 20 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a0de35d83d714428981383c?utm_campaign=1058&utm_source=git)** | Elgin, IL | On Site | May 20 |
+| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a0de35d83d714428981383f?utm_campaign=1058&utm_source=git)** | Elk Grove Village, IL | On Site | May 20 |
 | **[SchoolSpring](http://www.schoolspring.com)** | **[Summer 2026 IT Intern](https://jobright.ai/jobs/info/6a0de35809ecfd704b3e3bdd?utm_campaign=1058&utm_source=git)** | District Wide - Lincoln, Massachusetts | On Site | May 20 |
 | **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a0de34e47fea1610bca4d96?utm_campaign=1058&utm_source=git)** | Gainesville, FL | On Site | May 20 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a0de34e47fea1610bca4d97?utm_campaign=1058&utm_source=git)** | McKinney, TX | On Site | May 20 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a0d591f0411d7417a1c176f?utm_campaign=1058&utm_source=git)** | 2220 S INTERSTATE 35,ROUND ROCK,TX,78681 | On Site | May 19 |
 | **[Del Mar College - Corporate Services](https://www.delmar.edu/continuing-education/corporate-services/)** | **[FOREIGN LANGUAGES LAB ASSISTANT POOL](https://jobright.ai/jobs/info/6a0d7551d516b5204a376e83?utm_campaign=1058&utm_source=git)** | Corpus Christi, TX | On Site | May 19 |
 | **[Dieterich Bank](https://www.dieterichbank.com)** | **[Customer Care Representative Summer Intern](https://jobright.ai/jobs/info/6a0e577583d7144289818629?utm_campaign=1058&utm_source=git)** | Effingham, IL | On Site | May 19 |
+| **[Kroger](https://www.thekrogerco.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a0d2bf322d0d34036c9c33f?utm_campaign=1058&utm_source=git)** | Salem, OR | On Site | May 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
