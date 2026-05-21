@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Oracle](https://www.oracle.com/)** | **[M&D Customer Solutions Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a0e9a5f12f8b43cf3978961?utm_campaign=1058&utm_source=git)** | United States | Remote | May 20 |
+| ↳ | **[DRC Customer Success Intern - OVIP](https://jobright.ai/jobs/info/6a0e9a4283d714428981a275?utm_campaign=1058&utm_source=git)** | Colorado Springs, CO | Hybrid | May 20 |
+| **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/6a0e8ff380bf0430c762da80?utm_campaign=1058&utm_source=git)** | 3801 MACCORKLE AVE SE,CHARLESTON,WV,25304 | On Site | May 20 |
+| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a0e8fef80bf0430c762da7d?utm_campaign=1058&utm_source=git)** | 6414 US ROUTE 60 E,BARBOURSVILLE,WV,25504-01240-11977-S | On Site | May 20 |
+| **[Jabil](https://www.jabil.com)** | **[Information Systems Summer Intern](https://jobright.ai/jobs/info/6a0e8d7d83d7144289819ea5?utm_campaign=1058&utm_source=git)** | Clinton, MA | Hybrid | May 20 |
 | **[Midas Hospitality](http://www.midashospitality.com/)** | **[Summer Intern - Front Desk Agent - Courtyard: St. Peters, MO](https://jobright.ai/jobs/info/6a0e8aab80bf0430c762d895?utm_campaign=1058&utm_source=git)** | St Peters,MO,US | On Site | May 20 |
 | **[Armada](https://www.armada.ai)** | **[IT Support Intern (Unpaid)](https://jobright.ai/jobs/info/69fba9d4ffa73664aeb01940?utm_campaign=1058&utm_source=git)** | Bellevue Office, Sunset Corporate Campus | On Site | May 20 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a0e73dd80bf0430c762ced3?utm_campaign=1058&utm_source=git)** | 5230 POPLAR TENT RD,CONCORD,NC,28027-07757-07767-S | On Site | May 20 |
@@ -133,8 +138,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a0dae6cc152ac782447ea1a?utm_campaign=1058&utm_source=git)** | 42010 WASHINGTON ST,BERMUDA DUNES,CA,92203 | On Site | May 20 |
 | **[Kinney Drugs](http://www.kinneydrugs.com)** | **[Pharmacy Intern P4](https://jobright.ai/jobs/info/69d581ce891d7b11cfd028af?utm_campaign=1058&utm_source=git)** | Baldwinsville, NY | On Site | May 20 |
 | **[Jabil](https://www.jabil.com)** | **[Information Systems Summer Intern](https://jobright.ai/jobs/info/6a0d97a880bf0430c762466b?utm_campaign=1058&utm_source=git)** | Clinton, MA, US | On Site | May 20 |
-| **[Beech Acres Parenting Center](https://beechacres.org)** | **[Intern - Information Technology - $15.00 hourly](https://jobright.ai/jobs/info/6a0d978780bf0430c7624668?utm_campaign=1058&utm_source=git)** | US-OH-Cincinnati | On Site | May 20 |
-| ↳ | **[Intern - Information Technology - $15.00 hourly](https://jobright.ai/jobs/info/6a0d978780bf0430c7624667?utm_campaign=1058&utm_source=git)** | Cincinnati, OH, US | On Site | May 20 |
+| **[Beech Acres Parenting Center](https://beechacres.org)** | **[Intern - Information Technology - $15.00 hourly](https://jobright.ai/jobs/info/6a0d978780bf0430c7624667?utm_campaign=1058&utm_source=git)** | Cincinnati, OH, US | On Site | May 20 |
+| ↳ | **[Intern - Information Technology - $15.00 hourly](https://jobright.ai/jobs/info/6a0d978780bf0430c7624668?utm_campaign=1058&utm_source=git)** | US-OH-Cincinnati | On Site | May 20 |
 | **[First Horizon Bank](https://www.firsthorizon.com/pmc)** | **[Intern - Digital Banking Support](https://jobright.ai/jobs/info/698e2cc90f6f7e7a2cea3bdf?utm_campaign=1058&utm_source=git)** | Knoxville, TN | On Site | May 20 |
 | **[Emory Healthcare](http://www.emoryhealthcare.org/)** | **[Clinical Dietitian II / Intern Prg](https://jobright.ai/jobs/info/69f103a88feca91f1491df30?utm_campaign=1058&utm_source=git)** | Atlanta, GA | On Site | May 20 |
 | **[Kaplan](http://www.kaplan.com)** | **[Desktop Operations, Intern](https://jobright.ai/jobs/info/69bb8a1d56973837414193be?utm_campaign=1058&utm_source=git)** | Fort Lauderdale, FL | On Site | May 20 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kroger](https://www.thekrogerco.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a0d2bf322d0d34036c9c33f?utm_campaign=1058&utm_source=git)** | Salem, OR | On Site | May 19 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a0d21de4d9320363687f45e?utm_campaign=1058&utm_source=git)** | 635 S DIXIE BLVD, RADCLIFF, KY | On Site | May 19 |
 | **[Western Protective Solutions](https://www.westernprotectivesolutions.com)** | **[IT Help Desk Intern](https://jobright.ai/jobs/info/6a0d206922d0d34036c9bd85?utm_campaign=1058&utm_source=git)** | Eugene, OR 97401 | On Site | May 19 |
-| **[NETSYNC](https://www.netsync.com/)** | **[Computer Technician Intern (paid internship)](https://jobright.ai/jobs/info/6a0d1cf84d9320363687f05c?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | May 19 |
-| **[Bluu, Inc.](https://www.ebluu.com/)** | **[Summer IT Support Intern - Korean Bilingual](https://jobright.ai/jobs/info/6a0d16104d9320363687eb9b?utm_campaign=1058&utm_source=git)** | Hackensack, NJ | On Site | May 19 |
-| **[Loma Linda University Health](https://lluh.org/)** | **[Intern-EHR Business](https://jobright.ai/jobs/info/6a0d10b74d9320363687ead4?utm_campaign=1058&utm_source=git)** | Loma Linda, CA | On Site | May 19 |
-| **[LASIK MD](https://www.lasikmd.com/)** | **[Ophthalmic Technician Internship - Summer 2026](https://jobright.ai/jobs/info/6986fc038ca8121a3a698151?utm_campaign=1058&utm_source=git)** | Montreal, Quebec, Canada | On Site | May 19 |
-| **[Superior](http://superiorgroup.net)** | **[Information Technology (Infrastructure and Service Desk Team) Internship - Summer 2026](https://jobright.ai/jobs/info/6a0d3a6f538d03366dc94fa2?utm_campaign=1058&utm_source=git)** | Columbus, OH | On Site | May 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
