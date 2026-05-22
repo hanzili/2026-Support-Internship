@@ -57,6 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Johns Hopkins Applied Physics Laboratory](http://jhuapl.edu/)** | **[2026 Internship - Technical Support](https://jobright.ai/jobs/info/6a0fade980bf0430c7635c1d?utm_campaign=1058&utm_source=git)** | Laurel, MD | Hybrid | May 21 |
+| **[Revvity](https://www.revvity.com/)** | **[Clerical Intern](https://jobright.ai/jobs/info/6a0fadac83d71442898221e1?utm_campaign=1058&utm_source=git)** | Boston, MA | On Site | May 21 |
+| **[kW Engineering](https://www.kw-engineering.com/)** | **[IT Intern](https://jobright.ai/jobs/info/6a0fad5383d714428982216e?utm_campaign=1058&utm_source=git)** | Oakland, CA | On Site | May 21 |
+| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a0fa88c72b52f7225f3f929?utm_campaign=1058&utm_source=git)** | 1200 GREENBRIER PKWY,CHESAPEAKE,VA,23320 | On Site | May 21 |
+| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a0868533b54ed42d74d7717?utm_campaign=1058&utm_source=git)** | 1606 S PARK AVE,HERRIN,IL,62948-04169-12089-S | On Site | May 21 |
+| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a0fa88212f8b43cf3980d42?utm_campaign=1058&utm_source=git)** | 897 CHESTNUT RIDGE RD,MORGANTOWN,WV,26505 | On Site | May 21 |
+| **[Mobile Loaves & Fishes](http://mlf.org/)** | **[Supportive Services Intern](https://jobright.ai/jobs/info/6a0fa55512f8b43cf3980c13?utm_campaign=1058&utm_source=git)** | 9301 Hog Eye Road, Austin, TX, USA | On Site | May 21 |
+| **[Troon](https://troon.com)** | **[Intern](https://jobright.ai/jobs/info/6a0fa53380bf0430c7635832?utm_campaign=1058&utm_source=git)** | Koloa, Hawaii, United States | On Site | May 21 |
+| **[kW Engineering](https://www.kw-engineering.com/)** | **[IT Intern](https://jobright.ai/jobs/info/6a0fa36b83d7144289821e3c?utm_campaign=1058&utm_source=git)** | Oakland, CA | On Site | May 21 |
+| **[Washington State Department of Ecology](https://ecology.wa.gov)** | **[Document Accessibility Coordinator (Administrative Intern 2)](https://jobright.ai/jobs/info/6a0fa1ff72b52f7225f3f6de?utm_campaign=1058&utm_source=git)** | Lacey, WA | Hybrid | May 21 |
 | **[State of Colorado](https://dpo.colorado.gov/Medical)** | **[TEMPORARY Chronic Wasting Disease (CWD) / Customer Service Intern– Northeast Regional Office](https://jobright.ai/jobs/info/6a0f987a9f654b3359ce7239?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | May 21 |
 | **[QGenda](https://www.qgenda.com)** | **[Customer Experience Intern - QS AI Quality](https://jobright.ai/jobs/info/6a0f984712f8b43cf39807bd?utm_campaign=1058&utm_source=git)** | Atlanta, GA | Hybrid | May 21 |
 | **[Pittston Co-Packers](https://pittstoncopackers.com)** | **[Summer Intern - Parts Clerk](https://jobright.ai/jobs/info/6a0f93da619335383fb2dff2?utm_campaign=1058&utm_source=git)** | Pittston, PA | On Site | May 21 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Fenwick & West](http://fenwick.com)** | **[Business Center Intern](https://jobright.ai/jobs/info/6a0e67e947fea1610bca9f4f?utm_campaign=1058&utm_source=git)** | Washington, D.C., US | Hybrid | May 20 |
 | **[Relais & Châteaux](https://www.relaischateaux.com)** | **[Intern - Twin Farms](https://jobright.ai/jobs/info/6a0e5fe7beb4d73cb6231dff?utm_campaign=1058&utm_source=git)** | Barnard, VT | On Site | May 20 |
 | **[DSI Tech](http://dsitech.com/)** | **[Summer Intern - Field Technician (Baltimore)](https://jobright.ai/jobs/info/6a0f6dba72b52f7225f3dde1?utm_campaign=1058&utm_source=git)** | Ashburn, VA | On Site | May 20 |
-| **[Coweta Public Schools](https://www.cowetaps.org)** | **[IT Summer Intern 26-27 (1 Position)](https://jobright.ai/jobs/info/6a0e567409ecfd704b3e84ec?utm_campaign=1058&utm_source=git)** | Coweta, OK | On Site | May 20 |
-| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a0e558009ecfd704b3e8441?utm_campaign=1058&utm_source=git)** | 2021 NOTTINGHAM WAY,HAMILTON,NJ,08619 | On Site | May 20 |
-| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a0e557cc152ac7824485f23?utm_campaign=1058&utm_source=git)** | 12700 W 32ND AVE,WHEAT RIDGE,CO,80033-05251-06883-S | On Site | May 20 |
-| **[Mimecast](http://www.mimecast.com)** | **[IT Intern](https://jobright.ai/jobs/info/6a0e54a380bf0430c762c071?utm_campaign=1058&utm_source=git)** | Massachusetts, United States | Hybrid | May 20 |
-| **[Oracle](https://www.oracle.com/)** | **[DRC Customer Success Intern - OVIP](https://jobright.ai/jobs/info/6a0e492183d7144289817a40?utm_campaign=1058&utm_source=git)** | United States | Remote | May 20 |
-| **[Accel Entertainment](http://accelentertainment.com)** | **[IT Intern](https://jobright.ai/jobs/info/6a04b9baf811a0436960de67?utm_campaign=1058&utm_source=git)** | Burr Ridge, IL | On Site | May 20 |
-| **[Sabert Corporation](https://sabert.com/)** | **[IT Help Desk Intern](https://jobright.ai/jobs/info/6a0e43d783d7144289817970?utm_campaign=1058&utm_source=git)** | Sayreville, NJ | Hybrid | May 20 |
-| **[D2L](http://www.d2l.com)** | **[Product Support Analyst - Fall 2026 Co-op](https://jobright.ai/jobs/info/6a0e43c580bf0430c762b52c?utm_campaign=1058&utm_source=git)** | Kitchener, Ontario, Canada | On Site | May 20 |
-| **[Oracle](https://www.oracle.com/)** | **[DRC Customer Success Intern - OVIP](https://jobright.ai/jobs/info/6a0e436783d7144289817905?utm_campaign=1058&utm_source=git)** | Colorado Springs, CO | Hybrid | May 20 |
-| ↳ | **[DRC Customer Success Intern - OVIP](https://jobright.ai/jobs/info/6a0e435909ecfd704b3e78ba?utm_campaign=1058&utm_source=git)** | Colorado Springs, CO, United States | Hybrid | May 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
