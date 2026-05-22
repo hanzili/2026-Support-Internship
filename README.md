@@ -59,6 +59,12 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a0fc47483d7144289822b3a?utm_campaign=1058&utm_source=git)** | 4521 OLEANDER DR,WILMINGTON,NC,28403 | On Site | May 21 |
 | **[McKee Foods Corporation](http://www.mckeefoods.com/)** | **[IT Asset Intern – Summer 2026](https://jobright.ai/jobs/info/6a0fc1b272b52f7225f403a0?utm_campaign=1058&utm_source=git)** | Collegedale, TN | On Site | May 21 |
+| **[Kinaxis](http://www.kinaxis.com/)** | **[Intern Customer Experience](https://jobright.ai/jobs/info/6a0fd59080bf0430c76369bf?utm_campaign=1058&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 21 |
+| ↳ | **[Intern Customer Experience](https://jobright.ai/jobs/info/6a0fd59480bf0430c76369cb?utm_campaign=1058&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | May 21 |
+| ↳ | **[Intern Customer Experience](https://jobright.ai/jobs/info/6a0fd59180bf0430c76369c3?utm_campaign=1058&utm_source=git)** | Halifax, Nova Scotia, Canada | Hybrid | May 21 |
+| ↳ | **[Intern Customer Experience](https://jobright.ai/jobs/info/6a0fd59080bf0430c76369c0?utm_campaign=1058&utm_source=git)** | Québec, Quebec, Canada | Hybrid | May 21 |
+| ↳ | **[Intern Customer Experience](https://jobright.ai/jobs/info/6a0fd5a39f654b3359ce88f6?utm_campaign=1058&utm_source=git)** | Calgary, Alberta, Canada | Hybrid | May 21 |
+| ↳ | **[Intern Customer Experience](https://jobright.ai/jobs/info/6a0fd5a39f654b3359ce88f5?utm_campaign=1058&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | May 21 |
 | **[Fleet Response](http://fleetresponse.com)** | **[Fleet Response 2026 Summer Internship](https://jobright.ai/jobs/info/6a0fafdd619335383fb2ea46?utm_campaign=1058&utm_source=git)** | Hudson, OH | On Site | May 21 |
 | **[Johns Hopkins Applied Physics Laboratory](http://jhuapl.edu/)** | **[2026 Internship - Technical Support](https://jobright.ai/jobs/info/6a0fade980bf0430c7635c1d?utm_campaign=1058&utm_source=git)** | Laurel, MD | Hybrid | May 21 |
 | **[Revvity](https://www.revvity.com/)** | **[Clerical Intern](https://jobright.ai/jobs/info/6a0fadac83d71442898221e1?utm_campaign=1058&utm_source=git)** | Boston, MA | On Site | May 21 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/6a0eac1612f8b43cf3979028?utm_campaign=1058&utm_source=git)** | 111 ADVENT CT,STE 100,CARY,NC,27518 | On Site | May 20 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a0eac1612f8b43cf3979026?utm_campaign=1058&utm_source=git)** | 1900 CAMERON ST,RALEIGH,NC,27605-01307-17919-S | On Site | May 20 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a0eaade9f654b3359ce0514?utm_campaign=1058&utm_source=git)** | 617 HIGHLAND ST,MOUNT HOLLY,NC,28120 | On Site | May 20 |
-| **[Oracle](https://www.oracle.com/)** | **[DRC Customer Success Intern - OVIP](https://jobright.ai/jobs/info/6a0e9d9880bf0430c762ddcd?utm_campaign=1058&utm_source=git)** | Colorado Springs, CO | Hybrid | May 20 |
-| ↳ | **[M&D Customer Solutions Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a0e9a5f12f8b43cf3978961?utm_campaign=1058&utm_source=git)** | United States | Remote | May 20 |
-| **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/6a0e8ff380bf0430c762da80?utm_campaign=1058&utm_source=git)** | 3801 MACCORKLE AVE SE,CHARLESTON,WV,25304 | On Site | May 20 |
-| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a0e8fef80bf0430c762da7d?utm_campaign=1058&utm_source=git)** | 6414 US ROUTE 60 E,BARBOURSVILLE,WV,25504-01240-11977-S | On Site | May 20 |
-| **[Jabil](https://www.jabil.com)** | **[Information Systems Summer Intern](https://jobright.ai/jobs/info/6a0e8d7d83d7144289819ea5?utm_campaign=1058&utm_source=git)** | Clinton, MA | Hybrid | May 20 |
-| **[Midas Hospitality](http://www.midashospitality.com/)** | **[Summer Intern - Front Desk Agent - Courtyard: St. Peters, MO](https://jobright.ai/jobs/info/6a0e8aab80bf0430c762d895?utm_campaign=1058&utm_source=git)** | St Peters,MO,US | On Site | May 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
