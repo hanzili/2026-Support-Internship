@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a10801512f8b43cf398576a?utm_campaign=1058&utm_source=git)** | Woodbridge, VA | On Site | May 22 |
+| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a107ff0619335383fb32de5?utm_campaign=1058&utm_source=git)** | Bristow, VA | On Site | May 22 |
+| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a107c279fdbf21f36caec3e?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | May 22 |
+| **[Watson Companies](http://gowatsonco.com)** | **[Clinical Operations & Patient Coordination Intern](https://jobright.ai/jobs/info/6a1074bc619335383fb32b0f?utm_campaign=1058&utm_source=git)** | Chapel Hill, NC | On Site | May 22 |
+| **[Banner Health](https://www.bannerhealth.com)** | **[IT Intern I](https://jobright.ai/jobs/info/6a10748812f8b43cf39853c3?utm_campaign=1058&utm_source=git)** | Arizona, United States | Hybrid | May 22 |
 | **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[IT Support Intern- Fall 2026](https://jobright.ai/jobs/info/6a10717b69bd827926aee592?utm_campaign=1058&utm_source=git)** | Tampa, FL, US | On Site | May 22 |
 | ↳ | **[IT Support Intern- Fall 2026](https://jobright.ai/jobs/info/6a10717669bd827926aee591?utm_campaign=1058&utm_source=git)** | US-FL-Tampa | On Site | May 22 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad-Sign-On Bonus Available](https://jobright.ai/jobs/info/6a106c9d69bd827926aee306?utm_campaign=1058&utm_source=git)** | 1716 PLEASANT RD,FORT MILL,SC,29708-07815-10162-S | On Site | May 22 |
@@ -83,8 +88,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a0fc47483d7144289822b3a?utm_campaign=1058&utm_source=git)** | 4521 OLEANDER DR,WILMINGTON,NC,28403 | On Site | May 21 |
 | **[McKee Foods Corporation](http://www.mckeefoods.com/)** | **[IT Asset Intern – Summer 2026](https://jobright.ai/jobs/info/6a0fc1b272b52f7225f403a0?utm_campaign=1058&utm_source=git)** | Collegedale, TN | On Site | May 21 |
 | **[Harmony United Psychiatric Care](https://hupcfl.com)** | **[Psychiatric Office Assistant Internship/Outpatient Clinic (Certification Program)/Orlando](https://jobright.ai/jobs/info/6a1002d5619335383fb30132?utm_campaign=1058&utm_source=git)** | Orlando, FL | On Site | May 21 |
-| ↳ | **[Psychiatric Office Assistant Internship/Outpatient Clinic (Certification Program)/Hallandale Beach](https://jobright.ai/jobs/info/6a1002e883d7144289823abf?utm_campaign=1058&utm_source=git)** | Hallandale Beach, FL | On Site | May 21 |
 | ↳ | **[Psychiatric Office Assistant Internship/Outpatient Clinic (Certification Program)/Gainesville](https://jobright.ai/jobs/info/6a1002ef80bf0430c76373c7?utm_campaign=1058&utm_source=git)** | Gainesville, FL | On Site | May 21 |
+| ↳ | **[Psychiatric Office Assistant Internship/Outpatient Clinic (Certification Program)/Hallandale Beach](https://jobright.ai/jobs/info/6a1002e883d7144289823abf?utm_campaign=1058&utm_source=git)** | Hallandale Beach, FL | On Site | May 21 |
 | **[Kinaxis](http://www.kinaxis.com/)** | **[Intern Customer Experience](https://jobright.ai/jobs/info/6a0fd59080bf0430c76369bf?utm_campaign=1058&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 21 |
 | ↳ | **[Intern Customer Experience](https://jobright.ai/jobs/info/6a0fd61572b52f7225f40ac8?utm_campaign=1058&utm_source=git)** | Waterloo, Ontario, Canada | Hybrid | May 21 |
 | ↳ | **[Intern Customer Experience](https://jobright.ai/jobs/info/6a0fd59480bf0430c76369cb?utm_campaign=1058&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | May 21 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/6a0f36d89f654b3359ce379b?utm_campaign=1058&utm_source=git)** | 413 WASHINGTON ST,STOUGHTON,MA,02072-04210-05755-S | On Site | May 21 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a0f36d49f654b3359ce379a?utm_campaign=1058&utm_source=git)** | 951 BOSTON PROVIDENCE TPKE,NORWOOD,MA,02062 | On Site | May 21 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a0f361283d714428981d962?utm_campaign=1058&utm_source=git)** | 3046 N HALSTED ST,CHICAGO,IL,60657 | On Site | May 21 |
-| **[FreshDirect](http://freshdirect.com)** | **[Summer Internship- Customer Services Intern](https://jobright.ai/jobs/info/69f2796d8d8d624381aa108e?utm_campaign=1058&utm_source=git)** | Bronx, NY | On Site | May 21 |
-| **[eClerx](https://eclerx.com/)** | **[Analyst Intern](https://jobright.ai/jobs/info/69d04a60cdb525785fba95cc?utm_campaign=1058&utm_source=git)** | Fayetteville, NC | On Site | May 21 |
-| **[Mactac North America](http://www.mactac.com)** | **[IT End User Support Intern (Part Time)](https://jobright.ai/jobs/info/6a0f33ad83d714428981d885?utm_campaign=1058&utm_source=git)** | 800 Kasota Avenue Southeast, Minneapolis, MN, USA | On Site | May 21 |
-| **[United Imaging - North America](https://www.linkedin.com/company/35672836)** | **[Remote Services Support Intern](https://jobright.ai/jobs/info/69f25c8a825a315d7ca3c14b?utm_campaign=1058&utm_source=git)** | Houston, TX | Remote | May 21 |
-| **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Information Technology, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69e94a03e0cd471b2f13c556?utm_campaign=1058&utm_source=git)** | Staten Island, NY | On Site | May 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
