@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[FirstLink](https://www.first-link.be)** | **[Helpline Specialist Internship (For STUDENTS Only) - In Office Position](https://jobright.ai/jobs/info/6a100b8a9f654b3359ce9439?utm_campaign=1058&utm_source=git)** | Fargo, ND | On Site | May 22 |
 | **[FYZICAL Therapy & Balance Centers](http://www.fyzicalfranchise.com)** | **[Pre-Physical Therapy Internship (Paid) Job](https://jobright.ai/jobs/info/6a0ffe1f12f8b43cf3982893?utm_campaign=1058&utm_source=git)** | Bedford, MA | On Site | May 21 |
 | **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/6a0ffb58619335383fb2ff5b?utm_campaign=1058&utm_source=git)** | 4822 CATON FARM RD,PLAINFIELD,IL,60586 | On Site | May 21 |
 | **[FirstLink](https://www.first-link.be)** | **[Helpline Specialist Internship (For STUDENTS Only)](https://jobright.ai/jobs/info/6a0ffa7a83d71442898238b5?utm_campaign=1058&utm_source=git)** | 4342 15th Avenue South, Fargo, ND, USA | On Site | May 21 |
@@ -71,11 +72,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Psychiatric Office Assistant Internship/Outpatient Clinic (Certification Program)/Hallandale Beach](https://jobright.ai/jobs/info/6a1002e883d7144289823abf?utm_campaign=1058&utm_source=git)** | Hallandale Beach, FL | On Site | May 21 |
 | ↳ | **[Psychiatric Office Assistant Internship/Outpatient Clinic (Certification Program)/Gainesville](https://jobright.ai/jobs/info/6a1002ef80bf0430c76373c7?utm_campaign=1058&utm_source=git)** | Gainesville, FL | On Site | May 21 |
 | **[Kinaxis](http://www.kinaxis.com/)** | **[Intern Customer Experience](https://jobright.ai/jobs/info/6a0fd59080bf0430c76369bf?utm_campaign=1058&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 21 |
-| ↳ | **[Intern Customer Experience](https://jobright.ai/jobs/info/6a0fd61572b52f7225f40ac8?utm_campaign=1058&utm_source=git)** | Waterloo, Ontario, Canada | Hybrid | May 21 |
 | ↳ | **[Intern Customer Experience](https://jobright.ai/jobs/info/6a0fd59480bf0430c76369cb?utm_campaign=1058&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | May 21 |
+| ↳ | **[Intern Customer Experience](https://jobright.ai/jobs/info/6a0fd61572b52f7225f40ac8?utm_campaign=1058&utm_source=git)** | Waterloo, Ontario, Canada | Hybrid | May 21 |
 | ↳ | **[Intern Customer Experience](https://jobright.ai/jobs/info/6a0fd59180bf0430c76369c3?utm_campaign=1058&utm_source=git)** | Halifax, Nova Scotia, Canada | Hybrid | May 21 |
-| ↳ | **[Intern Customer Experience](https://jobright.ai/jobs/info/6a0fd5a39f654b3359ce88f6?utm_campaign=1058&utm_source=git)** | Calgary, Alberta, Canada | Hybrid | May 21 |
 | ↳ | **[Intern Customer Experience](https://jobright.ai/jobs/info/6a0fd59080bf0430c76369c0?utm_campaign=1058&utm_source=git)** | Québec, Quebec, Canada | Hybrid | May 21 |
+| ↳ | **[Intern Customer Experience](https://jobright.ai/jobs/info/6a0fd5a39f654b3359ce88f6?utm_campaign=1058&utm_source=git)** | Calgary, Alberta, Canada | Hybrid | May 21 |
 | ↳ | **[Intern Customer Experience](https://jobright.ai/jobs/info/6a0fd5a39f654b3359ce88f5?utm_campaign=1058&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | May 21 |
 | **[Fleet Response](http://fleetresponse.com)** | **[Fleet Response 2026 Summer Internship](https://jobright.ai/jobs/info/6a0fafdd619335383fb2ea46?utm_campaign=1058&utm_source=git)** | Hudson, OH | On Site | May 21 |
 | **[Johns Hopkins Applied Physics Laboratory](http://jhuapl.edu/)** | **[2026 Internship - Technical Support](https://jobright.ai/jobs/info/6a0fade980bf0430c7635c1d?utm_campaign=1058&utm_source=git)** | Laurel, MD | Hybrid | May 21 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[DSI Tech](http://dsitech.com/)** | **[Summer Intern - Field Technician (Baltimore)](https://jobright.ai/jobs/info/6a0f164b619335383fb2911e?utm_campaign=1058&utm_source=git)** | Ashburn, VA | On Site | May 21 |
 | **[BMO](http://www.bmo.com)** | **[IT Support - Database,  Fall 2026 (Co-op/Internship) -4 Months](https://jobright.ai/jobs/info/6a0f15e180bf0430c7630c39?utm_campaign=1058&utm_source=git)** | Toronto, ON, CAN, CA | On Site | May 21 |
 | **[NRI North America](http://www.nri-na.com)** | **[Internship IT Department](https://jobright.ai/jobs/info/699d1835ce78e77b4fe1ea5f?utm_campaign=1058&utm_source=git)** | Cooperstown, NY | On Site | May 21 |
-| **[Indie Campers](https://indiecampers.com/)** | **[Tourism & Operations Intern](https://jobright.ai/jobs/info/6a0f12bf83d714428981ca87?utm_campaign=1058&utm_source=git)** | San Francisco Depot | On Site | May 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
