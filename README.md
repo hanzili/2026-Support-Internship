@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/6a10a44812f8b43cf398688b?utm_campaign=1058&utm_source=git)** | 750 W WHEATLAND RD,DUNCANVILLE,TX,75116 | On Site | May 22 |
+| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a10a43d12f8b43cf3986884?utm_campaign=1058&utm_source=git)** | 1104 S WESTMORELAND RD,DALLAS,TX,75211-05651-03956-S | On Site | May 22 |
+| **[SchoolSpring](http://www.schoolspring.com)** | **[Technology Intern - Summer Help Position](https://jobright.ai/jobs/info/6a10a2779f654b3359ced267?utm_campaign=1058&utm_source=git)** | District Office - Fort Mill, South Carolina | On Site | May 22 |
 | **[Kasa](http://www.kasa.com)** | **[Hotel Operations Internship](https://jobright.ai/jobs/info/6a109c8212f8b43cf3986589?utm_campaign=1058&utm_source=git)** | Pittsburgh, Pennsylvania | On Site | May 22 |
 | ↳ | **[Hotel Operations Internship](https://jobright.ai/jobs/info/6a109c8212f8b43cf3986588?utm_campaign=1058&utm_source=git)** | USA | On Site | May 22 |
 | **[Sherpa 6, Inc.](https://sherpa6.com)** | **[Information Technology Specialist - Intern](https://jobright.ai/jobs/info/6a1092f312f8b43cf39862a6?utm_campaign=1058&utm_source=git)** | Spring Lake, NC | On Site | May 22 |
@@ -93,7 +96,6 @@ For a complete list, click the following sortable link below:
 | **[FirstLink](https://www.first-link.be)** | **[Helpline Specialist Internship (For STUDENTS Only)](https://jobright.ai/jobs/info/6a0ffa7a83d71442898238b5?utm_campaign=1058&utm_source=git)** | 4342 15th Avenue South, Fargo, ND, USA | On Site | May 21 |
 | **[Verkada](https://www.verkada.com)** | **[Technical Support Engineering Intern - Fall 2026](https://jobright.ai/jobs/info/69616d7ae7ed9a5731ba3284?utm_campaign=1058&utm_source=git)** | San Mateo, CA United States | On Site | May 21 |
 | **[Arlington County Government](https://www.arlingtonva.us)** | **[Information Technology Intern](https://jobright.ai/jobs/info/6a0fe5e272b52f7225f40e49?utm_campaign=1058&utm_source=git)** | Arlington, VA | Hybrid | May 21 |
-| **[Troon](https://troon.com)** | **[Intern](https://jobright.ai/jobs/info/6a0fe5d6619335383fb2fb1c?utm_campaign=1058&utm_source=git)** | Koloa, HI | On Site | May 21 |
 | **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/6a096548a203b1052e449103?utm_campaign=1058&utm_source=git)** | 5038 CENTER ST,OMAHA,NE,68106-03111-04974-S | On Site | May 21 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a096548a203b1052e449104?utm_campaign=1058&utm_source=git)** | 7120 W 41ST ST,SIOUX FALLS,SD,57106 | On Site | May 21 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a0fc47483d7144289822b3a?utm_campaign=1058&utm_source=git)** | 4521 OLEANDER DR,WILMINGTON,NC,28403 | On Site | May 21 |
@@ -105,8 +107,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern Customer Experience](https://jobright.ai/jobs/info/6a0fd61572b52f7225f40ac8?utm_campaign=1058&utm_source=git)** | Waterloo, Ontario, Canada | Hybrid | May 21 |
 | ↳ | **[Intern Customer Experience](https://jobright.ai/jobs/info/6a0fd59480bf0430c76369cb?utm_campaign=1058&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | May 21 |
 | ↳ | **[Intern Customer Experience](https://jobright.ai/jobs/info/6a0fd59180bf0430c76369c3?utm_campaign=1058&utm_source=git)** | Halifax, Nova Scotia, Canada | Hybrid | May 21 |
-| ↳ | **[Intern Customer Experience](https://jobright.ai/jobs/info/6a0fd59080bf0430c76369c0?utm_campaign=1058&utm_source=git)** | Québec, Quebec, Canada | Hybrid | May 21 |
 | ↳ | **[Intern Customer Experience](https://jobright.ai/jobs/info/6a0fd5a39f654b3359ce88f6?utm_campaign=1058&utm_source=git)** | Calgary, Alberta, Canada | Hybrid | May 21 |
+| ↳ | **[Intern Customer Experience](https://jobright.ai/jobs/info/6a0fd59080bf0430c76369c0?utm_campaign=1058&utm_source=git)** | Québec, Quebec, Canada | Hybrid | May 21 |
 | ↳ | **[Intern Customer Experience](https://jobright.ai/jobs/info/6a0fd5a39f654b3359ce88f5?utm_campaign=1058&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | May 21 |
 | **[Fleet Response](http://fleetresponse.com)** | **[Fleet Response 2026 Summer Internship](https://jobright.ai/jobs/info/6a0fafdd619335383fb2ea46?utm_campaign=1058&utm_source=git)** | Hudson, OH | On Site | May 21 |
 | **[Johns Hopkins Applied Physics Laboratory](http://jhuapl.edu/)** | **[2026 Internship - Technical Support](https://jobright.ai/jobs/info/6a0fade980bf0430c7635c1d?utm_campaign=1058&utm_source=git)** | Laurel, MD | Hybrid | May 21 |
@@ -116,7 +118,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a0868533b54ed42d74d7717?utm_campaign=1058&utm_source=git)** | 1606 S PARK AVE,HERRIN,IL,62948-04169-12089-S | On Site | May 21 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a0fa88212f8b43cf3980d42?utm_campaign=1058&utm_source=git)** | 897 CHESTNUT RIDGE RD,MORGANTOWN,WV,26505 | On Site | May 21 |
 | **[Mobile Loaves & Fishes](http://mlf.org/)** | **[Supportive Services Intern](https://jobright.ai/jobs/info/6a0fa55512f8b43cf3980c13?utm_campaign=1058&utm_source=git)** | 9301 Hog Eye Road, Austin, TX, USA | On Site | May 21 |
-| **[Troon](https://troon.com)** | **[Intern](https://jobright.ai/jobs/info/6a0fa53380bf0430c7635832?utm_campaign=1058&utm_source=git)** | Koloa, Hawaii, United States | On Site | May 21 |
 | **[kW Engineering](https://www.kw-engineering.com/)** | **[IT Intern](https://jobright.ai/jobs/info/6a0fa36b83d7144289821e3c?utm_campaign=1058&utm_source=git)** | Oakland, CA | On Site | May 21 |
 | **[Washington State Department of Ecology](https://ecology.wa.gov)** | **[Document Accessibility Coordinator (Administrative Intern 2)](https://jobright.ai/jobs/info/6a0fa1ff72b52f7225f3f6de?utm_campaign=1058&utm_source=git)** | Lacey, WA | Hybrid | May 21 |
 | **[State of Colorado](https://dpo.colorado.gov/Medical)** | **[TEMPORARY Chronic Wasting Disease (CWD) / Customer Service Intern– Northeast Regional Office](https://jobright.ai/jobs/info/6a0f987a9f654b3359ce7239?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | May 21 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Presbyterian Healthcare Services](http://www.phs.org)** | **[High School Student Intern](https://jobright.ai/jobs/info/6a0f58a372b52f7225f3ced8?utm_campaign=1058&utm_source=git)** | Plains Regional Medical Center, US | On Site | May 21 |
 | **[Accuserve Solutions](https://www.accuserve.com/)** | **[IT Intern](https://jobright.ai/jobs/info/6a0f568480bf0430c7632bd5?utm_campaign=1058&utm_source=git)** | Dayton,OH,US | On Site | May 21 |
 | **[MercyOne](https://www.mercyone.org/)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/69f29ade8d8d624381aa1c27?utm_campaign=1058&utm_source=git)** | Des Moines, IA | On Site | May 21 |
-| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a0f546212f8b43cf397d867?utm_campaign=1058&utm_source=git)** | 1718 CATLIN DR,BARNHART,MO,63012 | On Site | May 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
