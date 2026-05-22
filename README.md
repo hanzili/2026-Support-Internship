@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Power Integrations](https://www.power.com)** | **[IT Support Intern](https://jobright.ai/jobs/info/6a10d5c99fdbf21f36cb112b?utm_campaign=1058&utm_source=git)** | San Jose, California | On Site | May 22 |
 | **[Acrisure](http://acrisure.com)** | **[Intern](https://jobright.ai/jobs/info/6a10bc4b619335383fb346d4?utm_campaign=1058&utm_source=git)** | 144 Poplar Grove Rd - BOONE, NC, US | On Site | May 22 |
 | **[Virgo Health](http://www.virgohealth.com/)** | **[Client Services Intern](https://jobright.ai/jobs/info/6a10b66483d7144289827ee6?utm_campaign=1058&utm_source=git)** | NYC office | Hybrid | May 22 |
 | ↳ | **[Client Services Intern](https://jobright.ai/jobs/info/6a10b65a83d7144289827ee5?utm_campaign=1058&utm_source=git)** | New York, New York, United States | Hybrid | May 22 |
@@ -140,6 +141,7 @@ For a complete list, click the following sortable link below:
 | **[Style On The Spot](http://www.StyleOnTheSpot.com)** | **[FIFA Volunteers](https://jobright.ai/jobs/info/6a0fba079f654b3359ce7e7b?utm_campaign=1058&utm_source=git)** | El Segundo, CA | On Site | May 21 |
 | **[ITS Logistics](http://its4logistics.com)** | **[Student Associate - IT - West Center](https://jobright.ai/jobs/info/6a0f7cc39f654b3359ce64dc?utm_campaign=1058&utm_source=git)** | Reno, NV | On Site | May 21 |
 | **[Banner Health](https://www.bannerhealth.com)** | **[IT Intern I](https://jobright.ai/jobs/info/6a0f791212f8b43cf397f952?utm_campaign=1058&utm_source=git)** | Remote Arizona, US | Remote | May 21 |
+| **[Hannaford Supermarkets](https://www.hannaford.com/)** | **[P4 Rx Intern ($26/ hr)](https://jobright.ai/jobs/info/69d76e21950d1a0760b7ebab?utm_campaign=1058&utm_source=git)** | Concord, NH | On Site | May 21 |
 | **[Mitsubishi Power Americas](https://power.mhi.com/regions/amer/)** | **[Service Desk Associate (Intern)](https://jobright.ai/jobs/info/6a0f76bc80bf0430c7633fb7?utm_campaign=1058&utm_source=git)** | Pooler, GA | On Site | May 21 |
 | **[Blattner](https://www.blattnercompany.com)** | **[IT Intern - Help Desk l](https://jobright.ai/jobs/info/6a0f76b572b52f7225f3e2b1?utm_campaign=1058&utm_source=git)** | Avon, MN | On Site | May 21 |
 | **[Mitsubishi Power Americas](https://power.mhi.com/regions/amer/)** | **[Service Desk Associate (Intern)](https://jobright.ai/jobs/info/6a0f769d12f8b43cf397f5d0?utm_campaign=1058&utm_source=git)** | Pooler, GA, US, 31322 | On Site | May 21 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Accuserve Solutions](https://www.accuserve.com/)** | **[IT Intern](https://jobright.ai/jobs/info/6a0f5c9f80bf0430c7633001?utm_campaign=1058&utm_source=git)** | Dayton, OH | On Site | May 21 |
 | **[Blattner](https://www.blattnercompany.com)** | **[IT Intern - Help Desk l](https://jobright.ai/jobs/info/6a0f5c7d83d714428981f148?utm_campaign=1058&utm_source=git)** | Avon, MN, US | On Site | May 21 |
 | **[Land O'Lakes Venture37](http://www.landolakesventure37.org)** | **[Inclusive Networking Intern-  Document Center](https://jobright.ai/jobs/info/6a0f59ed83d714428981ed29?utm_campaign=1058&utm_source=git)** | Arden Hills, MN (USA), US | On Site | May 21 |
-| **[Lozier Corporation](http://www.lozier.com)** | **[Tier 1 IT Support Specialist Intern](https://jobright.ai/jobs/info/6a0f59a780bf0430c7632d93?utm_campaign=1058&utm_source=git)** | Omaha, NE, US | On Site | May 21 |
-| **[Go West IT](https://www.gowestit.com)** | **[IT Intern](https://jobright.ai/jobs/info/6a0f58b283d714428981ec32?utm_campaign=1058&utm_source=git)** | Greenwood Village, US | On Site | May 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
