@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[IT Support Intern- Fall 2026](https://jobright.ai/jobs/info/6a10717b69bd827926aee592?utm_campaign=1058&utm_source=git)** | Tampa, FL, US | On Site | May 22 |
+| ↳ | **[IT Support Intern- Fall 2026](https://jobright.ai/jobs/info/6a10717669bd827926aee591?utm_campaign=1058&utm_source=git)** | US-FL-Tampa | On Site | May 22 |
+| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad-Sign-On Bonus Available](https://jobright.ai/jobs/info/6a106c9d69bd827926aee306?utm_campaign=1058&utm_source=git)** | 1716 PLEASANT RD,FORT MILL,SC,29708-07815-10162-S | On Site | May 22 |
 | **[Clean Harbors](http://www.cleanharbors.com)** | **[Emergency Response Field Services Administrative Internship](https://jobright.ai/jobs/info/6a10582d69bd827926aed85a?utm_campaign=1058&utm_source=git)** | Jacksonville, FL | On Site | May 22 |
 | **[Gypsum Management and Supply](http://www.gms.com)** | **[Intern](https://jobright.ai/jobs/info/6a10551b619335383fb31bee?utm_campaign=1058&utm_source=git)** | Omaha CBM,Nebraska, US | On Site | May 22 |
 | **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - TechStop](https://jobright.ai/jobs/info/6a104e7e9fdbf21f36cadbf2?utm_campaign=1058&utm_source=git)** | Tempe, AZ | On Site | May 22 |
@@ -80,8 +83,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a0fc47483d7144289822b3a?utm_campaign=1058&utm_source=git)** | 4521 OLEANDER DR,WILMINGTON,NC,28403 | On Site | May 21 |
 | **[McKee Foods Corporation](http://www.mckeefoods.com/)** | **[IT Asset Intern – Summer 2026](https://jobright.ai/jobs/info/6a0fc1b272b52f7225f403a0?utm_campaign=1058&utm_source=git)** | Collegedale, TN | On Site | May 21 |
 | **[Harmony United Psychiatric Care](https://hupcfl.com)** | **[Psychiatric Office Assistant Internship/Outpatient Clinic (Certification Program)/Orlando](https://jobright.ai/jobs/info/6a1002d5619335383fb30132?utm_campaign=1058&utm_source=git)** | Orlando, FL | On Site | May 21 |
-| ↳ | **[Psychiatric Office Assistant Internship/Outpatient Clinic (Certification Program)/Gainesville](https://jobright.ai/jobs/info/6a1002ef80bf0430c76373c7?utm_campaign=1058&utm_source=git)** | Gainesville, FL | On Site | May 21 |
 | ↳ | **[Psychiatric Office Assistant Internship/Outpatient Clinic (Certification Program)/Hallandale Beach](https://jobright.ai/jobs/info/6a1002e883d7144289823abf?utm_campaign=1058&utm_source=git)** | Hallandale Beach, FL | On Site | May 21 |
+| ↳ | **[Psychiatric Office Assistant Internship/Outpatient Clinic (Certification Program)/Gainesville](https://jobright.ai/jobs/info/6a1002ef80bf0430c76373c7?utm_campaign=1058&utm_source=git)** | Gainesville, FL | On Site | May 21 |
 | **[Kinaxis](http://www.kinaxis.com/)** | **[Intern Customer Experience](https://jobright.ai/jobs/info/6a0fd59080bf0430c76369bf?utm_campaign=1058&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 21 |
 | ↳ | **[Intern Customer Experience](https://jobright.ai/jobs/info/6a0fd61572b52f7225f40ac8?utm_campaign=1058&utm_source=git)** | Waterloo, Ontario, Canada | Hybrid | May 21 |
 | ↳ | **[Intern Customer Experience](https://jobright.ai/jobs/info/6a0fd59480bf0430c76369cb?utm_campaign=1058&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | May 21 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Mactac North America](http://www.mactac.com)** | **[IT End User Support Intern (Part Time)](https://jobright.ai/jobs/info/6a0f33ad83d714428981d885?utm_campaign=1058&utm_source=git)** | 800 Kasota Avenue Southeast, Minneapolis, MN, USA | On Site | May 21 |
 | **[United Imaging - North America](https://www.linkedin.com/company/35672836)** | **[Remote Services Support Intern](https://jobright.ai/jobs/info/69f25c8a825a315d7ca3c14b?utm_campaign=1058&utm_source=git)** | Houston, TX | Remote | May 21 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Information Technology, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69e94a03e0cd471b2f13c556?utm_campaign=1058&utm_source=git)** | Staten Island, NY | On Site | May 21 |
-| **[ALO](https://www.aloyoga.com/)** | **[TechOps Intern](https://jobright.ai/jobs/info/6a06ffa1078fec52738a4cb7?utm_campaign=1058&utm_source=git)** | Beverly Hills, California, United States | On Site | May 21 |
-| ↳ | **[TechOps Intern](https://jobright.ai/jobs/info/6a0f2f8a72b52f7225f3b7ce?utm_campaign=1058&utm_source=git)** | Beverly Hills - AIR | On Site | May 21 |
-| **[SUMMERSALT](https://www.summersalt.com/)** | **[Customer Happiness Summer Intern](https://jobright.ai/jobs/info/6a0f2f1d80bf0430c7631597?utm_campaign=1058&utm_source=git)** | St. Louis, MO | Hybrid | May 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
