@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Verkada](https://www.verkada.com)** | **[Technical Support Engineering Intern - Fall 2026](https://jobright.ai/jobs/info/69616d7ae7ed9a5731ba3284?utm_campaign=1058&utm_source=git)** | San Mateo, CA United States | On Site | May 21 |
 | **[Arlington County Government](https://www.arlingtonva.us)** | **[Information Technology Intern](https://jobright.ai/jobs/info/6a0fe5e272b52f7225f40e49?utm_campaign=1058&utm_source=git)** | Arlington, VA | Hybrid | May 21 |
 | **[Troon](https://troon.com)** | **[Intern](https://jobright.ai/jobs/info/6a0fe5d6619335383fb2fb1c?utm_campaign=1058&utm_source=git)** | Koloa, HI | On Site | May 21 |
 | **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/6a096548a203b1052e449103?utm_campaign=1058&utm_source=git)** | 5038 CENTER ST,OMAHA,NE,68106-03111-04974-S | On Site | May 21 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[M3 USA](https://www.m3.com/)** | **[Physician Relations Intern (Remote)](https://jobright.ai/jobs/info/69f2459ff154d768fbaa6318?utm_campaign=1058&utm_source=git)** | Creve Coeur, MO | Remote | May 21 |
 | **[KPH HEALTHCARE SERVICES, INC](https://www.kphhealthcareservices.com/en/)** | **[Pharmacy Intern P4](https://jobright.ai/jobs/info/69d59c0be63cea7a8b6628a6?utm_campaign=1058&utm_source=git)** | Baldwinsville, NY | On Site | May 21 |
 | **[Le Collectionist](http://www.lecollectionist.com)** | **[Onsite Concierge Assistant (H/F/X) - Internship - Paros (Greece)](https://jobright.ai/jobs/info/6a0eee3272b52f7225f3a0b2?utm_campaign=1058&utm_source=git)** | Greece, NY | On Site | May 21 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/6a0eeb5583d714428981bf4f?utm_campaign=1058&utm_source=git)** | Hatfield, Pennsylvania, United States | On Site | May 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
