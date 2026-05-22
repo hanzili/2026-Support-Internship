@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a0fc47483d7144289822b3a?utm_campaign=1058&utm_source=git)** | 4521 OLEANDER DR,WILMINGTON,NC,28403 | On Site | May 21 |
+| **[McKee Foods Corporation](http://www.mckeefoods.com/)** | **[IT Asset Intern – Summer 2026](https://jobright.ai/jobs/info/6a0fc1b272b52f7225f403a0?utm_campaign=1058&utm_source=git)** | Collegedale, TN | On Site | May 21 |
 | **[Fleet Response](http://fleetresponse.com)** | **[Fleet Response 2026 Summer Internship](https://jobright.ai/jobs/info/6a0fafdd619335383fb2ea46?utm_campaign=1058&utm_source=git)** | Hudson, OH | On Site | May 21 |
 | **[Johns Hopkins Applied Physics Laboratory](http://jhuapl.edu/)** | **[2026 Internship - Technical Support](https://jobright.ai/jobs/info/6a0fade980bf0430c7635c1d?utm_campaign=1058&utm_source=git)** | Laurel, MD | Hybrid | May 21 |
 | **[Revvity](https://www.revvity.com/)** | **[Clerical Intern](https://jobright.ai/jobs/info/6a0fadac83d71442898221e1?utm_campaign=1058&utm_source=git)** | Boston, MA | On Site | May 21 |
@@ -121,10 +123,12 @@ For a complete list, click the following sortable link below:
 | **[Mactac North America](http://www.mactac.com)** | **[IT End User Support Intern (Part Time)](https://jobright.ai/jobs/info/6a0f33ad83d714428981d885?utm_campaign=1058&utm_source=git)** | 800 Kasota Avenue Southeast, Minneapolis, MN, USA | On Site | May 21 |
 | **[United Imaging - North America](https://www.linkedin.com/company/35672836)** | **[Remote Services Support Intern](https://jobright.ai/jobs/info/69f25c8a825a315d7ca3c14b?utm_campaign=1058&utm_source=git)** | Houston, TX | Remote | May 21 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Information Technology, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69e94a03e0cd471b2f13c556?utm_campaign=1058&utm_source=git)** | Staten Island, NY | On Site | May 21 |
-| **[ALO](https://www.aloyoga.com/)** | **[TechOps Intern](https://jobright.ai/jobs/info/6a0f2f8a72b52f7225f3b7ce?utm_campaign=1058&utm_source=git)** | Beverly Hills - AIR | On Site | May 21 |
-| ↳ | **[TechOps Intern](https://jobright.ai/jobs/info/6a06ffa1078fec52738a4cb7?utm_campaign=1058&utm_source=git)** | Beverly Hills, California, United States | On Site | May 21 |
+| **[ALO](https://www.aloyoga.com/)** | **[TechOps Intern](https://jobright.ai/jobs/info/6a06ffa1078fec52738a4cb7?utm_campaign=1058&utm_source=git)** | Beverly Hills, California, United States | On Site | May 21 |
+| ↳ | **[TechOps Intern](https://jobright.ai/jobs/info/6a0f2f8a72b52f7225f3b7ce?utm_campaign=1058&utm_source=git)** | Beverly Hills - AIR | On Site | May 21 |
 | **[SUMMERSALT](https://www.summersalt.com/)** | **[Customer Happiness Summer Intern](https://jobright.ai/jobs/info/6a0f2f1d80bf0430c7631597?utm_campaign=1058&utm_source=git)** | St. Louis, MO | Hybrid | May 21 |
-| **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/6a0f5d1472b52f7225f3d40f?utm_campaign=1058&utm_source=git)** | Miami, FL | On Site | May 21 |
+| **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a0fc29080bf0430c7636418?utm_campaign=1058&utm_source=git)** | Grand Junction, CO | On Site | May 21 |
+| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a0fc21183d7144289822a96?utm_campaign=1058&utm_source=git)** | Berwyn, IL | On Site | May 21 |
+| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a0f5d1472b52f7225f3d40f?utm_campaign=1058&utm_source=git)** | Miami, FL | On Site | May 21 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a0f63cb83d714428981f8b7?utm_campaign=1058&utm_source=git)** | Cicero, IL | On Site | May 21 |
 | **[Tronox](http://www.tronox.com/)** | **[Information Technology (IT) Intern](https://jobright.ai/jobs/info/6a0f1bb083d714428981ce61?utm_campaign=1058&utm_source=git)** | USA - Hamilton, MS | On Site | May 21 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a0f1ba572b52f7225f3af79?utm_campaign=1058&utm_source=git)** | 3605 BRAINERD RD,CHATTANOOGA,TN,37411 | On Site | May 21 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a0e8fef80bf0430c762da7d?utm_campaign=1058&utm_source=git)** | 6414 US ROUTE 60 E,BARBOURSVILLE,WV,25504-01240-11977-S | On Site | May 20 |
 | **[Jabil](https://www.jabil.com)** | **[Information Systems Summer Intern](https://jobright.ai/jobs/info/6a0e8d7d83d7144289819ea5?utm_campaign=1058&utm_source=git)** | Clinton, MA | Hybrid | May 20 |
 | **[Midas Hospitality](http://www.midashospitality.com/)** | **[Summer Intern - Front Desk Agent - Courtyard: St. Peters, MO](https://jobright.ai/jobs/info/6a0e8aab80bf0430c762d895?utm_campaign=1058&utm_source=git)** | St Peters,MO,US | On Site | May 20 |
-| **[Armada](https://www.armada.ai)** | **[IT Support Intern (Unpaid)](https://jobright.ai/jobs/info/69fba9d4ffa73664aeb01940?utm_campaign=1058&utm_source=git)** | Bellevue Office, Sunset Corporate Campus | On Site | May 20 |
-| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a0e73dd80bf0430c762ced3?utm_campaign=1058&utm_source=git)** | 5230 POPLAR TENT RD,CONCORD,NC,28027-07757-07767-S | On Site | May 20 |
-| **[Pine Street Inn](https://www.pinestreetinn.org)** | **[IT Support Intern](https://jobright.ai/jobs/info/6a0e71fd12f8b43cf3977908?utm_campaign=1058&utm_source=git)** | Boston, MA | On Site | May 20 |
-| **[Fenwick & West](http://fenwick.com)** | **[Business Center Intern](https://jobright.ai/jobs/info/6a0e67e947fea1610bca9f4f?utm_campaign=1058&utm_source=git)** | Washington, D.C., US | Hybrid | May 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
