@@ -63,8 +63,8 @@ For a complete list, click the following sortable link below:
 | **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/6a10a44812f8b43cf398688b?utm_campaign=1058&utm_source=git)** | 750 W WHEATLAND RD,DUNCANVILLE,TX,75116 | On Site | May 22 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a10a43d12f8b43cf3986884?utm_campaign=1058&utm_source=git)** | 1104 S WESTMORELAND RD,DALLAS,TX,75211-05651-03956-S | On Site | May 22 |
 | **[SchoolSpring](http://www.schoolspring.com)** | **[Technology Intern - Summer Help Position](https://jobright.ai/jobs/info/6a10a2779f654b3359ced267?utm_campaign=1058&utm_source=git)** | District Office - Fort Mill, South Carolina | On Site | May 22 |
-| **[Kasa](http://www.kasa.com)** | **[Hotel Operations Internship](https://jobright.ai/jobs/info/6a109c8212f8b43cf3986588?utm_campaign=1058&utm_source=git)** | USA | On Site | May 22 |
-| ↳ | **[Hotel Operations Internship](https://jobright.ai/jobs/info/6a109c8212f8b43cf3986589?utm_campaign=1058&utm_source=git)** | Pittsburgh, Pennsylvania | On Site | May 22 |
+| **[Kasa](http://www.kasa.com)** | **[Hotel Operations Internship](https://jobright.ai/jobs/info/6a109c8212f8b43cf3986589?utm_campaign=1058&utm_source=git)** | Pittsburgh, Pennsylvania | On Site | May 22 |
+| ↳ | **[Hotel Operations Internship](https://jobright.ai/jobs/info/6a109c8212f8b43cf3986588?utm_campaign=1058&utm_source=git)** | USA | On Site | May 22 |
 | **[Sherpa 6, Inc.](https://sherpa6.com)** | **[Information Technology Specialist - Intern](https://jobright.ai/jobs/info/6a1092f312f8b43cf39862a6?utm_campaign=1058&utm_source=git)** | Spring Lake, NC | On Site | May 22 |
 | **[Mercy Chefs](https://mercychefs.com)** | **[Donor Care Intern](https://jobright.ai/jobs/info/6a108d969f654b3359ceca55?utm_campaign=1058&utm_source=git)** | Portsmouth, Virginia, United States | On Site | May 22 |
 | **[Sherpa 6, Inc.](https://sherpa6.com)** | **[Information Technology Specialist - Intern](https://jobright.ai/jobs/info/6a108c4569bd827926aef0b7?utm_campaign=1058&utm_source=git)** | Spring Lake,NC,US | On Site | May 22 |
