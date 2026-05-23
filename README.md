@@ -69,6 +69,7 @@ For a complete list, click the following sortable link below:
 | **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/6a11bdd783d714428982c6c4?utm_campaign=1058&utm_source=git)** | 934 N HACIENDA BLVD,LA PUENTE,CA,91744 | On Site | May 23 |
 | **[Athena](https://athenapsych.com)** | **[IT Intern](https://jobright.ai/jobs/info/6a1198f4619335383fb38269?utm_campaign=1058&utm_source=git)** | Rochester, NY | On Site | May 23 |
 | **[Presence](https://presence.com)** | **[Paid Internship- In-Person Therapy Support Specialist](https://jobright.ai/jobs/info/6a1194bf9f654b3359cf1487?utm_campaign=1058&utm_source=git)** | Rockford, IL, US | On Site | May 23 |
+| **[Hyatt](http://www.hyatt.com/)** | **[Summer 2026 - College Intern - Front Desk](https://jobright.ai/jobs/info/69679305f25a38006695e855?utm_campaign=1058&utm_source=git)** | San Antonio, TX | On Site | May 23 |
 | **[Sono Bello](http://sonobello.com)** | **[Intern- IT Helpdesk](https://jobright.ai/jobs/info/69d97c0a738f2f099e8a2258?utm_campaign=1058&utm_source=git)** | Bellevue, WA | Hybrid | May 23 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a11866883d714428982ba8b?utm_campaign=1058&utm_source=git)** | 1100 E MAIN ST,REEDSBURG,WI,53959 | On Site | May 23 |
 | **[Kirtland Credit Union](https://kirtlandcu.org/)** | **[Intern](https://jobright.ai/jobs/info/6a11806a69bd827926af399a?utm_campaign=1058&utm_source=git)** | Albuquerque, NM, US | On Site | May 23 |
@@ -81,8 +82,8 @@ For a complete list, click the following sortable link below:
 | **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/6a10f9aa83d7144289829a32?utm_campaign=1058&utm_source=git)** | 470 GRANT RD,EAST WENATCHEE,WA,98802-05336-13971-S | On Site | May 22 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a10f9a683d7144289829a2c?utm_campaign=1058&utm_source=git)** | 2105 E WELLESLEY AVE,SPOKANE,WA,99207 | On Site | May 22 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[College Intern 1-4 (PCN 25IN1909)](https://jobright.ai/jobs/info/6a10f56812f8b43cf39885ee?utm_campaign=1058&utm_source=git)** | Anchorage, AK | Hybrid | May 22 |
-| **[Aerospike](http://www.aerospike.com)** | **[IT Intern](https://jobright.ai/jobs/info/6a10f2509f654b3359ceec21?utm_campaign=1058&utm_source=git)** | Mountain View | Hybrid | May 22 |
-| ↳ | **[IT Intern](https://jobright.ai/jobs/info/6a10f2509f654b3359ceec20?utm_campaign=1058&utm_source=git)** | Mountain View, CA | Hybrid | May 22 |
+| **[Aerospike](http://www.aerospike.com)** | **[IT Intern](https://jobright.ai/jobs/info/6a10f2509f654b3359ceec20?utm_campaign=1058&utm_source=git)** | Mountain View, CA | Hybrid | May 22 |
+| ↳ | **[IT Intern](https://jobright.ai/jobs/info/6a10f2509f654b3359ceec21?utm_campaign=1058&utm_source=git)** | Mountain View | Hybrid | May 22 |
 | **[LP Hospitality Group](https://www.lobsterplace.com)** | **[Retail Fish Cutter (Internship)](https://jobright.ai/jobs/info/6a11128712f8b43cf39891df?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | May 22 |
 | **[Cadence Education](http://www.cadence-education.com/)** | **[Enrollment Specialist Intern](https://jobright.ai/jobs/info/6a10e07b12f8b43cf3987c15?utm_campaign=1058&utm_source=git)** | Scottsdale, AZ, US | Hybrid | May 22 |
 | **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a07db34403fc339507e887d?utm_campaign=1058&utm_source=git)** | 413 WASHINGTON ST,STOUGHTON,MA,02072-04210-05755-S | On Site | May 22 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Harmony United Psychiatric Care](https://hupcfl.com)** | **[Psychiatric Office Assistant Internship/Outpatient Clinic (Certification Program)/Orlando](https://jobright.ai/jobs/info/6a1002d5619335383fb30132?utm_campaign=1058&utm_source=git)** | Orlando, FL | On Site | May 21 |
 | ↳ | **[Psychiatric Office Assistant Internship/Outpatient Clinic (Certification Program)/Gainesville](https://jobright.ai/jobs/info/6a1002ef80bf0430c76373c7?utm_campaign=1058&utm_source=git)** | Gainesville, FL | On Site | May 21 |
 | ↳ | **[Psychiatric Office Assistant Internship/Outpatient Clinic (Certification Program)/Hallandale Beach](https://jobright.ai/jobs/info/6a1002e883d7144289823abf?utm_campaign=1058&utm_source=git)** | Hallandale Beach, FL | On Site | May 21 |
-| **[Kinaxis](http://www.kinaxis.com/)** | **[Intern Customer Experience](https://jobright.ai/jobs/info/6a0fd59080bf0430c76369bf?utm_campaign=1058&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
