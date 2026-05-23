@@ -96,8 +96,8 @@ For a complete list, click the following sortable link below:
 | **[Gypsum Management and Supply](http://www.gms.com)** | **[Intern](https://jobright.ai/jobs/info/6a11095d69bd827926af1f31?utm_campaign=1058&utm_source=git)** | Omaha, NE | On Site | May 22 |
 | **[SchoolSpring](http://www.schoolspring.com)** | **[Technology Intern - Summer Help Position](https://jobright.ai/jobs/info/6a10a2779f654b3359ced267?utm_campaign=1058&utm_source=git)** | District Office - Fort Mill, South Carolina | On Site | May 22 |
 | **[TotalEnergies](https://ventures.totalenergies.com)** | **[IT Communications and Technical Analyst Intern](https://jobright.ai/jobs/info/69d82ae9b861c42857c492eb?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | May 22 |
-| **[Kasa](http://www.kasa.com)** | **[Hotel Operations Internship](https://jobright.ai/jobs/info/6a109c8212f8b43cf3986589?utm_campaign=1058&utm_source=git)** | Pittsburgh, Pennsylvania | On Site | May 22 |
-| ↳ | **[Hotel Operations Internship](https://jobright.ai/jobs/info/6a109c8212f8b43cf3986588?utm_campaign=1058&utm_source=git)** | USA | On Site | May 22 |
+| **[Kasa](http://www.kasa.com)** | **[Hotel Operations Internship](https://jobright.ai/jobs/info/6a109c8212f8b43cf3986588?utm_campaign=1058&utm_source=git)** | USA | On Site | May 22 |
+| ↳ | **[Hotel Operations Internship](https://jobright.ai/jobs/info/6a109c8212f8b43cf3986589?utm_campaign=1058&utm_source=git)** | Pittsburgh, Pennsylvania | On Site | May 22 |
 | **[Sherpa 6, Inc.](https://sherpa6.com)** | **[Information Technology Specialist - Intern](https://jobright.ai/jobs/info/6a1092f312f8b43cf39862a6?utm_campaign=1058&utm_source=git)** | Spring Lake, NC | On Site | May 22 |
 | **[Mercy Chefs](https://mercychefs.com)** | **[Donor Care Intern](https://jobright.ai/jobs/info/6a108d969f654b3359ceca55?utm_campaign=1058&utm_source=git)** | Portsmouth, Virginia, United States | On Site | May 22 |
 | **[Sherpa 6, Inc.](https://sherpa6.com)** | **[Information Technology Specialist - Intern](https://jobright.ai/jobs/info/6a108c4569bd827926aef0b7?utm_campaign=1058&utm_source=git)** | Spring Lake,NC,US | On Site | May 22 |
@@ -139,11 +139,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a0fc47483d7144289822b3a?utm_campaign=1058&utm_source=git)** | 4521 OLEANDER DR,WILMINGTON,NC,28403 | On Site | May 21 |
 | **[McKee Foods Corporation](http://www.mckeefoods.com/)** | **[IT Asset Intern – Summer 2026](https://jobright.ai/jobs/info/6a0fc1b272b52f7225f403a0?utm_campaign=1058&utm_source=git)** | Collegedale, TN | On Site | May 21 |
 | **[Harmony United Psychiatric Care](https://hupcfl.com)** | **[Psychiatric Office Assistant Internship/Outpatient Clinic (Certification Program)/Orlando](https://jobright.ai/jobs/info/6a1002d5619335383fb30132?utm_campaign=1058&utm_source=git)** | Orlando, FL | On Site | May 21 |
-| ↳ | **[Psychiatric Office Assistant Internship/Outpatient Clinic (Certification Program)/Gainesville](https://jobright.ai/jobs/info/6a1002ef80bf0430c76373c7?utm_campaign=1058&utm_source=git)** | Gainesville, FL | On Site | May 21 |
 | ↳ | **[Psychiatric Office Assistant Internship/Outpatient Clinic (Certification Program)/Hallandale Beach](https://jobright.ai/jobs/info/6a1002e883d7144289823abf?utm_campaign=1058&utm_source=git)** | Hallandale Beach, FL | On Site | May 21 |
+| ↳ | **[Psychiatric Office Assistant Internship/Outpatient Clinic (Certification Program)/Gainesville](https://jobright.ai/jobs/info/6a1002ef80bf0430c76373c7?utm_campaign=1058&utm_source=git)** | Gainesville, FL | On Site | May 21 |
 | **[Kinaxis](http://www.kinaxis.com/)** | **[Intern Customer Experience](https://jobright.ai/jobs/info/6a0fd59080bf0430c76369bf?utm_campaign=1058&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 21 |
-| ↳ | **[Intern Customer Experience](https://jobright.ai/jobs/info/6a0fd59480bf0430c76369cb?utm_campaign=1058&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | May 21 |
 | ↳ | **[Intern Customer Experience](https://jobright.ai/jobs/info/6a0fd61572b52f7225f40ac8?utm_campaign=1058&utm_source=git)** | Waterloo, Ontario, Canada | Hybrid | May 21 |
+| ↳ | **[Intern Customer Experience](https://jobright.ai/jobs/info/6a0fd59480bf0430c76369cb?utm_campaign=1058&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | May 21 |
 | ↳ | **[Intern Customer Experience](https://jobright.ai/jobs/info/6a0fd59180bf0430c76369c3?utm_campaign=1058&utm_source=git)** | Halifax, Nova Scotia, Canada | Hybrid | May 21 |
 | ↳ | **[Intern Customer Experience](https://jobright.ai/jobs/info/6a0fd59080bf0430c76369c0?utm_campaign=1058&utm_source=git)** | Québec, Quebec, Canada | Hybrid | May 21 |
 | ↳ | **[Intern Customer Experience](https://jobright.ai/jobs/info/6a0fd5a39f654b3359ce88f6?utm_campaign=1058&utm_source=git)** | Calgary, Alberta, Canada | Hybrid | May 21 |
