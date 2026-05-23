@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Athena](https://athenapsych.com)** | **[IT Intern](https://jobright.ai/jobs/info/6a1198f4619335383fb38269?utm_campaign=1058&utm_source=git)** | Rochester, NY | On Site | May 23 |
 | **[Presence](https://presence.com)** | **[Paid Internship- In-Person Therapy Support Specialist](https://jobright.ai/jobs/info/6a1194bf9f654b3359cf1487?utm_campaign=1058&utm_source=git)** | Rockford, IL, US | On Site | May 23 |
 | **[Sono Bello](http://sonobello.com)** | **[Intern- IT Helpdesk](https://jobright.ai/jobs/info/69d97c0a738f2f099e8a2258?utm_campaign=1058&utm_source=git)** | Bellevue, WA | Hybrid | May 23 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a11866883d714428982ba8b?utm_campaign=1058&utm_source=git)** | 1100 E MAIN ST,REEDSBURG,WI,53959 | On Site | May 23 |
@@ -93,7 +94,6 @@ For a complete list, click the following sortable link below:
 | **[Kasa](http://www.kasa.com)** | **[Hotel Operations Internship](https://jobright.ai/jobs/info/6a10ef3b619335383fb35665?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | On Site | May 22 |
 | **[United Merchant Services, Inc.](http://www.unitedmerchant.com/)** | **[Summer IT Support Intern - Korean Bilingual](https://jobright.ai/jobs/info/6a10f0fc12f8b43cf39881b3?utm_campaign=1058&utm_source=git)** | Hackensack, NJ | On Site | May 22 |
 | **[Mississippi Votes](msvotes.org)** | **[2026 Summer Internship Application](https://jobright.ai/jobs/info/6a10f2789fdbf21f36cb1b1e?utm_campaign=1058&utm_source=git)** | Jackson, MS | On Site | May 22 |
-| **[Young Life](https://sworlando.younglife.org)** | **[AWR Summer Intern - Guest Services](https://jobright.ai/jobs/info/6a10ec5169bd827926af1128?utm_campaign=1058&utm_source=git)** | Mount Nebo, WV | On Site | May 22 |
 | **[Coastal Carolina University](http://www.coastal.edu/)** | **[Pantry Assistant (Student Assistant)](https://jobright.ai/jobs/info/69f26956825a315d7ca3c6b7?utm_campaign=1058&utm_source=git)** | Conway, SC | On Site | May 22 |
 | **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/6a10a44812f8b43cf398688b?utm_campaign=1058&utm_source=git)** | 750 W WHEATLAND RD,DUNCANVILLE,TX,75116 | On Site | May 22 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a10a43d12f8b43cf3986884?utm_campaign=1058&utm_source=git)** | 1104 S WESTMORELAND RD,DALLAS,TX,75211-05651-03956-S | On Site | May 22 |
@@ -127,6 +127,7 @@ For a complete list, click the following sortable link below:
 | **[Onto Innovation](http://www.ontoinnovation.com)** | **[Purchasing, Materials Intern](https://jobright.ai/jobs/info/69d6983848f0c8161d2f8c80?utm_campaign=1058&utm_source=git)** | Tucson, AZ | On Site | May 22 |
 | **[Texas Department of Transportation](https://www.txdot.gov)** | **[ROW Administration and Technical Support Intern](https://jobright.ai/jobs/info/6a10391783d7144289824aca?utm_campaign=1058&utm_source=git)** | 6230 East Stassney Lane, Austin 78744 | On Site | May 22 |
 | ↳ | **[Intern Support Technician - Digital Print Center](https://jobright.ai/jobs/info/6a1038ff9f654b3359cea329?utm_campaign=1058&utm_source=git)** | 6230 East Stassney Lane, Austin 78744 | On Site | May 22 |
+| **[HCA Florida Kendall Hospital](https://kendallmed.com/)** | **[Pharmacist Intern PRN](https://jobright.ai/jobs/info/69f2ea2834c4af7a79ab7e31?utm_campaign=1058&utm_source=git)** | Miami, FL | On Site | May 22 |
 | **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/6a1033959fdbf21f36cad1ad?utm_campaign=1058&utm_source=git)** | 730 S LEWIS ST,METTER,GA,30439-05127-17222-S | On Site | May 22 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a1033919fdbf21f36cad1ab?utm_campaign=1058&utm_source=git)** | 2270 US HIGHWAY 17,RICHMOND HILL,GA,31324 | On Site | May 22 |
 | **[EMPLOYERS](http://www.employers.com)** | **[IT Intern](https://jobright.ai/jobs/info/6a0b651222d0d34036c8bb7d?utm_campaign=1058&utm_source=git)** | United States | Remote | May 22 |
@@ -146,8 +147,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Psychiatric Office Assistant Internship/Outpatient Clinic (Certification Program)/Hallandale Beach](https://jobright.ai/jobs/info/6a1002e883d7144289823abf?utm_campaign=1058&utm_source=git)** | Hallandale Beach, FL | On Site | May 21 |
 | ↳ | **[Psychiatric Office Assistant Internship/Outpatient Clinic (Certification Program)/Gainesville](https://jobright.ai/jobs/info/6a1002ef80bf0430c76373c7?utm_campaign=1058&utm_source=git)** | Gainesville, FL | On Site | May 21 |
 | **[Kinaxis](http://www.kinaxis.com/)** | **[Intern Customer Experience](https://jobright.ai/jobs/info/6a0fd59080bf0430c76369bf?utm_campaign=1058&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 21 |
-| ↳ | **[Intern Customer Experience](https://jobright.ai/jobs/info/6a0fd59480bf0430c76369cb?utm_campaign=1058&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | May 21 |
 | ↳ | **[Intern Customer Experience](https://jobright.ai/jobs/info/6a0fd61572b52f7225f40ac8?utm_campaign=1058&utm_source=git)** | Waterloo, Ontario, Canada | Hybrid | May 21 |
+| ↳ | **[Intern Customer Experience](https://jobright.ai/jobs/info/6a0fd59480bf0430c76369cb?utm_campaign=1058&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | May 21 |
 | ↳ | **[Intern Customer Experience](https://jobright.ai/jobs/info/6a0fd59180bf0430c76369c3?utm_campaign=1058&utm_source=git)** | Halifax, Nova Scotia, Canada | Hybrid | May 21 |
 | ↳ | **[Intern Customer Experience](https://jobright.ai/jobs/info/6a0fd5a39f654b3359ce88f6?utm_campaign=1058&utm_source=git)** | Calgary, Alberta, Canada | Hybrid | May 21 |
 | ↳ | **[Intern Customer Experience](https://jobright.ai/jobs/info/6a0fd59080bf0430c76369c0?utm_campaign=1058&utm_source=git)** | Québec, Quebec, Canada | Hybrid | May 21 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Johns Hopkins Applied Physics Laboratory](http://jhuapl.edu/)** | **[2026 Internship - Technical Support](https://jobright.ai/jobs/info/6a0fade980bf0430c7635c1d?utm_campaign=1058&utm_source=git)** | Laurel, MD | Hybrid | May 21 |
 | **[Revvity](https://www.revvity.com/)** | **[Clerical Intern](https://jobright.ai/jobs/info/6a0fadac83d71442898221e1?utm_campaign=1058&utm_source=git)** | Boston, MA | On Site | May 21 |
 | **[kW Engineering](https://www.kw-engineering.com/)** | **[IT Intern](https://jobright.ai/jobs/info/6a0fad5383d714428982216e?utm_campaign=1058&utm_source=git)** | Oakland, CA | On Site | May 21 |
-| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a0fa88c72b52f7225f3f929?utm_campaign=1058&utm_source=git)** | 1200 GREENBRIER PKWY,CHESAPEAKE,VA,23320 | On Site | May 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
