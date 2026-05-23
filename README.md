@@ -57,14 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NextGen Federal Systems](https://www.nextgenfed.com/)** | **[Business Support Intern](https://jobright.ai/jobs/info/6a1128399f654b3359cf0313?utm_campaign=1058&utm_source=git)** | USA | Remote | May 22 |
+| **[Sharpe Wealth Management LLC](www.sharpewm.com)** | **[Client Service Representative Internship (Contract)](https://jobright.ai/jobs/info/6a111e2183d714428982a9d2?utm_campaign=1058&utm_source=git)** | Burleson, TX | On Site | May 22 |
 | **[Highgate](https://www.highgate.com)** | **[Intern](https://jobright.ai/jobs/info/6a111741619335383fb36b04?utm_campaign=1058&utm_source=git)** | US-NY-New York | On Site | May 22 |
 | **[Leidos Australia](https://www.leidos.com/company/global/australia)** | **[Power Platform Intern](https://jobright.ai/jobs/info/6a1112a39fdbf21f36cb2a78?utm_campaign=1058&utm_source=git)** | Remote, Virginia, United States | Remote | May 22 |
 | **[Cadence Education](http://www.cadence-education.com/)** | **[Enrollment Specialist Intern](https://jobright.ai/jobs/info/6a11000083d7144289829cb8?utm_campaign=1058&utm_source=git)** | Scottsdale, AZ | On Site | May 22 |
 | **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/6a10f9aa83d7144289829a32?utm_campaign=1058&utm_source=git)** | 470 GRANT RD,EAST WENATCHEE,WA,98802-05336-13971-S | On Site | May 22 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a10f9a683d7144289829a2c?utm_campaign=1058&utm_source=git)** | 2105 E WELLESLEY AVE,SPOKANE,WA,99207 | On Site | May 22 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[College Intern 1-4 (PCN 25IN1909)](https://jobright.ai/jobs/info/6a10f56812f8b43cf39885ee?utm_campaign=1058&utm_source=git)** | Anchorage, AK | Hybrid | May 22 |
-| **[Aerospike](http://www.aerospike.com)** | **[IT Intern](https://jobright.ai/jobs/info/6a10f2509f654b3359ceec21?utm_campaign=1058&utm_source=git)** | Mountain View | Hybrid | May 22 |
-| ↳ | **[IT Intern](https://jobright.ai/jobs/info/6a10f2509f654b3359ceec20?utm_campaign=1058&utm_source=git)** | Mountain View, CA | Hybrid | May 22 |
+| **[Aerospike](http://www.aerospike.com)** | **[IT Intern](https://jobright.ai/jobs/info/6a10f2509f654b3359ceec20?utm_campaign=1058&utm_source=git)** | Mountain View, CA | Hybrid | May 22 |
+| ↳ | **[IT Intern](https://jobright.ai/jobs/info/6a10f2509f654b3359ceec21?utm_campaign=1058&utm_source=git)** | Mountain View | Hybrid | May 22 |
 | **[LP Hospitality Group](https://www.lobsterplace.com)** | **[Retail Fish Cutter (Internship)](https://jobright.ai/jobs/info/6a11128712f8b43cf39891df?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | May 22 |
 | **[Cadence Education](http://www.cadence-education.com/)** | **[Enrollment Specialist Intern](https://jobright.ai/jobs/info/6a10e07b12f8b43cf3987c15?utm_campaign=1058&utm_source=git)** | Scottsdale, AZ, US | Hybrid | May 22 |
 | **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a07db34403fc339507e887d?utm_campaign=1058&utm_source=git)** | 413 WASHINGTON ST,STOUGHTON,MA,02072-04210-05755-S | On Site | May 22 |
@@ -93,8 +95,8 @@ For a complete list, click the following sortable link below:
 | **[Gypsum Management and Supply](http://www.gms.com)** | **[Intern](https://jobright.ai/jobs/info/6a11095d69bd827926af1f31?utm_campaign=1058&utm_source=git)** | Omaha, NE | On Site | May 22 |
 | **[SchoolSpring](http://www.schoolspring.com)** | **[Technology Intern - Summer Help Position](https://jobright.ai/jobs/info/6a10a2779f654b3359ced267?utm_campaign=1058&utm_source=git)** | District Office - Fort Mill, South Carolina | On Site | May 22 |
 | **[TotalEnergies](https://ventures.totalenergies.com)** | **[IT Communications and Technical Analyst Intern](https://jobright.ai/jobs/info/69d82ae9b861c42857c492eb?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | May 22 |
-| **[Kasa](http://www.kasa.com)** | **[Hotel Operations Internship](https://jobright.ai/jobs/info/6a109c8212f8b43cf3986589?utm_campaign=1058&utm_source=git)** | Pittsburgh, Pennsylvania | On Site | May 22 |
-| ↳ | **[Hotel Operations Internship](https://jobright.ai/jobs/info/6a109c8212f8b43cf3986588?utm_campaign=1058&utm_source=git)** | USA | On Site | May 22 |
+| **[Kasa](http://www.kasa.com)** | **[Hotel Operations Internship](https://jobright.ai/jobs/info/6a109c8212f8b43cf3986588?utm_campaign=1058&utm_source=git)** | USA | On Site | May 22 |
+| ↳ | **[Hotel Operations Internship](https://jobright.ai/jobs/info/6a109c8212f8b43cf3986589?utm_campaign=1058&utm_source=git)** | Pittsburgh, Pennsylvania | On Site | May 22 |
 | **[Sherpa 6, Inc.](https://sherpa6.com)** | **[Information Technology Specialist - Intern](https://jobright.ai/jobs/info/6a1092f312f8b43cf39862a6?utm_campaign=1058&utm_source=git)** | Spring Lake, NC | On Site | May 22 |
 | **[Mercy Chefs](https://mercychefs.com)** | **[Donor Care Intern](https://jobright.ai/jobs/info/6a108d969f654b3359ceca55?utm_campaign=1058&utm_source=git)** | Portsmouth, Virginia, United States | On Site | May 22 |
 | **[Sherpa 6, Inc.](https://sherpa6.com)** | **[Information Technology Specialist - Intern](https://jobright.ai/jobs/info/6a108c4569bd827926aef0b7?utm_campaign=1058&utm_source=git)** | Spring Lake,NC,US | On Site | May 22 |
@@ -136,14 +138,14 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a0fc47483d7144289822b3a?utm_campaign=1058&utm_source=git)** | 4521 OLEANDER DR,WILMINGTON,NC,28403 | On Site | May 21 |
 | **[McKee Foods Corporation](http://www.mckeefoods.com/)** | **[IT Asset Intern – Summer 2026](https://jobright.ai/jobs/info/6a0fc1b272b52f7225f403a0?utm_campaign=1058&utm_source=git)** | Collegedale, TN | On Site | May 21 |
 | **[Harmony United Psychiatric Care](https://hupcfl.com)** | **[Psychiatric Office Assistant Internship/Outpatient Clinic (Certification Program)/Orlando](https://jobright.ai/jobs/info/6a1002d5619335383fb30132?utm_campaign=1058&utm_source=git)** | Orlando, FL | On Site | May 21 |
-| ↳ | **[Psychiatric Office Assistant Internship/Outpatient Clinic (Certification Program)/Gainesville](https://jobright.ai/jobs/info/6a1002ef80bf0430c76373c7?utm_campaign=1058&utm_source=git)** | Gainesville, FL | On Site | May 21 |
 | ↳ | **[Psychiatric Office Assistant Internship/Outpatient Clinic (Certification Program)/Hallandale Beach](https://jobright.ai/jobs/info/6a1002e883d7144289823abf?utm_campaign=1058&utm_source=git)** | Hallandale Beach, FL | On Site | May 21 |
+| ↳ | **[Psychiatric Office Assistant Internship/Outpatient Clinic (Certification Program)/Gainesville](https://jobright.ai/jobs/info/6a1002ef80bf0430c76373c7?utm_campaign=1058&utm_source=git)** | Gainesville, FL | On Site | May 21 |
 | **[Kinaxis](http://www.kinaxis.com/)** | **[Intern Customer Experience](https://jobright.ai/jobs/info/6a0fd59080bf0430c76369bf?utm_campaign=1058&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 21 |
-| ↳ | **[Intern Customer Experience](https://jobright.ai/jobs/info/6a0fd61572b52f7225f40ac8?utm_campaign=1058&utm_source=git)** | Waterloo, Ontario, Canada | Hybrid | May 21 |
 | ↳ | **[Intern Customer Experience](https://jobright.ai/jobs/info/6a0fd59480bf0430c76369cb?utm_campaign=1058&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | May 21 |
+| ↳ | **[Intern Customer Experience](https://jobright.ai/jobs/info/6a0fd61572b52f7225f40ac8?utm_campaign=1058&utm_source=git)** | Waterloo, Ontario, Canada | Hybrid | May 21 |
 | ↳ | **[Intern Customer Experience](https://jobright.ai/jobs/info/6a0fd59180bf0430c76369c3?utm_campaign=1058&utm_source=git)** | Halifax, Nova Scotia, Canada | Hybrid | May 21 |
-| ↳ | **[Intern Customer Experience](https://jobright.ai/jobs/info/6a0fd5a39f654b3359ce88f6?utm_campaign=1058&utm_source=git)** | Calgary, Alberta, Canada | Hybrid | May 21 |
 | ↳ | **[Intern Customer Experience](https://jobright.ai/jobs/info/6a0fd59080bf0430c76369c0?utm_campaign=1058&utm_source=git)** | Québec, Quebec, Canada | Hybrid | May 21 |
+| ↳ | **[Intern Customer Experience](https://jobright.ai/jobs/info/6a0fd5a39f654b3359ce88f6?utm_campaign=1058&utm_source=git)** | Calgary, Alberta, Canada | Hybrid | May 21 |
 | ↳ | **[Intern Customer Experience](https://jobright.ai/jobs/info/6a0fd5a39f654b3359ce88f5?utm_campaign=1058&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | May 21 |
 | **[Fleet Response](http://fleetresponse.com)** | **[Fleet Response 2026 Summer Internship](https://jobright.ai/jobs/info/6a0fafdd619335383fb2ea46?utm_campaign=1058&utm_source=git)** | Hudson, OH | On Site | May 21 |
 | **[Johns Hopkins Applied Physics Laboratory](http://jhuapl.edu/)** | **[2026 Internship - Technical Support](https://jobright.ai/jobs/info/6a0fade980bf0430c7635c1d?utm_campaign=1058&utm_source=git)** | Laurel, MD | Hybrid | May 21 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Mobile Loaves & Fishes](http://mlf.org/)** | **[Supportive Services Intern](https://jobright.ai/jobs/info/6a0fa55512f8b43cf3980c13?utm_campaign=1058&utm_source=git)** | 9301 Hog Eye Road, Austin, TX, USA | On Site | May 21 |
 | **[kW Engineering](https://www.kw-engineering.com/)** | **[IT Intern](https://jobright.ai/jobs/info/6a0fa36b83d7144289821e3c?utm_campaign=1058&utm_source=git)** | Oakland, CA | On Site | May 21 |
 | **[Washington State Department of Ecology](https://ecology.wa.gov)** | **[Document Accessibility Coordinator (Administrative Intern 2)](https://jobright.ai/jobs/info/6a0fa1ff72b52f7225f3f6de?utm_campaign=1058&utm_source=git)** | Lacey, WA | Hybrid | May 21 |
-| **[QGenda](https://www.qgenda.com)** | **[Customer Experience Intern - QS AI Quality](https://jobright.ai/jobs/info/6a0f984712f8b43cf39807bd?utm_campaign=1058&utm_source=git)** | Atlanta, GA | Hybrid | May 21 |
-| **[Pittston Co-Packers](https://pittstoncopackers.com)** | **[Summer Intern - Parts Clerk](https://jobright.ai/jobs/info/6a0f93da619335383fb2dff2?utm_campaign=1058&utm_source=git)** | Pittston, PA | On Site | May 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
