@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Presence](https://presence.com)** | **[Paid Internship- In-Person Therapy Support Specialist](https://jobright.ai/jobs/info/6a1194bf9f654b3359cf1487?utm_campaign=1058&utm_source=git)** | Rockford, IL, US | On Site | May 23 |
 | **[Sono Bello](http://sonobello.com)** | **[Intern- IT Helpdesk](https://jobright.ai/jobs/info/69d97c0a738f2f099e8a2258?utm_campaign=1058&utm_source=git)** | Bellevue, WA | Hybrid | May 23 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a11866883d714428982ba8b?utm_campaign=1058&utm_source=git)** | 1100 E MAIN ST,REEDSBURG,WI,53959 | On Site | May 23 |
 | **[Kirtland Credit Union](https://kirtlandcu.org/)** | **[Intern](https://jobright.ai/jobs/info/6a11806a69bd827926af399a?utm_campaign=1058&utm_source=git)** | Albuquerque, NM, US | On Site | May 23 |
@@ -142,8 +143,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a0fc47483d7144289822b3a?utm_campaign=1058&utm_source=git)** | 4521 OLEANDER DR,WILMINGTON,NC,28403 | On Site | May 21 |
 | **[McKee Foods Corporation](http://www.mckeefoods.com/)** | **[IT Asset Intern – Summer 2026](https://jobright.ai/jobs/info/6a0fc1b272b52f7225f403a0?utm_campaign=1058&utm_source=git)** | Collegedale, TN | On Site | May 21 |
 | **[Harmony United Psychiatric Care](https://hupcfl.com)** | **[Psychiatric Office Assistant Internship/Outpatient Clinic (Certification Program)/Orlando](https://jobright.ai/jobs/info/6a1002d5619335383fb30132?utm_campaign=1058&utm_source=git)** | Orlando, FL | On Site | May 21 |
-| ↳ | **[Psychiatric Office Assistant Internship/Outpatient Clinic (Certification Program)/Gainesville](https://jobright.ai/jobs/info/6a1002ef80bf0430c76373c7?utm_campaign=1058&utm_source=git)** | Gainesville, FL | On Site | May 21 |
 | ↳ | **[Psychiatric Office Assistant Internship/Outpatient Clinic (Certification Program)/Hallandale Beach](https://jobright.ai/jobs/info/6a1002e883d7144289823abf?utm_campaign=1058&utm_source=git)** | Hallandale Beach, FL | On Site | May 21 |
+| ↳ | **[Psychiatric Office Assistant Internship/Outpatient Clinic (Certification Program)/Gainesville](https://jobright.ai/jobs/info/6a1002ef80bf0430c76373c7?utm_campaign=1058&utm_source=git)** | Gainesville, FL | On Site | May 21 |
 | **[Kinaxis](http://www.kinaxis.com/)** | **[Intern Customer Experience](https://jobright.ai/jobs/info/6a0fd59080bf0430c76369bf?utm_campaign=1058&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 21 |
 | ↳ | **[Intern Customer Experience](https://jobright.ai/jobs/info/6a0fd59480bf0430c76369cb?utm_campaign=1058&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | May 21 |
 | ↳ | **[Intern Customer Experience](https://jobright.ai/jobs/info/6a0fd61572b52f7225f40ac8?utm_campaign=1058&utm_source=git)** | Waterloo, Ontario, Canada | Hybrid | May 21 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Revvity](https://www.revvity.com/)** | **[Clerical Intern](https://jobright.ai/jobs/info/6a0fadac83d71442898221e1?utm_campaign=1058&utm_source=git)** | Boston, MA | On Site | May 21 |
 | **[kW Engineering](https://www.kw-engineering.com/)** | **[IT Intern](https://jobright.ai/jobs/info/6a0fad5383d714428982216e?utm_campaign=1058&utm_source=git)** | Oakland, CA | On Site | May 21 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a0fa88c72b52f7225f3f929?utm_campaign=1058&utm_source=git)** | 1200 GREENBRIER PKWY,CHESAPEAKE,VA,23320 | On Site | May 21 |
-| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a0868533b54ed42d74d7717?utm_campaign=1058&utm_source=git)** | 1606 S PARK AVE,HERRIN,IL,62948-04169-12089-S | On Site | May 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
