@@ -65,8 +65,8 @@ For a complete list, click the following sortable link below:
 | **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/6a10f9aa83d7144289829a32?utm_campaign=1058&utm_source=git)** | 470 GRANT RD,EAST WENATCHEE,WA,98802-05336-13971-S | On Site | May 22 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a10f9a683d7144289829a2c?utm_campaign=1058&utm_source=git)** | 2105 E WELLESLEY AVE,SPOKANE,WA,99207 | On Site | May 22 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[College Intern 1-4 (PCN 25IN1909)](https://jobright.ai/jobs/info/6a10f56812f8b43cf39885ee?utm_campaign=1058&utm_source=git)** | Anchorage, AK | Hybrid | May 22 |
-| **[Aerospike](http://www.aerospike.com)** | **[IT Intern](https://jobright.ai/jobs/info/6a10f2509f654b3359ceec20?utm_campaign=1058&utm_source=git)** | Mountain View, CA | Hybrid | May 22 |
-| ↳ | **[IT Intern](https://jobright.ai/jobs/info/6a10f2509f654b3359ceec21?utm_campaign=1058&utm_source=git)** | Mountain View | Hybrid | May 22 |
+| **[Aerospike](http://www.aerospike.com)** | **[IT Intern](https://jobright.ai/jobs/info/6a10f2509f654b3359ceec21?utm_campaign=1058&utm_source=git)** | Mountain View | Hybrid | May 22 |
+| ↳ | **[IT Intern](https://jobright.ai/jobs/info/6a10f2509f654b3359ceec20?utm_campaign=1058&utm_source=git)** | Mountain View, CA | Hybrid | May 22 |
 | **[LP Hospitality Group](https://www.lobsterplace.com)** | **[Retail Fish Cutter (Internship)](https://jobright.ai/jobs/info/6a11128712f8b43cf39891df?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | May 22 |
 | **[Cadence Education](http://www.cadence-education.com/)** | **[Enrollment Specialist Intern](https://jobright.ai/jobs/info/6a10e07b12f8b43cf3987c15?utm_campaign=1058&utm_source=git)** | Scottsdale, AZ, US | Hybrid | May 22 |
 | **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a07db34403fc339507e887d?utm_campaign=1058&utm_source=git)** | 413 WASHINGTON ST,STOUGHTON,MA,02072-04210-05755-S | On Site | May 22 |
