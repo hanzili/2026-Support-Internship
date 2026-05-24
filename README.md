@@ -60,8 +60,8 @@ For a complete list, click the following sortable link below:
 | **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a1284609f654b3359cf3ac3?utm_campaign=1058&utm_source=git)** | 14885 TELEGRAPH RD,LA MIRADA,CA,90638 | On Site | May 23 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a122e4812f8b43cf398c177?utm_campaign=1058&utm_source=git)** | 940 S FRONTAGE RD,STE 1900,WOODRIDGE,IL,60517 | On Site | May 23 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a1213839fdbf21f36cb563c?utm_campaign=1058&utm_source=git)** | 9202 COMMERCIAL CENTRE DR,BRIDGEVILLE,DE,19933 | On Site | May 23 |
-| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a12128312f8b43cf398bce4?utm_campaign=1058&utm_source=git)** | 951 BOSTON PROVIDENCE TPKE,NORWOOD,MA,02062 | On Site | May 23 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a12128312f8b43cf398bce5?utm_campaign=1058&utm_source=git)** | 4 CENTRAL SQ, BRIDGEWATER, MA, 02324-02509-10562-S | On Site | May 23 |
+| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a12128312f8b43cf398bce4?utm_campaign=1058&utm_source=git)** | 951 BOSTON PROVIDENCE TPKE,NORWOOD,MA,02062 | On Site | May 23 |
 | **[The MetroHealth System (Cleveland, OH)](http://www.metrohealth.org)** | **[Nurse Intern-PM&R/Stroke 5N OBC](https://jobright.ai/jobs/info/69d93cf1b67cec4f9b0a09b0?utm_campaign=1058&utm_source=git)** | Cleveland, OH | On Site | May 23 |
 | ↳ | **[Nurse Intern-PM&R/Brain 8N OBC](https://jobright.ai/jobs/info/69d93cb1869c7e25d85998b6?utm_campaign=1058&utm_source=git)** | Cleveland, OH | On Site | May 23 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/6a11da5c9fdbf21f36cb50a9?utm_campaign=1058&utm_source=git)** | 6201 SALTSBURG RD,PITTSBURGH,PA,15235 | On Site | May 23 |
