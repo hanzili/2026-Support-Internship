@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/6a132c569f654b3359cf583e?utm_campaign=1058&utm_source=git)** | 2560 W GOLF RD,HOFFMAN ESTATES,IL,60169-01114-03433-S | On Site | May 24 |
 | **[InterWorks](http://www.interworks.com)** | **[IT Intern](https://jobright.ai/jobs/info/6a130792619335383fb3bfc6?utm_campaign=1058&utm_source=git)** | Stillwater Oklahoma | On Site | May 24 |
 | ↳ | **[IT Intern](https://jobright.ai/jobs/info/6a130779619335383fb3bfb4?utm_campaign=1058&utm_source=git)** | Stillwater, Oklahoma, United States | On Site | May 24 |
 | **[Sono Bello](http://sonobello.com)** | **[PAC Operations Intern](https://jobright.ai/jobs/info/69d97b4f5356a60f40fda017?utm_campaign=1058&utm_source=git)** | Bellevue, WA | Hybrid | May 24 |
@@ -65,8 +66,8 @@ For a complete list, click the following sortable link below:
 | **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a1284609f654b3359cf3ac3?utm_campaign=1058&utm_source=git)** | 14885 TELEGRAPH RD,LA MIRADA,CA,90638 | On Site | May 23 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a122e4812f8b43cf398c177?utm_campaign=1058&utm_source=git)** | 940 S FRONTAGE RD,STE 1900,WOODRIDGE,IL,60517 | On Site | May 23 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a1213839fdbf21f36cb563c?utm_campaign=1058&utm_source=git)** | 9202 COMMERCIAL CENTRE DR,BRIDGEVILLE,DE,19933 | On Site | May 23 |
-| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a12128312f8b43cf398bce5?utm_campaign=1058&utm_source=git)** | 4 CENTRAL SQ, BRIDGEWATER, MA, 02324-02509-10562-S | On Site | May 23 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a12128312f8b43cf398bce4?utm_campaign=1058&utm_source=git)** | 951 BOSTON PROVIDENCE TPKE,NORWOOD,MA,02062 | On Site | May 23 |
+| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a12128312f8b43cf398bce5?utm_campaign=1058&utm_source=git)** | 4 CENTRAL SQ, BRIDGEWATER, MA, 02324-02509-10562-S | On Site | May 23 |
 | **[The MetroHealth System (Cleveland, OH)](http://www.metrohealth.org)** | **[Nurse Intern-PM&R/Stroke 5N OBC](https://jobright.ai/jobs/info/69d93cf1b67cec4f9b0a09b0?utm_campaign=1058&utm_source=git)** | Cleveland, OH | On Site | May 23 |
 | ↳ | **[Nurse Intern-PM&R/Brain 8N OBC](https://jobright.ai/jobs/info/69d93cb1869c7e25d85998b6?utm_campaign=1058&utm_source=git)** | Cleveland, OH | On Site | May 23 |
 | **[Trinity Health](http://www.trinity-health.org)** | **[Pharmacy Intern I - Mount Carmel Grove City](https://jobright.ai/jobs/info/69bd522d4828227293ff90f0?utm_campaign=1058&utm_source=git)** | Grove City, OH | On Site | May 23 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern Support Technician - Digital Print Center](https://jobright.ai/jobs/info/6a1038ff9f654b3359cea329?utm_campaign=1058&utm_source=git)** | 6230 East Stassney Lane, Austin 78744 | On Site | May 22 |
 | **[HCA Florida Kendall Hospital](https://kendallmed.com/)** | **[Pharmacist Intern PRN](https://jobright.ai/jobs/info/69f2ea2834c4af7a79ab7e31?utm_campaign=1058&utm_source=git)** | Miami, FL | On Site | May 22 |
 | **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/6a1033959fdbf21f36cad1ad?utm_campaign=1058&utm_source=git)** | 730 S LEWIS ST,METTER,GA,30439-05127-17222-S | On Site | May 22 |
-| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a1033919fdbf21f36cad1ab?utm_campaign=1058&utm_source=git)** | 2270 US HIGHWAY 17,RICHMOND HILL,GA,31324 | On Site | May 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
