@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a122e4812f8b43cf398c177?utm_campaign=1058&utm_source=git)** | 940 S FRONTAGE RD,STE 1900,WOODRIDGE,IL,60517 | On Site | May 23 |
+| **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a1284609f654b3359cf3ac3?utm_campaign=1058&utm_source=git)** | 14885 TELEGRAPH RD,LA MIRADA,CA,90638 | On Site | May 23 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a122e4812f8b43cf398c177?utm_campaign=1058&utm_source=git)** | 940 S FRONTAGE RD,STE 1900,WOODRIDGE,IL,60517 | On Site | May 23 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a1213839fdbf21f36cb563c?utm_campaign=1058&utm_source=git)** | 9202 COMMERCIAL CENTRE DR,BRIDGEVILLE,DE,19933 | On Site | May 23 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a12128312f8b43cf398bce4?utm_campaign=1058&utm_source=git)** | 951 BOSTON PROVIDENCE TPKE,NORWOOD,MA,02062 | On Site | May 23 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a12128312f8b43cf398bce5?utm_campaign=1058&utm_source=git)** | 4 CENTRAL SQ, BRIDGEWATER, MA, 02324-02509-10562-S | On Site | May 23 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a096548a203b1052e449104?utm_campaign=1058&utm_source=git)** | 7120 W 41ST ST,SIOUX FALLS,SD,57106 | On Site | May 21 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a0fc47483d7144289822b3a?utm_campaign=1058&utm_source=git)** | 4521 OLEANDER DR,WILMINGTON,NC,28403 | On Site | May 21 |
 | **[McKee Foods Corporation](http://www.mckeefoods.com/)** | **[IT Asset Intern – Summer 2026](https://jobright.ai/jobs/info/6a0fc1b272b52f7225f403a0?utm_campaign=1058&utm_source=git)** | Collegedale, TN | On Site | May 21 |
-| **[Harmony United Psychiatric Care](https://hupcfl.com)** | **[Psychiatric Office Assistant Internship/Outpatient Clinic (Certification Program)/Orlando](https://jobright.ai/jobs/info/6a1002d5619335383fb30132?utm_campaign=1058&utm_source=git)** | Orlando, FL | On Site | May 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
