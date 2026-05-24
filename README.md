@@ -58,7 +58,9 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a13651069bd827926af8254?utm_campaign=1058&utm_source=git)** | 2000 HIGHWAY 35,OAKHURST,NJ,07755 | On Site | May 24 |
-| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/6a132c569f654b3359cf583e?utm_campaign=1058&utm_source=git)** | 2560 W GOLF RD,HOFFMAN ESTATES,IL,60169-01114-03433-S | On Site | May 24 |
+| **[Mission Health](https://missionhealth.org/)** | **[Pharmacist Intern PRN](https://jobright.ai/jobs/info/6984152d348f733a5c37e1bf?utm_campaign=1058&utm_source=git)** | Marion, NC | On Site | May 24 |
+| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/6a132c569f654b3359cf583e?utm_campaign=1058&utm_source=git)** | 2560 W GOLF RD,HOFFMAN ESTATES,IL,60169-01114-03433-S | On Site | May 24 |
+| **[Hendrickson](http://www.hendrickson-intl.com/Home.aspx)** | **[IT Applications Intern (Fall 2026)](https://jobright.ai/jobs/info/69d1ee04891d7b11cfce791a?utm_campaign=1058&utm_source=git)** | Canton, OH | On Site | May 24 |
 | **[InterWorks](http://www.interworks.com)** | **[IT Intern](https://jobright.ai/jobs/info/6a130792619335383fb3bfc6?utm_campaign=1058&utm_source=git)** | Stillwater Oklahoma | On Site | May 24 |
 | ↳ | **[IT Intern](https://jobright.ai/jobs/info/6a130779619335383fb3bfb4?utm_campaign=1058&utm_source=git)** | Stillwater, Oklahoma, United States | On Site | May 24 |
 | **[Sono Bello](http://sonobello.com)** | **[PAC Operations Intern](https://jobright.ai/jobs/info/69d97b4f5356a60f40fda017?utm_campaign=1058&utm_source=git)** | Bellevue, WA | Hybrid | May 24 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Onto Innovation](http://www.ontoinnovation.com)** | **[Purchasing, Materials Intern](https://jobright.ai/jobs/info/69d6983848f0c8161d2f8c80?utm_campaign=1058&utm_source=git)** | Tucson, AZ | On Site | May 22 |
 | **[RONA](http://www.rona.ca/en)** | **[Motorized order attendant (night) student](https://jobright.ai/jobs/info/69ba808856973837413ff1a4?utm_campaign=1058&utm_source=git)** | Boucherville, QC | On Site | May 22 |
 | **[Texas Department of Transportation](https://www.txdot.gov)** | **[ROW Administration and Technical Support Intern](https://jobright.ai/jobs/info/6a10391783d7144289824aca?utm_campaign=1058&utm_source=git)** | 6230 East Stassney Lane, Austin 78744 | On Site | May 22 |
-| ↳ | **[Intern Support Technician - Digital Print Center](https://jobright.ai/jobs/info/6a1038ff9f654b3359cea329?utm_campaign=1058&utm_source=git)** | 6230 East Stassney Lane, Austin 78744 | On Site | May 22 |
-| **[HCA Florida Kendall Hospital](https://kendallmed.com/)** | **[Pharmacist Intern PRN](https://jobright.ai/jobs/info/69f2ea2834c4af7a79ab7e31?utm_campaign=1058&utm_source=git)** | Miami, FL | On Site | May 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
