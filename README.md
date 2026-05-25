@@ -70,6 +70,8 @@ For a complete list, click the following sortable link below:
 | **[Hendrickson](http://www.hendrickson-intl.com/Home.aspx)** | **[IT Applications Intern (Fall 2026)](https://jobright.ai/jobs/info/69d1ee04891d7b11cfce791a?utm_campaign=1058&utm_source=git)** | Canton, OH | On Site | May 24 |
 | **[InterWorks](http://www.interworks.com)** | **[IT Intern](https://jobright.ai/jobs/info/6a130792619335383fb3bfc6?utm_campaign=1058&utm_source=git)** | Stillwater Oklahoma | On Site | May 24 |
 | ↳ | **[IT Intern](https://jobright.ai/jobs/info/6a130779619335383fb3bfb4?utm_campaign=1058&utm_source=git)** | Stillwater, Oklahoma, United States | On Site | May 24 |
+| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[High School Summer Intern](https://jobright.ai/jobs/info/6a13bb679fdbf21f36cb9dc4?utm_campaign=1058&utm_source=git)** | Honolulu, HI | On Site | May 24 |
+| **[Delta Air Lines](https://www.delta.com/)** | **[Intern, Airport Customer Service (ACS) JFK - NYC Above and Below Wing Ambassador (Summer 2026)](https://jobright.ai/jobs/info/6a13ba5f9f654b3359cf6e1c?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | May 24 |
 | **[Sono Bello](http://sonobello.com)** | **[PAC Operations Intern](https://jobright.ai/jobs/info/69d97b4f5356a60f40fda017?utm_campaign=1058&utm_source=git)** | Bellevue, WA | Hybrid | May 24 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a12d838619335383fb3b740?utm_campaign=1058&utm_source=git)** | 5815 GULL RD,KALAMAZOO,MI,49048 | On Site | May 24 |
 | **[Valley Baptist Health System](https://www.valleybaptist.net)** | **[Student Intern Surgery Per Diem Days](https://jobright.ai/jobs/info/69851aba348f733a5c394779?utm_campaign=1058&utm_source=git)** | Brownsville, TX | On Site | May 24 |
@@ -110,8 +112,8 @@ For a complete list, click the following sortable link below:
 | **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/6a10f9aa83d7144289829a32?utm_campaign=1058&utm_source=git)** | 470 GRANT RD,EAST WENATCHEE,WA,98802-05336-13971-S | On Site | May 22 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a10f9a683d7144289829a2c?utm_campaign=1058&utm_source=git)** | 2105 E WELLESLEY AVE,SPOKANE,WA,99207 | On Site | May 22 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[College Intern 1-4 (PCN 25IN1909)](https://jobright.ai/jobs/info/6a10f56812f8b43cf39885ee?utm_campaign=1058&utm_source=git)** | Anchorage, AK | Hybrid | May 22 |
-| **[Aerospike](http://www.aerospike.com)** | **[IT Intern](https://jobright.ai/jobs/info/6a10f2509f654b3359ceec21?utm_campaign=1058&utm_source=git)** | Mountain View | Hybrid | May 22 |
-| ↳ | **[IT Intern](https://jobright.ai/jobs/info/6a10f2509f654b3359ceec20?utm_campaign=1058&utm_source=git)** | Mountain View, CA | Hybrid | May 22 |
+| **[Aerospike](http://www.aerospike.com)** | **[IT Intern](https://jobright.ai/jobs/info/6a10f2509f654b3359ceec20?utm_campaign=1058&utm_source=git)** | Mountain View, CA | Hybrid | May 22 |
+| ↳ | **[IT Intern](https://jobright.ai/jobs/info/6a10f2509f654b3359ceec21?utm_campaign=1058&utm_source=git)** | Mountain View | Hybrid | May 22 |
 | **[LP Hospitality Group](https://www.lobsterplace.com)** | **[Retail Fish Cutter (Internship)](https://jobright.ai/jobs/info/6a11128712f8b43cf39891df?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | May 22 |
 | **[NYU Langone Health](https://nyulangone.org/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69f440c4461b9b613a626171?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | May 22 |
 | **[Cadence Education](http://www.cadence-education.com/)** | **[Enrollment Specialist Intern](https://jobright.ai/jobs/info/6a10e07b12f8b43cf3987c15?utm_campaign=1058&utm_source=git)** | Scottsdale, AZ, US | Hybrid | May 22 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a107c279fdbf21f36caec3e?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | May 22 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a11104769bd827926af22bd?utm_campaign=1058&utm_source=git)** | Los Angeles, CA | On Site | May 22 |
 | **[Watson Companies](http://gowatsonco.com)** | **[Clinical Operations & Patient Coordination Intern](https://jobright.ai/jobs/info/6a1074bc619335383fb32b0f?utm_campaign=1058&utm_source=git)** | Chapel Hill, NC | On Site | May 22 |
-| **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[IT Support Intern- Fall 2026](https://jobright.ai/jobs/info/6a10717b69bd827926aee592?utm_campaign=1058&utm_source=git)** | Tampa, FL, US | On Site | May 22 |
-| ↳ | **[IT Support Intern- Fall 2026](https://jobright.ai/jobs/info/6a10717669bd827926aee591?utm_campaign=1058&utm_source=git)** | US-FL-Tampa | On Site | May 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
