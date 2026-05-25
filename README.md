@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[WuXi AppTec](https://www.wuxiapptec.com)** | **[QC Document Control Intern](https://jobright.ai/jobs/info/6a147379c48b503aeffbef40?utm_campaign=1058&utm_source=git)** | Middletown, DE | On Site | May 25 |
 | **[Indie Campers](https://indiecampers.com/)** | **[Tourism & Operations Internship](https://jobright.ai/jobs/info/6a1457bb554b0e12c057ed60?utm_campaign=1058&utm_source=git)** | Berlin Depot | On Site | May 25 |
 | **[CommunityCare HMO Inc.](https://www.linkedin.com/company/54432740)** | **[Reporting - Seasonal Intern - Medical Records Clerk](https://jobright.ai/jobs/info/6a13f5dc9f654b3359cf826f?utm_campaign=1058&utm_source=git)** | Tulsa, OK | On Site | May 25 |
 | **[Cross Insurance](https://www.crossagency.com/)** | **[Intern - Personal Lines](https://jobright.ai/jobs/info/6a13ce9958ee291d8052d863?utm_campaign=1058&utm_source=git)** | US - MA - Beverly, US | On Site | May 24 |
@@ -99,12 +100,12 @@ For a complete list, click the following sortable link below:
 | **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a13d5769fdbf21f36cba8e2?utm_campaign=1058&utm_source=git)** | Topeka, KS | On Site | May 23 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a13d58612f8b43cf3990a41?utm_campaign=1058&utm_source=git)** | Palm Coast, FL | On Site | May 23 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a13d5769fdbf21f36cba8e7?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | On Site | May 23 |
-| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a13d5769fdbf21f36cba8e6?utm_campaign=1058&utm_source=git)** | Dallas, TX | On Site | May 23 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a13d5b1619335383fb3e754?utm_campaign=1058&utm_source=git)** | Albany, GA | On Site | May 23 |
+| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a13d5769fdbf21f36cba8e6?utm_campaign=1058&utm_source=git)** | Dallas, TX | On Site | May 23 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a13d55f9f654b3359cf796c?utm_campaign=1058&utm_source=git)** | Frankfort, IL | On Site | May 23 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a13d55f9f654b3359cf7972?utm_campaign=1058&utm_source=git)** | Lawrence, KS | On Site | May 23 |
-| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a13d5b1619335383fb3e752?utm_campaign=1058&utm_source=git)** | Wichita, KS | On Site | May 23 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a13d5b1619335383fb3e751?utm_campaign=1058&utm_source=git)** | Ocala, FL | On Site | May 23 |
+| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a13d5b1619335383fb3e752?utm_campaign=1058&utm_source=git)** | Wichita, KS | On Site | May 23 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Customer Feedback Analyst – Bus Location Information, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69f5a0570b36ff035475299e?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | May 23 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a0490b722395b6dc6d9e7f3?utm_campaign=1058&utm_source=git)** | 121 N NORTHSHORE DR,KNOXVILLE,TN,37919 | On Site | May 23 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[High School Summer Intern](https://jobright.ai/jobs/info/6a11bedc83d714428982c702?utm_campaign=1058&utm_source=git)** | Hawaii-Honolulu-Moanalua Ancillary Building | On Site | May 23 |
@@ -112,7 +113,7 @@ For a complete list, click the following sortable link below:
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[IS Services & Support Intern (or Co-Op)](https://jobright.ai/jobs/info/6a0d44e222d0d34036c9cbd5?utm_campaign=1058&utm_source=git)** | Atlanta, GA | On Site | May 23 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[IT Client Support, Technology & Engineer Fellow (Fall)](https://jobright.ai/jobs/info/69f5a02243a25828a8d19367?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | May 23 |
 | **[Astrolab](https://www.astrolab.mx)** | **[IT Service Desk Engineer Intern](https://jobright.ai/jobs/info/6a13fb049fdbf21f36cbb5ec?utm_campaign=1058&utm_source=git)** | Hawthorne, CA, US | On Site | May 23 |
-| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[High School Summer Intern](https://jobright.ai/jobs/info/6a13cf999f654b3359cf76da?utm_campaign=1058&utm_source=git)** | Honolulu, HI | On Site | May 23 |
+| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[High School Summer Intern](https://jobright.ai/jobs/info/6a13cf999f654b3359cf76d9?utm_campaign=1058&utm_source=git)** | Honolulu, HI | On Site | May 23 |
 | **[Athena](https://athenapsych.com)** | **[IT Intern](https://jobright.ai/jobs/info/6a1198f4619335383fb38269?utm_campaign=1058&utm_source=git)** | Rochester, NY | On Site | May 23 |
 | **[Presence](https://presence.com)** | **[Paid Internship- In-Person Therapy Support Specialist](https://jobright.ai/jobs/info/6a1194bf9f654b3359cf1487?utm_campaign=1058&utm_source=git)** | Rockford, IL, US | On Site | May 23 |
 | **[Hyatt](http://www.hyatt.com/)** | **[Summer 2026 - College Intern - Front Desk](https://jobright.ai/jobs/info/69679305f25a38006695e855?utm_campaign=1058&utm_source=git)** | San Antonio, TX | On Site | May 23 |
@@ -155,6 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Tucker Materials](https://tuckermat.com)** | **[Intern](https://jobright.ai/jobs/info/6a10f26f83d7144289829429?utm_campaign=1058&utm_source=git)** | Omaha, NE | On Site | May 22 |
 | **[Virgo Health](http://www.virgohealth.com/)** | **[Client Services Intern](https://jobright.ai/jobs/info/6a10b66483d7144289827ee6?utm_campaign=1058&utm_source=git)** | NYC office | Hybrid | May 22 |
 | ↳ | **[Client Services Intern](https://jobright.ai/jobs/info/6a10b65a83d7144289827ee5?utm_campaign=1058&utm_source=git)** | New York, New York, United States | Hybrid | May 22 |
-| **[Central Bank](https://www.centralbank.net/)** | **[Trust Intern](https://jobright.ai/jobs/info/6a10f0f39fdbf21f36cb1930?utm_campaign=1058&utm_source=git)** | Jefferson City, MO | On Site | May 22 |
 | **[Kasa](http://www.kasa.com)** | **[Hotel Operations Internship](https://jobright.ai/jobs/info/6a10ef3b619335383fb35665?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | On Site | May 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
