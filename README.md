@@ -101,8 +101,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a13d5769fdbf21f36cba8e7?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | On Site | May 23 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a13d5b1619335383fb3e754?utm_campaign=1058&utm_source=git)** | Albany, GA | On Site | May 23 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a13d5769fdbf21f36cba8e6?utm_campaign=1058&utm_source=git)** | Dallas, TX | On Site | May 23 |
-| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a13d55f9f654b3359cf796c?utm_campaign=1058&utm_source=git)** | Frankfort, IL | On Site | May 23 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a13d55f9f654b3359cf7972?utm_campaign=1058&utm_source=git)** | Lawrence, KS | On Site | May 23 |
+| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a13d55f9f654b3359cf796c?utm_campaign=1058&utm_source=git)** | Frankfort, IL | On Site | May 23 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a13d5b1619335383fb3e752?utm_campaign=1058&utm_source=git)** | Wichita, KS | On Site | May 23 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a13d5b1619335383fb3e751?utm_campaign=1058&utm_source=git)** | Ocala, FL | On Site | May 23 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Customer Feedback Analyst – Bus Location Information, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69f5a0570b36ff035475299e?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | May 23 |
@@ -130,7 +130,6 @@ For a complete list, click the following sortable link below:
 | **[Children's Hospital Colorado](https://www.childrenscolorado.org)** | **[Pharmacy Intern North South Float PRN](https://jobright.ai/jobs/info/69d81005738f2f099e89a81e?utm_campaign=1058&utm_source=git)** | Broomfield, CO | On Site | May 22 |
 | **[NextGen Federal Systems](https://www.nextgenfed.com/)** | **[Business Support Intern](https://jobright.ai/jobs/info/6a1128399f654b3359cf0313?utm_campaign=1058&utm_source=git)** | USA | Remote | May 22 |
 | **[Accel Entertainment](http://accelentertainment.com)** | **[IT Intern](https://jobright.ai/jobs/info/6a04b9baf811a0436960de67?utm_campaign=1058&utm_source=git)** | Burr Ridge, IL | On Site | May 22 |
-| **[Highgate](https://www.highgate.com)** | **[Intern](https://jobright.ai/jobs/info/6a111741619335383fb36b04?utm_campaign=1058&utm_source=git)** | US-NY-New York | On Site | May 22 |
 | **[Leidos Australia](https://www.leidos.com/company/global/australia)** | **[Power Platform Intern](https://jobright.ai/jobs/info/6a1112a39fdbf21f36cb2a78?utm_campaign=1058&utm_source=git)** | Remote, Virginia, United States | Remote | May 22 |
 | **[Cadence Education](http://www.cadence-education.com/)** | **[Enrollment Specialist Intern](https://jobright.ai/jobs/info/6a11000083d7144289829cb8?utm_campaign=1058&utm_source=git)** | Scottsdale, AZ | On Site | May 22 |
 | **[UICGS / Bowhead Family of Companies](http://www.bowhead.com)** | **[General Clerk III](https://jobright.ai/jobs/info/69d7d7cc869c7e25d8591dd0?utm_campaign=1058&utm_source=git)** | Newark, NJ | On Site | May 22 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Virgo Health](http://www.virgohealth.com/)** | **[Client Services Intern](https://jobright.ai/jobs/info/6a10b66483d7144289827ee6?utm_campaign=1058&utm_source=git)** | NYC office | Hybrid | May 22 |
 | ↳ | **[Client Services Intern](https://jobright.ai/jobs/info/6a10b65a83d7144289827ee5?utm_campaign=1058&utm_source=git)** | New York, New York, United States | Hybrid | May 22 |
 | **[Central Bank](https://www.centralbank.net/)** | **[Trust Intern](https://jobright.ai/jobs/info/6a10f0f39fdbf21f36cb1930?utm_campaign=1058&utm_source=git)** | Jefferson City, MO | On Site | May 22 |
+| **[Kasa](http://www.kasa.com)** | **[Hotel Operations Internship](https://jobright.ai/jobs/info/6a10ef3b619335383fb35665?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | On Site | May 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
