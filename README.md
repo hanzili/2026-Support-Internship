@@ -130,8 +130,8 @@ For a complete list, click the following sortable link below:
 | **[Gypsum Management and Supply](http://www.gms.com)** | **[Intern](https://jobright.ai/jobs/info/6a11095d69bd827926af1f31?utm_campaign=1058&utm_source=git)** | Omaha, NE | On Site | May 22 |
 | **[SchoolSpring](http://www.schoolspring.com)** | **[Technology Intern - Summer Help Position](https://jobright.ai/jobs/info/6a10a2779f654b3359ced267?utm_campaign=1058&utm_source=git)** | District Office - Fort Mill, South Carolina | On Site | May 22 |
 | **[TotalEnergies](https://ventures.totalenergies.com)** | **[IT Communications and Technical Analyst Intern](https://jobright.ai/jobs/info/69d82ae9b861c42857c492eb?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | May 22 |
-| **[Kasa](http://www.kasa.com)** | **[Hotel Operations Internship](https://jobright.ai/jobs/info/6a109c8212f8b43cf3986588?utm_campaign=1058&utm_source=git)** | USA | On Site | May 22 |
-| ↳ | **[Hotel Operations Internship](https://jobright.ai/jobs/info/6a109c8212f8b43cf3986589?utm_campaign=1058&utm_source=git)** | Pittsburgh, Pennsylvania | On Site | May 22 |
+| **[Kasa](http://www.kasa.com)** | **[Hotel Operations Internship](https://jobright.ai/jobs/info/6a109c8212f8b43cf3986589?utm_campaign=1058&utm_source=git)** | Pittsburgh, Pennsylvania | On Site | May 22 |
+| ↳ | **[Hotel Operations Internship](https://jobright.ai/jobs/info/6a109c8212f8b43cf3986588?utm_campaign=1058&utm_source=git)** | USA | On Site | May 22 |
 | **[Mercy Chefs](https://mercychefs.com)** | **[Donor Care Intern](https://jobright.ai/jobs/info/6a108d969f654b3359ceca55?utm_campaign=1058&utm_source=git)** | Portsmouth, Virginia, United States | On Site | May 22 |
 | **[Sherpa 6, Inc.](https://sherpa6.com)** | **[Information Technology Specialist - Intern](https://jobright.ai/jobs/info/6a108c4569bd827926aef0b7?utm_campaign=1058&utm_source=git)** | Spring Lake,NC,US | On Site | May 22 |
 | **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/6a10898f9f654b3359cec7d7?utm_campaign=1058&utm_source=git)** | 2785 DUBLIN BLVD,COLORADO SPRINGS,CO,80918 | On Site | May 22 |
