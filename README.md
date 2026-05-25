@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Indie Campers](https://indiecampers.com/)** | **[Tourism & Operations Internship](https://jobright.ai/jobs/info/6a1457bb554b0e12c057ed60?utm_campaign=1058&utm_source=git)** | Berlin Depot | On Site | May 25 |
 | **[CommunityCare HMO Inc.](https://www.linkedin.com/company/54432740)** | **[Reporting - Seasonal Intern - Medical Records Clerk](https://jobright.ai/jobs/info/6a13f5dc9f654b3359cf826f?utm_campaign=1058&utm_source=git)** | Tulsa, OK | On Site | May 25 |
 | **[Cross Insurance](https://www.crossagency.com/)** | **[Intern - Personal Lines](https://jobright.ai/jobs/info/6a13ce9958ee291d8052d863?utm_campaign=1058&utm_source=git)** | US - MA - Beverly, US | On Site | May 24 |
 | **[Formic](https://formic.co)** | **[Summer 2026 Intern](https://jobright.ai/jobs/info/6a13b0d79fdbf21f36cb98f3?utm_campaign=1058&utm_source=git)** | San Francisco, CA | On Site | May 24 |
@@ -72,6 +73,7 @@ For a complete list, click the following sortable link below:
 | **[Hendrickson](http://www.hendrickson-intl.com/Home.aspx)** | **[IT Applications Intern (Fall 2026)](https://jobright.ai/jobs/info/69d1ee04891d7b11cfce791a?utm_campaign=1058&utm_source=git)** | Canton, OH | On Site | May 24 |
 | **[InterWorks](http://www.interworks.com)** | **[IT Intern](https://jobright.ai/jobs/info/6a130792619335383fb3bfc6?utm_campaign=1058&utm_source=git)** | Stillwater Oklahoma | On Site | May 24 |
 | ↳ | **[IT Intern](https://jobright.ai/jobs/info/6a130779619335383fb3bfb4?utm_campaign=1058&utm_source=git)** | Stillwater, Oklahoma, United States | On Site | May 24 |
+| **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Access Your Future Service Intern](https://jobright.ai/jobs/info/68c0740f8e65e77df55c137f?utm_campaign=1058&utm_source=git)** | Cheyenne, WY | On Site | May 24 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[High School Summer Intern](https://jobright.ai/jobs/info/6a13bb679fdbf21f36cb9dc4?utm_campaign=1058&utm_source=git)** | Honolulu, HI | On Site | May 24 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Intern, Airport Customer Service (ACS) JFK - NYC Above and Below Wing Ambassador (Summer 2026)](https://jobright.ai/jobs/info/6a13ba5f9f654b3359cf6e1c?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | May 24 |
 | **[Sono Bello](http://sonobello.com)** | **[PAC Operations Intern](https://jobright.ai/jobs/info/69d97b4f5356a60f40fda017?utm_campaign=1058&utm_source=git)** | Bellevue, WA | Hybrid | May 24 |
@@ -81,8 +83,8 @@ For a complete list, click the following sortable link below:
 | **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a1284609f654b3359cf3ac3?utm_campaign=1058&utm_source=git)** | 14885 TELEGRAPH RD,LA MIRADA,CA,90638 | On Site | May 23 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a122e4812f8b43cf398c177?utm_campaign=1058&utm_source=git)** | 940 S FRONTAGE RD,STE 1900,WOODRIDGE,IL,60517 | On Site | May 23 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a1213839fdbf21f36cb563c?utm_campaign=1058&utm_source=git)** | 9202 COMMERCIAL CENTRE DR,BRIDGEVILLE,DE,19933 | On Site | May 23 |
-| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a12128312f8b43cf398bce4?utm_campaign=1058&utm_source=git)** | 951 BOSTON PROVIDENCE TPKE,NORWOOD,MA,02062 | On Site | May 23 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a12128312f8b43cf398bce5?utm_campaign=1058&utm_source=git)** | 4 CENTRAL SQ, BRIDGEWATER, MA, 02324-02509-10562-S | On Site | May 23 |
+| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a12128312f8b43cf398bce4?utm_campaign=1058&utm_source=git)** | 951 BOSTON PROVIDENCE TPKE,NORWOOD,MA,02062 | On Site | May 23 |
 | **[University of La Verne](http://laverne.edu)** | **[ISSA Student Assistant (2026/2027)](https://jobright.ai/jobs/info/6a13c83912f8b43cf3990319?utm_campaign=1058&utm_source=git)** | La Verne, CA | On Site | May 23 |
 | **[The MetroHealth System (Cleveland, OH)](http://www.metrohealth.org)** | **[Nurse Intern-PM&R/Stroke 5N OBC](https://jobright.ai/jobs/info/69d93cf1b67cec4f9b0a09b0?utm_campaign=1058&utm_source=git)** | Cleveland, OH | On Site | May 23 |
 | ↳ | **[Nurse Intern-PM&R/Brain 8N OBC](https://jobright.ai/jobs/info/69d93cb1869c7e25d85998b6?utm_campaign=1058&utm_source=git)** | Cleveland, OH | On Site | May 23 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Virgo Health](http://www.virgohealth.com/)** | **[Client Services Intern](https://jobright.ai/jobs/info/6a10b66483d7144289827ee6?utm_campaign=1058&utm_source=git)** | NYC office | Hybrid | May 22 |
 | ↳ | **[Client Services Intern](https://jobright.ai/jobs/info/6a10b65a83d7144289827ee5?utm_campaign=1058&utm_source=git)** | New York, New York, United States | Hybrid | May 22 |
 | **[Central Bank](https://www.centralbank.net/)** | **[Trust Intern](https://jobright.ai/jobs/info/6a10f0f39fdbf21f36cb1930?utm_campaign=1058&utm_source=git)** | Jefferson City, MO | On Site | May 22 |
-| **[Kasa](http://www.kasa.com)** | **[Hotel Operations Internship](https://jobright.ai/jobs/info/6a10ef3b619335383fb35665?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | On Site | May 22 |
-| **[United Merchant Services, Inc.](http://www.unitedmerchant.com/)** | **[Summer IT Support Intern - Korean Bilingual](https://jobright.ai/jobs/info/6a10f0fc12f8b43cf39881b3?utm_campaign=1058&utm_source=git)** | Hackensack, NJ | On Site | May 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
