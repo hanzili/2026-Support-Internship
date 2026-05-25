@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CommunityCare HMO Inc.](https://www.linkedin.com/company/54432740)** | **[Reporting - Seasonal Intern - Medical Records Clerk](https://jobright.ai/jobs/info/6a13f5dc9f654b3359cf826f?utm_campaign=1058&utm_source=git)** | Tulsa, OK | On Site | May 25 |
 | **[Cross Insurance](https://www.crossagency.com/)** | **[Intern - Personal Lines](https://jobright.ai/jobs/info/6a13ce9958ee291d8052d863?utm_campaign=1058&utm_source=git)** | US - MA - Beverly, US | On Site | May 24 |
 | **[Formic](https://formic.co)** | **[Summer 2026 Intern](https://jobright.ai/jobs/info/6a13b0d79fdbf21f36cb98f3?utm_campaign=1058&utm_source=git)** | San Francisco, CA | On Site | May 24 |
 | ↳ | **[Summer 2026 Intern](https://jobright.ai/jobs/info/6a13b0d49fdbf21f36cb98ef?utm_campaign=1058&utm_source=git)** | Oakland, CA | On Site | May 24 |
@@ -78,11 +79,10 @@ For a complete list, click the following sortable link below:
 | **[Valley Baptist Health System](https://www.valleybaptist.net)** | **[Student Intern Surgery Per Diem Days](https://jobright.ai/jobs/info/69851aba348f733a5c394779?utm_campaign=1058&utm_source=git)** | Brownsville, TX | On Site | May 24 |
 | **[MVP Health Care](https://www.mvphealthcare.com)** | **[Intern, Customer Experience Research](https://jobright.ai/jobs/info/69bc80905b89c002acf23f2b?utm_campaign=1058&utm_source=git)** | Schenectady, NY | Hybrid | May 24 |
 | **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a1284609f654b3359cf3ac3?utm_campaign=1058&utm_source=git)** | 14885 TELEGRAPH RD,LA MIRADA,CA,90638 | On Site | May 23 |
-| **[Methodist Le Bonheur Healthcare](https://www.methodisthealth.org/)** | **[RESPIRATORY STUDENT INTERN](https://jobright.ai/jobs/info/69f529ec81706a5bd2165263?utm_campaign=1058&utm_source=git)** | Memphis, TN | On Site | May 23 |
-| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a122e4812f8b43cf398c177?utm_campaign=1058&utm_source=git)** | 940 S FRONTAGE RD,STE 1900,WOODRIDGE,IL,60517 | On Site | May 23 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a122e4812f8b43cf398c177?utm_campaign=1058&utm_source=git)** | 940 S FRONTAGE RD,STE 1900,WOODRIDGE,IL,60517 | On Site | May 23 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a1213839fdbf21f36cb563c?utm_campaign=1058&utm_source=git)** | 9202 COMMERCIAL CENTRE DR,BRIDGEVILLE,DE,19933 | On Site | May 23 |
-| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a12128312f8b43cf398bce4?utm_campaign=1058&utm_source=git)** | 951 BOSTON PROVIDENCE TPKE,NORWOOD,MA,02062 | On Site | May 23 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a12128312f8b43cf398bce5?utm_campaign=1058&utm_source=git)** | 4 CENTRAL SQ, BRIDGEWATER, MA, 02324-02509-10562-S | On Site | May 23 |
+| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a12128312f8b43cf398bce4?utm_campaign=1058&utm_source=git)** | 951 BOSTON PROVIDENCE TPKE,NORWOOD,MA,02062 | On Site | May 23 |
 | **[University of La Verne](http://laverne.edu)** | **[ISSA Student Assistant (2026/2027)](https://jobright.ai/jobs/info/6a13c83912f8b43cf3990319?utm_campaign=1058&utm_source=git)** | La Verne, CA | On Site | May 23 |
 | **[The MetroHealth System (Cleveland, OH)](http://www.metrohealth.org)** | **[Nurse Intern-PM&R/Stroke 5N OBC](https://jobright.ai/jobs/info/69d93cf1b67cec4f9b0a09b0?utm_campaign=1058&utm_source=git)** | Cleveland, OH | On Site | May 23 |
 | ↳ | **[Nurse Intern-PM&R/Brain 8N OBC](https://jobright.ai/jobs/info/69d93cb1869c7e25d85998b6?utm_campaign=1058&utm_source=git)** | Cleveland, OH | On Site | May 23 |
@@ -104,19 +104,23 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a13d5b1619335383fb3e752?utm_campaign=1058&utm_source=git)** | Wichita, KS | On Site | May 23 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a13d5b1619335383fb3e751?utm_campaign=1058&utm_source=git)** | Ocala, FL | On Site | May 23 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Customer Feedback Analyst – Bus Location Information, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69f5a0570b36ff035475299e?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | May 23 |
-| ↳ | **[IT Client Support, Technology & Engineer Fellow (Fall)](https://jobright.ai/jobs/info/69f5a02243a25828a8d19367?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | May 23 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a0490b722395b6dc6d9e7f3?utm_campaign=1058&utm_source=git)** | 121 N NORTHSHORE DR,KNOXVILLE,TN,37919 | On Site | May 23 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[High School Summer Intern](https://jobright.ai/jobs/info/6a11bedc83d714428982c702?utm_campaign=1058&utm_source=git)** | Hawaii-Honolulu-Moanalua Ancillary Building | On Site | May 23 |
 | **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/6a11bdd783d714428982c6c4?utm_campaign=1058&utm_source=git)** | 934 N HACIENDA BLVD,LA PUENTE,CA,91744 | On Site | May 23 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[IS Services & Support Intern (or Co-Op)](https://jobright.ai/jobs/info/6a0d44e222d0d34036c9cbd5?utm_campaign=1058&utm_source=git)** | Atlanta, GA | On Site | May 23 |
+| **[Metropolitan Transportation Authority](https:/mta.info/)** | **[IT Client Support, Technology & Engineer Fellow (Fall)](https://jobright.ai/jobs/info/69f5a02243a25828a8d19367?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | May 23 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[High School Summer Intern](https://jobright.ai/jobs/info/6a13cf999f654b3359cf76d9?utm_campaign=1058&utm_source=git)** | Honolulu, HI | On Site | May 23 |
 | **[Athena](https://athenapsych.com)** | **[IT Intern](https://jobright.ai/jobs/info/6a1198f4619335383fb38269?utm_campaign=1058&utm_source=git)** | Rochester, NY | On Site | May 23 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[High School Summer Intern](https://jobright.ai/jobs/info/6a13e35f58ee291d8052de9a?utm_campaign=1058&utm_source=git)** | Honolulu, HI | On Site | May 23 |
 | **[Presence](https://presence.com)** | **[Paid Internship- In-Person Therapy Support Specialist](https://jobright.ai/jobs/info/6a1194bf9f654b3359cf1487?utm_campaign=1058&utm_source=git)** | Rockford, IL, US | On Site | May 23 |
 | **[Hyatt](http://www.hyatt.com/)** | **[Summer 2026 - College Intern - Front Desk](https://jobright.ai/jobs/info/69679305f25a38006695e855?utm_campaign=1058&utm_source=git)** | San Antonio, TX | On Site | May 23 |
 | **[Sono Bello](http://sonobello.com)** | **[Intern- IT Helpdesk](https://jobright.ai/jobs/info/69d97c0a738f2f099e8a2258?utm_campaign=1058&utm_source=git)** | Bellevue, WA | Hybrid | May 23 |
+| **[Methodist Le Bonheur Healthcare](https://www.methodisthealth.org/)** | **[RESPIRATORY STUDENT INTERN](https://jobright.ai/jobs/info/69f529ec81706a5bd2165263?utm_campaign=1058&utm_source=git)** | Memphis, TN | On Site | May 23 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a11866883d714428982ba8b?utm_campaign=1058&utm_source=git)** | 1100 E MAIN ST,REEDSBURG,WI,53959 | On Site | May 23 |
 | **[Kirtland Credit Union](https://kirtlandcu.org/)** | **[Intern](https://jobright.ai/jobs/info/6a11806a69bd827926af399a?utm_campaign=1058&utm_source=git)** | Albuquerque, NM, US | On Site | May 23 |
+| **[BCFS Health & Human Services](https://bcfshhs.org)** | **[Program Intern](https://jobright.ai/jobs/info/69d976b75356a60f40fd9ddd?utm_campaign=1058&utm_source=git)** | Lufkin, TX | On Site | May 23 |
+| **[Leidos](https://www.leidos.com)** | **[Power Platform Intern](https://jobright.ai/jobs/info/6a13f3d383d7144289832b00?utm_campaign=1058&utm_source=git)** | United States | Remote | May 23 |
+| **[Fred Meyer](https://www.fredmeyer.com/)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/6a13f0089f654b3359cf7d7c?utm_campaign=1058&utm_source=git)** | Happy Valley, OR | On Site | May 22 |
 | **[Hannaford Supermarkets](https://www.hannaford.com/)** | **[P4 Rx Intern ($26/ hr)](https://jobright.ai/jobs/info/69d76e02366bb95ba555508e?utm_campaign=1058&utm_source=git)** | Keene, NH | On Site | May 22 |
 | **[Royal Ontario Museum](http://www.rom.on.ca/)** | **[Visitor Experience Concierge Intern](https://jobright.ai/jobs/info/6a11470469bd827926af3154?utm_campaign=1058&utm_source=git)** | Toronto, ON, Canada | On Site | May 22 |
 | **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[CT Intern, Mercy South](https://jobright.ai/jobs/info/69d897bd869c7e25d85969d4?utm_campaign=1058&utm_source=git)** | St Louis, MO | On Site | May 22 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Central Bank](https://www.centralbank.net/)** | **[Trust Intern](https://jobright.ai/jobs/info/6a10f0f39fdbf21f36cb1930?utm_campaign=1058&utm_source=git)** | Jefferson City, MO | On Site | May 22 |
 | **[Kasa](http://www.kasa.com)** | **[Hotel Operations Internship](https://jobright.ai/jobs/info/6a10ef3b619335383fb35665?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | On Site | May 22 |
 | **[United Merchant Services, Inc.](http://www.unitedmerchant.com/)** | **[Summer IT Support Intern - Korean Bilingual](https://jobright.ai/jobs/info/6a10f0fc12f8b43cf39881b3?utm_campaign=1058&utm_source=git)** | Hackensack, NJ | On Site | May 22 |
-| **[Mississippi Votes](msvotes.org)** | **[2026 Summer Internship Application](https://jobright.ai/jobs/info/6a10f2789fdbf21f36cb1b1e?utm_campaign=1058&utm_source=git)** | Jackson, MS | On Site | May 22 |
-| **[Coastal Carolina University](http://www.coastal.edu/)** | **[Pantry Assistant (Student Assistant)](https://jobright.ai/jobs/info/69f26956825a315d7ca3c6b7?utm_campaign=1058&utm_source=git)** | Conway, SC | On Site | May 22 |
-| **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/6a10a44812f8b43cf398688b?utm_campaign=1058&utm_source=git)** | 750 W WHEATLAND RD,DUNCANVILLE,TX,75116 | On Site | May 22 |
-| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a10a43d12f8b43cf3986884?utm_campaign=1058&utm_source=git)** | 1104 S WESTMORELAND RD,DALLAS,TX,75211-05651-03956-S | On Site | May 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
