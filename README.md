@@ -57,8 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TST Fab & Machine](https://www.tstfab.com/)** | **[Intern – Genius Systems Support Assistant](https://jobright.ai/jobs/info/6a160ce2128680351d967445?utm_campaign=1058&utm_source=git)** | Norfolk, VA | On Site | May 26 |
+| **[Perkins&Will](http://perkinswill.com)** | **[IT Intern](https://jobright.ai/jobs/info/6a1605d31935fa61b3c6df78?utm_campaign=1058&utm_source=git)** | Chicago, Illinois, United States | On Site | May 26 |
+| ↳ | **[IT Intern](https://jobright.ai/jobs/info/6a1605d21935fa61b3c6df76?utm_campaign=1058&utm_source=git)** | Durham, North Carolina, United States | On Site | May 26 |
+| **[Everon](https://www.everonsolutions.com)** | **[Product Support Intern](https://jobright.ai/jobs/info/6a16046b128680351d966ff3?utm_campaign=1058&utm_source=git)** | Irving, TX | On Site | May 26 |
+| **[Lunds & Byerlys](http://lundsandbyerlys.com)** | **[System Support Intern](https://jobright.ai/jobs/info/6a160416dc845f4be5bdb9fb?utm_campaign=1058&utm_source=git)** | 7752 Mitchell Road, Eden Prairie, MN, USA | On Site | May 26 |
+| **[Harris Teeter](http://www.harristeeter.com)** | **[Part Time Pharmacy Graduate-Wilmington Market  Intern](https://jobright.ai/jobs/info/6a15ffe7128680351d966af2?utm_campaign=1058&utm_source=git)** | WILMINGTON, NORTH CAROLINA, STORE 191 - WILMINGTON-PORTERS NECK | On Site | May 26 |
+| **[InterWorks](http://www.interworks.com)** | **[IT Intern](https://jobright.ai/jobs/info/6a15ff25128680351d96693d?utm_campaign=1058&utm_source=git)** | Stillwater, Oklahoma | On Site | May 26 |
+| **[Maxwood Furniture](https://maxwoodfurniture.com/)** | **[Associate IT Support Intern](https://jobright.ai/jobs/info/6a15fd9d1935fa61b3c6d500?utm_campaign=1058&utm_source=git)** | 125 Fairchild St, Charleston, 29492, US | On Site | May 26 |
 | **[Kasa](http://www.kasa.com)** | **[Hotel Operations Internship](https://jobright.ai/jobs/info/6a10ef3b619335383fb35665?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | On Site | May 26 |
-| **[Pixelogic Media](https://www.pixelogicmedia.com/)** | **[Intern, Technical Support Engineering](https://jobright.ai/jobs/info/6a15f18e128680351d966031?utm_campaign=1058&utm_source=git)** | Culver City, CA | On Site | May 26 |
 | **[Davidson Hospitality Group](https://davidsonhospitality.com/)** | **[Intern Rooms](https://jobright.ai/jobs/info/6a15ee7b554b0e12c05875ee?utm_campaign=1058&utm_source=git)** | US-FL-Miami Beach | On Site | May 26 |
 | **[Hotel Zephyr Fisherman's Wharf, San Francisco](https://www.hotelzephyrsf.com/)** | **[Intern Rooms](https://jobright.ai/jobs/info/6a15ed22a429fd279da93934?utm_campaign=1058&utm_source=git)** | US-FL-Miami Beach | On Site | May 26 |
 | ↳ | **[Intern Rooms](https://jobright.ai/jobs/info/6a15ed1ea429fd279da93931?utm_campaign=1058&utm_source=git)** | Miami Beach, FL, US | On Site | May 26 |
@@ -70,7 +77,6 @@ For a complete list, click the following sortable link below:
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a15ea8d554b0e12c05873f9?utm_campaign=1058&utm_source=git)** | 6906 UNIVERSITY BLVD,MOON TOWNSHIP,PA,15108-04248-10917-S | On Site | May 26 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a15ea80dc845f4be5bda4d4?utm_campaign=1058&utm_source=git)** | 20260 ROUTE 19,CRANBERRY TOWNSHIP,PA,16066 | On Site | May 26 |
 | **[Leviton](https://www.leviton.com)** | **[Intern, IT Infrastructure (Summer)](https://jobright.ai/jobs/info/6a15e9dc128680351d965bed?utm_campaign=1058&utm_source=git)** | Melville, NY | On Site | May 26 |
-| **[Lunds & Byerlys](http://lundsandbyerlys.com)** | **[System Support Intern](https://jobright.ai/jobs/info/6a15e792dc845f4be5bda3b4?utm_campaign=1058&utm_source=git)** | 7752 Mitchell Road, Eden Prairie, MN, USA | On Site | May 26 |
 | **[TST Fab & Machine](https://www.tstfab.com/)** | **[Intern – Genius Systems Support Assistant](https://jobright.ai/jobs/info/6a15e7561935fa61b3c6caaa?utm_campaign=1058&utm_source=git)** | Norfolk, VA, 23517, United States | On Site | May 26 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a15e6f10073182bd92ae058?utm_campaign=1058&utm_source=git)** | Atlanta, GA | On Site | May 26 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a15e6e6dc845f4be5bda35b?utm_campaign=1058&utm_source=git)** | Greencastle, PA | On Site | May 26 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a14949ec48b503aeffbf51d?utm_campaign=1058&utm_source=git)** | Howell, MI | On Site | May 25 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a14949dbc9bff375af0192f?utm_campaign=1058&utm_source=git)** | Linton, IN | On Site | May 25 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a149495128680351d95e0b7?utm_campaign=1058&utm_source=git)** | Baton Rouge, LA | On Site | May 25 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a149492738a270c8bfa81cf?utm_campaign=1058&utm_source=git)** | Evansville, IN | On Site | May 25 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a149487738a270c8bfa81cd?utm_campaign=1058&utm_source=git)** | Gulfport, MS | On Site | May 25 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a149482554b0e12c057f7b8?utm_campaign=1058&utm_source=git)** | Athens, AL | On Site | May 25 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a149479554b0e12c057f7b7?utm_campaign=1058&utm_source=git)** | Florence, AL | On Site | May 25 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a149479dc845f4be5bd27f2?utm_campaign=1058&utm_source=git)** | Hammond, LA | On Site | May 25 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a149478bc9bff375af01926?utm_campaign=1058&utm_source=git)** | Slidell, LA | On Site | May 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
