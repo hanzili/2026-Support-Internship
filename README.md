@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Plug and Play Tech Center](https://www.plugandplaytechcenter.com)** | **[IT Intern](https://jobright.ai/jobs/info/69fb080186d5cd46527d1dec?utm_campaign=1058&utm_source=git)** | Sunnyvale, CA | On Site | May 26 |
+| **[Methodist Le Bonheur Healthcare](https://www.methodisthealth.org/)** | **[Respiratory Supply Intern](https://jobright.ai/jobs/info/69fadc9a86d5cd46527d05e2?utm_campaign=1058&utm_source=git)** | Memphis, TN | On Site | May 26 |
+| **[Martin Equipment](https://www.martinequipment.com)** | **[Service Technician Intern](https://jobright.ai/jobs/info/6a1596cc1935fa61b3c6958e?utm_campaign=1058&utm_source=git)** | Illinois, Missouri, or Iowa Branches - Goodfield, IL 61742 | On Site | May 26 |
+| **[Center for Internet Security](http://cisecurity.org/)** | **[IT Intern - Clifton Park, NY](https://jobright.ai/jobs/info/6a15927f0073182bd92aaef6?utm_campaign=1058&utm_source=git)** | Clifton Park, NY | On Site | May 26 |
 | **[Dollar Bank](http://dollar.bank)** | **[Intern, Desktop Support](https://jobright.ai/jobs/info/6a157e71dc845f4be5bd646c?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | On Site | May 26 |
 | ↳ | **[Intern, Service Desk](https://jobright.ai/jobs/info/6a157e69128680351d961cbf?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | Hybrid | May 26 |
 | **[RPM Living](https://www.rpmliving.com/)** | **[Intern, Customer Experience](https://jobright.ai/jobs/info/6a157e40128680351d961cbb?utm_campaign=1058&utm_source=git)** | Phoenix, AZ | On Site | May 26 |
@@ -113,8 +117,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a149492738a270c8bfa81cf?utm_campaign=1058&utm_source=git)** | Evansville, IN | On Site | May 25 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a149487738a270c8bfa81cd?utm_campaign=1058&utm_source=git)** | Gulfport, MS | On Site | May 25 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a149482554b0e12c057f7b8?utm_campaign=1058&utm_source=git)** | Athens, AL | On Site | May 25 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a149479dc845f4be5bd27f2?utm_campaign=1058&utm_source=git)** | Hammond, LA | On Site | May 25 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a149479554b0e12c057f7b7?utm_campaign=1058&utm_source=git)** | Florence, AL | On Site | May 25 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a149479dc845f4be5bd27f2?utm_campaign=1058&utm_source=git)** | Hammond, LA | On Site | May 25 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a149478bc9bff375af01926?utm_campaign=1058&utm_source=git)** | Slidell, LA | On Site | May 25 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a149470dc845f4be5bd27ee?utm_campaign=1058&utm_source=git)** | Mineola, TX | On Site | May 25 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a14944c554b0e12c057f7a7?utm_campaign=1058&utm_source=git)** | Northville, MI | On Site | May 25 |
@@ -127,17 +131,17 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a149325c48b503aeffbf4bd?utm_campaign=1058&utm_source=git)** | Greenville, TX | On Site | May 25 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a14931edc845f4be5bd2793?utm_campaign=1058&utm_source=git)** | Clinton Township, MI | On Site | May 25 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a149319bc9bff375af018c4?utm_campaign=1058&utm_source=git)** | Moss Point, MS | On Site | May 25 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a149318bc9bff375af018c3?utm_campaign=1058&utm_source=git)** | Pittsburg, TX | On Site | May 25 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a149318bc9bff375af018c2?utm_campaign=1058&utm_source=git)** | Delphi, IN | On Site | May 25 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a149318bc9bff375af018c3?utm_campaign=1058&utm_source=git)** | Pittsburg, TX | On Site | May 25 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a149317554b0e12c057f751?utm_campaign=1058&utm_source=git)** | Westfield, IN | On Site | May 25 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a149312128680351d95e037?utm_campaign=1058&utm_source=git)** | Washington, IN | On Site | May 25 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a149201128680351d95dfed?utm_campaign=1058&utm_source=git)** | Mishawaka, IN | On Site | May 25 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a1491fa554b0e12c057f704?utm_campaign=1058&utm_source=git)** | Winnsboro, TX | On Site | May 25 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a1491f9bc9bff375af01880?utm_campaign=1058&utm_source=git)** | Auburn, IN | On Site | May 25 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a1491f9738a270c8bfa811e?utm_campaign=1058&utm_source=git)** | Delray Beach, FL | On Site | May 25 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a1491f9bc9bff375af0187f?utm_campaign=1058&utm_source=git)** | Ankeny, IA | On Site | May 25 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a1491f6554b0e12c057f703?utm_campaign=1058&utm_source=git)** | Kokomo, IN | On Site | May 25 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a1491f9bc9bff375af01880?utm_campaign=1058&utm_source=git)** | Auburn, IN | On Site | May 25 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a1491f6128680351d95dfea?utm_campaign=1058&utm_source=git)** | Winamac, IN | On Site | May 25 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a1491f6554b0e12c057f703?utm_campaign=1058&utm_source=git)** | Kokomo, IN | On Site | May 25 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a1491f6128680351d95dfeb?utm_campaign=1058&utm_source=git)** | Tuscaloosa, AL | On Site | May 25 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a1491f5554b0e12c057f702?utm_campaign=1058&utm_source=git)** | Mansfield, TX | On Site | May 25 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a1491ee128680351d95dfe6?utm_campaign=1058&utm_source=git)** | Fort Wayne, IN | On Site | May 25 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Intern](https://jobright.ai/jobs/info/6a13b0d49fdbf21f36cb98ef?utm_campaign=1058&utm_source=git)** | Oakland, CA | On Site | May 24 |
 | ↳ | **[Summer 2026 Intern](https://jobright.ai/jobs/info/6a13b0a49fdbf21f36cb98b9?utm_campaign=1058&utm_source=git)** | Remote US | Remote | May 24 |
 | **[Zscaler](https://www.zscaler.com)** | **[Professional Services - SkillBridge Intern](https://jobright.ai/jobs/info/6a13915012f8b43cf398f34d?utm_campaign=1058&utm_source=git)** | San Jose, California, USA | Remote | May 24 |
-| ↳ | **[Professional Services - SkillBridge Intern](https://jobright.ai/jobs/info/6a13914d12f8b43cf398f349?utm_campaign=1058&utm_source=git)** | Remote - Virginia, USA | Remote | May 24 |
-| **[Power Integrations](https://www.power.com)** | **[IT Support Intern](https://jobright.ai/jobs/info/6a139e8e69bd827926af888c?utm_campaign=1058&utm_source=git)** | San Jose, CA | On Site | May 24 |
-| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a13651069bd827926af8254?utm_campaign=1058&utm_source=git)** | 2000 HIGHWAY 35,OAKHURST,NJ,07755 | On Site | May 24 |
-| **[Mission Health](https://missionhealth.org/)** | **[Pharmacist Intern PRN](https://jobright.ai/jobs/info/6984152d348f733a5c37e1bf?utm_campaign=1058&utm_source=git)** | Marion, NC | On Site | May 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
