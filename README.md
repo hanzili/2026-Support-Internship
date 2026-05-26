@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kasa](http://www.kasa.com)** | **[Hotel Operations Internship](https://jobright.ai/jobs/info/6a10ef3b619335383fb35665?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | On Site | May 26 |
 | **[Pixelogic Media](https://www.pixelogicmedia.com/)** | **[Intern, Technical Support Engineering](https://jobright.ai/jobs/info/6a15f18e128680351d966031?utm_campaign=1058&utm_source=git)** | Culver City, CA | On Site | May 26 |
 | **[Davidson Hospitality Group](https://davidsonhospitality.com/)** | **[Intern Rooms](https://jobright.ai/jobs/info/6a15ee7b554b0e12c05875ee?utm_campaign=1058&utm_source=git)** | US-FL-Miami Beach | On Site | May 26 |
 | **[Hotel Zephyr Fisherman's Wharf, San Francisco](https://www.hotelzephyrsf.com/)** | **[Intern Rooms](https://jobright.ai/jobs/info/6a15ed22a429fd279da93934?utm_campaign=1058&utm_source=git)** | US-FL-Miami Beach | On Site | May 26 |
@@ -119,8 +120,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Intern](https://jobright.ai/jobs/info/6a15399a128680351d96007e?utm_campaign=1058&utm_source=git)** | Remote US | Remote | May 25 |
 | **[Xometry](https://www.xometry.com)** | **[Case Management Intern](https://jobright.ai/jobs/info/6a153754438198796a26ac45?utm_campaign=1058&utm_source=git)** | North Bethesda, MD | Hybrid | May 25 |
 | ↳ | **[Case Management Intern](https://jobright.ai/jobs/info/6a153751438198796a26ac44?utm_campaign=1058&utm_source=git)** | Lexington, KY | Hybrid | May 25 |
-| ↳ | **[Case Management Intern](https://jobright.ai/jobs/info/6a153750438198796a26ac43?utm_campaign=1058&utm_source=git)** | Gaithersburg, MD | Hybrid | May 25 |
 | ↳ | **[Case Management Intern](https://jobright.ai/jobs/info/6a153750438198796a26ac42?utm_campaign=1058&utm_source=git)** | Waltham, MA | Hybrid | May 25 |
+| ↳ | **[Case Management Intern](https://jobright.ai/jobs/info/6a153750438198796a26ac43?utm_campaign=1058&utm_source=git)** | Gaithersburg, MD | Hybrid | May 25 |
 | **[TA Instruments](http://www.tainstruments.com)** | **[Intern, Field Service](https://jobright.ai/jobs/info/6a152959128680351d95fdcd?utm_campaign=1058&utm_source=git)** | San Diego | On Site | May 25 |
 | ↳ | **[Intern, Field Service](https://jobright.ai/jobs/info/6a152958128680351d95fdcc?utm_campaign=1058&utm_source=git)** | Houston, TX, US | On Site | May 25 |
 | ↳ | **[Intern, Field Service](https://jobright.ai/jobs/info/6a152955128680351d95fdcb?utm_campaign=1058&utm_source=git)** | Seattle, WA, US | On Site | May 25 |
@@ -153,8 +154,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a149492738a270c8bfa81cf?utm_campaign=1058&utm_source=git)** | Evansville, IN | On Site | May 25 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a149487738a270c8bfa81cd?utm_campaign=1058&utm_source=git)** | Gulfport, MS | On Site | May 25 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a149482554b0e12c057f7b8?utm_campaign=1058&utm_source=git)** | Athens, AL | On Site | May 25 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a149479dc845f4be5bd27f2?utm_campaign=1058&utm_source=git)** | Hammond, LA | On Site | May 25 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a149479554b0e12c057f7b7?utm_campaign=1058&utm_source=git)** | Florence, AL | On Site | May 25 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a149479dc845f4be5bd27f2?utm_campaign=1058&utm_source=git)** | Hammond, LA | On Site | May 25 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a149478bc9bff375af01926?utm_campaign=1058&utm_source=git)** | Slidell, LA | On Site | May 25 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a149470dc845f4be5bd27ee?utm_campaign=1058&utm_source=git)** | Mineola, TX | On Site | May 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
