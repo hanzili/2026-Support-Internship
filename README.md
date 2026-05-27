@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Penumbra, Inc.](http://penumbrainc.com)** | **[IT Intern - Temp](https://jobright.ai/jobs/info/6a16fe2ef45c6530ce9a7c5c?utm_campaign=1058&utm_source=git)** | Alameda, CA | On Site | May 27 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a16e7cc9005d858e94f427f?utm_campaign=1058&utm_source=git)** | 1033 MILITARY RD,ZANESVILLE,OH,43701-01342-07392-S | On Site | May 27 |
 | **[Xometry](https://www.xometry.com)** | **[Customer Support Intern](https://jobright.ai/jobs/info/6a16dd77d6a04f21602e0ce6?utm_campaign=1058&utm_source=git)** | North Bethesda, MD | Hybrid | May 27 |
 | ↳ | **[Customer Support Intern](https://jobright.ai/jobs/info/6a16dd70d6a04f21602e0ce5?utm_campaign=1058&utm_source=git)** | Lexington, KY | Hybrid | May 27 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Dollar Bank](http://dollar.bank)** | **[Intern, Desktop Support](https://jobright.ai/jobs/info/6a157e71dc845f4be5bd646c?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | On Site | May 26 |
 | ↳ | **[Intern, Service Desk](https://jobright.ai/jobs/info/6a157e69128680351d961cbf?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | Hybrid | May 26 |
 | **[RPM Living](https://www.rpmliving.com/)** | **[Intern, Customer Experience](https://jobright.ai/jobs/info/6a157e40128680351d961cbb?utm_campaign=1058&utm_source=git)** | Phoenix, AZ | On Site | May 26 |
-| **[Viking Packaging](https://vikingpackaging.com/)** | **[IT Support Intern](https://jobright.ai/jobs/info/6a157d9adc845f4be5bd63f5?utm_campaign=1058&utm_source=git)** | US-NY-Wallkill | On Site | May 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
