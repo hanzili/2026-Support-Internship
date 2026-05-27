@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[VyStar Credit Union](http://www.vystarcu.org)** | **[VyStar Intern – IT Production Management & Application Support](https://jobright.ai/jobs/info/6a172ce6f45c6530ce9a998b?utm_campaign=1058&utm_source=git)** | Metro Jacksonville | On Site | May 27 |
+| **[Milliman](http://www.milliman.com)** | **[Information Technology Support Summer 2026 Intern - Omaha (CMH Health)](https://jobright.ai/jobs/info/6a1729aff45c6530ce9a983e?utm_campaign=1058&utm_source=git)** | Omaha, NE | On Site | May 27 |
+| **[Formic](https://formic.co)** | **[Summer 2026 Intern](https://jobright.ai/jobs/info/69debca1433ac8430e0dc2a4?utm_campaign=1058&utm_source=git)** | San Francisco Bay Area | On Site | May 27 |
+| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Summer IT Intern, Jira Migration Support](https://jobright.ai/jobs/info/6a1724e81430333075ccdbc5?utm_campaign=1058&utm_source=git)** | Cleveland, OH | On Site | May 27 |
+| **[Structural Group, Inc.](http://www.structuralgroup.com)** | **[Intern](https://jobright.ai/jobs/info/6a1724c69005d858e94f665c?utm_campaign=1058&utm_source=git)** | Columbia, MD, US | On Site | May 27 |
 | **[VyStar Credit Union](http://www.vystarcu.org)** | **[VyStar Intern – IT Production Management & Application Support](https://jobright.ai/jobs/info/6a17243df45c6530ce9a94df?utm_campaign=1058&utm_source=git)** | Jacksonville, FL - VyStar Tower, US | Hybrid | May 27 |
 | **[Milliman](http://www.milliman.com)** | **[Information Technology Support Summer 2026 Intern - Omaha (CMH Health)](https://jobright.ai/jobs/info/6a1720fa1430333075ccd99e?utm_campaign=1058&utm_source=git)** | Omaha, Nebraska, United States | On Site | May 27 |
 | **[Harmony United Psychiatric Care](https://hupcfl.com)** | **[Psychiatric Office Assistant Internship/Outpatient Clinic (Certification Program)/Orlando](https://jobright.ai/jobs/info/6a171db59005d858e94f61ff?utm_campaign=1058&utm_source=git)** | Orlando, FL | On Site | May 27 |
@@ -71,6 +76,7 @@ For a complete list, click the following sortable link below:
 | **[Rheem Manufacturing](http://www.rheem.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/6a170c78f45c6530ce9a8332?utm_campaign=1058&utm_source=git)** | Fort Smith, AR, United States | On Site | May 27 |
 | **[Penumbra, Inc.](http://penumbrainc.com)** | **[IT Intern - Temp](https://jobright.ai/jobs/info/6a1706fa9005d858e94f51b8?utm_campaign=1058&utm_source=git)** | Alameda, CA | On Site | May 27 |
 | **[Porsche Cars North America](http://www.porscheusa.com)** | **[IT Services Intern](https://jobright.ai/jobs/info/6a1706a6d6a04f21602e22a0?utm_campaign=1058&utm_source=git)** | Atlanta HQ (OPD) | On Site | May 27 |
+| **[Eaton](https://www.eaton.com/us/en-us/products/emobility/expertise.html)** | **[Intern, Field Service Representative (4-months) Edmonton, AB](https://jobright.ai/jobs/info/6a1729b31430333075ccdfda?utm_campaign=1058&utm_source=git)** | Edmonton, Alberta, Canada | On Site | May 27 |
 | **[Kravet](http://www.kravet.com)** | **[IT Intern](https://jobright.ai/jobs/info/6a16ffc7f45c6530ce9a7e89?utm_campaign=1058&utm_source=git)** | Woodbury, NY | On Site | May 27 |
 | **[Penumbra, Inc.](http://penumbrainc.com)** | **[IT Intern - Temp](https://jobright.ai/jobs/info/6a16fe2ef45c6530ce9a7c5c?utm_campaign=1058&utm_source=git)** | Alameda, CA | On Site | May 27 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a16e7cc9005d858e94f427f?utm_campaign=1058&utm_source=git)** | 1033 MILITARY RD,ZANESVILLE,OH,43701-01342-07392-S | On Site | May 27 |
@@ -145,16 +151,10 @@ For a complete list, click the following sortable link below:
 | **[Cooperative Farmers Elevator](https://www.coopfe.com)** | **[IT Operations Intern](https://jobright.ai/jobs/info/6a15d37a1935fa61b3c6bba0?utm_campaign=1058&utm_source=git)** | Rock Valley,IA,US | On Site | May 26 |
 | **[Austin Community College](http://austincc.edu)** | **[ACC GROW High School Intern](https://jobright.ai/jobs/info/6a15ceb50073182bd92ad026?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | May 26 |
 | **[Hotel Drover, Autograph Collection](https://hoteldrover.com/)** | **[IT Internship](https://jobright.ai/jobs/info/6a15ce790073182bd92ad005?utm_campaign=1058&utm_source=git)** | FORT WORTH, TX 76164 | On Site | May 26 |
-| **[Holly Poultry](https://www.hollypoultry.com)** | **[IT Intern (47555)](https://jobright.ai/jobs/info/6a15ce181935fa61b3c6b8f1?utm_campaign=1058&utm_source=git)** | 2121 Wicomico Street - Baltimore, MD 21230 | On Site | May 26 |
 | **[Copart](http://www.copart.com)** | **[Corp Support Intern](https://jobright.ai/jobs/info/69fae88a38179b6f1ae7382a?utm_campaign=1058&utm_source=git)** | Dallas, TX | On Site | May 26 |
 | **[Twin City Fan & Blower](https://www.tcf.com/)** | **[IT Technical Writer Intern](https://jobright.ai/jobs/info/6a15c6af0073182bd92ac896?utm_campaign=1058&utm_source=git)** | Plymouth, MN | On Site | May 26 |
 | **[Justrite Safety Group](https://www.justrite.com)** | **[Customer Service Intern](https://jobright.ai/jobs/info/69a88b6379f3f4037f425ea1?utm_campaign=1058&utm_source=git)** | Mattoon, IL | On Site | May 26 |
 | **[BorgWarner](http://www.borgwarner.com)** | **[IT Service Desk Intern (Year-Round) – Corporate](https://jobright.ai/jobs/info/69fad52238179b6f1ae726f1?utm_campaign=1058&utm_source=git)** | Auburn Hills, MI | On Site | May 26 |
 | **[Florida Virtual School](https://flvs.net/)** | **[Internship Support Representative Student Intern](https://jobright.ai/jobs/info/6a15ba010073182bd92ac20f?utm_campaign=1058&utm_source=git)** | FL - Home Office, US | Remote | May 26 |
 | **[Frankel](http://fzacpa.com)** | **[Service Desk Coordinator/Technician Intern (Summer & Fall 2026)](https://jobright.ai/jobs/info/6a15b9d7128680351d963bc9?utm_campaign=1058&utm_source=git)** | Omaha, Nebraska, United States | On Site | May 26 |
-| **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[Intern, Technical Support](https://jobright.ai/jobs/info/6a15b922128680351d963b35?utm_campaign=1058&utm_source=git)** | US-NE-Lincoln | On Site | May 26 |
-| **[Transfinder](http://www.transfinder.com/)** | **[Client Services Summer Intern (Calling '27-'28 Grads!)](https://jobright.ai/jobs/info/6a0f458472b52f7225f3c4b3?utm_campaign=1058&utm_source=git)** | Schenectady, NY | On Site | May 26 |
-| **[Austin Community College](http://austincc.edu)** | **[ACC GROW High School Intern](https://jobright.ai/jobs/info/6a15ae37554b0e12c0584ee7?utm_campaign=1058&utm_source=git)** | Highland Campus, US | On Site | May 26 |
-| **[Justrite Safety Group](https://www.justrite.com)** | **[Customer Service Intern](https://jobright.ai/jobs/info/69a854ed1dfc787e9aa35583?utm_campaign=1058&utm_source=git)** | Wellsburg, WV | On Site | May 26 |
-| **[Hannaford Supermarkets](https://www.hannaford.com/)** | **[P4 Rx Intern ($26/ hr)](https://jobright.ai/jobs/info/69de00dd36823d1b4257f8e6?utm_campaign=1058&utm_source=git)** | Modena, NY | On Site | May 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
