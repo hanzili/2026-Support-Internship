@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Catholic Charities of the Archdiocese of Galveston-Houston](https://catholiccharities.org/)** | **[Building Services / Agency Operations Intern](https://jobright.ai/jobs/info/6a16ae8aa429fd279da9a1fe?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | May 27 |
 | **[The Computer Guy LLC](https://www.tcgway.com/)** | **[COMPUTER REPAIR INTERNSHIP](https://jobright.ai/jobs/info/6a16a8c41935fa61b3c72e91?utm_campaign=1058&utm_source=git)** | Murray, Kentucky, United States | On Site | May 27 |
 | **[Parker Hannifin](http://www.parker.com)** | **[IT Intern](https://jobright.ai/jobs/info/6a16a2c91935fa61b3c72a8a?utm_campaign=1058&utm_source=git)** | Kearney, NE | On Site | May 27 |
 | **[Catholic Charities of the Archdiocese of Galveston-Houston](https://catholiccharities.org/)** | **[Building Services / Agency Operations Intern](https://jobright.ai/jobs/info/6a1694531b2f6918b0e32f38?utm_campaign=1058&utm_source=git)** | Central - Houston, TX 77006 | On Site | May 26 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Selux Corporation](https://www.selux.us)** | **[IT Support Intern](https://jobright.ai/jobs/info/6a157b9e554b0e12c0583087?utm_campaign=1058&utm_source=git)** | Wallkill, NY, US | On Site | May 26 |
 | **[NANA](http://nana.com)** | **[NANA SHAREHOLDER COLLEGE INTERNSHIP - NANA North Information Technology (IT) Intern Paid Internship](https://jobright.ai/jobs/info/6a157b9ddc845f4be5bd61d9?utm_campaign=1058&utm_source=git)** | Anchorage | On Site | May 26 |
 | **[Indie Campers](https://indiecampers.com/)** | **[Tourism & Operations internship](https://jobright.ai/jobs/info/6a157192438198796a26bc7c?utm_campaign=1058&utm_source=git)** | Florence Depot located in Signa | On Site | May 26 |
-| **[American Heritage Railways Inc](http://americanheritagerailways.com/)** | **[GSMR Special Events Intern](https://jobright.ai/jobs/info/6a155d0f438198796a26b718?utm_campaign=1058&utm_source=git)** | BRYSON CITY, NC 28713 | On Site | May 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
