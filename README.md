@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/6a1678ec1935fa61b3c71f05?utm_campaign=1058&utm_source=git)** | 5800 SE FEDERAL HWY,STUART,FL,34997-07836-06832-S | On Site | May 26 |
+| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a1678ea1935fa61b3c71f04?utm_campaign=1058&utm_source=git)** | 5285 US HIGHWAY 1,VERO BEACH,FL,32967 | On Site | May 26 |
+| **[Lunds & Byerlys](http://lundsandbyerlys.com)** | **[System Support Intern](https://jobright.ai/jobs/info/6a1674df128680351d96b08d?utm_campaign=1058&utm_source=git)** | 7752 Mitchell Road, Eden Prairie, MN, USA | On Site | May 26 |
 | **[Cooperative Farmers Elevator](https://www.coopfe.com)** | **[IT Operations Intern](https://jobright.ai/jobs/info/6a16682ea429fd279da9833c?utm_campaign=1058&utm_source=git)** | Rock Valley, IA | On Site | May 26 |
 | **[Network Right](https://networkright.com)** | **[Intern (IT/Ops/Admin)](https://jobright.ai/jobs/info/6a16572d1935fa61b3c70fd9?utm_campaign=1058&utm_source=git)** | New York City office | On Site | May 26 |
 | ↳ | **[Intern (IT/Ops/Admin)](https://jobright.ai/jobs/info/6a165702554b0e12c058b91f?utm_campaign=1058&utm_source=git)** | New York Office | On Site | May 26 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Case Management Intern](https://jobright.ai/jobs/info/6a153750438198796a26ac43?utm_campaign=1058&utm_source=git)** | Gaithersburg, MD | Hybrid | May 25 |
 | **[TA Instruments](http://www.tainstruments.com)** | **[Intern, Field Service](https://jobright.ai/jobs/info/6a152959128680351d95fdcd?utm_campaign=1058&utm_source=git)** | San Diego | On Site | May 25 |
 | ↳ | **[Intern, Field Service](https://jobright.ai/jobs/info/6a152958128680351d95fdcc?utm_campaign=1058&utm_source=git)** | Houston, TX, US | On Site | May 25 |
-| ↳ | **[Intern, Field Service](https://jobright.ai/jobs/info/6a152955128680351d95fdcb?utm_campaign=1058&utm_source=git)** | Seattle, WA, US | On Site | May 25 |
-| ↳ | **[Intern, Field Service](https://jobright.ai/jobs/info/6a152953128680351d95fdc9?utm_campaign=1058&utm_source=git)** | San Diego, CA, US | On Site | May 25 |
-| ↳ | **[Intern, Field Service](https://jobright.ai/jobs/info/6a152952128680351d95fdc8?utm_campaign=1058&utm_source=git)** | US-CA-San Diego | On Site | May 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
