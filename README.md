@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Ballantyne, A Luxury Collection Hotel,  Charlotte](http://www.theballantyne.com)** | **[Hospitality Intern](https://jobright.ai/jobs/info/6a1764f2b091c7417c4fe246?utm_campaign=1058&utm_source=git)** | 10000 Ballantyne Commons Parkway, Charlotte, NC28277 | On Site | May 27 |
+| **[Twin City Fan & Blower](https://www.tcf.com/)** | **[IT Technical Writer Intern](https://jobright.ai/jobs/info/6a17633681fe455c705a8609?utm_campaign=1058&utm_source=git)** | Plymouth, MN | On Site | May 27 |
+| **[Aimbridge Hospitality](http://www.aimbridgehospitality.com/)** | **[Marriott Minneapolis Northwest - Hospitality Management Intern](https://jobright.ai/jobs/info/6a1761279005d858e94f9555?utm_campaign=1058&utm_source=git)** | Brooklyn Park, MN | On Site | May 27 |
 | **[Stifel Financial Corp.](http://www.stifel.com)** | **[Information Technology Intern- Summer 2026](https://jobright.ai/jobs/info/6a175de5b091c7417c4fdf33?utm_campaign=1058&utm_source=git)** | Saint Louis, MO, US | On Site | May 27 |
 | ↳ | **[Information Technology Intern- Summer 2026](https://jobright.ai/jobs/info/6a175de0b091c7417c4fdf2c?utm_campaign=1058&utm_source=git)** | US-MO-Saint Louis | On Site | May 27 |
 | **[Scottish Rite for Children](https://scottishriteforchildren.org/)** | **[Clinical Research Intern](https://jobright.ai/jobs/info/6a175da15b0a497d5210b9a9?utm_campaign=1058&utm_source=git)** | Dallas, TX | On Site | May 27 |
@@ -82,8 +85,8 @@ For a complete list, click the following sortable link below:
 | **[Douglas County School System](https://www.dcssga.org/)** | **[Summer Intern](https://jobright.ai/jobs/info/6a17394bd6a04f21602e48ea?utm_campaign=1058&utm_source=git)** | New Manchhester High | On Site | May 27 |
 | ↳ | **[Summer Intern](https://jobright.ai/jobs/info/6a17392a1430333075ccedf5?utm_campaign=1058&utm_source=git)** | Chapel Hill High | On Site | May 27 |
 | ↳ | **[Summer Intern](https://jobright.ai/jobs/info/6a173926b091c7417c4fc514?utm_campaign=1058&utm_source=git)** | Lithia Springs High | On Site | May 27 |
-| ↳ | **[Summer Intern](https://jobright.ai/jobs/info/6a1739255b0a497d5210a089?utm_campaign=1058&utm_source=git)** | Douglas County High | On Site | May 27 |
 | ↳ | **[Summer Intern](https://jobright.ai/jobs/info/6a173925b091c7417c4fc512?utm_campaign=1058&utm_source=git)** | Alexander High School | On Site | May 27 |
+| ↳ | **[Summer Intern](https://jobright.ai/jobs/info/6a1739255b0a497d5210a089?utm_campaign=1058&utm_source=git)** | Douglas County High | On Site | May 27 |
 | **[American Bankruptcy Institute](https://abi.org/)** | **[Administrative & Membership Intern](https://jobright.ai/jobs/info/6a17386c5b0a497d5210a03b?utm_campaign=1058&utm_source=git)** | Alexandria, VA | On Site | May 27 |
 | **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Technical Customer Solutions Manager Intern - Fall 2026](https://jobright.ai/jobs/info/6a1737a7d6a04f21602e4757?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | May 27 |
 | **[Alkeus Pharmaceuticals, Inc.](http://www.alkeuspharma.com)** | **[Intern - Information Technology (IT)](https://jobright.ai/jobs/info/6a1736d25b0a497d52109e69?utm_campaign=1058&utm_source=git)** | Cambridge, MA | On Site | May 27 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[IT Intern](https://jobright.ai/jobs/info/6a162c44554b0e12c0589eea?utm_campaign=1058&utm_source=git)** | Durham, NC | On Site | May 26 |
 | **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a1623c4128680351d9684d8?utm_campaign=1058&utm_source=git)** | 794 S PARK ST,CARROLLTON,GA,30117-03826-07820-S | On Site | May 26 |
 | **[Compass Group Canada](http://www.compass-canada.com)** | **[PATIENT AMBASSADOR (INTERN)](https://jobright.ai/jobs/info/6a1623461935fa61b3c6f347?utm_campaign=1058&utm_source=git)** | Huntersville, NC, US | On Site | May 26 |
-| **[Lone Mountain Ranch](http://www.lonemountainranch.com)** | **[Hospitality Intern](https://jobright.ai/jobs/info/6a162277dc845f4be5bdce38?utm_campaign=1058&utm_source=git)** | Big Sky, MT, US | On Site | May 26 |
-| **[Milliman](http://www.milliman.com)** | **[Information Technology Support Summer 2026 Intern - Seattle (CMH Health)](https://jobright.ai/jobs/info/6a162101dc845f4be5bdcdb1?utm_campaign=1058&utm_source=git)** | Seattle, WA | On Site | May 26 |
-| **[Emser Tile](http://www.emser.com)** | **[Intern (38584)](https://jobright.ai/jobs/info/6a161c570073182bd92b04dd?utm_campaign=1058&utm_source=git)** | Denver, NC | On Site | May 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
