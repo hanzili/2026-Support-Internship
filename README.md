@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/6a16cd579005d858e94f38b7?utm_campaign=1058&utm_source=git)** | 461 MAIN ST,SACO,ME,04072 | On Site | May 27 |
+| **[Griffon Aerospace](http://www.griffonaerospace.com)** | **[IT Technician – Intern](https://jobright.ai/jobs/info/6a16c745b091c7417c4f85f7?utm_campaign=1058&utm_source=git)** | Madison,AL,US | On Site | May 27 |
+| **[Therma-Tru Doors](http://www.thermatru.com/)** | **[IT Infrastructure Intern](https://jobright.ai/jobs/info/69de588836823d1b42580821?utm_campaign=1058&utm_source=git)** | Butler, IN | On Site | May 27 |
+| **[VytlOne](https://www.vytlone.com)** | **[Part-Time IT Intern - Day Time Hours](https://jobright.ai/jobs/info/69fa198f81706a5bd2173c69?utm_campaign=1058&utm_source=git)** | Amarillo, TX | On Site | May 27 |
 | **[Catholic Charities of the Archdiocese of Galveston-Houston](https://catholiccharities.org/)** | **[Building Services / Agency Operations Intern](https://jobright.ai/jobs/info/6a16ae8aa429fd279da9a1fe?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | May 27 |
 | **[The Computer Guy LLC](https://www.tcgway.com/)** | **[COMPUTER REPAIR INTERNSHIP](https://jobright.ai/jobs/info/6a16a8c41935fa61b3c72e91?utm_campaign=1058&utm_source=git)** | Murray, Kentucky, United States | On Site | May 27 |
 | **[Parker Hannifin](http://www.parker.com)** | **[IT Intern](https://jobright.ai/jobs/info/6a16a2c91935fa61b3c72a8a?utm_campaign=1058&utm_source=git)** | Kearney, NE | On Site | May 27 |
@@ -70,7 +74,6 @@ For a complete list, click the following sortable link below:
 | **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/6a1678ec1935fa61b3c71f05?utm_campaign=1058&utm_source=git)** | 5800 SE FEDERAL HWY,STUART,FL,34997-07836-06832-S | On Site | May 26 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a1678ea1935fa61b3c71f04?utm_campaign=1058&utm_source=git)** | 5285 US HIGHWAY 1,VERO BEACH,FL,32967 | On Site | May 26 |
 | **[Lunds & Byerlys](http://lundsandbyerlys.com)** | **[System Support Intern](https://jobright.ai/jobs/info/6a1674df128680351d96b08d?utm_campaign=1058&utm_source=git)** | 7752 Mitchell Road, Eden Prairie, MN, USA | On Site | May 26 |
-| **[Cooperative Farmers Elevator](https://www.coopfe.com)** | **[IT Operations Intern](https://jobright.ai/jobs/info/6a16682ea429fd279da9833c?utm_campaign=1058&utm_source=git)** | Rock Valley, IA | On Site | May 26 |
 | **[Network Right](https://networkright.com)** | **[Intern (IT/Ops/Admin)](https://jobright.ai/jobs/info/6a16572d1935fa61b3c70fd9?utm_campaign=1058&utm_source=git)** | New York City office | On Site | May 26 |
 | ↳ | **[Intern (IT/Ops/Admin)](https://jobright.ai/jobs/info/6a165702554b0e12c058b91f?utm_campaign=1058&utm_source=git)** | New York Office | On Site | May 26 |
 | ↳ | **[Intern (IT/Ops/Admin)](https://jobright.ai/jobs/info/6a165632128680351d96a1bf?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | May 26 |
@@ -93,7 +96,6 @@ For a complete list, click the following sortable link below:
 | **[Compass Group Canada](http://www.compass-canada.com)** | **[PATIENT AMBASSADOR (INTERN)](https://jobright.ai/jobs/info/6a1623461935fa61b3c6f347?utm_campaign=1058&utm_source=git)** | Huntersville, NC, US | On Site | May 26 |
 | **[Lone Mountain Ranch](http://www.lonemountainranch.com)** | **[Hospitality Intern](https://jobright.ai/jobs/info/6a162277dc845f4be5bdce38?utm_campaign=1058&utm_source=git)** | Big Sky, MT, US | On Site | May 26 |
 | **[Milliman](http://www.milliman.com)** | **[Information Technology Support Summer 2026 Intern - Seattle (CMH Health)](https://jobright.ai/jobs/info/6a162101dc845f4be5bdcdb1?utm_campaign=1058&utm_source=git)** | Seattle, WA | On Site | May 26 |
-| **[Griffon Aerospace](http://www.griffonaerospace.com)** | **[IT Technician – Intern](https://jobright.ai/jobs/info/6a161e591935fa61b3c6f0f4?utm_campaign=1058&utm_source=git)** | Madison,AL,US | On Site | May 26 |
 | **[Emser Tile](http://www.emser.com)** | **[Intern (38584)](https://jobright.ai/jobs/info/6a161c570073182bd92b04dd?utm_campaign=1058&utm_source=git)** | Denver, NC | On Site | May 26 |
 | **[TST Fab & Machine](https://www.tstfab.com/)** | **[Intern – Genius Systems Support Assistant](https://jobright.ai/jobs/info/6a160ce2128680351d967445?utm_campaign=1058&utm_source=git)** | Norfolk, VA | On Site | May 26 |
 | **[Perkins&Will](http://perkinswill.com)** | **[IT Intern](https://jobright.ai/jobs/info/6a1605d31935fa61b3c6df78?utm_campaign=1058&utm_source=git)** | Chicago, Illinois, United States | On Site | May 26 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NANA](http://nana.com)** | **[NANA SHAREHOLDER COLLEGE INTERNSHIP - NANA North Information Technology (IT) Intern Paid Internship](https://jobright.ai/jobs/info/6a157ba3dc845f4be5bd61e0?utm_campaign=1058&utm_source=git)** | Anchorage , AK, US | On Site | May 26 |
 | ↳ | **[NANA SHAREHOLDER COLLEGE INTERNSHIP - NANA North Information Technology (IT) Intern Paid Internship](https://jobright.ai/jobs/info/6a157ba0dc845f4be5bd61de?utm_campaign=1058&utm_source=git)** | US-AK-Anchorage | On Site | May 26 |
 | **[Selux Corporation](https://www.selux.us)** | **[IT Support Intern](https://jobright.ai/jobs/info/6a157b9e554b0e12c0583087?utm_campaign=1058&utm_source=git)** | Wallkill, NY, US | On Site | May 26 |
-| **[NANA](http://nana.com)** | **[NANA SHAREHOLDER COLLEGE INTERNSHIP - NANA North Information Technology (IT) Intern Paid Internship](https://jobright.ai/jobs/info/6a157b9ddc845f4be5bd61d9?utm_campaign=1058&utm_source=git)** | Anchorage | On Site | May 26 |
-| **[Indie Campers](https://indiecampers.com/)** | **[Tourism & Operations internship](https://jobright.ai/jobs/info/6a157192438198796a26bc7c?utm_campaign=1058&utm_source=git)** | Florence Depot located in Signa | On Site | May 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
