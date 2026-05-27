@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kravet](http://www.kravet.com)** | **[IT Intern](https://jobright.ai/jobs/info/6a16ffc7f45c6530ce9a7e89?utm_campaign=1058&utm_source=git)** | Woodbury, NY | On Site | May 27 |
 | **[Penumbra, Inc.](http://penumbrainc.com)** | **[IT Intern - Temp](https://jobright.ai/jobs/info/6a16fe2ef45c6530ce9a7c5c?utm_campaign=1058&utm_source=git)** | Alameda, CA | On Site | May 27 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a16e7cc9005d858e94f427f?utm_campaign=1058&utm_source=git)** | 1033 MILITARY RD,ZANESVILLE,OH,43701-01342-07392-S | On Site | May 27 |
 | **[Xometry](https://www.xometry.com)** | **[Customer Support Intern](https://jobright.ai/jobs/info/6a16dd77d6a04f21602e0ce6?utm_campaign=1058&utm_source=git)** | North Bethesda, MD | Hybrid | May 27 |
@@ -102,7 +103,6 @@ For a complete list, click the following sortable link below:
 | **[Lone Mountain Ranch](http://www.lonemountainranch.com)** | **[Hospitality Intern](https://jobright.ai/jobs/info/6a162277dc845f4be5bdce38?utm_campaign=1058&utm_source=git)** | Big Sky, MT, US | On Site | May 26 |
 | **[Milliman](http://www.milliman.com)** | **[Information Technology Support Summer 2026 Intern - Seattle (CMH Health)](https://jobright.ai/jobs/info/6a162101dc845f4be5bdcdb1?utm_campaign=1058&utm_source=git)** | Seattle, WA | On Site | May 26 |
 | **[Emser Tile](http://www.emser.com)** | **[Intern (38584)](https://jobright.ai/jobs/info/6a161c570073182bd92b04dd?utm_campaign=1058&utm_source=git)** | Denver, NC | On Site | May 26 |
-| **[TST Fab & Machine](https://www.tstfab.com/)** | **[Intern – Genius Systems Support Assistant](https://jobright.ai/jobs/info/6a160ce2128680351d967445?utm_campaign=1058&utm_source=git)** | Norfolk, VA | On Site | May 26 |
 | **[Perkins&Will](http://perkinswill.com)** | **[IT Intern](https://jobright.ai/jobs/info/6a1605d31935fa61b3c6df78?utm_campaign=1058&utm_source=git)** | Chicago, Illinois, United States | On Site | May 26 |
 | ↳ | **[IT Intern](https://jobright.ai/jobs/info/6a1605d21935fa61b3c6df76?utm_campaign=1058&utm_source=git)** | Durham, North Carolina, United States | On Site | May 26 |
 | **[Everon](https://www.everonsolutions.com)** | **[Product Support Intern](https://jobright.ai/jobs/info/6a16046b128680351d966ff3?utm_campaign=1058&utm_source=git)** | Irving, TX | On Site | May 26 |
