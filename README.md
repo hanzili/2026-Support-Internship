@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Computer Guy LLC](https://www.tcgway.com/)** | **[COMPUTER REPAIR INTERNSHIP](https://jobright.ai/jobs/info/6a16a8c41935fa61b3c72e91?utm_campaign=1058&utm_source=git)** | Murray, Kentucky, United States | On Site | May 27 |
+| **[Parker Hannifin](http://www.parker.com)** | **[IT Intern](https://jobright.ai/jobs/info/6a16a2c91935fa61b3c72a8a?utm_campaign=1058&utm_source=git)** | Kearney, NE | On Site | May 27 |
 | **[Catholic Charities of the Archdiocese of Galveston-Houston](https://catholiccharities.org/)** | **[Building Services / Agency Operations Intern](https://jobright.ai/jobs/info/6a1694531b2f6918b0e32f38?utm_campaign=1058&utm_source=git)** | Central - Houston, TX 77006 | On Site | May 26 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a169420a429fd279da998bd?utm_campaign=1058&utm_source=git)** | 3093 MARLOW RD,SANTA ROSA,CA,95403 | On Site | May 26 |
 | **[Fred Meyer](https://www.fredmeyer.com/)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/6a168cdd202ae849ed8d3f54?utm_campaign=1058&utm_source=git)** | Coeur d'Alene, ID | On Site | May 26 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NANA](http://nana.com)** | **[NANA SHAREHOLDER COLLEGE INTERNSHIP - NANA North Information Technology (IT) Intern Paid Internship](https://jobright.ai/jobs/info/6a157b9ddc845f4be5bd61d9?utm_campaign=1058&utm_source=git)** | Anchorage | On Site | May 26 |
 | **[Indie Campers](https://indiecampers.com/)** | **[Tourism & Operations internship](https://jobright.ai/jobs/info/6a157192438198796a26bc7c?utm_campaign=1058&utm_source=git)** | Florence Depot located in Signa | On Site | May 26 |
 | **[American Heritage Railways Inc](http://americanheritagerailways.com/)** | **[GSMR Special Events Intern](https://jobright.ai/jobs/info/6a155d0f438198796a26b718?utm_campaign=1058&utm_source=git)** | BRYSON CITY, NC 28713 | On Site | May 26 |
-| **[Formic](https://formic.co)** | **[Summer 2026 Intern](https://jobright.ai/jobs/info/6a1539b9128680351d960095?utm_campaign=1058&utm_source=git)** | Chicago | On Site | May 25 |
-| ↳ | **[Summer 2026 Intern](https://jobright.ai/jobs/info/6a1539ae128680351d96008e?utm_campaign=1058&utm_source=git)** | Bolingbrook, IL | On Site | May 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
