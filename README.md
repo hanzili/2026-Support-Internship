@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[VyStar Credit Union](http://www.vystarcu.org)** | **[VyStar Intern – IT Production Management & Application Support](https://jobright.ai/jobs/info/6a17243df45c6530ce9a94df?utm_campaign=1058&utm_source=git)** | Jacksonville, FL - VyStar Tower, US | Hybrid | May 27 |
+| **[Milliman](http://www.milliman.com)** | **[Information Technology Support Summer 2026 Intern - Omaha (CMH Health)](https://jobright.ai/jobs/info/6a1720fa1430333075ccd99e?utm_campaign=1058&utm_source=git)** | Omaha, Nebraska, United States | On Site | May 27 |
+| **[Harmony United Psychiatric Care](https://hupcfl.com)** | **[Psychiatric Office Assistant Internship/Outpatient Clinic (Certification Program)/Orlando](https://jobright.ai/jobs/info/6a171db59005d858e94f61ff?utm_campaign=1058&utm_source=git)** | Orlando, FL | On Site | May 27 |
+| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Municipal Court Clerical Intern](https://jobright.ai/jobs/info/6a171c6dd6a04f21602e3220?utm_campaign=1058&utm_source=git)** | 625 52nd Street, Kenosha, WI | On Site | May 27 |
+| **[Buckner International](https://www.buckner.org/)** | **[Summer Staff - Hospitality Intern](https://jobright.ai/jobs/info/6a171a1cb091c7417c4fab4b?utm_campaign=1058&utm_source=git)** | Burnet Camp Buckner | On Site | May 27 |
 | **[Amazon](https://amazon.com)** | **[Technical Customer Solutions Manager Intern - Fall 2026](https://jobright.ai/jobs/info/6a1717b6d6a04f21602e2976?utm_campaign=1058&utm_source=git)** | New York, New York, USA | On Site | May 27 |
 | **[Podium](https://www.podium.com)** | **[IT Helpdesk Intern](https://jobright.ai/jobs/info/6a1717491430333075cccd59?utm_campaign=1058&utm_source=git)** | Lehi, Utah | On Site | May 27 |
 | ↳ | **[IT Helpdesk Intern](https://jobright.ai/jobs/info/6a1717481430333075cccd58?utm_campaign=1058&utm_source=git)** | Lehi | On Site | May 27 |
@@ -114,7 +119,6 @@ For a complete list, click the following sortable link below:
 | **[Emser Tile](http://www.emser.com)** | **[Intern (38584)](https://jobright.ai/jobs/info/6a161c570073182bd92b04dd?utm_campaign=1058&utm_source=git)** | Denver, NC | On Site | May 26 |
 | **[Perkins&Will](http://perkinswill.com)** | **[IT Intern](https://jobright.ai/jobs/info/6a1605d31935fa61b3c6df78?utm_campaign=1058&utm_source=git)** | Chicago, Illinois, United States | On Site | May 26 |
 | ↳ | **[IT Intern](https://jobright.ai/jobs/info/6a1605d21935fa61b3c6df76?utm_campaign=1058&utm_source=git)** | Durham, North Carolina, United States | On Site | May 26 |
-| **[Everon](https://www.everonsolutions.com)** | **[Product Support Intern](https://jobright.ai/jobs/info/6a16046b128680351d966ff3?utm_campaign=1058&utm_source=git)** | Irving, TX | On Site | May 26 |
 | **[Orrick, Herrington & Sutcliffe LLP](https://www.orrick.com)** | **[IT Service Operations Intern](https://jobright.ai/jobs/info/69e99df558811370cb12e71b?utm_campaign=1058&utm_source=git)** | Wheeling, WV | Hybrid | May 26 |
 | **[Harris Teeter](http://www.harristeeter.com)** | **[Part Time Pharmacy Graduate-Wilmington Market  Intern](https://jobright.ai/jobs/info/6a15ffe7128680351d966af2?utm_campaign=1058&utm_source=git)** | WILMINGTON, NORTH CAROLINA, STORE 191 - WILMINGTON-PORTERS NECK | On Site | May 26 |
 | **[InterWorks](http://www.interworks.com)** | **[IT Intern](https://jobright.ai/jobs/info/6a15ff25128680351d96693d?utm_campaign=1058&utm_source=git)** | Stillwater, Oklahoma | On Site | May 26 |
@@ -137,7 +141,6 @@ For a complete list, click the following sortable link below:
 | **[Team Georgia Careers](https://careers.georgia.gov/)** | **[Information Technology Intern](https://jobright.ai/jobs/info/6a15e3c9128680351d96567a?utm_campaign=1058&utm_source=git)** | Georgia - Fulton - Atlanta | On Site | May 26 |
 | **[CITGO](https://www.citgo.com/Home.jsp)** | **[IT Intern](https://jobright.ai/jobs/info/6a15dcc9dc845f4be5bd97cc?utm_campaign=1058&utm_source=git)** | CITGO Corporate Headquarter TX | On Site | May 26 |
 | **[Rijk Zwaan USA & Canada](https://www.rijkzwaanusa.com)** | **[Warehouse Student Intern](https://jobright.ai/jobs/info/6a15da0a1935fa61b3c6bea0?utm_campaign=1058&utm_source=git)** | Salinas, CA | On Site | May 26 |
-| **[Everon](https://www.everonsolutions.com)** | **[Product Support Intern](https://jobright.ai/jobs/info/6a15d477554b0e12c05864ff?utm_campaign=1058&utm_source=git)** | Irving, TX 75063, USA | On Site | May 26 |
 | **[Archbold](https://archbold.org)** | **[INFORMATION TECHNOLOGY INTERN](https://jobright.ai/jobs/info/6a15d3e0128680351d964b9a?utm_campaign=1058&utm_source=git)** | Thomasville, GA | On Site | May 26 |
 | **[Cooperative Farmers Elevator](https://www.coopfe.com)** | **[IT Operations Intern](https://jobright.ai/jobs/info/6a15d37a1935fa61b3c6bba0?utm_campaign=1058&utm_source=git)** | Rock Valley,IA,US | On Site | May 26 |
 | **[Austin Community College](http://austincc.edu)** | **[ACC GROW High School Intern](https://jobright.ai/jobs/info/6a15ceb50073182bd92ad026?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | May 26 |
@@ -150,10 +153,7 @@ For a complete list, click the following sortable link below:
 | **[Florida Virtual School](https://flvs.net/)** | **[Internship Support Representative Student Intern](https://jobright.ai/jobs/info/6a15ba010073182bd92ac20f?utm_campaign=1058&utm_source=git)** | FL - Home Office, US | Remote | May 26 |
 | **[Frankel](http://fzacpa.com)** | **[Service Desk Coordinator/Technician Intern (Summer & Fall 2026)](https://jobright.ai/jobs/info/6a15b9d7128680351d963bc9?utm_campaign=1058&utm_source=git)** | Omaha, Nebraska, United States | On Site | May 26 |
 | **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[Intern, Technical Support](https://jobright.ai/jobs/info/6a15b922128680351d963b35?utm_campaign=1058&utm_source=git)** | US-NE-Lincoln | On Site | May 26 |
-| **[E.L. Haynes Public Charter School](http://www.elhaynes.org)** | **[Technology Intern](https://jobright.ai/jobs/info/6a15b6dba429fd279da91588?utm_campaign=1058&utm_source=git)** | Washington, DC | On Site | May 26 |
 | **[Transfinder](http://www.transfinder.com/)** | **[Client Services Summer Intern (Calling '27-'28 Grads!)](https://jobright.ai/jobs/info/6a0f458472b52f7225f3c4b3?utm_campaign=1058&utm_source=git)** | Schenectady, NY | On Site | May 26 |
-| **[E.L. Haynes Public Charter School](http://www.elhaynes.org)** | **[Technology Intern](https://jobright.ai/jobs/info/6a15b25f128680351d9637e3?utm_campaign=1058&utm_source=git)** | WASHINGTON, DC 20010 | On Site | May 26 |
-| ↳ | **[Technology Intern](https://jobright.ai/jobs/info/6a15b25e128680351d9637e2?utm_campaign=1058&utm_source=git)** | Washington, DC 20011 | On Site | May 26 |
 | **[Austin Community College](http://austincc.edu)** | **[ACC GROW High School Intern](https://jobright.ai/jobs/info/6a15ae37554b0e12c0584ee7?utm_campaign=1058&utm_source=git)** | Highland Campus, US | On Site | May 26 |
 | **[Justrite Safety Group](https://www.justrite.com)** | **[Customer Service Intern](https://jobright.ai/jobs/info/69a854ed1dfc787e9aa35583?utm_campaign=1058&utm_source=git)** | Wellsburg, WV | On Site | May 26 |
 | **[Hannaford Supermarkets](https://www.hannaford.com/)** | **[P4 Rx Intern ($26/ hr)](https://jobright.ai/jobs/info/69de00dd36823d1b4257f8e6?utm_campaign=1058&utm_source=git)** | Modena, NY | On Site | May 26 |
