@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Banner Health](https://www.bannerhealth.com)** | **[IT Intern I](https://jobright.ai/jobs/info/6a164855a429fd279da97465?utm_campaign=1058&utm_source=git)** | Arizona, United States | Hybrid | May 26 |
+| **[Frankel](http://fzacpa.com)** | **[Service Desk Coordinator/Technician Intern (Summer & Fall 2026)](https://jobright.ai/jobs/info/6a164f16dc845f4be5bde391?utm_campaign=1058&utm_source=git)** | Omaha, NE | On Site | May 26 |
+| **[HEI Hotels & Resorts](http://www.heihotels.com)** | **[Front Office Internship J1](https://jobright.ai/jobs/info/6a164e83128680351d9699c3?utm_campaign=1058&utm_source=git)** | Rockville, MD | On Site | May 26 |
+| **[River Valley Community Bank](https://www.myrvcb.com)** | **[Internship](https://jobright.ai/jobs/info/6a164c4c128680351d9698d7?utm_campaign=1058&utm_source=git)** | Yuba City, CA | On Site | May 26 |
+| **[Maxwood Furniture](https://maxwoodfurniture.com/)** | **[Associate IT Support Intern](https://jobright.ai/jobs/info/6a164b59554b0e12c058af97?utm_campaign=1058&utm_source=git)** | Charleston, SC | On Site | May 26 |
 | **[Farmers & Merchants Bank of Long Beach](https://www.fmb.com/)** | **[IT Intern](https://jobright.ai/jobs/info/6a16459f128680351d9696fe?utm_campaign=1058&utm_source=git)** | Seal Beach, CA | On Site | May 26 |
 | **[Foodbuy USA](http://www.foodbuy.com)** | **[PATIENT AMBASSADOR (INTERN)](https://jobright.ai/jobs/info/6a164229a429fd279da9722b?utm_campaign=1058&utm_source=git)** | Novant Huntersville - 10030 Gilead Road, Huntersville, NC, 28078, US | On Site | May 26 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a163fc6554b0e12c058abd8?utm_campaign=1058&utm_source=git)** | 2586 WOODRUFF RD,SIMPSONVILLE,SC,29681 | On Site | May 26 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Field Service](https://jobright.ai/jobs/info/6a152951128680351d95fdc6?utm_campaign=1058&utm_source=git)** | US-TX-Houston | On Site | May 25 |
 | **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/6a1527f7738a270c8bfa9ee3?utm_campaign=1058&utm_source=git)** | 4816 NW BETHANY BLVD,PORTLAND,OR,97229 | On Site | May 25 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a1527f3738a270c8bfa9ee1?utm_campaign=1058&utm_source=git)** | 18470 SW FARMINGTON RD,BEAVERTON,OR,97007-03809-15403-S | On Site | May 25 |
-| **[OneRange](https://www.onerange.co)** | **[Customer Experience Intern](https://jobright.ai/jobs/info/6a151c61128680351d95f696?utm_campaign=1058&utm_source=git)** | United States | Remote | May 25 |
-| **[Western Specialty Contractors](http://westernspecialtycontractors.com)** | **[IT Help Desk Intern](https://jobright.ai/jobs/info/6a151b53c48b503aeffc0a34?utm_campaign=1058&utm_source=git)** | Home Office - St Louis | On Site | May 25 |
-| ↳ | **[IT Help Desk Intern](https://jobright.ai/jobs/info/6a151b4fc48b503aeffc0a33?utm_campaign=1058&utm_source=git)** | St. Louis, MO | On Site | May 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
