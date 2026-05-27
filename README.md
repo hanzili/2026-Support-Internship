@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Catholic Charities of the Archdiocese of Galveston-Houston](https://catholiccharities.org/)** | **[Building Services / Agency Operations Intern](https://jobright.ai/jobs/info/6a1694531b2f6918b0e32f38?utm_campaign=1058&utm_source=git)** | Central - Houston, TX 77006 | On Site | May 26 |
+| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a169420a429fd279da998bd?utm_campaign=1058&utm_source=git)** | 3093 MARLOW RD,SANTA ROSA,CA,95403 | On Site | May 26 |
+| **[Fred Meyer](https://www.fredmeyer.com/)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/6a168cdd202ae849ed8d3f54?utm_campaign=1058&utm_source=git)** | Coeur d'Alene, ID | On Site | May 26 |
+| ↳ | **[Pharmacist Intern](https://jobright.ai/jobs/info/6a168aa01b2f6918b0e3281c?utm_campaign=1058&utm_source=git)** | Idaho Falls, ID | On Site | May 26 |
+| **[Herc Rentals](http://www.HercRentals.com)** | **[ProSales Intern (Astoria)](https://jobright.ai/jobs/info/6a0ed370619335383fb279b1?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | May 26 |
+| ↳ | **[ProSales Intern (Bronx)](https://jobright.ai/jobs/info/6a1689ff1b2f6918b0e327db?utm_campaign=1058&utm_source=git)** | Bronx, NY | On Site | May 26 |
+| ↳ | **[ProSales Intern (Frederick, MD)](https://jobright.ai/jobs/info/6a0ed30d09ecfd704b3eb7a8?utm_campaign=1058&utm_source=git)** | Frederick, MD | On Site | May 26 |
 | **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/6a1678ec1935fa61b3c71f05?utm_campaign=1058&utm_source=git)** | 5800 SE FEDERAL HWY,STUART,FL,34997-07836-06832-S | On Site | May 26 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a1678ea1935fa61b3c71f04?utm_campaign=1058&utm_source=git)** | 5285 US HIGHWAY 1,VERO BEACH,FL,32967 | On Site | May 26 |
 | **[Lunds & Byerlys](http://lundsandbyerlys.com)** | **[System Support Intern](https://jobright.ai/jobs/info/6a1674df128680351d96b08d?utm_campaign=1058&utm_source=git)** | 7752 Mitchell Road, Eden Prairie, MN, USA | On Site | May 26 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[American Heritage Railways Inc](http://americanheritagerailways.com/)** | **[GSMR Special Events Intern](https://jobright.ai/jobs/info/6a155d0f438198796a26b718?utm_campaign=1058&utm_source=git)** | BRYSON CITY, NC 28713 | On Site | May 26 |
 | **[Formic](https://formic.co)** | **[Summer 2026 Intern](https://jobright.ai/jobs/info/6a1539b9128680351d960095?utm_campaign=1058&utm_source=git)** | Chicago | On Site | May 25 |
 | ↳ | **[Summer 2026 Intern](https://jobright.ai/jobs/info/6a1539ae128680351d96008e?utm_campaign=1058&utm_source=git)** | Bolingbrook, IL | On Site | May 25 |
-| ↳ | **[Summer 2026 Intern](https://jobright.ai/jobs/info/6a15399a128680351d96007e?utm_campaign=1058&utm_source=git)** | Remote US | Remote | May 25 |
-| **[Xometry](https://www.xometry.com)** | **[Case Management Intern](https://jobright.ai/jobs/info/6a153754438198796a26ac45?utm_campaign=1058&utm_source=git)** | North Bethesda, MD | Hybrid | May 25 |
-| ↳ | **[Case Management Intern](https://jobright.ai/jobs/info/6a153751438198796a26ac44?utm_campaign=1058&utm_source=git)** | Lexington, KY | Hybrid | May 25 |
-| ↳ | **[Case Management Intern](https://jobright.ai/jobs/info/6a153750438198796a26ac43?utm_campaign=1058&utm_source=git)** | Gaithersburg, MD | Hybrid | May 25 |
-| ↳ | **[Case Management Intern](https://jobright.ai/jobs/info/6a153750438198796a26ac42?utm_campaign=1058&utm_source=git)** | Waltham, MA | Hybrid | May 25 |
-| **[TA Instruments](http://www.tainstruments.com)** | **[Intern, Field Service](https://jobright.ai/jobs/info/6a152959128680351d95fdcd?utm_campaign=1058&utm_source=git)** | San Diego | On Site | May 25 |
-| ↳ | **[Intern, Field Service](https://jobright.ai/jobs/info/6a152958128680351d95fdcc?utm_campaign=1058&utm_source=git)** | Houston, TX, US | On Site | May 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
