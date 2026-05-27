@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[State of Vermont](http://vermont.gov/portal/)** | **[Paid Intern IT, State Treasurers Department - Temporary](https://jobright.ai/jobs/info/6a174454d6a04f21602e4f58?utm_campaign=1058&utm_source=git)** | Montpelier, VT | On Site | May 27 |
+| **[Texas Department of Transportation](https://www.txdot.gov)** | **[Intern Support Technician - San Antonio](https://jobright.ai/jobs/info/6a17429cf45c6530ce9aabf1?utm_campaign=1058&utm_source=git)** | San Antonio District Hdqtrs 4615 NW LOOP 410 San Antonio 78229 | On Site | May 27 |
 | **[Transfinder](http://www.transfinder.com/)** | **[Client Services Summer Intern (Calling '27-'28 Grads!)](https://jobright.ai/jobs/info/6a173fd7b091c7417c4fc8cd?utm_campaign=1058&utm_source=git)** | Schenectady, NY | On Site | May 27 |
 | **[Rheem Manufacturing](http://www.rheem.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/6a173fad1430333075ccf1e3?utm_campaign=1058&utm_source=git)** | Fort Smith, AR | On Site | May 27 |
 | **[STRUCTURAL TECHNOLOGIES](https://www.structuraltechnologies.com/)** | **[Intern](https://jobright.ai/jobs/info/6a173c8c1430333075ccf01f?utm_campaign=1058&utm_source=git)** | Maryland, United States | On Site | May 27 |
@@ -66,8 +68,8 @@ For a complete list, click the following sortable link below:
 | **[Douglas County School System](https://www.dcssga.org/)** | **[Summer Intern](https://jobright.ai/jobs/info/6a17394bd6a04f21602e48ea?utm_campaign=1058&utm_source=git)** | New Manchhester High | On Site | May 27 |
 | ↳ | **[Summer Intern](https://jobright.ai/jobs/info/6a17392a1430333075ccedf5?utm_campaign=1058&utm_source=git)** | Chapel Hill High | On Site | May 27 |
 | ↳ | **[Summer Intern](https://jobright.ai/jobs/info/6a173926b091c7417c4fc514?utm_campaign=1058&utm_source=git)** | Lithia Springs High | On Site | May 27 |
-| ↳ | **[Summer Intern](https://jobright.ai/jobs/info/6a1739255b0a497d5210a089?utm_campaign=1058&utm_source=git)** | Douglas County High | On Site | May 27 |
 | ↳ | **[Summer Intern](https://jobright.ai/jobs/info/6a173925b091c7417c4fc512?utm_campaign=1058&utm_source=git)** | Alexander High School | On Site | May 27 |
+| ↳ | **[Summer Intern](https://jobright.ai/jobs/info/6a1739255b0a497d5210a089?utm_campaign=1058&utm_source=git)** | Douglas County High | On Site | May 27 |
 | **[American Bankruptcy Institute](https://abi.org/)** | **[Administrative & Membership Intern](https://jobright.ai/jobs/info/6a17386c5b0a497d5210a03b?utm_campaign=1058&utm_source=git)** | Alexandria, VA | On Site | May 27 |
 | **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Technical Customer Solutions Manager Intern - Fall 2026](https://jobright.ai/jobs/info/6a1737a7d6a04f21602e4757?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | May 27 |
 | **[Alkeus Pharmaceuticals, Inc.](http://www.alkeuspharma.com)** | **[Intern - Information Technology (IT)](https://jobright.ai/jobs/info/6a1736d25b0a497d52109e69?utm_campaign=1058&utm_source=git)** | Cambridge, MA | On Site | May 27 |
@@ -133,6 +135,7 @@ For a complete list, click the following sortable link below:
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a163fc6554b0e12c058abd8?utm_campaign=1058&utm_source=git)** | 2586 WOODRUFF RD,SIMPSONVILLE,SC,29681 | On Site | May 26 |
 | **[Newington Public Schools](http://www.npsct.org/)** | **[Information Technology Internship Program](https://jobright.ai/jobs/info/6a163e21dc845f4be5bdde58?utm_campaign=1058&utm_source=git)** | Newington, CT | On Site | May 26 |
 | **[Crothall Healthcare](https://www.crothall.com)** | **[PATIENT AMBASSADOR (INTERN)](https://jobright.ai/jobs/info/6a163cdb0073182bd92b19cc?utm_campaign=1058&utm_source=git)** | Huntersville, NC | On Site | May 26 |
+| **[Unity Health](https://www.unity-health.org)** | **[IT Intern](https://jobright.ai/jobs/info/6a1746c39005d858e94f813e?utm_campaign=1058&utm_source=git)** | Searcy, AR | On Site | May 26 |
 | **[The Hotel at Auburn University & Dixon Conference Center](https://www.auhcc.com/careers)** | **[Rooms - International Rooms Intern](https://jobright.ai/jobs/info/6a1634c9dc845f4be5bdd448?utm_campaign=1058&utm_source=git)** | Auburn, AL | On Site | May 26 |
 | **[State Of Vermont Dept Health](https://www.healthvermont.gov/)** | **[Paid Intern IT, State Treasurers Department - Temporary](https://jobright.ai/jobs/info/6a1632bd128680351d9689ac?utm_campaign=1058&utm_source=git)** | Montpelier | On Site | May 26 |
 | **[Perkins&Will](http://perkinswill.com)** | **[IT Intern](https://jobright.ai/jobs/info/6a1630aea429fd279da9665f?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | May 26 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern Rooms](https://jobright.ai/jobs/info/6a15ed1ea429fd279da93931?utm_campaign=1058&utm_source=git)** | Miami Beach, FL, US | On Site | May 26 |
 | **[Allied Dispatch Solutions](https://allieddispatch.com)** | **[2nd shift Bilingual Customer Solutions Specialist](https://jobright.ai/jobs/info/6a15eb69128680351d965cc1?utm_campaign=1058&utm_source=git)** | Johnson City Operations Center - Johnson City, TN 37604 | Hybrid | May 26 |
 | **[YMCA of the Rockies](https://ymcarockies.org)** | **[Internship/Fellowship - Information Technology- EPC](https://jobright.ai/jobs/info/6a15eb4f128680351d965cb2?utm_campaign=1058&utm_source=git)** | Association Office - Estes Park, CO 80511 | On Site | May 26 |
-| **[IWCO](http://www.iwco.com)** | **[IT Support Internship](https://jobright.ai/jobs/info/6a15eadf1935fa61b3c6cc20?utm_campaign=1058&utm_source=git)** | Chanhassen, Minnesota, United States | On Site | May 26 |
-| **[Milliman](http://www.milliman.com)** | **[Information Technology Support Summer 2026 Intern - Seattle (CMH Health)](https://jobright.ai/jobs/info/6a15ea9fdc845f4be5bda4ec?utm_campaign=1058&utm_source=git)** | Seattle, Washington, United States | On Site | May 26 |
-| **[MutualOne Bank](http://mutualone.com)** | **[Help Desk Technician Intern](https://jobright.ai/jobs/info/6a15ea9c128680351d965c53?utm_campaign=1058&utm_source=git)** | Framingham, MA 01701 | On Site | May 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
