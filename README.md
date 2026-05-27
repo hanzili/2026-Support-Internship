@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a16e7cc9005d858e94f427f?utm_campaign=1058&utm_source=git)** | 1033 MILITARY RD,ZANESVILLE,OH,43701-01342-07392-S | On Site | May 27 |
+| **[Xometry](https://www.xometry.com)** | **[Customer Support Intern](https://jobright.ai/jobs/info/6a16dd77d6a04f21602e0ce6?utm_campaign=1058&utm_source=git)** | North Bethesda, MD | Hybrid | May 27 |
+| ↳ | **[Customer Support Intern](https://jobright.ai/jobs/info/6a16dd70d6a04f21602e0ce5?utm_campaign=1058&utm_source=git)** | Lexington, KY | Hybrid | May 27 |
+| ↳ | **[Customer Support Intern](https://jobright.ai/jobs/info/6a16dd6fd6a04f21602e0ce4?utm_campaign=1058&utm_source=git)** | Waltham, MA | Hybrid | May 27 |
 | **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/6a16cd579005d858e94f38b7?utm_campaign=1058&utm_source=git)** | 461 MAIN ST,SACO,ME,04072 | On Site | May 27 |
 | **[Griffon Aerospace](http://www.griffonaerospace.com)** | **[IT Technician – Intern](https://jobright.ai/jobs/info/6a16c745b091c7417c4f85f7?utm_campaign=1058&utm_source=git)** | Madison,AL,US | On Site | May 27 |
 | **[Therma-Tru Doors](http://www.thermatru.com/)** | **[IT Infrastructure Intern](https://jobright.ai/jobs/info/69de588836823d1b42580821?utm_campaign=1058&utm_source=git)** | Butler, IN | On Site | May 27 |
@@ -143,6 +147,7 @@ For a complete list, click the following sortable link below:
 | **[Austin Community College](http://austincc.edu)** | **[ACC GROW High School Intern](https://jobright.ai/jobs/info/6a15ae37554b0e12c0584ee7?utm_campaign=1058&utm_source=git)** | Highland Campus, US | On Site | May 26 |
 | **[Justrite Safety Group](https://www.justrite.com)** | **[Customer Service Intern](https://jobright.ai/jobs/info/69a854ed1dfc787e9aa35583?utm_campaign=1058&utm_source=git)** | Wellsburg, WV | On Site | May 26 |
 | **[NextGen Federal Systems](https://www.nextgenfed.com/)** | **[Business Support Intern](https://jobright.ai/jobs/info/69dda1d7aba61f1417310cfb?utm_campaign=1058&utm_source=git)** | Mobile, AL | Remote | May 26 |
+| **[Hannaford Supermarkets](https://www.hannaford.com/)** | **[P4 Rx Intern ($26/ hr)](https://jobright.ai/jobs/info/69de00dd36823d1b4257f8e6?utm_campaign=1058&utm_source=git)** | Modena, NY | On Site | May 26 |
 | **[Goodshuffle](https://pro.goodshuffle.com)** | **[Customer Experience Intern](https://jobright.ai/jobs/info/69faedbb38179b6f1ae73d77?utm_campaign=1058&utm_source=git)** | Washington, DC | On Site | May 26 |
 | **[Plug and Play Tech Center](https://www.plugandplaytechcenter.com)** | **[IT Intern](https://jobright.ai/jobs/info/69fb080186d5cd46527d1dec?utm_campaign=1058&utm_source=git)** | Sunnyvale, CA | On Site | May 26 |
 | **[Methodist Le Bonheur Healthcare](https://www.methodisthealth.org/)** | **[Respiratory Supply Intern](https://jobright.ai/jobs/info/69fadc9a86d5cd46527d05e2?utm_campaign=1058&utm_source=git)** | Memphis, TN | On Site | May 26 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Service Desk](https://jobright.ai/jobs/info/6a157e69128680351d961cbf?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | Hybrid | May 26 |
 | **[RPM Living](https://www.rpmliving.com/)** | **[Intern, Customer Experience](https://jobright.ai/jobs/info/6a157e40128680351d961cbb?utm_campaign=1058&utm_source=git)** | Phoenix, AZ | On Site | May 26 |
 | **[Viking Packaging](https://vikingpackaging.com/)** | **[IT Support Intern](https://jobright.ai/jobs/info/6a157d9adc845f4be5bd63f5?utm_campaign=1058&utm_source=git)** | US-NY-Wallkill | On Site | May 26 |
-| **[Qualtrics](http://www.qualtrics.com)** | **[Skillbridge - Enterprise Support Manager Internship](https://jobright.ai/jobs/info/69fae73886d5cd46527d0e23?utm_campaign=1058&utm_source=git)** | United States | Remote | May 26 |
-| **[Selux Corporation](https://www.selux.us)** | **[IT Support Intern](https://jobright.ai/jobs/info/6a157ba3554b0e12c058308c?utm_campaign=1058&utm_source=git)** | US-NY-Wallkill | On Site | May 26 |
-| **[NANA](http://nana.com)** | **[NANA SHAREHOLDER COLLEGE INTERNSHIP - NANA North Information Technology (IT) Intern Paid Internship](https://jobright.ai/jobs/info/6a157ba3dc845f4be5bd61e0?utm_campaign=1058&utm_source=git)** | Anchorage , AK, US | On Site | May 26 |
-| ↳ | **[NANA SHAREHOLDER COLLEGE INTERNSHIP - NANA North Information Technology (IT) Intern Paid Internship](https://jobright.ai/jobs/info/6a157ba0dc845f4be5bd61de?utm_campaign=1058&utm_source=git)** | US-AK-Anchorage | On Site | May 26 |
-| **[Selux Corporation](https://www.selux.us)** | **[IT Support Intern](https://jobright.ai/jobs/info/6a157b9e554b0e12c0583087?utm_campaign=1058&utm_source=git)** | Wallkill, NY, US | On Site | May 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
