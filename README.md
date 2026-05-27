@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Hotel at Auburn University & Dixon Conference Center](https://www.auhcc.com/careers)** | **[Rooms - International Rooms Intern](https://jobright.ai/jobs/info/6a1634c9dc845f4be5bdd448?utm_campaign=1058&utm_source=git)** | Auburn, AL | On Site | May 26 |
+| **[State Of Vermont Dept Health](https://www.healthvermont.gov/)** | **[Paid Intern IT, State Treasurers Department - Temporary](https://jobright.ai/jobs/info/6a1632bd128680351d9689ac?utm_campaign=1058&utm_source=git)** | Montpelier | On Site | May 26 |
+| **[Perkins&Will](http://perkinswill.com)** | **[IT Intern](https://jobright.ai/jobs/info/6a1630aea429fd279da9665f?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | May 26 |
+| ↳ | **[IT Intern](https://jobright.ai/jobs/info/6a162c44554b0e12c0589eea?utm_campaign=1058&utm_source=git)** | Durham, NC | On Site | May 26 |
 | **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a1623c4128680351d9684d8?utm_campaign=1058&utm_source=git)** | 794 S PARK ST,CARROLLTON,GA,30117-03826-07820-S | On Site | May 26 |
 | **[Compass Group Canada](http://www.compass-canada.com)** | **[PATIENT AMBASSADOR (INTERN)](https://jobright.ai/jobs/info/6a1623461935fa61b3c6f347?utm_campaign=1058&utm_source=git)** | Huntersville, NC, US | On Site | May 26 |
 | **[Lone Mountain Ranch](http://www.lonemountainranch.com)** | **[Hospitality Intern](https://jobright.ai/jobs/info/6a162277dc845f4be5bdce38?utm_campaign=1058&utm_source=git)** | Big Sky, MT, US | On Site | May 26 |
@@ -146,15 +150,11 @@ For a complete list, click the following sortable link below:
 | **[OneRange](https://www.onerange.co)** | **[Customer Experience Intern](https://jobright.ai/jobs/info/6a151c61128680351d95f696?utm_campaign=1058&utm_source=git)** | United States | Remote | May 25 |
 | **[Western Specialty Contractors](http://westernspecialtycontractors.com)** | **[IT Help Desk Intern](https://jobright.ai/jobs/info/6a151b53c48b503aeffc0a34?utm_campaign=1058&utm_source=git)** | Home Office - St Louis | On Site | May 25 |
 | ↳ | **[IT Help Desk Intern](https://jobright.ai/jobs/info/6a151b4fc48b503aeffc0a33?utm_campaign=1058&utm_source=git)** | St. Louis, MO | On Site | May 25 |
+| **[Norfolk Admirals](https://www.norfolkadmirals.com/)** | **[Gameday Operations Internship](https://jobright.ai/jobs/info/6a16279b0073182bd92b0bd1?utm_campaign=1058&utm_source=git)** | Norfolk, VA | On Site | May 25 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a14d0b2bc9bff375af0238f?utm_campaign=1058&utm_source=git)** | 5702 WEBER RD,CORPUS CHRISTI,TX,78413 | On Site | May 25 |
 | **[Cribl](https://www.cribl.io)** | **[Customer Experience Ops Intern](https://jobright.ai/jobs/info/6a14c916dc845f4be5bd3174?utm_campaign=1058&utm_source=git)** | US - California | Hybrid | May 25 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a14b772738a270c8bfa8851?utm_campaign=1058&utm_source=git)** | 6001 CENTRAL AVE,PORTAGE,IN,46368-03506-13949-S | On Site | May 25 |
 | **[Atkins & Pearce, Inc.](http://www.atkinsandpearce.com/)** | **[Intern](https://jobright.ai/jobs/info/6a14a225dc845f4be5bd2a25?utm_campaign=1058&utm_source=git)** | Fort Mitchell, KY | On Site | May 25 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a14f23fdc845f4be5bd377f?utm_campaign=1058&utm_source=git)** | St Clair, MI | On Site | May 25 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a14ef32bc9bff375af02810?utm_campaign=1058&utm_source=git)** | Northport, AL | On Site | May 25 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a149abf554b0e12c057f8ab?utm_campaign=1058&utm_source=git)** | Noblesville, IN | On Site | May 25 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a14979cdc845f4be5bd2862?utm_campaign=1058&utm_source=git)** | Hattiesburg, MS | On Site | May 25 |
-| **[Lantic Inc.](https://lanticrogers.com)** | **[IT Technician](https://jobright.ai/jobs/info/6a149713738a270c8bfa8233?utm_campaign=1058&utm_source=git)** | Lantic Inc., 4026, Notre-Dame Est, Montreal, Quebec, Canada | Hybrid | May 25 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a149516dc845f4be5bd2803?utm_campaign=1058&utm_source=git)** | Rochester, MI | On Site | May 25 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a149511554b0e12c057f7c4?utm_campaign=1058&utm_source=git)** | Fort Worth, TX | On Site | May 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
