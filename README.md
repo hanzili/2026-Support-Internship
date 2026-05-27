@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Amazon](https://amazon.com)** | **[Technical Customer Solutions Manager Intern - Fall 2026](https://jobright.ai/jobs/info/6a1717b6d6a04f21602e2976?utm_campaign=1058&utm_source=git)** | New York, New York, USA | On Site | May 27 |
+| **[Podium](https://www.podium.com)** | **[IT Helpdesk Intern](https://jobright.ai/jobs/info/6a1717491430333075cccd59?utm_campaign=1058&utm_source=git)** | Lehi, Utah | On Site | May 27 |
+| ↳ | **[IT Helpdesk Intern](https://jobright.ai/jobs/info/6a1717481430333075cccd58?utm_campaign=1058&utm_source=git)** | Lehi | On Site | May 27 |
+| **[Scottish Rite for Children](https://scottishriteforchildren.org/)** | **[Clinical Research Intern](https://jobright.ai/jobs/info/6a1716699005d858e94f5813?utm_campaign=1058&utm_source=git)** | Dallas, TX, US | On Site | May 27 |
+| **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/6a17124bf45c6530ce9a855e?utm_campaign=1058&utm_source=git)** | Rincon, GA | On Site | May 27 |
+| **[New York City Department of Consumer and Worker Protection](http://www.nyc.gov/dcwp)** | **[IT OPS Intern](https://jobright.ai/jobs/info/6a17108e9005d858e94f55c6?utm_campaign=1058&utm_source=git)** | Manhattan, NY | On Site | May 27 |
+| **[Rheem Manufacturing](http://www.rheem.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/6a170c78f45c6530ce9a8332?utm_campaign=1058&utm_source=git)** | Fort Smith, AR, United States | On Site | May 27 |
+| **[Penumbra, Inc.](http://penumbrainc.com)** | **[IT Intern - Temp](https://jobright.ai/jobs/info/6a1706fa9005d858e94f51b8?utm_campaign=1058&utm_source=git)** | Alameda, CA | On Site | May 27 |
+| **[Porsche Cars North America](http://www.porscheusa.com)** | **[IT Services Intern](https://jobright.ai/jobs/info/6a1706a6d6a04f21602e22a0?utm_campaign=1058&utm_source=git)** | Atlanta HQ (OPD) | On Site | May 27 |
 | **[Kravet](http://www.kravet.com)** | **[IT Intern](https://jobright.ai/jobs/info/6a16ffc7f45c6530ce9a7e89?utm_campaign=1058&utm_source=git)** | Woodbury, NY | On Site | May 27 |
 | **[Penumbra, Inc.](http://penumbrainc.com)** | **[IT Intern - Temp](https://jobright.ai/jobs/info/6a16fe2ef45c6530ce9a7c5c?utm_campaign=1058&utm_source=git)** | Alameda, CA | On Site | May 27 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a16e7cc9005d858e94f427f?utm_campaign=1058&utm_source=git)** | 1033 MILITARY RD,ZANESVILLE,OH,43701-01342-07392-S | On Site | May 27 |
@@ -147,14 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Technology Intern](https://jobright.ai/jobs/info/6a15b25e128680351d9637e2?utm_campaign=1058&utm_source=git)** | Washington, DC 20011 | On Site | May 26 |
 | **[Austin Community College](http://austincc.edu)** | **[ACC GROW High School Intern](https://jobright.ai/jobs/info/6a15ae37554b0e12c0584ee7?utm_campaign=1058&utm_source=git)** | Highland Campus, US | On Site | May 26 |
 | **[Justrite Safety Group](https://www.justrite.com)** | **[Customer Service Intern](https://jobright.ai/jobs/info/69a854ed1dfc787e9aa35583?utm_campaign=1058&utm_source=git)** | Wellsburg, WV | On Site | May 26 |
-| **[NextGen Federal Systems](https://www.nextgenfed.com/)** | **[Business Support Intern](https://jobright.ai/jobs/info/69dda1d7aba61f1417310cfb?utm_campaign=1058&utm_source=git)** | Mobile, AL | Remote | May 26 |
 | **[Hannaford Supermarkets](https://www.hannaford.com/)** | **[P4 Rx Intern ($26/ hr)](https://jobright.ai/jobs/info/69de00dd36823d1b4257f8e6?utm_campaign=1058&utm_source=git)** | Modena, NY | On Site | May 26 |
-| **[Goodshuffle](https://pro.goodshuffle.com)** | **[Customer Experience Intern](https://jobright.ai/jobs/info/69faedbb38179b6f1ae73d77?utm_campaign=1058&utm_source=git)** | Washington, DC | On Site | May 26 |
-| **[Plug and Play Tech Center](https://www.plugandplaytechcenter.com)** | **[IT Intern](https://jobright.ai/jobs/info/69fb080186d5cd46527d1dec?utm_campaign=1058&utm_source=git)** | Sunnyvale, CA | On Site | May 26 |
-| **[Methodist Le Bonheur Healthcare](https://www.methodisthealth.org/)** | **[Respiratory Supply Intern](https://jobright.ai/jobs/info/69fadc9a86d5cd46527d05e2?utm_campaign=1058&utm_source=git)** | Memphis, TN | On Site | May 26 |
-| **[Martin Equipment](https://www.martinequipment.com)** | **[Service Technician Intern](https://jobright.ai/jobs/info/6a1596cc1935fa61b3c6958e?utm_campaign=1058&utm_source=git)** | Illinois, Missouri, or Iowa Branches - Goodfield, IL 61742 | On Site | May 26 |
-| **[Center for Internet Security](http://cisecurity.org/)** | **[IT Intern - Clifton Park, NY](https://jobright.ai/jobs/info/6a15927f0073182bd92aaef6?utm_campaign=1058&utm_source=git)** | Clifton Park, NY | On Site | May 26 |
-| **[Dollar Bank](http://dollar.bank)** | **[Intern, Desktop Support](https://jobright.ai/jobs/info/6a157e71dc845f4be5bd646c?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | On Site | May 26 |
-| ↳ | **[Intern, Service Desk](https://jobright.ai/jobs/info/6a157e69128680351d961cbf?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | Hybrid | May 26 |
-| **[RPM Living](https://www.rpmliving.com/)** | **[Intern, Customer Experience](https://jobright.ai/jobs/info/6a157e40128680351d961cbb?utm_campaign=1058&utm_source=git)** | Phoenix, AZ | On Site | May 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
