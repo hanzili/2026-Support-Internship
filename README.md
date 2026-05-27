@@ -153,8 +153,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Intern](https://jobright.ai/jobs/info/6a15399a128680351d96007e?utm_campaign=1058&utm_source=git)** | Remote US | Remote | May 25 |
 | **[Xometry](https://www.xometry.com)** | **[Case Management Intern](https://jobright.ai/jobs/info/6a153754438198796a26ac45?utm_campaign=1058&utm_source=git)** | North Bethesda, MD | Hybrid | May 25 |
 | ↳ | **[Case Management Intern](https://jobright.ai/jobs/info/6a153751438198796a26ac44?utm_campaign=1058&utm_source=git)** | Lexington, KY | Hybrid | May 25 |
-| ↳ | **[Case Management Intern](https://jobright.ai/jobs/info/6a153750438198796a26ac42?utm_campaign=1058&utm_source=git)** | Waltham, MA | Hybrid | May 25 |
 | ↳ | **[Case Management Intern](https://jobright.ai/jobs/info/6a153750438198796a26ac43?utm_campaign=1058&utm_source=git)** | Gaithersburg, MD | Hybrid | May 25 |
+| ↳ | **[Case Management Intern](https://jobright.ai/jobs/info/6a153750438198796a26ac42?utm_campaign=1058&utm_source=git)** | Waltham, MA | Hybrid | May 25 |
 | **[TA Instruments](http://www.tainstruments.com)** | **[Intern, Field Service](https://jobright.ai/jobs/info/6a152959128680351d95fdcd?utm_campaign=1058&utm_source=git)** | San Diego | On Site | May 25 |
 | ↳ | **[Intern, Field Service](https://jobright.ai/jobs/info/6a152958128680351d95fdcc?utm_campaign=1058&utm_source=git)** | Houston, TX, US | On Site | May 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
