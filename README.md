@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cooperative Farmers Elevator](https://www.coopfe.com)** | **[IT Operations Intern](https://jobright.ai/jobs/info/6a16682ea429fd279da9833c?utm_campaign=1058&utm_source=git)** | Rock Valley, IA | On Site | May 26 |
 | **[Network Right](https://networkright.com)** | **[Intern (IT/Ops/Admin)](https://jobright.ai/jobs/info/6a16572d1935fa61b3c70fd9?utm_campaign=1058&utm_source=git)** | New York City office | On Site | May 26 |
 | ↳ | **[Intern (IT/Ops/Admin)](https://jobright.ai/jobs/info/6a165702554b0e12c058b91f?utm_campaign=1058&utm_source=git)** | New York Office | On Site | May 26 |
 | ↳ | **[Intern (IT/Ops/Admin)](https://jobright.ai/jobs/info/6a165632128680351d96a1bf?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | May 26 |
@@ -64,6 +65,7 @@ For a complete list, click the following sortable link below:
 | **[Frankel](http://fzacpa.com)** | **[Service Desk Coordinator/Technician Intern (Summer & Fall 2026)](https://jobright.ai/jobs/info/6a164f16dc845f4be5bde391?utm_campaign=1058&utm_source=git)** | Omaha, NE | On Site | May 26 |
 | **[HEI Hotels & Resorts](http://www.heihotels.com)** | **[Front Office Internship J1](https://jobright.ai/jobs/info/6a164e83128680351d9699c3?utm_campaign=1058&utm_source=git)** | Rockville, MD | On Site | May 26 |
 | **[River Valley Community Bank](https://www.myrvcb.com)** | **[Internship](https://jobright.ai/jobs/info/6a164c4c128680351d9698d7?utm_campaign=1058&utm_source=git)** | Yuba City, CA | On Site | May 26 |
+| **[McLaren Health Care](http://www.mclaren.org)** | **[Intern- Patient Access](https://jobright.ai/jobs/info/6a166835a429fd279da98340?utm_campaign=1058&utm_source=git)** | Petoskey, MI | On Site | May 26 |
 | **[Maxwood Furniture](https://maxwoodfurniture.com/)** | **[Associate IT Support Intern](https://jobright.ai/jobs/info/6a164b59554b0e12c058af97?utm_campaign=1058&utm_source=git)** | Charleston, SC | On Site | May 26 |
 | **[Farmers & Merchants Bank of Long Beach](https://www.fmb.com/)** | **[IT Intern](https://jobright.ai/jobs/info/6a16459f128680351d9696fe?utm_campaign=1058&utm_source=git)** | Seal Beach, CA | On Site | May 26 |
 | **[Foodbuy USA](http://www.foodbuy.com)** | **[PATIENT AMBASSADOR (INTERN)](https://jobright.ai/jobs/info/6a164229a429fd279da9722b?utm_campaign=1058&utm_source=git)** | Novant Huntersville - 10030 Gilead Road, Huntersville, NC, 28078, US | On Site | May 26 |
@@ -85,7 +87,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[IT Intern](https://jobright.ai/jobs/info/6a1605d21935fa61b3c6df76?utm_campaign=1058&utm_source=git)** | Durham, North Carolina, United States | On Site | May 26 |
 | **[Everon](https://www.everonsolutions.com)** | **[Product Support Intern](https://jobright.ai/jobs/info/6a16046b128680351d966ff3?utm_campaign=1058&utm_source=git)** | Irving, TX | On Site | May 26 |
 | **[Orrick, Herrington & Sutcliffe LLP](https://www.orrick.com)** | **[IT Service Operations Intern](https://jobright.ai/jobs/info/69e99df558811370cb12e71b?utm_campaign=1058&utm_source=git)** | Wheeling, WV | Hybrid | May 26 |
-| **[Lunds & Byerlys](http://lundsandbyerlys.com)** | **[System Support Intern](https://jobright.ai/jobs/info/6a160416dc845f4be5bdb9fb?utm_campaign=1058&utm_source=git)** | 7752 Mitchell Road, Eden Prairie, MN, USA | On Site | May 26 |
 | **[Harris Teeter](http://www.harristeeter.com)** | **[Part Time Pharmacy Graduate-Wilmington Market  Intern](https://jobright.ai/jobs/info/6a15ffe7128680351d966af2?utm_campaign=1058&utm_source=git)** | WILMINGTON, NORTH CAROLINA, STORE 191 - WILMINGTON-PORTERS NECK | On Site | May 26 |
 | **[InterWorks](http://www.interworks.com)** | **[IT Intern](https://jobright.ai/jobs/info/6a15ff25128680351d96693d?utm_campaign=1058&utm_source=git)** | Stillwater, Oklahoma | On Site | May 26 |
 | **[Maxwood Furniture](https://maxwoodfurniture.com/)** | **[Associate IT Support Intern](https://jobright.ai/jobs/info/6a15fd9d1935fa61b3c6d500?utm_campaign=1058&utm_source=git)** | 125 Fairchild St, Charleston, 29492, US | On Site | May 26 |
@@ -143,15 +144,14 @@ For a complete list, click the following sortable link below:
 | **[Selux Corporation](https://www.selux.us)** | **[IT Support Intern](https://jobright.ai/jobs/info/6a157b9e554b0e12c0583087?utm_campaign=1058&utm_source=git)** | Wallkill, NY, US | On Site | May 26 |
 | **[NANA](http://nana.com)** | **[NANA SHAREHOLDER COLLEGE INTERNSHIP - NANA North Information Technology (IT) Intern Paid Internship](https://jobright.ai/jobs/info/6a157b9ddc845f4be5bd61d9?utm_campaign=1058&utm_source=git)** | Anchorage | On Site | May 26 |
 | **[Indie Campers](https://indiecampers.com/)** | **[Tourism & Operations internship](https://jobright.ai/jobs/info/6a157192438198796a26bc7c?utm_campaign=1058&utm_source=git)** | Florence Depot located in Signa | On Site | May 26 |
-| **[Generac](https://www.generac.com)** | **[IT Intern - Results Delivery Office](https://jobright.ai/jobs/info/6a15b5890073182bd92abf6f?utm_campaign=1058&utm_source=git)** | Waukesha, WI | On Site | May 26 |
 | **[American Heritage Railways Inc](http://americanheritagerailways.com/)** | **[GSMR Special Events Intern](https://jobright.ai/jobs/info/6a155d0f438198796a26b718?utm_campaign=1058&utm_source=git)** | BRYSON CITY, NC 28713 | On Site | May 26 |
 | **[Formic](https://formic.co)** | **[Summer 2026 Intern](https://jobright.ai/jobs/info/6a1539b9128680351d960095?utm_campaign=1058&utm_source=git)** | Chicago | On Site | May 25 |
 | ↳ | **[Summer 2026 Intern](https://jobright.ai/jobs/info/6a1539ae128680351d96008e?utm_campaign=1058&utm_source=git)** | Bolingbrook, IL | On Site | May 25 |
 | ↳ | **[Summer 2026 Intern](https://jobright.ai/jobs/info/6a15399a128680351d96007e?utm_campaign=1058&utm_source=git)** | Remote US | Remote | May 25 |
 | **[Xometry](https://www.xometry.com)** | **[Case Management Intern](https://jobright.ai/jobs/info/6a153754438198796a26ac45?utm_campaign=1058&utm_source=git)** | North Bethesda, MD | Hybrid | May 25 |
 | ↳ | **[Case Management Intern](https://jobright.ai/jobs/info/6a153751438198796a26ac44?utm_campaign=1058&utm_source=git)** | Lexington, KY | Hybrid | May 25 |
-| ↳ | **[Case Management Intern](https://jobright.ai/jobs/info/6a153750438198796a26ac43?utm_campaign=1058&utm_source=git)** | Gaithersburg, MD | Hybrid | May 25 |
 | ↳ | **[Case Management Intern](https://jobright.ai/jobs/info/6a153750438198796a26ac42?utm_campaign=1058&utm_source=git)** | Waltham, MA | Hybrid | May 25 |
+| ↳ | **[Case Management Intern](https://jobright.ai/jobs/info/6a153750438198796a26ac43?utm_campaign=1058&utm_source=git)** | Gaithersburg, MD | Hybrid | May 25 |
 | **[TA Instruments](http://www.tainstruments.com)** | **[Intern, Field Service](https://jobright.ai/jobs/info/6a152959128680351d95fdcd?utm_campaign=1058&utm_source=git)** | San Diego | On Site | May 25 |
 | ↳ | **[Intern, Field Service](https://jobright.ai/jobs/info/6a152958128680351d95fdcc?utm_campaign=1058&utm_source=git)** | Houston, TX, US | On Site | May 25 |
 | ↳ | **[Intern, Field Service](https://jobright.ai/jobs/info/6a152955128680351d95fdcb?utm_campaign=1058&utm_source=git)** | Seattle, WA, US | On Site | May 25 |
