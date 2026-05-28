@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ezee Fiber](https://ezeefiber.com/)** | **[IT Support Intern- Fall 2026](https://jobright.ai/jobs/info/6a18023b54962c1bb4b06669?utm_campaign=1058&utm_source=git)** | Tampa, FL | On Site | May 28 |
+| **[Michigan First Credit Union](http://www.michiganfirst.com/)** | **[Recovery Assistance Services Intern](https://jobright.ai/jobs/info/6a17fd7fba12bb0249bb61e0?utm_campaign=1058&utm_source=git)** | West Baton Rouge Parish County, LA | On Site | May 28 |
+| **[Atara Biotherapeutics](http://atarabio.com)** | **[IT Support Intern- Fall 2026](https://jobright.ai/jobs/info/6a17fb0dc8110e28b75b1c83?utm_campaign=1058&utm_source=git)** | Tampa, FL | On Site | May 28 |
 | **[Loenbro](http://loenbro.com)** | **[IT Transformation Intern](https://jobright.ai/jobs/info/6a17de10f45c6530ce9b0484?utm_campaign=1058&utm_source=git)** | Westminster, CO | On Site | May 27 |
 | ↳ | **[IT Transformation Intern](https://jobright.ai/jobs/info/6a17de0ff45c6530ce9b0483?utm_campaign=1058&utm_source=git)** | Dallas, TX | On Site | May 27 |
 | **[CPI Card Group](http://www.cpicardgroup.com/)** | **[TekSynap Internship - Inventory Specialist](https://jobright.ai/jobs/info/6a17dd005b0a497d5210fc79?utm_campaign=1058&utm_source=git)** | Columbus, OH | On Site | May 27 |
@@ -153,8 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Customer Support Intern](https://jobright.ai/jobs/info/6a16dd70d6a04f21602e0ce5?utm_campaign=1058&utm_source=git)** | Lexington, KY | Hybrid | May 27 |
 | ↳ | **[Customer Support Intern](https://jobright.ai/jobs/info/6a16dd6fd6a04f21602e0ce4?utm_campaign=1058&utm_source=git)** | Waltham, MA | Hybrid | May 27 |
 | **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/6a16cd579005d858e94f38b7?utm_campaign=1058&utm_source=git)** | 461 MAIN ST,SACO,ME,04072 | On Site | May 27 |
-| **[Griffon Aerospace](http://www.griffonaerospace.com)** | **[IT Technician – Intern](https://jobright.ai/jobs/info/6a16c745b091c7417c4f85f7?utm_campaign=1058&utm_source=git)** | Madison,AL,US | On Site | May 27 |
 | **[Therma-Tru Doors](http://www.thermatru.com/)** | **[IT Infrastructure Intern](https://jobright.ai/jobs/info/69de588836823d1b42580821?utm_campaign=1058&utm_source=git)** | Butler, IN | On Site | May 27 |
-| **[Catholic Charities of the Archdiocese of Galveston-Houston](https://catholiccharities.org/)** | **[Building Services / Agency Operations Intern](https://jobright.ai/jobs/info/6a16ae8aa429fd279da9a1fe?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | May 27 |
-| **[The Computer Guy LLC](https://www.tcgway.com/)** | **[COMPUTER REPAIR INTERNSHIP](https://jobright.ai/jobs/info/6a16a8c41935fa61b3c72e91?utm_campaign=1058&utm_source=git)** | Murray, Kentucky, United States | On Site | May 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
