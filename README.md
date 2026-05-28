@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Monticello Public Schools](https://www.metropolitaneyecenter.com/)** | **[Summer Intern - Technology Support](https://jobright.ai/jobs/info/6a1791f3b091c7417c4ffe5c?utm_campaign=1058&utm_source=git)** | Monticello, MN | On Site | May 27 |
+| **[Phipps](https://www.phippsny.org)** | **[Intern](https://jobright.ai/jobs/info/6a1791581430333075cd2735?utm_campaign=1058&utm_source=git)** | New York, NY | Remote | May 27 |
+| **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/6a1790a45b0a497d5210daeb?utm_campaign=1058&utm_source=git)** | 1990 MONUMENT BLVD,CONCORD,CA,94520-03800-15003-S | On Site | May 27 |
+| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a1790a05b0a497d5210dae8?utm_campaign=1058&utm_source=git)** | 3093 MARLOW RD,SANTA ROSA,CA,95403 | On Site | May 27 |
+| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Intern-IT Desktop Support](https://jobright.ai/jobs/info/6a178cc99005d858e94fb1b6?utm_campaign=1058&utm_source=git)** | City Hall, AZ | On Site | May 27 |
+| **[Novir](https://novir-usa.com/)** | **[Intern-Fulfillment](https://jobright.ai/jobs/info/6a178a7db091c7417c4ffa14?utm_campaign=1058&utm_source=git)** | Milwaukee, WI | On Site | May 27 |
 | **[Phipps](https://www.phippsny.org)** | **[Intern](https://jobright.ai/jobs/info/6a1778f7b091c7417c4ff022?utm_campaign=1058&utm_source=git)** | New York, New York, United States | Remote | May 27 |
 | **[Medpace](http://www.medpace.com)** | **[Call Center Intern](https://jobright.ai/jobs/info/6a17780eb091c7417c4fefaf?utm_campaign=1058&utm_source=git)** | Cincinnati, OH | On Site | May 27 |
 | **[Grand Pacific Resorts](http://www.grandpacificpalisades.com)** | **[IT Help Desk - Summer 2026 Internship](https://jobright.ai/jobs/info/6a1775af5b0a497d5210cb73?utm_campaign=1058&utm_source=git)** | Grand Pacific Resorts Inc - Carlsbad, CA 92008 | On Site | May 27 |
@@ -91,8 +97,8 @@ For a complete list, click the following sortable link below:
 | **[Douglas County School System](https://www.dcssga.org/)** | **[Summer Intern](https://jobright.ai/jobs/info/6a17394bd6a04f21602e48ea?utm_campaign=1058&utm_source=git)** | New Manchhester High | On Site | May 27 |
 | ↳ | **[Summer Intern](https://jobright.ai/jobs/info/6a17392a1430333075ccedf5?utm_campaign=1058&utm_source=git)** | Chapel Hill High | On Site | May 27 |
 | ↳ | **[Summer Intern](https://jobright.ai/jobs/info/6a173926b091c7417c4fc514?utm_campaign=1058&utm_source=git)** | Lithia Springs High | On Site | May 27 |
-| ↳ | **[Summer Intern](https://jobright.ai/jobs/info/6a173925b091c7417c4fc512?utm_campaign=1058&utm_source=git)** | Alexander High School | On Site | May 27 |
 | ↳ | **[Summer Intern](https://jobright.ai/jobs/info/6a1739255b0a497d5210a089?utm_campaign=1058&utm_source=git)** | Douglas County High | On Site | May 27 |
+| ↳ | **[Summer Intern](https://jobright.ai/jobs/info/6a173925b091c7417c4fc512?utm_campaign=1058&utm_source=git)** | Alexander High School | On Site | May 27 |
 | **[American Bankruptcy Institute](https://abi.org/)** | **[Administrative & Membership Intern](https://jobright.ai/jobs/info/6a17386c5b0a497d5210a03b?utm_campaign=1058&utm_source=git)** | Alexandria, VA | On Site | May 27 |
 | **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Technical Customer Solutions Manager Intern - Fall 2026](https://jobright.ai/jobs/info/6a1737a7d6a04f21602e4757?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | May 27 |
 | **[Alkeus Pharmaceuticals, Inc.](http://www.alkeuspharma.com)** | **[Intern - Information Technology (IT)](https://jobright.ai/jobs/info/6a1736d25b0a497d52109e69?utm_campaign=1058&utm_source=git)** | Cambridge, MA | On Site | May 27 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[River Valley Community Bank](https://www.myrvcb.com)** | **[Internship](https://jobright.ai/jobs/info/6a164c4c128680351d9698d7?utm_campaign=1058&utm_source=git)** | Yuba City, CA | On Site | May 26 |
 | **[McLaren Health Care](http://www.mclaren.org)** | **[Intern- Patient Access](https://jobright.ai/jobs/info/6a166835a429fd279da98340?utm_campaign=1058&utm_source=git)** | Petoskey, MI | On Site | May 26 |
 | **[Maxwood Furniture](https://maxwoodfurniture.com/)** | **[Associate IT Support Intern](https://jobright.ai/jobs/info/6a164b59554b0e12c058af97?utm_campaign=1058&utm_source=git)** | Charleston, SC | On Site | May 26 |
-| **[Farmers & Merchants Bank of Long Beach](https://www.fmb.com/)** | **[IT Intern](https://jobright.ai/jobs/info/6a16459f128680351d9696fe?utm_campaign=1058&utm_source=git)** | Seal Beach, CA | On Site | May 26 |
-| **[Foodbuy USA](http://www.foodbuy.com)** | **[PATIENT AMBASSADOR (INTERN)](https://jobright.ai/jobs/info/6a164229a429fd279da9722b?utm_campaign=1058&utm_source=git)** | Novant Huntersville - 10030 Gilead Road, Huntersville, NC, 28078, US | On Site | May 26 |
-| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a163fc6554b0e12c058abd8?utm_campaign=1058&utm_source=git)** | 2586 WOODRUFF RD,SIMPSONVILLE,SC,29681 | On Site | May 26 |
-| **[Newington Public Schools](http://www.npsct.org/)** | **[Information Technology Internship Program](https://jobright.ai/jobs/info/6a163e21dc845f4be5bdde58?utm_campaign=1058&utm_source=git)** | Newington, CT | On Site | May 26 |
-| **[Crothall Healthcare](https://www.crothall.com)** | **[PATIENT AMBASSADOR (INTERN)](https://jobright.ai/jobs/info/6a163cdb0073182bd92b19cc?utm_campaign=1058&utm_source=git)** | Huntersville, NC | On Site | May 26 |
-| **[Unity Health](https://www.unity-health.org)** | **[IT Intern](https://jobright.ai/jobs/info/6a1746c39005d858e94f813e?utm_campaign=1058&utm_source=git)** | Searcy, AR | On Site | May 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
