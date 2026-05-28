@@ -65,6 +65,7 @@ For a complete list, click the following sortable link below:
 | **[Radio Free Asia](http://www.rfa.org)** | **[Intern Customer Experience](https://jobright.ai/jobs/info/6a17d936b091c7417c501c77?utm_campaign=1058&utm_source=git)** | Orange County, CA | Hybrid | May 27 |
 | **[Kentro](http://www.kentro.us)** | **[ServiceNow Intern- Fall 2026](https://jobright.ai/jobs/info/6a17cf4cda08264614c908ae?utm_campaign=1058&utm_source=git)** | United States | Remote | May 27 |
 | ↳ | **[IT Support Intern- Fall 2026](https://jobright.ai/jobs/info/6a17cd00b091c7417c5019c6?utm_campaign=1058&utm_source=git)** | Tampa, FL | On Site | May 27 |
+| **[CommunityAmerica Credit Union](https://www.communityamerica.com/)** | **[Website Maintenance Intern](https://jobright.ai/jobs/info/6a17f672c8110e28b75b1639?utm_campaign=1058&utm_source=git)** | Tippecanoe County, IN | On Site | May 27 |
 | **[The Ware Group](https://thewaregrouprealestate.com/)** | **[ServiceNow Intern- Fall 2026](https://jobright.ai/jobs/info/6a17cac75b0a497d5210f5fd?utm_campaign=1058&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | May 27 |
 | ↳ | **[ServiceNow Intern- Fall 2026](https://jobright.ai/jobs/info/6a17cac65b0a497d5210f5fc?utm_campaign=1058&utm_source=git)** | US-Remote | Remote | May 27 |
 | **[New American Funding](https://www.newamericanfunding.com)** | **[Student Intern - Service Operations](https://jobright.ai/jobs/info/6a17c8d4da08264614c905df?utm_campaign=1058&utm_source=git)** | Brewer, ME | On Site | May 27 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Therma-Tru Doors](http://www.thermatru.com/)** | **[IT Infrastructure Intern](https://jobright.ai/jobs/info/69de588836823d1b42580821?utm_campaign=1058&utm_source=git)** | Butler, IN | On Site | May 27 |
 | **[Catholic Charities of the Archdiocese of Galveston-Houston](https://catholiccharities.org/)** | **[Building Services / Agency Operations Intern](https://jobright.ai/jobs/info/6a16ae8aa429fd279da9a1fe?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | May 27 |
 | **[The Computer Guy LLC](https://www.tcgway.com/)** | **[COMPUTER REPAIR INTERNSHIP](https://jobright.ai/jobs/info/6a16a8c41935fa61b3c72e91?utm_campaign=1058&utm_source=git)** | Murray, Kentucky, United States | On Site | May 27 |
-| **[Parker Hannifin](http://www.parker.com)** | **[IT Intern](https://jobright.ai/jobs/info/6a16a2c91935fa61b3c72a8a?utm_campaign=1058&utm_source=git)** | Kearney, NE | On Site | May 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
