@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SRI](http://www.sri.com)** | **[Student Intern - Service Operations](https://jobright.ai/jobs/info/6a17da355b0a497d5210fa28?utm_campaign=1058&utm_source=git)** | Brewer, ME | On Site | May 27 |
+| **[Radio Free Asia](http://www.rfa.org)** | **[Intern Customer Experience](https://jobright.ai/jobs/info/6a17d936b091c7417c501c77?utm_campaign=1058&utm_source=git)** | Orange County, CA | Hybrid | May 27 |
 | **[Kentro](http://www.kentro.us)** | **[ServiceNow Intern- Fall 2026](https://jobright.ai/jobs/info/6a17cf4cda08264614c908ae?utm_campaign=1058&utm_source=git)** | United States | Remote | May 27 |
 | ↳ | **[IT Support Intern- Fall 2026](https://jobright.ai/jobs/info/6a17cd00b091c7417c5019c6?utm_campaign=1058&utm_source=git)** | Tampa, FL | On Site | May 27 |
 | **[The Ware Group](https://thewaregrouprealestate.com/)** | **[ServiceNow Intern- Fall 2026](https://jobright.ai/jobs/info/6a17cac75b0a497d5210f5fd?utm_campaign=1058&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | May 27 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a169420a429fd279da998bd?utm_campaign=1058&utm_source=git)** | 3093 MARLOW RD,SANTA ROSA,CA,95403 | On Site | May 26 |
 | **[Fred Meyer](https://www.fredmeyer.com/)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/6a168cdd202ae849ed8d3f54?utm_campaign=1058&utm_source=git)** | Coeur d'Alene, ID | On Site | May 26 |
 | ↳ | **[Pharmacist Intern](https://jobright.ai/jobs/info/6a168aa01b2f6918b0e3281c?utm_campaign=1058&utm_source=git)** | Idaho Falls, ID | On Site | May 26 |
-| **[Herc Rentals](http://www.HercRentals.com)** | **[ProSales Intern (Astoria)](https://jobright.ai/jobs/info/6a0ed370619335383fb279b1?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | May 26 |
-| ↳ | **[ProSales Intern (Bronx)](https://jobright.ai/jobs/info/6a1689ff1b2f6918b0e327db?utm_campaign=1058&utm_source=git)** | Bronx, NY | On Site | May 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
