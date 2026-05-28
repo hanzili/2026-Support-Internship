@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Reynolds and Reynolds Company](https://www.reyrey.com)** | **[Cancellations Summer Intern](https://jobright.ai/jobs/info/69fb66ca38179b6f1ae78343?utm_campaign=1058&utm_source=git)** | Warrenville, IL | On Site | May 28 |
+| **[UChicago Medicine AdventHealth](http://JoinAdventHealth.com)** | **[Intern Customer Experience](https://jobright.ai/jobs/info/6a1808a581f8da15dc7d5284?utm_campaign=1058&utm_source=git)** | CA-Remote | Remote | May 28 |
 | **[Ezee Fiber](https://ezeefiber.com/)** | **[IT Support Intern- Fall 2026](https://jobright.ai/jobs/info/6a18023b54962c1bb4b06669?utm_campaign=1058&utm_source=git)** | Tampa, FL | On Site | May 28 |
 | **[Michigan First Credit Union](http://www.michiganfirst.com/)** | **[Recovery Assistance Services Intern](https://jobright.ai/jobs/info/6a17fd7fba12bb0249bb61e0?utm_campaign=1058&utm_source=git)** | West Baton Rouge Parish County, LA | On Site | May 28 |
 | **[Atara Biotherapeutics](http://atarabio.com)** | **[IT Support Intern- Fall 2026](https://jobright.ai/jobs/info/6a17fb0dc8110e28b75b1c83?utm_campaign=1058&utm_source=git)** | Tampa, FL | On Site | May 28 |
@@ -121,8 +123,8 @@ For a complete list, click the following sortable link below:
 | **[Douglas County School System](https://www.dcssga.org/)** | **[Summer Intern](https://jobright.ai/jobs/info/6a17394bd6a04f21602e48ea?utm_campaign=1058&utm_source=git)** | New Manchhester High | On Site | May 27 |
 | ↳ | **[Summer Intern](https://jobright.ai/jobs/info/6a17392a1430333075ccedf5?utm_campaign=1058&utm_source=git)** | Chapel Hill High | On Site | May 27 |
 | ↳ | **[Summer Intern](https://jobright.ai/jobs/info/6a173926b091c7417c4fc514?utm_campaign=1058&utm_source=git)** | Lithia Springs High | On Site | May 27 |
-| ↳ | **[Summer Intern](https://jobright.ai/jobs/info/6a1739255b0a497d5210a089?utm_campaign=1058&utm_source=git)** | Douglas County High | On Site | May 27 |
 | ↳ | **[Summer Intern](https://jobright.ai/jobs/info/6a173925b091c7417c4fc512?utm_campaign=1058&utm_source=git)** | Alexander High School | On Site | May 27 |
+| ↳ | **[Summer Intern](https://jobright.ai/jobs/info/6a1739255b0a497d5210a089?utm_campaign=1058&utm_source=git)** | Douglas County High | On Site | May 27 |
 | **[American Bankruptcy Institute](https://abi.org/)** | **[Administrative & Membership Intern](https://jobright.ai/jobs/info/6a17386c5b0a497d5210a03b?utm_campaign=1058&utm_source=git)** | Alexandria, VA | On Site | May 27 |
 | **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Technical Customer Solutions Manager Intern - Fall 2026](https://jobright.ai/jobs/info/6a1737a7d6a04f21602e4757?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | May 27 |
 | **[Alkeus Pharmaceuticals, Inc.](http://www.alkeuspharma.com)** | **[Intern - Information Technology (IT)](https://jobright.ai/jobs/info/6a1736d25b0a497d52109e69?utm_campaign=1058&utm_source=git)** | Cambridge, MA | On Site | May 27 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Xometry](https://www.xometry.com)** | **[Customer Support Intern](https://jobright.ai/jobs/info/6a16dd77d6a04f21602e0ce6?utm_campaign=1058&utm_source=git)** | North Bethesda, MD | Hybrid | May 27 |
 | ↳ | **[Customer Support Intern](https://jobright.ai/jobs/info/6a16dd70d6a04f21602e0ce5?utm_campaign=1058&utm_source=git)** | Lexington, KY | Hybrid | May 27 |
 | ↳ | **[Customer Support Intern](https://jobright.ai/jobs/info/6a16dd6fd6a04f21602e0ce4?utm_campaign=1058&utm_source=git)** | Waltham, MA | Hybrid | May 27 |
-| **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/6a16cd579005d858e94f38b7?utm_campaign=1058&utm_source=git)** | 461 MAIN ST,SACO,ME,04072 | On Site | May 27 |
-| **[Therma-Tru Doors](http://www.thermatru.com/)** | **[IT Infrastructure Intern](https://jobright.ai/jobs/info/69de588836823d1b42580821?utm_campaign=1058&utm_source=git)** | Butler, IN | On Site | May 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
