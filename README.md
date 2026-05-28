@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a17aeeab7e0a45039a9cf09?utm_campaign=1058&utm_source=git)** | 2045 FIELDSTONE PKWY,FRANKLIN,TN,37069-04336-04695-S | On Site | May 27 |
+| **[Wealth Enhancement](http://wealthenhancement.com/)** | **[Intern](https://jobright.ai/jobs/info/6a17a35081fe455c705aa7c8?utm_campaign=1058&utm_source=git)** | Walnut Creek, CA | On Site | May 27 |
 | **[SAIC](http://www.saic.com)** | **[Site Support Intern](https://jobright.ai/jobs/info/6a179f289005d858e94fb795?utm_campaign=1058&utm_source=git)** | San Diego, CA, United States | On Site | May 27 |
 | **[Orrick, Herrington & Sutcliffe LLP](https://www.orrick.com)** | **[IT Applications Deployment Intern](https://jobright.ai/jobs/info/6a179e8581fe455c705aa69d?utm_campaign=1058&utm_source=git)** | Wheeling, WV | Hybrid | May 27 |
 | ↳ | **[IT Applications Database Intern](https://jobright.ai/jobs/info/6a179c599005d858e94fb6a7?utm_campaign=1058&utm_source=git)** | Wheeling, WV | Hybrid | May 27 |
@@ -100,8 +102,8 @@ For a complete list, click the following sortable link below:
 | **[Douglas County School System](https://www.dcssga.org/)** | **[Summer Intern](https://jobright.ai/jobs/info/6a17394bd6a04f21602e48ea?utm_campaign=1058&utm_source=git)** | New Manchhester High | On Site | May 27 |
 | ↳ | **[Summer Intern](https://jobright.ai/jobs/info/6a17392a1430333075ccedf5?utm_campaign=1058&utm_source=git)** | Chapel Hill High | On Site | May 27 |
 | ↳ | **[Summer Intern](https://jobright.ai/jobs/info/6a173926b091c7417c4fc514?utm_campaign=1058&utm_source=git)** | Lithia Springs High | On Site | May 27 |
-| ↳ | **[Summer Intern](https://jobright.ai/jobs/info/6a1739255b0a497d5210a089?utm_campaign=1058&utm_source=git)** | Douglas County High | On Site | May 27 |
 | ↳ | **[Summer Intern](https://jobright.ai/jobs/info/6a173925b091c7417c4fc512?utm_campaign=1058&utm_source=git)** | Alexander High School | On Site | May 27 |
+| ↳ | **[Summer Intern](https://jobright.ai/jobs/info/6a1739255b0a497d5210a089?utm_campaign=1058&utm_source=git)** | Douglas County High | On Site | May 27 |
 | **[American Bankruptcy Institute](https://abi.org/)** | **[Administrative & Membership Intern](https://jobright.ai/jobs/info/6a17386c5b0a497d5210a03b?utm_campaign=1058&utm_source=git)** | Alexandria, VA | On Site | May 27 |
 | **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Technical Customer Solutions Manager Intern - Fall 2026](https://jobright.ai/jobs/info/6a1737a7d6a04f21602e4757?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | May 27 |
 | **[Alkeus Pharmaceuticals, Inc.](http://www.alkeuspharma.com)** | **[Intern - Information Technology (IT)](https://jobright.ai/jobs/info/6a1736d25b0a497d52109e69?utm_campaign=1058&utm_source=git)** | Cambridge, MA | On Site | May 27 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern (IT/Ops/Admin)](https://jobright.ai/jobs/info/6a165702554b0e12c058b91f?utm_campaign=1058&utm_source=git)** | New York Office | On Site | May 26 |
 | ↳ | **[Intern (IT/Ops/Admin)](https://jobright.ai/jobs/info/6a165632128680351d96a1bf?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | May 26 |
 | ↳ | **[Intern (IT/Ops/Admin)](https://jobright.ai/jobs/info/6a16562c128680351d96a1b4?utm_campaign=1058&utm_source=git)** | San Francisco, CA | On Site | May 26 |
-| **[Frankel](http://fzacpa.com)** | **[Service Desk Coordinator/Technician Intern (Summer & Fall 2026)](https://jobright.ai/jobs/info/6a164f16dc845f4be5bde391?utm_campaign=1058&utm_source=git)** | Omaha, NE | On Site | May 26 |
-| **[HEI Hotels & Resorts](http://www.heihotels.com)** | **[Front Office Internship J1](https://jobright.ai/jobs/info/6a164e83128680351d9699c3?utm_campaign=1058&utm_source=git)** | Rockville, MD | On Site | May 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
