@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Highlight](http://highlighttech.com/)** | **[IT Help Desk Intern](https://jobright.ai/jobs/info/6a17c1d5da08264614c90164?utm_campaign=1058&utm_source=git)** | Madison, WI | Hybrid | May 27 |
+| ↳ | **[IT Infrastructure Intern](https://jobright.ai/jobs/info/6a17c1c3da08264614c9014b?utm_campaign=1058&utm_source=git)** | Madison, WI | On Site | May 27 |
+| ↳ | **[IT Help Desk Intern](https://jobright.ai/jobs/info/6a17c1bbb091c7417c5013fa?utm_campaign=1058&utm_source=git)** | Madison, WI | On Site | May 27 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a17aeeab7e0a45039a9cf09?utm_campaign=1058&utm_source=git)** | 2045 FIELDSTONE PKWY,FRANKLIN,TN,37069-04336-04695-S | On Site | May 27 |
 | **[Wealth Enhancement](http://wealthenhancement.com/)** | **[Intern](https://jobright.ai/jobs/info/6a17a35081fe455c705aa7c8?utm_campaign=1058&utm_source=git)** | Walnut Creek, CA | On Site | May 27 |
 | **[SAIC](http://www.saic.com)** | **[Site Support Intern](https://jobright.ai/jobs/info/6a179f289005d858e94fb795?utm_campaign=1058&utm_source=git)** | San Diego, CA, United States | On Site | May 27 |
@@ -95,6 +98,7 @@ For a complete list, click the following sortable link below:
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Entry into Service (Fall 2026)](https://jobright.ai/jobs/info/6a176caf81fe455c705a8ca2?utm_campaign=1058&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | May 27 |
 | **[Transfinder](http://www.transfinder.com/)** | **[Client Services Summer Intern (Calling '27-'28 Grads!)](https://jobright.ai/jobs/info/6a173fd7b091c7417c4fc8cd?utm_campaign=1058&utm_source=git)** | Schenectady, NY | On Site | May 27 |
 | **[Rheem Manufacturing](http://www.rheem.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/6a173fad1430333075ccf1e3?utm_campaign=1058&utm_source=git)** | Fort Smith, AR | On Site | May 27 |
+| **[MemorialCare](https://www.memorialcare.org)** | **[Pharmacy Intern Per Diem](https://jobright.ai/jobs/info/69f3d9241f90bd6ae23d1d33?utm_campaign=1058&utm_source=git)** | Fountain Valley, CA | On Site | May 27 |
 | **[STRUCTURAL TECHNOLOGIES](https://www.structuraltechnologies.com/)** | **[Intern](https://jobright.ai/jobs/info/6a173c8c1430333075ccf01f?utm_campaign=1058&utm_source=git)** | Maryland, United States | On Site | May 27 |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP: User Assistance (technical writing)](https://jobright.ai/jobs/info/69e1efd5ff71e82d604bbd78?utm_campaign=1058&utm_source=git)** | Durham, NC | Hybrid | May 27 |
 | **[General Air Service & Supply](http://generalair.com)** | **[General Air Intern](https://jobright.ai/jobs/info/6a173bddd6a04f21602e4a44?utm_campaign=1058&utm_source=git)** | Littleton Retail Store - Littleton, CO 80120 | On Site | May 27 |
@@ -139,7 +143,6 @@ For a complete list, click the following sortable link below:
 | **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/6a16cd579005d858e94f38b7?utm_campaign=1058&utm_source=git)** | 461 MAIN ST,SACO,ME,04072 | On Site | May 27 |
 | **[Griffon Aerospace](http://www.griffonaerospace.com)** | **[IT Technician – Intern](https://jobright.ai/jobs/info/6a16c745b091c7417c4f85f7?utm_campaign=1058&utm_source=git)** | Madison,AL,US | On Site | May 27 |
 | **[Therma-Tru Doors](http://www.thermatru.com/)** | **[IT Infrastructure Intern](https://jobright.ai/jobs/info/69de588836823d1b42580821?utm_campaign=1058&utm_source=git)** | Butler, IN | On Site | May 27 |
-| **[VytlOne](https://www.vytlone.com)** | **[Part-Time IT Intern - Day Time Hours](https://jobright.ai/jobs/info/69fa198f81706a5bd2173c69?utm_campaign=1058&utm_source=git)** | Amarillo, TX | On Site | May 27 |
 | **[Catholic Charities of the Archdiocese of Galveston-Houston](https://catholiccharities.org/)** | **[Building Services / Agency Operations Intern](https://jobright.ai/jobs/info/6a16ae8aa429fd279da9a1fe?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | May 27 |
 | **[The Computer Guy LLC](https://www.tcgway.com/)** | **[COMPUTER REPAIR INTERNSHIP](https://jobright.ai/jobs/info/6a16a8c41935fa61b3c72e91?utm_campaign=1058&utm_source=git)** | Murray, Kentucky, United States | On Site | May 27 |
 | **[Parker Hannifin](http://www.parker.com)** | **[IT Intern](https://jobright.ai/jobs/info/6a16a2c91935fa61b3c72a8a?utm_campaign=1058&utm_source=git)** | Kearney, NE | On Site | May 27 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a1678ea1935fa61b3c71f04?utm_campaign=1058&utm_source=git)** | 5285 US HIGHWAY 1,VERO BEACH,FL,32967 | On Site | May 26 |
 | **[Lunds & Byerlys](http://lundsandbyerlys.com)** | **[System Support Intern](https://jobright.ai/jobs/info/6a1674df128680351d96b08d?utm_campaign=1058&utm_source=git)** | 7752 Mitchell Road, Eden Prairie, MN, USA | On Site | May 26 |
 | **[Network Right](https://networkright.com)** | **[Intern (IT/Ops/Admin)](https://jobright.ai/jobs/info/6a16572d1935fa61b3c70fd9?utm_campaign=1058&utm_source=git)** | New York City office | On Site | May 26 |
-| ↳ | **[Intern (IT/Ops/Admin)](https://jobright.ai/jobs/info/6a165702554b0e12c058b91f?utm_campaign=1058&utm_source=git)** | New York Office | On Site | May 26 |
-| ↳ | **[Intern (IT/Ops/Admin)](https://jobright.ai/jobs/info/6a165632128680351d96a1bf?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | May 26 |
-| ↳ | **[Intern (IT/Ops/Admin)](https://jobright.ai/jobs/info/6a16562c128680351d96a1b4?utm_campaign=1058&utm_source=git)** | San Francisco, CA | On Site | May 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
