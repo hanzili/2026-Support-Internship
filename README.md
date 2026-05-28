@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Loenbro](http://loenbro.com)** | **[IT Transformation Intern](https://jobright.ai/jobs/info/6a17de10f45c6530ce9b0484?utm_campaign=1058&utm_source=git)** | Westminster, CO | On Site | May 27 |
+| ↳ | **[IT Transformation Intern](https://jobright.ai/jobs/info/6a17de0ff45c6530ce9b0483?utm_campaign=1058&utm_source=git)** | Dallas, TX | On Site | May 27 |
+| **[CPI Card Group](http://www.cpicardgroup.com/)** | **[TekSynap Internship - Inventory Specialist](https://jobright.ai/jobs/info/6a17dd005b0a497d5210fc79?utm_campaign=1058&utm_source=git)** | Columbus, OH | On Site | May 27 |
+| ↳ | **[TekSynap Internship - Inventory Specialist](https://jobright.ai/jobs/info/6a17dcdab091c7417c501e9f?utm_campaign=1058&utm_source=git)** | Battle Creek, MI | On Site | May 27 |
 | **[SRI](http://www.sri.com)** | **[Student Intern - Service Operations](https://jobright.ai/jobs/info/6a17da355b0a497d5210fa28?utm_campaign=1058&utm_source=git)** | Brewer, ME | On Site | May 27 |
 | **[Radio Free Asia](http://www.rfa.org)** | **[Intern Customer Experience](https://jobright.ai/jobs/info/6a17d936b091c7417c501c77?utm_campaign=1058&utm_source=git)** | Orange County, CA | Hybrid | May 27 |
 | **[Kentro](http://www.kentro.us)** | **[ServiceNow Intern- Fall 2026](https://jobright.ai/jobs/info/6a17cf4cda08264614c908ae?utm_campaign=1058&utm_source=git)** | United States | Remote | May 27 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Catholic Charities of the Archdiocese of Galveston-Houston](https://catholiccharities.org/)** | **[Building Services / Agency Operations Intern](https://jobright.ai/jobs/info/6a16ae8aa429fd279da9a1fe?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | May 27 |
 | **[The Computer Guy LLC](https://www.tcgway.com/)** | **[COMPUTER REPAIR INTERNSHIP](https://jobright.ai/jobs/info/6a16a8c41935fa61b3c72e91?utm_campaign=1058&utm_source=git)** | Murray, Kentucky, United States | On Site | May 27 |
 | **[Parker Hannifin](http://www.parker.com)** | **[IT Intern](https://jobright.ai/jobs/info/6a16a2c91935fa61b3c72a8a?utm_campaign=1058&utm_source=git)** | Kearney, NE | On Site | May 27 |
-| **[Catholic Charities of the Archdiocese of Galveston-Houston](https://catholiccharities.org/)** | **[Building Services / Agency Operations Intern](https://jobright.ai/jobs/info/6a1694531b2f6918b0e32f38?utm_campaign=1058&utm_source=git)** | Central - Houston, TX 77006 | On Site | May 26 |
-| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a169420a429fd279da998bd?utm_campaign=1058&utm_source=git)** | 3093 MARLOW RD,SANTA ROSA,CA,95403 | On Site | May 26 |
-| **[Fred Meyer](https://www.fredmeyer.com/)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/6a168cdd202ae849ed8d3f54?utm_campaign=1058&utm_source=git)** | Coeur d'Alene, ID | On Site | May 26 |
-| ↳ | **[Pharmacist Intern](https://jobright.ai/jobs/info/6a168aa01b2f6918b0e3281c?utm_campaign=1058&utm_source=git)** | Idaho Falls, ID | On Site | May 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
