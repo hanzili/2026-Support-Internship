@@ -57,6 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SOCOTEC](http://www.socotec.com/)** | **[IT Intern](https://jobright.ai/jobs/info/6a1857e7abc8f63abac76ee5?utm_campaign=1058&utm_source=git)** | 151 W 42nd St, New York, NY 10036, USA | On Site | May 28 |
+| **[City of Hoover](http://www.hooveral.org)** | **[Student Intern](https://jobright.ai/jobs/info/6a185793dbc80963f93423c9?utm_campaign=1058&utm_source=git)** | Hoover, AL, US | On Site | May 28 |
+| **[Systel Telecom](http://www.systelgroup.com)** | **[IT Intern](https://jobright.ai/jobs/info/6a185768abc8f63abac76e83?utm_campaign=1058&utm_source=git)** | Sugar Land, TX | On Site | May 28 |
+| **[Selux Corporation](https://www.selux.us)** | **[IT Support Intern](https://jobright.ai/jobs/info/6a1856cf17492d3a389b467a?utm_campaign=1058&utm_source=git)** | Wallkill, NY, US | On Site | May 28 |
+| ↳ | **[IT Support Intern](https://jobright.ai/jobs/info/6a1856ce17492d3a389b4676?utm_campaign=1058&utm_source=git)** | US-NY-Wallkill | On Site | May 28 |
+| **[Viking Packaging](https://vikingpackaging.com/)** | **[IT Support Intern](https://jobright.ai/jobs/info/6a1856bbc2a87d6cd3def525?utm_campaign=1058&utm_source=git)** | US-NY-Wallkill | On Site | May 28 |
+| ↳ | **[IT Support Intern](https://jobright.ai/jobs/info/6a1856bbc2a87d6cd3def524?utm_campaign=1058&utm_source=git)** | Wallkill, NY, US | On Site | May 28 |
+| **[Texas Security Bank](http://texassecuritybank.com)** | **[Intern (77643)](https://jobright.ai/jobs/info/6a1855dedbc80963f934229b?utm_campaign=1058&utm_source=git)** | North Dallas - Dallas, TX 75254 | On Site | May 28 |
+| **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/6a18552e6243320e8d1629e0?utm_campaign=1058&utm_source=git)** | 3596 ALPINE AVE NW,WALKER,MI,49544-01659-10351-S | On Site | May 28 |
+| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a1855296243320e8d1629d8?utm_campaign=1058&utm_source=git)** | 1771 HOLTON RD,NORTH MUSKEGON,MI,49445 | On Site | May 28 |
 | **[Network Right](https://networkright.com)** | **[Intern (IT/Ops/Admin)](https://jobright.ai/jobs/info/6a18507454a441713ae82857?utm_campaign=1058&utm_source=git)** | New York Office | On Site | May 28 |
 | ↳ | **[Intern (IT/Ops/Admin)](https://jobright.ai/jobs/info/6a18506ddbc80963f9342045?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | May 28 |
 | **[Moore Colson](https://www.moorecolson.com)** | **[IT Help Desk Intern](https://jobright.ai/jobs/info/6a184c35dbc80963f9341914?utm_campaign=1058&utm_source=git)** | Atlanta | On Site | May 28 |
@@ -75,13 +85,12 @@ For a complete list, click the following sortable link below:
 | **[Gen](https://www.gendigital.com)** | **[Sales Enablement Summer Intern](https://jobright.ai/jobs/info/69fba99d18b94b2515be4481?utm_campaign=1058&utm_source=git)** | Tempe, AZ | On Site | May 28 |
 | **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/6a181e5eabc8f63abac7544c?utm_campaign=1058&utm_source=git)** | 1630 TREMONT ST,ROXBURY CROSSING,MA,02120 | On Site | May 28 |
 | **[AlixPartners](http://www.alixpartners.com)** | **[IT Corporate Applications Intern](https://jobright.ai/jobs/info/69fb64c986d5cd46527d556f?utm_campaign=1058&utm_source=git)** | Southfield, MI | On Site | May 28 |
+| **[Ezee Fiber](https://ezeefiber.com/)** | **[IT Support Intern- Fall 2026](https://jobright.ai/jobs/info/6a185607abc8f63abac76d88?utm_campaign=1058&utm_source=git)** | Tampa, FL | On Site | May 28 |
 | **[The Reynolds and Reynolds Company](https://www.reyrey.com)** | **[Cancellations Summer Intern](https://jobright.ai/jobs/info/69fb66ca38179b6f1ae78343?utm_campaign=1058&utm_source=git)** | Warrenville, IL | On Site | May 28 |
 | **[UChicago Medicine AdventHealth](http://JoinAdventHealth.com)** | **[Intern Customer Experience](https://jobright.ai/jobs/info/6a1808a581f8da15dc7d5284?utm_campaign=1058&utm_source=git)** | CA-Remote | Remote | May 28 |
 | **[Loenbro](http://loenbro.com)** | **[IT Transformation Intern](https://jobright.ai/jobs/info/6a17de10f45c6530ce9b0484?utm_campaign=1058&utm_source=git)** | Westminster, CO | On Site | May 27 |
 | ↳ | **[IT Transformation Intern](https://jobright.ai/jobs/info/6a17de0ff45c6530ce9b0483?utm_campaign=1058&utm_source=git)** | Dallas, TX | On Site | May 27 |
-| **[Radio Free Asia](http://www.rfa.org)** | **[Intern Customer Experience](https://jobright.ai/jobs/info/6a17d936b091c7417c501c77?utm_campaign=1058&utm_source=git)** | Orange County, CA | Hybrid | May 27 |
 | **[Highlight](http://highlighttech.com/)** | **[IT Help Desk Intern](https://jobright.ai/jobs/info/6a17c1d5da08264614c90164?utm_campaign=1058&utm_source=git)** | Madison, WI | Hybrid | May 27 |
-| ↳ | **[IT Infrastructure Intern](https://jobright.ai/jobs/info/6a17c1c3da08264614c9014b?utm_campaign=1058&utm_source=git)** | Madison, WI | On Site | May 27 |
 | ↳ | **[IT Help Desk Intern](https://jobright.ai/jobs/info/6a17c1bbb091c7417c5013fa?utm_campaign=1058&utm_source=git)** | Madison, WI | On Site | May 27 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a17aeeab7e0a45039a9cf09?utm_campaign=1058&utm_source=git)** | 2045 FIELDSTONE PKWY,FRANKLIN,TN,37069-04336-04695-S | On Site | May 27 |
 | **[Wealth Enhancement](http://wealthenhancement.com/)** | **[Intern](https://jobright.ai/jobs/info/6a17a35081fe455c705aa7c8?utm_campaign=1058&utm_source=git)** | Walnut Creek, CA | On Site | May 27 |
@@ -132,6 +141,7 @@ For a complete list, click the following sortable link below:
 | **[Alkeus Pharmaceuticals, Inc.](http://www.alkeuspharma.com)** | **[Intern - Information Technology (IT)](https://jobright.ai/jobs/info/6a1736d25b0a497d52109e69?utm_campaign=1058&utm_source=git)** | Cambridge, MA | On Site | May 27 |
 | **[Systel, Inc.](http://www.systelusa.com/)** | **[IT Intern](https://jobright.ai/jobs/info/6a1735431430333075cce833?utm_campaign=1058&utm_source=git)** | Sugar Land, TX | On Site | May 27 |
 | **[Herc Rentals](http://www.HercRentals.com)** | **[ProSales Intern (Romulus, MI)](https://jobright.ai/jobs/info/6a1734449005d858e94f7199?utm_campaign=1058&utm_source=git)** | Romulus, MI | On Site | May 27 |
+| **[American Crane & Equipment Corporation](http://www.americancrane.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/6a18560417492d3a389b45f8?utm_campaign=1058&utm_source=git)** | Douglassville, PA | On Site | May 27 |
 | **[Chugach Government Solutions, LLC](http://chugachgov.com)** | **[Data Entry Operator I (Cyber Intern)](https://jobright.ai/jobs/info/6a172de69005d858e94f6c43?utm_campaign=1058&utm_source=git)** | Chesapeake, VA | On Site | May 27 |
 | **[Milliman](http://www.milliman.com)** | **[Information Technology Support Summer 2026 Intern - Omaha (CMH Health)](https://jobright.ai/jobs/info/6a1729aff45c6530ce9a983e?utm_campaign=1058&utm_source=git)** | Omaha, NE | On Site | May 27 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Summer IT Intern, Jira Migration Support](https://jobright.ai/jobs/info/6a1724e81430333075ccdbc5?utm_campaign=1058&utm_source=git)** | Cleveland, OH | On Site | May 27 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Scottish Rite for Children](https://scottishriteforchildren.org/)** | **[Clinical Research Intern](https://jobright.ai/jobs/info/6a1716699005d858e94f5813?utm_campaign=1058&utm_source=git)** | Dallas, TX, US | On Site | May 27 |
 | **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[Radiology Intern](https://jobright.ai/jobs/info/69dd87a4bc6f6622c9912874?utm_campaign=1058&utm_source=git)** | Pittsburg, KS | On Site | May 27 |
 | **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/6a17124bf45c6530ce9a855e?utm_campaign=1058&utm_source=git)** | Rincon, GA | On Site | May 27 |
-| **[Rheem Manufacturing](http://www.rheem.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/6a170c78f45c6530ce9a8332?utm_campaign=1058&utm_source=git)** | Fort Smith, AR, United States | On Site | May 27 |
-| **[Penumbra, Inc.](http://penumbrainc.com)** | **[IT Intern - Temp](https://jobright.ai/jobs/info/6a1706fa9005d858e94f51b8?utm_campaign=1058&utm_source=git)** | Alameda, CA | On Site | May 27 |
-| **[Porsche Cars North America](http://www.porscheusa.com)** | **[IT Services Intern](https://jobright.ai/jobs/info/6a1706a6d6a04f21602e22a0?utm_campaign=1058&utm_source=git)** | Atlanta HQ (OPD) | On Site | May 27 |
-| **[Eaton](https://www.eaton.com/us/en-us/products/emobility/expertise.html)** | **[Intern, Field Service Representative (4-months) Edmonton, AB](https://jobright.ai/jobs/info/6a1729b31430333075ccdfda?utm_campaign=1058&utm_source=git)** | Edmonton, Alberta, Canada | On Site | May 27 |
-| **[Kravet](http://www.kravet.com)** | **[IT Intern](https://jobright.ai/jobs/info/6a16ffc7f45c6530ce9a7e89?utm_campaign=1058&utm_source=git)** | Woodbury, NY | On Site | May 27 |
-| **[Penumbra, Inc.](http://penumbrainc.com)** | **[IT Intern - Temp](https://jobright.ai/jobs/info/6a16fe2ef45c6530ce9a7c5c?utm_campaign=1058&utm_source=git)** | Alameda, CA | On Site | May 27 |
-| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a16e7cc9005d858e94f427f?utm_campaign=1058&utm_source=git)** | 1033 MILITARY RD,ZANESVILLE,OH,43701-01342-07392-S | On Site | May 27 |
-| **[Xometry](https://www.xometry.com)** | **[Customer Support Intern](https://jobright.ai/jobs/info/6a16dd77d6a04f21602e0ce6?utm_campaign=1058&utm_source=git)** | North Bethesda, MD | Hybrid | May 27 |
-| ↳ | **[Customer Support Intern](https://jobright.ai/jobs/info/6a16dd70d6a04f21602e0ce5?utm_campaign=1058&utm_source=git)** | Lexington, KY | Hybrid | May 27 |
-| ↳ | **[Customer Support Intern](https://jobright.ai/jobs/info/6a16dd6fd6a04f21602e0ce4?utm_campaign=1058&utm_source=git)** | Waltham, MA | Hybrid | May 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
