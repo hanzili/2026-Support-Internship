@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Princeton University](http://www.princeton.edu)** | **[Real Estate Records Support Intern - Temporary](https://jobright.ai/jobs/info/6a0def7547fea1610bca5475?utm_campaign=1058&utm_source=git)** | Princeton, NJ | On Site | May 28 |
+| **[West Virginia University Foundation](https://www.wvuf.org/)** | **[Office Support Intern](https://jobright.ai/jobs/info/69fbef903160b250eb1ba80c?utm_campaign=1058&utm_source=git)** | Morgantown, WV | Hybrid | May 28 |
+| **[TowneBank](https://www.townebank.com/)** | **[Intern - Fayetteville, NC](https://jobright.ai/jobs/info/69fbf5883160b250eb1baa32?utm_campaign=1058&utm_source=git)** | Fayetteville, NC | On Site | May 28 |
 | **[Gen](https://www.gendigital.com)** | **[Sales Enablement Summer Intern](https://jobright.ai/jobs/info/69fba99d18b94b2515be4481?utm_campaign=1058&utm_source=git)** | Tempe, AZ | On Site | May 28 |
 | **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/6a181e5eabc8f63abac7544c?utm_campaign=1058&utm_source=git)** | 1630 TREMONT ST,ROXBURY CROSSING,MA,02120 | On Site | May 28 |
 | **[AlixPartners](http://www.alixpartners.com)** | **[IT Corporate Applications Intern](https://jobright.ai/jobs/info/69fb64c986d5cd46527d556f?utm_campaign=1058&utm_source=git)** | Southfield, MI | On Site | May 28 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Rheem Manufacturing](http://www.rheem.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/6a170c78f45c6530ce9a8332?utm_campaign=1058&utm_source=git)** | Fort Smith, AR, United States | On Site | May 27 |
 | **[Penumbra, Inc.](http://penumbrainc.com)** | **[IT Intern - Temp](https://jobright.ai/jobs/info/6a1706fa9005d858e94f51b8?utm_campaign=1058&utm_source=git)** | Alameda, CA | On Site | May 27 |
 | **[Porsche Cars North America](http://www.porscheusa.com)** | **[IT Services Intern](https://jobright.ai/jobs/info/6a1706a6d6a04f21602e22a0?utm_campaign=1058&utm_source=git)** | Atlanta HQ (OPD) | On Site | May 27 |
-| **[Eaton](https://www.eaton.com/us/en-us/products/emobility/expertise.html)** | **[Intern, Field Service Representative (4-months) Edmonton, AB](https://jobright.ai/jobs/info/6a1729b31430333075ccdfda?utm_campaign=1058&utm_source=git)** | Edmonton, Alberta, Canada | On Site | May 27 |
-| **[Kravet](http://www.kravet.com)** | **[IT Intern](https://jobright.ai/jobs/info/6a16ffc7f45c6530ce9a7e89?utm_campaign=1058&utm_source=git)** | Woodbury, NY | On Site | May 27 |
-| **[Penumbra, Inc.](http://penumbrainc.com)** | **[IT Intern - Temp](https://jobright.ai/jobs/info/6a16fe2ef45c6530ce9a7c5c?utm_campaign=1058&utm_source=git)** | Alameda, CA | On Site | May 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
