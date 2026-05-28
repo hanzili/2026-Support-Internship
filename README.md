@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SAIC](http://www.saic.com)** | **[Site Support Intern](https://jobright.ai/jobs/info/6a179f289005d858e94fb795?utm_campaign=1058&utm_source=git)** | San Diego, CA, United States | On Site | May 27 |
+| **[Orrick, Herrington & Sutcliffe LLP](https://www.orrick.com)** | **[IT Applications Deployment Intern](https://jobright.ai/jobs/info/6a179e8581fe455c705aa69d?utm_campaign=1058&utm_source=git)** | Wheeling, WV | Hybrid | May 27 |
+| ↳ | **[IT Applications Database Intern](https://jobright.ai/jobs/info/6a179c599005d858e94fb6a7?utm_campaign=1058&utm_source=git)** | Wheeling, WV | Hybrid | May 27 |
 | **[Monticello Public Schools](https://www.metropolitaneyecenter.com/)** | **[Summer Intern - Technology Support](https://jobright.ai/jobs/info/6a1791f3b091c7417c4ffe5c?utm_campaign=1058&utm_source=git)** | Monticello, MN | On Site | May 27 |
 | **[Phipps](https://www.phippsny.org)** | **[Intern](https://jobright.ai/jobs/info/6a1791581430333075cd2735?utm_campaign=1058&utm_source=git)** | New York, NY | Remote | May 27 |
 | **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/6a1790a45b0a497d5210daeb?utm_campaign=1058&utm_source=git)** | 1990 MONUMENT BLVD,CONCORD,CA,94520-03800-15003-S | On Site | May 27 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern (IT/Ops/Admin)](https://jobright.ai/jobs/info/6a16562c128680351d96a1b4?utm_campaign=1058&utm_source=git)** | San Francisco, CA | On Site | May 26 |
 | **[Frankel](http://fzacpa.com)** | **[Service Desk Coordinator/Technician Intern (Summer & Fall 2026)](https://jobright.ai/jobs/info/6a164f16dc845f4be5bde391?utm_campaign=1058&utm_source=git)** | Omaha, NE | On Site | May 26 |
 | **[HEI Hotels & Resorts](http://www.heihotels.com)** | **[Front Office Internship J1](https://jobright.ai/jobs/info/6a164e83128680351d9699c3?utm_campaign=1058&utm_source=git)** | Rockville, MD | On Site | May 26 |
-| **[River Valley Community Bank](https://www.myrvcb.com)** | **[Internship](https://jobright.ai/jobs/info/6a164c4c128680351d9698d7?utm_campaign=1058&utm_source=git)** | Yuba City, CA | On Site | May 26 |
-| **[McLaren Health Care](http://www.mclaren.org)** | **[Intern- Patient Access](https://jobright.ai/jobs/info/6a166835a429fd279da98340?utm_campaign=1058&utm_source=git)** | Petoskey, MI | On Site | May 26 |
-| **[Maxwood Furniture](https://maxwoodfurniture.com/)** | **[Associate IT Support Intern](https://jobright.ai/jobs/info/6a164b59554b0e12c058af97?utm_campaign=1058&utm_source=git)** | Charleston, SC | On Site | May 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
