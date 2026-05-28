@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Osceola County School District](http://www.osceolaschools.net/)** | **[Support Staff-Substitute-College Student Intern-Technology Services](https://jobright.ai/jobs/info/6a183a736243320e8d161add?utm_campaign=1058&utm_source=git)** | Kissimmee | On Site | May 28 |
+| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a183a2aabc8f63abac75ef9?utm_campaign=1058&utm_source=git)** | 10181 W BROWARD BLVD,PLANTATION,FL,33324 | On Site | May 28 |
+| **[Yardi](https://www.yardi.com)** | **[Intern, Associate Technical Account Manager](https://jobright.ai/jobs/info/69fbf73a3802c7621fd8eaea?utm_campaign=1058&utm_source=git)** | New York, NY | Hybrid | May 28 |
+| **[AlixPartners](http://www.alixpartners.com)** | **[IT Corporate Applications Intern](https://jobright.ai/jobs/info/6a1832cec2a87d6cd3dee342?utm_campaign=1058&utm_source=git)** | Detroit | On Site | May 28 |
+| **[TowneBank](https://www.townebank.com/)** | **[Intern - Greenville, NC](https://jobright.ai/jobs/info/69fbf5753802c7621fd8e752?utm_campaign=1058&utm_source=git)** | Winterville, NC | On Site | May 28 |
 | **[Princeton University](http://www.princeton.edu)** | **[Real Estate Records Support Intern - Temporary](https://jobright.ai/jobs/info/6a0def7547fea1610bca5475?utm_campaign=1058&utm_source=git)** | Princeton, NJ | On Site | May 28 |
 | **[West Virginia University Foundation](https://www.wvuf.org/)** | **[Office Support Intern](https://jobright.ai/jobs/info/69fbef903160b250eb1ba80c?utm_campaign=1058&utm_source=git)** | Morgantown, WV | Hybrid | May 28 |
 | **[TowneBank](https://www.townebank.com/)** | **[Intern - Fayetteville, NC](https://jobright.ai/jobs/info/69fbf5883160b250eb1baa32?utm_campaign=1058&utm_source=git)** | Fayetteville, NC | On Site | May 28 |
@@ -129,13 +134,12 @@ For a complete list, click the following sortable link below:
 | **[Douglas County School System](https://www.dcssga.org/)** | **[Summer Intern](https://jobright.ai/jobs/info/6a17394bd6a04f21602e48ea?utm_campaign=1058&utm_source=git)** | New Manchhester High | On Site | May 27 |
 | ↳ | **[Summer Intern](https://jobright.ai/jobs/info/6a17392a1430333075ccedf5?utm_campaign=1058&utm_source=git)** | Chapel Hill High | On Site | May 27 |
 | ↳ | **[Summer Intern](https://jobright.ai/jobs/info/6a173926b091c7417c4fc514?utm_campaign=1058&utm_source=git)** | Lithia Springs High | On Site | May 27 |
-| ↳ | **[Summer Intern](https://jobright.ai/jobs/info/6a1739255b0a497d5210a089?utm_campaign=1058&utm_source=git)** | Douglas County High | On Site | May 27 |
 | ↳ | **[Summer Intern](https://jobright.ai/jobs/info/6a173925b091c7417c4fc512?utm_campaign=1058&utm_source=git)** | Alexander High School | On Site | May 27 |
+| ↳ | **[Summer Intern](https://jobright.ai/jobs/info/6a1739255b0a497d5210a089?utm_campaign=1058&utm_source=git)** | Douglas County High | On Site | May 27 |
 | **[American Bankruptcy Institute](https://abi.org/)** | **[Administrative & Membership Intern](https://jobright.ai/jobs/info/6a17386c5b0a497d5210a03b?utm_campaign=1058&utm_source=git)** | Alexandria, VA | On Site | May 27 |
 | **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Technical Customer Solutions Manager Intern - Fall 2026](https://jobright.ai/jobs/info/6a1737a7d6a04f21602e4757?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | May 27 |
 | **[Alkeus Pharmaceuticals, Inc.](http://www.alkeuspharma.com)** | **[Intern - Information Technology (IT)](https://jobright.ai/jobs/info/6a1736d25b0a497d52109e69?utm_campaign=1058&utm_source=git)** | Cambridge, MA | On Site | May 27 |
 | **[Norway Savings Bank](http://norwaysavings.bank)** | **[IT Intern](https://jobright.ai/jobs/info/6a1736725b0a497d52109d07?utm_campaign=1058&utm_source=git)** | Norway, ME 04268, USA | On Site | May 27 |
-| **[American Crane & Equipment Corporation](http://www.americancrane.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/6a173609d6a04f21602e4495?utm_campaign=1058&utm_source=git)** | Douglassville, PA | On Site | May 27 |
 | **[Systel, Inc.](http://www.systelusa.com/)** | **[IT Intern](https://jobright.ai/jobs/info/6a1735431430333075cce833?utm_campaign=1058&utm_source=git)** | Sugar Land, TX | On Site | May 27 |
 | **[Herc Rentals](http://www.HercRentals.com)** | **[ProSales Intern (Romulus, MI)](https://jobright.ai/jobs/info/6a1734449005d858e94f7199?utm_campaign=1058&utm_source=git)** | Romulus, MI | On Site | May 27 |
 | **[Unity Health](https://www.unity-health.org)** | **[IT Intern](https://jobright.ai/jobs/info/6a172e5c5b0a497d521092e6?utm_campaign=1058&utm_source=git)** | Searcy, AR, US | On Site | May 27 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[IT Helpdesk Intern](https://jobright.ai/jobs/info/6a1717481430333075cccd58?utm_campaign=1058&utm_source=git)** | Lehi | On Site | May 27 |
 | **[Scottish Rite for Children](https://scottishriteforchildren.org/)** | **[Clinical Research Intern](https://jobright.ai/jobs/info/6a1716699005d858e94f5813?utm_campaign=1058&utm_source=git)** | Dallas, TX, US | On Site | May 27 |
 | **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[Radiology Intern](https://jobright.ai/jobs/info/69dd87a4bc6f6622c9912874?utm_campaign=1058&utm_source=git)** | Pittsburg, KS | On Site | May 27 |
-| **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/6a17124bf45c6530ce9a855e?utm_campaign=1058&utm_source=git)** | Rincon, GA | On Site | May 27 |
-| **[Rheem Manufacturing](http://www.rheem.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/6a170c78f45c6530ce9a8332?utm_campaign=1058&utm_source=git)** | Fort Smith, AR, United States | On Site | May 27 |
-| **[Penumbra, Inc.](http://penumbrainc.com)** | **[IT Intern - Temp](https://jobright.ai/jobs/info/6a1706fa9005d858e94f51b8?utm_campaign=1058&utm_source=git)** | Alameda, CA | On Site | May 27 |
-| **[Porsche Cars North America](http://www.porscheusa.com)** | **[IT Services Intern](https://jobright.ai/jobs/info/6a1706a6d6a04f21602e22a0?utm_campaign=1058&utm_source=git)** | Atlanta HQ (OPD) | On Site | May 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
