@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Phipps](https://www.phippsny.org)** | **[Intern](https://jobright.ai/jobs/info/6a1778f7b091c7417c4ff022?utm_campaign=1058&utm_source=git)** | New York, New York, United States | Remote | May 27 |
+| **[Medpace](http://www.medpace.com)** | **[Call Center Intern](https://jobright.ai/jobs/info/6a17780eb091c7417c4fefaf?utm_campaign=1058&utm_source=git)** | Cincinnati, OH | On Site | May 27 |
+| **[Grand Pacific Resorts](http://www.grandpacificpalisades.com)** | **[IT Help Desk - Summer 2026 Internship](https://jobright.ai/jobs/info/6a1775af5b0a497d5210cb73?utm_campaign=1058&utm_source=git)** | Grand Pacific Resorts Inc - Carlsbad, CA 92008 | On Site | May 27 |
+| **[Stifel Financial Corp.](http://www.stifel.com)** | **[Information Technology Intern- Summer 2026](https://jobright.ai/jobs/info/6a1771dfb091c7417c4fed10?utm_campaign=1058&utm_source=git)** | St Louis, MO | On Site | May 27 |
+| **[Highgate](https://www.highgate.com)** | **[Intern](https://jobright.ai/jobs/info/6a176aee81fe455c705a890a?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | May 27 |
 | **[The Ballantyne, A Luxury Collection Hotel,  Charlotte](http://www.theballantyne.com)** | **[Hospitality Intern](https://jobright.ai/jobs/info/6a1764f2b091c7417c4fe246?utm_campaign=1058&utm_source=git)** | 10000 Ballantyne Commons Parkway, Charlotte, NC28277 | On Site | May 27 |
 | **[Twin City Fan & Blower](https://www.tcf.com/)** | **[IT Technical Writer Intern](https://jobright.ai/jobs/info/6a17633681fe455c705a8609?utm_campaign=1058&utm_source=git)** | Plymouth, MN | On Site | May 27 |
 | **[Aimbridge Hospitality](http://www.aimbridgehospitality.com/)** | **[Marriott Minneapolis Northwest - Hospitality Management Intern](https://jobright.ai/jobs/info/6a1761279005d858e94f9555?utm_campaign=1058&utm_source=git)** | Brooklyn Park, MN | On Site | May 27 |
@@ -76,6 +81,7 @@ For a complete list, click the following sortable link below:
 | **[McKee Foods Corporation](http://www.mckeefoods.com/)** | **[IT Asset Intern – Summer 2026](https://jobright.ai/jobs/info/6a0fc1b272b52f7225f403a0?utm_campaign=1058&utm_source=git)** | Collegedale, TN | On Site | May 27 |
 | **[State of Vermont](http://vermont.gov/portal/)** | **[Paid Intern IT, State Treasurers Department - Temporary](https://jobright.ai/jobs/info/6a174454d6a04f21602e4f58?utm_campaign=1058&utm_source=git)** | Montpelier, VT | On Site | May 27 |
 | **[Texas Department of Transportation](https://www.txdot.gov)** | **[Intern Support Technician - San Antonio](https://jobright.ai/jobs/info/6a17429cf45c6530ce9aabf1?utm_campaign=1058&utm_source=git)** | San Antonio District Hdqtrs 4615 NW LOOP 410 San Antonio 78229 | On Site | May 27 |
+| **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Entry into Service (Fall 2026)](https://jobright.ai/jobs/info/6a176caf81fe455c705a8ca2?utm_campaign=1058&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | May 27 |
 | **[Transfinder](http://www.transfinder.com/)** | **[Client Services Summer Intern (Calling '27-'28 Grads!)](https://jobright.ai/jobs/info/6a173fd7b091c7417c4fc8cd?utm_campaign=1058&utm_source=git)** | Schenectady, NY | On Site | May 27 |
 | **[Rheem Manufacturing](http://www.rheem.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/6a173fad1430333075ccf1e3?utm_campaign=1058&utm_source=git)** | Fort Smith, AR | On Site | May 27 |
 | **[STRUCTURAL TECHNOLOGIES](https://www.structuraltechnologies.com/)** | **[Intern](https://jobright.ai/jobs/info/6a173c8c1430333075ccf01f?utm_campaign=1058&utm_source=git)** | Maryland, United States | On Site | May 27 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Newington Public Schools](http://www.npsct.org/)** | **[Information Technology Internship Program](https://jobright.ai/jobs/info/6a163e21dc845f4be5bdde58?utm_campaign=1058&utm_source=git)** | Newington, CT | On Site | May 26 |
 | **[Crothall Healthcare](https://www.crothall.com)** | **[PATIENT AMBASSADOR (INTERN)](https://jobright.ai/jobs/info/6a163cdb0073182bd92b19cc?utm_campaign=1058&utm_source=git)** | Huntersville, NC | On Site | May 26 |
 | **[Unity Health](https://www.unity-health.org)** | **[IT Intern](https://jobright.ai/jobs/info/6a1746c39005d858e94f813e?utm_campaign=1058&utm_source=git)** | Searcy, AR | On Site | May 26 |
-| **[The Hotel at Auburn University & Dixon Conference Center](https://www.auhcc.com/careers)** | **[Rooms - International Rooms Intern](https://jobright.ai/jobs/info/6a1634c9dc845f4be5bdd448?utm_campaign=1058&utm_source=git)** | Auburn, AL | On Site | May 26 |
-| **[State Of Vermont Dept Health](https://www.healthvermont.gov/)** | **[Paid Intern IT, State Treasurers Department - Temporary](https://jobright.ai/jobs/info/6a1632bd128680351d9689ac?utm_campaign=1058&utm_source=git)** | Montpelier | On Site | May 26 |
-| **[Perkins&Will](http://perkinswill.com)** | **[IT Intern](https://jobright.ai/jobs/info/6a1630aea429fd279da9665f?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | May 26 |
-| ↳ | **[IT Intern](https://jobright.ai/jobs/info/6a162c44554b0e12c0589eea?utm_campaign=1058&utm_source=git)** | Durham, NC | On Site | May 26 |
-| **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6a1623c4128680351d9684d8?utm_campaign=1058&utm_source=git)** | 794 S PARK ST,CARROLLTON,GA,30117-03826-07820-S | On Site | May 26 |
-| **[Compass Group Canada](http://www.compass-canada.com)** | **[PATIENT AMBASSADOR (INTERN)](https://jobright.ai/jobs/info/6a1623461935fa61b3c6f347?utm_campaign=1058&utm_source=git)** | Huntersville, NC, US | On Site | May 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
