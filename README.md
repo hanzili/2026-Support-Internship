@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Gigamon](http://www.gigamon.com)** | **[Global Services Intern - Santa Clara, CA - Hybrid](https://jobright.ai/jobs/info/6a0f61f29f654b3359ce5345?utm_campaign=1058&utm_source=git)** | Santa Clara, CA | Hybrid | May 29 |
 | **[Texas Department of Transportation](https://www.txdot.gov)** | **[Intern Support Technician - Digital Print Center](https://jobright.ai/jobs/info/6a19579ec2a87d6cd3df8a8a?utm_campaign=1058&utm_source=git)** | 6230 East Stassney Lane, Austin 78744 | On Site | May 29 |
 | **[NJ Bio, Inc.](https://njbio.com)** | **[Quality Assurance Support Intern](https://jobright.ai/jobs/info/6a1936f4abc8f63abac7f924?utm_campaign=1058&utm_source=git)** | Headquarters- New Jersey - PRINCETON, NJ 08540 | On Site | May 28 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a18ff7f17492d3a389bb828?utm_campaign=1058&utm_source=git)** | 5905 DOLLARWAY RD,PINE BLUFF,AR,71602-03825-21379-S | On Site | May 28 |
@@ -68,8 +69,8 @@ For a complete list, click the following sortable link below:
 | **[City of Hollywood, Florida](https://hollywoodfl.org)** | **[College Intern](https://jobright.ai/jobs/info/6a192b3617492d3a389bc6c8?utm_campaign=1058&utm_source=git)** | Hollywood, FL | On Site | May 28 |
 | **[Radio Free Asia](http://www.rfa.org)** | **[Intern Customer Experience](https://jobright.ai/jobs/info/6a18f71dabc8f63abac7daca?utm_campaign=1058&utm_source=git)** | Orange County, CA | Hybrid | May 28 |
 | **[Banner Health](https://www.bannerhealth.com)** | **[IT Intern](https://jobright.ai/jobs/info/6a18d03cdbc80963f9347a1b?utm_campaign=1058&utm_source=git)** | Remote Arizona, US | Remote | May 28 |
-| ↳ | **[IT Intern](https://jobright.ai/jobs/info/6a18d03bdbc80963f9347a1a?utm_campaign=1058&utm_source=git)** | Remote California, US | Remote | May 28 |
 | ↳ | **[IT Intern](https://jobright.ai/jobs/info/6a18d03bdbc80963f9347a19?utm_campaign=1058&utm_source=git)** | Remote Wyoming, US | Remote | May 28 |
+| ↳ | **[IT Intern](https://jobright.ai/jobs/info/6a18d03bdbc80963f9347a1a?utm_campaign=1058&utm_source=git)** | Remote California, US | Remote | May 28 |
 | ↳ | **[IT Intern](https://jobright.ai/jobs/info/6a18d03adbc80963f9347a18?utm_campaign=1058&utm_source=git)** | Remote Colorado, US | Remote | May 28 |
 | **[FirstCall Group](https://firstcallmechanical.com)** | **[Service Intern](https://jobright.ai/jobs/info/6a18f71a6243320e8d169674?utm_campaign=1058&utm_source=git)** | Boston, MA | On Site | May 28 |
 | **[Xometry](https://www.xometry.com)** | **[Customer Support Intern](https://jobright.ai/jobs/info/6a18bb786243320e8d1675dc?utm_campaign=1058&utm_source=git)** | North Bethesda, MD | Hybrid | May 28 |
@@ -117,10 +118,10 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Intern I, General](https://jobright.ai/jobs/info/69d5ff13e63cea7a8b6670f1?utm_campaign=1058&utm_source=git)** | Binghamton, NY | On Site | May 28 |
 | **[UPMC](https://www.upmc.com/)** | **[Respiratory Care Intern - UPMC Memorial](https://jobright.ai/jobs/info/69deadcdaba61f1417317026?utm_campaign=1058&utm_source=git)** | York, PA | On Site | May 28 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Information Technology Intern](https://jobright.ai/jobs/info/6a185cc66243320e8d163841?utm_campaign=1058&utm_source=git)** | Jacksonville, FL, US | On Site | May 28 |
-| **[Empower AI](https://www.empower.ai/)** | **[EUD Desktop Support Technician (Intern)](https://jobright.ai/jobs/info/6a185c62abc8f63abac7791e?utm_campaign=1058&utm_source=git)** | Alexandria, VA, US | On Site | May 28 |
-| ↳ | **[EUD Desktop Support Technician (Intern)](https://jobright.ai/jobs/info/6a185c62abc8f63abac77920?utm_campaign=1058&utm_source=git)** | US-VA-Alexandria | On Site | May 28 |
-| ↳ | **[EUD Desktop Support Technician (Intern)](https://jobright.ai/jobs/info/6a185c62abc8f63abac77922?utm_campaign=1058&utm_source=git)** | Arlington, VA, US | On Site | May 28 |
+| **[Empower AI](https://www.empower.ai/)** | **[EUD Desktop Support Technician (Intern)](https://jobright.ai/jobs/info/6a185c62abc8f63abac77920?utm_campaign=1058&utm_source=git)** | US-VA-Alexandria | On Site | May 28 |
 | ↳ | **[EUD Desktop Support Technician (Intern)](https://jobright.ai/jobs/info/6a185c62abc8f63abac77925?utm_campaign=1058&utm_source=git)** | US-VA-Arlington | On Site | May 28 |
+| ↳ | **[EUD Desktop Support Technician (Intern)](https://jobright.ai/jobs/info/6a185c62abc8f63abac7791e?utm_campaign=1058&utm_source=git)** | Alexandria, VA, US | On Site | May 28 |
+| ↳ | **[EUD Desktop Support Technician (Intern)](https://jobright.ai/jobs/info/6a185c62abc8f63abac77922?utm_campaign=1058&utm_source=git)** | Arlington, VA, US | On Site | May 28 |
 | **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[ServiceNow Intern- Fall 2026](https://jobright.ai/jobs/info/6a185c1f6243320e8d1635a0?utm_campaign=1058&utm_source=git)** | US-Remote | Remote | May 28 |
 | ↳ | **[ServiceNow Intern- Fall 2026](https://jobright.ai/jobs/info/6a185c1e6243320e8d163599?utm_campaign=1058&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | May 28 |
 | **[VytlOne](https://www.vytlone.com)** | **[IT Intern - Part Time](https://jobright.ai/jobs/info/6a185b4eabc8f63abac775a6?utm_campaign=1058&utm_source=git)** | US-TX-Amarillo | On Site | May 28 |
@@ -153,8 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Moore Colson](https://www.moorecolson.com)** | **[IT Help Desk Intern](https://jobright.ai/jobs/info/6a184c35dbc80963f9341914?utm_campaign=1058&utm_source=git)** | Atlanta | On Site | May 28 |
 | **[NYC Department of Health and Mental Hygiene](https://www.nyc.gov/site/doh/index.page)** | **[Document Management summer intern](https://jobright.ai/jobs/info/6a184c226243320e8d16206f?utm_campaign=1058&utm_source=git)** | MANHATTAN | On Site | May 28 |
 | **[Ervin Cable Construction LLC](http://www.ervincable.com/)** | **[Intern](https://jobright.ai/jobs/info/6a18476154a441713ae81f36?utm_campaign=1058&utm_source=git)** | EC253-Kansas City, MO | On Site | May 28 |
-| **[City of New York](http://www1.nyc.gov)** | **[Document Management summer intern](https://jobright.ai/jobs/info/6a18414517492d3a389b3949?utm_campaign=1058&utm_source=git)** | New York City, NY | On Site | May 28 |
-| ↳ | **[Summer Intern (Records Management)](https://jobright.ai/jobs/info/6a184145abc8f63abac760c9?utm_campaign=1058&utm_source=git)** | New York City, NY | On Site | May 28 |
+| **[City of New York](http://www1.nyc.gov)** | **[Summer Intern (Records Management)](https://jobright.ai/jobs/info/6a184145abc8f63abac760c9?utm_campaign=1058&utm_source=git)** | New York City, NY | On Site | May 28 |
+| ↳ | **[Document Management summer intern](https://jobright.ai/jobs/info/6a18414517492d3a389b3949?utm_campaign=1058&utm_source=git)** | New York City, NY | On Site | May 28 |
 | **[Magnet Forensics](http://magnetforensics.com)** | **[Desktop Support Co-op (Fall 2026)](https://jobright.ai/jobs/info/69fbfb7e76c60e7b70af14b4?utm_campaign=1058&utm_source=git)** | Waterloo, Ontario, Canada | Hybrid | May 28 |
-| **[Osceola County School District](http://www.osceolaschools.net/)** | **[Support Staff-Substitute-College Student Intern-Technology Services](https://jobright.ai/jobs/info/6a183a736243320e8d161add?utm_campaign=1058&utm_source=git)** | Kissimmee | On Site | May 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
