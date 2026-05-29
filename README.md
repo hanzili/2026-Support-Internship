@@ -66,8 +66,8 @@ For a complete list, click the following sortable link below:
 | **[City of Hollywood, Florida](https://hollywoodfl.org)** | **[College Intern](https://jobright.ai/jobs/info/6a192b3617492d3a389bc6c8?utm_campaign=1058&utm_source=git)** | Hollywood, FL | On Site | May 28 |
 | **[Radio Free Asia](http://www.rfa.org)** | **[Intern Customer Experience](https://jobright.ai/jobs/info/6a18f71dabc8f63abac7daca?utm_campaign=1058&utm_source=git)** | Orange County, CA | Hybrid | May 28 |
 | **[Banner Health](https://www.bannerhealth.com)** | **[IT Intern](https://jobright.ai/jobs/info/6a18d03cdbc80963f9347a1b?utm_campaign=1058&utm_source=git)** | Remote Arizona, US | Remote | May 28 |
-| ↳ | **[IT Intern](https://jobright.ai/jobs/info/6a18d03bdbc80963f9347a19?utm_campaign=1058&utm_source=git)** | Remote Wyoming, US | Remote | May 28 |
 | ↳ | **[IT Intern](https://jobright.ai/jobs/info/6a18d03bdbc80963f9347a1a?utm_campaign=1058&utm_source=git)** | Remote California, US | Remote | May 28 |
+| ↳ | **[IT Intern](https://jobright.ai/jobs/info/6a18d03bdbc80963f9347a19?utm_campaign=1058&utm_source=git)** | Remote Wyoming, US | Remote | May 28 |
 | ↳ | **[IT Intern](https://jobright.ai/jobs/info/6a18d03adbc80963f9347a18?utm_campaign=1058&utm_source=git)** | Remote Colorado, US | Remote | May 28 |
 | **[FirstCall Group](https://firstcallmechanical.com)** | **[Service Intern](https://jobright.ai/jobs/info/6a18f71a6243320e8d169674?utm_campaign=1058&utm_source=git)** | Boston, MA | On Site | May 28 |
 | **[Xometry](https://www.xometry.com)** | **[Customer Support Intern](https://jobright.ai/jobs/info/6a18bb786243320e8d1675dc?utm_campaign=1058&utm_source=git)** | North Bethesda, MD | Hybrid | May 28 |
