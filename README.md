@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Texas Department of Transportation](https://www.txdot.gov)** | **[Intern Support Technician - Digital Print Center](https://jobright.ai/jobs/info/6a19579ec2a87d6cd3df8a8a?utm_campaign=1058&utm_source=git)** | 6230 East Stassney Lane, Austin 78744 | On Site | May 29 |
 | **[NJ Bio, Inc.](https://njbio.com)** | **[Quality Assurance Support Intern](https://jobright.ai/jobs/info/6a1936f4abc8f63abac7f924?utm_campaign=1058&utm_source=git)** | Headquarters- New Jersey - PRINCETON, NJ 08540 | On Site | May 28 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a18ff7f17492d3a389bb828?utm_campaign=1058&utm_source=git)** | 5905 DOLLARWAY RD,PINE BLUFF,AR,71602-03825-21379-S | On Site | May 28 |
+| **[Dream](http://www.dream.ca/)** | **[Intern, Enterprise Applications Support Analyst](https://jobright.ai/jobs/info/6a0657167c753c287f70267e?utm_campaign=1058&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 28 |
 | **[Mercy Medical Center, Baltimore, MD](https://mdmercy.com)** | **[Intern](https://jobright.ai/jobs/info/6a18f5e3abc8f63abac7d87a?utm_campaign=1058&utm_source=git)** | Nottingham, MD | On Site | May 28 |
 | **[Dream](http://www.dream.ca/)** | **[Intern, Technical Support](https://jobright.ai/jobs/info/6a0641847c753c287f701377?utm_campaign=1058&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 28 |
 | **[Baylor College of Medicine](http://www.bcm.edu/)** | **[Intern/Aide - Radiology](https://jobright.ai/jobs/info/6a18f1fa54a441713ae893f4?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | May 28 |
@@ -116,8 +118,8 @@ For a complete list, click the following sortable link below:
 | **[UPMC](https://www.upmc.com/)** | **[Respiratory Care Intern - UPMC Memorial](https://jobright.ai/jobs/info/69deadcdaba61f1417317026?utm_campaign=1058&utm_source=git)** | York, PA | On Site | May 28 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Information Technology Intern](https://jobright.ai/jobs/info/6a185cc66243320e8d163841?utm_campaign=1058&utm_source=git)** | Jacksonville, FL, US | On Site | May 28 |
 | **[Empower AI](https://www.empower.ai/)** | **[EUD Desktop Support Technician (Intern)](https://jobright.ai/jobs/info/6a185c62abc8f63abac7791e?utm_campaign=1058&utm_source=git)** | Alexandria, VA, US | On Site | May 28 |
-| ↳ | **[EUD Desktop Support Technician (Intern)](https://jobright.ai/jobs/info/6a185c62abc8f63abac77922?utm_campaign=1058&utm_source=git)** | Arlington, VA, US | On Site | May 28 |
 | ↳ | **[EUD Desktop Support Technician (Intern)](https://jobright.ai/jobs/info/6a185c62abc8f63abac77920?utm_campaign=1058&utm_source=git)** | US-VA-Alexandria | On Site | May 28 |
+| ↳ | **[EUD Desktop Support Technician (Intern)](https://jobright.ai/jobs/info/6a185c62abc8f63abac77922?utm_campaign=1058&utm_source=git)** | Arlington, VA, US | On Site | May 28 |
 | ↳ | **[EUD Desktop Support Technician (Intern)](https://jobright.ai/jobs/info/6a185c62abc8f63abac77925?utm_campaign=1058&utm_source=git)** | US-VA-Arlington | On Site | May 28 |
 | **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[ServiceNow Intern- Fall 2026](https://jobright.ai/jobs/info/6a185c1f6243320e8d1635a0?utm_campaign=1058&utm_source=git)** | US-Remote | Remote | May 28 |
 | ↳ | **[ServiceNow Intern- Fall 2026](https://jobright.ai/jobs/info/6a185c1e6243320e8d163599?utm_campaign=1058&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | May 28 |
@@ -151,10 +153,8 @@ For a complete list, click the following sortable link below:
 | **[Moore Colson](https://www.moorecolson.com)** | **[IT Help Desk Intern](https://jobright.ai/jobs/info/6a184c35dbc80963f9341914?utm_campaign=1058&utm_source=git)** | Atlanta | On Site | May 28 |
 | **[NYC Department of Health and Mental Hygiene](https://www.nyc.gov/site/doh/index.page)** | **[Document Management summer intern](https://jobright.ai/jobs/info/6a184c226243320e8d16206f?utm_campaign=1058&utm_source=git)** | MANHATTAN | On Site | May 28 |
 | **[Ervin Cable Construction LLC](http://www.ervincable.com/)** | **[Intern](https://jobright.ai/jobs/info/6a18476154a441713ae81f36?utm_campaign=1058&utm_source=git)** | EC253-Kansas City, MO | On Site | May 28 |
-| **[City of New York](http://www1.nyc.gov)** | **[Summer Intern (Records Management)](https://jobright.ai/jobs/info/6a184145abc8f63abac760c9?utm_campaign=1058&utm_source=git)** | New York City, NY | On Site | May 28 |
-| ↳ | **[Document Management summer intern](https://jobright.ai/jobs/info/6a18414517492d3a389b3949?utm_campaign=1058&utm_source=git)** | New York City, NY | On Site | May 28 |
+| **[City of New York](http://www1.nyc.gov)** | **[Document Management summer intern](https://jobright.ai/jobs/info/6a18414517492d3a389b3949?utm_campaign=1058&utm_source=git)** | New York City, NY | On Site | May 28 |
+| ↳ | **[Summer Intern (Records Management)](https://jobright.ai/jobs/info/6a184145abc8f63abac760c9?utm_campaign=1058&utm_source=git)** | New York City, NY | On Site | May 28 |
 | **[Magnet Forensics](http://magnetforensics.com)** | **[Desktop Support Co-op (Fall 2026)](https://jobright.ai/jobs/info/69fbfb7e76c60e7b70af14b4?utm_campaign=1058&utm_source=git)** | Waterloo, Ontario, Canada | Hybrid | May 28 |
 | **[Osceola County School District](http://www.osceolaschools.net/)** | **[Support Staff-Substitute-College Student Intern-Technology Services](https://jobright.ai/jobs/info/6a183a736243320e8d161add?utm_campaign=1058&utm_source=git)** | Kissimmee | On Site | May 28 |
-| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6a183a2aabc8f63abac75ef9?utm_campaign=1058&utm_source=git)** | 10181 W BROWARD BLVD,PLANTATION,FL,33324 | On Site | May 28 |
-| **[AlixPartners](http://www.alixpartners.com)** | **[IT Corporate Applications Intern](https://jobright.ai/jobs/info/6a1832cec2a87d6cd3dee342?utm_campaign=1058&utm_source=git)** | Detroit | On Site | May 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
