@@ -84,10 +84,10 @@ For a complete list, click the following sortable link below:
 | **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/6a187fa86243320e8d164eda?utm_campaign=1058&utm_source=git)** | Concord, CA | On Site | May 28 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Intern I, General](https://jobright.ai/jobs/info/69d5ff13e63cea7a8b6670f1?utm_campaign=1058&utm_source=git)** | Binghamton, NY | On Site | May 28 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Information Technology Intern](https://jobright.ai/jobs/info/6a185cc66243320e8d163841?utm_campaign=1058&utm_source=git)** | Jacksonville, FL, US | On Site | May 28 |
-| **[Empower AI](https://www.empower.ai/)** | **[EUD Desktop Support Technician (Intern)](https://jobright.ai/jobs/info/6a185c62abc8f63abac77920?utm_campaign=1058&utm_source=git)** | US-VA-Alexandria | On Site | May 28 |
-| ↳ | **[EUD Desktop Support Technician (Intern)](https://jobright.ai/jobs/info/6a185c62abc8f63abac7791e?utm_campaign=1058&utm_source=git)** | Alexandria, VA, US | On Site | May 28 |
-| ↳ | **[EUD Desktop Support Technician (Intern)](https://jobright.ai/jobs/info/6a185c62abc8f63abac77925?utm_campaign=1058&utm_source=git)** | US-VA-Arlington | On Site | May 28 |
+| **[Empower AI](https://www.empower.ai/)** | **[EUD Desktop Support Technician (Intern)](https://jobright.ai/jobs/info/6a185c62abc8f63abac7791e?utm_campaign=1058&utm_source=git)** | Alexandria, VA, US | On Site | May 28 |
 | ↳ | **[EUD Desktop Support Technician (Intern)](https://jobright.ai/jobs/info/6a185c62abc8f63abac77922?utm_campaign=1058&utm_source=git)** | Arlington, VA, US | On Site | May 28 |
+| ↳ | **[EUD Desktop Support Technician (Intern)](https://jobright.ai/jobs/info/6a185c62abc8f63abac77920?utm_campaign=1058&utm_source=git)** | US-VA-Alexandria | On Site | May 28 |
+| ↳ | **[EUD Desktop Support Technician (Intern)](https://jobright.ai/jobs/info/6a185c62abc8f63abac77925?utm_campaign=1058&utm_source=git)** | US-VA-Arlington | On Site | May 28 |
 | **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[ServiceNow Intern- Fall 2026](https://jobright.ai/jobs/info/6a185c1f6243320e8d1635a0?utm_campaign=1058&utm_source=git)** | US-Remote | Remote | May 28 |
 | ↳ | **[ServiceNow Intern- Fall 2026](https://jobright.ai/jobs/info/6a185c1e6243320e8d163599?utm_campaign=1058&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | May 28 |
 | **[VytlOne](https://www.vytlone.com)** | **[IT Intern - Part Time](https://jobright.ai/jobs/info/6a185b4eabc8f63abac775a6?utm_campaign=1058&utm_source=git)** | US-TX-Amarillo | On Site | May 28 |
@@ -109,8 +109,8 @@ For a complete list, click the following sortable link below:
 | **[Systel Telecom](http://www.systelgroup.com)** | **[IT Intern](https://jobright.ai/jobs/info/6a185768abc8f63abac76e83?utm_campaign=1058&utm_source=git)** | Sugar Land, TX | On Site | May 28 |
 | **[Selux Corporation](https://www.selux.us)** | **[IT Support Intern](https://jobright.ai/jobs/info/6a1856cf17492d3a389b467a?utm_campaign=1058&utm_source=git)** | Wallkill, NY, US | On Site | May 28 |
 | ↳ | **[IT Support Intern](https://jobright.ai/jobs/info/6a1856ce17492d3a389b4676?utm_campaign=1058&utm_source=git)** | US-NY-Wallkill | On Site | May 28 |
-| **[Viking Packaging](https://vikingpackaging.com/)** | **[IT Support Intern](https://jobright.ai/jobs/info/6a1856bbc2a87d6cd3def524?utm_campaign=1058&utm_source=git)** | Wallkill, NY, US | On Site | May 28 |
-| ↳ | **[IT Support Intern](https://jobright.ai/jobs/info/6a1856bbc2a87d6cd3def525?utm_campaign=1058&utm_source=git)** | US-NY-Wallkill | On Site | May 28 |
+| **[Viking Packaging](https://vikingpackaging.com/)** | **[IT Support Intern](https://jobright.ai/jobs/info/6a1856bbc2a87d6cd3def525?utm_campaign=1058&utm_source=git)** | US-NY-Wallkill | On Site | May 28 |
+| ↳ | **[IT Support Intern](https://jobright.ai/jobs/info/6a1856bbc2a87d6cd3def524?utm_campaign=1058&utm_source=git)** | Wallkill, NY, US | On Site | May 28 |
 | **[Texas Security Bank](http://texassecuritybank.com)** | **[Intern (77643)](https://jobright.ai/jobs/info/6a1855dedbc80963f934229b?utm_campaign=1058&utm_source=git)** | North Dallas - Dallas, TX 75254 | On Site | May 28 |
 | **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/6a18552e6243320e8d1629e0?utm_campaign=1058&utm_source=git)** | 3596 ALPINE AVE NW,WALKER,MI,49544-01659-10351-S | On Site | May 28 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6a1855296243320e8d1629d8?utm_campaign=1058&utm_source=git)** | 1771 HOLTON RD,NORTH MUSKEGON,MI,49445 | On Site | May 28 |
